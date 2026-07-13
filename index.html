@@ -1,459 +1,65 @@
 <!doctype html>
 <html lang="sv">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Fotbollsbriefen 1.0</title>
-<meta name="description" content="Korta och uppdaterade fotbollsnyheter från Europas toppligor.">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Fotbollsbriefen</title>
 <style>
-:root{
-  --bg:#eef2f4;--paper:#fff;--ink:#13202a;--muted:#687680;--line:#dbe2e7;
-  --green:#075f37;--deep:#07301e;--soft:#e8f4ed;--amber:#8a5b0b;--red:#9e2f2f
-}
-*{box-sizing:border-box}
-html{scroll-behavior:smooth}
-body{margin:0;background:var(--bg);color:var(--ink);font-family:Arial,Helvetica,sans-serif}
+:root{--bg:#eef2f4;--paper:#fff;--ink:#13202a;--muted:#687680;--line:#dbe2e7;--green:#075f37;--deep:#07301e}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:Arial,Helvetica,sans-serif}
 header{position:sticky;top:0;z-index:20;background:var(--deep);color:#fff;box-shadow:0 3px 16px #0004}
-.top{max-width:1420px;margin:auto;padding:16px 22px 11px;display:flex;align-items:center;justify-content:space-between;gap:18px;flex-wrap:wrap}
-.brand{display:flex;gap:11px;align-items:center}
-.logo{width:43px;height:43px;border-radius:50%;display:grid;place-items:center;background:#168b50;font-size:23px}
+.top{max-width:1420px;margin:auto;padding:16px 22px 11px;display:flex;gap:18px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+.brand{display:flex;gap:11px;align-items:center}.logo{width:43px;height:43px;border-radius:50%;display:grid;place-items:center;background:#168b50;font-size:23px}
 h1{font-size:29px;line-height:1;margin:0}.tag{font-size:13px;color:#cde8d8;margin-top:5px}
-.actions{display:flex;gap:9px;align-items:center;flex:1;justify-content:flex-end;max-width:720px}
-.search{flex:1;min-width:240px}.search input{width:100%;border:0;border-radius:9px;padding:12px 14px;font-size:15px;outline:none}
-.refresh{border:0;border-radius:9px;padding:12px 15px;background:#fff;color:var(--deep);font-weight:700;cursor:pointer;white-space:nowrap}
-.refresh:disabled{opacity:.65;cursor:wait}.refresh .spin{display:inline-block}.refresh.loading .spin{animation:spin .8s linear infinite}
-@keyframes spin{to{transform:rotate(360deg)}}
+.actions{display:flex;gap:9px;align-items:center;flex:1;justify-content:flex-end;max-width:720px}.search{flex:1;min-width:240px}
+.search input{width:100%;border:0;border-radius:9px;padding:12px 14px;font-size:15px}
+.refresh{border:0;border-radius:9px;padding:12px 15px;background:#fff;color:var(--deep);font-weight:700;cursor:pointer}
 nav{max-width:1420px;margin:auto;padding:0 22px 13px;display:flex;gap:8px;overflow-x:auto}
 .filter{border:1px solid #ffffff35;background:#ffffff12;color:#fff;border-radius:999px;padding:8px 12px;font-size:13px;font-weight:700;white-space:nowrap;cursor:pointer}
 .filter.active,.filter:hover{background:#fff;color:var(--deep)}
-main{max-width:1420px;margin:22px auto;padding:0 22px 42px}
-.intro{display:flex;justify-content:space-between;align-items:end;gap:18px;margin-bottom:12px}
-.intro h2{font-size:25px;margin:0}.updated{font-size:13px;color:var(--muted);text-align:right}
-.notice{display:none;margin:0 0 14px;padding:11px 13px;border-radius:9px;background:#e5f5ec;color:#115f38;font-size:14px;font-weight:700;cursor:pointer}.refreshStatus{min-height:18px;margin:0 0 10px;color:var(--muted);font-size:13px}
+main{max-width:1420px;margin:22px auto;padding:0 22px 42px}.intro{display:flex;justify-content:space-between;align-items:end;gap:18px;margin-bottom:12px}
+.intro h2{font-size:25px;margin:0}.updated{font-size:13px;color:var(--muted)}
 .grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:15px;align-items:start}
-.card{background:var(--paper);border:1px solid var(--line);border-radius:13px;overflow:hidden;box-shadow:0 3px 13px #0000000c;align-self:start}
-.media{height:210px;display:none;background:#f2f4f5;position:relative;overflow:hidden}.media.ready{display:block}
-.media img{width:100%;height:100%;display:block;object-fit:cover;object-position:center 18%}
-.media.logo img{object-fit:contain;object-position:center;padding:16px;background:#fff}.media.stadium img{object-position:center}
-.credit{position:absolute;left:0;right:0;bottom:0;padding:5px 7px;background:#000b;color:#fff;font-size:9px;line-height:1.25}
-.body{padding:15px}.meta{display:flex;gap:7px;align-items:center;flex-wrap:wrap;font-size:12px;color:var(--muted);margin-bottom:8px}
-.badge{padding:4px 8px;border-radius:999px;background:#edf2f4;color:#43515b;font-weight:700}
-.confirmed{background:#e5f5ec;color:#12643b}.credible{background:#fff2d4;color:#7a5009}.developing{background:#fdeaea;color:#8e2d2d}.since{background:#dff3ff;color:#155b7a}.changed{background:#eee7ff;color:#5d3a91}
+.card{background:#fff;border:1px solid var(--line);border-radius:13px;overflow:hidden;box-shadow:0 3px 13px #0000000c}
+.media{height:210px;display:none;background:#f3f5f6}.media.ready{display:block}.media img{width:100%;height:100%;object-fit:cover;object-position:center 18%}
+.body{padding:15px}.meta{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:8px;font-size:12px}.badge{padding:4px 8px;border-radius:999px;background:#edf2f4;font-weight:700}
+.official{background:#e5f5ec;color:#12643b}.credible{background:#fff2d4;color:#7a5009}.reported{background:#fdeaea;color:#8e2d2d}
 .card h3{font-size:20px;line-height:1.24;margin:0 0 8px}.card h3 a{color:var(--ink);text-decoration:none}.card h3 a:hover{color:var(--green);text-decoration:underline}
-.card p{font-size:15px;line-height:1.55;color:#40505c;margin:0 0 14px}
-.source{border-top:1px solid var(--line);padding-top:11px;font-size:13px;color:var(--muted)}
-.source a{color:var(--green);font-weight:700;text-decoration:none}.more{margin-top:9px}
-.timelineBtn{border:0;background:none;color:var(--green);font-weight:700;padding:0;cursor:pointer;font-size:13px}
-.timeline{display:none;margin-top:10px;padding-left:0;list-style:none;border-left:2px solid #dbe6df}
-.timeline.open{display:block}.timeline li{padding:0 0 9px 12px;font-size:12px;line-height:1.4;color:#4d5a64}
-.timeline time{font-weight:700;color:#23313a}
-.empty{display:none;background:#fff;border:1px solid var(--line);border-radius:13px;padding:28px;text-align:center;color:var(--muted)}
+.card p{font-size:15px;line-height:1.55;color:#40505c;margin:0 0 14px}.sources{border-top:1px solid var(--line);padding-top:11px;font-size:13px;color:var(--muted)}
+.sources a{color:var(--green);font-weight:700;text-decoration:none}.empty{display:none;background:#fff;border:1px solid var(--line);border-radius:13px;padding:28px;text-align:center;color:var(--muted)}
 footer{text-align:center;color:#74808a;font-size:13px;padding:24px}
 @media(max-width:1050px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
-@media(max-width:720px){.grid{grid-template-columns:1fr}.actions{max-width:none;width:100%}.search{min-width:0}.intro{align-items:flex-start;flex-direction:column}.updated{text-align:left}.media{height:220px}}
+@media(max-width:720px){.grid{grid-template-columns:1fr}.actions{max-width:none;width:100%}.search{min-width:0}.intro{flex-direction:column;align-items:flex-start}}
 </style>
 </head>
 <body>
-<header>
-<div class="top">
-  <div class="brand"><div class="logo">⚽</div><div><h1>Fotbollsbriefen</h1><div class="tag">Europas fotbollsnyheter – snabbt och kort</div></div></div>
-  <div class="actions">
-    <div class="search"><input id="search" type="search" placeholder="Sök spelare, tränare, klubb eller liga…"></div>
-    <button class="refresh" id="refresh"><span class="spin">↻</span> Uppdatera</button>
-  </div>
-</div>
-<nav>
-  <button class="filter active" data-filter="alla">Alla</button>
-  <button class="filter" data-filter="Premier League">Premier League</button>
-  <button class="filter" data-filter="La Liga">La Liga</button>
-  <button class="filter" data-filter="Serie A">Serie A</button>
-  <button class="filter" data-filter="Bundesliga">Bundesliga</button>
-  <button class="filter" data-filter="Ligue 1">Ligue 1</button>
-  <button class="filter" data-filter="Landslag">Landslag</button>
-  <button class="filter" data-filter="Transfer">Transfers</button>
-  <button class="filter" data-filter="Tränare">Tränare</button>
-  <button class="filter" data-filter="Klubbledning">Klubbledning</button>
-</nav>
-</header>
-
-<main>
-<div class="intro">
-  <h2>Senaste nytt <span id="articleCount" style="font-size:14px;font-weight:normal;color:var(--muted)"></span></h2>
-  <div class="updated" id="updated">Senast uppdaterad: 13 juli 2026</div>
-</div>
-<div class="notice" id="notice"></div>
-<div class="refreshStatus" id="refreshStatus"></div>
-<div class="grid" id="grid"></div>
-<div class="empty" id="empty">Inga nyheter matchar ditt urval.</div>
-</main>
+<header><div class="top"><div class="brand"><div class="logo">⚽</div><div><h1>Fotbollsbriefen</h1><div class="tag">Europas fotbollsnyheter – snabbt och kort</div></div></div>
+<div class="actions"><div class="search"><input id="search" type="search" placeholder="Sök spelare, tränare, klubb eller liga…"></div><button class="refresh" id="refresh">↻ Uppdatera</button></div></div>
+<nav id="filters"></nav></header>
+<main><div class="intro"><h2>Senaste nytt <span id="count" style="font-size:14px;font-weight:normal;color:var(--muted)"></span></h2><div class="updated" id="updated"></div></div>
+<div class="grid" id="grid"></div><div class="empty" id="empty">Inga nyheter matchar ditt urval.</div></main>
 <footer>Fotbollsbriefen · Nyheter från de senaste sju dagarna</footer>
-
 <script>
-const fallbackNews = [
- {date:"2026-07-13",cat:"Premier League Transfer",title:"Manchester United värvar Andrey Santos från Chelsea",text:"Manchester United har värvat den brasilianske mittfältaren Andrey Santos från Chelsea. Han har skrivit kontrakt till sommaren 2031 och övergången uppges vara värd 48 miljoner pund, med ytterligare betalningar möjliga genom bonusar. Affären innebär att United får in en ung central mittfältare med erfarenhet från engelsk och internationell fotboll. För Chelsea innebär övergången att en spelare med begränsad väg till en ordinarie plats lämnar klubben permanent.",source:"Reuters",url:"https://www.reuters.com/sports/soccer/united-sign-brazil-midfielder-santos-chelsea-2026-07-13/",person:"Andrey Santos footballer",fallback:"Old Trafford stadium",status:"confirmed"},
- {date:"2026-07-13",cat:"Premier League Tränare",title:"Andoni Iraola vill se fler Liverpool-värvningar",text:"Liverpools nye tränare Andoni Iraola säger att truppen behöver förstärkas ytterligare inför säsongen 2026/27. Klubben har redan genomfört flera förändringar, men Iraola anser att det fortfarande finns positioner där konkurrensen och bredden behöver förbättras. Uttalandet signalerar att Liverpool inte ser sommarens transferarbete som avslutat. Ytterligare värvningar kan därför bli aktuella innan transferfönstret stänger.",source:"Reuters",url:"https://www.reuters.com/sports/soccer/new-liverpool-boss-iraola-says-club-need-more-signings-ahead-new-season-2026-07-13/",person:"Andoni Iraola",fallback:"Anfield stadium",status:"confirmed"},
- {date:"2026-07-13",cat:"Landslag Tränare",title:"Slaven Bilić återvänder som Kroatiens förbundskapten",text:"Kroatiens fotbollsförbund har utsett Slaven Bilić till ny förbundskapten efter Zlatko Dalićs avgång. Bilić återvänder därmed till ett uppdrag han tidigare hade mellan 2006 och 2012. Han känner både landslaget och den kroatiska fotbollsmiljön väl, men får samtidigt uppgiften att leda ett generationsskifte. Förbundet hoppas att hans erfarenhet ska skapa kontinuitet inför kommande kval och mästerskap.",source:"Reuters",url:"https://www.reuters.com/sports/soccer/bilic-returns-croatia-coach-after-dalics-exit-2026-07-13/",person:"Slaven Bilic",fallback:"Croatia national football team",status:"confirmed"},
- {date:"2026-07-11",cat:"Landslag Tränare Bundesliga",title:"Tyska förbundet förhandlar med Jürgen Klopp",text:"Tyska fotbollsförbundet har inlett formella samtal med Jürgen Klopp om jobbet som förbundskapten. Alla detaljer är ännu inte avslutade, men parterna uppges vara överens om huvuddragen i uppdraget. Klopp skulle i så fall återvända till ett tränarjobb efter sin tid i klubbfotbollen. För Tyskland vore det en profilerad rekrytering med stort fokus på ledarskap, intensitet och långsiktig lagutveckling.",source:"Reuters",url:"https://www.reuters.com/sports/soccer/german-fa-says-it-has-started-talks-with-coach-klopp-national-team-post-2026-07-11/",person:"Jürgen Klopp",fallback:"Germany national football team",status:"credible"},
- {date:"2026-07-11",cat:"La Liga Transfer",title:"Atlético Madrid värvar Morten Hjulmand",text:"Atlético Madrid har värvat den danske mittfältaren Morten Hjulmand från Sporting. Han har skrivit ett femårskontrakt och blir en långsiktig förstärkning centralt på planen. Hjulmand är framför allt känd för sitt positionsspel, sin arbetskapacitet och sin förmåga att vinna tillbaka bollen. Värvningen passar därför väl in i Atléticos intensiva spelstil och ger klubben fler alternativ i det centrala mittfältet.",source:"Reuters",url:"https://www.reuters.com/sports/soccer/atletico-madrid-sign-denmark-midfielder-hjulmand-sporting-2026-07-11/",person:"Morten Hjulmand",fallback:"Metropolitano Stadium Madrid",status:"confirmed"},
- {date:"2026-07-11",cat:"Serie A Landslag Klubbledning",title:"Paolo Maldini blir teknisk direktör för Italien",text:"Italiens fotbollsförbund har anställt Paolo Maldini som teknisk direktör på ett avtal som löper till 2028. Den tidigare landslagskaptenen ska arbeta med den övergripande sportsliga riktningen och delta i processen att utse en ny förbundskapten. Rollen ger Maldini inflytande över både seniorlandslaget och den långsiktiga spelarutvecklingen. Förbundet hoppas att hans erfarenhet från elitfotboll och klubbledning ska bidra till en tydligare struktur.",source:"Reuters",url:"https://www.reuters.com/sports/soccer/maldini-named-technical-director-italian-federation-2026-07-11/",person:"Paolo Maldini",fallback:"Italy national football team",status:"confirmed"},
- {date:"2026-07-10",cat:"Premier League Klubbledning",title:"Michael Edwards lämnar sin fotbollsroll hos FSG",text:"Michael Edwards har lämnat uppdraget som fotbollschef hos Liverpoolägaren Fenway Sports Group. Han har under flera perioder haft en central roll i klubbens rekrytering, sportsliga strategi och långsiktiga planering. Avhoppet innebär därför en betydande förändring bakom kulisserna, även om den dagliga verksamheten fortsätter under den övriga sportledningen. FSG behöver nu besluta hur Edwards ansvar ska fördelas och om en ersättare ska rekryteras.",source:"Reuters",url:"https://www.reuters.com/sports/soccer/edwards-leaves-role-ceo-football-liverpool-owners-fsg-2026-07-10/",person:"Michael Edwards Liverpool",fallback:"Anfield stadium",status:"confirmed"},
- {date:"2026-07-09",cat:"Premier League Transfer",title:"Brentford värvar Callum Wilson",text:"Brentford har skrivit ett ettårskontrakt med anfallaren Callum Wilson, som ansluter utan övergångssumma efter att ha lämnat West Ham. Wilson tillför Premier League-erfarenhet och ger klubben ett mer rutinerat alternativ i anfallet. Det korta avtalet begränsar samtidigt Brentfords ekonomiska risk. Värvningen kan bli särskilt värdefull om klubben vill rotera mer eller behöver täcka upp vid skador under säsongen.",source:"Reuters",url:"https://www.reuters.com/sports/soccer/brentford-sign-striker-callum-wilson-free-transfer-after-west-ham-exit-2026-07-09/",person:"Callum Wilson footballer",fallback:"Brentford Community Stadium",status:"confirmed"},
- {date:"2026-07-09",cat:"Fotbollspolitik",title:"Europeiska spelarfack lämnar FIFA-process",text:"Spelarfack från 17 europeiska länder har dragit tillbaka sitt stöd för en grupptalan mot FIFA efter att parterna nått en överenskommelse om förändringar i transferreglerna. Beslutet innebär att den aktuella rättsliga processen inte drivs vidare av förbunden. Frågan har handlat om spelarnas rättigheter när kontrakt bryts och om hur ekonomiska sanktioner ska utformas. Överenskommelsen kan få betydelse för framtida övergångar och tvister mellan spelare och klubbar.",source:"Reuters",url:"https://www.reuters.com/sports/soccer/european-player-unions-withdraw-fifa-lawsuit-following-transfer-reforms-2026-07-09/",person:"",fallback:"FIFA headquarters",status:"confirmed"},
- {date:"2026-07-08",cat:"Premier League Transfer",title:"Leeds värvar Harry Wilson från Fulham",text:"Leeds har värvat den walesiske landslagsmannen Harry Wilson från Fulham. Han har skrivit ett fyraårskontrakt och blir klubbens första nyförvärv under sommarens transferfönster. Wilson kan spela på flera offensiva positioner och är även ett hot i fasta situationer. Värvningen ger Leeds mer erfarenhet, kreativitet och flexibilitet i offensiven inför den kommande Premier League-säsongen.",source:"Reuters",url:"https://www.reuters.com/sports/soccer/leeds-sign-wilson-fulham-four-year-deal-2026-07-08/",person:"Harry Wilson footballer",fallback:"Elland Road stadium",status:"confirmed"},
- {date:"2026-07-07",cat:"Ligue 1 Tränare",title:"Liam Rosenior tar över Paris FC",text:"Paris FC har utsett Liam Rosenior till ny huvudtränare på ett avtal som löper till juni 2028. Han får ett tydligt långsiktigt mandat att utveckla lagets spel och bygga vidare på klubbens etablering i Ligue 1. Rosenior har tidigare arbetat med både unga spelare och lag som vill spela en passningsorienterad fotboll. Hans första uppgift blir att bedöma truppen och prioritera sommarens rekryteringar.",source:"Reuters",url:"https://www.reuters.com/sports/soccer/former-chelsea-boss-rosenior-appointed-paris-fc-manager-2026-07-07/",person:"Liam Rosenior",fallback:"Paris FC stadium",status:"confirmed"},
- {date:"2026-07-13",cat:"Premier League Transfer",title:"Manchester United bekräftar värvningen av Andrey Santos",text:"Manchester United har på sin officiella webbplats bekräftat att Andrey Santos ansluter från Chelsea, under förutsättning att registreringen slutförs. Den brasilianske landslagsmittfältaren har skrivit ett långt avtal och presenterades samma dag av klubben. Den officiella bekräftelsen kompletterar tidigare uppgifter om övergångssumman och visar att affären nu gått från rapporterad övergång till slutförd värvning.",source:"Manchester United",url:"https://www.manutd.com/en/news/andrey-santos-signs-for-manchester-united",person:"Andrey Santos footballer",fallback:"Old Trafford stadium",status:"confirmed"},
- {date:"2026-07-13",cat:"Serie A Transfer",title:"Paulo Dybala förlänger med Roma",text:"Roma har enligt Gianluca Di Marzios rapportering slutfört förlängningen med Paulo Dybala. Spelarens representant befann sig på Trigoria för att färdigställa de sista detaljerna innan avtalet undertecknades. Förlängningen innebär att Roma behåller en av lagets mest kreativa och profilerade offensiva spelare. Klubben får samtidigt kontinuitet i ett lagbygge där erfarenhet och individuell kvalitet fortsatt är centrala delar.",source:"Gianluca Di Marzio",url:"https://www.gianlucadimarzio.com/calciomercato/",person:"Paulo Dybala",fallback:"Stadio Olimpico Rome",status:"credible"},
- {date:"2026-07-13",cat:"Serie A Transfer",title:"Lazio arbetar för att slutföra värvningen av Danilho Doekhi",text:"Lazio arbetar enligt Gianluca Di Marzio för att nå en slutlig överenskommelse om mittbacken Danilho Doekhi. Ett nytt möte med spelarens klubb väntas bli avgörande för om parterna kan enas om villkoren. Doekhi skulle ge Lazio mer fysik, luftstyrka och konkurrens i mittförsvaret. Affären är ännu inte officiell och ska därför ses som en pågående förhandling.",source:"Gianluca Di Marzio",url:"https://www.gianlucadimarzio.com/calciomercato/",person:"Danilho Doekhi",fallback:"Stadio Olimpico Rome",status:"credible"},
- {date:"2026-07-13",cat:"Serie A Transfer",title:"Inter avvisar Kölns bud på Iddrissou",text:"Inter har enligt Gianluca Di Marzio avvisat ett bud från Köln på den unge anfallaren Matteo Iddrissou. Även Brentford och Wolfsburg uppges följa spelaren. Situationen visar att Inter värderar honom högt och inte vill sälja på nuvarande villkor. Nästa steg blir att se om någon av de intresserade klubbarna återkommer med ett förbättrat erbjudande.",source:"Gianluca Di Marzio",url:"https://www.gianlucadimarzio.com/calciomercato/",person:"Matteo Iddrissou footballer",fallback:"San Siro stadium",status:"credible"},
- {date:"2026-07-12",cat:"Premier League Transfer",title:"Muharemović väljer mellan tre engelska klubbar",text:"Tarik Muharemović väntas enligt Gianluca Di Marzio fatta beslut om sin framtid under veckan. Leeds, Bournemouth och Sunderland finns bland alternativen för försvararen. Intresset från flera engelska klubbar ger hans nuvarande klubb ett starkare förhandlingsläge, samtidigt som spelaren behöver väga möjlig speltid mot klubbarnas sportsliga nivå och långsiktiga planer.",source:"Gianluca Di Marzio",url:"https://www.gianlucadimarzio.com/calciomercato/",person:"Tarik Muharemovic",fallback:"Premier League stadium",status:"credible"},
- {date:"2026-07-11",cat:"La Liga Transfer",title:"Atlético Madrid presenterar Morten Hjulmand",text:"Atlético Madrid har på sin officiella webbplats presenterat Morten Hjulmand som ny spelare. Den danske defensive mittfältaren ansluter från Sporting CP och har skrivit kontrakt till den 30 juni 2031. Klubben lyfter fram hans fysik, bollvinnande förmåga och speluppfattning. Den officiella presentationen bekräftar därmed de tidigare transferuppgifterna.",source:"Atlético Madrid",url:"https://en.atleticodemadrid.com/noticias/welcome-hjulmand",person:"Morten Hjulmand",fallback:"Metropolitano Stadium Madrid",status:"confirmed"},
- {date:"2026-07-11",cat:"Premier League Tränare",title:"Liverpool publicerar Andoni Iraolas första presskonferens",text:"Liverpool har publicerat Andoni Iraolas första presskonferens som klubbens huvudtränare. Där utvecklade han sin syn på truppen, försäsongen och behovet av ytterligare förstärkningar. Uttalandena ger en tydligare bild av hur han vill forma laget och visar att klubbens transferarbete fortsatt är aktivt. Den officiella klubbkällan kompletterar tidigare rapportering från nyhetsmedier.",source:"Liverpool FC",url:"https://www.liverpoolfc.com/news",person:"Andoni Iraola",fallback:"Anfield stadium",status:"confirmed"},
- {date:"2026-07-07",cat:"Ligue 1 Tränare",title:"Paris FC bekräftar Liam Rosenior som ny tränare",text:"Paris FC har på sin officiella webbplats bekräftat att Liam Rosenior blir ny huvudtränare för herrlaget. Han har skrivit kontrakt till juni 2028 och tillträder i samband med lagets återstart av träningen. Klubben beskriver honom som en modern tränare med starkt fokus på spelarutveckling, tydligt ledarskap och offensiv fotboll.",source:"Paris FC",url:"https://parisfc.fr/equipe-pro/le-paris-fc-ouvre-un-nouveau-chapitre-de-son-projet-avec-la-nomination-de-liam-rosenior/",person:"Liam Rosenior",fallback:"Paris FC stadium",status:"confirmed"},
- {date:"2026-07-13",cat:"Premier League Transfer",title:"Fabrizio Romano: Éderson blir kvar i Atalanta",text:"Fabrizio Romano uppger att den brasilianske mittfältaren Éderson inte kommer att ansluta till Manchester United. Atalanta har i stället erbjudit honom ett nytt kontrakt till sommaren 2031, och fortsatta förhandlingar väntar. Uppgiften innebär att United behöver gå vidare med andra alternativ på det centrala mittfältet. För Atalanta är målet att behålla en av lagets viktigaste spelare och samtidigt stärka klubbens position inför framtida bud.",source:"Fabrizio Romano",url:"https://x.com/FabrizioRomano",person:"Éderson Atalanta footballer",fallback:"Gewiss Stadium Bergamo",status:"credible"},
- {date:"2026-07-12",cat:"Transfer",title:"Fabrizio Romano: Omar Touré klar för Watford",text:"Fabrizio Romano rapporterar att Watford har nått en överenskommelse med försvararen Omar Touré, som ansluter från Heidenheim utan övergångssumma. Kontraktet ska löpa till juni 2029. Touré väntas resa till London för att genomföra de sista stegen innan presentationen. Värvningen ger Watford ytterligare ett alternativ i försvaret och innebär en förhållandevis låg ekonomisk risk eftersom ingen transfersumma betalas.",source:"Fabrizio Romano",url:"https://x.com/FabrizioRomano/status/2075713642415231002",person:"Omar Toure footballer Heidenheim",fallback:"Vicarage Road stadium",status:"credible"},
- {date:"2026-07-11",cat:"Serie A Transfer",title:"Fabrizio Romano: Torino får bud på Ben Nelson avvisat",text:"Torino har enligt Fabrizio Romano lämnat ett formellt bud på Leicesterförsvararen Ben Nelson, men erbjudandet har avvisats. Nelson uppges vilja lämna klubben och har tackat nej till ett nytt kontrakt. Leicester behöver därför avgöra om klubben ska höja sina krav eller riskera att spelarens marknadsvärde sjunker när avtalet närmar sig sitt slut. Förhandlingarna kan fortsätta om Torino återkommer med ett förbättrat bud.",source:"Fabrizio Romano",url:"https://x.com/FabrizioRomano/status/2075585940593004962",person:"Ben Nelson Leicester footballer",fallback:"King Power Stadium",status:"credible"},
- {date:"2026-07-11",cat:"Premier League Transfer",title:"Manchester City värvar Jeremy Monga från Leicester",text:"Manchester City har slutfört värvningen av den 17-årige yttern Jeremy Monga från Leicester. David Ornstein rapporterade först att klubbarna nått en överenskommelse, och affären har därefter bekräftats. Monga räknas som en av Englands mest lovande unga offensiva spelare och har redan erfarenhet från seniorfotboll. City ser värvningen som en långsiktig investering med möjlighet till gradvis utveckling i klubbens elitmiljö.",source:"David Ornstein / The Athletic",url:"https://x.com/David_Ornstein",person:"Jeremy Monga footballer",fallback:"Etihad Stadium Manchester",status:"confirmed"},
- {date:"2026-07-11",cat:"Premier League Transfer",title:"Manchester City bekräftar värvningen av Jeremy Monga",text:"Manchester City har officiellt presenterat Jeremy Monga efter övergången från Leicester City. Den 17-årige yttern ansluter efter att ha gjort tidig debut i både Premier League och Championship. Klubben lyfter fram hans snabbhet, teknik och utvecklingspotential. Den officiella presentationen bekräftar den överenskommelse som David Ornstein tidigare rapporterade om och gör att samma nyhet nu kan betraktas som helt slutförd.",source:"Manchester City",url:"https://www.mancity.com/news/mens",person:"Jeremy Monga footballer",fallback:"Etihad Stadium Manchester",status:"confirmed"},
- {date:"2026-07-11",cat:"Premier League",title:"Simon Stone: Manchester United avstår från EFL Trophy",text:"Manchester United kommer enligt Simon Stone på BBC Sport inte att anmäla sitt U21-lag till EFL Trophy nästa säsong. Beslutet påverkar utvecklingslagets matchprogram och innebär att klubben väljer andra former av tävlings- och träningsmatcher för sina yngre spelare. EFL Trophy används annars av flera Premier League-klubbar för att ge akademispelare erfarenhet mot seniorlag från de lägre divisionerna.",source:"Simon Stone / BBC Sport",url:"https://www.bbc.com/sport/football",person:"Simon Stone BBC football",fallback:"Old Trafford stadium",status:"confirmed"},
- {date:"2026-07-10",cat:"Premier League Transfer",title:"David Ornstein: Manchester City når avtal om Jeremy Monga",text:"David Ornstein rapporterade att Manchester City nått en överenskommelse med Leicester om Jeremy Monga. Den unge yttern hade även intresse från andra engelska storklubbar, men City gick vidare med en affär som kombinerar en fast ersättning med möjliga tillägg. Uppgiften blev senare bekräftad genom klubbens presentation. Händelseförloppet visar hur en exklusiv journalistuppgift utvecklades till en officiell övergång.",source:"David Ornstein / The Athletic",url:"https://x.com/David_Ornstein/status/2065536895719809530",person:"Jeremy Monga footballer",fallback:"Etihad Stadium Manchester",status:"confirmed"},
- {date:"2026-07-13",cat:"Serie A Transfer",title:"Venezia nära att värva Akor Adams från Sevilla",text:"Venezia är enligt Gianluca Di Marzio nära att slutföra värvningen av anfallaren Akor Adams från Sevilla. Parterna arbetar med de sista detaljerna och affären uppges vara på väg att stängas. Adams skulle ge Venezia mer fysisk styrka och djupledsspel i anfallet. Nyheten är ännu inte officiellt bekräftad av klubbarna och bör därför betraktas som en långt gången förhandling.",source:"Gianluca Di Marzio",url:"https://www.gianlucadimarzio.com/calciomercato/",person:"Akor Adams footballer",fallback:"Stadio Pier Luigi Penzo",status:"credible"},
- {date:"2026-07-13",cat:"Ligue 1 La Liga Transfer",title:"PSG når principöverenskommelse med Ferran Torres",text:"Paris Saint-Germain har enligt Gianluca Di Marzio nått en grundläggande överenskommelse med Ferran Torres om de personliga villkoren. Nästa steg blir förhandlingar med Barcelona efter VM. Torres kan användas både centralt och på kanten och skulle ge PSG ytterligare flexibilitet i offensiven. Eftersom klubbarna ännu inte är överens är övergången inte klar, men spelarens positiva inställning gör att processen kan gå snabbare.",source:"Gianluca Di Marzio",url:"https://www.gianlucadimarzio.com/calciomercato/",person:"Ferran Torres",fallback:"Parc des Princes stadium",status:"credible"},
- {date:"2026-07-13",cat:"Serie A Transfer",title:"Cagliari nära Harry Winks",text:"Cagliari är enligt Gianluca Di Marzio nära att slutföra en affär för Harry Winks från Leicester City. Den engelske mittfältaren skulle tillföra passningssäkerhet, erfarenhet och kontroll i det centrala spelet. För Leicester kan en försäljning frigöra löneutrymme och ge möjlighet att forma om truppen. De sista avtalsdetaljerna återstår innan klubbarna kan presentera övergången officiellt.",source:"Gianluca Di Marzio",url:"https://www.gianlucadimarzio.com/calciomercato/",person:"Harry Winks",fallback:"Unipol Domus stadium",status:"credible"},
- {date:"2026-07-13",cat:"Serie A Transfer",title:"Lazio följer Luka Stojković",text:"Lazio har enligt Gianluca Di Marzio visat ett tydligt intresse för Dinamo Zagrebs offensiva mittfältare Luka Stojković. Klubben studerar villkoren för en möjlig affär och bedömer hur spelaren skulle passa in i truppen. Stojković är en teknisk och kreativ spelare som kan användas mellan mittfält och anfall. Något formellt avtal finns ännu inte, vilket gör detta till en tidig men relevant transferuppgift.",source:"Gianluca Di Marzio",url:"https://www.gianlucadimarzio.com/calciomercato/",person:"Luka Stojkovic Dinamo Zagreb footballer",fallback:"Stadio Olimpico Rome",status:"credible"},
- {date:"2026-07-13",cat:"Premier League Serie A Transfer",title:"Nottingham Forest kontaktar Fiorentina om Dodô",text:"Nottingham Forest har enligt Gianluca Di Marzio tagit kontakt med Fiorentina om högerbacken Dodô. Den engelska klubben undersöker både spelarens intresse och vilka ekonomiska villkor Fiorentina skulle kräva. Dodô har erfarenhet från europeiskt cupspel och är känd för sin offensiva löpstyrka. Kontakten är ett första konkret steg, men förhandlingarna befinner sig fortfarande i ett tidigt skede.",source:"Gianluca Di Marzio",url:"https://www.gianlucadimarzio.com/calciomercato/",person:"Dodo Fiorentina footballer",fallback:"City Ground Nottingham",status:"credible"},
- {date:"2026-07-13",cat:"Serie A Transfer",title:"Roma undersöker lån av Alejandro Garnacho",text:"Roma har enligt Gianluca Di Marzio undersökt möjligheten att låna Alejandro Garnacho från Chelsea. Parterna uppges dock stå en bit ifrån varandra när det gäller villkor och kostnader. Garnacho skulle ge Roma mer fart och individuell kvalitet på kanten, men Chelsea behöver avgöra om klubben kan acceptera ett lån eller föredrar en permanent försäljning. Förhandlingarna är därför långt ifrån avslutade.",source:"Gianluca Di Marzio",url:"https://www.gianlucadimarzio.com/calciomercato/",person:"Alejandro Garnacho",fallback:"Stadio Olimpico Rome",status:"credible"},
- {date:"2026-07-11",cat:"Premier League Transfer",title:"Manchester City slår Arsenal i kampen om Jeremy Monga",text:"Manchester City har värvat Jeremy Monga från Leicester efter konkurrens från Arsenal. Enligt The Guardian uppgår den fasta ersättningen till omkring 12,5 miljoner pund. Monga debuterade mycket tidigt i seniorfotbollen och ses som en spelare med stor framtida potential. Citys tidigare kopplingar till Leicester och tränarstabens kännedom om spelaren ska ha haft betydelse för hans val.",source:"The Guardian",url:"https://www.theguardian.com/football/2026/jul/11/manchester-city-beat-arsenal-to-signing-of-17-year-old-jeremy-monga-from-leicester",person:"Jeremy Monga footballer",fallback:"Etihad Stadium Manchester",status:"confirmed"},
- {date:"2026-07-10",cat:"Serie A Transfer",title:"Leicester kräver mer för Ben Nelson efter Torinos bud",text:"Leicester har avvisat Torinos första bud på mittbacken Ben Nelson och uppges värdera spelaren betydligt högre. Nelson vill lämna och har avböjt en kontraktsförlängning, vilket skapar press på klubben att hitta en lösning under transferfönstret. Torino kan återkomma med ett nytt erbjudande, samtidigt som andra klubbar följer situationen.",source:"Yahoo Sports",url:"https://sports.yahoo.com/articles/leicester-insulted-low-transfer-bid-163200352.html",person:"Ben Nelson Leicester footballer",fallback:"King Power Stadium",status:"credible"},
- {date:"2026-07-13",cat:"Premier League Transfer",title:"Fabrizio Romano: Manchester United bokar läkarundersökning för Youri Tielemans",text:"Fabrizio Romano uppger att Manchester United har bokat en läkarundersökning för Youri Tielemans efter att klubben aktiverat en utköpsklausul på omkring 41 miljoner euro. Den belgiske mittfältaren skulle tillföra erfarenhet, passningskvalitet och flexibilitet centralt på planen. Så länge läkarundersökningen och de sista avtalsdetaljerna återstår är affären ännu inte formellt presenterad, men uppgiften tyder på att övergången befinner sig i slutfasen.",source:"Fabrizio Romano",url:"https://x.com/FabrizioRomano/status/2076617108184617262",person:"Youri Tielemans",fallback:"Old Trafford stadium",status:"credible"},
- {date:"2026-07-13",cat:"Premier League Transfer",title:"David Ornstein: Aston Villa slutför affären för Johan Manzambi",text:"David Ornstein rapporterar att Aston Villa håller på att slutföra värvningen av Johan Manzambi från Freiburg. Mittfältaren har varit föremål för intresse från flera engelska klubbar, men Villa uppges ha gått längst i processen. Affären skulle ge klubben en ung, fysisk och utvecklingsbar mittfältare med erfarenhet från Bundesliga. De sista detaljerna återstår innan övergången kan presenteras officiellt.",source:"David Ornstein / The Athletic",url:"https://x.com/David_Ornstein",person:"Johan Manzambi",fallback:"Villa Park stadium",status:"credible"},
- {date:"2026-07-12",cat:"Premier League Transfer",title:"Simon Stone: Manchester United nära affär för Mateus Fernandes",text:"Simon Stone rapporterar att Manchester United väntar på klarhet kring Mateus Fernandes efter ett formellt bud. Mittfältarens framtid kan avgöras när den säljande klubben tar ställning till erbjudandet. Fernandes ses som en spelare som kan ge mer energi och bolltransport centralt. Uppgiften är ännu inte en bekräftad övergång, men ett formellt bud innebär att intresset har gått vidare från sondering till konkret förhandling.",source:"Simon Stone / BBC Sport",url:"https://x.com/sistoney67/status/2071923401212518563",person:"Mateus Fernandes footballer",fallback:"Old Trafford stadium",status:"credible"},
- {date:"2026-07-10",cat:"Premier League Transfer",title:"Simon Stone: Manchester Uniteds Éderson-affär osäker",text:"Simon Stone uppger att Manchester Uniteds försök att värva Éderson från Atalanta har blivit mer osäkert. Det finns frågetecken kring både spelarens framtid och klubbarnas möjligheter att hitta en ekonomisk lösning. United behöver därför hålla andra mittfältsalternativ öppna. För Atalanta kan ett nytt kontrakt eller ett högre bud bli avgörande för om spelaren stannar eller lämnar.",source:"Simon Stone / BBC Sport",url:"https://x.com/sistoney67/status/2075818852357714001",person:"Éderson Atalanta footballer",fallback:"Old Trafford stadium",status:"credible"},
- {date:"2026-07-13",cat:"Transfer",title:"Fabrizio Romano: Francisco Trincão klar för Al Ahli",text:"Fabrizio Romano rapporterar att Al Ahli har nått en fullständig överenskommelse med Sporting om Francisco Trincão. Den fasta transfersumman uppges vara 45 miljoner dollar och dokumenten håller på att färdigställas. Trincão lämnar därmed portugisisk fotboll för en ny roll i Saudiarabien. Affären innebär samtidigt en betydande försäljningsintäkt för Sporting och kan påverka klubbens fortsatta transferarbete.",source:"Fabrizio Romano",url:"https://x.com/FabrizioRomano",person:"Francisco Trincao",fallback:"Sporting CP stadium",status:"credible"},
- {date:"2026-07-13",cat:"La Liga Transfer",title:"Fabrizio Romano: Barcelona överens om Karim Adeyemi",text:"Fabrizio Romano uppger att Barcelona har nått en klubböverenskommelse om Karim Adeyemi. Den rapporterade affären omfattar 22 miljoner euro i fast ersättning och upp till sju miljoner i bonusar kopplade till prestationer och titlar. Adeyemi skulle ge Barcelona mer snabbhet och djupledshot i offensiven. Övergången är inte helt färdig förrän personliga villkor, läkarundersökning och registrering har slutförts.",source:"Fabrizio Romano",url:"https://x.com/FabrizioRomano/status/2075613070982836258",person:"Karim Adeyemi",fallback:"Camp Nou stadium",status:"credible"},
- {date:"2026-07-13",cat:"Premier League Transfer",title:"Fabrizio Romano: Newcastle värvar Kyran Thompson från Arsenal",text:"Fabrizio Romano rapporterar att Newcastle har nått en överenskommelse om att värva den engelske U17-yttern Kyran Thompson från Arsenals akademi. Affären ses som en långsiktig investering snarare än en omedelbar förstärkning av startelvan. Newcastle fortsätter därmed att bygga sin ungdomsverksamhet med spelare från konkurrerande elitakademier. De sista administrativa stegen återstår innan övergången kan registreras.",source:"Fabrizio Romano",url:"https://x.com/FabrizioRomano/status/2076372286144172161",person:"Kyran Thompson Arsenal footballer",fallback:"St James Park stadium",status:"credible"},
- {date:"2026-07-09",cat:"Premier League Transfer",title:"Fabrizio Romano: Cádiz lånar Antonio Cordero från Newcastle",text:"Cádiz har enligt Fabrizio Romano nått en överenskommelse med Newcastle om ett nytt lån för Antonio Cordero. Den unge yttern får därmed möjlighet till regelbunden seniorfotboll i Spanien. För Newcastle är lösningen ett sätt att fortsätta spelarens utveckling utan att sälja honom permanent. Lånet väntas gälla hela säsongen och ge Cádiz ytterligare fart och kreativitet i offensiven.",source:"Fabrizio Romano",url:"https://x.com/FabrizioRomano/status/2074585234532614563",person:"Antonio Cordero footballer",fallback:"Estadio Nuevo Mirandilla",status:"credible"},
- {date:"2026-07-13",cat:"Serie A Transfer",title:"Roma bekräftar Paulo Dybalas kontraktsförlängning",text:"Roma har bekräftat att Paulo Dybala har skrivit på ett nytt kontrakt. Förlängningen innebär att klubben behåller en av lagets mest kreativa och profilerade offensiva spelare. Gianluca Di Marzio rapporterade tidigare under dagen att agenten befann sig på Trigoria för att slutföra detaljerna. När klubben nu gjort beskedet officiellt går nyheten från långt gången förhandling till bekräftad förlängning.",source:"Gianluca Di Marzio",url:"https://www.gianlucadimarzio.com/calciomercato/",person:"Paulo Dybala",fallback:"Stadio Olimpico Rome",status:"confirmed"},
- {date:"2026-07-13",cat:"Serie A Transfer",title:"Khalailis övergång till Inter stoppas efter medicinsk bedömning",text:"Gianluca Di Marzio rapporterar att Anan Khalailis planerade övergång till Inter har stoppats sedan spelaren inte fått medicinskt godkännande. Inter hade arbetat med affären under flera dagar och spelaren hade uttryckt en tydlig vilja att ansluta. Den medicinska bedömningen innebär att klubben nu behöver gå vidare med andra alternativ på positionen. Händelsen visar hur en långt gången transfer kan falla även efter att ekonomiska villkor i princip diskuterats färdigt.",source:"Gianluca Di Marzio",url:"https://www.gianlucadimarzio.com/calciomercato/",person:"Anan Khalaili footballer",fallback:"San Siro stadium",status:"confirmed"},
- {date:"2026-07-13",cat:"Serie A Transfer",title:"Fiorentina säljer Conrad Harder till Basel",text:"Fiorentina har enligt Gianluca Di Marzio slutfört försäljningen av Conrad Harder till Basel. Övergången ger den unge anfallaren möjlighet till mer regelbunden speltid och en tydligare roll. Basel får samtidigt en utvecklingsbar offensiv spelare med erfarenhet från italiensk fotboll. Affären är ett exempel på hur Serie A-klubbar använder transferfönstret för att frigöra trupputrymme och omplacera yngre spelare.",source:"Gianluca Di Marzio",url:"https://www.gianlucadimarzio.com/calciomercato/",person:"Conrad Harder footballer",fallback:"Stadio Artemio Franchi",status:"confirmed"},
- {date:"2026-07-13",cat:"Serie A Transfer",title:"Pisa bokar läkarundersökning för Leone",text:"Pisa väntas enligt Gianluca Di Marzio genomföra läkarundersökningen för Leone innan kontraktet undertecknas. Affären befinner sig därmed i ett sent skede, men blir inte helt klar förrän de medicinska kontrollerna och dokumenten är färdiga. Pisa arbetar aktivt med att förstärka truppen inför säsongen och ser spelaren som en del av den fortsatta uppbyggnaden. En officiell presentation kan följa kort efter godkänd undersökning.",source:"Gianluca Di Marzio",url:"https://www.gianlucadimarzio.com/calciomercato/",person:"Leone footballer Pisa",fallback:"Arena Garibaldi Pisa",status:"credible"},
- {date:"2026-07-09",cat:"Serie A Transfer",title:"Venezia värvar Alejandro Gomes Furtado",text:"Venezia har bekräftat värvningen av försvararen Alejandro Gomes Furtado från Real Zaragoza. Spelaren ansluter permanent och ska nu anpassa sig till italiensk fotboll och Serie A. Klubben får en ung försvarare med utvecklingspotential och möjlighet att användas över flera säsonger. Övergången ingick i Gianluca Di Marzios löpande rapportering om den italienska transfermarknaden.",source:"Gianluca Di Marzio",url:"https://www.gianlucadimarzio.com/calciomercato/calciomercato-live-notizie-9-luglio-2026-494588",person:"Alejandro Gomes Furtado footballer",fallback:"Stadio Pier Luigi Penzo",status:"confirmed"},
- {date:"2026-07-08",cat:"Serie A Transfer",title:"Südtirol lånar Niklas Pyyhtiä från Bologna",text:"Südtirol har enligt Gianluca Di Marzio slutfört lånet av Niklas Pyyhtiä från Bologna. Mittfältaren kommer från en säsong där han fick regelbunden speltid i Modena och får nu möjlighet att fortsätta sin utveckling i Serie B. Bologna behåller spelarens rättigheter medan Südtirol får en ung mittfältare med erfarenhet från italiensk seniorfotboll.",source:"Gianluca Di Marzio",url:"https://www.gianlucadimarzio.com/calciomercato/calciomercato-live-notizie-giornata-8-luglio-2026-494542",person:"Niklas Pyyhtia footballer",fallback:"Stadio Druso Bolzano",status:"confirmed"}
-];
-
-const sourceWeight = {
- "Official":100,"Manchester United":100,"Liverpool FC":100,"Atlético Madrid":100,"Paris FC":100,"Inter":100,"Roma":100,"Reuters":95,"BBC Sport":94,"Simon Stone / BBC Sport":94,"David Ornstein / The Athletic":94,
- "The Athletic":93,"Fabrizio Romano":90,"Gianluca Di Marzio":89,"Sky Sport Italia":89,
- "Sky Sports":86,"The Guardian":82
-};
-
-const feedConfigs = [
- {type:"google",query:'"David Ornstein" football transfer when:7d',sourceOverride:"David Ornstein / The Athletic"},
- {type:"google",query:'site:nytimes.com/athletic/football "David Ornstein" when:7d',sourceOverride:"David Ornstein / The Athletic"},
- {type:"google",query:'"Fabrizio Romano" football transfer when:7d',sourceOverride:"Fabrizio Romano"},
- {type:"google",query:'site:gianlucadimarzio.com calciomercato when:7d',sourceOverride:"Gianluca Di Marzio"},
- {type:"google",query:'"Simon Stone" football when:7d',sourceOverride:"Simon Stone / BBC Sport"},
- {type:"direct",url:"https://feeds.bbci.co.uk/sport/football/rss.xml",sourceOverride:"BBC Sport"},
- {type:"google",query:'site:bbc.com/sport/football transfer manager when:7d',sourceOverride:"BBC Sport"},
- {type:"google",query:'site:skysports.com/football transfer when:7d',sourceOverride:"Sky Sports"},
- {type:"google",query:'site:theguardian.com/football transfer manager when:7d',sourceOverride:"The Guardian"},
- {type:"google",query:'site:espn.com/soccer transfer manager when:7d',sourceOverride:"ESPN"},
- {type:"google",query:'site:football-italia.net transfer when:7d',sourceOverride:"Football Italia"},
- {type:"google",query:'site:kicker.de fussball transfer trainer when:7d',sourceOverride:"Kicker"},
- {type:"google",query:'site:lequipe.fr/Football transfer entraineur when:7d',sourceOverride:"L'Équipe"},
- {type:"google",query:'site:marca.com/futbol fichajes entrenador when:7d',sourceOverride:"Marca"},
- {type:"google",query:'site:as.com/futbol fichajes entrenador when:7d',sourceOverride:"AS"},
- {type:"google",query:'site:mundodeportivo.com/futbol fichajes when:7d',sourceOverride:"Mundo Deportivo"},
- {type:"google",query:'site:rmcsport.bfmtv.com/football mercato when:7d',sourceOverride:"RMC Sport"},
- {type:"google",query:'site:manutd.com/en/news football when:7d',sourceOverride:"Manchester United"},
- {type:"google",query:'site:liverpoolfc.com/news football when:7d',sourceOverride:"Liverpool FC"},
- {type:"google",query:'site:arsenal.com/news football when:7d',sourceOverride:"Arsenal"},
- {type:"google",query:'site:chelseafc.com/en/news football when:7d',sourceOverride:"Chelsea"},
- {type:"google",query:'site:mancity.com/news/mens football when:7d',sourceOverride:"Manchester City"},
- {type:"google",query:'site:fcbarcelona.com/en/football/first-team/news when:7d',sourceOverride:"FC Barcelona"},
- {type:"google",query:'site:realmadrid.com/en-US/news/football when:7d',sourceOverride:"Real Madrid"},
- {type:"google",query:'site:inter.it/en/news football when:7d',sourceOverride:"Inter"},
- {type:"google",query:'site:acmilan.com/en/news football when:7d',sourceOverride:"AC Milan"},
- {type:"google",query:'site:juventus.com/en/news football when:7d',sourceOverride:"Juventus"},
- {type:"google",query:'site:fcbayern.com/en/news football when:7d',sourceOverride:"Bayern München"},
- {type:"google",query:'site:bvb.de/eng/News football when:7d',sourceOverride:"Borussia Dortmund"},
- {type:"google",query:'site:psg.fr/equipes/equipe-premiere/actualite when:7d',sourceOverride:"Paris Saint-Germain"},
- {type:"google",query:'"Premier League" football transfer OR manager when:7d'},
- {type:"google",query:'"La Liga" football transfer OR manager when:7d'},
- {type:"google",query:'"Serie A" football transfer OR manager when:7d'},
- {type:"google",query:'Bundesliga football transfer OR coach when:7d'},
- {type:"google",query:'"Ligue 1" football transfer OR manager when:7d'}
-];
-
-const proxy = url => 'https://api.allorigins.win/raw?url='+encodeURIComponent(url);
-let news=[...fallbackNews], pendingNews=[], active='alla';
-const LAST_VISIT_KEY='fb_last_visit_v1';
-const STORY_STATE_KEY='fb_story_state_v1';
-const previousVisit=localStorage.getItem(LAST_VISIT_KEY);
-let previousStoryState={};
-try{previousStoryState=JSON.parse(localStorage.getItem(STORY_STATE_KEY)||'{}')}catch(e){}
-
-
-function fmtDate(d){return new Date(d+'T12:00:00').toLocaleDateString('sv-SE',{day:'numeric',month:'long'})}
-function escapeHtml(s=''){return s.replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m]))}
-function stripHtml(s=''){const d=document.createElement('div');d.innerHTML=s;return (d.textContent||'').replace(/\s+/g,' ').trim()}
-function sourceFromTitle(t=''){const m=t.match(/ - ([^-]+)$/);return m?m[1].trim():'Nyhetskälla'}
-function cleanTitle(t=''){return t.replace(/ - [^-]+$/,'').trim()}
-function normalizeTitle(t=''){
- return t.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'')
-  .replace(/\b(fc|football|soccer|report|reports|says|according|exclusive|latest)\b/g,'')
-  .replace(/[^a-z0-9 ]/g,' ').replace(/\s+/g,' ').trim();
-}
-
-function storyId(n){return normalizeTitle(n.title).slice(0,140)}
-function storyFingerprint(n){
- return (normalizeTitle(n.title)+'|'+(n.text||'').toLowerCase().replace(/\s+/g,' ').trim()+'|'+
-  ((n.sources||[]).map(x=>x.name).sort().join(','))).slice(0,1200);
-}
-function isNewSinceLast(n){
- if(!previousVisit)return false;
- return new Date(n.date+'T23:59:59').getTime()>new Date(previousVisit).getTime();
-}
-function isUpdatedStory(n){
- const old=previousStoryState[storyId(n)];
- return !!old && old!==storyFingerprint(n);
-}
-function guessCat(t=''){
- const x=t.toLowerCase(),c=[];
- if(/manchester|liverpool|arsenal|chelsea|tottenham|newcastle|aston villa|premier league/.test(x))c.push('Premier League');
- if(/barcelona|real madrid|atletico|la liga/.test(x))c.push('La Liga');
- if(/juventus|milan|inter|napoli|serie a/.test(x))c.push('Serie A');
- if(/bayern|dortmund|leverkusen|bundesliga/.test(x))c.push('Bundesliga');
- if(/psg|marseille|monaco|strasbourg|ligue 1/.test(x))c.push('Ligue 1');
- if(/transfer|sign|signing|move|deal|bid|joins|värv/.test(x))c.push('Transfer');
- if(/manager|coach|head coach|tränare|boss/.test(x))c.push('Tränare');
- if(/director|sporting director|chief executive|sportchef/.test(x))c.push('Klubbledning');
- return c.join(' ')||'Fotboll';
-}
-function isResultStory(t=''){return /\b(vs|score|result|highlights|table|standings|beat|defeat|win over|draw with|match report|final score)\b/i.test(t)}
-function statusForGroup(group){
- if(group.some(x=>/official|club|reuters|bbc/i.test(x.source)))return 'confirmed';
- if(group.some(x=>/ornstein|athletic|romano|di marzio|simon stone|sky sport/i.test(x.source)))return 'credible';
- return 'developing';
-}
-function statusLabel(s){return s==='confirmed'?'Bekräftat':s==='credible'?'Mycket trovärdigt':'Under utveckling'}
-function mergeGroups(items){
- const groups=[];
- [...items].sort((a,b)=>(sourceWeight[b.source]||50)-(sourceWeight[a.source]||50)).forEach(item=>{
-  const keyWords=normalizeTitle(item.title).split(' ').filter(w=>w.length>4);
-  let group=groups.find(g=>{
-    const gw=normalizeTitle(g[0].title).split(' ');
-    const overlap=keyWords.filter(w=>gw.includes(w)).length;
-    const samePerson=item.person && g[0].person &&
-      normalizeTitle(item.person)===normalizeTitle(g[0].person);
-    return samePerson || overlap>=Math.min(3,Math.max(2,keyWords.length-1));
-  });
-  if(group)group.push(item);else groups.push([item]);
- });
- return groups.map(group=>{
-  group.sort((a,b)=>(sourceWeight[b.source]||50)-(sourceWeight[a.source]||50));
-  const lead={...group[0]};
-  lead.sources=group.map(x=>({name:x.source,url:x.url,date:x.date,title:x.title}));
-  lead.status=statusForGroup(group);
-  if(group.length>1){
-    const additions=group.slice(1).map(x=>x.text).filter(Boolean);
-    const sentences=[];
-    [lead.text,...additions].join(' ').split(/(?<=[.!?])\s+/).forEach(s=>{
-      const key=s.toLowerCase().replace(/[^a-zåäö0-9 ]/g,'').slice(0,100);
-      if(s.length>25 && !sentences.some(x=>x.key===key))sentences.push({key,text:s});
-    });
-    lead.text=sentences.map(x=>x.text).join(' ').replace(/\s+/g,' ').slice(0,1050);
-  }
-  return lead;
- });
-}
+const FILTERS=["Alla","Premier League","La Liga","Serie A","Bundesliga","Ligue 1","Landslag","Transfer","Tränare"];
+let data={items:[]},active="Alla";
+const esc=s=>String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]));
+function statusClass(s){if(/officiellt|bekräftat/i.test(s))return"official";if(/trovärdigt/i.test(s))return"credible";return"reported"}
+function fmtDate(s){return new Date(s).toLocaleDateString("sv-SE",{day:"numeric",month:"long"})}
+function renderFilters(){const n=document.getElementById("filters");n.innerHTML=FILTERS.map(f=>`<button class="filter ${f===active?"active":""}" data-f="${esc(f)}">${esc(f)}</button>`).join("");n.querySelectorAll("button").forEach(b=>b.onclick=()=>{active=b.dataset.f;renderFilters();render()})}
 function render(){
- const q=document.getElementById('search').value.trim().toLowerCase();
- const grid=document.getElementById('grid');grid.innerHTML='';let shown=0;
- const grouped=mergeGroups(news).sort((a,b)=>new Date(b.date)-new Date(a.date));
- grouped.forEach(n=>{
-  const f=active==='alla'||n.cat.toLowerCase().includes(active.toLowerCase());
-  const s=!q||(n.title+' '+n.text+' '+n.cat+' '+n.sources.map(x=>x.name).join(' ')).toLowerCase().includes(q);
-  if(!f||!s)return;shown++;
-  const cls=n.status==='confirmed'?'confirmed':n.status==='credible'?'credible':'developing';
-  const sources=[...new Map(n.sources.map(x=>[x.name,x])).values()].map(x=>`<a href="${escapeHtml(x.url)}" target="_blank" rel="noopener">${escapeHtml(x.name)}</a>`).join(' · ');
-  const timeline=n.sources.length>1?`
-   <div class="more"><button class="timelineBtn">Visa utvecklingen (${n.sources.length})</button>
-   <ul class="timeline">${n.sources.map(x=>`<li><time>${fmtDate(x.date)}</time> – ${escapeHtml(x.name)}: ${escapeHtml(x.title)}</li>`).join('')}</ul></div>`:'';
-  const el=document.createElement('article');el.className='card';
-  el.innerHTML=`<div class="media"><img alt=""><div class="credit"></div></div>
-   <div class="body"><div class="meta"><span class="badge">${escapeHtml(n.cat.split(' ')[0])}</span>
-   ${n.cat.includes('Transfer')?'<span class="badge">Transfer</span>':''}
-   <span class="badge ${cls}">${statusLabel(n.status)}</span>
-   ${isNewSinceLast(n)?'<span class="badge since">Ny sedan sist</span>':''}
-   ${isUpdatedStory(n)?'<span class="badge changed">Uppdaterad</span>':''}
-   <span class="badge">${fmtDate(n.date)}</span></div>
-   <h3><a href="${escapeHtml(n.url)}" target="_blank" rel="noopener">${escapeHtml(n.title)}</a></h3>
-   <p>${escapeHtml(n.text)}</p>
-   <div class="source">Källor: ${sources}${timeline}</div></div>`;
-  grid.appendChild(el);
-  const btn=el.querySelector('.timelineBtn');
-  if(btn)btn.onclick=()=>{const t=el.querySelector('.timeline');t.classList.toggle('open');btn.textContent=t.classList.contains('open')?'Dölj utvecklingen':`Visa utvecklingen (${n.sources.length})`};
-  if(n.person||n.fallback)loadImage(el,n.person,n.fallback);
- });
- document.getElementById('empty').style.display=shown?'none':'block';
- const visibleSources=new Set();
- grouped.forEach(n=>{
-  const f=active==='alla'||n.cat.toLowerCase().includes(active.toLowerCase());
-  const s=!q||(n.title+' '+n.text+' '+n.cat+' '+n.sources.map(x=>x.name).join(' ')).toLowerCase().includes(q);
-  if(f&&s)n.sources.forEach(x=>visibleSources.add(x.name));
- });
- document.getElementById('articleCount').textContent='· '+shown+' nyheter · '+visibleSources.size+' källor';
+ const q=document.getElementById("search").value.trim().toLowerCase(),grid=document.getElementById("grid");grid.innerHTML="";
+ const items=data.items.filter(x=>(active==="Alla"||x.category.includes(active))&&(!q||(x.title+" "+x.summary+" "+x.category.join(" ")+" "+x.sources.map(s=>s.name).join(" ")).toLowerCase().includes(q)));
+ items.forEach(x=>{const e=document.createElement("article");e.className="card";const image=x.image?`<div class="media ready"><img src="${esc(x.image)}" alt="${esc(x.entity||x.title)}"></div>`:"";
+ e.innerHTML=`${image}<div class="body"><div class="meta">${x.category.slice(0,2).map(c=>`<span class="badge">${esc(c)}</span>`).join("")}<span class="badge ${statusClass(x.status)}">${esc(x.status)}</span><span class="badge">${fmtDate(x.published_at)}</span></div>
+ <h3><a href="${esc(x.sources[0]?.url||"#")}" target="_blank" rel="noopener">${esc(x.title)}</a></h3><p>${esc(x.summary)}</p>
+ <div class="sources">Källor: ${x.sources.map(s=>`<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a>`).join(" · ")}</div></div>`;grid.appendChild(e)});
+ document.getElementById("count").textContent=`· ${items.length} nyheter · ${new Set(items.flatMap(x=>x.sources.map(s=>s.name))).size} källor`;
+ document.getElementById("empty").style.display=items.length?"none":"block";
 }
-async function fetchTextWithTimeout(url, timeoutMs=9000){
- const controller=new AbortController();
- const timer=setTimeout(()=>controller.abort(),timeoutMs);
- try{
-  const response=await fetch(url,{cache:'no-store',signal:controller.signal});
-  if(!response.ok)throw new Error('HTTP '+response.status);
-  return await response.text();
- }finally{clearTimeout(timer)}
+async function load(){
+ const b=document.getElementById("refresh");b.disabled=true;b.textContent="↻ Uppdaterar…";
+ try{const r=await fetch(`news.json?t=${Date.now()}`,{cache:"no-store"});if(!r.ok)throw 0;data=await r.json();render();document.getElementById("updated").textContent="Senast uppdaterad: "+new Date(data.updated_at).toLocaleString("sv-SE",{day:"numeric",month:"long",hour:"2-digit",minute:"2-digit"})}
+ catch(e){document.getElementById("updated").textContent="Kunde inte läsa nyhetsfilen."}
+ finally{b.disabled=false;b.textContent="↻ Uppdatera"}
 }
-async function fetchRSS(){
- const cutoff=Date.now()-7*86400000,all=[];
- const tasks=feedConfigs.map(async cfg=>{
-  let feedUrl;
-  if(cfg.type==="direct") feedUrl=cfg.url;
-  else feedUrl='https://news.google.com/rss/search?q='+encodeURIComponent(cfg.query)+'&hl=en-GB&gl=GB&ceid=GB:en';
-  const candidates=[feedUrl,proxy(feedUrl),'https://api.codetabs.com/v1/proxy?quest='+encodeURIComponent(feedUrl)];
-  let xml='';
-  for(const candidate of candidates){
-   try{
-    xml=await fetchTextWithTimeout(candidate,7000);
-    if(xml&&/<rss|<feed/i.test(xml))break;
-   }catch(e){}
-  }
-  if(!xml)return [];
-  try{
-   const doc=new DOMParser().parseFromString(xml,'text/xml');
-   const found=[];
-   [...doc.querySelectorAll('item,entry')].forEach(item=>{
-    const rawTitle=item.querySelector('title')?.textContent||'';
-    const pub=item.querySelector('pubDate,published,updated')?.textContent||'';
-    const linkNode=item.querySelector('link');
-    const link=linkNode?.textContent||linkNode?.getAttribute('href')||'';
-    const desc=stripHtml(item.querySelector('description,summary,content')?.textContent||'');
-    const d=new Date(pub);
-    if(!rawTitle||!link||isNaN(d)||d.getTime()<cutoff||isResultStory(rawTitle))return;
-    let source=cfg.sourceOverride||sourceFromTitle(rawTitle);
-    if(/David Ornstein/i.test(rawTitle+' '+desc))source="David Ornstein / The Athletic";
-    else if(/Fabrizio Romano/i.test(rawTitle+' '+desc))source="Fabrizio Romano";
-    else if(/Gianluca Di Marzio|Di Marzio/i.test(rawTitle+' '+desc))source="Gianluca Di Marzio";
-    else if(/Simon Stone/i.test(rawTitle+' '+desc))source="Simon Stone / BBC Sport";
-    found.push({
-      date:d.toISOString().slice(0,10),
-      cat:guessCat(rawTitle),
-      title:cleanTitle(rawTitle),
-      text:(desc||'Läs den fullständiga artikeln hos källan.').slice(0,700),
-      source,url:link,person:'',fallback:'',status:'developing'
-    });
-   });
-   return found;
-  }catch(e){return []}
- });
- const batches=await Promise.all(tasks);
- batches.forEach(batch=>all.push(...batch));
- const seen=new Set(),unique=[];
- all.sort((a,b)=>(sourceWeight[b.source]||50)-(sourceWeight[a.source]||50)||new Date(b.date)-new Date(a.date)).forEach(n=>{
-  const key=normalizeTitle(n.title).slice(0,120);
-  const sourceKey=key+'|'+n.source;
-  if(seen.has(sourceKey))return;
-  seen.add(sourceKey);
-  unique.push(n);
- });
- return unique.slice(0,160);
-}
-function mergeWithFallback(live){
- const combined=[...live,...fallbackNews],seen=new Set(),out=[];
- combined.sort((a,b)=>new Date(b.date)-new Date(a.date)).forEach(n=>{
-  const key=normalizeTitle(n.title).slice(0,120);
-  const sourceKey=key+'|'+n.source;
-  if(seen.has(sourceKey))return;
-  seen.add(sourceKey);
-  out.push(n);
- });
- return out;
-}
-async function updateNews(manual=true){
- const btn=document.getElementById('refresh');
- const status=document.getElementById('refreshStatus');
- btn.disabled=true;btn.classList.add('loading');btn.innerHTML='<span class="spin">↻</span> Uppdaterar…';
- status.textContent='Kontrollerar de senaste fotbollsnyheterna…';
- const hardStop=setTimeout(()=>{
-   status.textContent='Hämtningen tar längre tid än väntat. Du kan fortsätta läsa medan kontrollen avslutas.';
- },10000);
- try{
-  const live=await fetchRSS();
-  if(live.length){
-   news=mergeWithFallback(live);pendingNews=news;render();
-   const now=new Date();
-   localStorage.setItem('fb_last_update',now.toISOString());
-   document.getElementById('updated').textContent='Senast uppdaterad: '+now.toLocaleString('sv-SE',{day:'numeric',month:'long',hour:'2-digit',minute:'2-digit'});
-   const sourceCount=new Set(live.map(x=>x.source)).size;
-   status.textContent='Klart – '+live.length+' aktuella träffar från '+sourceCount+' källor kontrollerades.';
-  }else{
-   status.textContent='Inga nya träffar kunde hämtas. Senast sparade innehåll visas fortfarande.';
-  }
- }catch(e){
-  status.textContent='Uppdateringen kunde inte slutföras. Senast sparade innehåll visas fortfarande.';
- }finally{
-  clearTimeout(hardStop);
-  btn.disabled=false;btn.classList.remove('loading');btn.innerHTML='<span class="spin">↻</span> Uppdatera';
- }
-}
-async function silentCheck(){
- let live=[];
- try{live=await fetchRSS()}catch(e){return}
- if(!live.length)return;
- const current=new Set(news.map(n=>normalizeTitle(n.title))),fresh=live.filter(n=>!current.has(normalizeTitle(n.title)));
- if(fresh.length){
-  pendingNews=mergeWithFallback(live);
-  const box=document.getElementById('notice');box.textContent=fresh.length+' nya nyheter finns – klicka för att uppdatera';box.style.display='block';
- }
-}
-document.getElementById('refresh').onclick=()=>updateNews(true);
-document.getElementById('notice').onclick=()=>{if(pendingNews.length){news=pendingNews;render();document.getElementById('notice').style.display='none';document.getElementById('updated').textContent='Senast uppdaterad: '+new Date().toLocaleString('sv-SE',{day:'numeric',month:'long',hour:'2-digit',minute:'2-digit'})}};
-document.getElementById('search').oninput=render;
-document.querySelectorAll('.filter').forEach(b=>b.onclick=()=>{document.querySelectorAll('.filter').forEach(x=>x.classList.remove('active'));b.classList.add('active');active=b.dataset.filter;render()});
-
-function plain(s=''){return s.replace(/<[^>]*>/g,' ').replace(/&[^;]+;/g,' ').replace(/\s+/g,' ').trim()}
-async function commons(query,kind){
- if(!query)return null;
- const p=new URLSearchParams({action:'query',generator:'search',gsrsearch:query,gsrnamespace:'6',gsrlimit:'10',prop:'imageinfo',iiprop:'url|extmetadata',iiurlwidth:'900',format:'json',origin:'*'});
- const data=await fetch('https://commons.wikimedia.org/w/api.php?'+p).then(r=>r.json()),pages=Object.values(data.query?.pages||{}),words=query.toLowerCase().split(/\s+/).filter(x=>x.length>3);
- return pages.find(page=>{
-  const info=page.imageinfo?.[0],m=info?.extmetadata||{};if(!info?.thumburl)return false;
-  const lic=(m.LicenseShortName?.value||'')+' '+(m.UsageTerms?.value||'');if(!/cc0|public domain|cc by|cc-by|creative commons/i.test(lic))return false;
-  const hay=plain((page.title||'')+' '+(m.ImageDescription?.value||'')).toLowerCase(),matches=words.filter(w=>hay.includes(w)).length;
-  if(kind==='person')return matches>=Math.min(2,words.length);
-  return matches>=1&&/stadium|stade|stadion|arena|ground|logo|crest|badge|team/i.test(hay);
- });
-}
-async function loadImage(card,person,fallback){
- try{
-  let hit=await commons(person,'person'),kind='person';
-  if(!hit){hit=await commons(fallback,'fallback');kind=/stadium|stade|stadion|arena|ground/i.test(fallback)?'stadium':'logo'}
-  if(!hit)return;
-  const info=hit.imageinfo[0],m=info.extmetadata||{},media=card.querySelector('.media'),img=media.querySelector('img');
-  media.classList.add(kind);img.src=info.thumburl;img.alt=person||fallback;
-  media.querySelector('.credit').textContent='Bild: '+plain(m.Artist?.value||'Wikimedia Commons')+' · '+plain(m.LicenseShortName?.value||'fri licens');
-  img.onload=()=>media.classList.add('ready');
- }catch(e){}
-}
-render();
-setTimeout(()=>{
- const grouped=mergeGroups(news);
- const state={};
- grouped.forEach(n=>state[storyId(n)]=storyFingerprint(n));
- localStorage.setItem(STORY_STATE_KEY,JSON.stringify(state));
- localStorage.setItem(LAST_VISIT_KEY,new Date().toISOString());
-},5000);
-setTimeout(()=>silentCheck(),2500);
-setInterval(silentCheck,3*60*60*1000);
-</script>
-</body>
-</html>
+document.getElementById("search").oninput=render;document.getElementById("refresh").onclick=load;renderFilters();load();
+</script></body></html>
