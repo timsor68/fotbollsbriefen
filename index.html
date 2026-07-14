@@ -22,7 +22,8 @@ main{max-width:1420px;margin:22px auto;padding:0 22px 42px}.intro{display:flex;j
 .media{height:210px;background:#eef2f4;position:relative;overflow:hidden}.media.ready{background:none}
 .media img{width:100%;height:100%;object-fit:cover;object-position:center 18%;display:none;position:relative;z-index:2}
 .media.ready img{display:block}
-.media::before{content:"⚽";position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg, #168b50, #07301e);display:grid;place-items:center;font-size:48px;z-index:1;opacity:0.8}
+/* Dämpad gradient bakom bilderna medan de laddas */
+.media::before{content:"";position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg, #168b50, #07301e);z-index:1;opacity:0.15}
 .body{padding:15px;flex-grow:1;display:flex;flex-direction:column}.meta{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:8px;font-size:12px}.badge{padding:4px 8px;border-radius:999px;background:#edf2f4;font-weight:700}
 .official{background:#e5f5ec;color:#12643b}.credible{background:#fff2d4;color:#7a5009}.reported{background:#fdeaea;color:#8e2d2d}
 .since{background:#dff3ff;color:#155b7a;border:1px solid #b3e0ff}.changed{background:#eee7ff;color:#5d3a91;border:1px solid #dcd0ff}
@@ -74,9 +75,22 @@ const FAMOUS_JOURNALISTS = [
   "Gianluca Di Marzio"
 ];
 
+// Antalet bilder du har laddat upp i mappen images/generic/
+const NUM_GENERIC_IMAGES = 5;
+
+// En funktion som genererar en slumpmässig siffra mellan 1 och NUM_GENERIC_IMAGES baserat på artikelns unika ID.
+// Det gör att en specifik nyhet alltid får samma bakgrundsbild och inte ändras vid varje sidomladdning.
+function getDeterministicImageIndex(id) {
+  let hash = 0;
+  for (let i = 0; i < id.length; i++) {
+    hash = id.charCodeAt(i) + ((hash << 5) - hash);
+  }
+  return Math.abs(hash % NUM_GENERIC_IMAGES) + 1;
+}
+
 function imgCandidates(x){
  const out=[];
- // 1. Förstahandsval: Artikelns specifika bild (og:image hämtad av Python)
+ // 1. Förstahandsval: Artikelns specifika bild (og:image)
  if(x.image) out.push(x.image);
  
  // 2. Andrahandsval: Spelar-/Tränarbild från lokala biblioteket
@@ -100,6 +114,12 @@ function imgCandidates(x){
    for(const ext of ["jpg","jpeg","png","webp"]) {
      out.push(`images/journalists/${slug(journalist)}.${ext}`);
    }
+ }
+
+ // 5. Femtehandsval: Slumpmässig generisk fotbollsbild från ditt eget bibliotek (faller aldrig till 404)
+ const idx = getDeterministicImageIndex(x.id);
+ for(const ext of ["jpg","jpeg","png","webp"]) {
+   out.push(`images/generic/${idx}.${ext}`);
  }
  
  return out;
