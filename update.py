@@ -123,6 +123,7 @@ TRUSTED_PUBLISHERS = {
     "Gianluca Di Marzio", "Sky Sports", "Kicker", "L'Équipe",
     "RMC Sport", "The Guardian", "ESPN", "Football Italia",
     "Marca", "AS", "Mundo Deportivo",
+    "Paul Joyce", "Sam Lee", "Laurie Whitwell", "James Pearce", "Guillem Balagué"
 }
 
 BLOCKED_PUBLISHERS = {
@@ -155,8 +156,14 @@ SOURCE_RANK = {
     "BBC Sport": 104,
     "Simon Stone / BBC Sport": 104,
     "David Ornstein / The Athletic": 103,
+    "Paul Joyce": 103,
     "The Athletic": 102,
     "Fabrizio Romano": 101,
+    "Gianluca Di Marzio": 101,
+    "Sam Lee": 100,
+    "Laurie Whitwell": 100,
+    "James Pearce": 100,
+    "Guillem Balagué": 99,
     "Sky Sports": 95,
     "The Guardian": 91,
     "ESPN": 89,
