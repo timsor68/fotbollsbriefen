@@ -69,16 +69,16 @@ JUNK_RE = re.compile(
     re.I,
 )
 
-# REVOLUTIONERAD BLOCKLISTA FÖR ANDRA SPORTER OCH VINTERSPORT
+# SMARTARE SPÄRR: Matchar ordets början för att stoppa cricketspelare, skidåkare, friidrottare etc.
 OTHER_SPORTS_RE = re.compile(
-    r"\b(cricket|golf|mcilroy|tiger woods|formula 1|f1|tennis|wimbledon|djokovic|"
-    r"alcaraz|swimming|athletics|rugby|nfl|super bowl|nba|basketball|baseball|"
-    r"boxing|ufc|t20|test match|ashes|ryder cup|olympics|olympic games|"
+    r"\b(crick|golf|mcilroy|tiger woods|formula 1|f1|tennis|wimbledon|djokovic|"
+    r"alcaraz|swimming|athlet|rugby|nfl|super bowl|nba|basket|baseball|"
+    r"boxning|boxing|ufc|t20|test match|ashes|ryder cup|olympic|olympiska|"
     r"horse racing|jockey|dettori|newmarket|ascot|cheltenham|grand national|"
-    r"equestrian|showjumping|dressage|"
-    r"längdskidor|skidor|skidskytte|alpin|slalom|frida karlsson|ebba andersson|kalla|"
-    r"jonna sundling|shiffrin|victoriapriset|victoriastipendiet|friidrott|löpning|"
-    r"stavhopp|duplantis|ståhl|diskus|höjdhopp|ishockey|hockey|shl|nhl)\b",
+    r"equestrian|showjumping|dressage|ridsport|"
+    r"skid|längdskid|skidskytte|alpin|slalom|frida karlsson|ebba andersson|kalla|"
+    r"jonna sundling|shiffrin|victoriapris|victoriastipend|friidrott|löpning|"
+    r"stavhopp|duplantis|ståhl|diskus|höjdhopp|ishockey|hockey|shl|nhl)\w*",
     re.I,
 )
 
