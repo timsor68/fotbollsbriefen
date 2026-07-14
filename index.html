@@ -22,7 +22,6 @@ main{max-width:1420px;margin:22px auto;padding:0 22px 42px}.intro{display:flex;j
 .media{height:210px;background:#eef2f4;position:relative;overflow:hidden}.media.ready{background:none}
 .media img{width:100%;height:100%;object-fit:cover;object-position:center 18%;display:none;position:relative;z-index:2}
 .media.ready img{display:block}
-/* Dämpad gradient bakom bilderna medan de laddas */
 .media::before{content:"";position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg, #168b50, #07301e);z-index:1;opacity:0.15}
 .body{padding:15px;flex-grow:1;display:flex;flex-direction:column}.meta{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:8px;font-size:12px}.badge{padding:4px 8px;border-radius:999px;background:#edf2f4;font-weight:700}
 .official{background:#e5f5ec;color:#12643b}.credible{background:#fff2d4;color:#7a5009}.reported{background:#fdeaea;color:#8e2d2d}
@@ -45,12 +44,14 @@ footer{text-align:center;color:#74808a;font-size:13px;padding:24px}
 <body>
 <header><div class="top"><div class="brand"><div class="logo">⚽</div><div><h1>Fotbollsbriefen</h1><div class="tag">European football news — fast and concise</div></div></div>
 <div class="actions"><div class="search"><input id="search" type="search" placeholder="Search player, coach, club or league…"></div><button class="refresh" id="refresh">↻ Refresh</button></div></div>
+<!-- Sverige har lagts till i listan över tillgängliga filterknappar nedan -->
 <nav id="filters"></nav></header>
 <main><div class="intro"><h2>Latest news <span id="count" style="font-size:14px;font-weight:normal;color:var(--muted)"></span></h2><div class="updated" id="updated"></div></div>
 <div class="message" id="message"></div><div class="grid" id="grid"></div><div class="empty" id="empty">No stories match your selection.</div></main>
 <footer>Fotbollsbriefen · European football news from the last seven days</footer>
 <script>
-const FILTERS=["All","Premier League","La Liga","Serie A","Bundesliga","Ligue 1","Transfer","Coach"];
+// Sverige är nu det andra filtret i ordningen
+const FILTERS=["All","Sverige","Premier League","La Liga","Serie A","Bundesliga","Ligue 1","Transfer","Coach"];
 const VISIT_KEY="fb_final_last_visit",STATE_KEY="fb_final_story_state";
 let data={items:[]},active="All",previousVisit=localStorage.getItem(VISIT_KEY),previousState={};
 try{previousState=JSON.parse(localStorage.getItem(STATE_KEY)||"{}")}catch(e){}
@@ -62,7 +63,6 @@ function fmtDate(s){return new Date(s).toLocaleDateString("en-GB",{day:"numeric"
 function isNew(x){return !!previousVisit&&new Date(x.published_at)>new Date(previousVisit)}
 function isChanged(x){return !!previousState[x.id]&&previousState[x.id]!==fingerprint(x)}
 
-// Lista på de journalister som vi har sparade bilder för
 const FAMOUS_JOURNALISTS = [
   "Fabrizio Romano", 
   "David Ornstein", 
@@ -75,11 +75,8 @@ const FAMOUS_JOURNALISTS = [
   "Gianluca Di Marzio"
 ];
 
-// Antalet bilder du har laddat upp i mappen images/generic/
 const NUM_GENERIC_IMAGES = 5;
 
-// En funktion som genererar en slumpmässig siffra mellan 1 och NUM_GENERIC_IMAGES baserat på artikelns unika ID.
-// Det gör att en specifik nyhet alltid får samma bakgrundsbild och inte ändras vid varje sidomladdning.
 function getDeterministicImageIndex(id) {
   let hash = 0;
   for (let i = 0; i < id.length; i++) {
@@ -90,24 +87,20 @@ function getDeterministicImageIndex(id) {
 
 function imgCandidates(x){
  const out=[];
- // 1. Förstahandsval: Artikelns specifika bild (og:image)
  if(x.image) out.push(x.image);
  
- // 2. Andrahandsval: Spelar-/Tränarbild från lokala biblioteket
  if(x.entity && x.entity_type) {
    for(const ext of ["jpg","jpeg","png","webp"]) {
      out.push(`images/${x.entity_type}/${slug(x.entity)}.${ext}`);
    }
  }
  
- // 3. Tredjehandsval: Klubbmärke från lokala biblioteket
  if(x.club) {
    for(const ext of ["png","jpg","jpeg","webp"]) {
      out.push(`images/clubs/${slug(x.club)}.${ext}`);
    }
  }
 
- // 4. Fjärdehandsval: Journalistbild om nyheten är skriven av en Tier 1-journalist
  const mainSource = x.main_source?.name || "";
  const journalist = FAMOUS_JOURNALISTS.find(j => mainSource.toLowerCase().includes(j.toLowerCase()));
  if(journalist) {
@@ -116,7 +109,6 @@ function imgCandidates(x){
    }
  }
 
- // 5. Femtehandsval: Slumpmässig generisk fotbollsbild från ditt eget bibliotek (faller aldrig till 404)
  const idx = getDeterministicImageIndex(x.id);
  for(const ext of ["jpg","jpeg","png","webp"]) {
    out.push(`images/generic/${idx}.${ext}`);
@@ -162,7 +154,9 @@ function render(){
    const txt = String(summary || "").toLowerCase();
    return txt.includes("read the full report") || 
           txt.includes("official update from") || 
-          txt.includes("has the full story");
+          txt.includes("has the full story") ||
+          txt.includes("läs hela rapporten") ||
+          txt.includes("officiell uppdatering");
  };
 
  const richStories = matchedItems.filter(x => !isFallback(x.summary));
