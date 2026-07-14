@@ -78,7 +78,8 @@ OTHER_SPORTS_RE = re.compile(
     r"equestrian|showjumping|dressage|ridsport|"
     r"skid|längdskid|skidskytte|alpin|slalom|frida karlsson|ebba andersson|kalla|"
     r"jonna sundling|shiffrin|victoriapris|victoriastipend|friidrott|löpning|"
-    r"stavhopp|duplantis|ståhl|diskus|höjdhopp|ishockey|hockey|shl|nhl)\w*",
+    r"stavhopp|duplantis|ståhl|diskus|höjdhopp|ishockey|hockey|shl|nhl|"
+    r"shubman gill|julien alfred|tharp|axar patel|odi|häck|edgbaston|stands)\w*",
     re.I,
 )
 
