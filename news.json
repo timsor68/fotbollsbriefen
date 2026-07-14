@@ -1,13 +1,14 @@
 {
-  "updated_at": "2026-07-14T15:09:33.767488+00:00",
+  "updated_at": "2026-07-14T15:16:34.281118+00:00",
   "items": [
     {
-      "published_at": "2026-07-13T16:29:28+00:00",
-      "updated_at": "2026-07-13T16:29:28+00:00",
-      "title": "Alonso wants to keep Fernandez at Chelsea",
-      "summary": "New Chelsea manager Xabi Alonso is unveiled at Stamford Bridge and says he wants to keep Enzo Fernandez at the club",
+      "published_at": "2026-07-14T14:11:47+00:00",
+      "updated_at": "2026-07-14T14:11:47+00:00",
+      "title": "Arsenal agree fee for Trossard move to Besiktas",
+      "summary": "Winger to depart after three and a half seasons at club Trossard played 174 times and scored 36 goals for Arsenal Arsenal have agreed a deal to sell Leandro Trossard to Besiktas, paving the way for the 31-year-old to depart the club after three-and-a-half years. Trossard, who moved to Arsenal from Brighton in January 2023, played a key role in helping Mikel Arteta’s side end a 22-year wait for the Premier League title last season, scoring six times in 31 league appearances, including the late winner in a crucial victory over West Ham in May.",
       "category": [
-        "Premier League"
+        "Premier League",
+        "Transfer"
       ],
       "status": "Confirmed by multiple sources",
       "entity": "",
@@ -17,25 +18,69 @@
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c4gyny9d0z2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cddldzme6g1o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRGpEaXZjc1BEaUlzdUJrd1N6NzQwSGVGRVNuQVVrZjFNS1FOUFFtQVpXSjZweDJHd3VSNTZNSUl1WHlmNkxpYzA2b0RuVUZvQjYxMllGbkpWV0VyZkUxWlZLWkktZTgwNU8zRkJPNURjSGpzZkdJYzNCSTYzRk5XV3Bvdk1VdTZCUkJCbWlQcGQxenFISWFYcEJ5T0toODFPcW5UeTRGRlVGUE1pNk9faVI0RlNQRDRKOW50NWJyQjZBZzN6RkFGQ3FKS3VrY3dOWVdudWprV21sMUQwanJIRlpTaW9hQTRmak4yTnNkaGtXYTJZS3BEak1lcExBLUZU?oc=5"
+          "url": "https://www.skysports.com/football/news/12040/13563271/leandro-trossard-arsenal-confirm-winger-joining-besiktas-in-17m-deal"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/14/leandro-trossard-set-for-besiktas-move-after-arsenal-agree-deal-with-turkish-side"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c4gyny9d0z2o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cddldzme6g1o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
           "name": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRGpEaXZjc1BEaUlzdUJrd1N6NzQwSGVGRVNuQVVrZjFNS1FOUFFtQVpXSjZweDJHd3VSNTZNSUl1WHlmNkxpYzA2b0RuVUZvQjYxMllGbkpWV0VyZkUxWlZLWkktZTgwNU8zRkJPNURjSGpzZkdJYzNCSTYzRk5XV3Bvdk1VdTZCUkJCbWlQcGQxenFISWFYcEJ5T0toODFPcW5UeTRGRlVGUE1pNk9faVI0RlNQRDRKOW50NWJyQjZBZzN6RkFGQ3FKS3VrY3dOWVdudWprV21sMUQwanJIRlpTaW9hQTRmak4yTnNkaGtXYTJZS3BEak1lcExBLUZU?oc=5"
+          "url": "https://www.skysports.com/football/news/12040/13563271/leandro-trossard-arsenal-confirm-winger-joining-besiktas-in-17m-deal"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/14/leandro-trossard-set-for-besiktas-move-after-arsenal-agree-deal-with-turkish-side"
         }
       ],
-      "id": "alonso-wants-to-keep-fernandez-at-chelsea"
+      "id": "arsenal-agree-fee-for-trossard-move-to-besiktas"
+    },
+    {
+      "published_at": "2026-07-14T10:08:08+00:00",
+      "updated_at": "2026-07-14T10:08:08+00:00",
+      "title": "Brighton sign Vuskovic from Spurs for club record £46m",
+      "summary": "Brighton sign Croatia defender Luka Vuskovic from Tottenham for a club record fee of £46m on a five-year contract, with an option for a further year",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cy7370x2yp7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/12040/13563294/luka-vuskovic-brighton-complete-50m-deal-to-sign-tottenham-defender"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cy7370x2yp7o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/12040/13563294/luka-vuskovic-brighton-complete-50m-deal-to-sign-tottenham-defender"
+        }
+      ],
+      "id": "brighton-sign-vuskovic-from-spurs-for-club-record-46m"
     },
     {
       "published_at": "2026-07-11T14:48:39+00:00",
@@ -75,6 +120,50 @@
       "id": "world-cup-2026-jurgen-klopp-agrees-deal-in-principle-to-become-germany-coach"
     },
     {
+      "published_at": "2026-07-14T14:55:37+00:00",
+      "updated_at": "2026-07-14T14:55:37+00:00",
+      "title": "World Cup 2026: France v Spain semi-final buildup; Atlanta police step up security for England v Argentina – live",
+      "summary": "⚽️ Latest news before first of the semi-finals in Dallas ⚽️ Player guide | Golden Boot | Football Daily | Email us Atlanta police are increasing staffing and resources for Wednesday’s World Cup semi-final between England and Argentina. The department says additional officers will be deployed around the stadium and across the city’s entertainment and high-traffic areas, with large crowds expected before and after the match: As Atlanta prepares to host an upcoming World Cup semi-final match and welcomes increased numbers of residents and visitors, the Atlanta Police Department has enhanced its citywide public safety and security posture. Additional personnel and resources are already deployed and will continue to be strategically assigned in and around the event venues, entertainment districts, and other high-traffic areas to help ensure a",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c79y29l32gxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/watch/video/13563368/world-cup-semi-final-and-final-a-reminder-of-where-and-when"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/jul/14/world-cup-2026-france-spain-buildup-england-argentina-news-live"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c79y29l32gxo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/watch/video/13563368/world-cup-semi-final-and-final-a-reminder-of-where-and-when"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/jul/14/world-cup-2026-france-spain-buildup-england-argentina-news-live"
+        }
+      ],
+      "id": "world-cup-2026-france-v-spain-semi-final-buildup-atlanta-police-step-up-security-for-engla"
+    },
+    {
       "published_at": "2026-07-10T19:01:44+00:00",
       "updated_at": "2026-07-10T19:01:44+00:00",
       "title": "Swiss without injured Manzambi for Argentina quarter-final, Yakin says",
@@ -100,34 +189,6 @@
       },
       "confirmed_by": [],
       "id": "swiss-without-injured-manzambi-for-argentina-quarter-final-yakin-says"
-    },
-    {
-      "published_at": "2026-07-14T14:11:47+00:00",
-      "updated_at": "2026-07-14T14:11:47+00:00",
-      "title": "Arsenal agree fee for Trossard move to Besiktas",
-      "summary": "Arsenal have agreed a transfer fee to sell Belgium forward Leandro Trossard to Beskitas",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cddldzme6g1o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cddldzme6g1o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "arsenal-agree-fee-for-trossard-move-to-besiktas"
     },
     {
       "published_at": "2026-07-14T11:52:08+00:00",
@@ -211,33 +272,6 @@
       },
       "confirmed_by": [],
       "id": "arsenal-sign-germany-forward-baum-from-rb-leipzig"
-    },
-    {
-      "published_at": "2026-07-14T10:08:08+00:00",
-      "updated_at": "2026-07-14T10:08:08+00:00",
-      "title": "Brighton sign Vuskovic from Spurs for club record £46m",
-      "summary": "Brighton sign Croatia defender Luka Vuskovic from Tottenham for a club record fee of £46m on a five-year contract, with an option for a further year",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cy7370x2yp7o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cy7370x2yp7o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "brighton-sign-vuskovic-from-spurs-for-club-record-46m"
     },
     {
       "published_at": "2026-07-14T08:43:33+00:00",
@@ -490,6 +524,42 @@
       "id": "manchester-united-reach-agreement-to-sign-andrey-santos-from-chelsea-the-athletic"
     },
     {
+      "published_at": "2026-07-13T16:50:27+00:00",
+      "updated_at": "2026-07-13T16:50:27+00:00",
+      "title": "Aston Villa hijack Newcastle’s pursuit of £49m Johan Manzambi from Freiburg",
+      "summary": "U-turn another summer transfer blow for Newcastle Club determined to keep Bruno Guimarães Aston Villa have hijacked ­Newcastle’s pursuit of Johan Manzambi and are close to completing a £49m deal with Freiburg for the Switzerland midfielder. Villa qualified for the ­Champions League after finishing fourth and his move represents a considerable blow for ­Newcastle. Their executives thought they had secured a deal for the versatile 20-year-old, who has impressed at the World Cup, after ­flying to ­Germany last week.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/13/aston-villa-hijack-newcastle-pursuit-of-johan-manzambi-from-freiburg-transfer-window"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/13/aston-villa-hijack-newcastle-pursuit-of-johan-manzambi-from-freiburg-transfer-window"
+        }
+      ],
+      "id": "aston-villa-hijack-newcastle-s-pursuit-of-49m-johan-manzambi-from-freiburg"
+    },
+    {
       "published_at": "2026-07-13T19:30:00+00:00",
       "updated_at": "2026-07-13T19:30:00+00:00",
       "title": "Xabi Alonso on ‘special’ Cole Palmer and ‘hungry’ Marco Palestra",
@@ -546,10 +616,173 @@
       "id": "liverpool-get-significant-green-light-to-sign-bradley-barcola-as-psg-demand-mammoth-price"
     },
     {
-      "published_at": "2026-07-09T19:41:31+00:00",
-      "updated_at": "2026-07-09T19:41:31+00:00",
-      "title": "Chelsea: New manager Xabi Alonso takes on his first training session with the club",
-      "summary": "Read the full report from the main source.",
+      "published_at": "2026-07-14T15:10:00+00:00",
+      "updated_at": "2026-07-14T15:10:00+00:00",
+      "title": "Excellent coach, superstars and depth - McGinley on why England are built like Ryder Cup heroes",
+      "summary": "Sky Sports' Paul McGinley explains how he draws comparrisons between England and Team Europe",
+      "category": [
+        "Coach"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "coaches",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/watch/video/13563414/excellent-coach-superstars-and-depth-mcginley-on-why-england-are-built-like-ryder-cup-heroes"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/watch/video/13563414/excellent-coach-superstars-and-depth-mcginley-on-why-england-are-built-like-ryder-cup-heroes"
+      },
+      "confirmed_by": [],
+      "id": "excellent-coach-superstars-and-depth-mcginley-on-why-england-are-built-like-ryder-cup-hero"
+    },
+    {
+      "published_at": "2026-07-14T10:20:00+00:00",
+      "updated_at": "2026-07-14T10:20:00+00:00",
+      "title": "Is Flower the 'standout' candidate to replace McCullum?",
+      "summary": "Nasser Hussain and Michael Atherton discuss who they think should replace Brendon McCullum as the England Test head coach",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/watch/video/13563291/brendon-mccullum-who-should-be-the-new-england-test-head-coach"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/watch/video/13563291/brendon-mccullum-who-should-be-the-new-england-test-head-coach"
+      },
+      "confirmed_by": [],
+      "id": "is-flower-the-standout-candidate-to-replace-mccullum"
+    },
+    {
+      "published_at": "2026-07-14T11:08:17+00:00",
+      "updated_at": "2026-07-14T11:08:17+00:00",
+      "title": "Manchester City set sights on signing Morocco’s Ayyoub Bouaddi for £85m",
+      "summary": "Lille teenager impressed during the World Cup Signing would make it £200m on two midfielders Manchester City are intent on signing Lille’s 18-year-old midfielder Ayyoub Bouaddi for €100m (£85m). Bouaddi is attracting a host of suitors following his performances for Morocco at the World Cup, and while the proposed fee is high for a teenager, City view him as a long-term investment.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/14/manchester-city-set-sights-on-signing-morocco-ayyoub-bouaddi-85m-transfer-window"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/14/manchester-city-set-sights-on-signing-morocco-ayyoub-bouaddi-85m-transfer-window"
+      },
+      "confirmed_by": [],
+      "id": "manchester-city-set-sights-on-signing-morocco-s-ayyoub-bouaddi-for-85m"
+    },
+    {
+      "published_at": "2026-07-14T07:00:23+00:00",
+      "updated_at": "2026-07-14T07:00:23+00:00",
+      "title": "The other Lionel: how Scaloni went from accidental manager to World Cup hero",
+      "summary": "After forming an almost paternal relationship with Lionel Messi and providing a rare sense of stability, Argentina’s unheralded saviour is on the verge of World Cup history On Lionel Messi’s ill-fated international debut in Budapest in 2005, when he was (very harshly) sent off 45 seconds after coming off the bench for swinging an arm at the Hungary defender Vilmos Vanczak, he received only two passes. It may not be much, but those two passes were the first contact in a relationship that may culminate in Argentina becoming only the third nation to successfully defend the World Cup . Messi has spoken of Scaloni as one of the first members of the squad to truly welcome him.",
+      "category": [
+        "Coach"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "coaches",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/14/lionel-scaloni-messi-argentina-england-world-cup-hero"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/14/lionel-scaloni-messi-argentina-england-world-cup-hero"
+      },
+      "confirmed_by": [],
+      "id": "the-other-lionel-how-scaloni-went-from-accidental-manager-to-world-cup-hero"
+    },
+    {
+      "published_at": "2026-07-14T03:22:09+00:00",
+      "updated_at": "2026-07-14T03:22:09+00:00",
+      "title": "Strike action threatens new A-League season as post-World Cup glow again fades too fast | Joey Lynch",
+      "summary": "Stalled CBA negotiations have cast a pall over the game in Australia when it might be harnessing interest around the Socceroos’ World Cup run The heartbreak from the Socceroos’ penalty shootout defeat to Egypt and exit from the World Cup is still raw, but normal programming in Australian football is starting to resume. Alas, the scene appears to be set for a sequel nobody asked for. At a time when the A-Leagues should be basking in the reflected glow of the World Cup, it is instead careering towards potential industrial action; players have unanimously rejected the latest collective bargaining agreement (CBA) proposal from league administrators the Australian Professional Leagues (APL).",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/14/a-league-strike-action-cba-australia-football"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/14/a-league-strike-action-cba-australia-football"
+      },
+      "confirmed_by": [],
+      "id": "strike-action-threatens-new-a-league-season-as-post-world-cup-glow-again-fades-too-fast-jo"
+    },
+    {
+      "published_at": "2026-07-13T21:30:11+00:00",
+      "updated_at": "2026-07-13T21:30:11+00:00",
+      "title": "‘I need to prove I belong here’: Andoni Iraola stays humble in new Liverpool era",
+      "summary": "Head coach has no illusions as to the scale of the task and wants to start by reconnecting the team and supporters It was Andoni Iraola’s humility that made the biggest impression at his unveiling as Liverpool’s new head coach on Monday. Without fanfare or bombast the 44-year-old promised not to change as a result of landing the biggest job of his coaching career and also to connect with club and city alike. “The magic of being the Liverpool manager,” as he nicely described the opportunity.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/13/andoni-iraola-liverpool-manager-michael-edwards-transfers-richard-hughes"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/13/andoni-iraola-liverpool-manager-michael-edwards-transfers-richard-hughes"
+      },
+      "confirmed_by": [],
+      "id": "i-need-to-prove-i-belong-here-andoni-iraola-stays-humble-in-new-liverpool-era"
+    },
+    {
+      "published_at": "2026-07-13T21:30:11+00:00",
+      "updated_at": "2026-07-13T21:30:11+00:00",
+      "title": "Alonso ‘optimistic’ he can thrive at Chelsea and avoid coaching carousel",
+      "summary": "Only time will tell if the former Leverkusen manager will become yet another victim of the constant churn at Stamford Bridge If Xabi Alonso arrived at Chelsea under any illusions about the expectations awaiting him, they were staring out from picture frames hung around Stamford Bridge’s Drake Suite. During his unveiling as Chelsea’s new manager, on either side of the room hung large, gleeful photos of José Mourinho and Antonio Conte holding Premier League trophies. Chelsea’s last two managers, Enzo Maresca and Liam Rosenior, were not afforded the Drake Suite treatment previously reserved for Mauricio Pochettino and Frank Lampard before them.",
       "category": [
         "Premier League",
         "Coach"
@@ -561,23 +794,23 @@
       "image": "",
       "sources": [
         {
-          "name": "Sky Sports",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/13/xabi-alonso-chelsea-premier-league"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Sky Sports",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/13/xabi-alonso-chelsea-premier-league"
       },
       "confirmed_by": [],
-      "id": "chelsea-new-manager-xabi-alonso-takes-on-his-first-training-session-with-the-club"
+      "id": "alonso-optimistic-he-can-thrive-at-chelsea-and-avoid-coaching-carousel"
     },
     {
-      "published_at": "2026-07-09T07:00:00+00:00",
-      "updated_at": "2026-07-09T07:00:00+00:00",
-      "title": "World Cup 2026: EU lawmakers call for formal investigation into Folarin Balogun 'scandal' - Paper Talk",
-      "summary": "Read the full report from the main source.",
+      "published_at": "2026-07-13T19:28:01+00:00",
+      "updated_at": "2026-07-13T19:28:01+00:00",
+      "title": "Tonda Eckert’s Southampton future unclear as FA investigation into spygate continues",
+      "summary": "FA could follow Fifa precedent with 12-month suspension Manager to face media on Saturday in pre-season friendly The future of Southampton’s manager, Tonda Eckert, remains shrouded in uncertainty as he waits to learn the outcome of a lengthy and detailed Football Association investigation into last season’s spygate scandal. In May the English Football League expelled Southampton from the Championship playoff final against Hull after finding that a club intern engaged as a first-team analyst had spied on a key Middlesbrough training session before the semi-final first leg at the Riverside.",
       "category": [
         "Football"
       ],
@@ -588,105 +821,23 @@
       "image": "",
       "sources": [
         {
-          "name": "Sky Sports",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/13/tonda-eckert-southampton-fa-investigation-spygate"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Sky Sports",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/13/tonda-eckert-southampton-fa-investigation-spygate"
       },
       "confirmed_by": [],
-      "id": "world-cup-2026-eu-lawmakers-call-for-formal-investigation-into-folarin-balogun-scandal-pap"
+      "id": "tonda-eckert-s-southampton-future-unclear-as-fa-investigation-into-spygate-continues"
     },
     {
-      "published_at": "2026-07-08T07:00:00+00:00",
-      "updated_at": "2026-07-08T07:00:00+00:00",
-      "title": "World Cup: John Stones pranks Thomas Tuchel with fake injury in dressing room celebs!",
-      "summary": "Read the full report from the main source.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "world-cup-john-stones-pranks-thomas-tuchel-with-fake-injury-in-dressing-room-celebs"
-    },
-    {
-      "published_at": "2026-07-13T20:41:00+00:00",
-      "updated_at": "2026-07-13T20:41:00+00:00",
-      "title": "Transfer rumors, news: Bayern confident in Kane extension",
-      "summary": "Read the full report from the main source.",
-      "category": [
-        "Bundesliga",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "ESPN",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "ESPN",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "transfer-rumors-news-bayern-confident-in-kane-extension"
-    },
-    {
-      "published_at": "2026-07-12T06:59:00+00:00",
-      "updated_at": "2026-07-12T06:59:00+00:00",
-      "title": "What it's like to transfer clubs during a World Cup, and does it ever go wrong?",
-      "summary": "Read the full report from the main source.",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "ESPN",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "ESPN",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "what-it-s-like-to-transfer-clubs-during-a-world-cup-and-does-it-ever-go-wrong"
-    },
-    {
-      "published_at": "2026-07-08T12:00:00+00:00",
-      "updated_at": "2026-07-08T12:00:00+00:00",
-      "title": "USMNT failed at the World Cup because of the players -- no coach could save them",
-      "summary": "Read the full report from the main source.",
+      "published_at": "2026-07-13T19:03:42+00:00",
+      "updated_at": "2026-07-13T19:03:42+00:00",
+      "title": "Diego Forlán succeeds Marcelo Bielsa as Uruguay manager on temporary basis",
+      "summary": "Bielsa departed after acrimonious World Cup exit Former United striker takes charge until March 2027 The former Manchester United striker Diego Forlán is poised to take over on a temporary basis as the new Uruguay manager after Marcelo Bielsa left the role following a sorry World Cup campaign. La Celeste were knocked out at the tournament’s group stage after two draws from their three games, before Bielsa took the blame for the disappointing results and performances amid reported tensions in the dressing room.",
       "category": [
         "Coach"
       ],
@@ -697,17 +848,98 @@
       "image": "",
       "sources": [
         {
-          "name": "ESPN",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/13/diego-forlan-succeeds-marcelo-bielsa-uruguay-world-cup"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "ESPN",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/13/diego-forlan-succeeds-marcelo-bielsa-uruguay-world-cup"
       },
       "confirmed_by": [],
-      "id": "usmnt-failed-at-the-world-cup-because-of-the-players-no-coach-could-save-them"
+      "id": "diego-forl-n-succeeds-marcelo-bielsa-as-uruguay-manager-on-temporary-basis"
+    },
+    {
+      "published_at": "2026-07-12T06:30:10+00:00",
+      "updated_at": "2026-07-12T06:30:10+00:00",
+      "title": "Argentina’s World Cup built on ‘suffering’ faces its biggest test in England | Pablo Iglesias Maurer",
+      "summary": "The defending champions have taken two of their three knockout-round matches to extra-time. England awaits Argentina topple Swiss with two goals in extra time Switzerland hit out at VAR after ‘mistaken identity’ check Throughout the World Cup tournament – from the first match through to the 3-1 quarter-final win on Saturday – Lionel Scaloni has been asked one question over and over again: what does he consider the legacy of this Argentina side? Scaloni has been the head coach of Argentina for nearly eight years and his own personal legacy has long been solidified, as have those of many of his players on the pitch against Switzerland on Saturday night.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/12/argentina-switzerland-england-world-cup-semi-final"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/12/argentina-switzerland-england-world-cup-semi-final"
+      },
+      "confirmed_by": [],
+      "id": "argentina-s-world-cup-built-on-suffering-faces-its-biggest-test-in-england-pablo-iglesias-"
+    },
+    {
+      "published_at": "2026-07-10T21:13:02+00:00",
+      "updated_at": "2026-07-10T21:13:02+00:00",
+      "title": "Merino puts Spain into World Cup semi-finals as Belgium rue costly Courtois injury",
+      "summary": "Mikel Merino’s amazing moment arrived once more, an entire country circling the corner flag with him as football, which somehow always finds a way, provided another absurdly tall tale. The man who came on to score the late, late goals that took Spain into a European championship semi-final two years ago and a World Cup quarter-final four days ago, only went and did it again. And this time it was even better, his two-month old son Marco, who he has hardly seen, in attendance here.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/10/spain-belgium-world-cup-2026-quarter-final-match-report"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/10/spain-belgium-world-cup-2026-quarter-final-match-report"
+      },
+      "confirmed_by": [],
+      "id": "merino-puts-spain-into-world-cup-semi-finals-as-belgium-rue-costly-courtois-injury"
+    },
+    {
+      "published_at": "2026-07-10T18:02:50+00:00",
+      "updated_at": "2026-07-10T18:02:50+00:00",
+      "title": "Kylian Mbappé embraces leadership role for France to urge team humility",
+      "summary": "Didier Deschamps’ decision to give the inspirational forward the captaincy has paid off with no complacency on their run to the semi-finals The driving force behind France’s semi-final win over Morocco in 2022, Antoine Griezmann, was watching on from the stands this time as Les Bleus powered past the Atlas Lions to reach a third consecutive World Cup semi-final. The 35-year-old, who recently completed a move to Orlando City, had not attended a France match since his international retirement in 2024 following a brief stint as vice-captain.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/10/kylian-mbappe-france-world-cup-2026-semi-final"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/10/kylian-mbappe-france-world-cup-2026-semi-final"
+      },
+      "confirmed_by": [],
+      "id": "kylian-mbapp-embraces-leadership-role-for-france-to-urge-team-humility"
     },
     {
       "published_at": "2026-07-13T17:54:20+00:00",
@@ -961,34 +1193,6 @@
       "id": "swiss-anger-tinged-with-pride-after-top-eight-world-cup-finish"
     },
     {
-      "published_at": "2026-07-12T20:13:52+00:00",
-      "updated_at": "2026-07-12T20:13:52+00:00",
-      "title": "Aston Villa finalising move for Johan Manzambi from Freiburg",
-      "summary": "Read the full report from the main source.",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "aston-villa-finalising-move-for-johan-manzambi-from-freiburg"
-    },
-    {
       "published_at": "2026-07-11T07:00:00+00:00",
       "updated_at": "2026-07-11T07:00:00+00:00",
       "title": "Manchester City complete £12.5m signing of Jeremy Monga from Leicester - The Athletic",
@@ -1044,10 +1248,10 @@
       "id": "bruno-guimaraes-informs-newcastle-of-wish-to-join-arsenal-the-athletic"
     },
     {
-      "published_at": "2026-07-14T14:24:36+00:00",
-      "updated_at": "2026-07-14T14:24:36+00:00",
-      "title": "Live Commentary - France vs Spain | 14.07.2026",
-      "summary": "Read the full report from the main source.",
+      "published_at": "2026-07-14T12:55:00+00:00",
+      "updated_at": "2026-07-14T12:55:00+00:00",
+      "title": "'It's silly now!' | Racing Bulls' Lindblad determined to get driver's license",
+      "summary": "Racing Bulls driver Arvid Lindblad reflects on his experience in his first Formula 1 season, as he speaks about his determination to get his driving license despite being a racer",
       "category": [
         "Football"
       ],
@@ -1059,49 +1263,22 @@
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "url": "https://www.skysports.com/watch/video/13563361/england-vs-inida-arvid-lindblad-speaks-on-first-f1-season-and-not-having-his-drivers-license"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "url": "https://www.skysports.com/watch/video/13563361/england-vs-inida-arvid-lindblad-speaks-on-first-f1-season-and-not-having-his-drivers-license"
       },
       "confirmed_by": [],
-      "id": "live-commentary-france-vs-spain-14-07-2026"
+      "id": "it-s-silly-now-racing-bulls-lindblad-determined-to-get-driver-s-license"
     },
     {
-      "published_at": "2026-07-14T11:52:29+00:00",
-      "updated_at": "2026-07-14T11:52:29+00:00",
-      "title": "World Cup: Jamie Carragher defends Thomas Tuchel's post-match interview",
-      "summary": "Read the full report from the main source.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "world-cup-jamie-carragher-defends-thomas-tuchel-s-post-match-interview"
-    },
-    {
-      "published_at": "2026-07-14T07:35:02+00:00",
-      "updated_at": "2026-07-14T07:35:02+00:00",
-      "title": "World Cup 2026: Why has England midfielder Kobbie Mainoo failed to play a single minute for Thomas Tuchel's side this summer?",
-      "summary": "Read the full report from the main source.",
+      "published_at": "2026-07-14T11:43:00+00:00",
+      "updated_at": "2026-07-14T11:43:00+00:00",
+      "title": "You don't realise how steep Eau Rouge really is!",
+      "summary": "See how steep Belgium's Eau Rouge climb really is from this dramatic camera angle",
       "category": [
         "Football"
       ],
@@ -1113,151 +1290,16 @@
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "url": "https://www.skysports.com/watch/video/13563322/belgium-grand-prix-you-dont-realise-how-steep-eau-rouge-really-is"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "url": "https://www.skysports.com/watch/video/13563322/belgium-grand-prix-you-dont-realise-how-steep-eau-rouge-really-is"
       },
       "confirmed_by": [],
-      "id": "world-cup-2026-why-has-england-midfielder-kobbie-mainoo-failed-to-play-a-single-minute-for"
-    },
-    {
-      "published_at": "2026-07-10T16:07:55+00:00",
-      "updated_at": "2026-07-10T16:07:55+00:00",
-      "title": "Liverpool: How will Michael Edwards' departure affect new boss Andoni Iraola? | Jamie Carragher has his say!",
-      "summary": "Read the full report from the main source.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "liverpool-how-will-michael-edwards-departure-affect-new-boss-andoni-iraola-jamie-carragher"
-    },
-    {
-      "published_at": "2026-07-08T16:22:16+00:00",
-      "updated_at": "2026-07-08T16:22:16+00:00",
-      "title": "World Cup 2026: Superstar players, politics and hydration breaks among the standout themes of tournament so far",
-      "summary": "Read the full report from the main source.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "world-cup-2026-superstar-players-politics-and-hydration-breaks-among-the-standout-themes-o"
-    },
-    {
-      "published_at": "2026-07-07T21:43:20+00:00",
-      "updated_at": "2026-07-07T21:43:20+00:00",
-      "title": "World Cup: Egypt boss Hossam Hassan hits out at officiating - 'Argentina's win entirely undeserved!'",
-      "summary": "Read the full report from the main source.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "world-cup-egypt-boss-hossam-hassan-hits-out-at-officiating-argentina-s-win-entirely-undese"
-    },
-    {
-      "published_at": "2026-07-07T16:21:24+00:00",
-      "updated_at": "2026-07-07T16:21:24+00:00",
-      "title": "England World Cup 2026: Gary Neville says Three Lions are favourites against Norway but urges caution over Erling Haaland in quarter-final clash",
-      "summary": "Read the full report from the main source.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "england-world-cup-2026-gary-neville-says-three-lions-are-favourites-against-norway-but-urg"
-    },
-    {
-      "published_at": "2026-07-13T07:44:00+00:00",
-      "updated_at": "2026-07-13T07:44:00+00:00",
-      "title": "Projecting the USMNT 2030 World Cup roster: 30 players to rep the U.S. in four years",
-      "summary": "Read the full report from the main source.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "ESPN",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "ESPN",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "projecting-the-usmnt-2030-world-cup-roster-30-players-to-rep-the-u-s-in-four-years"
+      "id": "you-don-t-realise-how-steep-eau-rouge-really-is"
     }
   ]
 }
