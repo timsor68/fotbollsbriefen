@@ -69,6 +69,14 @@ JUNK_RE = re.compile(
     re.I,
 )
 
+# Filter för att blockera andra sporter helt från flödet
+OTHER_SPORTS_RE = re.compile(
+    r"\b(cricket|golf|mcilroy|tiger woods|formula 1|f1|tennis|wimbledon|djokovic|"
+    r"alcaraz|swimming|athletics|rugby|nfl|super bowl|nba|basketball|baseball|"
+    r"boxing|ufc|t20|test match|ashes| Ryder Cup|olympics|olympic games)\b",
+    re.I,
+)
+
 NEWS_SIGNAL_RE = re.compile(
     r"\b(sign|signs|signed|transfer|joins|joined|appoint|appointed|sack|sacked|"
     r"leaves|left|contract|renew|extension|injury|injured|operation|surgery|"
@@ -379,6 +387,8 @@ def quality_score(
         score += 10
     if JUNK_RE.search(combined):
         score -= 150
+    if OTHER_SPORTS_RE.search(combined):
+        score -= 200
     if LOW_VALUE_TITLE_RE.search(title):
         score -= 100
     if LIVE_AND_GOSSIP_RE.search(title):
@@ -563,7 +573,6 @@ def article_meta_description(meta: dict[str, str], title: str) -> str:
 
 
 def extract_article_metadata(article_url: str, title: str) -> tuple[str, str]:
-    """Hämtar både textintroduktion och og:image (artikelbild) från sidan."""
     try:
         if "news.google.com" in article_url:
             return "", ""
@@ -583,10 +592,8 @@ def extract_article_metadata(article_url: str, title: str) -> tuple[str, str]:
         meta_parser = MetaExtractor()
         meta_parser.feed(page)
         
-        # Hämta og:image för bildvisning
         og_image = meta_parser.meta.get("og:image") or ""
         
-        # Hämta beskrivning
         meta_summary = article_meta_description(meta_parser.meta, title)
         if meta_summary:
             return meta_summary, og_image
@@ -662,7 +669,7 @@ def parse_feed(xml_bytes: bytes, source: dict[str, Any], cutoff: dt.datetime) ->
             continue
         if publisher in BLOCKED_PUBLISHERS:
             continue
-        if JUNK_RE.search(combined) or LOW_VALUE_TITLE_RE.search(title):
+        if JUNK_RE.search(combined) or OTHER_SPORTS_RE.search(combined) or LOW_VALUE_TITLE_RE.search(title):
             continue
         if LIVE_AND_GOSSIP_RE.search(title):
             continue
@@ -707,13 +714,10 @@ def parse_feed(xml_bytes: bytes, source: dict[str, Any], cutoff: dt.datetime) ->
 
 
 def same_story(first: dict[str, Any], second: dict[str, Any]) -> bool:
-    """Avgör om två nyheter handlar om samma händelse."""
-    # 1. Kontrollera textlikhet (Sänkt till 0.62 för att fånga snarlika artiklar)
     ratio = similarity(first["title"], second["title"])
     if ratio >= 0.62:
         return True
 
-    # 2. Kontrollera överlappande ord (Sänkt till 3 betydelsefulla ord)
     first_words = significant_words(first["title"])
     second_words = significant_words(second["title"])
     overlap = first_words & second_words
@@ -721,7 +725,6 @@ def same_story(first: dict[str, Any], second: dict[str, Any]) -> bool:
     if len(overlap) >= 3:
         return True
 
-    # 3. Om de nämner samma spelare/tränare och har minst 2 andra gemensamma ord
     first_entity = first.get("entity", "")
     second_entity = second.get("entity", "")
     if first_entity and first_entity == second_entity and len(overlap) >= 2:
@@ -731,16 +734,13 @@ def same_story(first: dict[str, Any], second: dict[str, Any]) -> bool:
 
 
 def detect_entities_and_clubs(item: dict[str, Any]) -> None:
-    """Matchar titeln mot ordlistan för att automatiskt sätta fält för bildvisning."""
     title = item.get("title", "")
     
-    # Detektera klubb
     for club_key, club_slug in FAMOUS_CLUBS.items():
         if re.search(rf"\b{re.escape(club_key)}\b", title, re.I):
             item["club"] = club_slug
             break
             
-    # Detektera spelare/tränare
     for entity_key, (entity_slug, entity_type) in FAMOUS_ENTITIES.items():
         if re.search(rf"\b{re.escape(entity_key)}\b", title, re.I):
             item["entity"] = entity_slug
@@ -847,10 +847,8 @@ def enrich_summary(item: dict[str, Any]) -> None:
                 other["url"] = resolved
         url = resolved
 
-    # Detektera entiteter (Klubb, Spelare) för att matcha dina lokala bilder
     detect_entities_and_clubs(item)
 
-    # Om vi behöver hämta texten eller saknar bild, gör en nätverksförfrågan
     if needs_intro or not item.get("image"):
         intro, og_image = extract_article_metadata(url, item.get("title", ""))
         if intro and needs_intro:
@@ -888,7 +886,6 @@ def main() -> int:
         print("No fresh stories fetched; keeping the existing news.json unchanged.")
         return 0
 
-    # Detektera entiteter tidigt på alla nyheter för att underlätta smart matchning i same_story
     for item in collected:
         detect_entities_and_clubs(item)
 
