@@ -22,6 +22,43 @@ OUTPUT_PATH = ROOT / "news.json"
 USER_AGENT = "Mozilla/5.0 Fotbollsbriefen/ArticleIntro-1.1"
 NOW = dt.datetime.now(dt.timezone.utc)
 
+# Enkel ordlista för att koppla nyheter till spelare/tränare och klubbar för bildarkivet
+FAMOUS_ENTITIES = {
+    "Klopp": ("jurgen-klopp", "coaches"),
+    "Alonso": ("xabi-alonso", "coaches"),
+    "Trossard": ("leandro-trossard", "players"),
+    "Vuskovic": ("luka-vuskovic", "players"),
+    "Baum": ("lisa-baum", "players"),
+    "Balogun": ("folarin-balogun", "players"),
+    "Tielemans": ("youri-tielemans", "players"),
+    "Guardiola": ("pep-guardiola", "coaches"),
+    "Arteta": ("mikel-arteta", "coaches"),
+    "Haaland": ("erling-haaland", "players"),
+    "Mbappe": ("kylian-mbappe", "players"),
+    "Messi": ("lionel-messi", "players"),
+    "Maradona": ("diego-maradona", "players"),
+}
+
+FAMOUS_CLUBS = {
+    "Arsenal": "arsenal",
+    "Man Utd": "manchester-united",
+    "Manchester United": "manchester-united",
+    "Man City": "manchester-city",
+    "Manchester City": "manchester-city",
+    "Liverpool": "liverpool",
+    "Chelsea": "chelsea",
+    "Tottenham": "tottenham",
+    "Spurs": "tottenham",
+    "Brighton": "brighton",
+    "Everton": "everton",
+    "Real Madrid": "real-madrid",
+    "Barcelona": "barcelona",
+    "Bayern": "bayern-munich",
+    "Dortmund": "borussia-dortmund",
+    "Paris Saint-Germain": "psg",
+    "PSG": "psg",
+}
+
 JUNK_RE = re.compile(
     r"\b(shop|store|shirt|jersey|kit|merchandise|tickets?|hospitality|gallery|"
     r"training gallery|inside training|watch now|video|quiz|wallpaper|download|"
@@ -131,7 +168,7 @@ OFFICIAL_SOURCES = {
     "Tottenham Hotspur", "Newcastle United", "Aston Villa", "Barcelona",
     "Real Madrid", "Inter", "AC Milan", "Juventus",
     "Bayern Munich", "Borussia Dortmund", "Bayer Leverkusen",
- "Monaco",
+    "Monaco",
 }
 
 DOMAIN_RE = re.compile(
@@ -285,7 +322,7 @@ def source_status(source: str, source_count: int) -> str:
     if source in {
         "David Ornstein / The Athletic",
         "Fabrizio Romano",
-            "The Athletic",
+        "The Athletic",
     }:
         return "Highly credible"
     return "Reported"
@@ -319,7 +356,6 @@ def rank_sources(sources: list[dict[str, str]]) -> list[dict[str, str]]:
     )
 
 
-
 def quality_score(
     title: str,
     description: str,
@@ -351,19 +387,14 @@ def quality_score(
     return score
 
 
-
 NON_ENGLISH_WORDS = {
-    # Italian
     "della", "degli", "delle", "alla", "allo", "agli", "nella", "nello",
     "calciomercato", "arriva", "arrivano", "giocatore", "allenatore",
     "squadra", "ufficiale", "contratto", "infortunio", "prestito", "cessione",
-    # French
     "avec", "pour", "chez", "dans", "entraîneur", "entraineur",
     "joueur", "équipe", "equipe", "blessure", "contrat", "prêt", "pret",
-    # Spanish
     "fichaje", "fichajes", "entrenador", "jugador", "equipo", "lesion",
     "lesión", "contrato", "cesion", "cesión", "llega", "llegan",
-    # German
     "spieler", "vertrag", "verletzung", "wechsel", "verpflichtet",
     "mannschaft", "bundestrainer",
 }
@@ -383,14 +414,12 @@ def is_probably_english(title: str, description: str = "") -> bool:
     strong_hits = sum(word in NON_ENGLISH_WORDS for word in words)
     function_hits = sum(word in NON_ENGLISH_FUNCTION_WORDS for word in words)
 
-    # One unmistakable football term or several foreign function words is enough.
     if strong_hits >= 1:
         return False
     if function_hits >= 3:
         return False
 
     return True
-
 
 
 ARTICLE_BLOCKLIST_RE = re.compile(
@@ -408,8 +437,6 @@ ARTICLE_BOILERPLATE_RE = re.compile(
 
 
 class ParagraphExtractor(HTMLParser):
-    """Collect readable paragraph text from article HTML."""
-
     def __init__(self) -> None:
         super().__init__(convert_charrefs=True)
         self._inside_p = False
@@ -449,8 +476,6 @@ class ParagraphExtractor(HTMLParser):
 
 
 class MetaExtractor(HTMLParser):
-    """Collect social/meta description tags from an article's <head>."""
-
     def __init__(self) -> None:
         super().__init__(convert_charrefs=True)
         self.meta: dict[str, str] = {}
@@ -466,12 +491,6 @@ class MetaExtractor(HTMLParser):
 
 
 def resolve_article_url(url: str) -> str:
-    """Best-effort: turn a Google News redirect into the real article URL.
-
-    Non-Google links are returned unchanged. For Google News links we follow
-    the redirect and, if that isn't enough, scan the page for a canonical/og:url
-    that points off google. This is best-effort — publisher RSS feeds avoid the
-    problem entirely (their <link> is already the real article)."""
     if "news.google.com" not in url:
         return url
     try:
@@ -511,7 +530,6 @@ def usable_article_paragraph(text: str, title: str) -> bool:
     if len(words) < 12:
         return False
 
-    # Reject navigation-like or link-list fragments.
     if text.count("|") >= 2 or text.count("›") >= 2:
         return False
 
@@ -519,7 +537,6 @@ def usable_article_paragraph(text: str, title: str) -> bool:
 
 
 def article_meta_description(meta: dict[str, str], title: str) -> str:
-    """The concise 'Metro-style' blurb, straight from the article's social tags."""
     candidate = clean_text(
         meta.get("og:description")
         or meta.get("twitter:description")
@@ -538,16 +555,11 @@ def article_meta_description(meta: dict[str, str], title: str) -> str:
     return candidate[:500]
 
 
-def extract_article_intro(article_url: str, title: str) -> str:
-    """Fetch an article page and return a short explanatory summary.
-
-    Assumes ``article_url`` is already resolved (see resolve_article_url).
-    Order of preference: og:description / meta description (the concise blurb
-    we actually want), then the first useful body paragraph(s)."""
+def extract_article_metadata(article_url: str, title: str) -> tuple[str, str]:
+    """Hämtar både textintroduktion och og:image (artikelbild) från sidan."""
     try:
         if "news.google.com" in article_url:
-            # Unresolved Google News link — its HTML has nothing usable.
-            return ""
+            return "", ""
 
         html_bytes = fetch(article_url, timeout=15)
         encoding = "utf-8"
@@ -561,14 +573,17 @@ def extract_article_intro(article_url: str, title: str) -> str:
 
         page = html_bytes.decode(encoding, errors="replace")
 
-        # 1) og:description / meta description — purpose-built one-line summary.
         meta_parser = MetaExtractor()
         meta_parser.feed(page)
+        
+        # Hämta og:image för bildvisning
+        og_image = meta_parser.meta.get("og:image") or ""
+        
+        # Hämta beskrivning
         meta_summary = article_meta_description(meta_parser.meta, title)
         if meta_summary:
-            return meta_summary
+            return meta_summary, og_image
 
-        # 2) Fall back to the first useful body paragraph(s).
         parser = ParagraphExtractor()
         parser.feed(page)
 
@@ -588,14 +603,12 @@ def extract_article_intro(article_url: str, title: str) -> str:
             if len(" ".join(selected)) >= 220 or len(selected) >= 2:
                 break
 
-        return " ".join(selected)[:850]
+        return " ".join(selected)[:850], og_image
     except Exception:
-        return ""
+        return "", ""
 
 
 def rss_only_summary(title: str, rss_description: str) -> str:
-    """Summary from RSS text alone — no network. Returns '' if the feed text is
-    too weak, signalling that article enrichment is needed after final selection."""
     rss_summary = clean_excerpt(rss_description, title)
     if rss_summary and len(rss_summary) >= 70:
         return rss_summary
@@ -610,34 +623,6 @@ def rss_only_summary(title: str, rss_description: str) -> str:
     ):
         return fragment[:500]
     return ""
-
-
-def choose_summary(
-    title: str,
-    rss_description: str,
-    article_url: str,
-) -> str:
-    """Prefer RSS text, then article text, then a minimal fallback."""
-    rss_summary = clean_excerpt(rss_description, title)
-    if rss_summary and len(rss_summary) >= 70:
-        return rss_summary
-
-    article_summary = extract_article_intro(article_url, title)
-    if article_summary:
-        return article_summary
-
-    # Keep a shorter RSS fragment if it contains some useful context.
-    rss_fragment = clean_text(rss_description)
-    rss_fragment = DOMAIN_RE.sub(" ", rss_fragment)
-    rss_fragment = SOURCE_RESIDUE_RE.sub("", rss_fragment).strip(" .-|–—")
-    if (
-        len(rss_fragment) >= 45
-        and similarity(title, rss_fragment) < 0.86
-        and not ARTICLE_BLOCKLIST_RE.search(rss_fragment)
-    ):
-        return rss_fragment[:500]
-
-    return "Read the full report from the main source."
 
 
 def parse_feed(xml_bytes: bytes, source: dict[str, Any], cutoff: dt.datetime) -> list[dict[str, Any]]:
@@ -703,7 +688,7 @@ def parse_feed(xml_bytes: bytes, source: dict[str, Any], cutoff: dt.datetime) ->
             "category": cats,
             "status": source_status(publisher, 1),
             "entity": "",
-            "entity_type": "coaches" if "Coach" in cats else "players",
+            "entity_type": "players",
             "club": "",
             "image": "",
             "source_priority": score,
@@ -723,6 +708,24 @@ def same_story(first: dict[str, Any], second: dict[str, Any]) -> bool:
     second_words = significant_words(second["title"])
     overlap = first_words & second_words
     return len(overlap) >= 4
+
+
+def detect_entities_and_clubs(item: dict[str, Any]) -> None:
+    """Matchar titeln mot ordlistan för att automatiskt sätta fält för bildvisning."""
+    title = item.get("title", "")
+    
+    # Detektera klubb
+    for club_key, club_slug in FAMOUS_CLUBS.items():
+        if re.search(rf"\b{re.escape(club_key)}\b", title, re.I):
+            item["club"] = club_slug
+            break
+            
+    # Detektera spelare/tränare
+    for entity_key, (entity_slug, entity_type) in FAMOUS_ENTITIES.items():
+        if re.search(rf"\b{re.escape(entity_key)}\b", title, re.I):
+            item["entity"] = entity_slug
+            item["entity_type"] = entity_type
+            break
 
 
 def merge_stories(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
@@ -778,7 +781,7 @@ def merge_stories(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
             )
             lead["summary"] = summary_candidates[0][:850]
         elif not lead.get("summary"):
-            lead["summary"] = ""  # filled by article enrichment after final selection
+            lead["summary"] = ""
 
         lead.pop("source_priority", None)
         merged.append(lead)
@@ -794,29 +797,25 @@ GENERIC_FALLBACK = "Read the full report from the main source."
 
 
 def build_fallback(source_name: str) -> str:
-    """A source-specific 'read at the source' line, so items without a fetchable
-    summary read as intentional rather than a repeated placeholder."""
     name = (source_name or "").strip()
     if not name:
         return GENERIC_FALLBACK
     if name in OFFICIAL_SOURCES:
         return f"Official update from {name} — full announcement at the source."
-    if "/" in name:  # e.g. "David Ornstein / The Athletic"
+    if "/" in name:
         journalist = name.split("/", 1)[0].strip()
         return f"{journalist} has the full story at the source."
     return f"Read the full report at {name}."
 
 
 def enrich_summary(item: dict[str, Any]) -> None:
-    """Resolve the real article URL and fill the summary from og:description if
-    the RSS text was too weak. Mutates the item; safe to run in a thread."""
-    current = clean_text(item.get("summary", ""))
-    needs_intro = len(current) < 70
+    current_summary = clean_text(item.get("summary", ""))
+    needs_intro = len(current_summary) < 70
 
     source = item.get("main_source") or (item.get("sources") or [{}])[0]
     url = source.get("url", "")
     if not url:
-        if not current:
+        if not current_summary:
             item["summary"] = build_fallback(source.get("name", ""))
         return
 
@@ -828,16 +827,22 @@ def enrich_summary(item: dict[str, Any]) -> None:
                 other["url"] = resolved
         url = resolved
 
-    if needs_intro:
-        intro = extract_article_intro(url, item.get("title", ""))
-        if intro:
+    # Detektera entiteter (Klubb, Spelare) för att matcha dina lokala bilder
+    detect_entities_and_clubs(item)
+
+    # Om vi behöver hämta texten eller saknar bild, gör en nätverksförfrågan
+    if needs_intro or not item.get("image"):
+        intro, og_image = extract_article_metadata(url, item.get("title", ""))
+        if intro and needs_intro:
             item["summary"] = intro
-        elif not current:
-            item["summary"] = build_fallback(source.get("name", ""))
+        if og_image:
+            item["image"] = og_image
+
+    if not clean_text(item.get("summary", "")):
+        item["summary"] = build_fallback(source.get("name", ""))
 
 
 def enrich_selected(items: list[dict[str, Any]], workers: int = 8) -> None:
-    """Fetch article intros in parallel — only for the final selection."""
     if not items:
         return
     with ThreadPoolExecutor(max_workers=workers) as executor:
@@ -872,9 +877,9 @@ def main() -> int:
     for item in merged:
         source_name = item["main_source"]["name"]
         if source_name in OFFICIAL_SOURCES:
-            limit = 3       # clubs: cap tighter — official items are Google-sourced and unique but few
+            limit = 3
         elif source_name in SOURCE_RANK:
-            limit = 10      # trusted RSS publishers + top journalists
+            limit = 10
         else:
             limit = 4
         if publisher_counts.get(source_name, 0) >= limit:
@@ -891,7 +896,6 @@ def main() -> int:
         print("No acceptable stories remained; keeping the existing news.json unchanged.")
         return 0
 
-    # Fetch article intros only now, for the final selection, in parallel.
     enrich_selected(selected)
 
     payload = {"updated_at": NOW.isoformat(), "items": selected}
