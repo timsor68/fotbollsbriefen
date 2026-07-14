@@ -60,7 +60,51 @@ function statusClass(s){if(/official|confirmed/i.test(s))return"official";if(/cr
 function fmtDate(s){return new Date(s).toLocaleDateString("en-GB",{day:"numeric",month:"short"})}
 function isNew(x){return !!previousVisit&&new Date(x.published_at)>new Date(previousVisit)}
 function isChanged(x){return !!previousState[x.id]&&previousState[x.id]!==fingerprint(x)}
-function imgCandidates(x){const out=[];if(x.image)out.push(x.image);if(x.entity&&x.entity_type)for(const ext of ["jpg","jpeg","png","webp"])out.push(`images/${x.entity_type}/${slug(x.entity)}.${ext}`);if(x.club)for(const ext of ["png","jpg","jpeg","webp"])out.push(`images/clubs/${slug(x.club)}.${ext}`);return out}
+
+// Lista på de journalister som vi har sparade bilder för
+const FAMOUS_JOURNALISTS = [
+  "Fabrizio Romano", 
+  "David Ornstein", 
+  "Simon Stone", 
+  "Paul Joyce", 
+  "Sam Lee", 
+  "Laurie Whitwell", 
+  "James Pearce", 
+  "Guillem Balague", 
+  "Gianluca Di Marzio"
+];
+
+function imgCandidates(x){
+ const out=[];
+ // 1. Förstahandsval: Artikelns specifika bild (og:image hämtad av Python)
+ if(x.image) out.push(x.image);
+ 
+ // 2. Andrahandsval: Spelar-/Tränarbild från lokala biblioteket
+ if(x.entity && x.entity_type) {
+   for(const ext of ["jpg","jpeg","png","webp"]) {
+     out.push(`images/${x.entity_type}/${slug(x.entity)}.${ext}`);
+   }
+ }
+ 
+ // 3. Tredjehandsval: Klubbmärke från lokala biblioteket
+ if(x.club) {
+   for(const ext of ["png","jpg","jpeg","webp"]) {
+     out.push(`images/clubs/${slug(x.club)}.${ext}`);
+   }
+ }
+
+ // 4. Fjärdehandsval: Journalistbild om nyheten är skriven av en Tier 1-journalist
+ const mainSource = x.main_source?.name || "";
+ const journalist = FAMOUS_JOURNALISTS.find(j => mainSource.toLowerCase().includes(j.toLowerCase()));
+ if(journalist) {
+   for(const ext of ["jpg","jpeg","png","webp"]) {
+     out.push(`images/journalists/${slug(journalist)}.${ext}`);
+   }
+ }
+ 
+ return out;
+}
+
 function setImage(img,wrap,candidates,i=0){if(i>=candidates.length)return;img.onload=()=>wrap.classList.add("ready");img.onerror=()=>setImage(img,wrap,candidates,i+1);img.src=candidates[i]}
 
 function highlight(text, query) {
@@ -138,7 +182,6 @@ async function load(){
  }catch(e){msg.textContent="Could not load the latest news file. The previous content remains visible."}
  finally{clearTimeout(timer);b.disabled=false;b.textContent="↻ Refresh"}
 }
-document.getElementById("search").oninput=render;document.getElementById;
 document.getElementById("search").oninput=render;document.getElementById("refresh").onclick=load;renderFilters();load();
 </script>
 </body>
