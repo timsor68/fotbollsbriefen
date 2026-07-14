@@ -25,9 +25,9 @@ main{max-width:1420px;margin:22px auto;padding:0 22px 42px}.intro{display:flex;j
 .media::before{content:"⚽";position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg, #168b50, #07301e);display:grid;place-items:center;font-size:48px;z-index:1;opacity:0.8}
 .body{padding:15px;flex-grow:1;display:flex;flex-direction:column}.meta{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:8px;font-size:12px}.badge{padding:4px 8px;border-radius:999px;background:#edf2f4;font-weight:700}
 .official{background:#e5f5ec;color:#12643b}.credible{background:#fff2d4;color:#7a5009}.reported{background:#fdeaea;color:#8e2d2d}
-.since{background:#dff3ff;color:#155b7a}.changed{background:#eee7ff;color:#5d3a91}
+.since{background:#dff3ff;color:#155b7a;border:1px solid #b3e0ff}.changed{background:#eee7ff;color:#5d3a91;border:1px solid #dcd0ff}
 .card h3{font-size:20px;line-height:1.24;margin:0 0 8px}.card h3 a{color:var(--ink);text-decoration:none}.card h3 a:hover{color:var(--green);text-decoration:underline}
-.card p{font-size:15px;line-height:1.55;color:#40505c;margin:0 0 14px;flex-grow:1}
+.card p{font-size:15px;line-height:1.65;color:#2c3a45;margin:0 0 14px;flex-grow:1}
 .sources{border-top:1px solid var(--line);padding-top:11px;font-size:13px;color:var(--muted);position:relative}
 .sources a{color:var(--green);font-weight:700;text-decoration:none}.sourceRow{margin-top:5px;padding-right:40px}.sourceLabel{font-weight:700;color:#4b5963}
 .share-btn{position:absolute;bottom:0;right:0;border:0;background:none;font-size:16px;cursor:pointer;padding:6px;border-radius:50%;display:grid;place-items:center;transition:background 0.2s}
@@ -138,6 +138,7 @@ async function load(){
  }catch(e){msg.textContent="Could not load the latest news file. The previous content remains visible."}
  finally{clearTimeout(timer);b.disabled=false;b.textContent="↻ Refresh"}
 }
+document.getElementById("search").oninput=render;document.getElementById;
 document.getElementById("search").oninput=render;document.getElementById("refresh").onclick=load;renderFilters();load();
 </script>
 </body>
