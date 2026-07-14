@@ -1,102 +1,30 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Fotbollsbriefen</title>
-<style>
-:root{--bg:#eef2f4;--paper:#fff;--ink:#13202a;--muted:#687680;--line:#dbe2e7;--green:#075f37;--deep:#07301e}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:Arial,Helvetica,sans-serif}
-header{position:sticky;top:0;z-index:20;background:var(--deep);color:#fff;box-shadow:0 3px 16px #0004}
-.top{max-width:1420px;margin:auto;padding:16px 22px 11px;display:flex;gap:18px;align-items:center;justify-content:space-between;flex-wrap:wrap}
-.brand{display:flex;gap:11px;align-items:center}.logo{width:43px;height:43px;border-radius:50%;display:grid;place-items:center;background:#168b50;font-size:23px}
-h1{font-size:29px;line-height:1;margin:0}.tag{font-size:13px;color:#cde8d8;margin-top:5px}
-.actions{display:flex;gap:9px;align-items:center;flex:1;justify-content:flex-end;max-width:720px}.search{flex:1;min-width:240px}
-.search input{width:100%;border:0;border-radius:9px;padding:12px 14px;font-size:15px}.refresh{border:0;border-radius:9px;padding:12px 15px;background:#fff;color:var(--deep);font-weight:700;cursor:pointer;white-space:nowrap}
-.refresh:disabled{opacity:.65;cursor:wait}nav{max-width:1420px;margin:auto;padding:0 22px 13px;display:flex;gap:8px;overflow-x:auto}
-.filter{border:1px solid #ffffff35;background:#ffffff12;color:#fff;border-radius:999px;padding:8px 12px;font-size:13px;font-weight:700;white-space:nowrap;cursor:pointer}
-.filter.active,.filter:hover{background:#fff;color:var(--deep)}
-main{max-width:1420px;margin:22px auto;padding:0 22px 42px}.intro{display:flex;justify-content:space-between;align-items:end;gap:18px;margin-bottom:12px}
-.intro h2{font-size:25px;margin:0}.updated{font-size:13px;color:var(--muted)}.message{min-height:18px;margin:0 0 10px;color:var(--muted);font-size:13px}
-.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:15px;align-items:start}.card{background:#fff;border:1px solid var(--line);border-radius:13px;overflow:hidden;box-shadow:0 3px 13px #0000000c;display:flex;flex-direction:column;height:100%}
-.media{height:210px;background:#eef2f4;position:relative;overflow:hidden}.media.ready{background:none}
-.media img{width:100%;height:100%;object-fit:cover;object-position:center 18%;display:none;position:relative;z-index:2}
-.media.ready img{display:block}
-/* Snygg sportig placeholder som visas medan bilden laddas eller om den saknas */
-.media::before{content:"⚽";position:absolute;top:0;left:0;width:100%;height:100%;background:linear-gradient(135deg, #168b50, #07301e);display:grid;place-items:center;font-size:48px;z-index:1;opacity:0.8}
-.body{padding:15px;flex-grow:1;display:flex;flex-direction:column}.meta{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:8px;font-size:12px}.badge{padding:4px 8px;border-radius:999px;background:#edf2f4;font-weight:700}
-.official{background:#e5f5ec;color:#12643b}.credible{background:#fff2d4;color:#7a5009}.reported{background:#fdeaea;color:#8e2d2d}
-.since{background:#dff3ff;color:#155b7a}.changed{background:#eee7ff;color:#5d3a91}
-.card h3{font-size:20px;line-height:1.24;margin:0 0 8px}.card h3 a{color:var(--ink);text-decoration:none}.card h3 a:hover{color:var(--green);text-decoration:underline}
-.card p{font-size:15px;line-height:1.55;color:#40505c;margin:0 0 14px;flex-grow:1}
-.sources{border-top:1px solid var(--line);padding-top:11px;font-size:13px;color:var(--muted);position:relative}
-.sources a{color:var(--green);font-weight:700;text-decoration:none}.sourceRow{margin-top:5px;padding-right:40px}.sourceLabel{font-weight:700;color:#4b5963}
-/* Dela-knapp i nedre högra hörnet */
-.share-btn{position:absolute;bottom:0;right:0;border:0;background:none;font-size:16px;cursor:pointer;padding:6px;border-radius:50%;display:grid;place-items:center;transition:background 0.2s}
-.share-btn:hover{background:#f3f5f6}
-.share-tooltip{position:absolute;bottom:35px;right:0;background:var(--ink);color:#fff;font-size:11px;padding:4px 8px;border-radius:4px;white-space:nowrap;pointer-events:none;opacity:0;transition:opacity 0.2s}
-.share-tooltip.show{opacity:1}
-/* Highlighter för sökord */
-mark{background:#fff2a3;color:var(--ink);padding:0 2px;border-radius:2px}
-.empty{display:none;background:#fff;border:1px solid var(--line);border-radius:13px;padding:28px;text-align:center;color:var(--muted)}
-footer{text-align:center;color:#74808a;font-size:13px;padding:24px}
-@media(max-width:1050px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
-@media(max-width:720px){.grid{grid-template-columns:1fr}.actions{max-width:none;width:100%}.search{min-width:0}.intro{flex-direction:column;align-items:flex-start}.media{height:160px}}
-</style>
-</head>
-<body>
-<header><div class="top"><div class="brand"><div class="logo">⚽</div><div><h1>Fotbollsbriefen</h1><div class="tag">European football news — fast and concise</div></div></div>
-<div class="actions"><div class="search"><input id="search" type="search" placeholder="Search player, coach, club or league…"></div><button class="refresh" id="refresh">↻ Refresh</button></div></div>
-<nav id="filters"></nav></header>
-<main><div class="intro"><h2>Latest news <span id="count" style="font-size:14px;font-weight:normal;color:var(--muted)"></span></h2><div class="updated" id="updated"></div></div>
-<div class="message" id="message"></div><div class="grid" id="grid"></div><div class="empty" id="empty">No stories match your selection.</div></main>
-<footer>Fotbollsbriefen · European football news from the last seven days</footer>
-<script>
-const FILTERS=["All","Premier League","La Liga","Serie A","Bundesliga","Ligue 1","Transfer","Coach"];
-const VISIT_KEY="fb_final_last_visit",STATE_KEY="fb_final_story_state";
-let data={items:[]},active="All",previousVisit=localStorage.getItem(VISIT_KEY),previousState={};
-try{previousState=JSON.parse(localStorage.getItem(STATE_KEY)||"{}")}catch(e){}
-const esc=s=>String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]));
-const slug=s=>String(s||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
-const fingerprint=x=>JSON.stringify([x.title,x.summary,x.status,(x.sources||[]).map(s=>s.name).sort()]);
-function statusClass(s){if(/official|confirmed/i.test(s))return"official";if(/credible/i.test(s))return"credible";return"reported"}
-function fmtDate(s){return new Date(s).toLocaleDateString("en-GB",{day:"numeric",month:"short"})}
-function isNew(x){return !!previousVisit&&new Date(x.published_at)>new Date(previousVisit)}
-function isChanged(x){return !!previousState[x.id]&&previousState[x.id]!==fingerprint(x)}
-function imgCandidates(x){const out=[];if(x.image)out.push(x.image);if(x.entity&&x.entity_type)for(const ext of ["jpg","jpeg","png","webp"])out.push(`images/${x.entity_type}/${slug(x.entity)}.${ext}`);if(x.club)for(const ext of ["png","jpg","jpeg","webp"])out.push(`images/clubs/${slug(x.club)}.${ext}`);return out}
-function setImage(img,wrap,candidates,i=0){if(i>=candidates.length)return;img.onload=()=>wrap.classList.add("ready");img.onerror=()=>setImage(img,wrap,candidates,i+1);img.src=candidates[i]}
-
-// Funktion för att highlighta sökord i texten
-function highlight(text, query) {
-  if (!query) return esc(text);
-  const escapedQuery = query.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
-  const regex = new RegExp(`(${escapedQuery})`, 'gi');
-  return esc(text).replace(regex, '<mark>$1</mark>');
-}
-
-// Dela-funktion
-async function shareStory(title, url, btn) {
-  const tooltip = btn.nextElementSibling;
-  const shareData = { title: "Fotbollsbriefen", text: title, url: url };
-  
-  if (navigator.share && navigator.canShare && navigator.canShare(shareData)) {
-    try {
-      await navigator.share(shareData);
-    } catch (e) {}
-  } else {
-    try {
-      await navigator.clipboard.writeText(`${title} - ${url}`);
-      tooltip.classList.add("show");
-      setTimeout(() => tooltip.classList.remove("show"), 2000);
-    } catch (e) {}
-  }
-}
-
-function renderFilters(){const n=document.getElementById("filters");n.innerHTML=FILTERS.map(f=>`<button class="filter ${f===active?"active":""}" data-f="${esc(f)}">${esc(f)}</button>`).join("");n.querySelectorAll("button").forEach(b=>b.onclick=()=>{active=b.dataset.f;renderFilters();render()})}
-
 function render(){
  const q=document.getElementById("search").value.trim().toLowerCase(),grid=document.getElementById("grid");grid.innerHTML="";
- const items=(data.items||[]).filter(x=>(active==="All"||(x.category||[]).includes(active))&&(!q||(x.title+" "+x.summary+" "+(x.entity||"")+" "+(x.club||"")+" "+(x.category||[]).join(" ")+" "+(x.sources||[]).map(s=>s.name).join(" ")).toLowerCase().includes(q)));
+ 
+ // 1. Filtrera artiklarna först baserat på kategori och sökning (behåll din befintliga filterlogik)
+ const matchedItems = (data.items||[]).filter(x=>(active==="All"||(x.category||[]).includes(active))&&(!q||(x.title+" "+x.summary+" "+(x.entity||"")+" "+(x.club||"")+" "+(x.category||[]).join(" ")+" "+(x.sources||[]).map(s=>s.name).join(" ")).toLowerCase().includes(q)));
+ 
+ // 2. Funktion för att kontrollera om en artikel har en fallback-text
+ const isFallback = (summary) => {
+   const txt = String(summary || "").toLowerCase();
+   return txt.includes("read the full report") || 
+          txt.includes("official update from") || 
+          txt.includes("has the full story");
+ };
+
+ // 3. Dela upp artiklarna i två listor: Riktiga nyheter och Fallbacks
+ const richStories = matchedItems.filter(x => !isFallback(x.summary));
+ const fallbackStories = matchedItems.filter(x => isFallback(x.summary));
+
+ // 4. Sortera båda listorna efter publiceringsdatum (nyast först)
+ const sortByDate = (a, b) => new Date(b.published_at) - new Date(a.published_at);
+ richStories.sort(sortByDate);
+ fallbackStories.sort(sortByDate);
+
+ // 5. Slå ihop listorna så att de med riktig text alltid visas först
+ const items = [...richStories, ...fallbackStories];
+
+ // 6. Rendera ut korten på sidan (din befintliga render-loop)
  items.forEach(x=>{const e=document.createElement("article");e.className="card";
  const targetUrl = x.main_source?.url||x.sources?.[0]?.url||"#";
  e.innerHTML=`<div class="media"><img alt="${esc(x.entity||x.title)}"></div><div class="body"><div class="meta">${(x.category||[]).slice(0,2).map(c=>`<span class="badge">${esc(c)}</span>`).join("")}<span class="badge ${statusClass(x.status)}">${esc(x.status)}</span>${isNew(x)?'<span class="badge since">New since last visit</span>':''}${isChanged(x)?'<span class="badge changed">Updated</span>':''}<span class="badge">${fmtDate(x.published_at)}</span></div>
@@ -106,25 +34,7 @@ function render(){
  <span class="share-tooltip">Kopierad!</span>
  </div></div>`;
  grid.appendChild(e);setImage(e.querySelector("img"),e.querySelector(".media"),imgCandidates(x))});
+ 
  document.getElementById("count").textContent=`· ${items.length} stories · ${new Set(items.flatMap(x=>(x.sources||[]).map(s=>s.name))).size} sources`;
  document.getElementById("empty").style.display=items.length?"none":"block";
 }
-
-async function load(){
- const b=document.getElementById("refresh"),msg=document.getElementById("message");
- b.disabled=true;b.textContent="↻ Refreshing…";msg.textContent="Loading the latest published news file…";
- const timer=setTimeout(()=>msg.textContent="This is taking longer than expected, but the page remains usable.",7000);
- try{
-  const r=await fetch(`news.json?t=${Date.now()}`,{cache:"no-store"});if(!r.ok)throw new Error("HTTP "+r.status);
-  data=await r.json();render();
-  document.getElementById("updated").textContent="Last updated: "+new Date(data.updated_at).toLocaleString("en-GB",{day:"numeric",month:"long",hour:"2-digit",minute:"2-digit"});
-  msg.textContent="Updated.";
-  const state={};(data.items||[]).forEach(x=>state[x.id]=fingerprint(x));
-  setTimeout(()=>{localStorage.setItem(STATE_KEY,JSON.stringify(state));localStorage.setItem(VISIT_KEY,new Date().toISOString())},4000);
- }catch(e){msg.textContent="Could not load the latest news file. The previous content remains visible."}
- finally{clearTimeout(timer);b.disabled=false;b.textContent="↻ Refresh"}
-}
-document.getElementById("search").oninput=render;document.getElementById("refresh").onclick=load;renderFilters();load();
-</script>
-</body>
-</html>
