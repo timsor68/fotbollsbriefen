@@ -59,17 +59,19 @@ FAMOUS_CLUBS = {
     "PSG": "psg",
 }
 
+# Utökad för att stoppa kändis-/livsstilsartiklar utan sportsligt nyhetsvärde
 JUNK_RE = re.compile(
     r"\b(shop|store|shirt|jersey|kit|merchandise|tickets?|hospitality|gallery|"
     r"training gallery|inside training|watch now|video|quiz|wallpaper|download|"
     r"membership|museum|tour|matchday programme|podcast|fixtures?|kick-?off|"
     r"line-?up|starting xi|team news|live blog|live updates|academy|under-18|u18|"
     r"under-21|u21|women'?s|kids?|press conference|best of|how to watch|preview|"
-    r"highlights|match report|standings|table|full-time|final score)\b",
+    r"highlights|match report|standings|table|full-time|final score|"
+    r"hair-stylist|haircut|barber|frisör|frisyr|fashion|style|lifestyle)\b",
     re.I,
 )
 
-# SMARTARE SPÄRR: Matchar ordets början för att stoppa cricketspelare, skidåkare, friidrottare etc.
+# Utökad för att blockera IOK, OS-politik och icke-fotbollsrelaterade organisationsnyheter
 OTHER_SPORTS_RE = re.compile(
     r"\b(crick|golf|mcilroy|tiger woods|formula 1|f1|tennis|wimbledon|djokovic|"
     r"alcaraz|swimming|athlet|rugby|nfl|super bowl|nba|basket|baseball|"
@@ -79,7 +81,8 @@ OTHER_SPORTS_RE = re.compile(
     r"skid|längdskid|skidskytte|alpin|slalom|frida karlsson|ebba andersson|kalla|"
     r"jonna sundling|shiffrin|victoriapris|victoriastipend|friidrott|löpning|"
     r"stavhopp|duplantis|ståhl|diskus|höjdhopp|ishockey|hockey|shl|nhl|"
-    r"shubman gill|julien alfred|tharp|axar patel|odi|häck|edgbaston|stands)\w*",
+    r"shubman gill|julien alfred|tharp|axar patel|odi|häck|edgbaston|stands|"
+    r"iok|ioc|olympiska kommitt|eu-stöd|sportpolitik)\w*",
     re.I,
 )
 
