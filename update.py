@@ -84,7 +84,8 @@ NEWS_SIGNAL_RE = re.compile(
     r"leaves|left|contract|renew|extension|injury|injured|operation|surgery|"
     r"director|manager|coach|ban|suspension|investigation|fine|takeover|ownership|"
     r"bid|agreement|deal|medical|loan|release clause|retire|retirement|statement|"
-    r"confirmed|official|agrees|talks|negotiations|offer|rejects?|accepts?)\b",
+    r"confirmed|official|agrees|talks|negotiations|offer|rejects?|accepts?|"
+    r"värvning|klar för|kontrakt|skada|skadad|förlänger|tränare|sparkas|säljs)\b",
     re.I,
 )
 
@@ -127,13 +128,15 @@ OFF_TOPIC_RE = re.compile(
     re.I,
 )
 
+# Svenska källor har lagts till i listan över betrodda källor
 TRUSTED_PUBLISHERS = {
     "Reuters", "BBC Sport", "Simon Stone / BBC Sport",
     "David Ornstein / The Athletic", "The Athletic", "Fabrizio Romano",
     "Gianluca Di Marzio", "Sky Sports", "Kicker", "L'Équipe",
     "RMC Sport", "The Guardian", "ESPN", "Football Italia",
     "Marca", "AS", "Mundo Deportivo",
-    "Paul Joyce", "Sam Lee", "Laurie Whitwell", "James Pearce", "Guillem Balagué"
+    "Paul Joyce", "Sam Lee", "Laurie Whitwell", "James Pearce", "Guillem Balagué",
+    "SVT Sport", "SvenskaFans", "Fotbolltransfers", "Fotbollskanalen"
 }
 
 BLOCKED_PUBLISHERS = {
@@ -168,14 +171,18 @@ SOURCE_RANK = {
     "David Ornstein / The Athletic": 103,
     "Paul Joyce": 103,
     "The Athletic": 102,
+    "SVT Sport": 102,
     "Fabrizio Romano": 101,
     "Gianluca Di Marzio": 101,
     "Sam Lee": 100,
     "Laurie Whitwell": 100,
     "James Pearce": 100,
     "Guillem Balagué": 99,
+    "Fotbolltransfers": 96,
     "Sky Sports": 95,
+    "Fotbollskanalen": 93,
     "The Guardian": 91,
+    "SvenskaFans": 90,
     "ESPN": 89,
     "Football Italia": 88,
 }
@@ -207,6 +214,8 @@ STOPWORDS = {
     "reports", "latest", "today", "why", "what", "how", "when", "this", "that",
 }
 
+SWEDISH_WORDS = {"och", "att", "en", "ett", "med", "om", "eller", "men", "hos", "till", "från", "av", "på", "i"}
+
 
 def fetch(url: str, timeout: int = 22) -> bytes:
     request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
@@ -237,13 +246,13 @@ def parse_date(value: str) -> dt.datetime | None:
 
 
 def normalize(value: str) -> str:
-    value = re.sub(r"[^a-z0-9 ]", " ", value.lower())
+    value = re.sub(r"[^a-zåäö0-9 ]", " ", value.lower())
     return re.sub(r"\s+", " ", value).strip()
 
 
 def significant_words(value: str) -> set[str]:
     return {
-        word for word in re.findall(r"[a-z0-9]+", normalize(value))
+        word for word in re.findall(r"[a-zåäö0-9]+", normalize(value))
         if len(word) >= 4 and word not in STOPWORDS
     }
 
@@ -265,7 +274,7 @@ def node_text(node: ET.Element, names: list[str]) -> str:
 def google_news_url(query: str, days: int) -> str:
     query = f"{query} when:{days}d"
     return "https://news.google.com/rss/search?" + urllib.parse.urlencode(
-        {"q": query, "hl": "en-GB", "gl": "GB", "ceid": "GB:en"}
+        {"q": query, "hl": "sv-SE", "gl": "SE", "ceid": "SE:sv"} if "fotbollskanalen" in query else {"q": query, "hl": "en-GB", "gl": "GB", "ceid": "GB:en"}
     )
 
 
@@ -279,7 +288,7 @@ def split_google_title(raw_title: str) -> tuple[str, str | None]:
 def clean_headline(title: str) -> str:
     title = clean_text(title)
     title = re.sub(
-        r"\s*[\|\-–—]\s*(Official Site|Official Website|News|Latest News).*$",
+        r"\s*[\|\-–—]\s*(Official Site|Official Website|News|Latest News|SVT Sport|Fotbollskanalen|SvenskaFans).*$",
         "",
         title,
         flags=re.I,
@@ -310,23 +319,29 @@ def clean_excerpt(summary: str, title: str) -> str:
     return " ".join(sentences)[:850]
 
 
-def categories(title: str) -> list[str]:
+def categories(title: str, publisher: str = "") -> list[str]:
     lowered = title.lower()
     output: list[str] = []
+    
+    # Om artikeln kommer från en svensk källa, tagga den med "Sverige"
+    if publisher in {"SVT Sport", "SvenskaFans", "Fotbolltransfers", "Fotbollskanalen"}:
+        output.append("Sverige")
+
     pairs = [
         ("Premier League", r"manchester|liverpool|arsenal|chelsea|tottenham|newcastle|aston villa|premier league|wolves|west ham|everton|crystal palace"),
         ("La Liga", r"barcelona|real madrid|atl[eé]tico|la liga|sevilla|villarreal|valencia|celta"),
         ("Serie A", r"juventus|milan|inter|napoli|roma|lazio|atalanta|fiorentina|serie a"),
         ("Bundesliga", r"bayern|dortmund|leverkusen|bundesliga|leipzig|frankfurt"),
         ("Ligue 1", r"psg|paris saint|marseille|monaco|lyon|ligue 1"),
-        ("Transfer", r"transfer|sign|deal|bid|joins|move|contract|renew|loan|medical|talks|agreement"),
-        ("Coach", r"manager|coach|head coach|trainer|sack|appointed"),
+        ("Transfer", r"transfer|sign|deal|bid|joins|move|contract|renew|loan|medical|talks|agreement|värvning|övergång"),
+        ("Coach", r"manager|coach|head coach|trainer|sack|appointed|tränare|sparkas"),
         ("Club management", r"sporting director|director of football|chief executive|ceo|owner|ownership"),
     ]
     for category, pattern in pairs:
         if re.search(pattern, lowered):
             output.append(category)
-    return output or ["Football"]
+            
+    return output or (["Sverige"] if "Sverige" in output else ["Football"])
 
 
 def source_status(source: str, source_count: int) -> str:
@@ -334,7 +349,7 @@ def source_status(source: str, source_count: int) -> str:
         return "Official"
     if source_count >= 2:
         return "Confirmed by multiple sources"
-    if source in {"Reuters", "BBC Sport", "Simon Stone / BBC Sport"}:
+    if source in {"Reuters", "BBC Sport", "Simon Stone / BBC Sport", "SVT Sport"}:
         return "Confirmed"
     if source in {
         "David Ornstein / The Athletic",
@@ -426,16 +441,21 @@ NON_ENGLISH_FUNCTION_WORDS = {
 }
 
 
-def is_probably_english(title: str, description: str = "") -> bool:
+def is_acceptable_language(title: str, description: str = "") -> bool:
+    """Tillåter antingen engelska eller svenska artiklar, men blockerar övriga språk."""
     text = clean_text(f"{title} {description}").lower()
-    words = re.findall(r"[a-zà-öø-ÿ]+", text)
+    words = re.findall(r"[a-zåäöà-öø-ÿ]+", text)
 
+    # 1. Kolla om det är svenska (innehåller svenska unika stoppord)
+    swedish_hits = sum(word in SWEDISH_WORDS for word in words)
+    if swedish_hits >= 2:
+        return True
+
+    # 2. Om inte svenska, kolla om det är ett annat icke-engelskt språk vi vill blockera
     strong_hits = sum(word in NON_ENGLISH_WORDS for word in words)
     function_hits = sum(word in NON_ENGLISH_FUNCTION_WORDS for word in words)
 
-    if strong_hits >= 1:
-        return False
-    if function_hits >= 3:
+    if strong_hits >= 1 or function_hits >= 3:
         return False
 
     return True
@@ -667,7 +687,7 @@ def parse_feed(xml_bytes: bytes, source: dict[str, Any], cutoff: dt.datetime) ->
         title = clean_headline(title)
         combined = f"{title} {raw_description}"
 
-        if not is_probably_english(title, raw_description):
+        if not is_acceptable_language(title, raw_description):
             continue
         if publisher in BLOCKED_PUBLISHERS:
             continue
@@ -694,7 +714,7 @@ def parse_feed(xml_bytes: bytes, source: dict[str, Any], cutoff: dt.datetime) ->
             continue
 
         summary = rss_only_summary(title, raw_description)
-        cats = categories(title)
+        cats = categories(title, publisher)
 
         output.append({
             "published_at": published.isoformat(),
