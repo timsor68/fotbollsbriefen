@@ -1,12 +1,1251 @@
 {
-  "updated_at": "2026-07-14T00:00:00+00:00",
+  "updated_at": "2026-07-14T13:34:30.386356+00:00",
   "items": [
     {
-      "id": "fotbollsbriefen-ready",
-      "published_at": "2026-07-14T00:00:00+00:00",
-      "updated_at": "2026-07-14T00:00:00+00:00",
-      "title": "Fotbollsbriefen is ready to fetch the latest stories",
-      "summary": "Run the GitHub workflow to replace this starter card with current football news from the configured sources.",
+      "published_at": "2026-07-08T17:02:00+00:00",
+      "updated_at": "2026-07-08T17:02:00+00:00",
+      "title": "Bruno Guimaraes hands in transfer request to join Arsenal - David Ornstein",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRkFVOFBvZzZuVFV4T1hKRXpmTVRQU3h3V3YyQ1k5YWNtckh3aVdGZ2d4VV9Cal9iU0V2cWFUWU12dmRsd2tMa0tBOENwaXV4bGRTZkwyOHlnN0loai1GNGxWb3dvcGNjZEJ0eVRjZ2V5Yi1IOG9fMFVyeVVHeEU5NjlfMkdEMV82anU5Njh5MTU4UGs3YXQ2ZEpRT2lsdGlVamc?oc=5"
+        },
+        {
+          "name": "footballtransfers.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdHpFMm9YWTR2NWNHNnFWdjdZaWsyR1loTzE5T3JFaUpfTmRDNWtncnZ1c2w5ZlVfS0dUZmRYdkIwMzJWcHVadFJwYWFlT09Ea1E4YlNKdUxOTHktbmVzellURUM1MWowS2R1a1Y2XzJYMzNnTW41dGx3UFBST0o3S3dqZjdGT3dkbER0Vl9iOUNRRHNOdFU4WGkwQVMyckhwREhEdC1XeF95WjViWEk5OE1kS2hKTTZZdTBKT3V4aEVKXzc4TDgwSWxCcDR0bHk3UWItTUJ3?oc=5"
+        },
+        {
+          "name": "GiveMeSport",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTklTTHVMOWtNaDBieDdRVmJZUDhkN0x0RFJHTjFTaHlhb0JIZmVCUzVsSk44TjJ1cldlOXdudFpSTkJYSjNfNDZqQlVKVkR5YjVvVWh1YWtFa255T1I5RG4xRV9ad3REdmktSmpuUjZkWDQ3ZVg5djB0Q2g3cVJ4dm1sLWMyQ2FzXzlmNFE3YU8?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRkFVOFBvZzZuVFV4T1hKRXpmTVRQU3h3V3YyQ1k5YWNtckh3aVdGZ2d4VV9Cal9iU0V2cWFUWU12dmRsd2tMa0tBOENwaXV4bGRTZkwyOHlnN0loai1GNGxWb3dvcGNjZEJ0eVRjZ2V5Yi1IOG9fMFVyeVVHeEU5NjlfMkdEMV82anU5Njh5MTU4UGs3YXQ2ZEpRT2lsdGlVamc?oc=5"
+      },
+      "confirmed_by": [
+        {
+          "name": "footballtransfers.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdHpFMm9YWTR2NWNHNnFWdjdZaWsyR1loTzE5T3JFaUpfTmRDNWtncnZ1c2w5ZlVfS0dUZmRYdkIwMzJWcHVadFJwYWFlT09Ea1E4YlNKdUxOTHktbmVzellURUM1MWowS2R1a1Y2XzJYMzNnTW41dGx3UFBST0o3S3dqZjdGT3dkbER0Vl9iOUNRRHNOdFU4WGkwQVMyckhwREhEdC1XeF95WjViWEk5OE1kS2hKTTZZdTBKT3V4aEVKXzc4TDgwSWxCcDR0bHk3UWItTUJ3?oc=5"
+        },
+        {
+          "name": "GiveMeSport",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTklTTHVMOWtNaDBieDdRVmJZUDhkN0x0RFJHTjFTaHlhb0JIZmVCUzVsSk44TjJ1cldlOXdudFpSTkJYSjNfNDZqQlVKVkR5YjVvVWh1YWtFa255T1I5RG4xRV9ad3REdmktSmpuUjZkWDQ3ZVg5djB0Q2g3cVJ4dm1sLWMyQ2FzXzlmNFE3YU8?oc=5"
+        }
+      ],
+      "id": "bruno-guimaraes-hands-in-transfer-request-to-join-arsenal-david-ornstein"
+    },
+    {
+      "published_at": "2026-07-13T16:29:28+00:00",
+      "updated_at": "2026-07-13T16:29:28+00:00",
+      "title": "Alonso wants to keep Fernandez at Chelsea",
+      "summary": "New Chelsea manager Xabi Alonso is unveiled at Stamford Bridge and says he wants to keep Enzo Fernandez at the club",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c4gyny9d0z2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRGpEaXZjc1BEaUlzdUJrd1N6NzQwSGVGRVNuQVVrZjFNS1FOUFFtQVpXSjZweDJHd3VSNTZNSUl1WHlmNkxpYzA2b0RuVUZvQjYxMllGbkpWV0VyZkUxWlZLWkktZTgwNU8zRkJPNURjSGpzZkdJYzNCSTYzRk5XV3Bvdk1VdTZCUkJCbWlQcGQxenFISWFYcEJ5T0toODFPcW5UeTRGRlVGUE1pNk9faVI0RlNQRDRKOW50NWJyQjZBZzN6RkFGQ3FKS3VrY3dOWVdudWprV21sMUQwanJIRlpTaW9hQTRmak4yTnNkaGtXYTJZS3BEak1lcExBLUZU?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c4gyny9d0z2o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRGpEaXZjc1BEaUlzdUJrd1N6NzQwSGVGRVNuQVVrZjFNS1FOUFFtQVpXSjZweDJHd3VSNTZNSUl1WHlmNkxpYzA2b0RuVUZvQjYxMllGbkpWV0VyZkUxWlZLWkktZTgwNU8zRkJPNURjSGpzZkdJYzNCSTYzRk5XV3Bvdk1VdTZCUkJCbWlQcGQxenFISWFYcEJ5T0toODFPcW5UeTRGRlVGUE1pNk9faVI0RlNQRDRKOW50NWJyQjZBZzN6RkFGQ3FKS3VrY3dOWVdudWprV21sMUQwanJIRlpTaW9hQTRmak4yTnNkaGtXYTJZS3BEak1lcExBLUZU?oc=5"
+        }
+      ],
+      "id": "alonso-wants-to-keep-fernandez-at-chelsea"
+    },
+    {
+      "published_at": "2026-07-11T14:48:39+00:00",
+      "updated_at": "2026-07-11T14:48:39+00:00",
+      "title": "World Cup 2026: Jurgen Klopp agrees deal in principle to become Germany coach",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Transfer",
+        "Coach"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "coaches",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3d2RVNkotcDY0TFpMelY0cGgtbkltOUMycDJmY0ZOZGFqWXg4R3ljNmhadmxpLVR6UG83OTdwM20wRHJrZ0l6SFFDcTJhQ0hBZUlEU0g3UGJTRHBDTldsd1pZdHpkRTA?oc=5"
+        },
+        {
+          "name": "Liverpool",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHU2SUlmeldtV1hKc0ZJUVBNbDdPV1NXd29oOFNCZXBvbGZVZmM1cUhscV80WGw2ZFhaSERlZGV4dGRPZERiODRkcF9Ec1dSeTZneWlDOXhSTE5Bc0tYa2QxdEh5aU5VMm1rS25NTHZCYkFtbWdnSjdZMkxJTzhaZ3ZqSVhuVm5uQ1VOSl9NNNIBlwFBVV95cUxNT3ZjeE5hdGZzdVZ6YldUYzFLTDlJRWFuZmxLM3N5VS1ZWmJ3LXkwVkpZN3dEOGREOGpRSnRSYWdxSFhDWkhrYS1Fd2VSRGo5ODZPWTdBeVN0NU9JdUIwUVMtUVMxN1A2WU5IaVhKTnpyRmlMZzBVUTNUOGdMRjJzX2JYbzRxVnE4R3g2eG1yZ2VJTUZRdDhV?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3d2RVNkotcDY0TFpMelY0cGgtbkltOUMycDJmY0ZOZGFqWXg4R3ljNmhadmxpLVR6UG83OTdwM20wRHJrZ0l6SFFDcTJhQ0hBZUlEU0g3UGJTRHBDTldsd1pZdHpkRTA?oc=5"
+      },
+      "confirmed_by": [
+        {
+          "name": "Liverpool",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHU2SUlmeldtV1hKc0ZJUVBNbDdPV1NXd29oOFNCZXBvbGZVZmM1cUhscV80WGw2ZFhaSERlZGV4dGRPZERiODRkcF9Ec1dSeTZneWlDOXhSTE5Bc0tYa2QxdEh5aU5VMm1rS25NTHZCYkFtbWdnSjdZMkxJTzhaZ3ZqSVhuVm5uQ1VOSl9NNNIBlwFBVV95cUxNT3ZjeE5hdGZzdVZ6YldUYzFLTDlJRWFuZmxLM3N5VS1ZWmJ3LXkwVkpZN3dEOGREOGpRSnRSYWdxSFhDWkhrYS1Fd2VSRGo5ODZPWTdBeVN0NU9JdUIwUVMtUVMxN1A2WU5IaVhKTnpyRmlMZzBVUTNUOGdMRjJzX2JYbzRxVnE4R3g2eG1yZ2VJTUZRdDhV?oc=5"
+        }
+      ],
+      "id": "world-cup-2026-jurgen-klopp-agrees-deal-in-principle-to-become-germany-coach"
+    },
+    {
+      "published_at": "2026-07-11T07:19:00+00:00",
+      "updated_at": "2026-07-11T07:19:00+00:00",
+      "title": "Nottingham Forest submit bid for “fantastic” 20-year-old defender",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Transfer Tavern",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0FITjJtRmU1TjF3QXN6eDl2VUJtZk5HUmZncmN0SFAxd3BuLXYybER5ZXZUQl9qeUMzeWpuaFRpcDVKSHcyM3NLeXdyeHVwYUJockM4OE1aMTFmWEZjX1NFZzd0WFhWNmxBRnJzWmNDbEJfUXBTY2wxd2tubEdkYXFaYU44S3hwY1pSZQ?oc=5"
+        },
+        {
+          "name": "Football FanCast",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeHQzX0Z4NlE0ZW1uMXYwMnU4NGtGUUhMNXgweldzdnNKMmdjcGUtRjJ5XzF6VmN6OGJkeXhjMkZyVHJ1RkttZi0xTFg5cVZGaGduMGtLUVZqVW9PMVc3dmRIbFZnZl9zcGllR1NHU2hhTk9OLWYwMHBtNDllR3M4TGN3ZUJFSFE?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Transfer Tavern",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0FITjJtRmU1TjF3QXN6eDl2VUJtZk5HUmZncmN0SFAxd3BuLXYybER5ZXZUQl9qeUMzeWpuaFRpcDVKSHcyM3NLeXdyeHVwYUJockM4OE1aMTFmWEZjX1NFZzd0WFhWNmxBRnJzWmNDbEJfUXBTY2wxd2tubEdkYXFaYU44S3hwY1pSZQ?oc=5"
+      },
+      "confirmed_by": [
+        {
+          "name": "Football FanCast",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeHQzX0Z4NlE0ZW1uMXYwMnU4NGtGUUhMNXgweldzdnNKMmdjcGUtRjJ5XzF6VmN6OGJkeXhjMkZyVHJ1RkttZi0xTFg5cVZGaGduMGtLUVZqVW9PMVc3dmRIbFZnZl9zcGllR1NHU2hhTk9OLWYwMHBtNDllR3M4TGN3ZUJFSFE?oc=5"
+        }
+      ],
+      "id": "nottingham-forest-submit-bid-for-fantastic-20-year-old-defender"
+    },
+    {
+      "published_at": "2026-07-10T19:01:44+00:00",
+      "updated_at": "2026-07-10T19:01:44+00:00",
+      "title": "Swiss without injured Manzambi for Argentina quarter-final, Yakin says",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMnkyMDBQWGlOZ09rTUR1eUZCcGo5YzZpYXpfSFBIZWtMN0k4eGhvYzlNV18tdFY3cW9qUExpMFBZN0FsOG85YjRuNHNienlBb2tHMkZobmc2VFUzYzMyamN6Tk9TU3JMczZubnBId0VISHNNZzhVdFMyQjdkM2ZjY1F4Q2hPTEJxeXFoeVRzTUJYUHBGdFk3djlYMlc4dmxLa3VmVktxaVFIazk0Y2RFQ3FoY3Ztdw?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMnkyMDBQWGlOZ09rTUR1eUZCcGo5YzZpYXpfSFBIZWtMN0k4eGhvYzlNV18tdFY3cW9qUExpMFBZN0FsOG85YjRuNHNienlBb2tHMkZobmc2VFUzYzMyamN6Tk9TU3JMczZubnBId0VISHNNZzhVdFMyQjdkM2ZjY1F4Q2hPTEJxeXFoeVRzTUJYUHBGdFk3djlYMlc4dmxLa3VmVktxaVFIazk0Y2RFQ3FoY3Ztdw?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "swiss-without-injured-manzambi-for-argentina-quarter-final-yakin-says"
+    },
+    {
+      "published_at": "2026-07-14T11:52:08+00:00",
+      "updated_at": "2026-07-14T11:52:08+00:00",
+      "title": "Darlow joins Man Utd after Leeds exit",
+      "summary": "Manchester United sign veteran goalkeeper Karl Darlow after his contract expires at Leeds",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckg4gqj5kk5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckg4gqj5kk5o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "darlow-joins-man-utd-after-leeds-exit"
+    },
+    {
+      "published_at": "2026-07-14T11:35:08+00:00",
+      "updated_at": "2026-07-14T11:35:08+00:00",
+      "title": "Barry's journey from Accrington Stanley to World Cup semi-final",
+      "summary": "His playing career peaked at Accrington Stanley - now Anthony Barry is Thomas Tuchel's right-hand man in England's bid for World Cup glory",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c4gyng8z8v2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c4gyng8z8v2o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "barry-s-journey-from-accrington-stanley-to-world-cup-semi-final"
+    },
+    {
+      "published_at": "2026-07-14T11:00:09+00:00",
+      "updated_at": "2026-07-14T11:00:09+00:00",
+      "title": "Arsenal sign Germany forward Baum from RB Leipzig",
+      "summary": "Arsenal have signed Germany forward Lisa Baum on a permanent deal from RB Leipzig",
+      "category": [
+        "Premier League",
+        "Bundesliga",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5yzymzln5no?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5yzymzln5no?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "arsenal-sign-germany-forward-baum-from-rb-leipzig"
+    },
+    {
+      "published_at": "2026-07-14T10:08:08+00:00",
+      "updated_at": "2026-07-14T10:08:08+00:00",
+      "title": "Brighton sign Vuskovic from Spurs for club record £46m",
+      "summary": "Brighton sign Croatia defender Luka Vuskovic from Tottenham for a club record fee of £46m on a five-year contract, with an option for a further year",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cy7370x2yp7o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cy7370x2yp7o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "brighton-sign-vuskovic-from-spurs-for-club-record-46m"
+    },
+    {
+      "published_at": "2026-07-14T08:43:33+00:00",
+      "updated_at": "2026-07-14T08:43:33+00:00",
+      "title": "Everton close in on permament deal for Blundell",
+      "summary": "Everton are in advanced discussions with defender Hannah Blundell about a permanent deal following her successful loan spell last season",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c0qyxqw901wo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c0qyxqw901wo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "everton-close-in-on-permament-deal-for-blundell"
+    },
+    {
+      "published_at": "2026-07-14T07:27:27+00:00",
+      "updated_at": "2026-07-14T07:27:27+00:00",
+      "title": "London City's Asllani to sign one-year extension",
+      "summary": "London City Lionesses captain Kosovare Asllani signs a one-year contract extension despite suffering a serious injury",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cj9ggg2z0l4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cj9ggg2z0l4o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "london-city-s-asllani-to-sign-one-year-extension"
+    },
+    {
+      "published_at": "2026-07-13T19:25:25+00:00",
+      "updated_at": "2026-07-13T19:25:25+00:00",
+      "title": "Dutch referee dies weeks after being dropped from World Cup",
+      "summary": "Dutch football referee Rob Dieperink dies aged 38, weeks after he was dropped from officiating at the World Cup because of a police investigation in the UK",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cy06ej10n3xo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cy06ej10n3xo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "dutch-referee-dies-weeks-after-being-dropped-from-world-cup"
+    },
+    {
+      "published_at": "2026-07-13T19:00:16+00:00",
+      "updated_at": "2026-07-13T19:00:16+00:00",
+      "title": "Timing took me to Chelsea rather than Liverpool - Alonso",
+      "summary": "Chelsea manager Xabi Alonso says his arrival at Stamford Bridge instead of Liverpool was \"about timings\"",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/czj8rzxrp88o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/czj8rzxrp88o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "timing-took-me-to-chelsea-rather-than-liverpool-alonso"
+    },
+    {
+      "published_at": "2026-07-14T10:09:13+00:00",
+      "updated_at": "2026-07-14T10:09:13+00:00",
+      "title": "Sunderland to sign free agent Thomas Meunier following Lille exit",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONXk1MGJiamJRR0VNNHVNemFtVC1ELU04QWhHYkNVWWJyclBfTzBKVnhSbFhMVW1MbURLMlVFV3BncG1qUmgxcWIzb3RBZ3FTZ0Npd1VxQzZHTjc2THpSd1dVUDJka0pkZkVOanRxenV2N1Z6RFJYQ0l5WXNNb2g3Q1o3YVZMZHU1c3lKSVE3UFI?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONXk1MGJiamJRR0VNNHVNemFtVC1ELU04QWhHYkNVWWJyclBfTzBKVnhSbFhMVW1MbURLMlVFV3BncG1qUmgxcWIzb3RBZ3FTZ0Npd1VxQzZHTjc2THpSd1dVUDJka0pkZkVOanRxenV2N1Z6RFJYQ0l5WXNNb2g3Q1o3YVZMZHU1c3lKSVE3UFI?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "sunderland-to-sign-free-agent-thomas-meunier-following-lille-exit"
+    },
+    {
+      "published_at": "2026-07-14T09:00:56+00:00",
+      "updated_at": "2026-07-14T09:00:56+00:00",
+      "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Premier League",
+        "La Liga",
+        "Transfer"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSTZqS3RJUklXWk5icW1DaDZ5bEx0LTVDV29FemdSZER4bnc3d2Y4Nmg4NjFLQnNwalV2eEVKVGhNcVNEUWQ2UzFXbzdyV2ZITmVxTFZaUzRVYnlzcjBQRHV6bTUtRDQtTG9SNjltUllsVHRqcjFVTmJLMGt4MmE0Sks2VkZKd3dLaWk4TzJwZFg1SE9nM2d5R0FQRTZubXhvNjZGMUxia2UwNVZaWXBWOWVnY0VweTk0TUF1UlM3a0Qtc0p4YmpaNmRLZw?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSTZqS3RJUklXWk5icW1DaDZ5bEx0LTVDV29FemdSZER4bnc3d2Y4Nmg4NjFLQnNwalV2eEVKVGhNcVNEUWQ2UzFXbzdyV2ZITmVxTFZaUzRVYnlzcjBQRHV6bTUtRDQtTG9SNjltUllsVHRqcjFVTmJLMGt4MmE0Sks2VkZKd3dLaWk4TzJwZFg1SE9nM2d5R0FQRTZubXhvNjZGMUxia2UwNVZaWXBWOWVnY0VweTk0TUF1UlM3a0Qtc0p4YmpaNmRLZw?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "the-transfer-dealsheet-latest-on-man-utd-arsenal-liverpool-real-madrid-and-more-the-athlet"
+    },
+    {
+      "published_at": "2026-07-13T15:19:27+00:00",
+      "updated_at": "2026-07-13T15:19:27+00:00",
+      "title": "Manchester United set to finalise Youri Tielemans move from Aston Villa due to £35m release clause",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU3lHaTE0RDBkRGJwdlRRVklLeXRnSU9Od011X1pIdWlJcGdEdzJ1Zy1QS3ZuT3QxWGV0NlhiVVYxdHlaR3lXTnBpMG5lUGFSd3BVMmFGenVxM2NpVjU0Tk95MUZ2RzNZLVBiczBfS2xQNWU5Z2dfTktTc3lweGR6ZVR4N3NTSV8zQk9xWFhUQXZ1M3cwcmptUDgtVVNNSXMybjROVlUwb3VWWTA?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU3lHaTE0RDBkRGJwdlRRVklLeXRnSU9Od011X1pIdWlJcGdEdzJ1Zy1QS3ZuT3QxWGV0NlhiVVYxdHlaR3lXTnBpMG5lUGFSd3BVMmFGenVxM2NpVjU0Tk95MUZ2RzNZLVBiczBfS2xQNWU5Z2dfTktTc3lweGR6ZVR4N3NTSV8zQk9xWFhUQXZ1M3cwcmptUDgtVVNNSXMybjROVlUwb3VWWTA?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "manchester-united-set-to-finalise-youri-tielemans-move-from-aston-villa-due-to-35m-release"
+    },
+    {
+      "published_at": "2026-07-08T21:58:21+00:00",
+      "updated_at": "2026-07-08T21:58:21+00:00",
+      "title": "Crystal Palace set to sign defender Oscar Mingueza on free transfer - The Athletic",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcFlHSEJGZzZ2SkVfZ1lqUmllVEVQQmlyNXQxOWdlSWhZOHdmVmxmVGk2OEhMOUp3LUZGUW1hSmtYODY0S2FaempvTDB5NktHQ2cydUNDWUpfU0JpaHRvcDlUenNHaC1felg4Q3IyTVcxdGhVVUk3M285SmM2TXN4czZ0WFdQYXA3aVlQUHNUbjJpWTZ0VUFwZUFBd0U?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcFlHSEJGZzZ2SkVfZ1lqUmllVEVQQmlyNXQxOWdlSWhZOHdmVmxmVGk2OEhMOUp3LUZGUW1hSmtYODY0S2FaempvTDB5NktHQ2cydUNDWUpfU0JpaHRvcDlUenNHaC1felg4Q3IyTVcxdGhVVUk3M285SmM2TXN4czZ0WFdQYXA3aVlQUHNUbjJpWTZ0VUFwZUFBd0U?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "crystal-palace-set-to-sign-defender-oscar-mingueza-on-free-transfer-the-athletic"
+    },
+    {
+      "published_at": "2026-07-08T21:34:49+00:00",
+      "updated_at": "2026-07-08T21:34:49+00:00",
+      "title": "Aurelien Tchouameni signs new Real Madrid contract until 2031 - The Athletic",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "La Liga",
+        "Transfer"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQWVURWxHanlPZGlaUkNWekZ4U1g1TS1sNW5BZUlTUGFzUmJxUTRGWVVKTmVpN2lzc2h3M0ZhRERjT2NvT2ZGM0xzT2FWRXdWTE8xMXJ0Sk16U3VNSVltV1VPLUpTTnAxVzlwYjBDLVpPeEhwZXg1RVhHRGxyVUZEVE4wYkY1b3RWcUc5UW0xYndZQQ?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQWVURWxHanlPZGlaUkNWekZ4U1g1TS1sNW5BZUlTUGFzUmJxUTRGWVVKTmVpN2lzc2h3M0ZhRERjT2NvT2ZGM0xzT2FWRXdWTE8xMXJ0Sk16U3VNSVltV1VPLUpTTnAxVzlwYjBDLVpPeEhwZXg1RVhHRGxyVUZEVE4wYkY1b3RWcUc5UW0xYndZQQ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "aurelien-tchouameni-signs-new-real-madrid-contract-until-2031-the-athletic"
+    },
+    {
+      "published_at": "2026-07-08T20:35:03+00:00",
+      "updated_at": "2026-07-08T20:35:03+00:00",
+      "title": "Manchester United reach agreement to sign Andrey Santos from Chelsea - The Athletic",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNDhMcGMwZ191bW1fWUlKTnpjSFFzenFXQXgzOTBHYUNDalFOUmxuY3prSlp2WjdfekhDY0Zuc1Q0VXJwUGpqQmd4Wl9uY193aHpoWHd1LVJ2dTRNM0RGM3NkdDNPaE5SOTlrX0pib3E2Sk9TYTRjNHJWUG9kSTAtTW1pM3Zja1VDRURieDdLR3d4RXVicVoyU0FwcHY?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNDhMcGMwZ191bW1fWUlKTnpjSFFzenFXQXgzOTBHYUNDalFOUmxuY3prSlp2WjdfekhDY0Zuc1Q0VXJwUGpqQmd4Wl9uY193aHpoWHd1LVJ2dTRNM0RGM3NkdDNPaE5SOTlrX0pib3E2Sk9TYTRjNHJWUG9kSTAtTW1pM3Zja1VDRURieDdLR3d4RXVicVoyU0FwcHY?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "manchester-united-reach-agreement-to-sign-andrey-santos-from-chelsea-the-athletic"
+    },
+    {
+      "published_at": "2026-07-14T12:29:00+00:00",
+      "updated_at": "2026-07-14T12:29:00+00:00",
+      "title": "Arsenal forced into decision as David Ornstein drops €100m transfer bombshell",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "footballtransfers.com",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcThhVnBZSzhVU2hKd1Q1Z3dEczZEeWdXNWFGb3JNTHA0UGMtY0Z2VnVxOHBXTVRHTlpYT0VjTWw3ekNiU0p1ZG9pOEJfckdfSzFHUmpZYTlBSlJUZUZ3bllDZTI1OFU2Sjl5QXNaOGZlNWVCd0czaW5YNHMzX3JFOEllSVU1UEVXOXZ1MEhRVEN5Y05teVlyN0R6Y19md2pNbVZ3djVJMVBRX2tySlVTM3FBT1Z0MU5kTHAxbmJYd0R2SmJPbHBLcmRuTGp1X1FfRmxKS0x3cFpGdVNfa2UzUg?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "footballtransfers.com",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcThhVnBZSzhVU2hKd1Q1Z3dEczZEeWdXNWFGb3JNTHA0UGMtY0Z2VnVxOHBXTVRHTlpYT0VjTWw3ekNiU0p1ZG9pOEJfckdfSzFHUmpZYTlBSlJUZUZ3bllDZTI1OFU2Sjl5QXNaOGZlNWVCd0czaW5YNHMzX3JFOEllSVU1UEVXOXZ1MEhRVEN5Y05teVlyN0R6Y19md2pNbVZ3djVJMVBRX2tySlVTM3FBT1Z0MU5kTHAxbmJYd0R2SmJPbHBLcmRuTGp1X1FfRmxKS0x3cFpGdVNfa2UzUg?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "arsenal-forced-into-decision-as-david-ornstein-drops-100m-transfer-bombshell"
+    },
+    {
+      "published_at": "2026-07-14T12:06:00+00:00",
+      "updated_at": "2026-07-14T12:06:00+00:00",
+      "title": "OFFICIAL: Man Utd complete second summer signing",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "footballtransfers.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcE4wU1FoSmdxQ2VnVHdtZjIxMzAzXzVwa2hOSkk2TkNNdGg3eTk0eG4xS0NpNVpMN0w2VHRWdFBwMFhLdjBVbU04bmszNkl5Skw5cnBzSjIwVXd1N3Iya0FYUXdSV0pWZUFtRTBYWDJlbVV1UUFqQTVJNTZWTkFLN0VSWXEzU295VjdMajdsWExHUEh5SGJYcDhDYlpQanRDWlhSUEl5TmVWZzdQdnNkUW5BY1B6QzBBZ2RKWkR3V1piN21uSTRQcVRB?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "footballtransfers.com",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcE4wU1FoSmdxQ2VnVHdtZjIxMzAzXzVwa2hOSkk2TkNNdGg3eTk0eG4xS0NpNVpMN0w2VHRWdFBwMFhLdjBVbU04bmszNkl5Skw5cnBzSjIwVXd1N3Iya0FYUXdSV0pWZUFtRTBYWDJlbVV1UUFqQTVJNTZWTkFLN0VSWXEzU295VjdMajdsWExHUEh5SGJYcDhDYlpQanRDWlhSUEl5TmVWZzdQdnNkUW5BY1B6QzBBZ2RKWkR3V1piN21uSTRQcVRB?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "official-man-utd-complete-second-summer-signing"
+    },
+    {
+      "published_at": "2026-07-14T11:25:00+00:00",
+      "updated_at": "2026-07-14T11:25:00+00:00",
+      "title": "Done Deals: Every official completed transfer around Europe today",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "footballtransfers.com",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSUhncXJWaHh4Mzg5OWxYRjRYeklCNnNxMmd6Vk96anMxZDZNSWdCUzh2a1oxREVsWHA4NE0wRnRQaWdtU3ZRMUxhUWtDWUJpaFhSSy05a0RQb3ZYcE9kc3ctRG5FckxKSVQ1YlFaX0xYTXR4bl9YWTQ4NVZ2OWIxZ2RQMHRwbmw3RGstS1FMUm9WbHk4cVRKY2g1Ujh5NTV0XzhLYWdndHVFa0cyMTBCd1BXWXJXck5IWUs4YUh5RGxkTWVGRDVseU9oeW5tZVRpYUZaS01fcTZZckhEN0VLMmoyTXZjbGVBVnVsRmtvQllrMURqVVBoQ1pwby1ydw?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "footballtransfers.com",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSUhncXJWaHh4Mzg5OWxYRjRYeklCNnNxMmd6Vk96anMxZDZNSWdCUzh2a1oxREVsWHA4NE0wRnRQaWdtU3ZRMUxhUWtDWUJpaFhSSy05a0RQb3ZYcE9kc3ctRG5FckxKSVQ1YlFaX0xYTXR4bl9YWTQ4NVZ2OWIxZ2RQMHRwbmw3RGstS1FMUm9WbHk4cVRKY2g1Ujh5NTV0XzhLYWdndHVFa0cyMTBCd1BXWXJXck5IWUs4YUh5RGxkTWVGRDVseU9oeW5tZVRpYUZaS01fcTZZckhEN0VLMmoyTXZjbGVBVnVsRmtvQllrMURqVVBoQ1pwby1ydw?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "done-deals-every-official-completed-transfer-around-europe-today"
+    },
+    {
+      "published_at": "2026-07-14T10:27:00+00:00",
+      "updated_at": "2026-07-14T10:27:00+00:00",
+      "title": "Xabi Alonso forced to make new Chelsea transfer plan as deal collapses",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "footballtransfers.com",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNem1DLThUYmpWMkJ4TEJWeFU0UGRqLVE2TTBLbDBLVGF0bUYtV1dsbmZQbWRxSkdWR2g2NmFWMlBMVDdtMVNubXQ1ak56RUU2bTkyRFNxeW1YT3dsZG1iUkhmbEVGTld0VWRjTmtKRjJneEItaG5NZWViaE9SdmJ2YlVVUmNDVmxyUWFTOU8zUU9ldk5CWkRBbWpmZ3pvV1gyR05WbTRBN1FCVlgyLVpHVFFvbzRSb204UHZ4dW9xYklVNlhhdDQ3bTliRUdLQjVlWk1qZktjXzNBNXNYRnhjRnpR?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "footballtransfers.com",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNem1DLThUYmpWMkJ4TEJWeFU0UGRqLVE2TTBLbDBLVGF0bUYtV1dsbmZQbWRxSkdWR2g2NmFWMlBMVDdtMVNubXQ1ak56RUU2bTkyRFNxeW1YT3dsZG1iUkhmbEVGTld0VWRjTmtKRjJneEItaG5NZWViaE9SdmJ2YlVVUmNDVmxyUWFTOU8zUU9ldk5CWkRBbWpmZ3pvV1gyR05WbTRBN1FCVlgyLVpHVFFvbzRSb204UHZ4dW9xYklVNlhhdDQ3bTliRUdLQjVlWk1qZktjXzNBNXNYRnhjRnpR?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "xabi-alonso-forced-to-make-new-chelsea-transfer-plan-as-deal-collapses"
+    },
+    {
+      "published_at": "2026-07-13T12:23:10+00:00",
+      "updated_at": "2026-07-13T12:23:10+00:00",
+      "title": "Man Utd in “advanced talks” to seal bombshell Premier League move",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Transfer Tavern",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV2pmN0hZa21oSDI3cHRmM0lSRmswX3FQcUluMVpSenVZMTBLdi16cUtZN3A3Z1ZRd01NRzNEWkh4d2RWWDE5Mlh3YnFCdGRTajNUWGFjZzZ5YUY3LU13WXVTem8taFBOMjZyM0RMYkd1aDhxd0lmMi1KbmtJdFNRV3VqWmZWeUR4YlV2bjNBRTlCTDdXZTdz?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Transfer Tavern",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV2pmN0hZa21oSDI3cHRmM0lSRmswX3FQcUluMVpSenVZMTBLdi16cUtZN3A3Z1ZRd01NRzNEWkh4d2RWWDE5Mlh3YnFCdGRTajNUWGFjZzZ5YUY3LU13WXVTem8taFBOMjZyM0RMYkd1aDhxd0lmMi1KbmtJdFNRV3VqWmZWeUR4YlV2bjNBRTlCTDdXZTdz?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "man-utd-in-advanced-talks-to-seal-bombshell-premier-league-move"
+    },
+    {
+      "published_at": "2026-07-10T09:00:00+00:00",
+      "updated_at": "2026-07-10T09:00:00+00:00",
+      "title": "Chelsea Sell Santos to Man United for £50m in Deal with 10% Sell-On Clause",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Stretty News",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMnQ3c21SWG9ibExBSGNVcThnVnJGWE8ydnZFUVQxaDc5Ykl6RGFEMUNaRzJOWHFJNDlZeDluOE1QbUpXTndINmFnbTJPR3hXQ0VxdVRaT19XWjVkZHBVaXZwdU1aR1FsdThSeTRWQWZJQ1JKR0QwX1FPVTY4TksyeFVPRdIBiAFBVV95cUxNZ0F1eFVFWEdyUnJPakRIa3BJRXVUa3JmVVVXVUFwNTZzS3I1SkptTDNmSmpJcVIzeFQyblZ5d21lZTZybVB0djJQODAyaXBiRUh5S1JRWC11ODBBZ0F1U0pLUWRId3J3blV6QnpYUmgyMzB1eWI0ajZYSXFMQ001azhDVXFzSTZB?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Stretty News",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMnQ3c21SWG9ibExBSGNVcThnVnJGWE8ydnZFUVQxaDc5Ykl6RGFEMUNaRzJOWHFJNDlZeDluOE1QbUpXTndINmFnbTJPR3hXQ0VxdVRaT19XWjVkZHBVaXZwdU1aR1FsdThSeTRWQWZJQ1JKR0QwX1FPVTY4TksyeFVPRdIBiAFBVV95cUxNZ0F1eFVFWEdyUnJPakRIa3BJRXVUa3JmVVVXVUFwNTZzS3I1SkptTDNmSmpJcVIzeFQyblZ5d21lZTZybVB0djJQODAyaXBiRUh5S1JRWC11ODBBZ0F1U0pLUWRId3J3blV6QnpYUmgyMzB1eWI0ajZYSXFMQ001azhDVXFzSTZB?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "chelsea-sell-santos-to-man-united-for-50m-in-deal-with-10-sell-on-clause"
+    },
+    {
+      "published_at": "2026-07-09T09:50:38+00:00",
+      "updated_at": "2026-07-09T09:50:38+00:00",
+      "title": "David Ornstein confirms major Newcastle United transfer blow as another star wants to leave",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "EPL Index",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUFE0ZjdZaWxVVDNzTzRyc2xTd0IwQlNWOFRYODNocGJXMFNQa0FYd0xDYm1vU2JTVU5uNG4tTWxFU1p6bjhzTkNQWWdMYTFuSzBkRFRtTmpsR3Q0QXZEQXU2U1NmWnN2cnFmVWVaVUNlZV83b05iU25nd3NBYmJTTjBMSmY4S1BHSTBQMnhzbXQ3YWtwNE1SOW1PRWtHdkNfU2w0aXNLZzBMWTNaNmtGaFVsNkZxZFpVMmxLLW50Y2gxdw?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "EPL Index",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUFE0ZjdZaWxVVDNzTzRyc2xTd0IwQlNWOFRYODNocGJXMFNQa0FYd0xDYm1vU2JTVU5uNG4tTWxFU1p6bjhzTkNQWWdMYTFuSzBkRFRtTmpsR3Q0QXZEQXU2U1NmWnN2cnFmVWVaVUNlZV83b05iU25nd3NBYmJTTjBMSmY4S1BHSTBQMnhzbXQ3YWtwNE1SOW1PRWtHdkNfU2w0aXNLZzBMWTNaNmtGaFVsNkZxZFpVMmxLLW50Y2gxdw?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "david-ornstein-confirms-major-newcastle-united-transfer-blow-as-another-star-wants-to-leav"
+    },
+    {
+      "published_at": "2026-07-08T16:38:58+00:00",
+      "updated_at": "2026-07-08T16:38:58+00:00",
+      "title": "David Ornstein: Man Utd agree £50m-plus deal to sign Chelsea star with medical scheduled",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football FanCast",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTHpvZXpXMGFTZFgySzdYT0VSek8tQnBOOXlCSnZzRllKd2JxaTJDRUJDTWxTTzVMbTIyeW1jYUdUMmlyZkN4UDdMdnhKV0tjcDhKa1ZXZzh2cTJpd0s5ZmpzMmtLNzBHM3M5MEZDRGwtOGFheFR4RDVUamhHQjRPWXFXeUxFdGVzek5pMzNEN1ByV1FvXzhqbzdEWlI4dw?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football FanCast",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTHpvZXpXMGFTZFgySzdYT0VSek8tQnBOOXlCSnZzRllKd2JxaTJDRUJDTWxTTzVMbTIyeW1jYUdUMmlyZkN4UDdMdnhKV0tjcDhKa1ZXZzh2cTJpd0s5ZmpzMmtLNzBHM3M5MEZDRGwtOGFheFR4RDVUamhHQjRPWXFXeUxFdGVzek5pMzNEN1ByV1FvXzhqbzdEWlI4dw?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "david-ornstein-man-utd-agree-50m-plus-deal-to-sign-chelsea-star-with-medical-scheduled"
+    },
+    {
+      "published_at": "2026-07-13T15:15:18+00:00",
+      "updated_at": "2026-07-13T15:15:18+00:00",
+      "title": "Paris Saint-Germain Finalizes Deal to Sign Lucas Digne",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Akses.co.id",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yTEdXSGVqVEgxbDJpM2JkamZpd0VFRHpnallRWTVsR3dGdEFaNFdsY2Q2dEwwMV95SWt5UFEySWpfWWdHRzd6eTJONTBWeVlETmg2Z1NvdllZM1FqT2FYSzBrN3JFenBB?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Akses.co.id",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yTEdXSGVqVEgxbDJpM2JkamZpd0VFRHpnallRWTVsR3dGdEFaNFdsY2Q2dEwwMV95SWt5UFEySWpfWWdHRzd6eTJONTBWeVlETmg2Z1NvdllZM1FqT2FYSzBrN3JFenBB?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "paris-saint-germain-finalizes-deal-to-sign-lucas-digne"
+    },
+    {
+      "published_at": "2026-07-12T11:50:09+00:00",
+      "updated_at": "2026-07-12T11:50:09+00:00",
+      "title": "Galatasaray Close in on Transfer for Burnley Midfielder Lesley Ugochukwu",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "turkish-football.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb01uUTV3NWd3eXRhb0pMM0tuc0FXSDJFeHBwTy1kck5iVFBfV0xFOVNnVW44SEM3U2V3ZGN1aUtMMThFM1ZLd2pCWHFKaS1mNnczZVQ5anVwNjVxT0kyWVRyR0tqcGZvNmVyYlpETWJEcjhHejFJM1BHS1Y3eDlvX2NtNkNQNGpRTlpGOHo3N1dweTVJLTg3OUtpZzhibnJIZVo3bQ?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "turkish-football.com",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb01uUTV3NWd3eXRhb0pMM0tuc0FXSDJFeHBwTy1kck5iVFBfV0xFOVNnVW44SEM3U2V3ZGN1aUtMMThFM1ZLd2pCWHFKaS1mNnczZVQ5anVwNjVxT0kyWVRyR0tqcGZvNmVyYlpETWJEcjhHejFJM1BHS1Y3eDlvX2NtNkNQNGpRTlpGOHo3N1dweTVJLTg3OUtpZzhibnJIZVo3bQ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "galatasaray-close-in-on-transfer-for-burnley-midfielder-lesley-ugochukwu"
+    },
+    {
+      "published_at": "2026-07-11T22:59:29+00:00",
+      "updated_at": "2026-07-11T22:59:29+00:00",
+      "title": "Fabrizio Romano says iconic ‘Here we go’ transfer phrase happened by accident",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Opinion Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWmloQUx2ZzJLLU9tOXJxbFMzaDN1eWNfX0hINFBLeVNQMnFXVEdWRUZXdU5USktHbUJXVGt0SHhHcTFmaHdlbkptYjd6Uk5TVW1EdlFuSDVXaDhydGFtckJGQm5QMGNFOXpOY3JKNWhKalFHZ0l4ck1sOHRTZjlUcGFvT1hnSllDMHlqMWhwQ1VMYUZXclFzUjhUMGtqZDRJaDdtSER2LWwxWHc?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Opinion Nigeria",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWmloQUx2ZzJLLU9tOXJxbFMzaDN1eWNfX0hINFBLeVNQMnFXVEdWRUZXdU5USktHbUJXVGt0SHhHcTFmaHdlbkptYjd6Uk5TVW1EdlFuSDVXaDhydGFtckJGQm5QMGNFOXpOY3JKNWhKalFHZ0l4ck1sOHRTZjlUcGFvT1hnSllDMHlqMWhwQ1VMYUZXclFzUjhUMGtqZDRJaDdtSER2LWwxWHc?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "fabrizio-romano-says-iconic-here-we-go-transfer-phrase-happened-by-accident"
+    },
+    {
+      "published_at": "2026-07-10T19:45:00+00:00",
+      "updated_at": "2026-07-10T19:45:00+00:00",
+      "title": "Man United make stance clear on Ederson 'deal off' claims as £38m transfer doubts raised",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Manchester Evening News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOVNEamRjemt6Y1VXTnE3YWsyOEtrc0JlSGxNenFGZDJIXzlnSVhkd1lXeXpDdm0yMXVrSVlpd0loUGpXdFdmbVR2cXpGbXlqSERVVl9nWWh3MkNpSFY0NGhwYkJ1YTN3RE5zWTVWaE9WSmttWkNWWjRhcmhwSENnSzdGaEdHU2Q2a1gtY1d3Z2RVeUNwbG1XTnctOEtKMWhIcUVCcnNNTW91c0Q5Y1Fn0gG0AUFVX3lxTE1GdWdFR0ttQ0ZiNm5hRUxvUGs2WWItNllmVjVtclNveE8yOGFUcnBPdkhMZ2l6UXVxUzJORWlqVmpzT2JPaWdBb2c4TnctdXNidG4wZnRwOWxSVUIzZHcwTXR4elpjZElQdlNKb1hGU0VhM3BKYmx0QzR1ZGR0M2syc3Vnd2YxRk5zTFdlRzhHcnRHcUZfN3c3REZzRVY0eDROOHUzRUJoY0xhLUFfS3hwTVFxeA?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Manchester Evening News",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOVNEamRjemt6Y1VXTnE3YWsyOEtrc0JlSGxNenFGZDJIXzlnSVhkd1lXeXpDdm0yMXVrSVlpd0loUGpXdFdmbVR2cXpGbXlqSERVVl9nWWh3MkNpSFY0NGhwYkJ1YTN3RE5zWTVWaE9WSmttWkNWWjRhcmhwSENnSzdGaEdHU2Q2a1gtY1d3Z2RVeUNwbG1XTnctOEtKMWhIcUVCcnNNTW91c0Q5Y1Fn0gG0AUFVX3lxTE1GdWdFR0ttQ0ZiNm5hRUxvUGs2WWItNllmVjVtclNveE8yOGFUcnBPdkhMZ2l6UXVxUzJORWlqVmpzT2JPaWdBb2c4TnctdXNidG4wZnRwOWxSVUIzZHcwTXR4elpjZElQdlNKb1hGU0VhM3BKYmx0QzR1ZGR0M2syc3Vnd2YxRk5zTFdlRzhHcnRHcUZfN3c3REZzRVY0eDROOHUzRUJoY0xhLUFfS3hwTVFxeA?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "man-united-make-stance-clear-on-ederson-deal-off-claims-as-38m-transfer-doubts-raised"
+    },
+    {
+      "published_at": "2026-07-10T18:50:04+00:00",
+      "updated_at": "2026-07-10T18:50:04+00:00",
+      "title": "Manchester United abandon Ederson transfer worth €45m with Atalanta",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Premier League",
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Gianluca Di Marzio",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWHNjTE5vNDdFSHV1OW1ZMmNvb19DY1pIYTZTcm94RWNpZW9SZ3NLRGdxWmV6ZXNlNDFHRVNNZkRiR0NOblowLWk1Y0Z4LTBLa0FWMzR6cGlBbGlURV83ZWlhNFBCbnNYa0E5VGt6STVxSjBCMjIzYUJUYmNvd0pCNWtXWGRTSnpiM0lWMkFUNG05cy1RSjVZMm5VTVhrSVJRekpv?oc=5"
+        },
+        {
+          "name": "Football Italia",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zbklEWG5RV3lQcE8taFpJRlY2ZkZDbUw0bFdKa0RwWlFqVHZ1NHlQSFJIVGVCamNjV3RvMUVvenRReVRpOHZDenpKMGFKblFvOW5mZ1pCaktzOUhuRnQ0LWJNbEZGVkplTC1hck1PdWdkWmhJWGNnOWdpc9IBgAFBVV95cUxPdWs0MEpVNF9xdkFVQXhmb3J5Y3p0ektWLTVZWDlvbHdRaFJTWWt6Vno2dTlScVc4MXpLcklVY2dyVEQxSDJtVWlKUl94SjJtZ2Q0Q0JJMG1OLTdxR1lsaW5lenp6UmdUN0Z2Q1hUc05VTW03eUdmMnp5QW53aWpJVg?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Gianluca Di Marzio",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWHNjTE5vNDdFSHV1OW1ZMmNvb19DY1pIYTZTcm94RWNpZW9SZ3NLRGdxWmV6ZXNlNDFHRVNNZkRiR0NOblowLWk1Y0Z4LTBLa0FWMzR6cGlBbGlURV83ZWlhNFBCbnNYa0E5VGt6STVxSjBCMjIzYUJUYmNvd0pCNWtXWGRTSnpiM0lWMkFUNG05cy1RSjVZMm5VTVhrSVJRekpv?oc=5"
+      },
+      "confirmed_by": [
+        {
+          "name": "Football Italia",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zbklEWG5RV3lQcE8taFpJRlY2ZkZDbUw0bFdKa0RwWlFqVHZ1NHlQSFJIVGVCamNjV3RvMUVvenRReVRpOHZDenpKMGFKblFvOW5mZ1pCaktzOUhuRnQ0LWJNbEZGVkplTC1hck1PdWdkWmhJWGNnOWdpc9IBgAFBVV95cUxPdWs0MEpVNF9xdkFVQXhmb3J5Y3p0ektWLTVZWDlvbHdRaFJTWWt6Vno2dTlScVc4MXpLcklVY2dyVEQxSDJtVWlKUl94SjJtZ2Q0Q0JJMG1OLTdxR1lsaW5lenp6UmdUN0Z2Q1hUc05VTW03eUdmMnp5QW53aWpJVg?oc=5"
+        }
+      ],
+      "id": "manchester-united-abandon-ederson-transfer-worth-45m-with-atalanta"
+    },
+    {
+      "published_at": "2026-07-09T20:39:14+00:00",
+      "updated_at": "2026-07-09T20:39:14+00:00",
+      "title": "Transfer: Ugochukwu set to join Osimhen at Galatasaray",
+      "summary": "Transfer: Ugochukwu set to join Osimhen at Galatasaray Daily Post Nigeria",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Daily Post Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTlA5eVFaa1ZaZWluRDU4SFphZTl6OVVabGZabE9vUGl1T1Qyb2JrVFRyVE5JR2VVajl1TUVNWDVFTW44NElnaUJZc0hpbndjbWVrTm1iMnUzd2prdDR5S0U0N2Fpc0U5LURfTlp3QkVOeWlmWF9RVUFsM05SbGFQc29SY01ZOFkxQy01STY0QQ?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Daily Post Nigeria",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTlA5eVFaa1ZaZWluRDU4SFphZTl6OVVabGZabE9vUGl1T1Qyb2JrVFRyVE5JR2VVajl1TUVNWDVFTW44NElnaUJZc0hpbndjbWVrTm1iMnUzd2prdDR5S0U0N2Fpc0U5LURfTlp3QkVOeWlmWF9RVUFsM05SbGFQc29SY01ZOFkxQy01STY0QQ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "transfer-ugochukwu-set-to-join-osimhen-at-galatasaray"
+    },
+    {
+      "published_at": "2026-07-09T20:35:41+00:00",
+      "updated_at": "2026-07-09T20:35:41+00:00",
+      "title": "Galatasaray nears deal for Lesley Ugochukwu as crypto-backed football transfers reshape the market",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Crypto Briefing",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wYTVhMnJHbVhZbnZsaWJlWEpIdm1ISnEtX2Q5aGJNT0RTbE5YV2VEOXh5eFRQNTVWVjdQa1prenFGR25IbnJtVVA3MUVva211elpNODVMb1RQSzJObjJZTmxKcnY2dFhFTWlpalAzYVIxUEZldEE?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Crypto Briefing",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wYTVhMnJHbVhZbnZsaWJlWEpIdm1ISnEtX2Q5aGJNT0RTbE5YV2VEOXh5eFRQNTVWVjdQa1prenFGR25IbnJtVVA3MUVva211elpNODVMb1RQSzJObjJZTmxKcnY2dFhFTWlpalAzYVIxUEZldEE?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "galatasaray-nears-deal-for-lesley-ugochukwu-as-crypto-backed-football-transfers-reshape-th"
+    },
+    {
+      "published_at": "2026-07-09T18:44:11+00:00",
+      "updated_at": "2026-07-09T18:44:11+00:00",
+      "title": "Transfer: Andrey Santos completes Man Utd medicals ahead of £50m move from Chelsea",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Daily Post Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaXN4bl80YWpBQ0FpNUFfVDFmSVR2Y2ZMN3F0N24wLUV0VkJ5V18yeXBFSmYwSF9QNEpPV2hhOHNTRTYtMGVxYUtOamxscXA0cFJ0enpvc09rTzB3VDB2NFZrWVVGY3B5M0hfQjdiclBmT29TcU0tMXdpRmVKYkNrR29EUkJuSFlXN3JvUlo0SFpWUENDZ1dXNlIwVGhlUkdpZ29CTmFQeUlRTTE3cU90X1lmOA?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Daily Post Nigeria",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaXN4bl80YWpBQ0FpNUFfVDFmSVR2Y2ZMN3F0N24wLUV0VkJ5V18yeXBFSmYwSF9QNEpPV2hhOHNTRTYtMGVxYUtOamxscXA0cFJ0enpvc09rTzB3VDB2NFZrWVVGY3B5M0hfQjdiclBmT29TcU0tMXdpRmVKYkNrR29EUkJuSFlXN3JvUlo0SFpWUENDZ1dXNlIwVGhlUkdpZ29CTmFQeUlRTTE3cU90X1lmOA?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "transfer-andrey-santos-completes-man-utd-medicals-ahead-of-50m-move-from-chelsea"
+    },
+    {
+      "published_at": "2026-07-09T06:18:31+00:00",
+      "updated_at": "2026-07-09T06:18:31+00:00",
+      "title": "Ederson’s £38.8M Man Utd Transfer Faces Crucial Second Medical Test",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "streamlinefeed.co.ke",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSUFLeTZ5RkpsNlpkWjJZYnN1anluTXgySjc4R2I0bkZsTVBQZ2RuanlHWWdOM1pYN2RhV25GTlpTMUxkajc2c0l2eWcxY3kybW5sQ2x5R0dCT0JaYmpNTHhCeWtHSzNSbThkaklrVDYydFZXWGsxZS1DTVFqclJCclBRdzJkeGFMeG9BZ2lYMkZ6Vks1M1lIM3AxVGp1TWZqS2c?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "streamlinefeed.co.ke",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSUFLeTZ5RkpsNlpkWjJZYnN1anluTXgySjc4R2I0bkZsTVBQZ2RuanlHWWdOM1pYN2RhV25GTlpTMUxkajc2c0l2eWcxY3kybW5sQ2x5R0dCT0JaYmpNTHhCeWtHSzNSbThkaklrVDYydFZXWGsxZS1DTVFqclJCclBRdzJkeGFMeG9BZ2lYMkZ6Vks1M1lIM3AxVGp1TWZqS2c?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "ederson-s-38-8m-man-utd-transfer-faces-crucial-second-medical-test"
+    },
+    {
+      "published_at": "2026-07-09T05:51:33+00:00",
+      "updated_at": "2026-07-09T05:51:33+00:00",
+      "title": "Transfer: Mourinho picks two midfielders to keep at Real Madrid",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "La Liga",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Daily Post Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaTJNUXdHeXNGYVVPRlhIX3RGNHNnMm1UbkdpVDRVZ0NpOVBENU1YaUJBR0pqZ2Uwem5JT1d5TUJPdW0yd2RNY0tVMXZlTllVSG9vOW9jNmNSTnYySnZpUXF2TVdlR25penNNVk1tOFd2dW9VRk5zN1RuQmQzU3RLc3RKNHdINVcxN0lmSkdBbUYyQThoZlBPb2thNA?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Daily Post Nigeria",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaTJNUXdHeXNGYVVPRlhIX3RGNHNnMm1UbkdpVDRVZ0NpOVBENU1YaUJBR0pqZ2Uwem5JT1d5TUJPdW0yd2RNY0tVMXZlTllVSG9vOW9jNmNSTnYySnZpUXF2TVdlR25penNNVk1tOFd2dW9VRk5zN1RuQmQzU3RLc3RKNHdINVcxN0lmSkdBbUYyQThoZlBPb2thNA?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "transfer-mourinho-picks-two-midfielders-to-keep-at-real-madrid"
+    },
+    {
+      "published_at": "2026-07-09T05:39:11+00:00",
+      "updated_at": "2026-07-09T05:39:11+00:00",
+      "title": "Transfer: Adeyemi in shock move to Barcelona",
+      "summary": "Transfer: Adeyemi in shock move to Barcelona Daily Post Nigeria",
+      "category": [
+        "La Liga",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Daily Post Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNclk2b1BmVFk1TFNiNmZzSTJQZVFYNkJUWkdYajBEamIzMmtaWVRLRUNZUGpTZk56VHlxVjFoSHlJeEVCVDRLRUxRYllmYzY4UnU1ZVBhZGlScFNyWDktb0pHQ3ZrRDE1ZmR3N2hjamNyU195RGxJMFNfOHhMUDM3S01R?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Daily Post Nigeria",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNclk2b1BmVFk1TFNiNmZzSTJQZVFYNkJUWkdYajBEamIzMmtaWVRLRUNZUGpTZk56VHlxVjFoSHlJeEVCVDRLRUxRYllmYzY4UnU1ZVBhZGlScFNyWDktb0pHQ3ZrRDE1ZmR3N2hjamNyU195RGxJMFNfOHhMUDM3S01R?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "transfer-adeyemi-in-shock-move-to-barcelona"
+    },
+    {
+      "published_at": "2026-07-08T07:23:49+00:00",
+      "updated_at": "2026-07-08T07:23:49+00:00",
+      "title": "Fabrizio Romano Reveals Transfer Calls Regarding Free Agent Mohamed Salah",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "sekbernews.id",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vajFzcEpUcmxUTEJ5RFNzaXNFTHRkUXpxSk5RVVhSeHZZV0gtZlNCelVvbGMyZjBrSDUybGZsZ2tkaWloU0lfU2x3SG5Kbnl6bW9YRUV1eC16TlZKd3ZScTlVbjlyc0RnRG1CX3d1aW1jTElTLUUxY1BDUi1VZw?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "sekbernews.id",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vajFzcEpUcmxUTEJ5RFNzaXNFTHRkUXpxSk5RVVhSeHZZV0gtZlNCelVvbGMyZjBrSDUybGZsZ2tkaWloU0lfU2x3SG5Kbnl6bW9YRUV1eC16TlZKd3ZScTlVbjlyc0RnRG1CX3d1aW1jTElTLUUxY1BDUi1VZw?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "fabrizio-romano-reveals-transfer-calls-regarding-free-agent-mohamed-salah"
+    },
+    {
+      "published_at": "2026-07-13T22:35:37+00:00",
+      "updated_at": "2026-07-13T22:35:37+00:00",
+      "title": "Transfer Centre LIVE! Football transfer news, updates and rumours",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEo3Q3dyQVRaREJIV1NGdEhmaVFSNU5oQlg5WEVtR0dlTTlmLUl1al8yN2R4X2J1d2FtdjJ2UHZ4VGhtTkhJT0JWRk5QVXdLSmJkbjNXVFdtZG5OR1hoNE5KdllFdjJIX3lZcERqNlVPeUVyUnJ4RVNjUEs5YkRCRnJFN3hkRWx1UF94V2tQMTNsMFRQaHdkdV9Scm5tWm5LcHRNQ1pCcUtoamNLS1M0VEpJNmZuSHpvd0tCRmc3ak0?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaEo3Q3dyQVRaREJIV1NGdEhmaVFSNU5oQlg5WEVtR0dlTTlmLUl1al8yN2R4X2J1d2FtdjJ2UHZ4VGhtTkhJT0JWRk5QVXdLSmJkbjNXVFdtZG5OR1hoNE5KdllFdjJIX3lZcERqNlVPeUVyUnJ4RVNjUEs5YkRCRnJFN3hkRWx1UF94V2tQMTNsMFRQaHdkdV9Scm5tWm5LcHRNQ1pCcUtoamNLS1M0VEpJNmZuSHpvd0tCRmc3ak0?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "transfer-centre-live-football-transfer-news-updates-and-rumours"
+    },
+    {
+      "published_at": "2026-07-09T19:41:31+00:00",
+      "updated_at": "2026-07-09T19:41:31+00:00",
+      "title": "Chelsea: New manager Xabi Alonso takes on his first training session with the club",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Premier League",
+        "Coach"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "coaches",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVnZhOUlIMHJQYnI2bF82T3NNeVREalFJNlVJTHJ6ajVGQjFGVGdSZGJIYlhUUnlHR21wVWF4REhzNHBsdjZvZFEyTWJMRGsxc2N2elBPY1VXSVFROENIMXQ1SllsdWZFRGEzcXR2T0pTcmRKcUF2bjBWYXBjRTJaTEFjajYwQzJkdDVoTk5DdFF0VXF6aU1zOXpoSUpObGxFSEFvVkEzcVMzdVVFNDFHRVVrRVpfSG90elViN0NDajJSdTZONUdnY3AySGVINHpvNHp6YjdQX2k5elBVWENoVmVB?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVnZhOUlIMHJQYnI2bF82T3NNeVREalFJNlVJTHJ6ajVGQjFGVGdSZGJIYlhUUnlHR21wVWF4REhzNHBsdjZvZFEyTWJMRGsxc2N2elBPY1VXSVFROENIMXQ1SllsdWZFRGEzcXR2T0pTcmRKcUF2bjBWYXBjRTJaTEFjajYwQzJkdDVoTk5DdFF0VXF6aU1zOXpoSUpObGxFSEFvVkEzcVMzdVVFNDFHRVVrRVpfSG90elViN0NDajJSdTZONUdnY3AySGVINHpvNHp6YjdQX2k5elBVWENoVmVB?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "chelsea-new-manager-xabi-alonso-takes-on-his-first-training-session-with-the-club"
+    },
+    {
+      "published_at": "2026-07-09T07:00:00+00:00",
+      "updated_at": "2026-07-09T07:00:00+00:00",
+      "title": "World Cup 2026: EU lawmakers call for formal investigation into Folarin Balogun 'scandal' - Paper Talk",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaG9oUDJpTFVsc0VGdHE1Ujh2UmhSWDI1eEhlM0pkVHhVajAtaXdKRVFKNWlDZzQwSlJQMTFOWUptWnF4emZrRjdKNW5CNlBUWS12c3BkTk9CbjVtcG5yQm52T0w5Rm5DMGd1VGQtaXpjOTVwODNRQVlGWWxVZFZ4WFRXSVpwSkxiZFE?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaG9oUDJpTFVsc0VGdHE1Ujh2UmhSWDI1eEhlM0pkVHhVajAtaXdKRVFKNWlDZzQwSlJQMTFOWUptWnF4emZrRjdKNW5CNlBUWS12c3BkTk9CbjVtcG5yQm52T0w5Rm5DMGd1VGQtaXpjOTVwODNRQVlGWWxVZFZ4WFRXSVpwSkxiZFE?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "world-cup-2026-eu-lawmakers-call-for-formal-investigation-into-folarin-balogun-scandal-pap"
+    },
+    {
+      "published_at": "2026-07-08T07:00:00+00:00",
+      "updated_at": "2026-07-08T07:00:00+00:00",
+      "title": "World Cup: John Stones pranks Thomas Tuchel with fake injury in dressing room celebs!",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVUtrZ3dkVGcxY01YRU5IdGlVLW81U1B5ZWhUeDBJaDJnR3VLRVRnOVk4emlmVlNrenhXallDdjdPUWt5Wjh5S1J3MWFKTXQ3VHFhYk8zVGhTbF9yM2dZZElueGxsMVJqdE1PRVh1RVA5TjlGVnpxRTk1bTc5T2RrME9HVVh0QlJmekh1c2U3b2IzYUhIRDhKZDk2VGtQZTRGUjViZk8xeFlSNUdwMDZoRFVGQjZ1TDZlZkxGemJyLW5sR0t2UHNHS21oTThRS0lYaE9RVUR3?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVUtrZ3dkVGcxY01YRU5IdGlVLW81U1B5ZWhUeDBJaDJnR3VLRVRnOVk4emlmVlNrenhXallDdjdPUWt5Wjh5S1J3MWFKTXQ3VHFhYk8zVGhTbF9yM2dZZElueGxsMVJqdE1PRVh1RVA5TjlGVnpxRTk1bTc5T2RrME9HVVh0QlJmekh1c2U3b2IzYUhIRDhKZDk2VGtQZTRGUjViZk8xeFlSNUdwMDZoRFVGQjZ1TDZlZkxGemJyLW5sR0t2UHNHS21oTThRS0lYaE9RVUR3?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "world-cup-john-stones-pranks-thomas-tuchel-with-fake-injury-in-dressing-room-celebs"
+    },
+    {
+      "published_at": "2026-07-13T19:30:00+00:00",
+      "updated_at": "2026-07-13T19:30:00+00:00",
+      "title": "Xabi Alonso on ‘special’ Cole Palmer and ‘hungry’ Marco Palestra",
+      "summary": "Xabi Alonso on ‘special’ Cole Palmer and ‘hungry’ Marco Palestra | News | Official Site Chelsea Football Club",
       "category": [
         "Football"
       ],
@@ -17,16 +1256,44 @@
       "image": "",
       "sources": [
         {
-          "name": "Fotbollsbriefen",
-          "url": "#"
+          "name": "Chelsea",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY3J3UVFBM29aNTlXVkFsY0R4bDRyTURBNWp4bngwMHp1LWhUOGVyNmtXOG9MMEhQMEpzQXpRVGRsZml0YnJhbWszZVV4UUZpVzJJcWRKY1ctNnBVb2ZWZG1USkFLX2U5ZXpQQTdRTmJLTk0zV181d3VJTjJNVUxNSHYtTFpvMC1DamU0WnZBNXYzZVZPUkNkYmlTcVVhWTJBWFNabQ?oc=5"
         }
       ],
+      "language": "en",
       "main_source": {
-        "name": "Fotbollsbriefen",
-        "url": "#"
+        "name": "Chelsea",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY3J3UVFBM29aNTlXVkFsY0R4bDRyTURBNWp4bngwMHp1LWhUOGVyNmtXOG9MMEhQMEpzQXpRVGRsZml0YnJhbWszZVV4UUZpVzJJcWRKY1ctNnBVb2ZWZG1USkFLX2U5ZXpQQTdRTmJLTk0zV181d3VJTjJNVUxNSHYtTFpvMC1DamU0WnZBNXYzZVZPUkNkYmlTcVVhWTJBWFNabQ?oc=5"
       },
       "confirmed_by": [],
-      "language": "en"
+      "id": "xabi-alonso-on-special-cole-palmer-and-hungry-marco-palestra"
+    },
+    {
+      "published_at": "2026-07-12T09:16:31+00:00",
+      "updated_at": "2026-07-12T09:16:31+00:00",
+      "title": "We Love You Liverpool: Meet Official LFC Supporters Club... Malaysia",
+      "summary": "Read the full report from the main source.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Official",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Liverpool",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONFBRZW1NUDMxRGhUYkNkTVFWcFE4aXpHdndCeGhSc2ZCLUIxcWYwZDlYcmNHa3BlaEg4NV9RNGE3R1JPRlg1NlhyYk56Q0hmU2FsUjhTaXhpZXVJU0E1akVqcC1PaXhLdFN4b3dNNDE0aWVYZzI0a0I0NTRzc2RMVkJ3MjF4UE1pU3k4N0JsSjJpRXh6aFdLeUd5amRsZ9IBpgFBVV95cUxNYVpIMEdsZm5SeE8zaW1iTHQ3VjVhbjBVaURIajBKM3pjcHJDa25uS3RKYzV4T0llYmpDVDlZYjlES0RNY091X05qb0JpRU5pck9IeFJNMjdrcHRzeE9nY1FKbFRWMGlBcGxGSTJkWnRKaVFGcC1kRXNyVm1FRFhIaEpyR2xoYVNRWUg0c0gyMkRfM01MT2lUb2xlbGp3WG9VSHhIektn?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Liverpool",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONFBRZW1NUDMxRGhUYkNkTVFWcFE4aXpHdndCeGhSc2ZCLUIxcWYwZDlYcmNHa3BlaEg4NV9RNGE3R1JPRlg1NlhyYk56Q0hmU2FsUjhTaXhpZXVJU0E1akVqcC1PaXhLdFN4b3dNNDE0aWVYZzI0a0I0NTRzc2RMVkJ3MjF4UE1pU3k4N0JsSjJpRXh6aFdLeUd5amRsZ9IBpgFBVV95cUxNYVpIMEdsZm5SeE8zaW1iTHQ3VjVhbjBVaURIajBKM3pjcHJDa25uS3RKYzV4T0llYmpDVDlZYjlES0RNY091X05qb0JpRU5pck9IeFJNMjdrcHRzeE9nY1FKbFRWMGlBcGxGSTJkWnRKaVFGcC1kRXNyVm1FRFhIaEpyR2xoYVNRWUg0c0gyMkRfM01MT2lUb2xlbGp3WG9VSHhIektn?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "we-love-you-liverpool-meet-official-lfc-supporters-club-malaysia"
     }
   ]
 }
