@@ -3,6 +3,30 @@
   "max_items": 75,
   "feeds": [
     {
+      "name": "SVT Sport",
+      "type": "rss",
+      "url": "https://www.svt.se/sport/rss.xml",
+      "priority": 100
+    },
+    {
+      "name": "SvenskaFans",
+      "type": "rss",
+      "url": "https://www.svenskafans.com/rss/site/2",
+      "priority": 90
+    },
+    {
+      "name": "Fotbolltransfers",
+      "type": "rss",
+      "url": "https://fotbolltransfers.com/rss",
+      "priority": 95
+    },
+    {
+      "name": "Fotbollskanalen",
+      "type": "google",
+      "query": "site:fotbollskanalen.se värvning kontrakt skada tränare",
+      "priority": 92
+    },
+    {
       "name": "BBC Sport",
       "type": "rss",
       "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
