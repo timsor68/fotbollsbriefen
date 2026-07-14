@@ -69,13 +69,16 @@ JUNK_RE = re.compile(
     re.I,
 )
 
-# Filter för att blockera andra sporter, cricket, golf och galopp/hästsport från flödet
+# REVOLUTIONERAD BLOCKLISTA FÖR ANDRA SPORTER OCH VINTERSPORT
 OTHER_SPORTS_RE = re.compile(
     r"\b(cricket|golf|mcilroy|tiger woods|formula 1|f1|tennis|wimbledon|djokovic|"
     r"alcaraz|swimming|athletics|rugby|nfl|super bowl|nba|basketball|baseball|"
     r"boxing|ufc|t20|test match|ashes|ryder cup|olympics|olympic games|"
     r"horse racing|jockey|dettori|newmarket|ascot|cheltenham|grand national|"
-    r"equestrian|showjumping|dressage)\b",
+    r"equestrian|showjumping|dressage|"
+    r"längdskidor|skidor|skidskytte|alpin|slalom|frida karlsson|ebba andersson|kalla|"
+    r"jonna sundling|shiffrin|victoriapriset|victoriastipendiet|friidrott|löpning|"
+    r"stavhopp|duplantis|ståhl|diskus|höjdhopp|ishockey|hockey|shl|nhl)\b",
     re.I,
 )
 
@@ -128,7 +131,6 @@ OFF_TOPIC_RE = re.compile(
     re.I,
 )
 
-# Svenska källor har lagts till i listan över betrodda källor
 TRUSTED_PUBLISHERS = {
     "Reuters", "BBC Sport", "Simon Stone / BBC Sport",
     "David Ornstein / The Athletic", "The Athletic", "Fabrizio Romano",
@@ -323,7 +325,6 @@ def categories(title: str, publisher: str = "") -> list[str]:
     lowered = title.lower()
     output: list[str] = []
     
-    # Om artikeln kommer från en svensk källa, tagga den med "Sverige"
     if publisher in {"SVT Sport", "SvenskaFans", "Fotbolltransfers", "Fotbollskanalen"}:
         output.append("Sverige")
 
@@ -442,16 +443,13 @@ NON_ENGLISH_FUNCTION_WORDS = {
 
 
 def is_acceptable_language(title: str, description: str = "") -> bool:
-    """Tillåter antingen engelska eller svenska artiklar, men blockerar övriga språk."""
     text = clean_text(f"{title} {description}").lower()
     words = re.findall(r"[a-zåäöà-öø-ÿ]+", text)
 
-    # 1. Kolla om det är svenska (innehåller svenska unika stoppord)
     swedish_hits = sum(word in SWEDISH_WORDS for word in words)
     if swedish_hits >= 2:
         return True
 
-    # 2. Om inte svenska, kolla om det är ett annat icke-engelskt språk vi vill blockera
     strong_hits = sum(word in NON_ENGLISH_WORDS for word in words)
     function_hits = sum(word in NON_ENGLISH_FUNCTION_WORDS for word in words)
 
