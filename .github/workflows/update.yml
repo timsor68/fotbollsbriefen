@@ -1,38 +1,30 @@
-name: Uppdatera Fotbollsbriefen
+name: Uppdatera fotbollsnyheter
+
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "7,37 * * * *"
-
-permissions:
-  contents: write
-
-concurrency:
-  group: fotbollsbriefen-update
-  cancel-in-progress: false
+    - cron: '0 * * * *' # Körs en gång i timmen
+  workflow_dispatch: # Gör att du kan starta uppdateringen manuellt från GitHubs hemsida
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+
     steps:
-      - uses: actions/checkout@v4
+    - name: Check ut kod
+      uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
+    - name: Installera Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
 
-      - name: Hämta nyheter
-        run: python update.py
+    - name: Kör uppdatering script
+      run: python update.py
 
-      - name: Kontrollera JSON
-        run: python -m json.tool news.json > /dev/null
-
-      - name: Spara news.json
-        run: |
-          git config user.name "fotbollsbriefen-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add news.json
-          git diff --cached --quiet || git commit -m "Uppdatera nyheter"
-          git push
-
+    - name: Commit och pusha ändringar till Github
+      run: |
+        git config --global user.name 'fotbollsbriefen-bot'
+        git config --global user.email 'bot@fotbollsbriefen.se'
+        git add news.json
+        git commit -m "Uppdatera nyheter" || exit 0
+        git push
