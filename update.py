@@ -69,11 +69,13 @@ JUNK_RE = re.compile(
     re.I,
 )
 
-# Filter för att blockera andra sporter helt från flödet
+# Filter för att blockera andra sporter och hästsport från flödet
 OTHER_SPORTS_RE = re.compile(
     r"\b(cricket|golf|mcilroy|tiger woods|formula 1|f1|tennis|wimbledon|djokovic|"
     r"alcaraz|swimming|athletics|rugby|nfl|super bowl|nba|basketball|baseball|"
-    r"boxing|ufc|t20|test match|ashes| Ryder Cup|olympics|olympic games)\b",
+    r"boxing|ufc|t20|test match|ashes|ryder cup|olympics|olympic games|"
+    r"horse racing|jockey|dettori|newmarket|ascot|cheltenham|grand national|"
+    r"equestrian|showjumping|dressage)\b",
     re.I,
 )
 
