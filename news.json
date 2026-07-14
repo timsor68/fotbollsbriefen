@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T20:27:01.771907+00:00",
+  "updated_at": "2026-07-14T21:00:16.133080+00:00",
   "items": [
     {
       "published_at": "2026-07-14T14:11:47+00:00",
@@ -45,43 +45,6 @@
         }
       ],
       "id": "arsenal-agree-fee-for-trossard-move-to-besiktas"
-    },
-    {
-      "published_at": "2026-07-14T18:45:08+00:00",
-      "updated_at": "2026-07-14T18:45:08+00:00",
-      "title": "Man Utd sign Tielemans for £35m from Aston Villa",
-      "summary": "Manchester United complete the signing of Youri Tielemans from Aston Villa on a five-year deal",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "youri-tielemans",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d655/live/78c94320-7fb5-11f1-9c5f-190f51e64b46.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c9929gzdl2go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c9929gzdl2go?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "id": "man-utd-sign-tielemans-for-35m-from-aston-villa"
     },
     {
       "published_at": "2026-07-14T11:35:08+00:00",
@@ -156,6 +119,34 @@
       "id": "timing-took-me-to-chelsea-rather-than-liverpool-alonso"
     },
     {
+      "published_at": "2026-07-14T20:42:19+00:00",
+      "updated_at": "2026-07-14T20:42:19+00:00",
+      "title": "Fenerbahce sign Greenwood from Marseille",
+      "summary": "Fenerbahce sign Mason Greenwood from Marseille on a four-year contract",
+      "category": [
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d104/live/396e4dc0-7fbe-11f1-a95e-af5d4ffcf161.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwy0yg15y90o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwy0yg15y90o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "fenerbahce-sign-greenwood-from-marseille"
+    },
+    {
       "published_at": "2026-07-14T19:49:30+00:00",
       "updated_at": "2026-07-14T19:49:30+00:00",
       "title": "Record buy O'Sullivan leaves Liverpool for Gotham",
@@ -181,6 +172,34 @@
       },
       "confirmed_by": [],
       "id": "record-buy-o-sullivan-leaves-liverpool-for-gotham"
+    },
+    {
+      "published_at": "2026-07-14T18:45:08+00:00",
+      "updated_at": "2026-07-14T18:45:08+00:00",
+      "title": "Man Utd sign Tielemans for £35m from Aston Villa",
+      "summary": "Manchester United complete the signing of Youri Tielemans from Aston Villa on a five-year deal",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "youri-tielemans",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d655/live/78c94320-7fb5-11f1-9c5f-190f51e64b46.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c9929gzdl2go?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c9929gzdl2go?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "man-utd-sign-tielemans-for-35m-from-aston-villa"
     },
     {
       "published_at": "2026-07-14T18:44:04+00:00",
@@ -292,33 +311,6 @@
       "id": "everton-sign-france-forward-mouchon-from-leicester"
     },
     {
-      "published_at": "2026-07-14T15:29:25+00:00",
-      "updated_at": "2026-07-14T15:29:25+00:00",
-      "title": "London City to sign Diani for over £500k as spending spree continues",
-      "summary": "London City Lionesses are set to sign France forward Kadidiatou Diani",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fba5/live/56efef70-7f8c-11f1-a47a-d94293d2b0e4.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cvgjg66gyjxo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvgjg66gyjxo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "london-city-to-sign-diani-for-over-500k-as-spending-spree-continues"
-    },
-    {
       "published_at": "2026-07-14T18:48:12+00:00",
       "updated_at": "2026-07-14T18:48:12+00:00",
       "title": "VM-svenskens tårfyllda avsked till MFF – klar för grekisk klubb",
@@ -371,6 +363,34 @@
       },
       "confirmed_by": [],
       "id": "nikola-vasic-bryter-med-hammarby-klar-f-r-gais"
+    },
+    {
+      "published_at": "2026-07-14T21:50:00+00:00",
+      "updated_at": "2026-07-14T21:50:00+00:00",
+      "title": "Papers: Arsenal consider Gyokeres-Alvarez swap deal",
+      "summary": "The top stories and transfer rumours from Wednesday's newspapers",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13563503/arsenal-transfer-news-gunners-explore-possible-swap-deal-involving-viktor-gyokeres-in-julian-alvarez-talks-paper-talk"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13563503/arsenal-transfer-news-gunners-explore-possible-swap-deal-involving-viktor-gyokeres-in-julian-alvarez-talks-paper-talk"
+      },
+      "confirmed_by": [],
+      "id": "papers-arsenal-consider-gyokeres-alvarez-swap-deal"
     },
     {
       "published_at": "2026-07-14T19:45:00+00:00",
@@ -819,7 +839,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.21/0.16/5152a37dd5c297f5601020a62acdf53f7ea3b530a811ca159b6be0ebd166c7ce",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.14/0.16/5152a37dd5c297f5601020a62acdf53f7ea3b530a811ca159b6be0ebd166c7ce",
       "sources": [
         {
           "name": "SVT Sport",
@@ -873,7 +893,7 @@
       "entity": "erling-haaland",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.34/0.16/9b097c44195521f07171efd6ee7ac9215adf6f583837bec742b575aa6301c7b6",
+      "image": "",
       "sources": [
         {
           "name": "SVT Sport",
@@ -1359,7 +1379,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/25/11/1600x900/skysports-world-cup-trophy_7084567.jpg?20251117221849",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-world-cup-half-time_7297740.jpg?20260714214513",
       "sources": [
         {
           "name": "Sky Sports",
