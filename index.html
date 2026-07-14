@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Fotbollsbriefen</title>
 
-<!-- Förhandsgranskning vid delning (Open Graph) för att efterlikna bild 2 -->
+<!-- Förhandsgranskning vid delning (Open Graph) för ikonen -->
 <meta property="og:site_name" content="Fotbollsbriefen">
 <meta property="og:title" content="Fotbollsbriefen — European football news">
 <meta property="og:description" content="European football news — fast and concise. Senaste nytt från europeisk fotboll och svenska källor.">
@@ -60,7 +60,8 @@ footer{text-align:center;color:#74808a;font-size:13px;padding:24px}
 <div class="message" id="message"></div><div class="grid" id="grid"></div><div class="empty" id="empty">No stories match your selection.</div></main>
 <footer>Fotbollsbriefen · European football news from the last seven days</footer>
 <script>
-const FILTERS=["All","Svenska källor","Premier League","La Liga","Serie A","Bundesliga","Ligue 1","Transfer","Coach"];
+// "Experter" har lagts till som en helt egen filterknapp här
+const FILTERS=["All","Svenska källor","Experter","Premier League","La Liga","Serie A","Bundesliga","Ligue 1","Transfer","Coach"];
 const VISIT_KEY="fb_final_last_visit",STATE_KEY="fb_final_story_state";
 let data={items:[]},active="All",previousVisit=localStorage.getItem(VISIT_KEY),previousState={};
 try{previousState=JSON.parse(localStorage.getItem(STATE_KEY)||"{}")}catch(e){}
@@ -157,9 +158,23 @@ function renderFilters(){const n=document.getElementById("filters");n.innerHTML=
 function render(){
  const q=document.getElementById("search").value.trim().toLowerCase(),grid=document.getElementById("grid");grid.innerHTML="";
  
- const renderActive = active === "Svenska källor" ? "Sverige" : active;
- 
- const matchedItems = (data.items||[]).filter(x=>(active==="All"||(x.category||[]).includes(renderActive))&&(!q||(x.title+" "+x.summary+" "+(x.entity||"")+" "+(x.club||"")+" "+(x.category||[]).join(" ")+" "+(x.sources||[]).map(s=>s.name).join(" ")).toLowerCase().includes(q)));
+ const matchedItems = (data.items||[]).filter(x=>{
+   const cats = x.category || [];
+   const mainSource = x.main_source?.name || "";
+   
+   // Kolla om artikeln är skriven av någon av toppjournalisterna
+   const isExpert = FAMOUS_JOURNALISTS.some(j => mainSource.toLowerCase().includes(j.toLowerCase()));
+   
+   // Lägg till virtuella kategorier dynamiskt vid filtrering
+   const itemCategories = [...cats];
+   if (isExpert) itemCategories.push("Experter");
+   if (cats.includes("Sverige")) itemCategories.push("Svenska källor");
+   
+   const filterTarget = active === "Svenska källor" ? "Sverige" : active;
+   
+   return (active === "All" || itemCategories.includes(filterTarget)) && 
+          (!q || (x.title+" "+x.summary+" "+(x.entity||"")+" "+(x.club||"")+" "+itemCategories.join(" ")+" "+(x.sources||[]).map(s=>s.name).join(" ")).toLowerCase().includes(q));
+ });
  
  const isFallback = (summary) => {
    const txt = String(summary || "").toLowerCase();
@@ -182,7 +197,11 @@ function render(){
  items.forEach(x=>{const e=document.createElement("article");e.className="card";
  const targetUrl = x.main_source?.url||x.sources?.[0]?.url||"#";
  
+ // Snygga till kategoridelen på kortet
+ const mainSource = x.main_source?.name || "";
+ const isExpert = FAMOUS_JOURNALISTS.some(j => mainSource.toLowerCase().includes(j.toLowerCase()));
  const displayCategories = (x.category||[]).map(c => c === "Sverige" ? "Svenska källor" : c);
+ if (isExpert && !displayCategories.includes("Experter")) displayCategories.unshift("Experter");
 
  e.innerHTML=`<div class="media"><img alt="${esc(x.entity||x.title)}"></div><div class="body"><div class="meta">${displayCategories.slice(0,2).map(c=>`<span class="badge">${esc(c)}</span>`).join("")}<span class="badge ${statusClass(x.status)}">${esc(x.status)}</span>${isNew(x)?'<span class="badge since">New since last visit</span>':''}${isChanged(x)?'<span class="badge changed">Updated</span>':''}<span class="badge">${fmtDate(x.published_at)}</span></div>
  <h3><a href="${esc(targetUrl)}" target="_blank" rel="noopener">${highlight(x.title, q)}</a></h3><p>${highlight(x.summary, q)}</p>
@@ -198,7 +217,7 @@ function render(){
 
 async function load(){
  const b=document.getElementById("refresh"),msg=document.getElementById("message");
- b.disabled=true;b.textContent="Quest…";msg.textContent="Loading the latest published news file…";
+ b.disabled=true;b.textContent="↻ Refreshing…";msg.textContent="Loading the latest published news file…";
  const timer=setTimeout(()=>msg.textContent="This is taking longer than expected, but the page remains usable.",7000);
  try{
   const r=await fetch(`news.json?t=${Date.now()}`,{cache:"no-store"});if(!r.ok)throw new Error("HTTP "+r.status);
