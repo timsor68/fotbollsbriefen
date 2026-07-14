@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T15:49:07.124402+00:00",
+  "updated_at": "2026-07-14T16:04:52.128209+00:00",
   "items": [
     {
       "published_at": "2026-07-14T14:11:47+00:00",
@@ -11,10 +11,10 @@
         "Transfer"
       ],
       "status": "Confirmed by multiple sources",
-      "entity": "",
+      "entity": "leandro-trossard",
       "entity_type": "players",
-      "club": "",
-      "image": "",
+      "club": "arsenal",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fcf4/live/0b42e810-7f88-11f1-a47a-d94293d2b0e4.jpg",
       "sources": [
         {
           "name": "BBC Sport",
@@ -55,10 +55,10 @@
         "Transfer"
       ],
       "status": "Confirmed by multiple sources",
-      "entity": "",
+      "entity": "luka-vuskovic",
       "entity_type": "players",
-      "club": "",
-      "image": "",
+      "club": "tottenham",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/de14/live/1d769e50-7f6a-11f1-8812-63adb81ec20b.jpg",
       "sources": [
         {
           "name": "BBC Sport",
@@ -92,7 +92,7 @@
         "Coach"
       ],
       "status": "Confirmed by multiple sources",
-      "entity": "",
+      "entity": "jurgen-klopp",
       "entity_type": "coaches",
       "club": "",
       "image": "",
@@ -120,8 +120,8 @@
       "id": "world-cup-2026-jurgen-klopp-agrees-deal-in-principle-to-become-germany-coach"
     },
     {
-      "published_at": "2026-07-14T15:38:04+00:00",
-      "updated_at": "2026-07-14T15:38:04+00:00",
+      "published_at": "2026-07-14T15:59:31+00:00",
+      "updated_at": "2026-07-14T15:59:31+00:00",
       "title": "World Cup 2026: France v Spain semi-final buildup; Atlanta police step up security for England v Argentina – live",
       "summary": "⚽️ Latest news before first of the semi-finals in Dallas ⚽️ Player guide | Golden Boot | Football Daily | Email us Atlanta police are increasing staffing and resources for Wednesday’s World Cup semi-final between England and Argentina. The department says additional officers will be deployed around the stadium and across the city’s entertainment and high-traffic areas, with large crowds expected before and after the match: As Atlanta prepares to host an upcoming World Cup semi-final match and welcomes increased numbers of residents and visitors, the Atlanta Police Department has enhanced its citywide public safety and security posture. Additional personnel and resources are already deployed and will continue to be strategically assigned in and around the event venues, entertainment districts, and other high-traffic areas to help ensure a",
       "category": [
@@ -131,7 +131,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/edfc/live/51cc9260-7f18-11f1-9137-793866eb2f36.jpg",
       "sources": [
         {
           "name": "BBC Sport",
@@ -191,9 +191,37 @@
       "id": "swiss-without-injured-manzambi-for-argentina-quarter-final-yakin-says"
     },
     {
+      "published_at": "2026-07-14T15:44:03+00:00",
+      "updated_at": "2026-07-14T15:44:03+00:00",
+      "title": "Everton sign France forward Mouchon from Leicester",
+      "summary": "Everton sign France forward Noemie Mouchon on a free transfer from Leicester City",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "everton",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f2b8/live/ed070c00-7f96-11f1-a5f4-433bb9aa2e5a.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8727e5d4ejo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c8727e5d4ejo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "everton-sign-france-forward-mouchon-from-leicester"
+    },
+    {
       "published_at": "2026-07-14T15:29:25+00:00",
       "updated_at": "2026-07-14T15:29:25+00:00",
-      "title": "London City Lionesses to sign Diani for over £500k",
+      "title": "London City to sign Diani for over £500k as spending spree continues",
       "summary": "London City Lionesses are set to sign France forward Kadidiatou Diani",
       "category": [
         "Transfer"
@@ -202,7 +230,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fba5/live/56efef70-7f8c-11f1-a47a-d94293d2b0e4.jpg",
       "sources": [
         {
           "name": "BBC Sport",
@@ -215,7 +243,7 @@
         "url": "https://www.bbc.co.uk/sport/football/articles/cvgjg66gyjxo?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "london-city-lionesses-to-sign-diani-for-over-500k"
+      "id": "london-city-to-sign-diani-for-over-500k-as-spending-spree-continues"
     },
     {
       "published_at": "2026-07-14T15:28:51+00:00",
@@ -229,7 +257,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/260a/live/903c82b0-7f97-11f1-a5f4-433bb9aa2e5a.jpg",
       "sources": [
         {
           "name": "BBC Sport",
@@ -253,10 +281,10 @@
         "Transfer"
       ],
       "status": "Confirmed",
-      "entity": "",
+      "entity": "youri-tielemans",
       "entity_type": "players",
-      "club": "",
-      "image": "",
+      "club": "manchester-united",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/50fc/live/ae46b680-7f7f-11f1-926f-c90d1bcfbc84.jpg",
       "sources": [
         {
           "name": "BBC Sport",
@@ -283,7 +311,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2f27/live/327e1630-7f19-11f1-9f54-5bf21a68a8c4.jpg",
       "sources": [
         {
           "name": "BBC Sport",
@@ -309,10 +337,10 @@
         "Transfer"
       ],
       "status": "Confirmed",
-      "entity": "",
+      "entity": "lisa-baum",
       "entity_type": "players",
-      "club": "",
-      "image": "",
+      "club": "arsenal",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3a3d/live/2a7cc770-7f5e-11f1-a97a-9b1029617ccb.jpg",
       "sources": [
         {
           "name": "BBC Sport",
@@ -328,34 +356,6 @@
       "id": "arsenal-sign-germany-forward-baum-from-rb-leipzig"
     },
     {
-      "published_at": "2026-07-14T08:43:33+00:00",
-      "updated_at": "2026-07-14T08:43:33+00:00",
-      "title": "Everton close in on permament deal for Blundell",
-      "summary": "Everton are in advanced discussions with defender Hannah Blundell about a permanent deal following her successful loan spell last season",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c0qyxqw901wo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c0qyxqw901wo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "everton-close-in-on-permament-deal-for-blundell"
-    },
-    {
       "published_at": "2026-07-14T14:05:50+00:00",
       "updated_at": "2026-07-14T14:05:50+00:00",
       "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic",
@@ -368,7 +368,7 @@
       "status": "Highly credible",
       "entity": "",
       "entity_type": "players",
-      "club": "",
+      "club": "arsenal",
       "image": "",
       "sources": [
         {
@@ -421,9 +421,9 @@
         "Transfer"
       ],
       "status": "Highly credible",
-      "entity": "",
+      "entity": "youri-tielemans",
       "entity_type": "players",
-      "club": "",
+      "club": "manchester-united",
       "image": "",
       "sources": [
         {
@@ -479,7 +479,7 @@
       "status": "Highly credible",
       "entity": "",
       "entity_type": "players",
-      "club": "",
+      "club": "real-madrid",
       "image": "",
       "sources": [
         {
@@ -507,7 +507,7 @@
       "status": "Highly credible",
       "entity": "",
       "entity_type": "players",
-      "club": "",
+      "club": "manchester-united",
       "image": "",
       "sources": [
         {
@@ -532,8 +532,8 @@
         "Football"
       ],
       "status": "Official",
-      "entity": "",
-      "entity_type": "players",
+      "entity": "xabi-alonso",
+      "entity_type": "coaches",
       "club": "",
       "image": "",
       "sources": [
@@ -563,7 +563,7 @@
       "status": "Official",
       "entity": "",
       "entity_type": "players",
-      "club": "",
+      "club": "liverpool",
       "image": "",
       "sources": [
         {
@@ -588,10 +588,10 @@
         "Serie A"
       ],
       "status": "Reported",
-      "entity": "",
+      "entity": "folarin-balogun",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-florin-balogun-usa_7290692.jpg?20260705235615",
       "sources": [
         {
           "name": "Sky Sports",
@@ -616,9 +616,9 @@
       ],
       "status": "Reported",
       "entity": "",
-      "entity_type": "coaches",
+      "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-golf-a_7297477.jpg?20260714151746",
       "sources": [
         {
           "name": "Sky Sports",
@@ -645,7 +645,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-brendon-mccullum_7297199.jpg?20260714102902",
       "sources": [
         {
           "name": "Sky Sports",
@@ -669,10 +669,10 @@
         "Football"
       ],
       "status": "Reported",
-      "entity": "",
+      "entity": "diego-maradona",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://i.guim.co.uk/img/media/be988f09e9a1ab8403cc8a59209a087533ca7365/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=08609b99618a461641be85594da1a984",
       "sources": [
         {
           "name": "The Guardian",
@@ -699,8 +699,8 @@
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "",
+      "club": "manchester-city",
+      "image": "https://i.guim.co.uk/img/media/752ef2f6bd5baec8af9d4ef91b4ba9521a5794fe/220_133_5263_4207/master/5263.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab4daa4f7664346faade6b335ea05922",
       "sources": [
         {
           "name": "The Guardian",
@@ -716,33 +716,6 @@
       "id": "manchester-city-set-sights-on-signing-morocco-s-ayyoub-bouaddi-for-85m"
     },
     {
-      "published_at": "2026-07-14T07:00:23+00:00",
-      "updated_at": "2026-07-14T07:00:23+00:00",
-      "title": "The other Lionel: how Scaloni went from accidental manager to World Cup hero",
-      "summary": "After forming an almost paternal relationship with Lionel Messi and providing a rare sense of stability, Argentina’s unheralded saviour is on the verge of World Cup history On Lionel Messi’s ill-fated international debut in Budapest in 2005, when he was (very harshly) sent off 45 seconds after coming off the bench for swinging an arm at the Hungary defender Vilmos Vanczak, he received only two passes. It may not be much, but those two passes were the first contact in a relationship that may culminate in Argentina becoming only the third nation to successfully defend the World Cup . Messi has spoken of Scaloni as one of the first members of the squad to truly welcome him.",
-      "category": [
-        "Coach"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "coaches",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/14/lionel-scaloni-messi-argentina-england-world-cup-hero"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/14/lionel-scaloni-messi-argentina-england-world-cup-hero"
-      },
-      "confirmed_by": [],
-      "id": "the-other-lionel-how-scaloni-went-from-accidental-manager-to-world-cup-hero"
-    },
-    {
       "published_at": "2026-07-14T03:22:09+00:00",
       "updated_at": "2026-07-14T03:22:09+00:00",
       "title": "Strike action threatens new A-League season as post-World Cup glow again fades too fast | Joey Lynch",
@@ -754,7 +727,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://i.guim.co.uk/img/media/800cda93525e07a5608a83ef25cca185e0b2e0d9/128_0_1415_1132/master/1415.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=32e5d1213221ef16e2773f6ff3071fd4",
       "sources": [
         {
           "name": "The Guardian",
@@ -780,8 +753,8 @@
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "",
+      "club": "liverpool",
+      "image": "https://i.guim.co.uk/img/media/74fac451baa761a5e84cda420fb540b540b61383/38_0_4051_3241/master/4051.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=289f49433ebd12db735c57ff02da90f7",
       "sources": [
         {
           "name": "The Guardian",
@@ -806,10 +779,10 @@
         "Coach"
       ],
       "status": "Reported",
-      "entity": "",
+      "entity": "xabi-alonso",
       "entity_type": "coaches",
-      "club": "",
-      "image": "",
+      "club": "chelsea",
+      "image": "https://i.guim.co.uk/img/media/5d1151a27c1499613de25da7bd6d7858c09cbce7/213_0_3843_3074/master/3843.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8a9c7fe80c3f0017587d43e7bcede684",
       "sources": [
         {
           "name": "The Guardian",
@@ -836,7 +809,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://i.guim.co.uk/img/media/ef084d8ddcf72b52e464b19c77acb6e707e8b2cc/1061_336_2270_1816/master/2270.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9da35caef9bd98a429c5d5b35f590b31",
       "sources": [
         {
           "name": "The Guardian",
@@ -861,9 +834,9 @@
       ],
       "status": "Reported",
       "entity": "",
-      "entity_type": "coaches",
+      "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://i.guim.co.uk/img/media/ff013a69a9bd8764cce0a63fe192691faf3a425a/607_0_4125_3301/master/4125.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6b5c0cff66e28165516dfcc3c472d85d",
       "sources": [
         {
           "name": "The Guardian",
@@ -890,7 +863,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://i.guim.co.uk/img/media/0fb4545ed5a92e78dde7ef2f11b1fbdba19fa6e3/220_0_2240_1792/master/2240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1267c8d5cb21c444c81217d3b814d232",
       "sources": [
         {
           "name": "The Guardian",
@@ -917,7 +890,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://i.guim.co.uk/img/media/8cdf2ebf46ebe71318396a389c2bda5f5fb759b4/751_0_4261_3411/master/4261.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3840ca158fe6d5a365ebbe72f94dc4c",
       "sources": [
         {
           "name": "The Guardian",
@@ -933,8 +906,35 @@
       "id": "merino-puts-spain-into-world-cup-semi-finals-as-belgium-rue-costly-courtois-injury"
     },
     {
-      "published_at": "2026-07-14T14:32:55+00:00",
-      "updated_at": "2026-07-14T14:32:55+00:00",
+      "published_at": "2026-07-10T18:02:50+00:00",
+      "updated_at": "2026-07-10T18:02:50+00:00",
+      "title": "Kylian Mbappé embraces leadership role for France to urge team humility",
+      "summary": "Didier Deschamps’ decision to give the inspirational forward the captaincy has paid off with no complacency on their run to the semi-finals The driving force behind France’s semi-final win over Morocco in 2022, Antoine Griezmann, was watching on from the stands this time as Les Bleus powered past the Atlas Lions to reach a third consecutive World Cup semi-final. The 35-year-old, who recently completed a move to Orlando City, had not attended a France match since his international retirement in 2024 following a brief stint as vice-captain.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/9f4da8687d6fbea917f41902f6f44181116afa0c/268_0_2677_2141/master/2677.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f989842a5a51eb53e743cd4435bc7688",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/10/kylian-mbappe-france-world-cup-2026-semi-final"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/10/kylian-mbappe-france-world-cup-2026-semi-final"
+      },
+      "confirmed_by": [],
+      "id": "kylian-mbapp-embraces-leadership-role-for-france-to-urge-team-humility"
+    },
+    {
+      "published_at": "2026-07-14T16:55:01+00:00",
+      "updated_at": "2026-07-14T16:55:01+00:00",
       "title": "Kane rejects England 'division,' backs Bellingham",
       "summary": "Captain Harry Kane has dismissed the idea of division in the England squad, insisting there is \"complete togetherness\" ahead of the World Cup semifinal with Argentina",
       "category": [
@@ -944,7 +944,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0706%2Fr1685214_1296x729_16%2D9.jpg",
       "sources": [
         {
           "name": "ESPN",
@@ -960,18 +960,18 @@
       "id": "kane-rejects-england-division-backs-bellingham"
     },
     {
-      "published_at": "2026-07-14T14:32:43+00:00",
-      "updated_at": "2026-07-14T14:32:43+00:00",
+      "published_at": "2026-07-14T16:54:43+00:00",
+      "updated_at": "2026-07-14T16:54:43+00:00",
       "title": "Alonso: Chelsea job over Liverpool 'about timings'",
       "summary": "Chelsea manager Xabi Alonso has said that his decision to join Chelsea over Liverpool was \"about timings.\"",
       "category": [
         "Premier League"
       ],
       "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
+      "entity": "xabi-alonso",
+      "entity_type": "coaches",
+      "club": "liverpool",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0714%2Fr1688976_1296x729_16%2D9.jpg",
       "sources": [
         {
           "name": "ESPN",
@@ -987,45 +987,45 @@
       "id": "alonso-chelsea-job-over-liverpool-about-timings"
     },
     {
-      "published_at": "2026-07-14T14:32:43+00:00",
-      "updated_at": "2026-07-14T14:32:43+00:00",
-      "title": "Sources: Man Utd in advanced talks for Tielemans",
-      "summary": "Manchester United are in advanced talks to sign Youri Tielemans from Aston Villa, sources have told ESPN",
+      "published_at": "2026-07-14T16:54:42+00:00",
+      "updated_at": "2026-07-14T16:54:42+00:00",
+      "title": "Balogun: Red card 'controversy' affected USMNT",
+      "summary": "United States striker Folarin Balogun has revealed he predicted President Trump's involvement in overturning his World Cup suspension would \"cause a lot of controversy.\"",
       "category": [
-        "Transfer"
+        "Football"
       ],
       "status": "Reported",
-      "entity": "",
+      "entity": "folarin-balogun",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0706%2Fr1685293_1296x729_16%2D9.jpg",
       "sources": [
         {
           "name": "ESPN",
-          "url": "https://www.espn.com/soccer/story/_/id/49348973/youri-tielemans-man-united-advanced-talks-aston-villa-sources"
+          "url": "https://www.espn.com/soccer/story/_/id/49358886/united-states-folarin-balogun-world-cup-ban-overturn-affected-teammates"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "ESPN",
-        "url": "https://www.espn.com/soccer/story/_/id/49348973/youri-tielemans-man-united-advanced-talks-aston-villa-sources"
+        "url": "https://www.espn.com/soccer/story/_/id/49358886/united-states-folarin-balogun-world-cup-ban-overturn-affected-teammates"
       },
       "confirmed_by": [],
-      "id": "sources-man-utd-in-advanced-talks-for-tielemans"
+      "id": "balogun-red-card-controversy-affected-usmnt"
     },
     {
-      "published_at": "2026-07-14T14:32:42+00:00",
-      "updated_at": "2026-07-14T14:32:42+00:00",
+      "published_at": "2026-07-14T16:54:42+00:00",
+      "updated_at": "2026-07-14T16:54:42+00:00",
       "title": "Balogun joins LeBron's agency after breakout WC",
       "summary": "United States forward Folarin Balogun has signed with LeBron James' agency Klutch Sports following a breakout World Cup that elevated his profile on and off the pitch",
       "category": [
         "Transfer"
       ],
       "status": "Reported",
-      "entity": "",
+      "entity": "folarin-balogun",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0705%2Fr1684884_1296x729_16%2D9.jpg",
       "sources": [
         {
           "name": "ESPN",
@@ -1041,6 +1041,33 @@
       "id": "balogun-joins-lebron-s-agency-after-breakout-wc"
     },
     {
+      "published_at": "2026-07-14T16:54:42+00:00",
+      "updated_at": "2026-07-14T16:54:42+00:00",
+      "title": "Sources: Man Utd in advanced talks for Tielemans",
+      "summary": "Manchester United are in advanced talks to sign Youri Tielemans from Aston Villa, sources have told ESPN",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "youri-tielemans",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0713%2Fr1688579_1296x729_16%2D9.jpg",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49348973/youri-tielemans-man-united-advanced-talks-aston-villa-sources"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/49348973/youri-tielemans-man-united-advanced-talks-aston-villa-sources"
+      },
+      "confirmed_by": [],
+      "id": "sources-man-utd-in-advanced-talks-for-tielemans"
+    },
+    {
       "published_at": "2026-07-14T13:23:49+00:00",
       "updated_at": "2026-07-14T13:23:49+00:00",
       "title": "Inside Man United's summer rebuild, as Santos and",
@@ -1052,7 +1079,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0714%2Fr1688971_1296x729_16%2D9.jpg",
       "sources": [
         {
           "name": "ESPN",
@@ -1079,8 +1106,8 @@
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "",
+      "club": "liverpool",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0711%2Fr1687944_1296x729_16%2D9.jpg",
       "sources": [
         {
           "name": "ESPN",
@@ -1133,9 +1160,9 @@
         "Transfer"
       ],
       "status": "Reported",
-      "entity": "",
+      "entity": "youri-tielemans",
       "entity_type": "players",
-      "club": "",
+      "club": "manchester-united",
       "image": "",
       "sources": [
         {
@@ -1192,7 +1219,7 @@
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
+      "club": "manchester-united",
       "image": "",
       "sources": [
         {
@@ -1218,7 +1245,7 @@
       ],
       "status": "Reported",
       "entity": "",
-      "entity_type": "coaches",
+      "entity_type": "players",
       "club": "",
       "image": "",
       "sources": [
@@ -1262,34 +1289,6 @@
       },
       "confirmed_by": [],
       "id": "today-s-papers-inter-welcome-khalaili-big-fiorentina-deal"
-    },
-    {
-      "published_at": "2026-07-09T19:53:59+00:00",
-      "updated_at": "2026-07-09T19:53:59+00:00",
-      "title": "Besiktas start Lukaku talks with Napoli, but offer half €10m asking price",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "besiktas-start-lukaku-talks-with-napoli-but-offer-half-10m-asking-price"
     }
   ]
 }
