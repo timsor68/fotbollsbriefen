@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-07-14T00:37:51.363245+00:00",
+  "updated_at": "2026-07-14T00:45:29.613255+00:00",
   "items": [
     {
       "published_at": "2026-07-11T17:20:53+00:00",
       "updated_at": "2026-07-11T17:20:53+00:00",
       "title": "Jürgen Klopp tackar ja till att bli ny tysk förbundstränare",
-      "summary": "Jürgen Klopp är aktuell för tränaruppdraget i Liverpool. De berörda parterna väntas lämna fler besked när processen är slutförd.",
+      "summary": "Jürgen Klopp är aktuell för tränaruppdraget i Liverpool. Ett officiellt besked har ännu inte lämnats.",
       "category": [
         "Tränare"
       ],
-      "status": "Officiellt",
+      "status": "Bekräftat av flera källor",
       "entity": "Jürgen Klopp",
       "entity_type": "coaches",
       "image": "",
@@ -29,7 +29,6 @@
       ],
       "id": "j-rgen-klopp-agrees-to-become-new-germany-national-coach",
       "language": "sv",
-      "club": "Liverpool",
       "main_source": {
         "name": "BBC Sport",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3d2RVNkotcDY0TFpMelY0cGgtbkltOUMycDJmY0ZOZGFqWXg4R3ljNmhadmxpLVR6UG83OTdwM20wRHJrZ0l6SFFDcTJhQ0hBZUlEU0g3UGJTRHBDTldsd1pZdHpkRTA?oc=5"
@@ -43,13 +42,14 @@
           "name": "ESPN",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM2JyeFRQazV1bWotdzVHOExqMXRWYlhZZEhodkZNUmZsUmQzZjdiclZkOVgya2ZCcG5YdndaNUR2XzVZaDZTMUgzeF9wTmZJWkZrcEJLZ1lGdWx6RUtLZkxRVkhhZTlEUDdKQUdWWnl3YlpDMVdfazRlNFFNRk5RTnpwUG9HWFdlTDdVQXZiNTBPVk90SEdpVWxmUk9ma2xLRGU1LXc3Z3hRblpyeUFYQ3FUeWtEX1U?oc=5"
         }
-      ]
+      ],
+      "club": "Liverpool"
     },
     {
       "published_at": "2026-07-09T16:49:43+00:00",
       "updated_at": "2026-07-09T16:49:43+00:00",
       "title": "Crystal Palace värvar Mingueza från Celta Vigo",
-      "summary": "Crystal Palace är aktuell för en övergång. Flera etablerade källor följer utvecklingen, men affären är ännu inte officiellt klar.",
+      "summary": "Crystal Palace är aktuell för en övergång. Fler detaljer väntas när de berörda klubbarna har kommit längre i processen.",
       "category": [
         "Transfer"
       ],
@@ -81,7 +81,6 @@
       ],
       "id": "crystal-palace-sign-spain-defender-mingueza-from-celta-vigo",
       "language": "sv",
-      "club": "",
       "main_source": {
         "name": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONW1KTkxnbF9QMTdGRVRZNzdtSUNiMzJFZmpWY2ViSzZkbHhFZlIyVTNydElLSlZoUGU4cEpyZzJLRVowckNuU2ZqYnJNR19RZHZDaExqVFl0SXpIaEFZZGswalp0bzVGazJOc3UzVlFzSmVySVU4a2V1eUxNMXZPQlBDbzQ1cEdyS1hYbWhtemJiQlJGRzhuTjNSVHVhTmdqQWlTbzEtdw?oc=5"
@@ -103,26 +102,27 @@
           "name": "Football Italia",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rdGZlVUg1ZW10c0xJXzhuZ0lPVGtHMUJxN3NqcmFzNkgzb3I2TFUxSGh4U1pQU083RnhqREg3NzlONEtjMS1MM1dlU2R0Y1VNUkE0eUZkQWxyRGZIem1SWmZnSnM4b0tJVHVSUVh5My1fVTRiWGxFWEVKUXNlQdIBgwFBVV95cUxOOTl1QW9zX1FvZ1diZDdPNmxOOGhSRUFlQ2NBMlZra1dUYjQwZzNxMm5NMjFSWldzaF9JVHpIZkJKdW5tb1BadWYyMENOeWVLVlpmOW5NeWlkZTA5ei1heHF1TjYwaFRCbUhKTzNnb1lYYjBfOGNSRVlKWHlCQ0kzeWd5bw?oc=5"
         }
-      ]
+      ],
+      "club": ""
     },
     {
       "published_at": "2026-07-09T10:13:31+00:00",
       "updated_at": "2026-07-09T10:13:31+00:00",
       "title": "Liverpool får klart grönt ljus för att värva Bradley Barcola eftersom PSG kräver ett enormt pris",
-      "summary": "Liverpool arbetar med en övergång för Bradley Barcola från Paris Saint-Germain. Uppgifterna stöds av flera etablerade källor. Affären är inte helt klar förrän klubbarna har bekräftat samtliga delar.",
+      "summary": "Liverpool uppges arbeta med en värvning av Bradley Barcola från Paris Saint-Germain. Uppgifterna bygger på rapportering från huvudkällan och flera bekräftande källor.",
       "category": [
         "Premier League",
         "Ligue 1",
         "Transfer"
       ],
-      "status": "Officiellt",
+      "status": "Bekräftat av flera källor",
       "entity": "Bradley Barcola",
       "entity_type": "players",
       "image": "",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wNkN5T1hUWFNodVlXMTNTNXlRTjlEcTU3VU1YdC1Va2pxdjFwdTZRNHdtV2RvaEhfY0Yyd3daLTQ4NzVMZTFOaFdFV2NrNmtpMkVBd0tqcFpESllJY1kwWF9ubHo?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQX0FlTVlnV1VEZjBNRE1Qemg4a0NnUW9hS1pNMUI2LWxoS2V4Z2RrckVrcGFfWXFLR2R4cGNham5PVEVDUF91WE81V0JnRDZyblo0THBiS2pDVlNpZzBaR09vU0ZlYkJPbWd2d1RmRmNoNUxVUHEzVFJxSzhMVlotZTJKMWFJS1ZxWDBzeUlPSWlCeUFDR0hhR3FFdDQtU01CVF9QWkZNWDctZ3c1YlVQd1B4TXRCcmlPTEJTM2pZNVhvUGhpNTRoa29VMkhRd3hiZFhjLVdIV29EaVd4UGJJbUNKcmc5Mm5HWjBNeXN2UlJpTXdiWHZhYWJFZzBpcFBWWExlckNnMjJ6elEzSXhDOFJLZkZYdzA?oc=5"
         },
         {
           "name": "L'Équipe",
@@ -131,23 +131,23 @@
       ],
       "id": "liverpool-get-significant-green-light-to-sign-bradley-barcola-as-psg-demand-mammoth-price",
       "language": "sv",
-      "club": "Liverpool",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wNkN5T1hUWFNodVlXMTNTNXlRTjlEcTU3VU1YdC1Va2pxdjFwdTZRNHdtV2RvaEhfY0Yyd3daLTQ4NzVMZTFOaFdFV2NrNmtpMkVBd0tqcFpESllJY1kwWF9ubHo?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQX0FlTVlnV1VEZjBNRE1Qemg4a0NnUW9hS1pNMUI2LWxoS2V4Z2RrckVrcGFfWXFLR2R4cGNham5PVEVDUF91WE81V0JnRDZyblo0THBiS2pDVlNpZzBaR09vU0ZlYkJPbWd2d1RmRmNoNUxVUHEzVFJxSzhMVlotZTJKMWFJS1ZxWDBzeUlPSWlCeUFDR0hhR3FFdDQtU01CVF9QWkZNWDctZ3c1YlVQd1B4TXRCcmlPTEJTM2pZNVhvUGhpNTRoa29VMkhRd3hiZFhjLVdIV29EaVd4UGJJbUNKcmc5Mm5HWjBNeXN2UlJpTXdiWHZhYWJFZzBpcFBWWExlckNnMjJ6elEzSXhDOFJLZkZYdzA?oc=5"
       },
       "confirmed_by": [
         {
           "name": "L'Équipe",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbHZ6Vzl2Y3pRMlB3RWlVZU45YVZUY05QdGhHeTc1LWNsUjRPYTlodTljcXl4LWJ4UTFSY01vc2VCQ2N0STQzajdFd2dJNTEzdFFMdDFCd0lLU0IzUktzOEY4ODBGZWZSeVVvSTBZRWFaLW9ZYUpFaXN6SEczZTBkaC1XSXZCcjZXY2VUQjRoemdwcWxEMHJqTG53cmV0MkhSQ3pVMW9pWmFKTHBWZ2xfSzltZ3pKS3U4U0JaVXRkMnlnS0NtTEhZelJ3ZFhjUUYtRkZCdjRNS2lTejBPWnZoY3ZoRmNEQQ?oc=5"
         }
-      ]
+      ],
+      "club": "Liverpool"
     },
     {
       "published_at": "2026-07-10T16:00:17+00:00",
       "updated_at": "2026-07-10T16:00:17+00:00",
-      "title": "Englands försvarare Charles kommer till Manchester City från Chelsea",
-      "summary": "Manchester City arbetar med en övergång för Niamh Charles från Chelsea. Uppgifterna stöds av flera etablerade källor. Affären är inte helt klar förrän klubbarna har bekräftat samtliga delar.",
+      "title": "Manchester City värvar Niamh Charles från Chelsea",
+      "summary": "Manchester City uppges arbeta med en värvning av Niamh Charles från Chelsea. Uppgifterna bygger på rapportering från huvudkällan och flera bekräftande källor.",
       "category": [
         "Premier League",
         "Transfer"
@@ -176,7 +176,6 @@
       ],
       "id": "england-defender-charles-joins-man-city-from-chelsea",
       "language": "sv",
-      "club": "Manchester City",
       "main_source": {
         "name": "BBC Sport",
         "url": "https://www.bbc.co.uk/sport/football/articles/c4gyed2g8vro?at_medium=RSS&at_campaign=rss"
@@ -194,19 +193,20 @@
           "name": "Manchester City",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Ub2xvOVZ2ZkVrVmtEY1hWUWZ6SVpMZ09mZW83R3N4d3o2TDMyT0FIWHFaYW1wMXRuS3V5V3BDOGNPZFBPR1dZdks1TFJLZFlWRi14Njl6eS1vcWZCUHJKMXo3d1hXZ3hsZWs1cEZKdEo?oc=5"
         }
-      ]
+      ],
+      "club": "Manchester City"
     },
     {
       "published_at": "2026-07-09T06:50:25+00:00",
       "updated_at": "2026-07-09T06:50:25+00:00",
-      "title": "David Ornstein: Manchester United har kommit överens om ett avtal på 50 miljoner pund för att värva David Ornstein",
-      "summary": "Manchester United arbetar med en övergång för David Ornstein från Chelsea. Uppgifterna stöds av flera etablerade källor. Affären är inte helt klar förrän klubbarna har bekräftat samtliga delar.",
+      "title": "Manchester United har kommit överens om ett avtal på 50 miljoner pund för att värva Chelsea-stjärnan",
+      "summary": "Manchester United uppges arbeta med en värvning av Manchester United från Chelsea. Uppgifterna bygger på rapportering från huvudkällan och flera bekräftande källor.",
       "category": [
         "Premier League",
         "Transfer"
       ],
       "status": "Bekräftat av flera källor",
-      "entity": "David Ornstein",
+      "entity": "Manchester United",
       "entity_type": "players",
       "image": "",
       "sources": [
@@ -225,7 +225,6 @@
       ],
       "id": "david-ornstein-man-united-have-agreed-50m-deal-to-sign-chelsea-star",
       "language": "sv",
-      "club": "Manchester United",
       "main_source": {
         "name": "David Ornstein / The Athletic",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX2hGdWhmTE5MSGJjNUlHUlhQLXBlR1lHOThfdjNUSHJES1JCUndiQ1NCajU4alFjekVIa0daT2FUWXJQQ2NpM1dhbUdaTGdVcWw3YzA1YWxuUngzOXZDTTNjdUJSQnNTVFFhaWgwQ0FuM3RHenRyYzZuejBxWVdMSkxKU2FpWmpwejlzZGdYa2RUVGZRN3UwczZfdXV4ak80UFE?oc=5"
@@ -239,13 +238,14 @@
           "name": "Sky Sports",
           "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVkZJbDFfREFnRnljN0VUWHIydWpqdDdPSW95b1A5NjR4M19GaGdJX0lYSVBkbG82ZXJ5blNzZndpXzlrbWVLeUx5MGZ6WjJaS3RPTTB1UDlkcndaaUxGbDIwNmY5dGFIdm1qeUdWUFo5UndaSVpQS0VwLWU3d3pHTFFtazJ6RjEzNkdpODYyZk0zZmZwS1JmSjhZT1hyRHg1VlRzV1phVXREZ0l0ay1Dd1R6Y0ctVXlQcEFHcXZRVHpHeGM5RmZGcmxxdWNKVXBJa0RnaXlXTVJjS3d2ZTlvbl9pRFhsaDlaR01YWEM1SVpXUQ?oc=5"
         }
-      ]
+      ],
+      "club": "Manchester United"
     },
     {
       "published_at": "2026-07-10T09:22:18+00:00",
       "updated_at": "2026-07-10T09:22:18+00:00",
       "title": "Camilo Duran: Celtic gör första nya sommarvärvningen när anfallaren ansluter från Qarabag på ett femårskontrakt",
-      "summary": "ansluter från Qarabag på är aktuell för en övergång. Flera etablerade källor följer utvecklingen, men affären är ännu inte officiellt klar.",
+      "summary": "ansluter från Qarabag på är aktuell för en övergång. Fler detaljer väntas när de berörda klubbarna har kommit längre i processen.",
       "category": [
         "Transfer"
       ],
@@ -265,7 +265,6 @@
       ],
       "id": "camilo-duran-celtic-make-first-new-summer-signing-as-striker-joins-from-qarabag-on-five-ye",
       "language": "sv",
-      "club": "",
       "main_source": {
         "name": "Sky Sports",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOXRuRzdKY2wzcjVUb2k4a2pjRDY0V2FVNzZUVGdpUDlSZV9lbzVaYUV1dVoyX2FDN21TeFJTMjhzOFg1SDd5RlRlRGFkdjd4c3p5Nmd4aTQ0NWtxQTZBbm95VEJMSWZDVUloLUJDU0dlNktvN3dqMHFFcVFxRzlZYkpWVS1ya2t4NVVNUjI3QktUMEZpOFdEc3VMdVFyblpYQU5jbzFRRGdUQl9USlY3MFBoMW5MVEMySUlyTHhsY0lQQ05zRHdaUmpWRUZHNjBONGJURllGb3NDT3lpbUprZkVnS3hHdXM?oc=5"
@@ -275,13 +274,14 @@
           "name": "ESPN",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeER1U1ZVaFdKeFlQQ181WUdzRzNEM1I1WjRFbl9abHlYY3JhWjdCc3NpYk1sblJnZm9XY2ZYMHBCc084WFg1dDZSRHF3X2pNUlJMcVctMzJ5M1lKa0NnRXVSNkFONDhHbWZVNXdSZ0M3dGtjZGh1QnFPTm1tbURETkdlQnJObTl2ZzZtaVV6cUI5aElCTEE?oc=5"
         }
-      ]
+      ],
+      "club": ""
     },
     {
       "published_at": "2026-07-09T10:04:27+00:00",
       "updated_at": "2026-07-09T10:04:27+00:00",
       "title": "Harrison Ashby ansluter till Luton Town på lån",
-      "summary": "Newcastle United uppges vilja värva Harrison Ashby. Kontakter eller förhandlingar pågår enligt huvudkällan. Ett officiellt besked väntas om parterna når en slutlig överenskommelse.",
+      "summary": "Newcastle United uppges vara intresserat av Harrison Ashby. Kontakter eller förhandlingar pågår, men affären är ännu inte officiellt klar.",
       "category": [
         "Transfer"
       ],
@@ -305,7 +305,6 @@
       ],
       "id": "latest-harrison-ashby-joins-luton-town-on-loan",
       "language": "sv",
-      "club": "Newcastle United",
       "main_source": {
         "name": "Newcastle United",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdDkxajlhV0NDYmZnZzh2blIyTTZyOFQ5TnMxY3M5Q2dSUzVCdjh5bDVvcmVwaTlCakRaa0dVV2oxbUNQbkVEbzRidW1xeVcydFBHOXY2TmE0cVFFQVhIRmRxclBBU1J2UVJ6TWFsT2w2MC1GUENjNG82emxxUUlPaElFdzlBQQ?oc=5"
@@ -319,18 +318,19 @@
           "name": "Juventus",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZUJVQW1iNWE3anBybXFReldjUVRyYTVqTGg4Y1JlOEoyXzBuaWhEZ3ZGZHRYckdjMFZsTmVGWGlKenN1Q3ZJVmw5V3ZXOWx6NUowNWJhdkVYZHpVeWxUQmpsUXJ0Skh6ZVB0bUZoY1VidWw5M2hKWWs5a1gybmpKcUFSR3RDQ2s?oc=5"
         }
-      ]
+      ],
+      "club": "Newcastle United"
     },
     {
       "published_at": "2026-07-08T13:47:24+00:00",
       "updated_at": "2026-07-08T13:47:24+00:00",
       "title": "Liverpool hittar vad som krävs för att värva West Ham United-yttern Crysencio Summerville",
-      "summary": "Liverpool uppges vilja värva West Ham United-yttern Crysencio. Kontakter eller förhandlingar pågår enligt huvudkällan. Ett officiellt besked väntas om parterna når en slutlig överenskommelse.",
+      "summary": "Liverpool uppges vara intresserat av West Ham United-yttern Crysencio. Kontakter eller förhandlingar pågår, men affären är ännu inte officiellt klar.",
       "category": [
         "Premier League",
         "Transfer"
       ],
-      "status": "Officiellt",
+      "status": "Rapporterat",
       "entity": "West Ham United-yttern Crysencio",
       "entity_type": "players",
       "image": "",
@@ -342,24 +342,24 @@
       ],
       "id": "liverpool-find-what-it-would-take-to-sign-west-ham-united-winger-crysencio-summerville",
       "language": "sv",
-      "club": "Liverpool",
       "main_source": {
         "name": "Football Italia",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbmxaQU9reG1FTXBHaElVUGlscDlYUGF3Q2NXWXptWjR3aGJFQ2Z3NUQxVmZNMF9uMENsYndtcU5lXzY5YTRwWURTTHp1YnN6dTl1aWtIdmJ2dm1JSEFMV2ZoSnJVdVFXM3N5aHhvSGxKRU53U3BMdXpKZlZYSkhLY9IBhgFBVV95cUxNczNDLWh3aTVVRXVKSy16MjE4R3NfUEtOR3JiMGlaZnlqRkw1MHBGVC16NF9zUjh1ZWt1dC0tODVDdmI0amhoaVowSkc4RHAyMDJ2ejNQakNjeHlfdmxBQjU3SjctdlVtQ0pTSHREczRvMlI0Tk94WWEzcmN6dFo1YnppZzQxdw?oc=5"
       },
-      "confirmed_by": []
+      "confirmed_by": [],
+      "club": "Liverpool"
     },
     {
       "published_at": "2026-07-07T09:00:09+00:00",
       "updated_at": "2026-07-07T09:00:09+00:00",
       "title": "Förre Chelsea-chefen Rosenior utsåg Paris FC till tränare",
-      "summary": "Förre Chelsea-chefen Rosenior utsåg Paris FC till tränare. Uppgifterna bygger på rapportering från de angivna källorna.",
+      "summary": "Förre Chelsea-chefen Rosenior är aktuell för tränaruppdraget i Chelsea. Ett officiellt besked har ännu inte lämnats.",
       "category": [
         "Premier League",
         "Tränare"
       ],
       "status": "Bekräftat av flera källor",
-      "entity": "",
+      "entity": "Förre Chelsea-chefen Rosenior",
       "entity_type": "coaches",
       "image": "",
       "sources": [
@@ -378,7 +378,6 @@
       ],
       "id": "former-chelsea-boss-rosenior-appointed-paris-fc-manager",
       "language": "sv",
-      "club": "Chelsea",
       "main_source": {
         "name": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV3BqOFlhZkttNFNjck9NdERYdV8yUEY3QXdoQ3BQVjlBdmcyb1JvTmk4OG5yOTljSWtySjVIcHJlSVJMTWxjSV9IS3Vvd0huanExUTFveFEtQURLY1M4Sk45aWJHSlZFaGM0VlRyOC1tbGRKaThadktGa0lwcFdKeXBpbVFubHdvMzdIbDQ5NzU2MmtJWjVZS0g0M1MwWDFtM0Y1d1dhNmg?oc=5"
@@ -392,18 +391,19 @@
           "name": "ESPN",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSUdNSmtST0M0WWVWZXRXMVIzM3BQVnZvN2RNVHZQZDJ3SkJ1TlppSzlKanNHanh2TW5KeGRucHNoOWZZWjhSbzBpTWRTOW5YbEpJOGt4Y1dXNjB5dmN6WGdJYWdjSU9LY0tsUHdFY2pWUW1nMkkyZEdaaUlRWHVhVHhuWVk?oc=5"
         }
-      ]
+      ],
+      "club": "Chelsea"
     },
     {
       "published_at": "2026-07-13T17:53:34+00:00",
       "updated_at": "2026-07-13T17:53:34+00:00",
       "title": "Villa arbetar på affär för schweiziska Manzambi",
-      "summary": "Newcastle United arbetar med en övergång för Johan Manzambi från Aston Villa. Uppgifterna stöds av flera etablerade källor. Affären är inte helt klar förrän klubbarna har bekräftat samtliga delar.",
+      "summary": "Aston Villa arbetar på en affär för Freiburgs mittfältare Johan Manzambi när de försöker kapa en flytt till Newcastle United.",
       "category": [
         "Transfer"
       ],
       "status": "Bekräftat av flera källor",
-      "entity": "Johan Manzambi",
+      "entity": "",
       "entity_type": "players",
       "image": "",
       "sources": [
@@ -422,7 +422,6 @@
       ],
       "id": "villa-working-on-deal-for-switzerland-s-manzambi",
       "language": "sv",
-      "club": "Newcastle United",
       "main_source": {
         "name": "BBC Sport",
         "url": "https://www.bbc.co.uk/sport/football/articles/c39ym7e788wo?at_medium=RSS&at_campaign=rss"
@@ -436,13 +435,14 @@
           "name": "Fabrizio Romano",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWnZiVzFYNzZncEJvZ1hDbm15Wk5MTHJBZlRMWTdDajZBaTRnOFFRb1I5ZnZyNkZNdzN0aDdlNHF2VUgzNWg5UndtRkZMR3BjcHJtckdwLXJlZHBRWW11NnEtc0k5RlpjcXM0d19JVm54M0lnSC05ZG9RN2xKYXlmdXRYSDZtMkpoZ2FubTR1ald3eTNTSTJ2RFdSS3lEMmVTQWRicWRScm9ZSDFBVkNLZ2hMRGx3QTJ5bDBzT3c5UEzSAcABQVVfeXFMTVp2YlcxWDc2Z3BCb2dYQ25teVpOTExyQWZUTFk3Q2o2QWk0ZzhRUW9SOWZ2cjZGTXczdGg3ZTRxdlVIMzVoOVJ3bUZGTEdwY3BybXJHcC1yZWRwUVltdTZxLXNJOUZaY3FzNHdfSVZueDNJZ0gtOWRvUTdsSmF5ZnV0WEg2bTJKaGdhbm00dWpXd3kzU0kydkRXUkt5RDJlU0FkYnFkUnJvWUgxQVZDS2doTERsd0EyeWwwc093OVBM?oc=5"
         }
-      ]
+      ],
+      "club": "Newcastle United"
     },
     {
       "published_at": "2026-07-13T13:00:00+00:00",
       "updated_at": "2026-07-13T13:00:00+00:00",
       "title": "Andrey Santos flyttar till Manchester United",
-      "summary": "Manchester United arbetar med en övergång för Andrey Santos från Chelsea. Uppgifterna stöds av flera etablerade källor. Affären är inte helt klar förrän klubbarna har bekräftat samtliga delar.",
+      "summary": "Manchester United uppges arbeta med en värvning av Andrey Santos från Chelsea. Uppgifterna bygger på rapportering från huvudkällan och flera bekräftande källor.",
       "category": [
         "Premier League",
         "Transfer"
@@ -479,7 +479,6 @@
       ],
       "id": "andrey-santos-moves-to-manchester-united-news-official-site",
       "language": "sv",
-      "club": "Manchester United",
       "main_source": {
         "name": "The Athletic",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU3lHaTE0RDBkRGJwdlRRVklLeXRnSU9Od011X1pIdWlJcGdEdzJ1Zy1QS3ZuT3QxWGV0NlhiVVYxdHlaR3lXTnBpMG5lUGFSd3BVMmFGenVxM2NpVjU0Tk95MUZ2RzNZLVBiczBfS2xQNWU5Z2dfTktTc3lweGR6ZVR4N3NTSV8zQk9xWFhUQXZ1M3cwcmptUDgtVVNNSXMybjROVlUwb3VWWTA?oc=5"
@@ -501,13 +500,14 @@
           "name": "Chelsea",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS04wVldNUjNXLXdhVWRKVlp3aE0wRWZMaGFMRzRCanNwczByaHF2N2tZMlVsOU53QjNma0VPV05xSzVzU1kwdGt1dUtTRU9RaXpLTlRxZk8xVUl4SVd5YWc2Q1pWYTBMdFV0RER0RTB4S21HRTlPUEtUTzN2V08zOTlQN2JXT2NDMFE?oc=5"
         }
-      ]
+      ],
+      "club": "Manchester United"
     },
     {
       "published_at": "2026-07-13T07:42:00+00:00",
       "updated_at": "2026-07-13T07:42:00+00:00",
       "title": "Premier League 2026 sommaröverföringar: Alla bekräftade ins, outs för varje klubb",
-      "summary": "Premier League är aktuell för en övergång. Flera etablerade källor följer utvecklingen, men affären är ännu inte officiellt klar.",
+      "summary": "Premier League är aktuell för en övergång. Fler detaljer väntas när de berörda klubbarna har kommit längre i processen.",
       "category": [
         "Premier League",
         "Transfer"
@@ -552,7 +552,6 @@
       ],
       "id": "premier-league-2026-summer-transfers-all-confirmed-ins-outs-for-every-club",
       "language": "sv",
-      "club": "",
       "main_source": {
         "name": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN19KNkRqWjVmQzI3c0JOMG52VU5hVTlmRjBpWGwwNXFPcVBmMmpIdGZkemdUSkhTcEduU29RYWwzSFVyTldDVXZ3S0hncEZseUI3anZTS29FTkZ1SFNDamxxZmx1TXY1azh2ZWM1SzFFTGxOZjREMEhjYkJOdWZBZ1VNN2piRmstc3FRVVhHbExGaHBaeDdPMzJFeklub0NSZDdQMVpZSVZPYmlRWFpQRm1YdGtHaGpWc1Y5LUpkS1JscjF6eGc?oc=5"
@@ -574,19 +573,20 @@
           "name": "ESPN",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaVRSVUIzcC1tdlVQdUJjYWZVNVpIN0ZydXlfS1RFX1Zjb1k1MmV6Wnp2WTdaOTMtTVpwdlBRTjJEeE8tY25hN1BmWi1STjNpSjBVU3hBVFZiRUtncG11cGphZ3FueVVPcnN2WXdBSG5kM3N1eVhBekV0X2FKclZWTjJocVFUQmt5YjVOUEtYYmRUUzVCYWhOQXhTZkUyMTA1WEMtOVBJUzBWTkVLRTNOWnFPV0N6bWhjZ3c?oc=5"
         }
-      ]
+      ],
+      "club": ""
     },
     {
       "published_at": "2026-07-08T21:42:00+00:00",
       "updated_at": "2026-07-08T21:42:00+00:00",
       "title": "Manchester United-länkade Aurélien Tchouaméni håller med om nytt Real Madrid-avtal - källor",
-      "summary": "Manchester United arbetar med en övergång för Man United-länkade Aurélien Tchouaméni från Real Madrid. Uppgifterna stöds av flera etablerade källor. Affären är inte helt klar förrän klubbarna har bekräftat samtliga delar.",
+      "summary": "Manchester United uppges arbeta med en värvning av Manchester United-länkade Aurélien Tchouaméni från Real Madrid. Uppgifterna bygger på rapportering från huvudkällan och flera bekräftande källor.",
       "category": [
         "La Liga",
         "Transfer"
       ],
       "status": "Bekräftat av flera källor",
-      "entity": "Man United-länkade Aurélien Tchouaméni",
+      "entity": "Manchester United-länkade Aurélien Tchouaméni",
       "entity_type": "players",
       "image": "",
       "sources": [
@@ -605,7 +605,6 @@
       ],
       "id": "man-united-linked-aur-lien-tchouam-ni-agrees-new-real-madrid-deal-sources",
       "language": "sv",
-      "club": "Manchester United",
       "main_source": {
         "name": "The Athletic",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQWVURWxHanlPZGlaUkNWekZ4U1g1TS1sNW5BZUlTUGFzUmJxUTRGWVVKTmVpN2lzc2h3M0ZhRERjT2NvT2ZGM0xzT2FWRXdWTE8xMXJ0Sk16U3VNSVltV1VPLUpTTnAxVzlwYjBDLVpPeEhwZXg1RVhHRGxyVUZEVE4wYkY1b3RWcUc5UW0xYndZQQ?oc=5"
@@ -619,13 +618,51 @@
           "name": "Mundo Deportivo",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbFJuTUdKWW9iamZLYnA1OU5TM1VqZUNTajRjdllDMjNxNWxNbW10U09WdExXLS10dUlRTWxNQlZuY2pFb1dBREU0aTVqWGk4TmYzMk1BbGwtdlVhSVNaV3dWeWFJSVlLeU03NjVNckRRWXF5X29YMEhUU2xSTTgyRmZEN1RJVV9mR2hjZlRyUl9xTzJIdWtvVzNoOWw2UzJpYkpQc21ILXhEOTBjZTZmRG5QdTlHQdIBwwFBVV95cUxPNmRuNmhrOEFtMXQwRi10ZTA2Z3UzdlRnY3VMMlgzb1lCLTRielVLRmJCWEgxdHFhTVpHenFUOHZITTBuZkRXOW11QUVCV0JZSW1hUFY0Y1VlY2g2RTJQR09hZDVwbURLbkR4WVljaTVWVUp2aHZaTDhNdTk2VmxXR3pLMU1TV1hmcmlYNnZvZ1EtV3BSSm9kWTRCQ2JUQ3Q1XzhMejVBLV91TFlLMW5sQTlUWnM1TlFscW1iUFVOSWtPNUU?oc=5"
         }
-      ]
+      ],
+      "club": "Manchester United"
+    },
+    {
+      "published_at": "2026-07-09T07:56:00+00:00",
+      "updated_at": "2026-07-09T07:56:00+00:00",
+      "title": "Arsenal nära en fantastisk dubbelaffär efter att Bruno Guimaraes \"kommer överens om personliga villkor\"",
+      "summary": "Arsenal uppges vara intresserat av Bruno Guimaraes. Kontakter eller förhandlingar pågår, men affären är ännu inte officiellt klar.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Bekräftat av flera källor",
+      "entity": "Bruno Guimaraes",
+      "entity_type": "players",
+      "image": "",
+      "sources": [
+        {
+          "name": "L'Équipe",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTC1pcklhZ0VuS1hPNGtjZlh0bUpMNWQ2SERnN2ZhTWM3SkZ0Q0c2bFZFYmJvbDRla2FaZm13cEM3Y1BTSDVKVG41Q2g5V2RBa3pRZ01qUXVCeGk3bUVQMDZOLWFYeEs3QmMyQ3RYRW90V3dfa0tMRVBlU29pblh3ZHZxOHpIVTNZUno2bDRnaDB5YTRCUUpYbkF2eHdPTEJrXy1FRjVrWDh4eDRxTW1MUHJpYlJlUFRBWS0wcFZpOTlsWEhTenhFNkdDTGl0RGtjWjhDSmlmcXBneWd0c0QtUFl4TU5qZjhG?oc=5"
+        },
+        {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRkFVOFBvZzZuVFV4T1hKRXpmTVRQU3h3V3YyQ1k5YWNtckh3aVdGZ2d4VV9Cal9iU0V2cWFUWU12dmRsd2tMa0tBOENwaXV4bGRTZkwyOHlnN0loai1GNGxWb3dvcGNjZEJ0eVRjZ2V5Yi1IOG9fMFVyeVVHeEU5NjlfMkdEMV82anU5Njh5MTU4UGs3YXQ2ZEpRT2lsdGlVamc?oc=5"
+        }
+      ],
+      "id": "arsenal-near-stunning-double-deal-after-bruno-guimaraes-agrees-personal-terms",
+      "language": "sv",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRkFVOFBvZzZuVFV4T1hKRXpmTVRQU3h3V3YyQ1k5YWNtckh3aVdGZ2d4VV9Cal9iU0V2cWFUWU12dmRsd2tMa0tBOENwaXV4bGRTZkwyOHlnN0loai1GNGxWb3dvcGNjZEJ0eVRjZ2V5Yi1IOG9fMFVyeVVHeEU5NjlfMkdEMV82anU5Njh5MTU4UGs3YXQ2ZEpRT2lsdGlVamc?oc=5"
+      },
+      "confirmed_by": [
+        {
+          "name": "L'Équipe",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTC1pcklhZ0VuS1hPNGtjZlh0bUpMNWQ2SERnN2ZhTWM3SkZ0Q0c2bFZFYmJvbDRla2FaZm13cEM3Y1BTSDVKVG41Q2g5V2RBa3pRZ01qUXVCeGk3bUVQMDZOLWFYeEs3QmMyQ3RYRW90V3dfa0tMRVBlU29pblh3ZHZxOHpIVTNZUno2bDRnaDB5YTRCUUpYbkF2eHdPTEJrXy1FRjVrWDh4eDRxTW1MUHJpYlJlUFRBWS0wcFZpOTlsWEhTenhFNkdDTGl0RGtjWjhDSmlmcXBneWd0c0QtUFl4TU5qZjhG?oc=5"
+        }
+      ],
+      "club": "Arsenal"
     },
     {
       "published_at": "2026-07-09T19:41:31+00:00",
       "updated_at": "2026-07-09T19:41:31+00:00",
       "title": "Chelsea: Den nya tränaren Xabi Alonso tar på sitt första träningspass med klubben",
-      "summary": "Xabi Alonso är aktuell för tränaruppdraget i Chelsea. De berörda parterna väntas lämna fler besked när processen är slutförd.",
+      "summary": "Xabi Alonso är aktuell för tränaruppdraget i Chelsea. Ett officiellt besked har ännu inte lämnats.",
       "category": [
         "Premier League",
         "Tränare"
@@ -646,7 +683,6 @@
       ],
       "id": "chelsea-new-manager-xabi-alonso-takes-on-his-first-training-session-with-the-club",
       "language": "sv",
-      "club": "Chelsea",
       "main_source": {
         "name": "Sky Sports",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVnZhOUlIMHJQYnI2bF82T3NNeVREalFJNlVJTHJ6ajVGQjFGVGdSZGJIYlhUUnlHR21wVWF4REhzNHBsdjZvZFEyTWJMRGsxc2N2elBPY1VXSVFROENIMXQ1SllsdWZFRGEzcXR2T0pTcmRKcUF2bjBWYXBjRTJaTEFjajYwQzJkdDVoTk5DdFF0VXF6aU1zOXpoSUpObGxFSEFvVkEzcVMzdVVFNDFHRVVrRVpfSG90elViN0NDajJSdTZONUdnY3AySGVINHpvNHp6YjdQX2k5elBVWENoVmVB?oc=5"
@@ -656,19 +692,20 @@
           "name": "Chelsea",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ1RRMU5wZ2luZVdJTmtFdXYwcERwQ0NrNUhLWEYtS2RUbW4tMXBlbUFlU2REMkliaVRFaVNsRmJ4TGhEWHpqSlBhc0pkSWpheDZYeFM3WWJlaHFpdWlHdDM2UWRaZkxuRXVmcFBfTjNEcjhmTjRld0RsbTZaR1V3MmtBQmZIY0tBWnlqMlo3OExvT0pST0tHM2lSenRnLV9NVS1mQk9TMG4?oc=5"
         }
-      ]
+      ],
+      "club": "Chelsea"
     },
     {
       "published_at": "2026-07-13T13:06:09+00:00",
       "updated_at": "2026-07-13T13:06:09+00:00",
       "title": "Bilic återvänder som tränare för Kroatien efter Dalics exit",
-      "summary": "Bilic återvänder som tränare för Kroatien efter Dalics exit. Uppgifterna bygger på rapportering från de angivna källorna.",
+      "summary": "Bilic återvänder som tränare för Kroatien efter Dalics exit. Uppgifterna bygger på rapportering från huvudkällan.",
       "category": [
         "Tränare"
       ],
       "status": "Bekräftat av flera källor",
       "entity": "",
-      "entity_type": "coaches",
+      "entity_type": "players",
       "image": "",
       "sources": [
         {
@@ -682,7 +719,6 @@
       ],
       "id": "bilic-returns-as-croatia-coach-after-dalic-s-exit",
       "language": "sv",
-      "club": "",
       "main_source": {
         "name": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT3VIVXZHYVdtZDdHWDJXYzJEMDJlVjVvbnM5ZU1JTEZsSmZ2SzRHeGFieXNvVE51M29PS3BOZXprWkZHR3BvUHRfb1hqQ3BqRGtkS1Y1Si04OU0wODhQeDF2eENvbkUzQ3JhNjFJYUdEZmhnWXNvTVUwS1NqcjRqTjZjNmsycmF5dExMWS1GQlZnUThBS2FNUUtVMA?oc=5"
@@ -692,18 +728,19 @@
           "name": "Sky Sports",
           "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQVG5ZWmtVVUozMkNhVzZlVTFMUFdobzczLVhGQnNGRE1vd1NkbHJFdFBxSkdrcWpsMXZPYUt5ZENldGVyYkxsdjJjeU5DX1RfOUxWUUN4THU2UGp5NmtfVEozbjNiVE9zUEdYN2hVVks4WXd6eWNtb0p5cUxka1l3MXoxUXhYRDRIUUg2VXZfUUZYZG1YaEhDTGxtZFJ6ZmYwakxIczVWXzF1S0NCUnNUa1pPSV8xR3E4TjVkdmFBMjFhMi0xbEs0MzdJd3VodFFnR1k0Sy1BaDE4cUdzWmRpOFM4S3I5YS1YejZPMDlWRmFGTExINGR5X2gzc2FaaVVMWTY0?oc=5"
         }
-      ]
+      ],
+      "club": ""
     },
     {
       "published_at": "2026-07-11T09:40:37+00:00",
       "updated_at": "2026-07-11T09:40:37+00:00",
       "title": "Arsenal och Liverpool står inför transferkamp om nederländsk försvarare",
-      "summary": "Arsenal och Liverpool står inför transferstrid om den nederländska försvararen Liverpool FC",
+      "summary": "Arsenal och Liverpool står inför transferstrid om nederländska försvararen Liverpool FC",
       "category": [
         "Premier League",
         "Transfer"
       ],
-      "status": "Officiellt",
+      "status": "Bekräftat",
       "entity": "",
       "entity_type": "players",
       "image": "",
@@ -715,18 +752,55 @@
       ],
       "id": "arsenal-and-liverpool-facing-transfer-battle-for-netherlands-defender",
       "language": "sv",
-      "club": "Liverpool",
       "main_source": {
         "name": "BBC Sport",
         "url": "https://www.bbc.co.uk/sport/football/articles/cqx1v5d12gjo?at_medium=RSS&at_campaign=rss"
       },
-      "confirmed_by": []
+      "confirmed_by": [],
+      "club": "Liverpool"
+    },
+    {
+      "published_at": "2026-07-09T12:39:46+00:00",
+      "updated_at": "2026-07-09T12:39:46+00:00",
+      "title": "Newcastle värvar nederländske mittfältaren Steur från Ajax",
+      "summary": "Newcastle United uppges vara intresserat av Steur från Ajax. Kontakter eller förhandlingar pågår, men affären är ännu inte officiellt klar.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Bekräftat av flera källor",
+      "entity": "Steur från Ajax",
+      "entity_type": "players",
+      "image": "",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEh6cXZJWTlfSnN4UURVVnV4MkRWdDhGZVJZX3dBRFpIbUREQ1gyVm9CcEp2Q3YwRWJFZUt3V1Y3VXZSeEFJVzB2cXFGWVBkSkNnbThPdXE5WWNVV1p2Q0NsYzNWMUNOOGZ0d0tMSnNycjFSdGxWc0RoZUx5OTZVbS1NNlppT1V1M1B2b2ZmMk5JcmdXRGFF?oc=5"
+        },
+        {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT0h1OTNoT05US1A3ek5zSDFvX0FwdnRBVG9MRmhLZEU0eE9UcEo0RWNFSEpreEZoYzZfcjBqY0xrQ1hRWGVaMTZ5QkVzdEFmbFRoNkh2enBtblJIMXJwVW4tWUZwekQ0eS15SXRvcDIzeFBlVF9qSmJKSWtMdExmR2EwRVJ6bUNHZnc?oc=5"
+        }
+      ],
+      "id": "newcastle-sign-dutch-midfielder-steur-from-ajax",
+      "language": "sv",
+      "main_source": {
+        "name": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEh6cXZJWTlfSnN4UURVVnV4MkRWdDhGZVJZX3dBRFpIbUREQ1gyVm9CcEp2Q3YwRWJFZUt3V1Y3VXZSeEFJVzB2cXFGWVBkSkNnbThPdXE5WWNVV1p2Q0NsYzNWMUNOOGZ0d0tMSnNycjFSdGxWc0RoZUx5OTZVbS1NNlppT1V1M1B2b2ZmMk5JcmdXRGFF?oc=5"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT0h1OTNoT05US1A3ek5zSDFvX0FwdnRBVG9MRmhLZEU0eE9UcEo0RWNFSEpreEZoYzZfcjBqY0xrQ1hRWGVaMTZ5QkVzdEFmbFRoNkh2enBtblJIMXJwVW4tWUZwekQ0eS15SXRvcDIzeFBlVF9qSmJKSWtMdExmR2EwRVJ6bUNHZnc?oc=5"
+        }
+      ],
+      "club": "Newcastle United"
     },
     {
       "published_at": "2026-07-09T01:52:53+00:00",
       "updated_at": "2026-07-09T01:52:53+00:00",
       "title": "Sam Alabi skriver på sitt första proffskontrakt med Newcas",
-      "summary": "Sam Alabi är aktuell för en övergång. Flera etablerade källor följer utvecklingen, men affären är ännu inte officiellt klar.",
+      "summary": "Sam Alabi är aktuell för en övergång. Fler detaljer väntas när de berörda klubbarna har kommit längre i processen.",
       "category": [
         "Transfer"
       ],
@@ -746,7 +820,6 @@
       ],
       "id": "sam-alabi-signs-first-professional-contract-with-newcas",
       "language": "sv",
-      "club": "",
       "main_source": {
         "name": "Newcastle United",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRy1pcEh1dWJJenZBbEJHMWprNHJWaVlsT0tGa2NxVk9DZ2xFY2trd2ktN2lGeTRwYlZEOWJBdzRxU2liam5ia2xLbnJTSzhoSWJzNVJEWldwckFyX2p3MlZOV0Z4RXhuNS0waGFxeW5qUVh6ZVVzYnFfMlQ2RE9kTDZJbmxVczZYRGRnbC1wai1HVlE0QVd5c3hOejIyRDRlOVhfcWU5Y2c?oc=5"
@@ -756,20 +829,21 @@
           "name": "Chelsea",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ1RzN1hCbTcyVFJaN09PQks4OTkyUmZOc2RjMlVGNC12bG5VbUU4aFNUYTlMbkE0YTVOeU1rNFBVOW41Y1hhRHdiRGZoZm9qUkdhTDlzQ1BDSmJOcnRONzMydWRraE5MVlV4VEJYQ2VyU2xvYnlEZWpOTmtEMm5SRnE4SkdqMmNGV3RZSW5n?oc=5"
         }
-      ]
+      ],
+      "club": ""
     },
     {
       "published_at": "2026-07-08T14:52:29+00:00",
       "updated_at": "2026-07-08T14:52:29+00:00",
       "title": "Barcelona kämpar mot Liverpool, Manchester United för att värva en australiensisk tonåring efter breakout-VM",
-      "summary": "Barcelona kämpar mot Liverpool, Man Utd för att värva en australisk tonåring av en superstjärna efter utbrytningen av World Cup Liverpool FC",
+      "summary": "Manchester United uppges arbeta med en värvning av Manchester United från Liverpool. Uppgifterna bygger på rapportering från huvudkällan.",
       "category": [
         "Premier League",
         "La Liga",
         "Transfer"
       ],
-      "status": "Officiellt",
-      "entity": "",
+      "status": "Rapporterat",
+      "entity": "Manchester United",
       "entity_type": "players",
       "image": "",
       "sources": [
@@ -780,23 +854,23 @@
       ],
       "id": "barcelona-battling-liverpool-man-utd-to-sign-superstar-australian-teen-after-breakout-worl",
       "language": "sv",
-      "club": "Manchester United",
       "main_source": {
         "name": "Sky Sports",
         "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdlpqV3VxcE9KY1JWcXUxUzVzN1hHaWpwX0p4dWhBazBxdmQ2LUNaUVpmOEg2bXBHcFQwaFBzdWFaZm1sQ3NnMGhBSFZMT2pLLUtlRWVmaDBXbVVOUWM1ZXpicmtVM2RPSXpKQjd3NzBGa25nTW0wV1VsUmROYzZWQUdCdzN1QTR6bDU1NlY4RWFWN3phekEzZFIyVXhsN2ZLb2pHQk5RdlFVUFBQT2tyMUV4WTA3TEQ4bVRnQVhvNlZ1YndDNDRtWnZjRExRTG1KQUlndXhaUjVWamRNWDlJNmpCTVE2eTFlSjB5Q0E2cGF3ZW4wYXlJ?oc=5"
       },
-      "confirmed_by": []
+      "confirmed_by": [],
+      "club": "Manchester United"
     },
     {
       "published_at": "2026-07-07T16:08:10+00:00",
       "updated_at": "2026-07-07T16:08:10+00:00",
       "title": "Diop ville aldrig spela mot Frankrike men måste nu ta itu med Mbappe",
-      "summary": "Mbappe Reuters är aktuell för en övergång. Flera etablerade källor följer utvecklingen, men affären är ännu inte officiellt klar.",
+      "summary": "Diop ville aldrig spela mot Frankrike men måste nu ta itu med Mbappe. Uppgifterna bygger på rapportering från huvudkällan.",
       "category": [
         "Transfer"
       ],
-      "status": "Bekräftat av flera källor",
-      "entity": "Mbappe Reuters",
+      "status": "Bekräftat",
+      "entity": "",
       "entity_type": "players",
       "image": "",
       "sources": [
@@ -807,18 +881,18 @@
       ],
       "id": "diop-never-wanted-to-play-against-france-but-must-now-deal-with-mbappe",
       "language": "sv",
-      "club": "",
       "main_source": {
         "name": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLVg1N1U4czZtZGtNUE1IZXd2M3pmejVzWVZqX2VJWERNeW8tS1lmLVJhMEFJWkdmZXptR0pWYy03U1RrX2JIUlFfbUk5OVhDVFF5bFNpemNXUko0Q2JSMlJKaHhMY0QtX2YxN3NmcVk1dTJlNm5oNHB5TWhfTzh4eXlOdFotSU1sYV84NG9wYzRodDMyRGFmZjU5YXlka3dxTkpNTVVQN0NYemdPUFZzLUo3VQ?oc=5"
       },
-      "confirmed_by": []
+      "confirmed_by": [],
+      "club": ""
     },
     {
       "published_at": "2026-07-07T05:24:00+00:00",
       "updated_at": "2026-07-07T05:24:00+00:00",
       "title": "Everton värvar forwarden George från Chelsea efter utlåningsperioden",
-      "summary": "Everton värvar forwarden George från Chelsea efter utlåningsperioden. Uppgifterna bygger på rapportering från de angivna källorna.",
+      "summary": "Everton värvar forwarden George från Chelsea efter utlåningsperioden. Uppgifterna bygger på rapportering från huvudkällan.",
       "category": [
         "Premier League",
         "Transfer"
@@ -839,7 +913,6 @@
       ],
       "id": "everton-sign-forward-george-from-chelsea-after-loan-spell",
       "language": "sv",
-      "club": "Chelsea",
       "main_source": {
         "name": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbHQtWk9nT0hfYldSZ2xNV1dpMzk5UC1fRmRQRkdmWWd5aFA0UEcxekhIZy13a1FYSGY2M2xWSDQxRUhxblJWTHlvT0V5Q0huQ3VRS2ZEOGJFU25pOFJKSkRicFFuYzZ6N1dXU1ZJU1ZyUjBveFEzRW9UaXpJbWp1T2xFdlQ5VVZ5X04xRDVXNlpsX2d1b0JqV0w0a1Y4MjVxc1dsbg?oc=5"
@@ -849,7 +922,8 @@
           "name": "Football Italia",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qYmVoTWVPV1FfNmxzZ1ctNHU2U3VlaERhbVh5N1EzSWJ6RHBsNW9JTmFjSzRBWEFpTVhKUXZlellrSG95YzlsZ3dDRnpmRGYxSnR5NEtYRFZuSV9CZVp1SVlWZFRRb2Z6UVh5TVR3T0tSSjJ0THhnQUwwREJxaG_SAYQBQVVfeXFMTjQwWHNCcmlDOGxleHVoWHJvSGNHZE4zLUtkam82VmItWVBzY2NSeGxfeElDbldZakZuODR3X2h6SWFTNHVPRjZwVXBQMUJmdksxUW55a1FJazZnalZpQnBYNndod3dXajdxXzVXV1p4LWJpRUkxZGJGa1dfZXpwbFZWMHQy?oc=5"
         }
-      ]
+      ],
+      "club": "Chelsea"
     },
     {
       "published_at": "2026-07-13T19:00:16+00:00",
@@ -860,7 +934,7 @@
         "Premier League"
       ],
       "status": "Bekräftat av flera källor",
-      "entity": "Stamford Bridge",
+      "entity": "",
       "entity_type": "players",
       "image": "",
       "sources": [
@@ -875,7 +949,6 @@
       ],
       "id": "timing-took-me-to-chelsea-rather-than-liverpool-alonso",
       "language": "sv",
-      "club": "Liverpool",
       "main_source": {
         "name": "BBC Sport",
         "url": "https://www.bbc.co.uk/sport/football/articles/czj8rzxrp88o?at_medium=RSS&at_campaign=rss"
@@ -885,19 +958,20 @@
           "name": "Sky Sports",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNa0FjWEhhdFhCTDZBc0F3empEUm50bW8xNk13RUtrY2NxekJXYlE1YU42SVZQRlp0R3hUOWlpTW5EWTdPcjJLaEVvVVU2RHA0dDFFT09YUnFGSzR5ZklERGtUbGl4SVVCVUFuVEI4S09pTHY0ZEpNb2x3c3FGRy1SNXQ4Q3loOVQzRzJXWXBHd2ZSWldGdVlvYmlLanY1YjdkTGlCcUtPbE01UkljVUxsck9SOXYxSWhKakxmdVZkMUk5YmhxamltWVlUUWVHWlNWQWZuR0F6Zw?oc=5"
         }
-      ]
+      ],
+      "club": "Liverpool"
     },
     {
       "published_at": "2026-07-12T15:34:18+00:00",
       "updated_at": "2026-07-12T15:34:18+00:00",
       "title": "Klar affär: Roma siktar på Greenwood redo för Fenerbahce",
-      "summary": "Roma uppges vilja värva Fenerbahce Football Italia. Kontakter eller förhandlingar pågår enligt huvudkällan. Ett officiellt besked väntas om parterna når en slutlig överenskommelse.",
+      "summary": "Klar affär: Roma siktar på Greenwood redo för Fenerbahce Football Italia",
       "category": [
         "Serie A",
         "Transfer"
       ],
       "status": "Bekräftat av flera källor",
-      "entity": "Fenerbahce Football Italia",
+      "entity": "",
       "entity_type": "players",
       "image": "",
       "sources": [
@@ -916,7 +990,6 @@
       ],
       "id": "done-deal-roma-target-greenwood-ready-for-fenerbahce",
       "language": "sv",
-      "club": "Roma",
       "main_source": {
         "name": "BBC Sport",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WQWdkZW45UXE4aVprMzZFNldHaDJwN2lRUDlUdnhiVC1JTjE4VHQtWjZ2TGRnUzJaNnBJUkJ6dHl4ZWRsdjZCSC16Z0pfVUpqeGlTQTlBbkRGUzNwOHpUX1JlYkc3cE0?oc=5"
@@ -930,7 +1003,8 @@
           "name": "Football Italia",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pLWZNM0NNemdzLVZmX1BMOWVHSGwyd3A3dVdtTzRXb2ZFZ2M2T0xxajdjRnJNY2Ffakw0UGViSWppaWJNREFGdUhVVXZCU1RQZU9PSXJTWXZPbW93UnJOVjc0bXJNaUFqUTg4SUVicDluMDZ1bk9aSDJzWdIBgAFBVV95cUxQZk9wQ1BadFVQVXNUMF9ZY19Mb2otY29RTGlIQzA3TkowdE9udGRQNzdUSV83SnU5alk2SzBuTFUwQzlQZWQxUzRYQm5hMVJOVnFYZ21tNGlZWWVsU0UyN1lfNURTU3NIX2dnR3N3LURSZFpVeUNLNEtrN1NDYXFrWQ?oc=5"
         }
-      ]
+      ],
+      "club": "Roma"
     },
     {
       "published_at": "2026-07-12T13:46:26+00:00",
@@ -958,7 +1032,6 @@
       ],
       "id": "roma-targeted-moreira-and-garnacho-in-double-chelsea-deal",
       "language": "sv",
-      "club": "Chelsea",
       "main_source": {
         "name": "Gianluca Di Marzio",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRkxRRDlMSGRNX2RWZXVkVkpCUWlXUGRVUkpKMy1KalotcjZseFI4SE1UeFFVZzVjNFZLMUh0RElZV0pkb0RLN05WdzdlTXZsV3dDaVdyc2o4cm1WWU5iUzhtNi1RQXdvclRkZUs2SEQzZFBOZGRPaFdkZVZnSy1fUWlhdmY2VXZzNzdaRWYyT2ZHb3p2S19URnVmUkh5Wm1zZklvWlZGV1IyNlh0cnc?oc=5"
@@ -968,19 +1041,20 @@
           "name": "Football Italia",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLUVpObmIzMkNkajNlVlJkNlJpem5xcWhpcnlaRXJvbjVTRU5xOFhMVGdOZHA4SGU2R3JpeVlfSVhRU1JaT2RPS3M2U2UtZGFrMmdoNktjbGR5dDY4ZF8zMklvbklBZzNvd0R5Vmg3QVNqV21Bb2J4N3g0c2rSAYIBQVVfeXFMTzdaSXdGNUZvckVKX0JiZzhFTGxjbWZUTUNqSE85bnFrbmtZV0xVdXNRSGRtOTJuRzd3eV91MUdnWjNTMmR0ajNlZmdMVTZERXB3ekpCTUltZUtnTm94dWlEZ2dPbVotd2g2bE5JYlVXNGgwS1g5NzFGQUMxRWY3ZUo3Zw?oc=5"
         }
-      ]
+      ],
+      "club": "Chelsea"
     },
     {
       "published_at": "2026-07-11T17:48:56+00:00",
       "updated_at": "2026-07-11T17:48:56+00:00",
       "title": "Officiell: Atta ansluter till Fiorentina från Udinese",
-      "summary": "Udinese Football Italia är aktuell för en övergång. Flera etablerade källor följer utvecklingen, men affären är ännu inte officiellt klar.",
+      "summary": "Officiell: Atta kommer till Fiorentina från Udinese Football Italia",
       "category": [
         "Serie A",
         "Transfer"
       ],
       "status": "Bekräftat av flera källor",
-      "entity": "Udinese Football Italia",
+      "entity": "",
       "entity_type": "players",
       "image": "",
       "sources": [
@@ -999,7 +1073,6 @@
       ],
       "id": "official-atta-joins-fiorentina-from-udinese",
       "language": "sv",
-      "club": "",
       "main_source": {
         "name": "Gianluca Di Marzio",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUFpTUW52N0JjeGxCVDI3NEs0ejllb0VRZERVR1RqSi1VWF92c3VzcXk4MWVRRHZzd2QzaDB5UVNVang4YzJ3aWk1UHNqR0M2RWx6V0k2T1NBSnE5WW9aajl6eHlSNXo1cmRTbXNJZGFXSEVjMEhhX0diYlFTOFAxTGprT0ktRDF0OTFZUEczaG9obkpDYWN3Mg?oc=5"
@@ -1013,50 +1086,14 @@
           "name": "Football Italia",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZVVhXTTBLaENBaHVnUFFyWVpZbU9DMUNYM2ZPMFc0YjZaa2VYR3VTM3owWTM3WmxpVEFBOTZEUVhtVWNwMzc0bzZDN2V2bEpKOTdiS0FzVGlyRm4xMVZoam9nZzV3MHBrX0FiYm9kcTBjOVFSZU9ZaUt5YUjSAYIBQVVfeXFMTkVDZnJBVmh4aWctRGQ4eUpjMmEwYnhEZ185aGJoVE5mZWxMMXhNaEVtS0JXZ18xMXdSZy02dDQ2NFNIYWxmd044QTZXNnlhdS16ZlFGOVBBU2N4LVVrTHdtcnF4LW1NYXZNbjMtcHk3ZTU5Y3pyY1RobFNsaTNBTU8tdw?oc=5"
         }
-      ]
-    },
-    {
-      "published_at": "2026-07-09T07:56:00+00:00",
-      "updated_at": "2026-07-09T07:56:00+00:00",
-      "title": "Arsenal nära en fantastisk dubbelaffär efter att Bruno Guimaraes \"kommer överens om personliga villkor\"",
-      "summary": "Arsenal uppges vilja värva Bruno Guimaraes. Kontakter eller förhandlingar pågår enligt huvudkällan. Ett officiellt besked väntas om parterna når en slutlig överenskommelse.",
-      "category": [
-        "Premier League",
-        "Transfer"
       ],
-      "status": "Bekräftat av flera källor",
-      "entity": "Bruno Guimaraes",
-      "entity_type": "players",
-      "image": "",
-      "sources": [
-        {
-          "name": "L'Équipe",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTC1pcklhZ0VuS1hPNGtjZlh0bUpMNWQ2SERnN2ZhTWM3SkZ0Q0c2bFZFYmJvbDRla2FaZm13cEM3Y1BTSDVKVG41Q2g5V2RBa3pRZ01qUXVCeGk3bUVQMDZOLWFYeEs3QmMyQ3RYRW90V3dfa0tMRVBlU29pblh3ZHZxOHpIVTNZUno2bDRnaDB5YTRCUUpYbkF2eHdPTEJrXy1FRjVrWDh4eDRxTW1MUHJpYlJlUFRBWS0wcFZpOTlsWEhTenhFNkdDTGl0RGtjWjhDSmlmcXBneWd0c0QtUFl4TU5qZjhG?oc=5"
-        },
-        {
-          "name": "The Athletic",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRkFVOFBvZzZuVFV4T1hKRXpmTVRQU3h3V3YyQ1k5YWNtckh3aVdGZ2d4VV9Cal9iU0V2cWFUWU12dmRsd2tMa0tBOENwaXV4bGRTZkwyOHlnN0loai1GNGxWb3dvcGNjZEJ0eVRjZ2V5Yi1IOG9fMFVyeVVHeEU5NjlfMkdEMV82anU5Njh5MTU4UGs3YXQ2ZEpRT2lsdGlVamc?oc=5"
-        }
-      ],
-      "id": "arsenal-near-stunning-double-deal-after-bruno-guimaraes-agrees-personal-terms",
-      "language": "sv",
-      "club": "Arsenal",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRkFVOFBvZzZuVFV4T1hKRXpmTVRQU3h3V3YyQ1k5YWNtckh3aVdGZ2d4VV9Cal9iU0V2cWFUWU12dmRsd2tMa0tBOENwaXV4bGRTZkwyOHlnN0loai1GNGxWb3dvcGNjZEJ0eVRjZ2V5Yi1IOG9fMFVyeVVHeEU5NjlfMkdEMV82anU5Njh5MTU4UGs3YXQ2ZEpRT2lsdGlVamc?oc=5"
-      },
-      "confirmed_by": [
-        {
-          "name": "L'Équipe",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTC1pcklhZ0VuS1hPNGtjZlh0bUpMNWQ2SERnN2ZhTWM3SkZ0Q0c2bFZFYmJvbDRla2FaZm13cEM3Y1BTSDVKVG41Q2g5V2RBa3pRZ01qUXVCeGk3bUVQMDZOLWFYeEs3QmMyQ3RYRW90V3dfa0tMRVBlU29pblh3ZHZxOHpIVTNZUno2bDRnaDB5YTRCUUpYbkF2eHdPTEJrXy1FRjVrWDh4eDRxTW1MUHJpYlJlUFRBWS0wcFZpOTlsWEhTenhFNkdDTGl0RGtjWjhDSmlmcXBneWd0c0QtUFl4TU5qZjhG?oc=5"
-        }
-      ]
+      "club": ""
     },
     {
       "published_at": "2026-07-07T17:28:39+00:00",
       "updated_at": "2026-07-07T17:28:39+00:00",
       "title": "Maddy Cusack: Coach berättar för utredningen att hon fick stöd i Sheffield United",
-      "summary": "Maddy Cusack är aktuell för ett nytt tränaruppdrag. Ett formellt besked väntas från de berörda parterna.",
+      "summary": "Maddy Cusack är aktuell för ett nytt tränaruppdrag. Fler besked väntas från de berörda parterna.",
       "category": [
         "Tränare"
       ],
@@ -1076,7 +1113,6 @@
       ],
       "id": "maddy-cusack-coach-tells-inquest-she-was-supported-at-sheffield-united",
       "language": "sv",
-      "club": "",
       "main_source": {
         "name": "Sky Sports",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcFdPQlpUaGdHZHdIX05FTlk4RzlSYXZiSFVTREQ0a3hXRThuaHRBLU1Da0JzQkwxSjh6MElJSGRvank4WjVVQ2ZJUmlETFllRk9ScjBQYlhscDNnd3VCSVNOUE1jM1ZQbV9qbGlqRElIWmhOU0RxR2FJZXpScURnM2VHLU5YbVRlV0JEVlhkQnFIckJkRFR6T2FiQ0RjT2pRZHJidUNscnhzTy05czdFa0x1WWNTMjQwcFpBMkFHaWtsMGM?oc=5"
@@ -1086,18 +1122,19 @@
           "name": "ESPN",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY0g2X2xucWZYdk5wNG5zRldZNU1YNWJiVVJsSTMwcFl5U3BIeXBvYzlyU0RZVXR6X0x2cTZnMEpDM1JUTFlBN0xDZ3k5YlByQUxSUWhiNzJlamVZaTJYSnBNcEpzSTJlcmtYd2ZUWHJkc29mYnYzWDc3YWNVYnhBS0xJRVVQTkRsWVo5TFlkZExFc1ZxcF90blRVWFhfRDJaWkhj?oc=5"
         }
-      ]
+      ],
+      "club": ""
     },
     {
       "published_at": "2026-07-10T19:45:00+00:00",
       "updated_at": "2026-07-10T19:45:00+00:00",
       "title": "Manchester United klargör ställningen till Edersons \"deal off\"-krav när tvivel på överföringar på 38 miljoner pund väcktes",
-      "summary": "Manchester United uppges vilja värva Man United. Kontakter eller förhandlingar pågår enligt huvudkällan. Ett officiellt besked väntas om parterna når en slutlig överenskommelse.",
+      "summary": "Manchester United uppges vara intresserat av Manchester United. Kontakter eller förhandlingar pågår, men affären är ännu inte officiellt klar.",
       "category": [
         "Transfer"
       ],
       "status": "Bekräftat av flera källor",
-      "entity": "Man United",
+      "entity": "Manchester United",
       "entity_type": "players",
       "image": "",
       "sources": [
@@ -1112,7 +1149,6 @@
       ],
       "id": "man-united-make-stance-clear-on-ederson-deal-off-claims-as-38m-transfer-doubts-raised",
       "language": "sv",
-      "club": "Manchester United",
       "main_source": {
         "name": "Gianluca Di Marzio",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTlZXeHRBUDM3U3FFWjlDOHVxR2htT0pnZEMtOGQ2SFZPT01pU29fOWFxMF94NDRKenVvSzQycXkxNm80SnBFT1VVQkFQdWM2S2RtNG1VZ2hjdERCMk1QYTJjQ09xcWtUUFJDbU1LZVl1MXMzZUtXZU5ZOTN1N1B0UHB5bDJOZEFqU3NQcWNkZ0N3anpEN28wZXNucUs3bWJMV19aMlNlS0gxTHVDR2NqMVp2TQ?oc=5"
@@ -1122,66 +1158,14 @@
           "name": "Football Italia",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JZnFvYVIxQ09Za3Q4OWFLWEJJNEFEOTlfeUdCR0hYSXZnN0tTSEM3YU1ZVzhSSVhMWkEwSThGRmlweC1yc3M4dzhNbXphLWhRQXNWLWdoVU9JMjI0NmVTQk9iU1pVRkxrTEVxQ3g5c0R0a1dzUzVwQnlfbkzSAYIBQVVfeXFMTmJJUmVMem02ZnE3aGxINjFUOHNhQXBaN0NfV0ZZRDhfTjItT2ViV0RScDcwWDRBTGZOQVItR2JHd0p3RDdyMi1PdmRfS1ZUTS12RjNjNkw1YTdQeGViVVJ3cG5PbWNBbV9jTTRJVG5ybTdFYWluUGs5SEcxeXdhbm5hdw?oc=5"
         }
-      ]
-    },
-    {
-      "published_at": "2026-07-13T15:55:57+00:00",
-      "updated_at": "2026-07-13T15:55:57+00:00",
-      "title": "Den nya Liverpool-chefen Iraola säger att klubben behöver fler värvningar inför den nya säsongen",
-      "summary": "Den nya Liverpool-chefen Iraola säger att klubben behöver fler värvningar inför nya säsongen",
-      "category": [
-        "Premier League",
-        "Transfer"
       ],
-      "status": "Bekräftat av flera källor",
-      "entity": "",
-      "entity_type": "players",
-      "image": "",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa0RZUnd1aURWa0tRT0tzdEZfaDQ5TlBtbmNDOTNwNno0ejFieTdLclFXWWNNbXJsVHJzbGtDbGVtZ1VIQ0I4ZVBRMDlOSmlncEFEOW5ua2tJRTF0ODdoLUZpOS0yTXBHNHR6eVk4T3hOd1ptMGJmWjBXM3UxOTVTaXlvMzFGcjhUVGI1SDBDMDdYdGhlM0NkYVFxSDI2a1JHWW9mcEZYZDM3dFNtNFR4Y2xmbDRuangtdHlFWFh3?oc=5"
-        },
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5yz1xx14wpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYjR4a0dONlFDa0pNci0yX2ZLZkZKNDdXc1NEbXEydm1nTExkVFF4cmJRNElyczEweG1xRkhBQTVLaF9OZXllUEU1WXNxLW9aTjVDSEdhcUROcHRKalF2Z1FFQnZvdk9kMWpXbHhvSWJnN3Nub2dIVURpb3Vpcm5CbjE5QWpTdU5qYjVudHV2SjJWTWotcFJCdjBWRWh6bTBhN2EySXExWlNkQ2oySmtwM2doaW16VlRIbklERVlR?oc=5"
-        },
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLVFYWXVPckR3RFQ2QXAyMXlHLTVUSFdHdXhEVWVYOVhmTTJqRVh6d0lNWG52VUJlRng5WEJWNWRsR2ZtMkNPOXJZZnE4ZUxLZTU1XzR5RE95QnZVblR4Wi11RE9VYkJCTGJzUmRMS3I2OVdIOXJvUVVFTUtPS3JSR0hHYmYyLVhhemQ3cjA3MnB4SFUzQ1FQRXRLYUllU0hoX2NTd3FJQ1lONG43UXRBcWRManlBaXg0a3JhRF9HNkgwcnZuNVJV?oc=5"
-        }
-      ],
-      "id": "new-liverpool-boss-iraola-says-club-need-more-signings-ahead-of-new-season",
-      "language": "sv",
-      "club": "Liverpool",
-      "main_source": {
-        "name": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa0RZUnd1aURWa0tRT0tzdEZfaDQ5TlBtbmNDOTNwNno0ejFieTdLclFXWWNNbXJsVHJzbGtDbGVtZ1VIQ0I4ZVBRMDlOSmlncEFEOW5ua2tJRTF0ODdoLUZpOS0yTXBHNHR6eVk4T3hOd1ptMGJmWjBXM3UxOTVTaXlvMzFGcjhUVGI1SDBDMDdYdGhlM0NkYVFxSDI2a1JHWW9mcEZYZDM3dFNtNFR4Y2xmbDRuangtdHlFWFh3?oc=5"
-      },
-      "confirmed_by": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5yz1xx14wpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYjR4a0dONlFDa0pNci0yX2ZLZkZKNDdXc1NEbXEydm1nTExkVFF4cmJRNElyczEweG1xRkhBQTVLaF9OZXllUEU1WXNxLW9aTjVDSEdhcUROcHRKalF2Z1FFQnZvdk9kMWpXbHhvSWJnN3Nub2dIVURpb3Vpcm5CbjE5QWpTdU5qYjVudHV2SjJWTWotcFJCdjBWRWh6bTBhN2EySXExWlNkQ2oySmtwM2doaW16VlRIbklERVlR?oc=5"
-        },
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLVFYWXVPckR3RFQ2QXAyMXlHLTVUSFdHdXhEVWVYOVhmTTJqRVh6d0lNWG52VUJlRng5WEJWNWRsR2ZtMkNPOXJZZnE4ZUxLZTU1XzR5RE95QnZVblR4Wi11RE9VYkJCTGJzUmRMS3I2OVdIOXJvUVVFTUtPS3JSR0hHYmYyLVhhemQ3cjA3MnB4SFUzQ1FQRXRLYUllU0hoX2NTd3FJQ1lONG43UXRBcWRManlBaXg0a3JhRF9HNkgwcnZuNVJV?oc=5"
-        }
-      ]
+      "club": "Manchester United"
     },
     {
       "published_at": "2026-07-12T00:16:00+00:00",
       "updated_at": "2026-07-12T00:16:00+00:00",
       "title": "Bellingham dubbelskjuter England förbi Norge till VM-semin",
-      "summary": "Bellingham dubbelskjuter England förbi Norge till VM-semin. Uppgifterna bygger på rapportering från de angivna källorna.",
+      "summary": "Bellingham dubbelskjuter England förbi Norge till VM-semin. Uppgifterna bygger på rapportering från huvudkällan.",
       "category": [
         "Fotboll"
       ],
@@ -1205,7 +1189,6 @@
       ],
       "id": "bellingham-double-fires-england-past-norway-into-world-cup-semis",
       "language": "sv",
-      "club": "",
       "main_source": {
         "name": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUxtLWJhWXUzTjNVVGtKQk9nQ2FSRGJoSm9rcloyZTlzUU9KcUJVamsxbmNpYUcyNnVmMTdWVDJNMFpYY0JxNEh1ajdyOEUyVU1uU1dHRHJ0SXBGcjJ2SnFpeDRPY1NqSERMWmIzcnZaOWtQWGFqWEtnNWlTR3VOV25FS1dOMUdfMmVwRzdZODN2QTkwTExveGtueEcxTHZQcW54ZlZXbmhCdEZsVjV0dEk1R3g?oc=5"
@@ -1219,13 +1202,14 @@
           "name": "ESPN",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc3hyZXAtVkNqSFlVaUxUZUtUc0ZneUpmNGRxdkZDOVlrUHNqUDlqQVhCNlQzcGswU255VFZzRUF5N1hIbkpvcjNlaUp3UnZ1aVVfMHk4RVVjajltZ0dDYjJJZ0RWZ3VDaTYtdEZOSVNyZ2pSbWRkQnNUSk5UVGpwVUFVVlVHMFZ0YjZ3bjVPWTdDdmpzN3ozdDZRZHdnVk02eEN1RUJUTXFlZGdfYVU2eEhnX1FBU05Mc0hnd1RtUEgydk1nMFRF?oc=5"
         }
-      ]
+      ],
+      "club": ""
     },
     {
       "published_at": "2026-07-11T21:07:43+00:00",
       "updated_at": "2026-07-11T21:07:43+00:00",
       "title": "Maldini utnämndes till teknisk chef för det italienska förbundet",
-      "summary": "Maldini utnämndes till teknisk chef för det italienska förbundet. Uppgifterna bygger på rapportering från de angivna källorna.",
+      "summary": "Maldini utnämndes till teknisk chef för det italienska förbundet. Uppgifterna bygger på rapportering från huvudkällan.",
       "category": [
         "Fotboll"
       ],
@@ -1241,18 +1225,18 @@
       ],
       "id": "maldini-named-technical-director-of-italian-federation",
       "language": "sv",
-      "club": "",
       "main_source": {
         "name": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSWdveDNJVlg3LXItRE1XMER2aF9kMnA3dy1jQ19zcGxhVWhta1dhX0RTUmdSN0ZuN0RFRVRvS2NYcDJRLTh1Mi12Vk5lQkt5YTRrWHE3cHJNMXRkVEZodl9CMDJsY3ZDSGRObkVVc3VDTGJhTEc1RkJsY191WXpkOVBMU01qMzgtNEplSUFlaXRrd2tMUXlWY3ZQZjctV2FiMVE4?oc=5"
       },
-      "confirmed_by": []
+      "confirmed_by": [],
+      "club": ""
     },
     {
       "published_at": "2026-07-11T10:52:17+00:00",
       "updated_at": "2026-07-11T10:52:17+00:00",
       "title": "Antonio Cordero återansluter till Cádiz på lån",
-      "summary": "Newcastle United uppges vilja värva Antonio Cordero. Kontakter eller förhandlingar pågår enligt huvudkällan. Ett officiellt besked väntas om parterna når en slutlig överenskommelse.",
+      "summary": "Newcastle United uppges vara intresserat av Antonio Cordero. Kontakter eller förhandlingar pågår, men affären är ännu inte officiellt klar.",
       "category": [
         "Transfer"
       ],
@@ -1268,18 +1252,18 @@
       ],
       "id": "latest-antonio-cordero-rejoins-c-diz-on-loan",
       "language": "sv",
-      "club": "Newcastle United",
       "main_source": {
         "name": "Newcastle United",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV0xPdVYzYmZtVXpsX05CbHBIbjdWNnhjMFBBdTVRdGdlaUJxeHV4cGV1YWJVNDJ1OVNqRDdLa0F2ZlZCRkpTdHZpU0NNMk12MHl3TVQ2N29Sb1NIQTdnLS1vS3JoZGZuR3ZNN0lkVGlsXzFOb3lZZzJXVkg1eWhaY1p4Yw?oc=5"
       },
-      "confirmed_by": []
+      "confirmed_by": [],
+      "club": "Newcastle United"
     },
     {
       "published_at": "2026-07-09T23:37:44+00:00",
       "updated_at": "2026-07-09T23:37:44+00:00",
       "title": "Tränaren Broos bekräftar att han lämnar jobbet i Sydafrika",
-      "summary": "Tränaren Broos är aktuell för ett nytt tränaruppdrag. Ett formellt besked väntas från de berörda parterna.",
+      "summary": "Tränaren Broos är aktuell för ett nytt tränaruppdrag. Fler besked väntas från de berörda parterna.",
       "category": [
         "Tränare"
       ],
@@ -1295,40 +1279,12 @@
       ],
       "id": "coach-broos-confirms-he-is-leaving-south-africa-job",
       "language": "sv",
-      "club": "",
       "main_source": {
         "name": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOODduQm9nNWZjUm0wbENZcGdRSGZYVjFFdUVnYnc2enhWbTVYa2FTdGdBbU5VY1lGWEdmZHk3X2lOa2ZqSHdDb1Y4UFllYWZackZVSm5NQm85OGdnSjUwNkJ0QTliZzlmNXpvSXdxYTBNLURBVnFBaW1QdUZHd3Y4aFZxeHFvNFRxZmk4aGhtLVlQeEI4UkMzTldEY2MybWRyVlhn?oc=5"
       },
-      "confirmed_by": []
-    },
-    {
-      "published_at": "2026-07-09T12:39:46+00:00",
-      "updated_at": "2026-07-09T12:39:46+00:00",
-      "title": "Newcastle värvar nederländske mittfältaren Steur från Ajax",
-      "summary": "Newcastle United uppges vilja värva Steur från Ajax. Kontakter eller förhandlingar pågår enligt huvudkällan. Ett officiellt besked väntas om parterna når en slutlig överenskommelse.",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Bekräftat",
-      "entity": "Steur från Ajax",
-      "entity_type": "players",
-      "image": "",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEh6cXZJWTlfSnN4UURVVnV4MkRWdDhGZVJZX3dBRFpIbUREQ1gyVm9CcEp2Q3YwRWJFZUt3V1Y3VXZSeEFJVzB2cXFGWVBkSkNnbThPdXE5WWNVV1p2Q0NsYzNWMUNOOGZ0d0tMSnNycjFSdGxWc0RoZUx5OTZVbS1NNlppT1V1M1B2b2ZmMk5JcmdXRGFF?oc=5"
-        }
-      ],
-      "id": "newcastle-sign-dutch-midfielder-steur-from-ajax",
-      "language": "sv",
-      "club": "Newcastle United",
-      "main_source": {
-        "name": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEh6cXZJWTlfSnN4UURVVnV4MkRWdDhGZVJZX3dBRFpIbUREQ1gyVm9CcEp2Q3YwRWJFZUt3V1Y3VXZSeEFJVzB2cXFGWVBkSkNnbThPdXE5WWNVV1p2Q0NsYzNWMUNOOGZ0d0tMSnNycjFSdGxWc0RoZUx5OTZVbS1NNlppT1V1M1B2b2ZmMk5JcmdXRGFF?oc=5"
-      },
-      "confirmed_by": []
+      "confirmed_by": [],
+      "club": ""
     },
     {
       "published_at": "2026-07-13T19:25:25+00:00",
@@ -1339,7 +1295,7 @@
         "Fotboll"
       ],
       "status": "Bekräftat",
-      "entity": "Rob Dieperink",
+      "entity": "",
       "entity_type": "players",
       "image": "",
       "sources": [
@@ -1350,12 +1306,12 @@
       ],
       "id": "dutch-referee-dies-weeks-after-being-dropped-from-world-cup",
       "language": "sv",
-      "club": "",
       "main_source": {
         "name": "BBC Sport",
         "url": "https://www.bbc.co.uk/sport/football/articles/cy06ej10n3xo?at_medium=RSS&at_campaign=rss"
       },
-      "confirmed_by": []
+      "confirmed_by": [],
+      "club": ""
     },
     {
       "published_at": "2026-07-13T14:10:12+00:00",
@@ -1366,7 +1322,7 @@
         "Fotboll"
       ],
       "status": "Bekräftat",
-      "entity": "Lewis Smith",
+      "entity": "",
       "entity_type": "players",
       "image": "",
       "sources": [
@@ -1377,12 +1333,12 @@
       ],
       "id": "aberdeen-buy-winger-smith-from-livingston",
       "language": "sv",
-      "club": "",
       "main_source": {
         "name": "BBC Sport",
         "url": "https://www.bbc.co.uk/sport/articles/cx23x14n2z5o?at_medium=RSS&at_campaign=rss"
       },
-      "confirmed_by": []
+      "confirmed_by": [],
+      "club": ""
     }
   ]
 }
