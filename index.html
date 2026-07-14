@@ -60,7 +60,6 @@ footer{text-align:center;color:#74808a;font-size:13px;padding:24px}
 <div class="message" id="message"></div><div class="grid" id="grid"></div><div class="empty" id="empty">No stories match your selection.</div></main>
 <footer>Fotbollsbriefen · European football news from the last seven days</footer>
 <script>
-// "Experter" har lagts till som en helt egen filterknapp här
 const FILTERS=["All","Svenska källor","Experter","Premier League","La Liga","Serie A","Bundesliga","Ligue 1","Transfer","Coach"];
 const VISIT_KEY="fb_final_last_visit",STATE_KEY="fb_final_story_state";
 let data={items:[]},active="All",previousVisit=localStorage.getItem(VISIT_KEY),previousState={};
@@ -162,10 +161,8 @@ function render(){
    const cats = x.category || [];
    const mainSource = x.main_source?.name || "";
    
-   // Kolla om artikeln är skriven av någon av toppjournalisterna
    const isExpert = FAMOUS_JOURNALISTS.some(j => mainSource.toLowerCase().includes(j.toLowerCase()));
    
-   // Lägg till virtuella kategorier dynamiskt vid filtrering
    const itemCategories = [...cats];
    if (isExpert) itemCategories.push("Experter");
    if (cats.includes("Sverige")) itemCategories.push("Svenska källor");
@@ -197,7 +194,6 @@ function render(){
  items.forEach(x=>{const e=document.createElement("article");e.className="card";
  const targetUrl = x.main_source?.url||x.sources?.[0]?.url||"#";
  
- // Snygga till kategoridelen på kortet
  const mainSource = x.main_source?.name || "";
  const isExpert = FAMOUS_JOURNALISTS.some(j => mainSource.toLowerCase().includes(j.toLowerCase()));
  const displayCategories = (x.category||[]).map(c => c === "Sverige" ? "Svenska källor" : c);
@@ -211,7 +207,8 @@ function render(){
  </div></div>`;
  grid.appendChild(e);setImage(e.querySelector("img"),e.querySelector(".media"),imgCandidates(x))});
  
- document.getElementById("count").textContent=`· ${items.length} stories · ${new Set(items.flatMap(x=>(x.sources||[]).map(s=>s.name))).size} sources`;
+ // Källräknaren (sources) är nu helt borttagen från raden nedan
+ document.getElementById("count").textContent=`· ${items.length} stories`;
  document.getElementById("empty").style.display=items.length?"none":"block";
 }
 
