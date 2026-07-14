@@ -4,6 +4,13 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Fotbollsbriefen</title>
+
+<!-- Förhandsgranskning vid delning (Open Graph) för ikonen -->
+<meta property="og:title" content="Fotbollsbriefen">
+<meta property="og:description" content="European football news — fast and concise">
+<meta property="og:image" content="https://timsor68.github.io/fotbollsbriefen/images/generic/1.jpg">
+<meta property="og:type" content="website">
+
 <style>
 :root{--bg:#eef2f4;--paper:#fff;--ink:#13202a;--muted:#687680;--line:#dbe2e7;--green:#075f37;--deep:#07301e}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:Arial,Helvetica,sans-serif}
@@ -49,7 +56,6 @@ footer{text-align:center;color:#74808a;font-size:13px;padding:24px}
 <div class="message" id="message"></div><div class="grid" id="grid"></div><div class="empty" id="empty">No stories match your selection.</div></main>
 <footer>Fotbollsbriefen · European football news from the last seven days</footer>
 <script>
-// Knappen har här döpts om från "Sverige" till "Svenska källor"
 const FILTERS=["All","Svenska källor","Premier League","La Liga","Serie A","Bundesliga","Ligue 1","Transfer","Coach"];
 const VISIT_KEY="fb_final_last_visit",STATE_KEY="fb_final_story_state";
 let data={items:[]},active="All",previousVisit=localStorage.getItem(VISIT_KEY),previousState={};
@@ -147,7 +153,6 @@ function renderFilters(){const n=document.getElementById("filters");n.innerHTML=
 function render(){
  const q=document.getElementById("search").value.trim().toLowerCase(),grid=document.getElementById("grid");grid.innerHTML="";
  
- // Vi mappar interna taggen "Sverige" till det nya knappnamnet "Svenska källor"
  const renderActive = active === "Svenska källor" ? "Sverige" : active;
  
  const matchedItems = (data.items||[]).filter(x=>(active==="All"||(x.category||[]).includes(renderActive))&&(!q||(x.title+" "+x.summary+" "+(x.entity||"")+" "+(x.club||"")+" "+(x.category||[]).join(" ")+" "+(x.sources||[]).map(s=>s.name).join(" ")).toLowerCase().includes(q)));
@@ -173,7 +178,6 @@ function render(){
  items.forEach(x=>{const e=document.createElement("article");e.className="card";
  const targetUrl = x.main_source?.url||x.sources?.[0]?.url||"#";
  
- // Snyggar till tagg-visningen på kortet så att det står "Svenska källor" istället för "Sverige"
  const displayCategories = (x.category||[]).map(c => c === "Sverige" ? "Svenska källor" : c);
 
  e.innerHTML=`<div class="media"><img alt="${esc(x.entity||x.title)}"></div><div class="body"><div class="meta">${displayCategories.slice(0,2).map(c=>`<span class="badge">${esc(c)}</span>`).join("")}<span class="badge ${statusClass(x.status)}">${esc(x.status)}</span>${isNew(x)?'<span class="badge since">New since last visit</span>':''}${isChanged(x)?'<span class="badge changed">Updated</span>':''}<span class="badge">${fmtDate(x.published_at)}</span></div>
