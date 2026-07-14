@@ -5,11 +5,15 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Fotbollsbriefen</title>
 
-<!-- Förhandsgranskning vid delning (Open Graph) för ikonen -->
-<meta property="og:title" content="Fotbollsbriefen">
-<meta property="og:description" content="European football news — fast and concise">
+<!-- Förhandsgranskning vid delning (Open Graph) för att efterlikna bild 2 -->
+<meta property="og:site_name" content="Fotbollsbriefen">
+<meta property="og:title" content="Fotbollsbriefen — European football news">
+<meta property="og:description" content="European football news — fast and concise. Senaste nytt från europeisk fotboll och svenska källor.">
 <meta property="og:image" content="https://timsor68.github.io/fotbollsbriefen/images/generic/1.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
 <meta property="og:type" content="website">
+<meta property="og:url" content="https://timsor68.github.io/fotbollsbriefen/">
 
 <style>
 :root{--bg:#eef2f4;--paper:#fff;--ink:#13202a;--muted:#687680;--line:#dbe2e7;--green:#075f37;--deep:#07301e}
@@ -194,7 +198,7 @@ function render(){
 
 async function load(){
  const b=document.getElementById("refresh"),msg=document.getElementById("message");
- b.disabled=true;b.textContent="↻ Refreshing…";msg.textContent="Loading the latest published news file…";
+ b.disabled=true;b.textContent="Quest…";msg.textContent="Loading the latest published news file…";
  const timer=setTimeout(()=>msg.textContent="This is taking longer than expected, but the page remains usable.",7000);
  try{
   const r=await fetch(`news.json?t=${Date.now()}`,{cache:"no-store"});if(!r.ok)throw new Error("HTTP "+r.status);
