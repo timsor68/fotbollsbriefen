@@ -707,14 +707,27 @@ def parse_feed(xml_bytes: bytes, source: dict[str, Any], cutoff: dt.datetime) ->
 
 
 def same_story(first: dict[str, Any], second: dict[str, Any]) -> bool:
+    """Avgör om två nyheter handlar om samma händelse."""
+    # 1. Kontrollera textlikhet (Sänkt till 0.62 för att fånga snarlika artiklar)
     ratio = similarity(first["title"], second["title"])
-    if ratio >= 0.72:
+    if ratio >= 0.62:
         return True
 
+    # 2. Kontrollera överlappande ord (Sänkt till 3 betydelsefulla ord)
     first_words = significant_words(first["title"])
     second_words = significant_words(second["title"])
     overlap = first_words & second_words
-    return len(overlap) >= 4
+    
+    if len(overlap) >= 3:
+        return True
+
+    # 3. Om de nämner samma spelare/tränare och har minst 2 andra gemensamma ord
+    first_entity = first.get("entity", "")
+    second_entity = second.get("entity", "")
+    if first_entity and first_entity == second_entity and len(overlap) >= 2:
+        return True
+
+    return False
 
 
 def detect_entities_and_clubs(item: dict[str, Any]) -> None:
@@ -875,11 +888,15 @@ def main() -> int:
         print("No fresh stories fetched; keeping the existing news.json unchanged.")
         return 0
 
+    # Detektera entiteter tidigt på alla nyheter för att underlätta smart matchning i same_story
+    for item in collected:
+        detect_entities_and_clubs(item)
+
     merged = merge_stories(collected)
 
     selected: list[dict[str, Any]] = []
     publisher_counts: dict[str, int] = {}
-    max_items = int(config.get("max_items", 45))
+    max_items = int(config.get("max_items", 75))
 
     for item in merged:
         source_name = item["main_source"]["name"]
