@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T21:00:16.133080+00:00",
+  "updated_at": "2026-07-14T21:58:33.632157+00:00",
   "items": [
     {
       "published_at": "2026-07-14T14:11:47+00:00",
@@ -117,6 +117,50 @@
         }
       ],
       "id": "timing-took-me-to-chelsea-rather-than-liverpool-alonso"
+    },
+    {
+      "published_at": "2026-07-14T15:08:25+00:00",
+      "updated_at": "2026-07-14T15:08:25+00:00",
+      "title": "‘For Diego’: spectre of Maradona looms over Argentina ahead of England clash",
+      "summary": "The image of the national icon has been ever present through this World Cup, in banners and songs and memory. It adds a fresh layer to Wednesday’s semi-final Not two minutes after his side’s dramatic, extra-time quarter-final victory over Switzerland on Saturday, the Argentina head coach, Lionel Scaloni, was already getting asked about the semi-final. Looming on the horizon was a match against bitter rivals England.",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "diego-maradona",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/8e3b/live/977ad240-7e23-11f1-b976-0b9c15b0ccfc.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/videos/clyxj3x99l9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/14/diego-maradona-argentina-world-cup"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/videos/clyxj3x99l9o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/14/diego-maradona-argentina-world-cup"
+        }
+      ],
+      "id": "for-diego-spectre-of-maradona-looms-over-argentina-ahead-of-england-clash"
     },
     {
       "published_at": "2026-07-14T20:42:19+00:00",
@@ -283,34 +327,6 @@
       "id": "balogun-expected-controversy-after-world-cup-ban-waived"
     },
     {
-      "published_at": "2026-07-14T15:44:03+00:00",
-      "updated_at": "2026-07-14T15:44:03+00:00",
-      "title": "Everton sign France forward Mouchon from Leicester",
-      "summary": "Everton sign France forward Noemie Mouchon on a free transfer from Leicester City",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "everton",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f2b8/live/ed070c00-7f96-11f1-a5f4-433bb9aa2e5a.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c8727e5d4ejo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c8727e5d4ejo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "everton-sign-france-forward-mouchon-from-leicester"
-    },
-    {
       "published_at": "2026-07-14T18:48:12+00:00",
       "updated_at": "2026-07-14T18:48:12+00:00",
       "title": "VM-svenskens tårfyllda avsked till MFF – klar för grekisk klubb",
@@ -368,7 +384,7 @@
       "published_at": "2026-07-14T21:50:00+00:00",
       "updated_at": "2026-07-14T21:50:00+00:00",
       "title": "Papers: Arsenal consider Gyokeres-Alvarez swap deal",
-      "summary": "The top stories and transfer rumours from Wednesday's newspapers",
+      "summary": "Plus: Liverpools shortlist for potential wingers this summer revealed; Arsenal are set to accelerate their pursuit of Christos Tzolis; Chelsea have not given up on signing Morgan Rogers but accept a deal is difficult; Cristian Romero is set to leave Tottenham this summer",
       "category": [
         "Premier League",
         "Transfer"
@@ -377,7 +393,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "arsenal",
-      "image": "",
+      "image": "https://e0.365dm.com/25/03/1600x900/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
       "sources": [
         {
           "name": "Sky Sports",
@@ -828,6 +844,33 @@
       "id": "panel-inf-r-matchen-mot-kalmar"
     },
     {
+      "published_at": "2026-07-14T20:59:04+00:00",
+      "updated_at": "2026-07-14T20:59:04+00:00",
+      "title": "Spanien klart för VM-final – Porro matchhjälte",
+      "summary": "Tottenham-högerbacken Pedro Porro blev stor matchvinnare för Spanien, när de regerande Europamästarna vann övertygande med 2–0 över ett blekt Frankrike. Spanien är därmed klart för sin första VM-final sedan de vann guld i Sydafrika 2010",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.31/0.16/1ddf63592874d5b70df3845dc0baca6f4f32153827b062948955f5ebed2e8187",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/spanien-klart-for-vm-final-porro-matchhjalte"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/spanien-klart-for-vm-final-porro-matchhjalte"
+      },
+      "confirmed_by": [],
+      "id": "spanien-klart-f-r-vm-final-porro-matchhj-lte"
+    },
+    {
       "published_at": "2026-07-14T20:15:00+00:00",
       "updated_at": "2026-07-14T20:15:00+00:00",
       "title": "Behrang Safari sågar Lucas Dignes agerande vid straffen: ”Ska aldrig försvara på det sättet”",
@@ -893,7 +936,7 @@
       "entity": "erling-haaland",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.34/0.16/9b097c44195521f07171efd6ee7ac9215adf6f583837bec742b575aa6301c7b6",
       "sources": [
         {
           "name": "SVT Sport",
@@ -1017,33 +1060,6 @@
       "id": "hyllningarna-till-succ-norsken-b-st-i-allsvenskan"
     },
     {
-      "published_at": "2026-07-13T20:18:20+00:00",
-      "updated_at": "2026-07-13T20:18:20+00:00",
-      "title": "Norge hyllades i Oslo – Haaland anlände med uppstoppad tvättbjörn",
-      "summary": "Norge har landat i Oslo efter VM-framgången. Erling Braut Haaland anlände med en uppstoppad tvättbjörn – men försvann sedan från firandet",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "erling-haaland",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.34/0.16/9b097c44195521f07171efd6ee7ac9215adf6f583837bec742b575aa6301c7b6",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/norge-hyllades-i-oslo-haaland-anlande-med-uppstoppad-tvattbjorn"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/norge-hyllades-i-oslo-haaland-anlande-med-uppstoppad-tvattbjorn"
-      },
-      "confirmed_by": [],
-      "id": "norge-hyllades-i-oslo-haaland-anl-nde-med-uppstoppad-tv-ttbj-rn"
-    },
-    {
       "published_at": "2026-07-14T18:43:00+00:00",
       "updated_at": "2026-07-14T18:43:00+00:00",
       "title": "Why Tielemans signing makes sense for Man Utd",
@@ -1069,60 +1085,6 @@
       },
       "confirmed_by": [],
       "id": "why-tielemans-signing-makes-sense-for-man-utd"
-    },
-    {
-      "published_at": "2026-07-14T08:00:00+00:00",
-      "updated_at": "2026-07-14T08:00:00+00:00",
-      "title": "'A little lost' - Why has Mainoo become England's forgotten man?",
-      "summary": "Kobbie Mainoo has cut a pretty forlorn-looking figure at this World Cup",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-reporter-notebook_7297175.jpg?20260714095442",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13563184/world-cup-2026-why-has-england-midfielder-kobbie-mainoo-failed-to-play-a-single-minute-for-thomas-tuchels-side-this-summer"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13563184/world-cup-2026-why-has-england-midfielder-kobbie-mainoo-failed-to-play-a-single-minute-for-thomas-tuchels-side-this-summer"
-      },
-      "confirmed_by": [],
-      "id": "a-little-lost-why-has-mainoo-become-england-s-forgotten-man"
-    },
-    {
-      "published_at": "2026-07-14T07:00:00+00:00",
-      "updated_at": "2026-07-14T07:00:00+00:00",
-      "title": "Rice fit and available to start for England vs Argentina",
-      "summary": "Declan Rice is fit and available to start England's World Cup semi-final against Argentina on Wednesday, Sky Sports News understands",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-declan-rice-england_7293163.jpg?20260708175832",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13563231/england-vs-argentina-declan-rice-fit-for-world-cup-semi-final-as-thomas-tuchels-squad-issues-begin-to-ease"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13563231/england-vs-argentina-declan-rice-fit-for-world-cup-semi-final-as-thomas-tuchels-squad-issues-begin-to-ease"
-      },
-      "confirmed_by": [],
-      "id": "rice-fit-and-available-to-start-for-england-vs-argentina"
     },
     {
       "published_at": "2026-07-13T15:28:00+00:00",
@@ -1368,6 +1330,33 @@
       "id": "spelarbetyg-djurg-rdens-if-halmstads-bk"
     },
     {
+      "published_at": "2026-07-14T22:00:00+00:00",
+      "updated_at": "2026-07-14T22:00:00+00:00",
+      "title": "England vs Argentina: The rivalry in pictures",
+      "summary": "Argentina were back at Wembley in May 1974 for a friendly. England were leading 2-0 but ended up drawing 2-2, with an Argentine referee awarding the visitors a penalty with five minutes remaining, from which Mario Kempes scored his second of the match.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/20/11/1600x900/skysports-diego-maradona-hand_5185168.jpg?20201126134857",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/story-telling/11095/13563508/england-vs-argentina-the-rivalry-in-pictures"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/story-telling/11095/13563508/england-vs-argentina-the-rivalry-in-pictures"
+      },
+      "confirmed_by": [],
+      "id": "england-vs-argentina-the-rivalry-in-pictures"
+    },
+    {
       "published_at": "2026-07-14T21:00:00+00:00",
       "updated_at": "2026-07-14T21:00:00+00:00",
       "title": "FIFA set to break rules with 30-minute half-time show at WC final",
@@ -1422,10 +1411,10 @@
       "id": "man-utd-latest-third-midfielder-wanted-after-tielemans-and-santos-signings"
     },
     {
-      "published_at": "2026-07-13T12:00:00+00:00",
-      "updated_at": "2026-07-13T12:00:00+00:00",
-      "title": "England latest: It will be a failure if Three Lions do not beat Argentina - Sherwood",
-      "summary": "England football news: Live updates, schedule and analysis of Thomas Tuchels Three Lions",
+      "published_at": "2026-07-14T10:38:00+00:00",
+      "updated_at": "2026-07-14T10:38:00+00:00",
+      "title": "Spain 'best team in the world', says De La Fuente - Have your say!",
+      "summary": "FIFA World Cup match France vs Spain 14.07.2026. Preview and stats followed by live commentary, video highlights and match report",
       "category": [
         "Football"
       ],
@@ -1433,20 +1422,20 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/25/09/1600x900/skysports-england-tuchel-thomas_7014353.jpg?20250908122212",
+      "image": "",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions"
+          "url": "https://www.skysports.com/football/france-vs-spain/live/549866"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions"
+        "url": "https://www.skysports.com/football/france-vs-spain/live/549866"
       },
       "confirmed_by": [],
-      "id": "england-latest-it-will-be-a-failure-if-three-lions-do-not-beat-argentina-sherwood"
+      "id": "spain-best-team-in-the-world-says-de-la-fuente-have-your-say"
     },
     {
       "published_at": "2026-07-13T11:35:00+00:00",
