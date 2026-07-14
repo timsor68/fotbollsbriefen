@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T16:18:24.607349+00:00",
+  "updated_at": "2026-07-14T16:24:59.177828+00:00",
   "items": [
     {
       "published_at": "2026-07-14T14:11:47+00:00",
@@ -524,6 +524,33 @@
       "id": "manchester-united-reach-agreement-to-sign-andrey-santos-from-chelsea-the-athletic"
     },
     {
+      "published_at": "2026-07-14T03:29:39+00:00",
+      "updated_at": "2026-07-14T03:29:39+00:00",
+      "title": "United's goal-giving gods",
+      "summary": "United's goal-giving gods Official Manchester United Website",
+      "category": [
+        "Football"
+      ],
+      "status": "Official",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Manchester United",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Manchester United",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "united-s-goal-giving-gods"
+    },
+    {
       "published_at": "2026-07-13T19:30:00+00:00",
       "updated_at": "2026-07-13T19:30:00+00:00",
       "title": "Xabi Alonso on ‘special’ Cole Palmer and ‘hungry’ Marco Palestra",
@@ -610,7 +637,7 @@
       "published_at": "2026-07-14T15:10:00+00:00",
       "updated_at": "2026-07-14T15:10:00+00:00",
       "title": "Excellent coach, superstars and depth - McGinley on why England are built like Ryder Cup heroes",
-      "summary": "Sky Sports' Paul McGinley explains how he draws comparrisons between England and Team Europe",
+      "summary": "Sky Sports' Paul McGinley explains how he draws comparisons between England and Team Europe",
       "category": [
         "Coach"
       ],
@@ -1264,33 +1291,6 @@
       },
       "confirmed_by": [],
       "id": "bruno-guimaraes-informs-newcastle-of-wish-to-join-arsenal-the-athletic"
-    },
-    {
-      "published_at": "2026-07-14T16:15:00+00:00",
-      "updated_at": "2026-07-14T16:15:00+00:00",
-      "title": "'This is where the magic happens!' | Rory McIlroy's driver swing analysed!",
-      "summary": "Sky Sports' Trey Niven takes a close look at why Rory McIlroy's driver swing is so good and consistent",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-golf-t_7297545.jpg?20260714162446",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/watch/video/13563436/this-is-where-the-magic-happens-rory-mcilroys-driver-swing-analysed"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/watch/video/13563436/this-is-where-the-magic-happens-rory-mcilroys-driver-swing-analysed"
-      },
-      "confirmed_by": [],
-      "id": "this-is-where-the-magic-happens-rory-mcilroy-s-driver-swing-analysed"
     }
   ]
 }
