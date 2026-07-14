@@ -1,1 +1,38 @@
+name: Uppdatera Fotbollsbriefen
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "7,37 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fotbollsbriefen-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Hämta nyheter
+        run: python update.py
+
+      - name: Kontrollera JSON
+        run: python -m json.tool news.json > /dev/null
+
+      - name: Spara news.json
+        run: |
+          git config user.name "fotbollsbriefen-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add news.json
+          git diff --cached --quiet || git commit -m "Uppdatera nyheter"
+          git push
 
