@@ -1,0 +1,30 @@
+name: Uppdatera väderprognoser för matcher
+
+on:
+  schedule:
+    - cron: '0 */5 * * *' # Var 5:e timme — lägst prioritet, väder behöver inte vara superfärskt
+  workflow_dispatch: # Gör att du kan starta uppdateringen manuellt från GitHubs hemsida
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check ut kod
+      uses: actions/checkout@v4
+
+    - name: Installera Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Kör weather-script
+      run: python weather.py
+
+    - name: Commit och pusha ändringar till GitHub
+      run: |
+        git config --global user.name 'fotbollsbriefen-bot'
+        git config --global user.email 'bot@fotbollsbriefen.se'
+        git add weather.json venues_cache.json
+        git commit -m "Uppdatera väderprognoser" || exit 0
+        git push
