@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T18:08:40.821540+00:00",
+  "updated_at": "2026-07-15T19:37:22.841037+00:00",
   "items": [
     {
       "published_at": "2026-07-15T17:50:52+00:00",
@@ -82,6 +82,79 @@
         }
       ],
       "id": "aston-villa-sign-keeper-ramsey-on-free-transfer"
+    },
+    {
+      "published_at": "2026-07-15T09:22:33+00:00",
+      "updated_at": "2026-07-15T09:22:33+00:00",
+      "title": "Bournemouth in talks for Benfica defender Silva",
+      "summary": "Bournemouth enter talks to sign Benfica and Portugal defender Antonio Silva as Marcos Senesi's replacement",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8221/live/f769cfb0-8028-11f1-8ae2-1d238eb2d791.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/crr8r4zvj5jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/crr8r4zvj5jo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+        }
+      ],
+      "id": "bournemouth-in-talks-for-benfica-defender-silva"
+    },
+    {
+      "published_at": "2026-07-14T18:45:08+00:00",
+      "updated_at": "2026-07-14T18:45:08+00:00",
+      "title": "Man Utd sign Tielemans for £35m from Aston Villa",
+      "summary": "Manchester United complete the signing of Youri Tielemans from Aston Villa on a five-year deal",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "youri-tielemans",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d655/live/78c94320-7fb5-11f1-9c5f-190f51e64b46.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c9929gzdl2go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49356683/manchester-united-sign-midfielder-youri-tielemans-aston-villa"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c9929gzdl2go?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49356683/manchester-united-sign-midfielder-youri-tielemans-aston-villa"
+        }
+      ],
+      "id": "man-utd-sign-tielemans-for-35m-from-aston-villa"
     },
     {
       "published_at": "2026-07-15T14:54:56+00:00",
@@ -192,33 +265,6 @@
       "id": "sunderland-sign-belgium-world-cup-defender-meunier"
     },
     {
-      "published_at": "2026-07-15T09:22:33+00:00",
-      "updated_at": "2026-07-15T09:22:33+00:00",
-      "title": "Bournemouth in talks for Benfica defender Silva",
-      "summary": "Bournemouth enter talks to sign Benfica and Portugal defender Antonio Silva as Marcos Senesi's replacement",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8221/live/f769cfb0-8028-11f1-8ae2-1d238eb2d791.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/crr8r4zvj5jo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crr8r4zvj5jo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "bournemouth-in-talks-for-benfica-defender-silva"
-    },
-    {
       "published_at": "2026-07-15T08:12:03+00:00",
       "updated_at": "2026-07-15T08:12:03+00:00",
       "title": "London City sign Diani for more than £500,000",
@@ -246,33 +292,6 @@
       "id": "london-city-sign-diani-for-more-than-500-000"
     },
     {
-      "published_at": "2026-07-15T08:05:16+00:00",
-      "updated_at": "2026-07-15T08:05:16+00:00",
-      "title": "'We shouldn't confuse politics and football' - Scaloni on England-Argentina rivalry",
-      "summary": "Argentina manager Lionel Scaloni says he is \"not going to mix\" football and politics before his side's World Cup semi-final against England",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d531/live/46db08d0-801e-11f1-9317-f3c8d3f68726.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cn8q8n6973xo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cn8q8n6973xo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "we-shouldn-t-confuse-politics-and-football-scaloni-on-england-argentina-rivalry"
-    },
-    {
       "published_at": "2026-07-14T21:32:59+00:00",
       "updated_at": "2026-07-14T21:32:59+00:00",
       "title": "Spain into World Cup final with victory over France",
@@ -291,12 +310,12 @@
           "url": "https://www.bbc.co.uk/sport/football/videos/cq6160n8y71o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/france-vs-spain/report/549866"
-        },
-        {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/football/2026/jul/14/france-spain-world-cup-semi-final-match-report"
+        },
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49361910/world-cup-favorites-france-unravel-spain-book-spot-final-ease"
         }
       ],
       "language": "en",
@@ -306,12 +325,12 @@
       },
       "confirmed_by": [
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/france-vs-spain/report/549866"
-        },
-        {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/football/2026/jul/14/france-spain-world-cup-semi-final-match-report"
+        },
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49361910/world-cup-favorites-france-unravel-spain-book-spot-final-ease"
         }
       ],
       "id": "spain-into-world-cup-final-with-victory-over-france"
@@ -342,6 +361,78 @@
       },
       "confirmed_by": [],
       "id": "vm-svenskens-t-rfyllda-avsked-till-mff-klar-f-r-grekisk-klubb"
+    },
+    {
+      "published_at": "2026-07-15T18:03:07+00:00",
+      "updated_at": "2026-07-15T18:03:07+00:00",
+      "title": "In this star-powered World Cup, Spain show value of collective and control | Sid Lowe",
+      "summary": "Luis de la Fuente’s final-bound team have been fuelled by togetherness and a commitment to each other that goes back a long way On the way out of the dressing room in Arlington, Luis de la Fuente gathered his “family” and delivered one last message before the World Cup semi-final against France . He had long known what he was going to say, if not exactly how – it’s what he has been saying for 50 days and more. “I’ll tell them that this is a unique stage, the kind of moment that may never be repeated again, and that we have to be ourselves,” he had suggested 18 hours earlier; now that idea crystallised in a line.",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-rodri-spain-world-cup_7297812.jpg?20260714235917",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13563541/spain-show-teamwork-may-yet-win-out-in-world-cup-of-superstars-as-kylian-mbappe-and-france-eliminated"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/15/in-this-star-powered-world-cup-spain-show-the-value-of-the-collective-and-control"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13563541/spain-show-teamwork-may-yet-win-out-in-world-cup-of-superstars-as-kylian-mbappe-and-france-eliminated"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/15/in-this-star-powered-world-cup-spain-show-the-value-of-the-collective-and-control"
+        }
+      ],
+      "id": "in-this-star-powered-world-cup-spain-show-value-of-collective-and-control-sid-lowe"
+    },
+    {
+      "published_at": "2026-07-15T20:30:50+00:00",
+      "updated_at": "2026-07-15T20:30:50+00:00",
+      "title": "Man United's Ugarte undergoes knee surgery",
+      "summary": "Manuel Ugarte has undergone surgery after suffering a knee injury at the World Cup, Manchester United have confirmed",
+      "category": [
+        "Injury"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/02/1600x900/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        },
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49366171/man-united-manuel-ugarte-undergoes-successful-knee-surgery"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49366171/man-united-manuel-ugarte-undergoes-successful-knee-surgery"
+        }
+      ],
+      "id": "man-united-s-ugarte-undergoes-knee-surgery"
     },
     {
       "published_at": "2026-07-15T15:47:11+00:00",
@@ -450,34 +541,6 @@
       },
       "confirmed_by": [],
       "id": "how-are-london-city-lionesses-able-to-embark-on-such-a-transfer-spree"
-    },
-    {
-      "published_at": "2026-07-14T12:11:00+00:00",
-      "updated_at": "2026-07-14T12:11:00+00:00",
-      "title": "Brighton seal signing of Luka Vuskovic from Tottenham for club record £46m",
-      "summary": "Croatia defender has signed five-year deal Teenager impressed on loan at Hamburg last season Brighton have signed 19-year-old Croatia defender Luka ⁠Vuskovic from Tottenham for what is believed to be a club record fee of £46m. Vuskovic has signed a five-year deal with Brighton and is essentially a replacement for Jan Paul van Hecke after his £52m move to Spurs last month .",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "luka-vuskovic",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://i.guim.co.uk/img/media/ac29d850e33fc62865bfc489ae3963f27ba7beab/402_0_4417_3533/master/4417.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=759b7181a5e65c9e0fbb2ca430a04ed8",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/14/brighton-seal-signing-of-luka-vuskovic-from-tottenham-for-club-record-46m"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/14/brighton-seal-signing-of-luka-vuskovic-from-tottenham-for-club-record-46m"
-      },
-      "confirmed_by": [],
-      "id": "brighton-seal-signing-of-luka-vuskovic-from-tottenham-for-club-record-46m"
     },
     {
       "published_at": "2026-07-14T11:08:17+00:00",
@@ -670,6 +733,142 @@
       },
       "confirmed_by": [],
       "id": "panel-inf-r-matchen-mot-kalmar"
+    },
+    {
+      "published_at": "2026-07-15T20:30:50+00:00",
+      "updated_at": "2026-07-15T20:30:50+00:00",
+      "title": "FIFA defends 'world-class' ref after France critic",
+      "summary": "FIFA's director of refereeing Pierluigi Collina defended the referee in Tuesday's semifinal between France and Spain following criticism from France coach Didier Deschamps",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0715%2Fr1689629_1296x729_16%2D9.jpg",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49368693/fifa-referee-france-didier-deschamps-spain-2026-world-cup-collina"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/49368693/fifa-referee-france-didier-deschamps-spain-2026-world-cup-collina"
+      },
+      "confirmed_by": [],
+      "id": "fifa-defends-world-class-ref-after-france-critic"
+    },
+    {
+      "published_at": "2026-07-15T20:30:50+00:00",
+      "updated_at": "2026-07-15T20:30:50+00:00",
+      "title": "Greenwood signs with Fenerbahçe from Marseille",
+      "summary": "Former Manchester United forward Mason Greenwood on Wednesday signed for Fenerbahçe to join his third club in three years",
+      "category": [
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0203%2Fr1610028_2_1296x729_16%2D9.jpg",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49367104/mason-greenwood-signs-fenerbahce-marseille"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/49367104/mason-greenwood-signs-fenerbahce-marseille"
+      },
+      "confirmed_by": [],
+      "id": "greenwood-signs-with-fenerbah-e-from-marseille"
+    },
+    {
+      "published_at": "2026-07-15T17:59:49+00:00",
+      "updated_at": "2026-07-15T17:59:49+00:00",
+      "title": "USMNT's World Cup over, Pochettino's contract done",
+      "summary": "If Mauricio Pochettino leaves the USMNT, the question is who could replace him. Well, here are 11 coaches who could be in U.S.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0714%2Fr1689242_1296x729_16%2D9.jpg",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49344382/who-new-usmnt-coach-11-candidates-pochettino-world-cup-2026"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/49344382/who-new-usmnt-coach-11-candidates-pochettino-world-cup-2026"
+      },
+      "confirmed_by": [],
+      "id": "usmnt-s-world-cup-over-pochettino-s-contract-done"
+    },
+    {
+      "published_at": "2026-07-15T09:10:26+00:00",
+      "updated_at": "2026-07-15T09:10:26+00:00",
+      "title": "Inside Man United's summer rebuild, as Santos and",
+      "summary": "Manchester United have had to adapt their summer transfer window plans, but the club continue to be active and more signings are expected",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0714%2Fr1688971_1296x729_16%2D9.jpg",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49354932/inside-manchester-united-summer-transfer-rebuild-santos-tielemans-bolster-midfield"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/49354932/inside-manchester-united-summer-transfer-rebuild-santos-tielemans-bolster-midfield"
+      },
+      "confirmed_by": [],
+      "id": "inside-man-united-s-summer-rebuild-as-santos-and"
+    },
+    {
+      "published_at": "2026-07-15T09:10:25+00:00",
+      "updated_at": "2026-07-15T09:10:25+00:00",
+      "title": "Transfer rumors, news: USMNT striker Balogun on Ju",
+      "summary": "Juventus are considering a move for AS Monaco and USMNT striker Folarin Balogun.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "folarin-balogun",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0705%2Fr1684884_1296x729_16%2D9.jpg",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49365030/transfer-rumors-news-usmnt-striker-balogun-juventus-shortlist"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/49365030/transfer-rumors-news-usmnt-striker-balogun-juventus-shortlist"
+      },
+      "confirmed_by": [],
+      "id": "transfer-rumors-news-usmnt-striker-balogun-on-ju"
     },
     {
       "published_at": "2026-07-15T16:29:32+00:00",
@@ -943,31 +1142,33 @@
       "id": "aston-villa-latest-manzambi-set-for-villa-medical-on-thursday"
     },
     {
-      "published_at": "2026-07-15T12:18:00+00:00",
-      "updated_at": "2026-07-15T12:18:00+00:00",
-      "title": "Man Utd latest: Ugarte undergoes surgery after World Cup knee injury",
+      "published_at": "2026-07-15T10:45:00+00:00",
+      "updated_at": "2026-07-15T10:45:00+00:00",
+      "title": "West Ham latest: Roma hold further talks with Summerville reps over move",
       "summary": "Read the full report at Sky Sports.",
       "category": [
-        "Injury"
+        "Premier League",
+        "Serie A",
+        "Transfer"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/26/02/1600x900/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
+      "club": "",
+      "image": "https://e0.365dm.com/25/10/1600x900/skysports-west-ham-news-club_7039266.jpg?20251002160718",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "url": "https://www.skysports.com/football/live-blog/11095/13210475/west-ham-latest-news"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "url": "https://www.skysports.com/football/live-blog/11095/13210475/west-ham-latest-news"
       },
       "confirmed_by": [],
-      "id": "man-utd-latest-ugarte-undergoes-surgery-after-world-cup-knee-injury"
+      "id": "west-ham-latest-roma-hold-further-talks-with-summerville-reps-over-move"
     },
     {
       "published_at": "2026-07-15T10:20:00+00:00",
@@ -1024,33 +1225,6 @@
       },
       "confirmed_by": [],
       "id": "why-cubarsi-will-be-one-of-the-top-five-centre-backs-in-history"
-    },
-    {
-      "published_at": "2026-07-14T23:45:00+00:00",
-      "updated_at": "2026-07-14T23:45:00+00:00",
-      "title": "Spain show teamwork may win out in 'World Cup of superstars'",
-      "summary": "France's attacking firepower was the focus of the build-up to their World Cup semi-final against Spain. If it wasn't Kylian Mbappe who did the damage, it would surely be Ousmane Dembele.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-rodri-spain-world-cup_7297812.jpg?20260714235917",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13563541/spain-show-teamwork-may-yet-win-out-in-world-cup-of-superstars-as-kylian-mbappe-and-france-eliminated"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13563541/spain-show-teamwork-may-yet-win-out-in-world-cup-of-superstars-as-kylian-mbappe-and-france-eliminated"
-      },
-      "confirmed_by": [],
-      "id": "spain-show-teamwork-may-win-out-in-world-cup-of-superstars"
     },
     {
       "published_at": "2026-07-14T18:43:00+00:00",
@@ -1242,6 +1416,96 @@
       "id": "have-the-top-four-teams-ever-made-up-the-world-cup-semi-finalists-before-the-knowledge"
     },
     {
+      "published_at": "2026-07-14T10:01:57+00:00",
+      "updated_at": "2026-07-14T10:01:57+00:00",
+      "title": "David Squires on … England’s high-wire act continuing to the World Cup semis",
+      "summary": "Our cartoonist sets the scene before the semi-finals, with Thomas Tuchel’s team taking on old rivals Argentina Buy David’s cartoons | Some of his favourite works And his latest book, Chaos in the Box: get it now Continue reading",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/8501ae494f3308487ca41e57f4be9592153d2a2c/1011_153_873_698/master/873.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3c3c5c1b5fe17bab001edd4720b9d897",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/picture/2026/jul/14/david-squires-england-high-wire-act-world-cup-semis-cartoon"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/picture/2026/jul/14/david-squires-england-high-wire-act-world-cup-semis-cartoon"
+      },
+      "confirmed_by": [],
+      "id": "david-squires-on-england-s-high-wire-act-continuing-to-the-world-cup-semis"
+    },
+    {
+      "published_at": "2026-07-15T19:19:01+00:00",
+      "updated_at": "2026-07-15T19:19:01+00:00",
+      "title": "282: “Blanda om - Ojämna lag”",
+      "summary": "Det finns förluster som gör ont och förluster som inte känns alls. Efter en av årets mest väntade förluster väntar en ny tuff motståndare. Ett nytt avsnitt av podden tar upp hat, glassar, ojämna lag, Ai och vikten av att äta när man blir serverad.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/jA5uYP83zz6GgwoowSQPXRBA3eOTb0K7GM8uofsK.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/282-blanda-om-ojamna-lag-698147"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/282-blanda-om-ojamna-lag-698147"
+      },
+      "confirmed_by": [],
+      "id": "282-blanda-om-oj-mna-lag"
+    },
+    {
+      "published_at": "2026-07-15T15:35:00+00:00",
+      "updated_at": "2026-07-15T15:35:00+00:00",
+      "title": "Cagey start between England and Argentina with tensions high LIVE!",
+      "summary": "FIFA World Cup match England vs Argentina 15.07.2026. Preview and stats followed by live commentary, video highlights and match report",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/england-vs-argentina/live/549867"
+        },
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49363385/world-cup-daily-live-argentina-fans-take-atlanta-england-game-spain-celebrates-reaching-final"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/england-vs-argentina/live/549867"
+      },
+      "confirmed_by": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49363385/world-cup-daily-live-argentina-fans-take-atlanta-england-game-spain-celebrates-reaching-final"
+        }
+      ],
+      "id": "cagey-start-between-england-and-argentina-with-tensions-high-live"
+    },
+    {
       "published_at": "2026-07-15T15:33:00+00:00",
       "updated_at": "2026-07-15T15:33:00+00:00",
       "title": "Klart: Csongvai lämnar AIK",
@@ -1350,31 +1614,139 @@
       "id": "klart-ny-fan-zone-p-falcon-alkoholfri-arena-d-invigs-den"
     },
     {
-      "published_at": "2026-07-14T20:06:01+00:00",
-      "updated_at": "2026-07-14T20:06:01+00:00",
-      "title": "Bildextra: Så minns vi Sam Larsson",
-      "summary": "Under tisdagen slog en bomb ner på Kamratgården. Sam Larsson är tillbaka i de blåvita färgerna efter 12 år utomlands. Så här såg det ut senast han representerade IFK Göteborg",
+      "published_at": "2026-07-15T20:31:09+00:00",
+      "updated_at": "2026-07-15T20:31:09+00:00",
+      "title": "Mbappé critical of tactics in loss by 'sloppy' Fra",
+      "summary": "Kylian Mbappé seemed to question Didier Deschamps' approach and tactics after France's 2-0 defeat to Spain in the FIFA World Cup semifinal Tuesday",
       "category": [
-        "Sverige"
+        "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/VoprLPrd0RaIiHBU3rIyrrNOkB3qYUsVqMevedkP.png",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0714%2Fr1689315_1296x729_16%2D9.jpg",
       "sources": [
         {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/bildextra-sa-minns-vi-sam-larsson-698114"
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49362319/kylian-mbappe-critical-tactics-sloppy-france-loss"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/bildextra-sa-minns-vi-sam-larsson-698114"
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/49362319/kylian-mbappe-critical-tactics-sloppy-france-loss"
       },
       "confirmed_by": [],
-      "id": "bildextra-s-minns-vi-sam-larsson"
+      "id": "mbapp-critical-of-tactics-in-loss-by-sloppy-fra"
+    },
+    {
+      "published_at": "2026-07-15T20:30:50+00:00",
+      "updated_at": "2026-07-15T20:30:50+00:00",
+      "title": "Post Malone headlines WCup closing ceremony",
+      "summary": "A wide array of performers, from Post Malone to Tom Cruise to streamer IShowSpeed, will help close out the World Cup, FIFA said Tuesday",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0715%2Fr1689611_1296x729_16%2D9.jpg",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49368478/post-malone-tom-cruise-ishowspeed-world-cup-closing-ceremony"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/49368478/post-malone-tom-cruise-ishowspeed-world-cup-closing-ceremony"
+      },
+      "confirmed_by": [],
+      "id": "post-malone-headlines-wcup-closing-ceremony"
+    },
+    {
+      "published_at": "2026-07-15T20:30:50+00:00",
+      "updated_at": "2026-07-15T20:30:50+00:00",
+      "title": "Fraud case against ex-Serie A ref chief dropped",
+      "summary": "Milan's public prosecutor has dismissed the case against former Italian referee designator Gianluca Rocchi and his deputy Andrea Gervasoni for alleged sports fraud",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0426%2Fr1649572_1296x729_16%2D9.jpg",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49367237/fraud-case-former-serie-referee-chief-dropped"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/49367237/fraud-case-former-serie-referee-chief-dropped"
+      },
+      "confirmed_by": [],
+      "id": "fraud-case-against-ex-serie-a-ref-chief-dropped"
+    },
+    {
+      "published_at": "2026-07-15T20:30:50+00:00",
+      "updated_at": "2026-07-15T20:30:50+00:00",
+      "title": "Lewa on Fire: No Euro club would do after Barça",
+      "summary": "New Chicago Fire signing Robert Lewandowski said he couldn't imagine playing for another European club after his four-season stint with Barcelona, and that explains in part his decision to move to MLS",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0714%2Fr1689224_1296x729_16%2D9.jpg",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49361480/lewandowski-chicago-fire-not-imagine-euro-team-barcelona"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/49361480/lewandowski-chicago-fire-not-imagine-euro-team-barcelona"
+      },
+      "confirmed_by": [],
+      "id": "lewa-on-fire-no-euro-club-would-do-after-bar-a"
+    },
+    {
+      "published_at": "2026-07-15T20:30:50+00:00",
+      "updated_at": "2026-07-15T20:30:50+00:00",
+      "title": "📈 World Cup stock watch: Who has impressed?",
+      "summary": "The FIFA World Cup is into the semifinals, but which players have impressed and which have struggled during both tournaments?",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0714%2Fsoc_wc%2Dstock%2Dup%2Ddown_16x9.jpg",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49294190/2026-fifa-world-cup-stock-watch-which-players-starred-struggled"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/49294190/2026-fifa-world-cup-stock-watch-which-players-starred-struggled"
+      },
+      "confirmed_by": [],
+      "id": "world-cup-stock-watch-who-has-impressed"
     },
     {
       "published_at": "2026-07-15T18:50:00+00:00",
@@ -1402,60 +1774,6 @@
       },
       "confirmed_by": [],
       "id": "forest-latest-midfielder-set-to-become-glasner-s-first-signing"
-    },
-    {
-      "published_at": "2026-07-15T18:13:00+00:00",
-      "updated_at": "2026-07-15T18:13:00+00:00",
-      "title": "Spurs legend Mabbutt recovering from accident in South Africa",
-      "summary": "Read the full report at Sky Sports.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-gary-mabbutt-spurs_7298448.jpg?20260715181426",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "spurs-legend-mabbutt-recovering-from-accident-in-south-africa"
-    },
-    {
-      "published_at": "2026-07-15T15:35:00+00:00",
-      "updated_at": "2026-07-15T15:35:00+00:00",
-      "title": "James, Spence and Rogers start for England vs Argentina LIVE!",
-      "summary": "FIFA World Cup match England vs Argentina 15.07.2026. Preview and stats followed by live commentary, video highlights and match report",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/england-vs-argentina/live/549867"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/england-vs-argentina/live/549867"
-      },
-      "confirmed_by": [],
-      "id": "james-spence-and-rogers-start-for-england-vs-argentina-live"
     }
   ]
 }
