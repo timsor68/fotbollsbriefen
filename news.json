@@ -1,6 +1,86 @@
 {
-  "updated_at": "2026-07-15T22:02:04.416360+00:00",
+  "updated_at": "2026-07-15T23:59:17.822201+00:00",
   "items": [
+    {
+      "published_at": "2026-07-15T22:49:47+00:00",
+      "updated_at": "2026-07-15T22:49:47+00:00",
+      "title": "Argentina face fine for displaying Falklands banner after semi-final",
+      "summary": "Lionel Messi was at his effervescent best while Harry Kane struggled to make an impact Jordan Pickford Had little chance with either goal. Pulled off a sensational save from González but that will be forgotten now.",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b3c0/live/7f838280-809a-11f1-abcc-2d303f4b40e8.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-semi-final-player-ratings"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-semi-final-player-ratings"
+        }
+      ],
+      "id": "argentina-face-fine-for-displaying-falklands-banner-after-semi-final"
+    },
+    {
+      "published_at": "2026-07-15T22:40:05+00:00",
+      "updated_at": "2026-07-15T22:40:05+00:00",
+      "title": "'No regrets' - Tuchel on England's defeat by Argentina",
+      "summary": "England manager Thomas Tuchel believes his team \"got too passive\" after scoring first in the World Cup semi-final against Argentina, which they lost 2-1 at Atlanta Stadium",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3973/live/6f51c780-809c-11f1-bee8-53ce494e1abc.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c62v3q3qp99o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13563857/thomas-tuchel-england-head-coach-vows-to-remain-until-euro-2028-despite-world-cup-semi-final-loss-to-argentina"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c62v3q3qp99o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13563857/thomas-tuchel-england-head-coach-vows-to-remain-until-euro-2028-despite-world-cup-semi-final-loss-to-argentina"
+        }
+      ],
+      "id": "no-regrets-tuchel-on-england-s-defeat-by-argentina"
+    },
     {
       "published_at": "2026-07-15T17:50:52+00:00",
       "updated_at": "2026-07-15T17:50:52+00:00",
@@ -74,6 +154,42 @@
         }
       ],
       "id": "aston-villa-sign-keeper-ramsey-on-free-transfer"
+    },
+    {
+      "published_at": "2026-07-16T00:00:00+00:00",
+      "updated_at": "2026-07-16T00:00:00+00:00",
+      "title": "World Cup 2026 schedule: England to face France in third-place play-off",
+      "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4542/live/e3e331f0-7c88-11f1-bee8-53ce494e1abc.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/videos/cewqex0vl85o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13481245/world-cup-2026-fixture-schedule-and-uk-kick-off-times-day-by-day-breakdown-of-all-104-matches-including-england"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/videos/cewqex0vl85o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13481245/world-cup-2026-fixture-schedule-and-uk-kick-off-times-day-by-day-breakdown-of-all-104-matches-including-england"
+        }
+      ],
+      "id": "world-cup-2026-schedule-england-to-face-france-in-third-place-play-off"
     },
     {
       "published_at": "2026-07-15T14:54:56+00:00",
@@ -211,88 +327,6 @@
       "id": "bournemouth-in-talks-for-benfica-defender-silva"
     },
     {
-      "published_at": "2026-07-15T08:12:03+00:00",
-      "updated_at": "2026-07-15T08:12:03+00:00",
-      "title": "London City sign Diani for more than £500,000",
-      "summary": "London City Lionesses sign France forward Kadidiatou Diani from Lyon on a three-year deal",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9799/live/307e2170-801f-11f1-9317-f3c8d3f68726.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cvgjg66gyjxo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvgjg66gyjxo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "london-city-sign-diani-for-more-than-500-000"
-    },
-    {
-      "published_at": "2026-07-14T20:42:19+00:00",
-      "updated_at": "2026-07-14T20:42:19+00:00",
-      "title": "Fenerbahce sign Greenwood from Marseille",
-      "summary": "Fenerbahce sign Mason Greenwood from Marseille on a four-year contract",
-      "category": [
-        "Ligue 1",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d104/live/396e4dc0-7fbe-11f1-a95e-af5d4ffcf161.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwy0yg15y90o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwy0yg15y90o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "fenerbahce-sign-greenwood-from-marseille"
-    },
-    {
-      "published_at": "2026-07-14T19:49:30+00:00",
-      "updated_at": "2026-07-14T19:49:30+00:00",
-      "title": "Record buy O'Sullivan leaves Liverpool for Gotham",
-      "summary": "Liverpool club record signing Denise O'Sullivan leaves to join Gotham FC, just six months after joining the Reds",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bba9/live/3b788a50-7dc9-11f1-85e2-618a4e9b93eb.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cjdg7kdm9p4o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cjdg7kdm9p4o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "record-buy-o-sullivan-leaves-liverpool-for-gotham"
-    },
-    {
       "published_at": "2026-07-14T18:48:12+00:00",
       "updated_at": "2026-07-14T18:48:12+00:00",
       "title": "VM-svenskens tårfyllda avsked till MFF – klar för grekisk klubb",
@@ -320,6 +354,60 @@
       "id": "vm-svenskens-t-rfyllda-avsked-till-mff-klar-f-r-grekisk-klubb"
     },
     {
+      "published_at": "2026-07-15T17:44:00+00:00",
+      "updated_at": "2026-07-15T17:44:00+00:00",
+      "title": "How England unravelled as Tuchel's changes spectacularly backfired",
+      "summary": "Thomas Tuchel was England's gambler. A squad few others would have picked. A backs-to-the-wall win over Mexico.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-thomas-tuchel-england_7298678.jpg?20260715234907",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13563777/thomas-tuchel-how-england-unravelled-after-ezri-konsa-substitution-as-familiar-failings-rob-three-lions-of-world-cup-final-place"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13563777/thomas-tuchel-how-england-unravelled-after-ezri-konsa-substitution-as-familiar-failings-rob-three-lions-of-world-cup-final-place"
+      },
+      "confirmed_by": [],
+      "id": "how-england-unravelled-as-tuchel-s-changes-spectacularly-backfired"
+    },
+    {
+      "published_at": "2026-07-15T22:55:37+00:00",
+      "updated_at": "2026-07-15T22:55:37+00:00",
+      "title": "It was supposed to be different but Argentina showed intent, Tuchel showed fear | Jacob Steinberg",
+      "summary": "England head coach made changes that would have led to Southgate and Eriksson being hammered Lionel Messi has seen buses reverse into position before. England did not confront the greatest player of all time with anything new when they dropped back with a place in the World Cup final within reach. The negativity was lamentable and it was no surprise when punishment arrived in the form of a clinical Argentina fightback in Atlanta.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/b580d4b3d71321db969eb3c4afa6aa2b84411781/167_0_2498_1999/master/2498.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c881d9d8211339892992443e1d651033",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/15/thomas-tuchel-england-argentina-semi-final-world-cup"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/15/thomas-tuchel-england-argentina-semi-final-world-cup"
+      },
+      "confirmed_by": [],
+      "id": "it-was-supposed-to-be-different-but-argentina-showed-intent-tuchel-showed-fear-jacob-stein"
+    },
+    {
       "published_at": "2026-07-15T18:03:07+00:00",
       "updated_at": "2026-07-15T18:03:07+00:00",
       "title": "In this star-powered World Cup, Spain show value of collective and control | Sid Lowe",
@@ -327,16 +415,12 @@
       "category": [
         "Football"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-rodri-spain-world-cup_7297812.jpg?20260714235917",
+      "image": "https://i.guim.co.uk/img/media/902ff1c59101b82d101d3758999209aa080c0b92/388_0_3671_2937/master/3671.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9f153777e1bb18f569214e0889594b9",
       "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13563541/spain-show-teamwork-may-yet-win-out-in-world-cup-of-superstars-as-kylian-mbappe-and-france-eliminated"
-        },
         {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/football/2026/jul/15/in-this-star-powered-world-cup-spain-show-the-value-of-the-collective-and-control"
@@ -344,15 +428,10 @@
       ],
       "language": "en",
       "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13563541/spain-show-teamwork-may-yet-win-out-in-world-cup-of-superstars-as-kylian-mbappe-and-france-eliminated"
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/15/in-this-star-powered-world-cup-spain-show-the-value-of-the-collective-and-control"
       },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/15/in-this-star-powered-world-cup-spain-show-the-value-of-the-collective-and-control"
-        }
-      ],
+      "confirmed_by": [],
       "id": "in-this-star-powered-world-cup-spain-show-value-of-collective-and-control-sid-lowe"
     },
     {
@@ -573,33 +652,6 @@
       "id": "merino-puts-spain-into-world-cup-semi-finals-as-belgium-rue-costly-courtois-injury"
     },
     {
-      "published_at": "2026-07-09T07:00:55+00:00",
-      "updated_at": "2026-07-09T07:00:55+00:00",
-      "title": "Team for now, not a squad for later – Spurs are spending big but what is it for? | Jonathan Liew",
-      "summary": "Tottenham’s strategies have changed over the years and this summer’s transfer splurge marks a sharp turn away from the Levy years A couple of weeks ago, Sotheby’s in London concluded one of its biggest art auctions. In all, the sale of 25 modern and contemporary works raised almost £300m. Seated Nude With Necklace, by Modigliani, went for £41.5m; La Belle Promenade, by Magritte, went for £13.5m.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://i.guim.co.uk/img/media/bf838b73fc4f24c0386b868cdae329b0150075b5/289_0_2897_2318/master/2897.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=13c52c97b6429f35537d0d44e157ae9a",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/09/team-for-now-not-a-squad-for-later-spurs-are-spending-big-but-what-is-it-for"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/09/team-for-now-not-a-squad-for-later-spurs-are-spending-big-but-what-is-it-for"
-      },
-      "confirmed_by": [],
-      "id": "team-for-now-not-a-squad-for-later-spurs-are-spending-big-but-what-is-it-for-jonathan-liew"
-    },
-    {
       "published_at": "2026-07-14T10:10:10+00:00",
       "updated_at": "2026-07-14T10:10:10+00:00",
       "title": "Sam Larsson återvänder till IFK Göteborg: ”En dundervärvning”",
@@ -737,10 +789,64 @@
       "id": "panel-inf-r-matchen-mot-kalmar"
     },
     {
+      "published_at": "2026-07-15T22:42:18+00:00",
+      "updated_at": "2026-07-15T22:42:18+00:00",
+      "title": "Argentina firade med förbjuden banderoll framför fansen",
+      "summary": "Trots förbud om banderoller med politiska budskap firade de argentinska spelarna segern mot England med att veckla ut en banderoll kopplat till Falklandsöarna. Nu väntar straff från Fifa, enligt argentinska uppgifter",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.46/0.44/592c68967051fc845c6a7961d6bfe238801a40ed67b166249c46ac683d657a23",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/argentina-firade-med-forbjuden-banderoll-framfor-fansen"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/argentina-firade-med-forbjuden-banderoll-framfor-fansen"
+      },
+      "confirmed_by": [],
+      "id": "argentina-firade-med-f-rbjuden-banderoll-framf-r-fansen"
+    },
+    {
+      "published_at": "2026-07-15T22:34:39+00:00",
+      "updated_at": "2026-07-15T22:34:39+00:00",
+      "title": "Kritiken mot Thomas Tuchel efter semiförlusten: ”Ber om problem”",
+      "summary": "England föll mot Argentina i VM-semifinalen. Nu riktas kritiken mot Thomas Tuchels val av byten. – Om man låter Argentina ta över ber man om problem, säger Wayne Rooney till BBC",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.23/0.34/085bbc6a3f1316a8d2a52036f204ab5e0e1adfc0f3aa99cbde67d6eab766c7e5",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/kritiken-mot-thomas-tuchel-efter-semiforlusten-ber-om-problem"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/kritiken-mot-thomas-tuchel-efter-semiforlusten-ber-om-problem"
+      },
+      "confirmed_by": [],
+      "id": "kritiken-mot-thomas-tuchel-efter-semif-rlusten-ber-om-problem"
+    },
+    {
       "published_at": "2026-07-15T21:02:52+00:00",
       "updated_at": "2026-07-15T21:02:52+00:00",
       "title": "Argentina klart för VM-final – efter jättedrama på tilläggstid",
-      "summary": "England hade ena benet i VM-final, men efter två sena mål vände Argentina och vann. Regerande mästarna Argentina är därmed klara för sin andra raka VM-final",
+      "summary": "England hade ena benet i VM-final, men efter två sena mål vände Argentina. – Det här betyder mer för mig än ett mål, mer än en final, säger en tårögd Lautaro Martinez, som skickade Argentina till landets andra raka final med sitt 2–1-mål",
       "category": [
         "Sverige"
       ],
@@ -926,60 +1032,6 @@
       "id": "bojan-djordjic-han-r-spaniens-viktigaste-spelare"
     },
     {
-      "published_at": "2026-07-15T03:18:24+00:00",
-      "updated_at": "2026-07-15T03:18:24+00:00",
-      "title": "Englands strategi för att stoppa Messi: ”Har tänkt på det”",
-      "summary": "De lyckades stoppa Erling Braut Haaland i kvartsfinalen – men frågan är om inte nästa hinder är ännu svårare. Att stoppa en formtoppad Lionel Messi. – Han ser saker tidigare än alla andra, säger Englands förbundskapten Thomas Tuchel",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "lionel-messi",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.8/0.32/917bc242df2b603f5d915d13848bbbf7159a807ba75e4f592bdea8befc8dd108",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/englands-strategi-for-att-stoppa-messi-har-tankt-pa-det"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/englands-strategi-for-att-stoppa-messi-har-tankt-pa-det"
-      },
-      "confirmed_by": [],
-      "id": "englands-strategi-f-r-att-stoppa-messi-har-t-nkt-p-det"
-    },
-    {
-      "published_at": "2026-07-14T22:46:23+00:00",
-      "updated_at": "2026-07-14T22:46:23+00:00",
-      "title": "Reaktionerna efter Frankrikes förlust: ”Fiaskot i Dallas”",
-      "summary": "I fransk media håller man inte tillbaka efter förlusten mot Spanien. – Digne och Olise misslyckades med allt, skriver L'équipe i sitt spelarbetyg",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.26/0.31/208e8eece6e3d859af24d09878d1fefe14ea235b2d866541e3a3a21416e08543",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/reaktionerna-efter-frankrikes-forlust-fiaskot-i-dallas"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/reaktionerna-efter-frankrikes-forlust-fiaskot-i-dallas"
-      },
-      "confirmed_by": [],
-      "id": "reaktionerna-efter-frankrikes-f-rlust-fiaskot-i-dallas"
-    },
-    {
       "published_at": "2026-07-15T18:02:00+00:00",
       "updated_at": "2026-07-15T18:02:00+00:00",
       "title": "Aston Villa latest: Manzambi set for Villa medical on Thursday",
@@ -1035,35 +1087,6 @@
       "id": "man-utd-latest-ugarte-undergoes-surgery-after-world-cup-knee-injury"
     },
     {
-      "published_at": "2026-07-15T10:45:00+00:00",
-      "updated_at": "2026-07-15T10:45:00+00:00",
-      "title": "West Ham latest: Roma hold further talks with Summerville reps over move",
-      "summary": "Read the full report at Sky Sports.",
-      "category": [
-        "Premier League",
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/25/10/1600x900/skysports-west-ham-news-club_7039266.jpg?20251002160718",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13210475/west-ham-latest-news"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13210475/west-ham-latest-news"
-      },
-      "confirmed_by": [],
-      "id": "west-ham-latest-roma-hold-further-talks-with-summerville-reps-over-move"
-    },
-    {
       "published_at": "2026-07-15T10:20:00+00:00",
       "updated_at": "2026-07-15T10:20:00+00:00",
       "title": "Arsenal still interested in Alvarez as Tzolis move explored",
@@ -1091,33 +1114,6 @@
       },
       "confirmed_by": [],
       "id": "arsenal-still-interested-in-alvarez-as-tzolis-move-explored"
-    },
-    {
-      "published_at": "2026-07-15T09:00:00+00:00",
-      "updated_at": "2026-07-15T09:00:00+00:00",
-      "title": "Why Cubarsi 'will be one of the top five centre-backs in history'",
-      "summary": "He is Barcelona’s teenage wonderkid, inspiring Spain to the brink of World Cup glory. Even more significant than the extraordinary young winger has been the contribution by Pau Cubarsi in the centre of defence",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-paul-cubarsi-spain_7293000.jpg?20260708142745",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13429060/pau-cubarsi-is-spains-other-teenage-star-at-this-world-cup-and-will-be-one-of-the-top-five-centre-backs-in-history"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13429060/pau-cubarsi-is-spains-other-teenage-star-at-this-world-cup-and-will-be-one-of-the-top-five-centre-backs-in-history"
-      },
-      "confirmed_by": [],
-      "id": "why-cubarsi-will-be-one-of-the-top-five-centre-backs-in-history"
     },
     {
       "published_at": "2026-07-14T18:43:00+00:00",
@@ -1226,60 +1222,6 @@
       },
       "confirmed_by": [],
       "id": "the-times-bara-en-person-tog-beslut-om-balogun"
-    },
-    {
-      "published_at": "2026-07-12T23:09:46+00:00",
-      "updated_at": "2026-07-12T23:09:46+00:00",
-      "title": "\"Londonderby - nu kan Spurs rädda kontraktet\"",
-      "summary": "\"Londonderby - nu kan Spurs rädda kontraktet\" Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "londonderby-nu-kan-spurs-r-dda-kontraktet"
-    },
-    {
-      "published_at": "2026-07-15T19:31:52+00:00",
-      "updated_at": "2026-07-15T19:31:52+00:00",
-      "title": "Kylian Mbappé feels sands of time shifting as France suffer fresh World Cup angst",
-      "summary": "France’s captain has played with a sense of unfinished business but he will be 31 when the next World Cup begins It was only last month that Kylian Mbappé suggested all roads may lead to Florida. He was in sufficiently mischievous mood to reveal David Beckham had been chewing his ear off about a move to Major League Soccer, dangling the prospect of a reunion with Lionel Messi at Inter Miami. “We will see, I don’t know,” he said.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/95f751dfd55da8d4506da468309a987f47029ccd/244_504_3707_2966/master/3707.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=74bf5822338cb8ebeaa2eb3c15155155",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/15/kylian-mbappe-next-chapter-world-cup-angst"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/15/kylian-mbappe-next-chapter-world-cup-angst"
-      },
-      "confirmed_by": [],
-      "id": "kylian-mbapp-feels-sands-of-time-shifting-as-france-suffer-fresh-world-cup-angst"
     },
     {
       "published_at": "2026-07-15T19:19:01+00:00",
@@ -1415,6 +1357,60 @@
       },
       "confirmed_by": [],
       "id": "klart-ny-fan-zone-p-falcon-alkoholfri-arena-d-invigs-den"
+    },
+    {
+      "published_at": "2026-07-16T00:34:00+00:00",
+      "updated_at": "2026-07-16T00:34:00+00:00",
+      "title": "How the papers reacted to England's World Cup semi-final loss",
+      "summary": "The latest news and breaking lines from the world of football",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-anthony-gordon-england_7298642.jpg?20260715231312",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
+      },
+      "confirmed_by": [],
+      "id": "how-the-papers-reacted-to-england-s-world-cup-semi-final-loss"
+    },
+    {
+      "published_at": "2026-07-15T23:34:00+00:00",
+      "updated_at": "2026-07-15T23:34:00+00:00",
+      "title": "Pundits and reporters criticise Tuchel's tactics in loss to Argentina",
+      "summary": "England football news: Live updates, schedule and analysis of Thomas Tuchels Three Lions",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/25/09/1600x900/skysports-england-tuchel-thomas_7014353.jpg?20250908122212",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions"
+      },
+      "confirmed_by": [],
+      "id": "pundits-and-reporters-criticise-tuchel-s-tactics-in-loss-to-argentina"
     },
     {
       "published_at": "2026-07-15T18:50:00+00:00",
