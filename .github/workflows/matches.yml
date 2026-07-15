@@ -1,0 +1,33 @@
+name: Uppdatera matcher, tabeller och prognoser
+
+on:
+  schedule:
+    - cron: '0 */3 * * *' # Var 3:e timme
+  workflow_dispatch: # Gör att du kan starta uppdateringen manuellt från GitHubs hemsida
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check ut kod
+      uses: actions/checkout@v4
+
+    - name: Installera Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Kör matches-script
+      run: python matches.py
+      env:
+        FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+        APIFOOTBALL_KEY: ${{ secrets.APIFOOTBALL_KEY }}
+
+    - name: Commit och pusha ändringar till GitHub
+      run: |
+        git config --global user.name 'fotbollsbriefen-bot'
+        git config --global user.email 'bot@fotbollsbriefen.se'
+        git add matches.json
+        git commit -m "Uppdatera matcher, tabeller och prognoser" || exit 0
+        git push
