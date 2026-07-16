@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-07-16T19:13:03.644107+00:00",
+  "updated_at": "2026-07-16T21:00:28.724995+00:00",
   "items": [
+    {
+      "published_at": "2026-07-16T18:24:16+00:00",
+      "updated_at": "2026-07-16T18:24:16+00:00",
+      "title": "Forest set to make £45m offer for Spurs' Bergvall",
+      "summary": "Nottingham Forest are set to make an offer of £45m for Tottenham midfielder Lucas Bergvall",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bc43/live/68d7a5a0-813c-11f1-b525-63787292c170.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cp3052zlvwqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cp3052zlvwqo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "id": "forest-set-to-make-45m-offer-for-spurs-bergvall"
+    },
     {
       "published_at": "2026-07-16T15:12:20+00:00",
       "updated_at": "2026-07-16T15:12:20+00:00",
@@ -153,33 +189,6 @@
         }
       ],
       "id": "keir-starmer-wants-fifa-investigation-into-argentina-players-who-held-falklands-banner"
-    },
-    {
-      "published_at": "2026-07-16T18:24:16+00:00",
-      "updated_at": "2026-07-16T18:24:16+00:00",
-      "title": "Forest set to make £45m offer for Spurs' Bergvall",
-      "summary": "Nottingham Forest are set to make an offer of £45m for Tottenham midfielder Lucas Bergvall",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bc43/live/68d7a5a0-813c-11f1-b525-63787292c170.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cp3052zlvwqo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cp3052zlvwqo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "forest-set-to-make-45m-offer-for-spurs-bergvall"
     },
     {
       "published_at": "2026-07-16T18:12:38+00:00",
@@ -381,42 +390,6 @@
         }
       ],
       "id": "dominik-szoboszlai-agrees-liverpool-deal-as-aston-villa-go-for-jo-o-gomes"
-    },
-    {
-      "published_at": "2026-07-10T21:13:02+00:00",
-      "updated_at": "2026-07-10T21:13:02+00:00",
-      "title": "Merino puts Spain into World Cup semi-finals as Belgium rue costly Courtois injury",
-      "summary": "Mikel Merino’s amazing moment arrived once more, an entire country circling the corner flag with him as football, which somehow always finds a way, provided another absurdly tall tale. The man who came on to score the late, late goals that took Spain into a European championship semi-final two years ago and a World Cup quarter-final four days ago, only went and did it again. And this time it was even better, his two-month old son Marco, who he has hardly seen, in attendance here.",
-      "category": [
-        "Injury"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-lamine-yamal-spain_7299423.jpg?20260716180955",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/10/spain-belgium-world-cup-2026-quarter-final-match-report"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
-      },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/10/spain-belgium-world-cup-2026-quarter-final-match-report"
-        }
-      ],
-      "id": "merino-puts-spain-into-world-cup-semi-finals-as-belgium-rue-costly-courtois-injury"
     },
     {
       "published_at": "2026-07-16T15:05:00+00:00",
@@ -753,6 +726,33 @@
       "id": "juli-n-lvarez-s-extra-time-stunner-sinks-10-man-switzerland-to-send-argentina-into-semi-fi"
     },
     {
+      "published_at": "2026-07-10T21:13:02+00:00",
+      "updated_at": "2026-07-10T21:13:02+00:00",
+      "title": "Merino puts Spain into World Cup semi-finals as Belgium rue costly Courtois injury",
+      "summary": "Mikel Merino’s amazing moment arrived once more, an entire country circling the corner flag with him as football, which somehow always finds a way, provided another absurdly tall tale. The man who came on to score the late, late goals that took Spain into a European championship semi-final two years ago and a World Cup quarter-final four days ago, only went and did it again. And this time it was even better, his two-month old son Marco, who he has hardly seen, in attendance here.",
+      "category": [
+        "Injury"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/8cdf2ebf46ebe71318396a389c2bda5f5fb759b4/751_0_4261_3411/master/4261.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3840ca158fe6d5a365ebbe72f94dc4c",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/10/spain-belgium-world-cup-2026-quarter-final-match-report"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/10/spain-belgium-world-cup-2026-quarter-final-match-report"
+      },
+      "confirmed_by": [],
+      "id": "merino-puts-spain-into-world-cup-semi-finals-as-belgium-rue-costly-courtois-injury"
+    },
+    {
       "published_at": "2026-07-14T10:10:10+00:00",
       "updated_at": "2026-07-14T10:10:10+00:00",
       "title": "Sam Larsson återvänder till IFK Göteborg: ”En dundervärvning”",
@@ -888,6 +888,60 @@
       },
       "confirmed_by": [],
       "id": "panel-inf-r-matchen-mot-kalmar"
+    },
+    {
+      "published_at": "2026-07-16T20:58:18+00:00",
+      "updated_at": "2026-07-16T20:58:18+00:00",
+      "title": "Se när Hideki Matsuyama slår ur bunkern i The Open – sittandes",
+      "summary": "Hideki Matsuyma hamnade i rejält trubbel på hål 17 i The Open. Men japanen löste det galant – sittandes. – Han har gjort sin pilatesträning, säger Viaplays kommentator Johan Ryström",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.73/0.47/9dada75c931b8f34e9be44671002aab1c856b1057f222e5dbdf24a46f28ddb8d",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/golf/se-nar-hideki-matsuyama-slar-ur-bunkern-i-the-open-sittandes"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/golf/se-nar-hideki-matsuyama-slar-ur-bunkern-i-the-open-sittandes"
+      },
+      "confirmed_by": [],
+      "id": "se-n-r-hideki-matsuyama-sl-r-ur-bunkern-i-the-open-sittandes"
+    },
+    {
+      "published_at": "2026-07-16T19:35:05+00:00",
+      "updated_at": "2026-07-16T19:35:05+00:00",
+      "title": "Trög start för Ludvig Åberg i The Open: ”Jag håller mig kvar”",
+      "summary": "Den största svenska stjärnan Ludvig Åberg fick en trög start på The Open. 26-åringen gick runt på 71 slag och ligger på delad 60:e plats – sex slag från täten",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.37/0.6/abeaa16740e784568eba7b10bb7f3513547312d63e5c952eeb2bdba046a7442d",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/golf/trog-start-for-ludvig-aberg-i-the-open"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/golf/trog-start-for-ludvig-aberg-i-the-open"
+      },
+      "confirmed_by": [],
+      "id": "tr-g-start-f-r-ludvig-berg-i-the-open-jag-h-ller-mig-kvar"
     },
     {
       "published_at": "2026-07-16T12:11:19+00:00",
@@ -1052,64 +1106,10 @@
       "id": "argentina-klart-f-r-vm-final-efter-j-ttedrama-p-till-ggstid"
     },
     {
-      "published_at": "2026-07-15T16:29:32+00:00",
-      "updated_at": "2026-07-15T16:29:32+00:00",
-      "title": "Så blev svenske VM-spelaren Elliot Stroud viral i Argentina",
-      "summary": "Efter en överraskande plats i Sveriges startelva i 16-delsfinalen mot Frankrike lärde sig många nya svenskar Elliot Strouds namn. Men under VM väckte Mjällbyspelaren även medial uppmärksamhet i ett annat land. – Man har tydligen gått och blivit stor i Argentina också, säger Elliot Stroud till SVT Sport",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.32/0.19/0841cf68158a0efb94e1eaa6183aece8f16a39998ba46a53c8810dbafde77a98",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/sa-blev-svenske-vm-spelaren-elliot-stroud-viral-i-argentina"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/sa-blev-svenske-vm-spelaren-elliot-stroud-viral-i-argentina"
-      },
-      "confirmed_by": [],
-      "id": "s-blev-svenske-vm-spelaren-elliot-stroud-viral-i-argentina"
-    },
-    {
-      "published_at": "2026-07-15T14:29:26+00:00",
-      "updated_at": "2026-07-15T14:29:26+00:00",
-      "title": "Pontus Wernbloom om krisen i IFK Göteborg: ”Varit horribelt”",
-      "summary": "IFK Göteborg är i högsta grad indraget i bottenstriden. Ytterligare en gång råder det kris i storklubben. – Jag lägger väldigt mycket av ansvaret det här året på spelarna.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.8/0.37/e3d2f91c78de4a001a076e4f38c9bf946425eb0c05fcab30adbed096361ffaa1",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/pontus-wernbloom-om-krisen-i-ifk-goteborg-varit-horribelt"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/pontus-wernbloom-om-krisen-i-ifk-goteborg-varit-horribelt"
-      },
-      "confirmed_by": [],
-      "id": "pontus-wernbloom-om-krisen-i-ifk-g-teborg-varit-horribelt"
-    },
-    {
-      "published_at": "2026-07-16T14:35:00+00:00",
-      "updated_at": "2026-07-16T14:35:00+00:00",
-      "title": "The big questions facing Tuchel and England after World Cup exit",
-      "summary": "After England's World Cup semi-final defeat to Argentina, Sky Sports looks at the big questions facing Thomas Tuchel and the Three Lions squad",
+      "published_at": "2026-07-16T20:00:00+00:00",
+      "updated_at": "2026-07-16T20:00:00+00:00",
+      "title": "Tuchel blames English football's 'DNA' for World Cup exit",
+      "summary": "Thomas Tuchel says he is \"100 per cent\" committed to continuing his role as England boss into the next European Championships in two years, and he has hit back at critics who have questioned his tactics, saying instead it is a problem with English football's \"DNA\"",
       "category": [
         "Football"
       ],
@@ -1117,20 +1117,20 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-tuchel-england_7299091.jpg?20260716133212",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-thomas-tuchel-england_7299474.jpg?20260716192923",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13563938/england-out-of-the-world-cup-the-big-questions-facing-thomas-tuchel-and-the-three-lions-after-losing-to-argentina"
+          "url": "https://www.skysports.com/football/news/11095/13564152/thomas-tuchel-england-boss-defends-tactics-against-argentina-and-blames-english-footballs-dna-for-world-cup-exit"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13563938/england-out-of-the-world-cup-the-big-questions-facing-thomas-tuchel-and-the-three-lions-after-losing-to-argentina"
+        "url": "https://www.skysports.com/football/news/11095/13564152/thomas-tuchel-england-boss-defends-tactics-against-argentina-and-blames-english-footballs-dna-for-world-cup-exit"
       },
       "confirmed_by": [],
-      "id": "the-big-questions-facing-tuchel-and-england-after-world-cup-exit"
+      "id": "tuchel-blames-english-football-s-dna-for-world-cup-exit"
     },
     {
       "published_at": "2026-07-16T13:50:00+00:00",
@@ -1158,33 +1158,6 @@
       },
       "confirmed_by": [],
       "id": "neville-i-won-t-lump-in-on-tuchel-england-have-had-same-issues-for-years"
-    },
-    {
-      "published_at": "2026-07-16T13:30:00+00:00",
-      "updated_at": "2026-07-16T13:30:00+00:00",
-      "title": "Forget tactics, which England players failed to step up when needed most?",
-      "summary": "England's World Cup journey came to a rather dramatic end against Argentina and their exit has led to one very simple question: why?",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-england-bellingham_7299045.jpg?20260716124507",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13563953/world-cup-2026-which-england-players-stepped-up-and-who-shied-away-from-the-pressure-in-semi-final-defeat-to-argentina"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13563953/world-cup-2026-which-england-players-stepped-up-and-who-shied-away-from-the-pressure-in-semi-final-defeat-to-argentina"
-      },
-      "confirmed_by": [],
-      "id": "forget-tactics-which-england-players-failed-to-step-up-when-needed-most"
     },
     {
       "published_at": "2026-07-15T22:12:00+00:00",
@@ -1239,6 +1212,33 @@
       },
       "confirmed_by": [],
       "id": "malm-ff-v-rvar-warren-kamanzi"
+    },
+    {
+      "published_at": "2026-07-15T11:28:00+00:00",
+      "updated_at": "2026-07-15T11:28:00+00:00",
+      "title": "Malachowski fick sin drömflytt: \"Förklarade att jag verkligen ville\"",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "malachowski-fick-sin-dr-mflytt-f-rklarade-att-jag-verkligen-ville"
     },
     {
       "published_at": "2026-07-13T15:28:00+00:00",
@@ -1320,33 +1320,6 @@
       },
       "confirmed_by": [],
       "id": "stefan-billborn-vi-n-r-inte-fram"
-    },
-    {
-      "published_at": "2026-07-16T18:41:58+00:00",
-      "updated_at": "2026-07-16T18:41:58+00:00",
-      "title": "Four passes in 19 minutes: damning numbers behind England’s collapse",
-      "summary": "No successful tackles after the 63rd minute and failure to break up play through fouls also played their part in World Cup semi-final defeat There will be coaching courses of the future that use footage of England’s performance against Argentina to illustrate how not to defend a one-goal lead. If that sounds harsh, the data from the match justifies that stance. Many ugly statistics emerged once the postmortem began.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/2f05ed74d187f58893649806faeec8182d2cbdaa/62_0_3540_2832/master/3540.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2ef68c7dc5adcdc6d4c1890db3198e27",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/16/four-england-passes-19-minutes-argentina-2026-world-cup-semi-final"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/16/four-england-passes-19-minutes-argentina-2026-world-cup-semi-final"
-      },
-      "confirmed_by": [],
-      "id": "four-passes-in-19-minutes-damning-numbers-behind-england-s-collapse"
     },
     {
       "published_at": "2026-07-16T12:00:00+00:00",
