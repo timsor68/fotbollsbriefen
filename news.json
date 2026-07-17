@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T09:58:15.704174+00:00",
+  "updated_at": "2026-07-17T11:26:44.892118+00:00",
   "items": [
     {
       "published_at": "2026-07-16T18:24:16+00:00",
@@ -36,42 +36,6 @@
         }
       ],
       "id": "forest-set-to-make-45m-offer-for-spurs-bergvall"
-    },
-    {
-      "published_at": "2026-07-16T18:12:38+00:00",
-      "updated_at": "2026-07-16T18:12:38+00:00",
-      "title": "Celtic struggling to compete in transfer market - Nicholson",
-      "summary": "Celtic's lack of summer transfer activity is because they are struggling to compete with English Championship clubs and deal with agents, according to the club's chief executive Michael Nicholson",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0c2e/live/8ca4afa0-813c-11f1-b525-63787292c170.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c20erl210kdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13564215/celtic-transfer-news-scottish-premiership-champions-struggling-to-compete-in-market-meeting-notes-reveal"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c20erl210kdo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13564215/celtic-transfer-news-scottish-premiership-champions-struggling-to-compete-in-market-meeting-notes-reveal"
-        }
-      ],
-      "id": "celtic-struggling-to-compete-in-transfer-market-nicholson"
     },
     {
       "published_at": "2026-07-16T15:12:20+00:00",
@@ -145,6 +109,89 @@
         }
       ],
       "id": "how-coach-on-pitch-messi-undid-england-s-tactics-on-the-fly"
+    },
+    {
+      "published_at": "2026-07-17T10:16:57+00:00",
+      "updated_at": "2026-07-17T10:16:57+00:00",
+      "title": "What happened at Man City's loans exhibition day?",
+      "summary": "Manchester City welcome clubs to their training ground to showcase the talent that is on offer during the summer transfer window",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8dca/live/8abd2bf0-8131-11f1-b525-63787292c170.png",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cpw981n4v19o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cpw981n4v19o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "what-happened-at-man-city-s-loans-exhibition-day"
+    },
+    {
+      "published_at": "2026-07-17T10:00:16+00:00",
+      "updated_at": "2026-07-17T10:00:16+00:00",
+      "title": "Aston Villa sign defender Harviken from Juventus",
+      "summary": "Aston Villa have signed Norway international Mathilde Harviken from Juventus",
+      "category": [
+        "Premier League",
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/21aa/live/4ea0cc10-81c4-11f1-97b7-87871fc222bc.png",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c98v152z33ro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c98v152z33ro?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "aston-villa-sign-defender-harviken-from-juventus"
+    },
+    {
+      "published_at": "2026-07-17T09:59:26+00:00",
+      "updated_at": "2026-07-17T09:59:26+00:00",
+      "title": "Defender Esteve leaves Burnley to join RB Leipzig",
+      "summary": "Former France Under-21s defender Maxime Esteve leaves Burnley to join Bundesliga club RB Leipzig for a reported fee of £27.3m",
+      "category": [
+        "Bundesliga"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ea9c/live/747361e0-7f86-11f1-a47a-d94293d2b0e4.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c1mymzpzv2ko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c1mymzpzv2ko?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "defender-esteve-leaves-burnley-to-join-rb-leipzig"
     },
     {
       "published_at": "2026-07-17T09:30:47+00:00",
@@ -256,61 +303,6 @@
       },
       "confirmed_by": [],
       "id": "sheffield-united-manager-wilder-extends-contract"
-    },
-    {
-      "published_at": "2026-07-16T21:55:52+00:00",
-      "updated_at": "2026-07-16T21:55:52+00:00",
-      "title": "Arsenal to assess Saliba back injury with surgery an option",
-      "summary": "Arsenal will assess William Saliba's back injury when he reports back to the club after World Cup duty",
-      "category": [
-        "Premier League",
-        "Injury"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7644/live/e5da6f10-815f-11f1-b220-2f707fe15ddf.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cp87np4282po?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cp87np4282po?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "arsenal-to-assess-saliba-back-injury-with-surgery-an-option"
-    },
-    {
-      "published_at": "2026-07-16T16:54:37+00:00",
-      "updated_at": "2026-07-16T16:54:37+00:00",
-      "title": "Palace sign England Under-23 striker Lloyd-Smith",
-      "summary": "Crystal Palace sign last season's WSL2 top scorer Lexi Lloyd-Smith on a three-year deal",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/379c/live/078ca170-8136-11f1-b525-63787292c170.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cz64xe19dy8o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cz64xe19dy8o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "palace-sign-england-under-23-striker-lloyd-smith"
     },
     {
       "published_at": "2026-07-16T14:00:08+00:00",
@@ -430,33 +422,6 @@
       },
       "confirmed_by": [],
       "id": "papers-tuchel-unhappy-with-mainoo-training-during-world-cup"
-    },
-    {
-      "published_at": "2026-07-16T15:05:00+00:00",
-      "updated_at": "2026-07-16T15:05:00+00:00",
-      "title": "Tzolis: Arsenal's new 'warrior mode' winger - and perfect Trossard replacement",
-      "summary": "In Christos Tzolis, Arsenal's first outfield signing since becoming Premier League champions is a fairly surprising one. But nobody will be more stunned about this deal than Norwich fans",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "leandro-trossard",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-tzolis-arsenal_7299212.jpg?20260716153304",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13564054/christos-tzolis-arsenal-set-to-have-a-new-warrior-mode-winger-who-is-the-perfect-replacement-for-leandro-trossard"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13564054/christos-tzolis-arsenal-set-to-have-a-new-warrior-mode-winger-who-is-the-perfect-replacement-for-leandro-trossard"
-      },
-      "confirmed_by": [],
-      "id": "tzolis-arsenal-s-new-warrior-mode-winger-and-perfect-trossard-replacement"
     },
     {
       "published_at": "2026-07-17T08:36:58+00:00",
@@ -1057,10 +1022,10 @@
       "id": "liverpool-latest-szoboszlai-in-advanced-talks-over-new-deal"
     },
     {
-      "published_at": "2026-07-17T10:00:00+00:00",
-      "updated_at": "2026-07-17T10:00:00+00:00",
-      "title": "'I couldn't watch football...it was torture' - Wickham on 18 months without a club",
-      "summary": "Three months into his second season at Crystal Palace - following a £9m move from Sunderland in the summer of 2015 - the trajectory of Connor Wickham's career changed",
+      "published_at": "2026-07-17T12:00:00+00:00",
+      "updated_at": "2026-07-17T12:00:00+00:00",
+      "title": "Pep's prediction correct as Rodri returns to dominant best",
+      "summary": "Rodri came in for some criticism in Spain after they were held to a goalless draw by Cape Verde in their first game of the World Cup. There were accusations that he had moved the ball too slowly; that he was in some way responsible for the result",
       "category": [
         "Football"
       ],
@@ -1068,20 +1033,47 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-connor-wickham-sunderland_7297507.jpg?20260714160243",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-rodri-spain_7299283.jpg?20260716162114",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13563309/connor-wickham-interview"
+          "url": "https://www.skysports.com/football/news/11095/13564001/rodri-man-city-and-spain-midfielder-still-setting-the-standard-as-pep-guardiolas-world-cup-prediction-proves-accurate"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13563309/connor-wickham-interview"
+        "url": "https://www.skysports.com/football/news/11095/13564001/rodri-man-city-and-spain-midfielder-still-setting-the-standard-as-pep-guardiolas-world-cup-prediction-proves-accurate"
       },
       "confirmed_by": [],
-      "id": "i-couldn-t-watch-football-it-was-torture-wickham-on-18-months-without-a-club"
+      "id": "pep-s-prediction-correct-as-rodri-returns-to-dominant-best"
+    },
+    {
+      "published_at": "2026-07-17T11:47:00+00:00",
+      "updated_at": "2026-07-17T11:47:00+00:00",
+      "title": "Bowen commits future to West Ham despite relegation",
+      "summary": "Jarrod Bowen has committed his future to West Ham despite their relegation from the Premier League",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/04/1600x900/skysports-jarrod-bowen-west-ham_7214077.jpg?20260408113947",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13564319/jarrod-bowen-transfer-news-west-ham-commits-future-to-club-despite-relegation-from-premier-league"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13564319/jarrod-bowen-transfer-news-west-ham-commits-future-to-club-despite-relegation-from-premier-league"
+      },
+      "confirmed_by": [],
+      "id": "bowen-commits-future-to-west-ham-despite-relegation"
     },
     {
       "published_at": "2026-07-16T20:00:00+00:00",
@@ -1273,10 +1265,10 @@
       "id": "stefan-billborn-vi-n-r-inte-fram"
     },
     {
-      "published_at": "2026-07-11T12:09:45+00:00",
-      "updated_at": "2026-07-11T12:09:45+00:00",
-      "title": "Andersson och Helm ordnade AIK-seger mot Mjällby",
-      "summary": "Andersson och Helm ordnade AIK-seger mot Mjällby Fotbollskanalen",
+      "published_at": "2026-07-12T13:55:00+00:00",
+      "updated_at": "2026-07-12T13:55:00+00:00",
+      "title": "FEM SPANINGAR: Bajen á la Rydström ser bra ut",
+      "summary": "FEM SPANINGAR: Bajen á la Rydström ser bra ut Fotbollskanalen",
       "category": [
         "Sverige"
       ],
@@ -1297,7 +1289,61 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "andersson-och-helm-ordnade-aik-seger-mot-mj-llby"
+      "id": "fem-spaningar-bajen-la-rydstr-m-ser-bra-ut"
+    },
+    {
+      "published_at": "2026-07-17T11:00:06+00:00",
+      "updated_at": "2026-07-17T11:00:06+00:00",
+      "title": "BBC v ITV: who won the UK’s battle of the World Cup 2026 broadcasters?",
+      "summary": "Danny Murphy’s decision to start talking about his deceased cat will haunt the rest of his career while Christina Unkel’s referee analysis was no-nonsense and to the point The final may be Argentina v Spain, but ardent media watchers in the UK know that in broadcasting terms, a World Cup is always a domestic battle between the BBC and ITV. So who won on these important criteria?",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/a7a617b07b9126cd3f6b5ea01e159ca647a6f4b3/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bc38e46b49b6ddde3a0fa014c1702382",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/17/world-cup-bbc-itv-broadcast-battle"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/17/world-cup-bbc-itv-broadcast-battle"
+      },
+      "confirmed_by": [],
+      "id": "bbc-v-itv-who-won-the-uk-s-battle-of-the-world-cup-2026-broadcasters"
+    },
+    {
+      "published_at": "2026-07-17T10:56:48+00:00",
+      "updated_at": "2026-07-17T10:56:48+00:00",
+      "title": "England need fearless passers and three Tuchel omissions may point the way",
+      "summary": "Technical class in the fiercest battles was again lacking at the World Cup but there is hope amid the soul-searching The post-match inquest into England’s elimination was almost over when Thomas Tuchel offered a revealing analysis of Argentina’s knack of instigating late comebacks at this World Cup. “In their culture, ball possession plays a crucial role. It starts from a young age,” he said.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/8aacd06f205480ce241ea40dafa231130c2ccfc3/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e67d95348adf1849707a8754714c5f94",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/17/england-passing-world-cup-thomas-tuchel"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/17/england-passing-world-cup-thomas-tuchel"
+      },
+      "confirmed_by": [],
+      "id": "england-need-fearless-passers-and-three-tuchel-omissions-may-point-the-way"
     },
     {
       "published_at": "2026-07-17T09:00:03+00:00",
@@ -1354,58 +1400,85 @@
       "id": "pitbull-concert-forces-historic-champions-league-qualifier-in-lithuania-to-move"
     },
     {
-      "published_at": "2026-07-17T00:00:22+00:00",
-      "updated_at": "2026-07-17T00:00:22+00:00",
-      "title": "Canberra United’s A-League Women future secured as date set for Men’s team entry",
-      "summary": "Australian Sports Group takes over licence from Capital Football New owner has option to introduce ALM side for the 2028/29 season The future of Canberra United has been secured, with a new owner found for the two-time A-League Women champions. After two years of uncertainty, the Australian Professional Leagues (APL) announced on Friday that Australian Sports Group (ASG) has taken charge of Canberra’s licence.",
+      "published_at": "2026-07-17T11:00:00+00:00",
+      "updated_at": "2026-07-17T11:00:00+00:00",
+      "title": "TV-guide: IFK Göteborg – Brommapojkarna – så kan du se matchen",
+      "summary": "Under fredagskvällen möter IFK Göteborg Brommapojkarna i Allsvenskan. Här är allt om hur du kan se matchen live på TV eller streaming",
       "category": [
-        "Football"
+        "Sverige"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://i.guim.co.uk/img/media/3efb414068e2df6b82bc93832578acf0939dec40/347_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8878605e27c8a24cc9288ea9d58734ad",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/4J41mCicvIRSkvtaUeDY2OZ5Z8RpFvIrgTVYpqEr.jpg",
       "sources": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/17/canberra-united-a-league-women-club-football-new-owner"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/tv-guide-ifk-goteborg-brommapojkarna-sa-kan-du-se-matchen-698188"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/17/canberra-united-a-league-women-club-football-new-owner"
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/tv-guide-ifk-goteborg-brommapojkarna-sa-kan-du-se-matchen-698188"
       },
       "confirmed_by": [],
-      "id": "canberra-united-s-a-league-women-future-secured-as-date-set-for-men-s-team-entry"
+      "id": "tv-guide-ifk-g-teborg-brommapojkarna-s-kan-du-se-matchen"
     },
     {
-      "published_at": "2026-07-16T21:18:02+00:00",
-      "updated_at": "2026-07-16T21:18:02+00:00",
-      "title": "The bigger picture: Tuchel gets blame for England exit but this is not only about him | Barney Ronay",
-      "summary": "German will be pilloried for his semi-final decisions but that is to ignore the fact English football culture is not set up to win major tournaments “I wanted it to be you. I wanted it to be you so badly.” As England’s World Cup hopes recede into another spell of heartache , let down in Atlanta by the latest handsome, cadaverous Mr Right, a little sadder, not much wiser, sunburnt, broke, eating Jägerbomb ice cream out of the tub with a spoon, this is a good moment to seek some classic New York romcom solace. Be incredibly angry and frustrated on the radio that it happened at all.",
+      "published_at": "2026-07-17T10:00:00+00:00",
+      "updated_at": "2026-07-17T10:00:00+00:00",
+      "title": "Friday I’m in Love: Är det så här det känns att njuta av fotbollen igen?",
+      "summary": "Jag ska inte överdriva, vi har det bra i Malmö när det kommer till fotbollen. Men vi har blivit bortskämda med fina resultat under en lång tid att vi numera kanske har svårt att riktigt ta in att det inte alltid går lika bra.",
       "category": [
-        "Football"
+        "Sverige"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://i.guim.co.uk/img/media/104231e3779e255116cb27cc7bdcf666fea6381c/214_0_2138_1711/master/2138.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=199572b2570f6efe602a89df842ee56c",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/3mSU2StpYatUUw9y8tmerVZEuqo2WKXvI2GaxRtU.png",
       "sources": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/16/thomas-tuchel-england-2026-world-cup-semi-final-exit-argentina"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/friday-im-in-love-ar-det-sa-har-det-kanns-att-njuta-av-fotbollen-igen-698183"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/16/thomas-tuchel-england-2026-world-cup-semi-final-exit-argentina"
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/friday-im-in-love-ar-det-sa-har-det-kanns-att-njuta-av-fotbollen-igen-698183"
       },
       "confirmed_by": [],
-      "id": "the-bigger-picture-tuchel-gets-blame-for-england-exit-but-this-is-not-only-about-him-barne"
+      "id": "friday-i-m-in-love-r-det-s-h-r-det-k-nns-att-njuta-av-fotbollen-igen"
+    },
+    {
+      "published_at": "2026-07-17T10:00:00+00:00",
+      "updated_at": "2026-07-17T10:00:00+00:00",
+      "title": "Panelen om Blåvitts kräftgång: ”Verkar ha nio liv”",
+      "summary": "IFK Göteborg är åter i sportslig kris. Den allsvenska panelen snackar upp helgens omgång och besvarar den evigt aktuella frågan: Är det i år Blåvitt åker ur Allsvenskan?",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/W9KY16ft3lisdwmuAcGPwP7dzABItLXfkCi5Hjn2.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/panelen-om-blavitts-kraftgang-verkar-ha-nio-liv-698182"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/panelen-om-blavitts-kraftgang-verkar-ha-nio-liv-698182"
+      },
+      "confirmed_by": [],
+      "id": "panelen-om-bl-vitts-kr-ftg-ng-verkar-ha-nio-liv"
     },
     {
       "published_at": "2026-07-17T04:32:00+00:00",
@@ -1434,87 +1507,6 @@
       },
       "confirmed_by": [],
       "id": "rytting-kaneryd-i-lyon-d-rf-r-tror-jag-att-wingback-passar-henne"
-    },
-    {
-      "published_at": "2026-07-16T12:00:00+00:00",
-      "updated_at": "2026-07-16T12:00:00+00:00",
-      "title": "Sommarsilly Västerås – vad händer med Ladefoged?",
-      "summary": "Mikkel Ladefoged har gjort succé i Allsvenskan under våren med nio mål. När sommarfönstret öppnar är dansken het på marknaden. Stefan Fredriksson Bohm på VSK-redaktionen går igenom klubbens Silly Season",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/QuhJ0R2pbcUVqRx0TMRdqUya7p37Wli8Fc8wFbnX.png",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/sommarsilly-vasteras-vad-hander-med-ladefoged-698139"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/sommarsilly-vasteras-vad-hander-med-ladefoged-698139"
-      },
-      "confirmed_by": [],
-      "id": "sommarsilly-v-ster-s-vad-h-nder-med-ladefoged"
-    },
-    {
-      "published_at": "2026-07-16T11:22:00+00:00",
-      "updated_at": "2026-07-16T11:22:00+00:00",
-      "title": "Dags för ny match – målvakt gör comeback",
-      "summary": "Klockan 18.00 imorgon, fredag, spelar FFF en ny träningsmatch inför omstarten i Superettan på tisdag.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/qTz5IoQWrrA7Mc7qKzGbH9mTekDutfv3VzJnySLU.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/malvakt-gor-comeback-imorgon-698169"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/malvakt-gor-comeback-imorgon-698169"
-      },
-      "confirmed_by": [],
-      "id": "dags-f-r-ny-match-m-lvakt-g-r-comeback"
-    },
-    {
-      "published_at": "2026-07-16T10:55:00+00:00",
-      "updated_at": "2026-07-16T10:55:00+00:00",
-      "title": "Efter bråket: Imam Jagne lånas ut",
-      "summary": "Efter IFK Göteborgs bortamatch mot Malmö FF bekräftade Billborn att Jagne förhandlar med en annan klubb. Nu meddelar Blåvitt att mittfältaren lånas ut till grekiska Kifisia",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2092665.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/efter-braket-imam-jagne-lanas-ut-698167"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/efter-braket-imam-jagne-lanas-ut-698167"
-      },
-      "confirmed_by": [],
-      "id": "efter-br-ket-imam-jagne-l-nas-ut"
     },
     {
       "published_at": "2026-07-16T18:00:00+00:00",
