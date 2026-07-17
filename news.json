@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-07-17T17:13:29.749185+00:00",
+  "updated_at": "2026-07-17T19:11:34.356222+00:00",
   "items": [
+    {
+      "published_at": "2026-07-15T22:40:05+00:00",
+      "updated_at": "2026-07-15T22:40:05+00:00",
+      "title": "'No regrets' - Tuchel on England's defeat by Argentina",
+      "summary": "A number of England players - including more than one senior player - were bemused by Thomas Tuchel's defensive substitutions in the World Cup semi-final against Argentina, Sky Sports News understands",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3973/live/6f51c780-809c-11f1-bee8-53ce494e1abc.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c62v3q3qp99o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13564497/some-england-players-bemused-by-thomas-tuchel-subs-in-argentina-world-cup-semi-final-defeat"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c62v3q3qp99o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13564497/some-england-players-bemused-by-thomas-tuchel-subs-in-argentina-world-cup-semi-final-defeat"
+        }
+      ],
+      "id": "no-regrets-tuchel-on-england-s-defeat-by-argentina"
+    },
     {
       "published_at": "2026-07-17T11:22:43+00:00",
       "updated_at": "2026-07-17T11:22:43+00:00",
@@ -46,9 +82,73 @@
       "id": "jarrod-bowen-declares-intention-to-stay-at-west-ham-despite-relegation"
     },
     {
+      "published_at": "2026-07-17T18:04:00+00:00",
+      "updated_at": "2026-07-17T18:04:00+00:00",
+      "title": "Villa sign Newcastle target Manzambi in club-record deal",
+      "summary": "Aston Villa have beaten Newcastle to the signing of Johan Manzambi after completing a club-record £59.5m deal for the midfielder from Freiburg",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4798/live/e028a970-8203-11f1-926f-c90d1bcfbc84.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cj365336l52o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13564492/johan-manzambi-aston-villa-sign-newcastle-target-from-freiburg-in-club-record-59-5m-deal"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cj365336l52o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13564492/johan-manzambi-aston-villa-sign-newcastle-target-from-freiburg-in-club-record-59-5m-deal"
+        }
+      ],
+      "id": "villa-sign-newcastle-target-manzambi-in-club-record-deal"
+    },
+    {
+      "published_at": "2026-07-17T17:36:52+00:00",
+      "updated_at": "2026-07-17T17:36:52+00:00",
+      "title": "'It hurts' - Saints boss Eckert on Spygate judgement",
+      "summary": "Southampton head coach Tonda Eckert admits it has been \"tough to read\" judgement on his role in the scandal that saw the club kicked out of the Championship play-offs",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a462/live/e8ab6090-81e7-11f1-9b73-1d2c7fa8d439.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cgr7yww1n48o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cgr7yww1n48o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "it-hurts-saints-boss-eckert-on-spygate-judgement"
+    },
+    {
       "published_at": "2026-07-17T16:57:31+00:00",
       "updated_at": "2026-07-17T16:57:31+00:00",
-      "title": "Gordon leaves Scotland a legend - but who comes next?",
+      "title": "Who could follow as Gordon leaves Scotland as a legend?",
       "summary": "Craig Gordon has retired as a goalkeeping legend with Heart of Midlothian and Scotland, but what is his legacy and who can succeed him with the national team?",
       "category": [
         "Football"
@@ -70,7 +170,7 @@
         "url": "https://www.bbc.co.uk/sport/football/articles/cly5vvl87v0o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "gordon-leaves-scotland-a-legend-but-who-comes-next"
+      "id": "who-could-follow-as-gordon-leaves-scotland-as-a-legend"
     },
     {
       "published_at": "2026-07-17T16:45:47+00:00",
@@ -209,89 +309,6 @@
       "id": "birmingham-city-sign-canada-defender-levasseur"
     },
     {
-      "published_at": "2026-07-17T10:16:57+00:00",
-      "updated_at": "2026-07-17T10:16:57+00:00",
-      "title": "What happened at Man City's loans exhibition day?",
-      "summary": "Manchester City welcome clubs to their training ground to showcase the talent that is on offer during the summer transfer window",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8dca/live/8abd2bf0-8131-11f1-b525-63787292c170.png",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cpw981n4v19o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cpw981n4v19o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "what-happened-at-man-city-s-loans-exhibition-day"
-    },
-    {
-      "published_at": "2026-07-17T10:00:16+00:00",
-      "updated_at": "2026-07-17T10:00:16+00:00",
-      "title": "Aston Villa sign defender Harviken from Juventus",
-      "summary": "Aston Villa have signed Norway international Mathilde Harviken from Juventus",
-      "category": [
-        "Premier League",
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/21aa/live/4ea0cc10-81c4-11f1-97b7-87871fc222bc.png",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c98v152z33ro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c98v152z33ro?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "aston-villa-sign-defender-harviken-from-juventus"
-    },
-    {
-      "published_at": "2026-07-17T09:59:26+00:00",
-      "updated_at": "2026-07-17T09:59:26+00:00",
-      "title": "Defender Esteve leaves Burnley to join RB Leipzig",
-      "summary": "Former France Under-21s defender Maxime Esteve leaves Burnley to join Bundesliga club RB Leipzig for a reported fee of £27.3m",
-      "category": [
-        "Bundesliga"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ea9c/live/747361e0-7f86-11f1-a47a-d94293d2b0e4.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c1mymzpzv2ko?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c1mymzpzv2ko?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "defender-esteve-leaves-burnley-to-join-rb-leipzig"
-    },
-    {
       "published_at": "2026-07-16T14:00:08+00:00",
       "updated_at": "2026-07-16T14:00:08+00:00",
       "title": "Joakim Lagergren plågas av skada i The Open-debuten",
@@ -373,33 +390,6 @@
       },
       "confirmed_by": [],
       "id": "why-arsenal-have-made-rogers-their-top-forward-target-this-summer"
-    },
-    {
-      "published_at": "2026-07-16T15:05:00+00:00",
-      "updated_at": "2026-07-16T15:05:00+00:00",
-      "title": "Tzolis: Arsenal's new 'warrior mode' winger - and perfect Trossard replacement",
-      "summary": "In Christos Tzolis, Arsenal's first outfield signing since becoming Premier League champions is a fairly surprising one. But nobody will be more stunned about this deal than Norwich fans",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "leandro-trossard",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-tzolis-arsenal_7299212.jpg?20260716153304",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13564054/christos-tzolis-arsenal-set-to-have-a-new-warrior-mode-winger-who-is-the-perfect-replacement-for-leandro-trossard"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13564054/christos-tzolis-arsenal-set-to-have-a-new-warrior-mode-winger-who-is-the-perfect-replacement-for-leandro-trossard"
-      },
-      "confirmed_by": [],
-      "id": "tzolis-arsenal-s-new-warrior-mode-winger-and-perfect-trossard-replacement"
     },
     {
       "published_at": "2026-07-17T15:02:50+00:00",
@@ -604,7 +594,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/678140.jpg",
+      "image": "",
       "sources": [
         {
           "name": "SvenskaFans",
@@ -783,6 +773,60 @@
       },
       "confirmed_by": [],
       "id": "panel-inf-r-matchen-mot-kalmar"
+    },
+    {
+      "published_at": "2026-07-17T18:53:33+00:00",
+      "updated_at": "2026-07-17T18:53:33+00:00",
+      "title": "Mållöst mellan Mjällby och Västerås – i Elliot Strouds avsked (?)",
+      "summary": "Någon sprakande målfest bjöds det inte på i Hällevik på fredagskvällen. Matchen mellan Mjällby och Västerås slutade mållöst – i vad som kan ha varit Elliot Strouds avsked",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.29/0.53/8ecce2bc6fc4e14f5a8d4b2c2191e5a2af64238349a6bf156d57f4b08bb2b058",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/mallost-mellan-mjallby-och-vasteras-i-elliot-strouds-avsked"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/mallost-mellan-mjallby-och-vasteras-i-elliot-strouds-avsked"
+      },
+      "confirmed_by": [],
+      "id": "m-ll-st-mellan-mj-llby-och-v-ster-s-i-elliot-strouds-avsked"
+    },
+    {
+      "published_at": "2026-07-17T18:51:11+00:00",
+      "updated_at": "2026-07-17T18:51:11+00:00",
+      "title": "Rött kort bakom Göteborgs första hemmaseger för säsongen",
+      "summary": "Krisande IFK Göteborg tog första hemmasegern för säsongen när BP besegrades med 2–1. Ett rött kort gav en man mer i en timme, vilket grundlade segern i den dramatiska matchen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.25/0.41/d8941160d6676e54fc93a5589bc2bc1e8cc1ee3c70c1994b74c68a455bb2238a",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/rott-kort-bakom-goteborgs-forsta-hemmaseger-for-sasongen"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/rott-kort-bakom-goteborgs-forsta-hemmaseger-for-sasongen"
+      },
+      "confirmed_by": [],
+      "id": "r-tt-kort-bakom-g-teborgs-f-rsta-hemmaseger-f-r-s-songen"
     },
     {
       "published_at": "2026-07-17T16:33:34+00:00",
@@ -974,58 +1018,59 @@
       "id": "se-n-r-hideki-matsuyama-sl-r-ur-bunkern-i-the-open-sittandes"
     },
     {
-      "published_at": "2026-07-16T12:11:19+00:00",
-      "updated_at": "2026-07-16T12:11:19+00:00",
-      "title": "Henrik Stenson med stark start i The Open",
-      "summary": "Henrik Stenson har fått en fin start i The Open. 50-åringen gick runt första rundan på två under par – och är tidigt med och har tätkänning. – Jag är jättenöjd, säger han till Viaplay",
+      "published_at": "2026-07-17T19:30:00+00:00",
+      "updated_at": "2026-07-17T19:30:00+00:00",
+      "title": "Man City latest: Emile Heskey's son joins Cologne in permanent deal",
+      "summary": "Read the full report at Sky Sports.",
       "category": [
-        "Sverige"
+        "Transfer"
       ],
-      "status": "Confirmed",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.76/0.45/aa234be67e861208b8d7a6da1f799c0157bf8b678c036ad88e624811c6aed5cf",
+      "club": "manchester-city",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-enzo-maresca-man-city_7285824.jpg?20260629153129",
       "sources": [
         {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/golf/henrik-stenson-med-stark-start-i-the-open"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/golf/henrik-stenson-med-stark-start-i-the-open"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "henrik-stenson-med-stark-start-i-the-open"
+      "id": "man-city-latest-emile-heskey-s-son-joins-cologne-in-permanent-deal"
     },
     {
-      "published_at": "2026-07-16T12:03:08+00:00",
-      "updated_at": "2026-07-16T12:03:08+00:00",
-      "title": "Extas när Argentina avgör – se referatet här: ”Kom igen för fan”",
-      "summary": "Argentina blev klart för VM-final efter Lautaro Martinez segermål i den 92:a minuten mot England. Se och hör hur det lät hemma i Argentina när avgörandet kom",
+      "published_at": "2026-07-17T19:30:00+00:00",
+      "updated_at": "2026-07-17T19:30:00+00:00",
+      "title": "Chelsea latest: Como talks for Chalobah continue after two bids rejected",
+      "summary": "Read the full report at Sky Sports.",
       "category": [
-        "Sverige"
+        "Premier League",
+        "Transfer"
       ],
-      "status": "Confirmed",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.71/0.34/0e0ad084da2374e099a7278af95a469347ffb8edfedc2223d9cf13e35090550c",
+      "club": "chelsea",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
       "sources": [
         {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/extas-nar-argentina-avgor-se-referatet-kom-igen-for-fan"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/extas-nar-argentina-avgor-se-referatet-kom-igen-for-fan"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "extas-n-r-argentina-avg-r-se-referatet-h-r-kom-igen-f-r-fan"
+      "id": "chelsea-latest-como-talks-for-chalobah-continue-after-two-bids-rejected"
     },
     {
       "published_at": "2026-07-17T17:50:00+00:00",
@@ -1110,38 +1155,10 @@
       "id": "leeds-latest-club-confirm-34m-muharemovic-deal"
     },
     {
-      "published_at": "2026-07-17T15:20:00+00:00",
-      "updated_at": "2026-07-17T15:20:00+00:00",
-      "title": "Liverpool latest: Szoboszlai eyeing CL glory after signing new deal",
-      "summary": "Read the full report at Sky Sports.",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://e0.365dm.com/26/06/1600x900/skysports-liverpool-club-blog_7266198.jpg?20260605143916",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "liverpool-latest-szoboszlai-eyeing-cl-glory-after-signing-new-deal"
-    },
-    {
-      "published_at": "2026-07-17T12:00:00+00:00",
-      "updated_at": "2026-07-17T12:00:00+00:00",
-      "title": "Pep's prediction correct as Rodri returns to dominant best",
-      "summary": "Rodri came in for some criticism in Spain after they were held to a goalless draw by Cape Verde in their first game of the World Cup. There were accusations that he had moved the ball too slowly; that he was in some way responsible for the result",
+      "published_at": "2026-07-17T19:12:00+00:00",
+      "updated_at": "2026-07-17T19:12:00+00:00",
+      "title": "'Police protection and threats' | Eckert reveals impact of Spygate scandal",
+      "summary": "Speaking exclusively to Sky Sports' Mark McAdam, Southampton boss Tonda Eckert reveals the challenges he has faced after the Spygate scandal that resulted in their expulsion from the Championship play-offs",
       "category": [
         "Football"
       ],
@@ -1149,20 +1166,20 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-rodri-spain_7299283.jpg?20260716162114",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-eckert-southampton_7300334.jpg?20260717191710",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13564001/rodri-man-city-and-spain-midfielder-still-setting-the-standard-as-pep-guardiolas-world-cup-prediction-proves-accurate"
+          "url": "https://www.skysports.com/watch/video/13564509/exclusive-interview-with-tonda-eckert-as-southampton-boss-reveals-challenges-from-spygate-aftermath"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13564001/rodri-man-city-and-spain-midfielder-still-setting-the-standard-as-pep-guardiolas-world-cup-prediction-proves-accurate"
+        "url": "https://www.skysports.com/watch/video/13564509/exclusive-interview-with-tonda-eckert-as-southampton-boss-reveals-challenges-from-spygate-aftermath"
       },
       "confirmed_by": [],
-      "id": "pep-s-prediction-correct-as-rodri-returns-to-dominant-best"
+      "id": "police-protection-and-threats-eckert-reveals-impact-of-spygate-scandal"
     },
     {
       "published_at": "2026-07-16T20:00:00+00:00",
@@ -1192,10 +1209,10 @@
       "id": "tuchel-blames-english-football-s-dna-for-world-cup-exit"
     },
     {
-      "published_at": "2026-07-16T15:22:00+00:00",
-      "updated_at": "2026-07-16T15:22:00+00:00",
-      "title": "How De la Fuente and Scaloni outperformed Tuchel and Ancelotti",
-      "summary": "Sunday's World Cup final will be a meeting of stars but the two managers overseeing Lionel Messi, Lamine Yamal and the rest do not share the high-profile status of many of their players",
+      "published_at": "2026-07-16T13:50:00+00:00",
+      "updated_at": "2026-07-16T13:50:00+00:00",
+      "title": "Neville: I have a big problem with Tuchel's DNA comments",
+      "summary": "Gary Neville has hit back at Thomas Tuchel's suggestions that English football's 'DNA' was to blame for their World Cup semi-final defeat to Argentina",
       "category": [
         "Football"
       ],
@@ -1203,20 +1220,20 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-lionel-scaloni-luis-de-la-fuente_7299282.jpg?20260716162055",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-gary-neville-thomas-tuchel_7299248.jpg?20260716155530",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13564062/luis-de-la-fuente-and-lionel-scaloni-outperform-thomas-tuchel-and-carlo-ancelotti-at-world-cup-so-what-makes-a-good-international-manager"
+          "url": "https://www.skysports.com/football/news/11095/13564414/england-1-2-argentina-gary-neville-takes-issue-with-thomas-tuchels-english-dna-claims-following-world-cup-elimination"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13564062/luis-de-la-fuente-and-lionel-scaloni-outperform-thomas-tuchel-and-carlo-ancelotti-at-world-cup-so-what-makes-a-good-international-manager"
+        "url": "https://www.skysports.com/football/news/11095/13564414/england-1-2-argentina-gary-neville-takes-issue-with-thomas-tuchels-english-dna-claims-following-world-cup-elimination"
       },
       "confirmed_by": [],
-      "id": "how-de-la-fuente-and-scaloni-outperformed-tuchel-and-ancelotti"
+      "id": "neville-i-have-a-big-problem-with-tuchel-s-dna-comments"
     },
     {
       "published_at": "2026-07-15T11:28:00+00:00",
@@ -1354,6 +1371,33 @@
       "id": "fem-spaningar-bajen-la-rydstr-m-ser-bra-ut"
     },
     {
+      "published_at": "2026-07-17T15:00:33+00:00",
+      "updated_at": "2026-07-17T15:00:33+00:00",
+      "title": "World Cup of memes: Japan fans, Beckham unbothered and a simmering bromance",
+      "summary": "A tournament with more teams and more games has been filled with euphoria, heartbreak, and these weird and wonderful viral moments As a Japanese supporter exclaimed to a television camera, “Texas is good, everything is big”, we knew the World Cup had started. In those early euphoric moments, seeing the palpable joy when everything is still possible, it seemed Japan fans were the MVPs of memes. They came in their thousands, dressed in sombreros and Mario outfits, tossed into the air like confetti and line dancing with the Dutch.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/6236030100ffbb6771707b1839f64f92e06ed0a2/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46e730654155b26988198686faecda27",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/18/world-cup-memes-messi-haaland-bellingham-beckham-viking-row-japan"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/18/world-cup-memes-messi-haaland-bellingham-beckham-viking-row-japan"
+      },
+      "confirmed_by": [],
+      "id": "world-cup-of-memes-japan-fans-beckham-unbothered-and-a-simmering-bromance"
+    },
+    {
       "published_at": "2026-07-17T15:00:31+00:00",
       "updated_at": "2026-07-17T15:00:31+00:00",
       "title": "Genuine hope may have been fleeting for England. But it was still life-affirming | Max Rushden",
@@ -1408,31 +1452,58 @@
       "id": "bbc-v-itv-who-won-the-uk-s-battle-of-the-world-cup-2026-broadcasters"
     },
     {
-      "published_at": "2026-07-17T07:00:01+00:00",
-      "updated_at": "2026-07-17T07:00:01+00:00",
-      "title": "Pitbull concert forces historic Champions League qualifier in Lithuania to move",
-      "summary": "FK Kauno Zalgiris renting out stadium for gig They take on KI of Faroe Islands in two-leg tie Lithuania’s best team will probably be forced to play a historic Champions League qualifier later this month away from home after renting their stadium out for a show by the US rapper Pitbull. On Tuesday night, the Toplyga champions, FK Kauno Zalgiris, beat Kosovo’s champions, Dritam 3-2, and 4-3 on aggregate, to book their place in the Champions League second qualifying round, in the process securing around €1.7m in prize money. They are scheduled to travel to the Faroe Islands champions, KI, on Tuesday before hosting the second leg in Lithuania on 28 or 29 July.",
+      "published_at": "2026-07-17T19:08:28+00:00",
+      "updated_at": "2026-07-17T19:08:28+00:00",
+      "title": "Blåvitt-redaktören: ”Vi måste belysa problemet”",
+      "summary": "IFK Göteborg tog en efterlängtad seger mot Brommapojkarna. Men trots en man mer satt det långt inne. Redaktör Arvid Larsson gläds åt segern men kan inte blunda för Blåvitts problem",
       "category": [
-        "Transfer"
+        "Sverige"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://i.guim.co.uk/img/media/d20ec596ad526465b07acbe5e1f341b53d527ecd/404_0_4348_3478/master/4348.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=959dc077c6c7d7bf3014963d44eaa002",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/YQG84hJ5AepL8b3wbHgoN8YHJg2eY1eflfnhcMrT.jpg",
       "sources": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/17/historic-champions-league-qualifier-moved-pitbull-concert-ilithuania-fk-kauno-zalgiris"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/blavitt-redaktoren-vi-maste-belysa-problemet-698204"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/17/historic-champions-league-qualifier-moved-pitbull-concert-ilithuania-fk-kauno-zalgiris"
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/blavitt-redaktoren-vi-maste-belysa-problemet-698204"
       },
       "confirmed_by": [],
-      "id": "pitbull-concert-forces-historic-champions-league-qualifier-in-lithuania-to-move"
+      "id": "bl-vitt-redakt-ren-vi-m-ste-belysa-problemet"
+    },
+    {
+      "published_at": "2026-07-17T17:50:25+00:00",
+      "updated_at": "2026-07-17T17:50:25+00:00",
+      "title": "Falkenberg vann träningsmatchen mot Laholms FK",
+      "summary": "Under fredagen spelade FFF sin andra träningsmatch efter uppehållet. Nu var det Laholm som stod för motståndet och det blev en minst sagt rolig kväll när de gulvita vann med hela 6-0",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/yGRU7jsqrvZDwy03iV8P5J0qpBj7q1IsF9ixDWbp.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/falkenberg-vann-traningsmatchen-mot-laholms-fk-698200"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/falkenberg-vann-traningsmatchen-mot-laholms-fk-698200"
+      },
+      "confirmed_by": [],
+      "id": "falkenberg-vann-tr-ningsmatchen-mot-laholms-fk"
     },
     {
       "published_at": "2026-07-17T13:37:00+00:00",
@@ -1460,60 +1531,6 @@
       },
       "confirmed_by": [],
       "id": "fr-n-tufegdzic-till-bergstrand"
-    },
-    {
-      "published_at": "2026-07-17T11:45:02+00:00",
-      "updated_at": "2026-07-17T11:45:02+00:00",
-      "title": "Gais är ingen motståndare att fika med",
-      "summary": "VM går mot sitt slut och visst känns det skönt att vi snart kan ägna oss på heltid åt riktig fotboll. Fotboll där VAR inte går in och tittar på en incident som skedde i förrgår, fotboll där presidenter inte går in och korrigerar fattade domslut och fotboll där FIFA inte på förhand bestämt vilka lag som ska slåss om guldet",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/hPvPQOTER85TeJb6GyG6Ojyhc953SMJvslCyfIz7.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/gais-ar-ingen-motstandare-att-fika-med-698191"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/gais-ar-ingen-motstandare-att-fika-med-698191"
-      },
-      "confirmed_by": [],
-      "id": "gais-r-ingen-motst-ndare-att-fika-med"
-    },
-    {
-      "published_at": "2026-07-17T11:00:00+00:00",
-      "updated_at": "2026-07-17T11:00:00+00:00",
-      "title": "TV-guide: IFK Göteborg – Brommapojkarna – så kan du se matchen",
-      "summary": "Under fredagskvällen möter IFK Göteborg Brommapojkarna i Allsvenskan. Här är allt om hur du kan se matchen live på TV eller streaming",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/4J41mCicvIRSkvtaUeDY2OZ5Z8RpFvIrgTVYpqEr.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/tv-guide-ifk-goteborg-brommapojkarna-sa-kan-du-se-matchen-698188"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/tv-guide-ifk-goteborg-brommapojkarna-sa-kan-du-se-matchen-698188"
-      },
-      "confirmed_by": [],
-      "id": "tv-guide-ifk-g-teborg-brommapojkarna-s-kan-du-se-matchen"
     }
   ]
 }
