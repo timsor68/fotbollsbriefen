@@ -1,42 +1,6 @@
 {
-  "updated_at": "2026-07-17T13:40:05.826059+00:00",
+  "updated_at": "2026-07-17T15:14:41.381634+00:00",
   "items": [
-    {
-      "published_at": "2026-07-16T18:24:16+00:00",
-      "updated_at": "2026-07-16T18:24:16+00:00",
-      "title": "Forest set to make £45m offer for Spurs' Bergvall",
-      "summary": "Nottingham Forest are set to make an offer of £45m for Tottenham midfielder Lucas Bergvall",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bc43/live/68d7a5a0-813c-11f1-b525-63787292c170.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cp3052zlvwqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cp3052zlvwqo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "id": "forest-set-to-make-45m-offer-for-spurs-bergvall"
-    },
     {
       "published_at": "2026-07-16T15:12:20+00:00",
       "updated_at": "2026-07-16T15:12:20+00:00",
@@ -73,42 +37,6 @@
         }
       ],
       "id": "arsenal-on-verge-of-signing-club-brugge-s-tzolis"
-    },
-    {
-      "published_at": "2026-07-16T10:46:31+00:00",
-      "updated_at": "2026-07-16T10:46:31+00:00",
-      "title": "How coach-on-pitch Messi undid England's tactics on the fly",
-      "summary": "It was a statistically weird game for Argentina’s talisman against England, full of outliers. It didn’t matter Thomas Tuchel will have prepared for every eventuality before England’s match with Argentina. He will have considered how his team could prosper in attack while remaining solid in defence.",
-      "category": [
-        "Coach"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "lionel-messi",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8313/live/ba5428a0-80f0-11f1-8edb-6f86e45a0f45.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cly5lq03l7do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/16/england-appeared-to-have-lionel-messi-under-control-until-the-crucial-moments"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cly5lq03l7do?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/16/england-appeared-to-have-lionel-messi-under-control-until-the-crucial-moments"
-        }
-      ],
-      "id": "how-coach-on-pitch-messi-undid-england-s-tactics-on-the-fly"
     },
     {
       "published_at": "2026-07-17T11:22:43+00:00",
@@ -153,6 +81,61 @@
         }
       ],
       "id": "jarrod-bowen-declares-intention-to-stay-at-west-ham-despite-relegation"
+    },
+    {
+      "published_at": "2026-07-17T14:24:18+00:00",
+      "updated_at": "2026-07-17T14:24:18+00:00",
+      "title": "Hearts sign goalkeeper Reus as Schwolow departs",
+      "summary": "Heart of Midlothian announce the imminent departure of Alexander Schwolow and the arrival of a replacement goalkeeper, Beau Reus",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/964f/live/89429ad0-81ea-11f1-b7bc-5dd9ae7a9918.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5y084gy06mo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5y084gy06mo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "hearts-sign-goalkeeper-reus-as-schwolow-departs"
+    },
+    {
+      "published_at": "2026-07-17T14:03:30+00:00",
+      "updated_at": "2026-07-17T14:03:30+00:00",
+      "title": "Liverpool midfielder Szoboszlai signs new five-year deal",
+      "summary": "Liverpool midfielder Dominik Szoboszlai signs a new five-year contract at Anfield",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0835/live/f913d5b0-8166-11f1-8b33-67c0f232af5c.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cx2rn4llxxno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2rn4llxxno?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "liverpool-midfielder-szoboszlai-signs-new-five-year-deal"
     },
     {
       "published_at": "2026-07-17T13:16:25+00:00",
@@ -349,10 +332,10 @@
       "id": "joakim-lagergren-pl-gas-av-skada-i-the-open-debuten"
     },
     {
-      "published_at": "2026-07-16T12:31:18+00:00",
-      "updated_at": "2026-07-16T12:31:18+00:00",
-      "title": "Dominik Szoboszlai agrees Liverpool deal as Aston Villa go for João Gomes",
-      "summary": "Szoboszlai set to hand Andoni Iraola a boost Leeds close to signing centre-back Muharemovic Dominik Szoboszlai is poised to give Liverpool and their head coach, Andoni Iraola , a significant boost by signing a new long-term contract. The midfielder, who was the team’s best performer during a difficult final season under Arne Slot, has two years on his deal and mentioned several times last season that there had been no real progress over an extension. After months of negotiations between Liverpool’s sporting director, Richard Hughes, and Szoboszlai’s representatives, the terms of a new contract have been agreed in principle and the 25-year-old is close to signing the deal.",
+      "published_at": "2026-07-17T15:02:50+00:00",
+      "updated_at": "2026-07-17T15:02:50+00:00",
+      "title": "Dominik Szoboszlai signs Liverpool deal as Aston Villa go for João Gomes",
+      "summary": "Contract to 2031 one of his ‘top three’ life moments Leeds close to signing centre-back Muharemovic Dominik Szoboszlai has given Liverpool and their head coach, Andoni Iraola , a significant boost by signing a new contract to 2031. The midfielder, who was the team’s best performer during a difficult final season under Arne Slot, has two years on his deal and mentioned several times last season that there had been no real progress over an extension. After months of negotiations between Liverpool’s sporting director, Richard Hughes, and Szoboszlai’s representatives, the 25-year-old has signed the deal.",
       "category": [
         "Premier League",
         "Transfer"
@@ -383,7 +366,35 @@
           "url": "https://www.theguardian.com/football/2026/jul/16/dominik-szoboszlai-agrees-new-liverpool-contract-andoni-iraola-transfer-latest"
         }
       ],
-      "id": "dominik-szoboszlai-agrees-liverpool-deal-as-aston-villa-go-for-jo-o-gomes"
+      "id": "dominik-szoboszlai-signs-liverpool-deal-as-aston-villa-go-for-jo-o-gomes"
+    },
+    {
+      "published_at": "2026-07-17T15:00:00+00:00",
+      "updated_at": "2026-07-17T15:00:00+00:00",
+      "title": "Szoboszlai signs new long-term Liverpool deal",
+      "summary": "Dominik Szoboszlai has signed a new deal at Liverpool; The 25-year-olds new contract keeps him at Anfield until 2031; Szoboszlai moved to Liverpool for £60m from RB Leipzig in the summer of 2023",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "https://e0.365dm.com/26/03/1600x900/skysports-dominik-szoboszlai_7193553.jpg?20260315170222",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13564294/dominik-szoboszlai-midfielder-signs-new-five-year-deal-at-liverpool"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13564294/dominik-szoboszlai-midfielder-signs-new-five-year-deal-at-liverpool"
+      },
+      "confirmed_by": [],
+      "id": "szoboszlai-signs-new-long-term-liverpool-deal"
     },
     {
       "published_at": "2026-07-17T10:28:00+00:00",
@@ -767,10 +778,37 @@
       "id": "panel-inf-r-matchen-mot-kalmar"
     },
     {
+      "published_at": "2026-07-17T14:13:25+00:00",
+      "updated_at": "2026-07-17T14:13:25+00:00",
+      "title": "Ludvig Åberg klättrar efter tuffa starten i The Open",
+      "summary": "Efter en tuff första dag bjöd den svenske stjärnan på inte mindre än sju birdies under den andra rundan av The Open, och gick runt på 66 slag. Han är nu tre under par inför fortsättningen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.24/0.46/59c20de161f8bb0ac72ad79ef61fabcb39c8f03234360996d846260ccd7dbb4f",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/golf/ludvig-aberg-klattrar-efter-tuffa-starten-i-the-open"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/golf/ludvig-aberg-klattrar-efter-tuffa-starten-i-the-open"
+      },
+      "confirmed_by": [],
+      "id": "ludvig-berg-kl-ttrar-efter-tuffa-starten-i-the-open"
+    },
+    {
       "published_at": "2026-07-17T13:32:19+00:00",
       "updated_at": "2026-07-17T13:32:19+00:00",
-      "title": "Jesper Svensson klättrar i The Open – efter fin runda",
-      "summary": "En första runda han helst ville glömma. Men på dag två av The Open steppade Jesper Svensson upp. På det femte hålet var han när en hole-in-one – men fick nöja sig med eagle",
+      "title": "Jesper Svensson nära HIO i The Open – stod för fin runda",
+      "summary": "En första runda han helst ville glömma. Men på dag två av The Open steppade Jesper Svensson upp. På det femte hålet var han när en hole-in-one – men fick nöja sig med eagle.",
       "category": [
         "Sverige"
       ],
@@ -791,12 +829,12 @@
         "url": "https://www.svt.se/sport/golf/jesper-svensson-klattrar-i-the-open-efter-fin-runda"
       },
       "confirmed_by": [],
-      "id": "jesper-svensson-kl-ttrar-i-the-open-efter-fin-runda"
+      "id": "jesper-svensson-n-ra-hio-i-the-open-stod-f-r-fin-runda"
     },
     {
       "published_at": "2026-07-17T13:18:40+00:00",
       "updated_at": "2026-07-17T13:18:40+00:00",
-      "title": "Doldisen Lucas Herbert tangerade dubbla rekord i The Open",
+      "title": "Doldisen Lucas Herbert efter superrundan i The Open: ”I rekordböckerna”",
       "summary": "Doldisen Lucas Herbert gick runt den andra rundan i The Open på 62 slag och noterades för dubbla tangerade rekord. Tangerat banrekord och den tangerat lägsta scoren någonsin under en runda på en major",
       "category": [
         "Sverige"
@@ -818,7 +856,7 @@
         "url": "https://www.svt.se/sport/golf/doldisen-lucas-herbert-tangerade-dubbla-rekord-i-the-open"
       },
       "confirmed_by": [],
-      "id": "doldisen-lucas-herbert-tangerade-dubbla-rekord-i-the-open"
+      "id": "doldisen-lucas-herbert-efter-superrundan-i-the-open-i-rekordb-ckerna"
     },
     {
       "published_at": "2026-07-17T11:28:51+00:00",
@@ -902,33 +940,6 @@
       "id": "se-n-r-hideki-matsuyama-sl-r-ur-bunkern-i-the-open-sittandes"
     },
     {
-      "published_at": "2026-07-16T19:35:05+00:00",
-      "updated_at": "2026-07-16T19:35:05+00:00",
-      "title": "Trög start för Ludvig Åberg i The Open: ”Jag håller mig kvar”",
-      "summary": "Den största svenska stjärnan Ludvig Åberg fick en trög start på The Open. 26-åringen gick runt på 71 slag och ligger på delad 60:e plats – sex slag från täten",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.37/0.6/abeaa16740e784568eba7b10bb7f3513547312d63e5c952eeb2bdba046a7442d",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/golf/trog-start-for-ludvig-aberg-i-the-open"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/golf/trog-start-for-ludvig-aberg-i-the-open"
-      },
-      "confirmed_by": [],
-      "id": "tr-g-start-f-r-ludvig-berg-i-the-open-jag-h-ller-mig-kvar"
-    },
-    {
       "published_at": "2026-07-16T12:11:19+00:00",
       "updated_at": "2026-07-16T12:11:19+00:00",
       "title": "Henrik Stenson med stark start i The Open",
@@ -1010,9 +1021,9 @@
       "id": "sverige-kan-st-llas-mot-ryssland-igen-i-handboll"
     },
     {
-      "published_at": "2026-07-16T22:00:00+00:00",
-      "updated_at": "2026-07-16T22:00:00+00:00",
-      "title": "Liverpool latest: Szoboszlai in advanced talks over new deal",
+      "published_at": "2026-07-17T15:20:00+00:00",
+      "updated_at": "2026-07-17T15:20:00+00:00",
+      "title": "Liverpool latest: Szoboszlai eyeing CL glory after signing new deal",
       "summary": "Read the full report at Sky Sports.",
       "category": [
         "Premier League",
@@ -1035,7 +1046,7 @@
         "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "liverpool-latest-szoboszlai-in-advanced-talks-over-new-deal"
+      "id": "liverpool-latest-szoboszlai-eyeing-cl-glory-after-signing-new-deal"
     },
     {
       "published_at": "2026-07-17T12:00:00+00:00",
@@ -1121,8 +1132,8 @@
     {
       "published_at": "2026-07-16T13:50:00+00:00",
       "updated_at": "2026-07-16T13:50:00+00:00",
-      "title": "Neville: I won't lump in on Tuchel - England have had same issues for years",
-      "summary": "Gary Neville says he will not \"lump in\" on the criticisms of Thomas Tuchel after England's World Cup exit to Argentina, adding that he never expected the team to win the tournament",
+      "title": "Neville: I have a big problem with Tuchel's DNA comments",
+      "summary": "Gary Neville has hit back at Thomas Tuchel's suggestions that English football's 'DNA' was to blame for their World Cup semi-final defeat to Argentina",
       "category": [
         "Football"
       ],
@@ -1134,16 +1145,16 @@
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13563973/england-1-2-argentina-gary-neville-says-he-will-not-lump-in-on-thomas-tuchel-as-three-lions-issues-rear-their-head-once-again"
+          "url": "https://www.skysports.com/football/news/11095/13564414/england-1-2-argentina-gary-neville-takes-issue-with-thomas-tuchels-english-dna-claims-following-world-cup-elimination"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13563973/england-1-2-argentina-gary-neville-says-he-will-not-lump-in-on-thomas-tuchel-as-three-lions-issues-rear-their-head-once-again"
+        "url": "https://www.skysports.com/football/news/11095/13564414/england-1-2-argentina-gary-neville-takes-issue-with-thomas-tuchels-english-dna-claims-following-world-cup-elimination"
       },
       "confirmed_by": [],
-      "id": "neville-i-won-t-lump-in-on-tuchel-england-have-had-same-issues-for-years"
+      "id": "neville-i-have-a-big-problem-with-tuchel-s-dna-comments"
     },
     {
       "published_at": "2026-07-15T11:28:00+00:00",
@@ -1416,8 +1427,8 @@
       "id": "the-bigger-picture-tuchel-gets-blame-for-england-exit-but-this-is-not-only-about-him-barne"
     },
     {
-      "published_at": "2026-07-17T13:37:31+00:00",
-      "updated_at": "2026-07-17T13:37:31+00:00",
+      "published_at": "2026-07-17T13:37:00+00:00",
+      "updated_at": "2026-07-17T13:37:00+00:00",
       "title": "Från Tufegdzic till Bergstrand",
       "summary": "IFK Värnamo befinner sig återigen i en förändringsfas. Efter en tung vår och ytterligare ett tränarbyte har Srdjan Tufegdzic lämnat klubben och ersatts av den meriterade Kim Bergstrand. Frågan är nu om den tidigare guldtränaren kan få ordning på ett lag som haft stora problem under säsongen – eller om Värnamos bekymmer är djupare än själva tränarfrågan.",
       "category": [
@@ -1522,33 +1533,6 @@
       },
       "confirmed_by": [],
       "id": "man-utd-latest-santos-named-in-squad-for-wrexham-friendly"
-    },
-    {
-      "published_at": "2026-07-15T23:34:00+00:00",
-      "updated_at": "2026-07-15T23:34:00+00:00",
-      "title": "What do you make of Tuchel's DNA comments? Have your say!",
-      "summary": "England football news: Live updates, schedule and analysis of Thomas Tuchels Three Lions",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/25/09/1600x900/skysports-england-tuchel-thomas_7014353.jpg?20250908122212",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions"
-      },
-      "confirmed_by": [],
-      "id": "what-do-you-make-of-tuchel-s-dna-comments-have-your-say"
     }
   ]
 }
