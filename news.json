@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T19:17:23.785863+00:00",
+  "updated_at": "2026-07-19T20:51:26.557473+00:00",
   "items": [
     {
       "published_at": "2026-07-18T18:02:48+00:00",
@@ -47,42 +47,6 @@
       "id": "chelsea-agree-record-117m-deal-for-villa-s-rogers"
     },
     {
-      "published_at": "2026-07-17T08:40:55+00:00",
-      "updated_at": "2026-07-17T08:40:55+00:00",
-      "title": "World Cup rings for winners as Trump attendance confirmed",
-      "summary": "Donald Trump will present the trophy to the World Cup final winners on Sunday, and rings will be presented to the victorious side",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b799/live/f014a550-81b3-11f1-bc34-d11e2a8fe857.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cgmk7mnnyjeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13564766/world-cup-2026-spain-and-argentina-meet-in-a-final-like-no-other-with-donald-trump-involved-winners-rings-and-a-first-ever-half-time-show"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cgmk7mnnyjeo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13564766/world-cup-2026-spain-and-argentina-meet-in-a-final-like-no-other-with-donald-trump-involved-winners-rings-and-a-first-ever-half-time-show"
-        }
-      ],
-      "id": "world-cup-rings-for-winners-as-trump-attendance-confirmed"
-    },
-    {
       "published_at": "2026-07-15T22:40:05+00:00",
       "updated_at": "2026-07-15T22:40:05+00:00",
       "title": "'No regrets' - Tuchel on England's defeat by Argentina",
@@ -117,6 +81,77 @@
         }
       ],
       "id": "no-regrets-tuchel-on-england-s-defeat-by-argentina"
+    },
+    {
+      "published_at": "2026-07-19T20:42:52+00:00",
+      "updated_at": "2026-07-19T20:42:52+00:00",
+      "title": "World Cup final: Trump, half-time show and everything but the football – live",
+      "summary": "White House confirms Trump will attend World Cup final Shakira, Madonna and BTS headline first half-time show World Cup final liveblog: all the football | Mail Tom Streamer IShowSpeed, probably more famous than 98% of the players at this World Cup, is performing too. It’s probably not even watching the match now that he’s been on. Post Malone has rocked up to perform at the closing ceremony, which is now taking place.",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/467e/live/42b59d30-83af-11f1-ab77-f798412624b5.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/spain-vs-argentina/live/549869"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/jul/19/world-cup-final-trump-halftime-show-shakira-bts-madonna-everything-but-football"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/spain-vs-argentina/live/549869"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/jul/19/world-cup-final-trump-halftime-show-shakira-bts-madonna-everything-but-football"
+        }
+      ],
+      "id": "world-cup-final-trump-half-time-show-and-everything-but-the-football-live"
+    },
+    {
+      "published_at": "2026-07-19T19:16:08+00:00",
+      "updated_at": "2026-07-19T19:16:08+00:00",
+      "title": "Swansea close in on deal for Motherwell's Just",
+      "summary": "Swansea City hope to tie up a deal for Motherwell's Elijah Just after he impressed for New Zealand at the World Cup",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d75e/live/fea3aa10-83a4-11f1-8175-0b71720eeb65.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqlxreqep15o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqlxreqep15o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "swansea-close-in-on-deal-for-motherwell-s-just"
     },
     {
       "published_at": "2026-07-19T14:37:00+00:00",
@@ -171,50 +206,6 @@
       },
       "confirmed_by": [],
       "id": "i-ve-been-a-world-cup-official-i-promise-you-there-is-no-favouritism"
-    },
-    {
-      "published_at": "2026-07-19T01:12:34+00:00",
-      "updated_at": "2026-07-19T01:12:34+00:00",
-      "title": "England beat France in 10-goal thriller to win third-place play-off",
-      "summary": "Where to start with this rollercoaster of a match? Thomas Tuchel had promised a reaction but he could not have imagined the manner of the response from England, albeit against a France team firmly on their sunloungers during an incredible first half in which they conceded four times. Yet with Kylian Mbappé on the hunt for his second successive Golden Boot in Didier Deschamps’ last match in charge of Les Bleus , even that lead courtesy of goals from Declan Rice, Ezri Konsa and two from Bukayo Saka almost wasn’t enough.",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a259/live/f5a9d0c0-8308-11f1-bee8-53ce494e1abc.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/france-vs-england/report/549868"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/19/england-france-world-cup-third-place-playoff-match-report"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/france-vs-england/report/549868"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/19/england-france-world-cup-third-place-playoff-match-report"
-        }
-      ],
-      "id": "england-beat-france-in-10-goal-thriller-to-win-third-place-play-off"
     },
     {
       "published_at": "2026-07-19T00:13:13+00:00",
@@ -324,42 +315,6 @@
       },
       "confirmed_by": [],
       "id": "will-the-world-cup-affect-arsenal-s-transfer-plans"
-    },
-    {
-      "published_at": "2026-07-19T19:07:08+00:00",
-      "updated_at": "2026-07-19T19:07:08+00:00",
-      "title": "World Cup final: Trump, half-time show and everything but the football – live",
-      "summary": "White House confirms Trump will attend World Cup final Shakira, Madonna and BTS headline first half-time show World Cup final liveblog: all the football | Mail Tom Streamer IShowSpeed, probably more famous than 98% of the players at this World Cup, is performing too. It’s probably not even watching the match now that he’s been on. Post Malone has rocked up to perform at the closing ceremony, which is now taking place.",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/spain-vs-argentina/live/549869"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/jul/19/world-cup-final-trump-halftime-show-shakira-bts-madonna-everything-but-football"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/spain-vs-argentina/live/549869"
-      },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/jul/19/world-cup-final-trump-halftime-show-shakira-bts-madonna-everything-but-football"
-        }
-      ],
-      "id": "world-cup-final-trump-half-time-show-and-everything-but-the-football-live"
     },
     {
       "published_at": "2026-07-19T00:16:00+00:00",
@@ -549,33 +504,6 @@
       },
       "confirmed_by": [],
       "id": "how-are-london-city-lionesses-able-to-embark-on-such-a-transfer-spree"
-    },
-    {
-      "published_at": "2026-07-14T22:22:22+00:00",
-      "updated_at": "2026-07-14T22:22:22+00:00",
-      "title": "Didier Deschamps pays price for breaking free from the shackles that led him to glory | Jonathan Wilson",
-      "summary": "France finally let loose all their attacking power in this tournament and yet when the big test came against Spain they were too open Maybe Didier Deschamps was right all along. He has been criticised over his 14 years in the France job for being too cautious, for prioritising control, for not unleashing his great fleet of attacking players. In this tournament, his last as national manager, Deschamps has relaxed – from a tactical point of view at least; he remains as grouchy as ever in his public utterances.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/95f93d0ba7f845b14fc9c5e1acc526b0f71ac0b7/242_37_3941_3152/master/3941.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5fbfd8e7acb07149c5822ac435521fec",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/14/didier-deschamps-france-spain-2026-world-cup-semi-final-dallas"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/14/didier-deschamps-france-spain-2026-world-cup-semi-final-dallas"
-      },
-      "confirmed_by": [],
-      "id": "didier-deschamps-pays-price-for-breaking-free-from-the-shackles-that-led-him-to-glory-jona"
     },
     {
       "published_at": "2026-07-13T21:30:11+00:00",
@@ -776,6 +704,60 @@
         }
       ],
       "id": "england-tournament-player-ratings-who-impressed-and-who-struggled"
+    },
+    {
+      "published_at": "2026-07-19T19:23:49+00:00",
+      "updated_at": "2026-07-19T19:23:49+00:00",
+      "title": "Paulos Abraham förklarar annorlunda målgesten: ”Lovade”",
+      "summary": "I går firade AIK:s Kevin Filling sitt mål med en Ronaldo-målgest. I dag firade Hammarbys Paulos Abraham med en... – Jag lovade Frank Adjei att jag skulle göra den, säger Abraham om målgesten, efter att Hammarby slagit Degerfors med 4–0",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.75/0.37/3b71468fa2731940e11387f6ca559b5f1be5da487ab7f45134220f1d8601d8d6",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/paulos-abraham-forklarar-annorlunda-malgesten-lovade"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/paulos-abraham-forklarar-annorlunda-malgesten-lovade"
+      },
+      "confirmed_by": [],
+      "id": "paulos-abraham-f-rklarar-annorlunda-m-lgesten-lovade"
+    },
+    {
+      "published_at": "2026-07-19T19:20:33+00:00",
+      "updated_at": "2026-07-19T19:20:33+00:00",
+      "title": "Donald Trump på plats på VM-finalen",
+      "summary": "Donald Trump hade inte varit på plats under några VM-matcher fram till finalen. Men nu är USA:s president på plats för att se Spanien och Argentina göra upp om guldet",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.36/0.3/18377762197691868d3893c8a03ecd1f63bd1f56ef12b8c84c1de97d05c1ff52",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/donald-trump-pa-plats-pa-vm-finalen"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/donald-trump-pa-plats-pa-vm-finalen"
+      },
+      "confirmed_by": [],
+      "id": "donald-trump-p-plats-p-vm-finalen"
     },
     {
       "published_at": "2026-07-19T18:29:08+00:00",
@@ -994,60 +976,6 @@
       "id": "oliver-solberg-tv-a-i-estland-glad-och-l-ttad"
     },
     {
-      "published_at": "2026-07-19T08:52:45+00:00",
-      "updated_at": "2026-07-19T08:52:45+00:00",
-      "title": "Det förvånar med finaldomaren: ”Pågår ett latent litet krig”",
-      "summary": "Slovenen Slavko Vinčić får äran att döma VM-finalen. Ett val av Fifa som inte är oväntat ur en sportslig synvinkel – men möjligen ur en politisk. – Det pågår ett latent litet krig, säger tidigare toppdomaren Jonas Eriksson",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.23/0.45/dc087600f5d0d7bfac76a327eb0f9d4132097d91e4b32ed6e50999b2bbc262ca",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/det-forvanar-med-finaldomaren-pagar-ett-latent-litet-krig"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/det-forvanar-med-finaldomaren-pagar-ett-latent-litet-krig"
-      },
-      "confirmed_by": [],
-      "id": "det-f-rv-nar-med-finaldomaren-p-g-r-ett-latent-litet-krig"
-    },
-    {
-      "published_at": "2026-07-19T08:04:55+00:00",
-      "updated_at": "2026-07-19T08:04:55+00:00",
-      "title": "Här tar Argentinas supportrar över Times Square",
-      "summary": "Kvällen inför finalen tog tusentals supportrar över Times Square i New York",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.77/0.12/e05e6da140173b5a9495bb76f90bf229b105413f8134959816faf3fbc7f25dda",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/har-tar-argentinas-supportrar-over-times-square"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/har-tar-argentinas-supportrar-over-times-square"
-      },
-      "confirmed_by": [],
-      "id": "h-r-tar-argentinas-supportrar-ver-times-square"
-    },
-    {
       "published_at": "2026-07-19T12:23:00+00:00",
       "updated_at": "2026-07-19T12:23:00+00:00",
       "title": "Aston Villa latest: Club in talks to sign Estupinan as Digne replacement",
@@ -1103,31 +1031,31 @@
       "id": "nightmare-window-or-well-needed-rebuild-villa-s-turbulent-summer-analysed"
     },
     {
-      "published_at": "2026-07-16T15:22:00+00:00",
-      "updated_at": "2026-07-16T15:22:00+00:00",
-      "title": "How De la Fuente and Scaloni outperformed Tuchel and Ancelotti",
-      "summary": "Sunday's World Cup final will be a meeting of stars but the two managers overseeing Lionel Messi, Lamine Yamal and the rest do not share the high-profile status of many of their players",
+      "published_at": "2026-07-14T13:14:00+00:00",
+      "updated_at": "2026-07-14T13:14:00+00:00",
+      "title": "Why Manzambi could be a revelation at Aston Villa",
+      "summary": "In a World Cup dominated by the biggest names, Johan Manzambi has been the exception to the rule. With more goals than starts for Switzerland, he has been a breakout star, earning his big move after one full season as a starter at Freiburg",
       "category": [
-        "Football"
+        "Premier League"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-lionel-scaloni-luis-de-la-fuente_7299282.jpg?20260716162055",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-johan-manzambi-switzerland_7296360.jpg?20260713100915",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13564062/luis-de-la-fuente-and-lionel-scaloni-outperform-thomas-tuchel-and-carlo-ancelotti-at-world-cup-so-what-makes-a-good-international-manager"
+          "url": "https://www.skysports.com/football/news/11095/13563365/johan-manzambi-to-aston-villa-switzerlands-world-cup-star-from-freiburg-can-be-unai-emerys-diamond"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13564062/luis-de-la-fuente-and-lionel-scaloni-outperform-thomas-tuchel-and-carlo-ancelotti-at-world-cup-so-what-makes-a-good-international-manager"
+        "url": "https://www.skysports.com/football/news/11095/13563365/johan-manzambi-to-aston-villa-switzerlands-world-cup-star-from-freiburg-can-be-unai-emerys-diamond"
       },
       "confirmed_by": [],
-      "id": "how-de-la-fuente-and-scaloni-outperformed-tuchel-and-ancelotti"
+      "id": "why-manzambi-could-be-a-revelation-at-aston-villa"
     },
     {
       "published_at": "2026-07-18T09:00:00+00:00",
@@ -1266,6 +1194,60 @@
       "id": "infantino-s-faustian-bargain-with-trump-has-stained-football-s-biggest-stage"
     },
     {
+      "published_at": "2026-07-18T07:00:51+00:00",
+      "updated_at": "2026-07-18T07:00:51+00:00",
+      "title": "Cold War Steve on … Don Quixote and Sancho Panza coming to save the World Cup",
+      "summary": "The fifth in a special series of World Cup 2026-themed collages made for the Guardian by the celebrated satirist Continue reading",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/8f42745872cc697fdd7b073066f9032abff713f6/442_0_2480_1984/master/2480.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4f5fe9c43d0a6fbf1c22172b651c4595",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/picture/2026/jul/18/cold-war-steve-on-don-quixote-and-sancho-panza-coming-to-save-the-world-cup"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/picture/2026/jul/18/cold-war-steve-on-don-quixote-and-sancho-panza-coming-to-save-the-world-cup"
+      },
+      "confirmed_by": [],
+      "id": "cold-war-steve-on-don-quixote-and-sancho-panza-coming-to-save-the-world-cup"
+    },
+    {
+      "published_at": "2026-07-19T20:00:39+00:00",
+      "updated_at": "2026-07-19T20:00:39+00:00",
+      "title": "Allsvenskan: Inför Malmö hemma",
+      "summary": "Efter en förlust på 3Arena väntar Malmö hemma på Guldfågeln i en match som väntas bli en publikfest",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/LcjSodPiwf12Jyeqg8urWDUt8ZV25OdSzDFG08Mw.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/allsvenskan-infor-malmo-hemma-698279"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/allsvenskan-infor-malmo-hemma-698279"
+      },
+      "confirmed_by": [],
+      "id": "allsvenskan-inf-r-malm-hemma"
+    },
+    {
       "published_at": "2026-07-19T18:50:00+00:00",
       "updated_at": "2026-07-19T18:50:00+00:00",
       "title": "4 snabba efter storsegern mot Degerfors",
@@ -1374,33 +1356,6 @@
       "id": "stj-rnbetygen-storspelade-i-m-let"
     },
     {
-      "published_at": "2026-07-18T22:10:00+00:00",
-      "updated_at": "2026-07-18T22:10:00+00:00",
-      "title": "Inför Örgryte IS - Djurgårdens IF",
-      "summary": "Efter två raka segrar efter det allsvenska sommaruppehållet reser blåränderna ner till västkusten för ett möte med Örgryte. I den senaste matchen mot Halmstad på hemmaplan övertygade Djurgården genom att komfortabelt vinna med 3-0 utan att aldrig riktigt vara hotade av poängtapp. Örgryte ligger näst sist i tabellen med tre poäng fler inkasserade än just Halmstad vilket innebär att Stockholms stolthet återigen är storfavorit inför matchen.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/r8Tj2OEqTwGIjmD6lmZtrjVyAkAZE4eQ5vFRjf89.png",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/infor-orgryte-is-djurgardens-if-698245"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/infor-orgryte-is-djurgardens-if-698245"
-      },
-      "confirmed_by": [],
-      "id": "inf-r-rgryte-is-djurg-rdens-if"
-    },
-    {
       "published_at": "2026-07-19T15:24:00+00:00",
       "updated_at": "2026-07-19T15:24:00+00:00",
       "title": "Chelsea latest: Palace braced for interest in Lacroix from Blues",
@@ -1456,6 +1411,33 @@
       "id": "man-utd-latest-maguire-impressed-by-santos-after-cameo-in-pre-season"
     },
     {
+      "published_at": "2026-07-18T21:50:00+00:00",
+      "updated_at": "2026-07-18T21:50:00+00:00",
+      "title": "Newcastle latest: Willock helps Magpies to winning start in pre-season",
+      "summary": "Read the full report at Sky Sports.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/25/10/1600x900/skysports-newcastle-news-club_7039263.jpg?20251002160522",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "newcastle-latest-willock-helps-magpies-to-winning-start-in-pre-season"
+    },
+    {
       "published_at": "2026-07-18T21:30:00+00:00",
       "updated_at": "2026-07-18T21:30:00+00:00",
       "title": "England latest: Team returns home",
@@ -1483,32 +1465,32 @@
       "id": "england-latest-team-returns-home"
     },
     {
-      "published_at": "2026-07-18T19:00:00+00:00",
-      "updated_at": "2026-07-18T19:00:00+00:00",
-      "title": "Arsenal latest: What happened to Rogers interest?",
-      "summary": "Read the full report at Sky Sports.",
+      "published_at": "2026-07-18T20:00:00+00:00",
+      "updated_at": "2026-07-18T20:00:00+00:00",
+      "title": "EFL latest: Boro set to make over £20m if Rogers completes Chelsea move",
+      "summary": "The latest news, gossip and rumours from the Championship, League One and League Two",
       "category": [
         "Premier League",
-        "Serie A"
+        "Transfer"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/25/10/1600x900/skysports-arsenal-news-club_7039237.jpg?20251002155710",
+      "club": "chelsea",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-rogers-morgan-middlesbrough_7300989.jpg?20260718195618",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "url": "https://www.skysports.com/football/live-blog/11095/13163353/efl-transfer-news-rumours-and-gossip-for-championship-league-one-and-league-two"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "url": "https://www.skysports.com/football/live-blog/11095/13163353/efl-transfer-news-rumours-and-gossip-for-championship-league-one-and-league-two"
       },
       "confirmed_by": [],
-      "id": "arsenal-latest-what-happened-to-rogers-interest"
+      "id": "efl-latest-boro-set-to-make-over-20m-if-rogers-completes-chelsea-move"
     }
   ]
 }
