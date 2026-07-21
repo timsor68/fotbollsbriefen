@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-21T13:52:54.772254+00:00",
+  "updated_at": "2026-07-21T15:44:43.067097+00:00",
   "items": [
     {
-      "published_at": "2026-07-20T19:32:37+00:00",
-      "updated_at": "2026-07-20T19:32:37+00:00",
-      "title": "Fifa opens investigation into Argentina post-final trouble - what happens next?",
-      "summary": "Leandro Paredes was shown red card after final whistle Fifa looking into Falklands banner at England game Fifa has opened an investigation into the violent scenes that followed Spain’s World Cup final win on Sunday, with several Argentina players facing bans. Nahuel Molina appeared to strike Spain’s captain Rodri in the stomach as he ran on to the pitch following the final whistle, while there was also a large melee on the halfway line, where Leandro Paredes appeared to grab Eric García by the throat before throwing Gavi to the ground.",
+      "published_at": "2026-07-21T15:33:42+00:00",
+      "updated_at": "2026-07-21T15:33:42+00:00",
+      "title": "'Pressure is intense and scrutiny constant' - referee Taylor retires",
+      "summary": "47-year-old took charge of two tournament matches Taylor has refereed in the Premier League for 16 years Anthony Taylor has announced his retirement from elite refereeing after a distinguished career spanning more than two decades and 831 matches. One of England’s most accomplished officials, the 47-year-old officiated 668 matches in the professional game in England. He brings the curtain down on his career following his final appointment – the World Cup last-16 tie between Portugal and Spain in the United States.",
       "category": [
         "Football"
       ],
@@ -13,29 +13,37 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d24c/live/0a2e58b0-8447-11f1-878a-03d79d819c89.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c87e/live/377c0a50-8506-11f1-aa7a-11be4e3a8eab.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c87n8ydlegqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13565695/anthony-taylor-retires-premier-league-referee-steps-down-after-16-years-in-top-flight-following-world-cup"
         },
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/20/argentina-players-face-bans-as-fifa-opens-investigation-into-world-cup-final-brawls"
+          "url": "https://www.theguardian.com/football/2026/jul/21/referee-anthony-taylor-retires-from-football-after-world-cup-appearance"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/c87n8ydlegqo?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13565695/anthony-taylor-retires-premier-league-referee-steps-down-after-16-years-in-top-flight-following-world-cup"
+        },
+        {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/20/argentina-players-face-bans-as-fifa-opens-investigation-into-world-cup-final-brawls"
+          "url": "https://www.theguardian.com/football/2026/jul/21/referee-anthony-taylor-retires-from-football-after-world-cup-appearance"
         }
       ],
-      "id": "fifa-opens-investigation-into-argentina-post-final-trouble-what-happens-next"
+      "id": "pressure-is-intense-and-scrutiny-constant-referee-taylor-retires"
     },
     {
       "published_at": "2026-07-20T14:57:39+00:00",
@@ -49,7 +57,7 @@
       "entity": "xabi-alonso",
       "entity_type": "coaches",
       "club": "chelsea",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7687/live/db736060-8414-11f1-b3ec-1d7f0502d196.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0aca/live/2360c2a0-8514-11f1-a08a-6d526d664753.jpg",
       "sources": [
         {
           "name": "BBC Sport",
@@ -72,6 +80,34 @@
         }
       ],
       "id": "what-will-rogers-bring-to-alonso-s-chelsea"
+    },
+    {
+      "published_at": "2026-07-21T13:54:14+00:00",
+      "updated_at": "2026-07-21T13:54:14+00:00",
+      "title": "Australia striker McNamara joins Everton",
+      "summary": "Everton sign Australia striker Holly McNamara on a free transfer from Melbourne City",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "everton",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0833/live/e3328110-8503-11f1-8b9b-a724b687bb3b.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c89nxdpyl2eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c89nxdpyl2eo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "australia-striker-mcnamara-joins-everton"
     },
     {
       "published_at": "2026-07-21T13:21:54+00:00",
@@ -188,7 +224,7 @@
     {
       "published_at": "2026-07-21T05:47:13+00:00",
       "updated_at": "2026-07-21T05:47:13+00:00",
-      "title": "The country that doesn't play football ... yet",
+      "title": "The country that doesn't play football... yet",
       "summary": "Nauru is the only nation to have never played an official international football match and hardly anyone there plays the game.",
       "category": [
         "Football"
@@ -240,37 +276,10 @@
       "id": "ex-villa-striker-duran-joins-seventh-club-aged-22"
     },
     {
-      "published_at": "2026-07-20T17:20:11+00:00",
-      "updated_at": "2026-07-20T17:20:11+00:00",
-      "title": "Guardiola in reported talks with Italy - would England come calling?",
-      "summary": "Former Manchester City manager Pep Guardiola, a fluent Italian speaker, is a contender for the vacant Italy head coach job",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "pep-guardiola",
-      "entity_type": "coaches",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4ca1/live/25912780-8461-11f1-8cf4-43aed99842b4.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c20dn5j0lj0o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c20dn5j0lj0o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "guardiola-in-reported-talks-with-italy-would-england-come-calling"
-    },
-    {
-      "published_at": "2026-07-20T16:51:31+00:00",
-      "updated_at": "2026-07-20T16:51:31+00:00",
-      "title": "Thank you for making this a World Cup to remember on the BBC",
-      "summary": "BBC Director of Sport Alex Kay-Jelski's message as BBC Sport delivers a record-breaking World Cup across TV, radio, online and social",
+      "published_at": "2026-07-20T19:32:37+00:00",
+      "updated_at": "2026-07-20T19:32:37+00:00",
+      "title": "Fifa opens investigation into Argentina post-final trouble - what happens next?",
+      "summary": "Argentina will face an investigation into the ugly scenes at the end of the World Cup final, Fifa has confirmed",
       "category": [
         "Football"
       ],
@@ -278,20 +287,20 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f57c/live/2a89c2f0-8444-11f1-8075-ad45bd007d17.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d24c/live/0a2e58b0-8447-11f1-878a-03d79d819c89.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/articles/c1l1g3pjl3yo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/articles/c1l1g3pjl3yo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "thank-you-for-making-this-a-world-cup-to-remember-on-the-bbc"
+      "id": "fifa-opens-investigation-into-argentina-post-final-trouble-what-happens-next"
     },
     {
       "published_at": "2026-07-21T13:11:53+00:00",
@@ -352,7 +361,7 @@
       "published_at": "2026-07-21T06:34:51+00:00",
       "updated_at": "2026-07-21T06:34:51+00:00",
       "title": "Jim Gottfridsson återvänder till Sverige – klar för IFK Ystad",
-      "summary": "Jim Gottfridsson väljer att vända hem till Sverige och IFK Ystad. Landslagsstjärnan har skrivit på ett treårskontrakt. – När möjligheten att komma hem till IFK Ystad blev verklighet kändes beslutet helt rätt, säger han till klubbens hemsida",
+      "summary": "Jim Gottfridsson väljer att vända hem till Sverige och IFK Ystad. Trots flera erbjudanden från europeiska toppklubbar. – Jag är så jäkla glad och längtar efter att dra igång, säger handbollsstjärnan till SVT Sport",
       "category": [
         "Sverige"
       ],
@@ -402,33 +411,6 @@
       },
       "confirmed_by": [],
       "id": "arsenal-chelsea-and-man-utd-target-scott-rejects-new-bournemouth-contract"
-    },
-    {
-      "published_at": "2026-07-20T23:20:00+00:00",
-      "updated_at": "2026-07-20T23:20:00+00:00",
-      "title": "Papers: Man Utd looking at Hall, Robinson to strengthen left-back options",
-      "summary": "Plus: Aston Villa are continuing to discuss a proposed deal for Nicolas Jackson at Chelsea; Leandro Paredes was not sent off after being involved in a brawl following Argentinas World Cup final defeat to Spain, contrary to initial reports",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/25/03/1600x900/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13565441/arsenal-planning-short-term-move-for-free-agent-john-stones-following-william-salibas-world-cup-injury-paper-talk"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13565441/arsenal-planning-short-term-move-for-free-agent-john-stones-following-william-salibas-world-cup-injury-paper-talk"
-      },
-      "confirmed_by": [],
-      "id": "papers-man-utd-looking-at-hall-robinson-to-strengthen-left-back-options"
     },
     {
       "published_at": "2026-07-20T21:10:00+00:00",
@@ -544,7 +526,7 @@
       "published_at": "2026-07-21T08:00:04+00:00",
       "updated_at": "2026-07-21T08:00:04+00:00",
       "title": "Nico Williams, Ferran Torres and Spain’s adaptable World Cup excellence | Jeff Rueter",
-      "summary": "The two substitutes combined on the World Cup winning goal not by changing the game, but by offering it what it needed, when it was needed As Spain built into the second half of extra-time of Sunday’s World Cup final, it was already clear that Argentina hoped to make them suffer. Every challenge left no stud unshown. Their defenders labored to prevent striker Mikel Oyarzabal from his typical lanes of service, with Spain taking eleven of their 20 attempts from beyond the box.",
+      "summary": "The two substitutes combined on the World Cup winning goal not by changing the game, but by offering it what it needed, when it was needed As Spain built into the second half of extra-time of Sunday’s World Cup final, it was already clear that Argentina hoped to make them suffer. Every challenge left no stud unshown. Their defenders labored to block striker Mikel Oyarzabal from his typical lanes of service, with Spain taking 11 of their 20 attempts from beyond the box.",
       "category": [
         "Football"
       ],
@@ -840,6 +822,33 @@
       "id": "kafaji-klar-f-r-london-city-fotbollssurr-om-verg-ngen"
     },
     {
+      "published_at": "2026-07-21T14:24:48+00:00",
+      "updated_at": "2026-07-21T14:24:48+00:00",
+      "title": "Trots steget ner – landslagsdörren öppen för Jim Gottfridsson",
+      "summary": "Handbollsstjärnan Jim Gottfridsson vänder hem till moderklubben IFK Ystad. Men trots att det innebär spel i andradivisionen är han fortfarande aktuell för landslaget. – Vilken division man spelar i avgör inte om man kan spela i landslaget eller inte, säger förbundskaptenen Michael Apelgren",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.37/0.2/f4477a1fc13e9902d1be4f75ef88983868c267abc4468b01a9eaeee973765a03",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/handboll/trots-steget-ner-landslagsdorren-oppen-for-jim-gottfridsson"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/handboll/trots-steget-ner-landslagsdorren-oppen-for-jim-gottfridsson"
+      },
+      "confirmed_by": [],
+      "id": "trots-steget-ner-landslagsd-rren-ppen-f-r-jim-gottfridsson"
+    },
+    {
       "published_at": "2026-07-21T12:27:12+00:00",
       "updated_at": "2026-07-21T12:27:12+00:00",
       "title": "Simona Aebersold vann efter att ha smitit förbi Tove i skogen: ”Blev förvirrad”",
@@ -1002,31 +1011,31 @@
       "id": "kevin-keegan-r-d-d-blev-75-r-gammal"
     },
     {
-      "published_at": "2026-07-20T13:36:55+00:00",
-      "updated_at": "2026-07-20T13:36:55+00:00",
-      "title": "Uppgifter: DeChambeau ville involvera Trump för att slippa pliktslag",
-      "summary": "Bryson DeChambeau fick två pliktslag i The Open. För att slippa bestraffningen försökte han involvera Donald Trump, enligt uppgifter. Kuppen kan ha en koppling till fotbolls-VM",
+      "published_at": "2026-07-21T15:30:00+00:00",
+      "updated_at": "2026-07-21T15:30:00+00:00",
+      "title": "Scot Prem latest: Ipswich closing in on £10m deal for Celtic's Maeda",
+      "summary": "The latest news, rumours and gossip from around Scottish football",
       "category": [
-        "Sverige"
+        "Transfer"
       ],
-      "status": "Confirmed",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.27/0.42/7ca72eca5e8a3fad570c3863552106d5918b74ff0f5934d237dd10039f88ec95",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-maeda-celtic_7296732.jpg?20260713153835",
       "sources": [
         {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/golf/uppgifter-dechambeau-ville-involvera-trump-for-att-slippa-pliktslag"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/golf/uppgifter-dechambeau-ville-involvera-trump-for-att-slippa-pliktslag"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more"
       },
       "confirmed_by": [],
-      "id": "uppgifter-dechambeau-ville-involvera-trump-f-r-att-slippa-pliktslag"
+      "id": "scot-prem-latest-ipswich-closing-in-on-10m-deal-for-celtic-s-maeda"
     },
     {
       "published_at": "2026-07-21T14:07:00+00:00",
@@ -1083,33 +1092,6 @@
       "id": "bournemouth-latest-deal-to-sign-benfica-defender-silva-progressing"
     },
     {
-      "published_at": "2026-07-21T11:50:00+00:00",
-      "updated_at": "2026-07-21T11:50:00+00:00",
-      "title": "Ipswich latest: Tractor Boys sign Van Oevelen",
-      "summary": "Read the full report at Sky Sports.",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/06/1600x900/skysports-ipswich-town-news_7281011.jpg?20260623154649",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-      },
-      "confirmed_by": [],
-      "id": "ipswich-latest-tractor-boys-sign-van-oevelen"
-    },
-    {
       "published_at": "2026-07-20T15:17:00+00:00",
       "updated_at": "2026-07-20T15:17:00+00:00",
       "title": "Former England forward and manager Keegan dies aged 75",
@@ -1162,6 +1144,33 @@
       },
       "confirmed_by": [],
       "id": "brighton-latest-crofts-leaves-to-join-de-zerbi-at-spurs"
+    },
+    {
+      "published_at": "2026-07-21T14:00:00+00:00",
+      "updated_at": "2026-07-21T14:00:00+00:00",
+      "title": "Celtic and Rangers charged by SFA as police 'petrified' by Old Firm disorder",
+      "summary": "Rangers and Celtic have been hit with disciplinary charges over the trouble that followed their Scottish Cup clash at Ibrox",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/03/1600x900/skysports-scottish-cup-celtic_7186255.jpg?20260308174706",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13565627/old-firm-pitch-invasion-rangers-and-celtic-charged-by-scottish-fa-over-trouble-after-scottish-cup-game-at-ibrox"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13565627/old-firm-pitch-invasion-rangers-and-celtic-charged-by-scottish-fa-over-trouble-after-scottish-cup-game-at-ibrox"
+      },
+      "confirmed_by": [],
+      "id": "celtic-and-rangers-charged-by-sfa-as-police-petrified-by-old-firm-disorder"
     },
     {
       "published_at": "2026-07-21T11:44:00+00:00",
@@ -1217,33 +1226,6 @@
       },
       "confirmed_by": [],
       "id": "ny-era-i-premier-league-tr-narkarusell-och-miljardregn"
-    },
-    {
-      "published_at": "2026-07-20T07:56:47+00:00",
-      "updated_at": "2026-07-20T07:56:47+00:00",
-      "title": "Bästa VM-truppen på decennier – svårtydaste förutsättningarna någonsin",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "b-sta-vm-truppen-p-decennier-sv-rtydaste-f-ruts-ttningarna-n-gonsin"
     },
     {
       "published_at": "2026-07-20T07:21:13+00:00",
@@ -1356,33 +1338,6 @@
     {
       "published_at": "2026-07-21T11:00:00+00:00",
       "updated_at": "2026-07-21T11:00:00+00:00",
-      "title": "Mjällbys drag inför kvalet – ringt om hjälp",
-      "summary": "Mjällby AIF ska kvala till Champions League för första gången någonsin. Då avslöjar klubbchefen Jacob Lennartsson en udda taktik – man har ringt andra svenska klubbar för att be om tips. – Vi gjorde det redan i höstas, berättar han för Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/RVlNnsL1VWfvTz86UqGQTYIT4qWpj4tVho14ekpn.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/mjallbys-drag-infor-kvalet-ringt-om-hjalp-698344"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/mjallbys-drag-infor-kvalet-ringt-om-hjalp-698344"
-      },
-      "confirmed_by": [],
-      "id": "mj-llbys-drag-inf-r-kvalet-ringt-om-hj-lp"
-    },
-    {
-      "published_at": "2026-07-21T11:00:00+00:00",
-      "updated_at": "2026-07-21T11:00:00+00:00",
       "title": "TV-guide: IFK Göteborg – FCI Levadia - så kan du se kvalmatchen",
       "summary": "Matchen mellan Örgryte IS och Djurgårdens IF spelas i kväll på Gamla Ullevi i Göteborg med avspark 19.00. Här är förutsättningarna inför mötet – och hur du ser matchen",
       "category": [
@@ -1406,6 +1361,33 @@
       },
       "confirmed_by": [],
       "id": "tv-guide-ifk-g-teborg-fci-levadia-s-kan-du-se-kvalmatchen"
+    },
+    {
+      "published_at": "2026-07-21T11:00:00+00:00",
+      "updated_at": "2026-07-21T11:00:00+00:00",
+      "title": "Mjällbys drag inför kvalet – ringt om hjälp",
+      "summary": "Mjällby AIF ska kvala till Champions League för första gången någonsin. Då avslöjar klubbchefen Jacob Lennartsson en udda taktik – man har ringt andra svenska klubbar för att be om tips. – Vi gjorde det redan i höstas, berättar han för Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/RVlNnsL1VWfvTz86UqGQTYIT4qWpj4tVho14ekpn.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/mjallbys-drag-infor-kvalet-ringt-om-hjalp-698344"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/mjallbys-drag-infor-kvalet-ringt-om-hjalp-698344"
+      },
+      "confirmed_by": [],
+      "id": "mj-llbys-drag-inf-r-kvalet-ringt-om-hj-lp"
     },
     {
       "published_at": "2026-07-21T10:00:00+00:00",
