@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-21T15:44:43.067097+00:00",
+  "updated_at": "2026-07-21T17:21:23.981153+00:00",
   "items": [
     {
       "published_at": "2026-07-21T15:33:42+00:00",
       "updated_at": "2026-07-21T15:33:42+00:00",
       "title": "'Pressure is intense and scrutiny constant' - referee Taylor retires",
-      "summary": "47-year-old took charge of two tournament matches Taylor has refereed in the Premier League for 16 years Anthony Taylor has announced his retirement from elite refereeing after a distinguished career spanning more than two decades and 831 matches. One of England’s most accomplished officials, the 47-year-old officiated 668 matches in the professional game in England. He brings the curtain down on his career following his final appointment – the World Cup last-16 tie between Portugal and Spain in the United States.",
+      "summary": "The 47-year-old took charge of five World Cup matches Taylor has refereed in the Premier League for 16 years Anthony Taylor has announced his retirement from elite refereeing after a distinguished career spanning more than two decades and 831 matches. One of England’s most accomplished officials, the 47-year-old officiated 668 matches in the professional game in England. He brings the curtain down on his career following his final appointment – the World Cup last-16 game between Portugal and Spain in the US.",
       "category": [
         "Football"
       ],
@@ -46,6 +46,116 @@
       "id": "pressure-is-intense-and-scrutiny-constant-referee-taylor-retires"
     },
     {
+      "published_at": "2026-07-21T16:37:11+00:00",
+      "updated_at": "2026-07-21T16:37:11+00:00",
+      "title": "Consortium in talks to buy Liverpool minority stake",
+      "summary": "A consortium led by British-Indian millionaire businessman Amit Bhatia expresses an interest in buying a minority stake in Liverpool",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b9f4/live/375cfcb0-851e-11f1-97e8-4f50dea2b016.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c1j1081dyn1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c1j1081dyn1o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "id": "consortium-in-talks-to-buy-liverpool-minority-stake"
+    },
+    {
+      "published_at": "2026-07-21T16:36:15+00:00",
+      "updated_at": "2026-07-21T16:36:15+00:00",
+      "title": "Middlesbrough agree fee for Spurs striker Lankshear",
+      "summary": "Middlesbrough agree a deal to could rise to a club-record £20m for Tottenham striker Will Lankshear",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/756f/live/1caa8690-850e-11f1-9ebc-53bc1d9d88bb.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8rnjvpm0g4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c8rnjvpm0g4o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "id": "middlesbrough-agree-fee-for-spurs-striker-lankshear"
+    },
+    {
+      "published_at": "2026-07-21T16:16:41+00:00",
+      "updated_at": "2026-07-21T16:16:41+00:00",
+      "title": "Villa in talks to sign Chelsea's Garnacho",
+      "summary": "Aston Villa enter talks to sign Chelsea winger Alejandro Garnacho on loan, with a potential obligation to buy",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bd8f/live/caf318e0-8516-11f1-a08a-6d526d664753.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cn9ng770v8po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13565713/alejandro-garnacho-transfer-news-aston-villa-begin-talks-to-sign-forward-from-chelsea"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cn9ng770v8po?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13565713/alejandro-garnacho-transfer-news-aston-villa-begin-talks-to-sign-forward-from-chelsea"
+        }
+      ],
+      "id": "villa-in-talks-to-sign-chelsea-s-garnacho"
+    },
+    {
       "published_at": "2026-07-20T14:57:39+00:00",
       "updated_at": "2026-07-20T14:57:39+00:00",
       "title": "What will Rogers bring to Alonso's Chelsea?",
@@ -80,6 +190,33 @@
         }
       ],
       "id": "what-will-rogers-bring-to-alonso-s-chelsea"
+    },
+    {
+      "published_at": "2026-07-21T15:53:28+00:00",
+      "updated_at": "2026-07-21T15:53:28+00:00",
+      "title": "Ipswich complete £20m deal for Ghana winger Fatawu",
+      "summary": "Ipswich Town complete the £20m signing of Abdul Fatawu, who played in all four of Ghana's games at the World Cup",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fdb3/live/3a774090-8514-11f1-a08a-6d526d664753.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cr49r3w9734o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr49r3w9734o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "ipswich-complete-20m-deal-for-ghana-winger-fatawu"
     },
     {
       "published_at": "2026-07-21T13:54:14+00:00",
@@ -193,116 +330,6 @@
       "id": "japan-goalkeeper-okuma-signs-for-aston-villa"
     },
     {
-      "published_at": "2026-07-21T08:00:28+00:00",
-      "updated_at": "2026-07-21T08:00:28+00:00",
-      "title": "Tottenham sign France defender Sombath from Lyon",
-      "summary": "Tottenham have signed France international Alice Sombath for a club record fee from Lyon",
-      "category": [
-        "Premier League",
-        "Ligue 1",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ef08/live/7a8ed430-84d4-11f1-8a1f-271692b35cb6.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cj03r94g62eo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cj03r94g62eo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "tottenham-sign-france-defender-sombath-from-lyon"
-    },
-    {
-      "published_at": "2026-07-21T05:47:13+00:00",
-      "updated_at": "2026-07-21T05:47:13+00:00",
-      "title": "The country that doesn't play football... yet",
-      "summary": "Nauru is the only nation to have never played an official international football match and hardly anyone there plays the game.",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9599/live/2a716010-84e0-11f1-8a1f-271692b35cb6.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5y03dermmeo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5y03dermmeo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "the-country-that-doesn-t-play-football-yet"
-    },
-    {
-      "published_at": "2026-07-20T23:11:08+00:00",
-      "updated_at": "2026-07-20T23:11:08+00:00",
-      "title": "Ex-Villa striker Duran joins seventh club aged 22",
-      "summary": "Former Aston Villa striker Jhon Duran joins Benfica on a season-long loan from Saudi Arabian side Al-Nassr",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ce18/live/b6695400-848c-11f1-b9ee-539fb5ec334e.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c75gwl3n50qo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c75gwl3n50qo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "ex-villa-striker-duran-joins-seventh-club-aged-22"
-    },
-    {
-      "published_at": "2026-07-20T19:32:37+00:00",
-      "updated_at": "2026-07-20T19:32:37+00:00",
-      "title": "Fifa opens investigation into Argentina post-final trouble - what happens next?",
-      "summary": "Argentina will face an investigation into the ugly scenes at the end of the World Cup final, Fifa has confirmed",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d24c/live/0a2e58b0-8447-11f1-878a-03d79d819c89.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "fifa-opens-investigation-into-argentina-post-final-trouble-what-happens-next"
-    },
-    {
       "published_at": "2026-07-21T13:11:53+00:00",
       "updated_at": "2026-07-21T13:11:53+00:00",
       "title": "Experten hyllar Hammarbys värvning av Amin Boudri",
@@ -369,7 +396,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.55/0.32/628c02117adf76abb2a378f70ffe3aca45723eac028770720d2935e9471b8a76",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.51/0.32/bc2949ea1316fc6a309ffd2422b6bc54b6d7ea7869a4d9b2767715c08af9d18f",
       "sources": [
         {
           "name": "SVT Sport",
@@ -383,6 +410,34 @@
       },
       "confirmed_by": [],
       "id": "jim-gottfridsson-terv-nder-till-sverige-klar-f-r-ifk-ystad"
+    },
+    {
+      "published_at": "2026-07-21T17:15:00+00:00",
+      "updated_at": "2026-07-21T17:15:00+00:00",
+      "title": "West Ham agree big-money deal with Al Hilal for Summerville",
+      "summary": "West Ham have reached an agreement with Al Hilal for the sale of Crysencio Summerville",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-crysencio-summerville_7286595.jpg?20260630141233",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13565724/crysencio-summerville-al-hilal-reach-agreement-with-west-ham-to-sign-netherlands-international"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13565724/crysencio-summerville-al-hilal-reach-agreement-with-west-ham-to-sign-netherlands-international"
+      },
+      "confirmed_by": [],
+      "id": "west-ham-agree-big-money-deal-with-al-hilal-for-summerville"
     },
     {
       "published_at": "2026-07-21T08:00:00+00:00",
@@ -413,34 +468,6 @@
       "id": "arsenal-chelsea-and-man-utd-target-scott-rejects-new-bournemouth-contract"
     },
     {
-      "published_at": "2026-07-20T21:10:00+00:00",
-      "updated_at": "2026-07-20T21:10:00+00:00",
-      "title": "Palace seek £55m-plus for Lacroix as talks with Chelsea begin",
-      "summary": "Chelsea are in talks with Crystal Palace over the signing of defender Maxence Lacroix",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-maxence-lacroix-crystal-palace_7302822.jpg?20260720205359",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13565423/maxence-lacroix-transfer-news-chelsea"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13565423/maxence-lacroix-transfer-news-chelsea"
-      },
-      "confirmed_by": [],
-      "id": "palace-seek-55m-plus-for-lacroix-as-talks-with-chelsea-begin"
-    },
-    {
       "published_at": "2026-07-20T10:20:00+00:00",
       "updated_at": "2026-07-20T10:20:00+00:00",
       "title": "What would a 64-team World Cup look like - and could it work in 2030?",
@@ -466,6 +493,88 @@
       },
       "confirmed_by": [],
       "id": "what-would-a-64-team-world-cup-look-like-and-could-it-work-in-2030"
+    },
+    {
+      "published_at": "2026-07-21T15:30:49+00:00",
+      "updated_at": "2026-07-21T15:30:49+00:00",
+      "title": "In the US, the 2026 World Cup’s legacy will be an invitation to do it all again | Leander Schaerlaeckens",
+      "summary": "Fifa’s gargantuan revenue influx from the tournament, with little left over for locals, will beget more exploitation You do not, under any circumstance, have to hand it to Fifa. You do, however, have to acknowledge that the 2026 World Cup was successful in all of the ways it was intended to be successful. The soccer was interesting and competitive and dramatic, albeit mostly not great – not that this really a necessary ingredient for a compelling sporting product.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/4aaf4b3c6e2dfb6dd25cc8d1713f35adc6cddae8/0_0_4321_3457/master/4321.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=a55a5a8611e2d26f501c8e6040fedd2f",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/21/world-cup-legacy-united-states-fifa"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/21/world-cup-legacy-united-states-fifa"
+      },
+      "confirmed_by": [],
+      "id": "in-the-us-the-2026-world-cup-s-legacy-will-be-an-invitation-to-do-it-all-again-leander-sch"
+    },
+    {
+      "published_at": "2026-07-21T15:05:34+00:00",
+      "updated_at": "2026-07-21T15:05:34+00:00",
+      "title": "Football Daily | Here are 48 reasons to cherish the World Cup (minus the Geopolitics)",
+      "summary": "The Geopolitics World Cup is already fading from view, replaced by a thin July gruel of pre-season friendlies and transfer tales. But there’s still time to cast another look back over the 48-team, 104-game, 308-goal leviathan that has dominated the last six weeks of our lives. Without further ado, here are 48 reasons to cherish this year’s World Cup (minus the Geopolitics).",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/fe6a4f5494b8d4aea2bd72292bcc7d2e15021525/1052_0_5260_4208/master/5260.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=77afb94f58f9fc1d833323056e6339f9",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/21/football-daily-email-world-cup"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/21/football-daily-email-world-cup"
+      },
+      "confirmed_by": [],
+      "id": "football-daily-here-are-48-reasons-to-cherish-the-world-cup-minus-the-geopolitics"
+    },
+    {
+      "published_at": "2026-07-21T12:44:40+00:00",
+      "updated_at": "2026-07-21T12:44:40+00:00",
+      "title": "‘Reclaim football’: Sepp Blatter joins La Liga chief in call for Gianni Infantino to resign",
+      "summary": "Blatter joins attack on successor as head of world football Spanish league boss Javier Tebas slams Fifa elections The Fifa president, Gianni Infantino, has come in for heavy criticism from his predecessor, Sepp Blatter, and La Liga’s president, Javier Tebas, with the pair united in the belief he should stand down. As Spain celebrated their World Cup win on Sunday, Tebas accused Infantino of “destroying the football industry” by prioritising the World Cup over national competitions. Blatter has called for “fans, players and national associations to reclaim football and bring it back to its roots under new leadership”.",
+      "category": [
+        "La Liga",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/0c0e829079f0a836e444de0b591f0bbd82847daf/369_0_3686_2949/master/3686.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bafc62252594a86f8bd34d61dc3927b2",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/21/la-liga-chief-javier-tebas-claims-fifa-is-destroying-football-industry-and-calls-for-gianni-infantino-to-quit"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/21/la-liga-chief-javier-tebas-claims-fifa-is-destroying-football-industry-and-calls-for-gianni-infantino-to-quit"
+      },
+      "confirmed_by": [],
+      "id": "reclaim-football-sepp-blatter-joins-la-liga-chief-in-call-for-gianni-infantino-to-resign"
     },
     {
       "published_at": "2026-07-21T12:41:13+00:00",
@@ -521,33 +630,6 @@
       },
       "confirmed_by": [],
       "id": "spurs-break-their-women-s-transfer-record-to-sign-alice-sombath-from-lyonnes"
-    },
-    {
-      "published_at": "2026-07-21T08:00:04+00:00",
-      "updated_at": "2026-07-21T08:00:04+00:00",
-      "title": "Nico Williams, Ferran Torres and Spain’s adaptable World Cup excellence | Jeff Rueter",
-      "summary": "The two substitutes combined on the World Cup winning goal not by changing the game, but by offering it what it needed, when it was needed As Spain built into the second half of extra-time of Sunday’s World Cup final, it was already clear that Argentina hoped to make them suffer. Every challenge left no stud unshown. Their defenders labored to block striker Mikel Oyarzabal from his typical lanes of service, with Spain taking 11 of their 20 attempts from beyond the box.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/b8b9f0356f8d40364de36c9f0dac6e5543af6d77/339_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=343817653504752af58fa469597714e5",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/21/nico-williams-ferran-torres-spain-world-cup-final"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/21/nico-williams-ferran-torres-spain-world-cup-final"
-      },
-      "confirmed_by": [],
-      "id": "nico-williams-ferran-torres-and-spain-s-adaptable-world-cup-excellence-jeff-rueter"
     },
     {
       "published_at": "2026-07-20T14:00:42+00:00",
@@ -686,33 +768,6 @@
       "id": "where-did-they-go-homeless-people-feel-force-of-america-s-brutality-in-world-cup-clean-up"
     },
     {
-      "published_at": "2026-07-15T11:30:53+00:00",
-      "updated_at": "2026-07-15T11:30:53+00:00",
-      "title": "How are London City Lionesses able to embark on such a transfer spree?",
-      "summary": "Many are in awe of the investment that Michele Kang is making into the women’s game. Others, though, are baffled There is one team whose transfer activity this summer has captured everyone’s attention. London City Lionesses, a club who finished in the bottom half of the second tier a little over two years ago, have stunned the women’s game by signing a flurry of big names, including the Spain stars Alexia Putellas and Mapi León, the former England goalkeeper Mary Earps, and then, on Wednesday morning, the France winger Kadidiatou Diani.",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/208a25ac83e7edf2997d15c280b7dd0d691816ef/0_2179_5464_4369/master/5464.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=95bdb957cd33baffcab9eb087ae8b0ed",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/15/london-city-lionesses-transfers-wsl-michele-kang"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/15/london-city-lionesses-transfers-wsl-michele-kang"
-      },
-      "confirmed_by": [],
-      "id": "how-are-london-city-lionesses-able-to-embark-on-such-a-transfer-spree"
-    },
-    {
       "published_at": "2026-07-21T11:25:00+00:00",
       "updated_at": "2026-07-21T11:25:00+00:00",
       "title": "Reflektioner efter Hammarby - Degerfors",
@@ -822,6 +877,87 @@
       "id": "kafaji-klar-f-r-london-city-fotbollssurr-om-verg-ngen"
     },
     {
+      "published_at": "2026-07-21T17:09:52+00:00",
+      "updated_at": "2026-07-21T17:09:52+00:00",
+      "title": "Hanna Öberg gravid – påverkar nästa säsong",
+      "summary": "Hanna Öberg är gravid och nästa säsong påverkas i stor omfattning",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.22/0.3/8e3c307b4f827e92b2ab44f767337f88e41adb4a4e66aaf56697aab4b385f850",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/skidskytte/hanna-oberg-gravid-missar-nasta-sasong"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/skidskytte/hanna-oberg-gravid-missar-nasta-sasong"
+      },
+      "confirmed_by": [],
+      "id": "hanna-berg-gravid-p-verkar-n-sta-s-song"
+    },
+    {
+      "published_at": "2026-07-21T16:21:27+00:00",
+      "updated_at": "2026-07-21T16:21:27+00:00",
+      "title": "Experten om Gottfridssons flytt: ”Gjorde mig lite ledsen”",
+      "summary": "Jim Gottfridsson, 33, har lämnat världseliten för den svenska andraligan. Beskedet tas emot med förvåning – och sorg. – Det gjorde mig lite ledsen, säger SVT:s expert Magnus Grahn",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.26/0.43/ee8f165f0f84f3f136df23bd83ae7efc085e239944896fdec91c2859b2c1edd5",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/handboll/experten-om-gottfridssons-flytt-gjorde-mig-lite-ledsen"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/handboll/experten-om-gottfridssons-flytt-gjorde-mig-lite-ledsen"
+      },
+      "confirmed_by": [],
+      "id": "experten-om-gottfridssons-flytt-gjorde-mig-lite-ledsen"
+    },
+    {
+      "published_at": "2026-07-21T16:09:47+00:00",
+      "updated_at": "2026-07-21T16:09:47+00:00",
+      "title": "Norske roddlegendaren Olaf Tufte död – blev 50 år",
+      "summary": "I dag kom chockbeskedet att Norges främste roddare genom tiderna, Olaf Tufte, dött i en ålder av 50 år. – Han var en av Norges främsta idrottshjältar, säger Norges statsminister Jonas Gahr Störe",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.35/55c5caab6bd1fabc1ab66297f59f79ac939e9e45bd05284ced47c57216d6d2b8",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/rodd/norske-roddlegendaren-olaf-tufte-dod-blev-50-ar"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/rodd/norske-roddlegendaren-olaf-tufte-dod-blev-50-ar"
+      },
+      "confirmed_by": [],
+      "id": "norske-roddlegendaren-olaf-tufte-d-d-blev-50-r"
+    },
+    {
       "published_at": "2026-07-21T14:24:48+00:00",
       "updated_at": "2026-07-21T14:24:48+00:00",
       "title": "Trots steget ner – landslagsdörren öppen för Jim Gottfridsson",
@@ -833,7 +969,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.37/0.2/f4477a1fc13e9902d1be4f75ef88983868c267abc4468b01a9eaeee973765a03",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.38/0.39/f4477a1fc13e9902d1be4f75ef88983868c267abc4468b01a9eaeee973765a03",
       "sources": [
         {
           "name": "SVT Sport",
@@ -930,87 +1066,6 @@
       "id": "charles-sagoe-jr-hyllas-av-lagkamraten-toppklass"
     },
     {
-      "published_at": "2026-07-20T18:51:47+00:00",
-      "updated_at": "2026-07-20T18:51:47+00:00",
-      "title": "Adrian Skogmar räddade poäng mot Kalmar",
-      "summary": "Kalmar var på väg att ta ännu en hemmaseger. Då klev Adrian Skogmar fram och räddade poäng för Malmö. – Vi kom hit för att vinna och lyckades inte göra det, säger Malmös Noah John till SVT Sport",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.24/0.44/0a6eb9cf109fd014fd0e7fdece3a09d1bbcfb96d5f28a452bb699405ea51d520",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/adrian-skogmar-raddade-poang-mot-kalmar"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/adrian-skogmar-raddade-poang-mot-kalmar"
-      },
-      "confirmed_by": [],
-      "id": "adrian-skogmar-r-ddade-po-ng-mot-kalmar"
-    },
-    {
-      "published_at": "2026-07-20T18:35:24+00:00",
-      "updated_at": "2026-07-20T18:35:24+00:00",
-      "title": "Lionel Messis första ord efter VM-finalen: ”Smärtan är stor”",
-      "summary": "Nu tar han bladet från munnen efter finalförlusten. ”Det är svårt att uppskatta det vi åstadkom”, skriver han",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.59/0.61/e94a76051c135b18b028904f98987c8d4e5e7d04201363d600b653fc0c137f1b",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/lionel-messis-forsta-ord-efter-vm-finalen-smartan-ar-stor"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/lionel-messis-forsta-ord-efter-vm-finalen-smartan-ar-stor"
-      },
-      "confirmed_by": [],
-      "id": "lionel-messis-f-rsta-ord-efter-vm-finalen-sm-rtan-r-stor"
-    },
-    {
-      "published_at": "2026-07-20T14:28:15+00:00",
-      "updated_at": "2026-07-20T14:28:15+00:00",
-      "title": "Kevin Keegan är död – blev 75 år gammal",
-      "summary": "Fotbollsikonen förlorade kampen mot cancern och blev 75 år gammal. ”Han var en mycket älskad make, far och farfar”, skriver familjen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.65/0.65/e050509f2df0053d26a13f2f4e096cf5334ca5133b31958f4937928d8409af8f",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/kevin-keegan-ar-dod-blev-75-ar-gammal"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/kevin-keegan-ar-dod-blev-75-ar-gammal"
-      },
-      "confirmed_by": [],
-      "id": "kevin-keegan-r-d-d-blev-75-r-gammal"
-    },
-    {
       "published_at": "2026-07-21T15:30:00+00:00",
       "updated_at": "2026-07-21T15:30:00+00:00",
       "title": "Scot Prem latest: Ipswich closing in on £10m deal for Celtic's Maeda",
@@ -1038,33 +1093,6 @@
       "id": "scot-prem-latest-ipswich-closing-in-on-10m-deal-for-celtic-s-maeda"
     },
     {
-      "published_at": "2026-07-21T14:07:00+00:00",
-      "updated_at": "2026-07-21T14:07:00+00:00",
-      "title": "Spurs latest: Middlesbrough agree club-record deal for Lankshear",
-      "summary": "Read the full report at Sky Sports.",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://e0.365dm.com/26/04/1600x900/skysports-spurs-roberto-de-zerbi_7216074.jpg?20260410141222",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "spurs-latest-middlesbrough-agree-club-record-deal-for-lankshear"
-    },
-    {
       "published_at": "2026-07-21T12:06:00+00:00",
       "updated_at": "2026-07-21T12:06:00+00:00",
       "title": "Bournemouth latest: Deal to sign Benfica defender Silva progressing",
@@ -1090,33 +1118,6 @@
       },
       "confirmed_by": [],
       "id": "bournemouth-latest-deal-to-sign-benfica-defender-silva-progressing"
-    },
-    {
-      "published_at": "2026-07-20T15:17:00+00:00",
-      "updated_at": "2026-07-20T15:17:00+00:00",
-      "title": "Former England forward and manager Keegan dies aged 75",
-      "summary": "Former England player and manager Kevin Keegan dies aged 75 after battle with cancer; Keegans family announced in January he had been diagnosed with stage four cancer; legendary forward was twice named Ballon dOr winner in 1978 and 1979",
-      "category": [
-        "Coach"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-kevin-keegan-football_7298472.png?20260720152747",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13563799/kevin-keegan-dies-aged-75-former-england-forward-and-manager-passes-away-after-battle-with-cancer"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13563799/kevin-keegan-dies-aged-75-former-england-forward-and-manager-passes-away-after-battle-with-cancer"
-      },
-      "confirmed_by": [],
-      "id": "former-england-forward-and-manager-keegan-dies-aged-75"
     },
     {
       "published_at": "2026-07-16T10:50:00+00:00",
@@ -1200,6 +1201,33 @@
       "id": "arsenal-most-impacted-the-clubs-hit-hardest-by-world-cup"
     },
     {
+      "published_at": "2026-07-21T10:30:00+00:00",
+      "updated_at": "2026-07-21T10:30:00+00:00",
+      "title": "Charges and challenges - the scale of the task facing Maresca at Man City",
+      "summary": "Plenty of the Premier League's top clubs have rolled the managerial dice ahead of next season. Manchester City are one of those starting a new era, turning to Enzo Maresca in the wake of Pep Guardiola's decision to depart",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-enzo-maresca-manchester-city_7285861.jpg?20260629163014",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13564300/enzo-maresca-as-man-city-manager-can-italian-make-a-success-of-his-return-to-a-club-so-entrenched-in-pep-guardiolas-way"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13564300/enzo-maresca-as-man-city-manager-can-italian-make-a-success-of-his-return-to-a-club-so-entrenched-in-pep-guardiolas-way"
+      },
+      "confirmed_by": [],
+      "id": "charges-and-challenges-the-scale-of-the-task-facing-maresca-at-man-city"
+    },
+    {
       "published_at": "2026-07-21T10:41:00+00:00",
       "updated_at": "2026-07-21T10:41:00+00:00",
       "title": "\"Ny era i Premier League - tränarkarusell och miljardregn\"",
@@ -1228,17 +1256,19 @@
       "id": "ny-era-i-premier-league-tr-narkarusell-och-miljardregn"
     },
     {
-      "published_at": "2026-07-20T07:21:13+00:00",
-      "updated_at": "2026-07-20T07:21:13+00:00",
-      "title": "\"Upplagt för historisk skräll för Norge mot ett darrigt England\"",
+      "published_at": "2026-07-21T07:14:11+00:00",
+      "updated_at": "2026-07-21T07:14:11+00:00",
+      "title": "Experten: \"Därför vinner PSG mot Arsenal i CL-finalen\"",
       "summary": "Read the full report at Fotbollskanalen.",
       "category": [
-        "Sverige"
+        "Sverige",
+        "Premier League",
+        "Ligue 1"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
+      "club": "arsenal",
       "image": "",
       "sources": [
         {
@@ -1252,34 +1282,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "upplagt-f-r-historisk-skr-ll-f-r-norge-mot-ett-darrigt-england"
-    },
-    {
-      "published_at": "2026-07-21T11:08:14+00:00",
-      "updated_at": "2026-07-21T11:08:14+00:00",
-      "title": "David Squires on … Spain winning the World Cup final in the shadow of Trump",
-      "summary": "Let this be a lesson for everyone foolish enough to cast Spain as underdogs. How they enjoyed dishing it out here, reducing France to passengers and surely guaranteeing nobody will make the same mistake twice. They will be favourites to win Sunday’s final, whether that turns out to be a rerun against England or a time-bending meeting of Lamine Yamal and Lionel Messi, and those minded to back against Luis de la Fuente’s side will need a mightily compelling reason.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/12152bc57a839127dccf10f5d6871246f738fbb4/74_332_585_468/master/585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=03520bb781562086ac2617d6ae0de62b",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/picture/2026/jul/21/david-squires-spain-winning-world-cup-final-argentina-shadow-of-donald-trump"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/picture/2026/jul/21/david-squires-spain-winning-world-cup-final-argentina-shadow-of-donald-trump"
-      },
-      "confirmed_by": [],
-      "id": "david-squires-on-spain-winning-the-world-cup-final-in-the-shadow-of-trump"
+      "id": "experten-d-rf-r-vinner-psg-mot-arsenal-i-cl-finalen"
     },
     {
       "published_at": "2026-07-21T12:30:00+00:00",
@@ -1338,33 +1341,6 @@
     {
       "published_at": "2026-07-21T11:00:00+00:00",
       "updated_at": "2026-07-21T11:00:00+00:00",
-      "title": "TV-guide: IFK Göteborg – FCI Levadia - så kan du se kvalmatchen",
-      "summary": "Matchen mellan Örgryte IS och Djurgårdens IF spelas i kväll på Gamla Ullevi i Göteborg med avspark 19.00. Här är förutsättningarna inför mötet – och hur du ser matchen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/1UdLfyrs1XBr5FXihCvAMgwRGxMIxJ5q8rWOl3vc.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/tv-guide-ifk-goteborg-fci-levadia-sa-kan-du-se-kvalmatchen-698337"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/tv-guide-ifk-goteborg-fci-levadia-sa-kan-du-se-kvalmatchen-698337"
-      },
-      "confirmed_by": [],
-      "id": "tv-guide-ifk-g-teborg-fci-levadia-s-kan-du-se-kvalmatchen"
-    },
-    {
-      "published_at": "2026-07-21T11:00:00+00:00",
-      "updated_at": "2026-07-21T11:00:00+00:00",
       "title": "Mjällbys drag inför kvalet – ringt om hjälp",
       "summary": "Mjällby AIF ska kvala till Champions League för första gången någonsin. Då avslöjar klubbchefen Jacob Lennartsson en udda taktik – man har ringt andra svenska klubbar för att be om tips. – Vi gjorde det redan i höstas, berättar han för Fotbollskanalen",
       "category": [
@@ -1388,6 +1364,33 @@
       },
       "confirmed_by": [],
       "id": "mj-llbys-drag-inf-r-kvalet-ringt-om-hj-lp"
+    },
+    {
+      "published_at": "2026-07-21T11:00:00+00:00",
+      "updated_at": "2026-07-21T11:00:00+00:00",
+      "title": "TV-guide: IFK Göteborg – FCI Levadia - så kan du se kvalmatchen",
+      "summary": "Matchen mellan Örgryte IS och Djurgårdens IF spelas i kväll på Gamla Ullevi i Göteborg med avspark 19.00. Här är förutsättningarna inför mötet – och hur du ser matchen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/1UdLfyrs1XBr5FXihCvAMgwRGxMIxJ5q8rWOl3vc.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/tv-guide-ifk-goteborg-fci-levadia-sa-kan-du-se-kvalmatchen-698337"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/tv-guide-ifk-goteborg-fci-levadia-sa-kan-du-se-kvalmatchen-698337"
+      },
+      "confirmed_by": [],
+      "id": "tv-guide-ifk-g-teborg-fci-levadia-s-kan-du-se-kvalmatchen"
     },
     {
       "published_at": "2026-07-21T10:00:00+00:00",
@@ -1442,6 +1445,33 @@
       },
       "confirmed_by": [],
       "id": "21-ring-l-mnar-bajen-f-r-ok-nd-klubb"
+    },
+    {
+      "published_at": "2026-07-21T17:44:00+00:00",
+      "updated_at": "2026-07-21T17:44:00+00:00",
+      "title": "Man Utd latest: Red Devils target Summerville Saudi-bound",
+      "summary": "Read the full report at Sky Sports.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/02/1600x900/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "man-utd-latest-red-devils-target-summerville-saudi-bound"
     }
   ]
 }
