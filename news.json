@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-07-21T06:28:53.777250+00:00",
+  "updated_at": "2026-07-21T09:27:17.956925+00:00",
   "items": [
+    {
+      "published_at": "2026-07-21T08:10:01+00:00",
+      "updated_at": "2026-07-21T08:10:01+00:00",
+      "title": "Bournemouth midfielder Scott rejects new contract",
+      "summary": "Alex Scott has turned down a new Bournemouth contract amid strong interest from Arsenal, Chelsea and Manchester United, Sky Sports News understands",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b9d9/live/41d52260-84da-11f1-8a1f-271692b35cb6.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c0rdn1p2z45o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13565480/alex-scott-bournemouth-midfielder-rejects-new-contract-amid-strong-interest-from-arsenal-chelsea-and-manchester-united"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c0rdn1p2z45o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13565480/alex-scott-bournemouth-midfielder-rejects-new-contract-amid-strong-interest-from-arsenal-chelsea-and-manchester-united"
+        }
+      ],
+      "id": "bournemouth-midfielder-scott-rejects-new-contract"
+    },
     {
       "published_at": "2026-07-20T19:32:37+00:00",
       "updated_at": "2026-07-20T19:32:37+00:00",
@@ -20,10 +56,6 @@
           "url": "https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/spain-vs-argentina/live/549869"
-        },
-        {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/football/2026/jul/20/argentina-players-face-bans-as-fifa-opens-investigation-into-world-cup-final-brawls"
         }
@@ -34,10 +66,6 @@
         "url": "https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/spain-vs-argentina/live/549869"
-        },
         {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/football/2026/jul/20/argentina-players-face-bans-as-fifa-opens-investigation-into-world-cup-final-brawls"
@@ -119,6 +147,42 @@
       "id": "guardiola-in-reported-talks-with-italy-would-england-come-calling"
     },
     {
+      "published_at": "2026-07-20T14:57:39+00:00",
+      "updated_at": "2026-07-20T14:57:39+00:00",
+      "title": "What will Rogers bring to Alonso's Chelsea?",
+      "summary": "Chelsea's £117m move for Aston Villa forward Morgan Rogers is a genuine transfer window shock, but how did they do it and what does it mean for the rest of the squad?",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "xabi-alonso",
+      "entity_type": "coaches",
+      "club": "chelsea",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7687/live/db736060-8414-11f1-b3ec-1d7f0502d196.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13565270/morgan-rogers-to-chelsea-what-does-the-arrival-of-the-england-forward-mean-for-the-blues-squad"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13565270/morgan-rogers-to-chelsea-what-does-the-arrival-of-the-england-forward-mean-for-the-blues-squad"
+        }
+      ],
+      "id": "what-will-rogers-bring-to-alonso-s-chelsea"
+    },
+    {
       "published_at": "2026-07-20T14:38:28+00:00",
       "updated_at": "2026-07-20T14:38:28+00:00",
       "title": "Newcastle, Liverpool and England legend Keegan dies",
@@ -155,46 +219,102 @@
       "id": "newcastle-liverpool-and-england-legend-keegan-dies"
     },
     {
-      "published_at": "2026-07-20T11:04:45+00:00",
-      "updated_at": "2026-07-20T11:04:45+00:00",
-      "title": "Villa sign Wolves midfielder Gomes in £38m deal",
-      "summary": "Aston Villa move for Brazil midfielder Joao Gomes after Amadou Onana suffered a serious knee injury at the World Cup",
+      "published_at": "2026-07-20T10:20:00+00:00",
+      "updated_at": "2026-07-20T10:20:00+00:00",
+      "title": "What would a 64-team World Cup look like - and could it work in 2030?",
+      "summary": "This year's World Cup is finally over - and after 48 teams took part, it was a long, long tournament. But just as we bid to say goodbye to the 2026 edition, this competition may be getting even bigger",
       "category": [
-        "Premier League",
-        "Transfer"
+        "Football"
       ],
       "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f20f/live/41081e60-842a-11f1-96d8-4b9d5565f166.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0f18/live/5739fe70-8055-11f1-a10f-077d9cf2208e.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cnvndy7pej9o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cly7ley50g9o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13564311/joao-gomes-aston-villa-sign-midfielder-from-wolves-in-38m-deal"
+          "url": "https://www.skysports.com/football/news/11095/13563086/world-cup-becoming-a-64-team-tournament-would-create-logistical-challenges-so-can-gianni-infantinos-idea-work"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cnvndy7pej9o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cly7ley50g9o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13564311/joao-gomes-aston-villa-sign-midfielder-from-wolves-in-38m-deal"
+          "url": "https://www.skysports.com/football/news/11095/13563086/world-cup-becoming-a-64-team-tournament-would-create-logistical-challenges-so-can-gianni-infantinos-idea-work"
         }
       ],
-      "id": "villa-sign-wolves-midfielder-gomes-in-38m-deal"
+      "id": "what-would-a-64-team-world-cup-look-like-and-could-it-work-in-2030"
+    },
+    {
+      "published_at": "2026-07-21T09:22:27+00:00",
+      "updated_at": "2026-07-21T09:22:27+00:00",
+      "title": "Japan goalkeeper Okuma signs for Aston Villa",
+      "summary": "Aston Villa announce the signing of 21-year-old Japan goalkeeper Akane Okuma",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ed47/live/9fe418f0-84e1-11f1-8a1f-271692b35cb6.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cx25wj22003o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx25wj22003o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "japan-goalkeeper-okuma-signs-for-aston-villa"
+    },
+    {
+      "published_at": "2026-07-21T08:00:28+00:00",
+      "updated_at": "2026-07-21T08:00:28+00:00",
+      "title": "Tottenham sign France defender Sombath from Lyon",
+      "summary": "Tottenham have signed France international Alice Sombath for a club record fee from Lyon",
+      "category": [
+        "Premier League",
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ef08/live/7a8ed430-84d4-11f1-8a1f-271692b35cb6.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cj03r94g62eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cj03r94g62eo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "tottenham-sign-france-defender-sombath-from-lyon"
     },
     {
       "published_at": "2026-07-21T05:47:13+00:00",
       "updated_at": "2026-07-21T05:47:13+00:00",
-      "title": "Introducing football to the country with one pitch",
+      "title": "The country that doesn't play football ... yet",
       "summary": "Nauru is the only nation to have never played an official international football match and hardly anyone there plays the game.",
       "category": [
         "Football"
@@ -203,7 +323,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0e2f/live/46a91e50-8119-11f1-8b8c-8f0447398806.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9599/live/2a716010-84e0-11f1-8a1f-271692b35cb6.jpg",
       "sources": [
         {
           "name": "BBC Sport",
@@ -216,115 +336,34 @@
         "url": "https://www.bbc.co.uk/sport/football/articles/c5y03dermmeo?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "introducing-football-to-the-country-with-one-pitch"
+      "id": "the-country-that-doesn-t-play-football-yet"
     },
     {
-      "published_at": "2026-07-20T23:11:08+00:00",
-      "updated_at": "2026-07-20T23:11:08+00:00",
-      "title": "Ex-Villa striker Duran joins seventh club aged 22",
-      "summary": "Former Aston Villa striker Jhon Duran joins Benfica on a season-long loan from Saudi Arabian side Al-Nassr",
+      "published_at": "2026-07-21T06:34:51+00:00",
+      "updated_at": "2026-07-21T06:34:51+00:00",
+      "title": "Jim Gottfridsson återvänder till Sverige – klar för IFK Ystad",
+      "summary": "Jim Gottfridsson väljer att vända hem till Sverige och IFK Ystad. Landslagsstjärnan har skrivit på ett treårskontrakt. – När möjligheten att komma hem till IFK Ystad blev verklighet kändes beslutet helt rätt, säger han till klubbens hemsida",
       "category": [
-        "Transfer"
+        "Sverige"
       ],
       "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ce18/live/b6695400-848c-11f1-b9ee-539fb5ec334e.jpg",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.55/0.32/628c02117adf76abb2a378f70ffe3aca45723eac028770720d2935e9471b8a76",
       "sources": [
         {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c75gwl3n50qo?at_medium=RSS&at_campaign=rss"
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/handboll/jim-gottfridsson-atervander-till-sverige-klar-for-ifk-ystad"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c75gwl3n50qo?at_medium=RSS&at_campaign=rss"
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/handboll/jim-gottfridsson-atervander-till-sverige-klar-for-ifk-ystad"
       },
       "confirmed_by": [],
-      "id": "ex-villa-striker-duran-joins-seventh-club-aged-22"
-    },
-    {
-      "published_at": "2026-07-20T16:51:31+00:00",
-      "updated_at": "2026-07-20T16:51:31+00:00",
-      "title": "Thank you for making this a World Cup to remember on the BBC",
-      "summary": "BBC Director of Sport Alex Kay-Jelski's message as BBC Sport delivers a record-breaking World Cup across TV, radio, online and social",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f57c/live/2a89c2f0-8444-11f1-8075-ad45bd007d17.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/articles/c1l1g3pjl3yo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/articles/c1l1g3pjl3yo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "thank-you-for-making-this-a-world-cup-to-remember-on-the-bbc"
-    },
-    {
-      "published_at": "2026-07-20T16:19:24+00:00",
-      "updated_at": "2026-07-20T16:19:24+00:00",
-      "title": "Hearts agree deal to sign Forest Green captain Mendy",
-      "summary": "Forest Green Rovers captain Laurent Mendy is set to become Hearts' 10th summer signing",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9ba6/live/bad41b40-f6bd-11f0-b352-c18a700f188f.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckg9r7v2vg3o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckg9r7v2vg3o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "hearts-agree-deal-to-sign-forest-green-captain-mendy"
-    },
-    {
-      "published_at": "2026-07-20T14:57:39+00:00",
-      "updated_at": "2026-07-20T14:57:39+00:00",
-      "title": "What will Rogers bring to Alonso's Chelsea?",
-      "summary": "Chelsea's £117m move for Aston Villa forward Morgan Rogers is a genuine transfer window shock, but how did they do it and what does it mean for the rest of the squad?",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Confirmed",
-      "entity": "xabi-alonso",
-      "entity_type": "coaches",
-      "club": "chelsea",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7687/live/db736060-8414-11f1-b3ec-1d7f0502d196.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "what-will-rogers-bring-to-alonso-s-chelsea"
+      "id": "jim-gottfridsson-terv-nder-till-sverige-klar-f-r-ifk-ystad"
     },
     {
       "published_at": "2026-07-20T23:20:00+00:00",
@@ -381,10 +420,38 @@
       "id": "a-tribute-to-kevin-keegan-1951-2026"
     },
     {
-      "published_at": "2026-07-20T17:00:46+00:00",
-      "updated_at": "2026-07-20T17:00:46+00:00",
-      "title": "Spain’s metronome: the statistics behind Rodri’s superb World Cup campaign",
-      "summary": "Midfielder’s supreme passing was too much for Argentina to handle in the final but his work without the ball proved just as crucial Rodri is back to his best after multiple injury problems. The former Ballon d’Or winner has started only 22 games since rupturing his anterior cruciate ligament in September 2024 but you would have no idea from his performances at the World Cup that he had suffered so badly in the previous two years. The 30-year-old was already leading several statistical categories coming into the final on Sunday.",
+      "published_at": "2026-07-21T08:47:31+00:00",
+      "updated_at": "2026-07-21T08:47:31+00:00",
+      "title": "Spurs break their women’s transfer record to sign Alice Sombath from Lyonnes",
+      "summary": "France defender is club’s sixth signing of the summer Coach Ho says she is aggressive and good on the ball Tottenham have signed the France defender Alice Sombath from Lyonnes for a club record fee. The price paid for the 22-year-old has not been disclosed but the previous club record, paid for Signe Gaupset in January, was reportedly more than £375,000. “The league is very competitive, every game is a tough game and that’s what I’m most excited about,” said Sombath.",
+      "category": [
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://i.guim.co.uk/img/media/0d17a3ac93c7d521a3c1b3598c302271fc2eb518/1039_136_1132_905/master/1132.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=90603f0ccde31cdbdbc0b5bd218e903f",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/21/spurs-sign-alice-sombath-from-lyonnes-transfer-record"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/21/spurs-sign-alice-sombath-from-lyonnes-transfer-record"
+      },
+      "confirmed_by": [],
+      "id": "spurs-break-their-women-s-transfer-record-to-sign-alice-sombath-from-lyonnes"
+    },
+    {
+      "published_at": "2026-07-21T08:00:04+00:00",
+      "updated_at": "2026-07-21T08:00:04+00:00",
+      "title": "Nico Williams, Ferran Torres and Spain’s adaptable World Cup excellence | Jeff Rueter",
+      "summary": "The two substitutes combined on the World Cup winning goal not by changing the game, but by offering it what it needed, when it was needed As Spain built into the second half of extra-time of Sunday’s World Cup final, it was already clear that Argentina hoped to make them suffer. Every challenge left no stud unshown. Their defenders labored to prevent striker Mikel Oyarzabal from his typical lanes of service, with Spain taking eleven of their 20 attempts from beyond the box.",
       "category": [
         "Football"
       ],
@@ -392,20 +459,20 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://i.guim.co.uk/img/media/a2cf9f39cee47ef511b12067ec86b26c51a96ae4/273_0_3767_3013/master/3767.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ea226b944b0d804d1b9461a4758d7184",
+      "image": "https://i.guim.co.uk/img/media/b8b9f0356f8d40364de36c9f0dac6e5543af6d77/339_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=343817653504752af58fa469597714e5",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/20/rodri-spain-world-cup-final-2026-argentina-pass-accuracy"
+          "url": "https://www.theguardian.com/football/2026/jul/21/nico-williams-ferran-torres-spain-world-cup-final"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/20/rodri-spain-world-cup-final-2026-argentina-pass-accuracy"
+        "url": "https://www.theguardian.com/football/2026/jul/21/nico-williams-ferran-torres-spain-world-cup-final"
       },
       "confirmed_by": [],
-      "id": "spain-s-metronome-the-statistics-behind-rodri-s-superb-world-cup-campaign"
+      "id": "nico-williams-ferran-torres-and-spain-s-adaptable-world-cup-excellence-jeff-rueter"
     },
     {
       "published_at": "2026-07-20T15:02:51+00:00",
@@ -544,34 +611,6 @@
       "id": "fifa-gives-fraud-an-open-door-with-betting-says-council-of-europe-chief"
     },
     {
-      "published_at": "2026-07-18T18:10:33+00:00",
-      "updated_at": "2026-07-18T18:10:33+00:00",
-      "title": "Chelsea poised to sign Morgan Rogers from Aston Villa in record-breaking £117m deal",
-      "summary": "Fee makes Rogers most expensive English player Arsenal were also keen on Rogers, a £15m Villa signing Chelsea are poised to sign Morgan Rogers from Aston Villa for £117m. The attacking midfielder has agreed terms on a six-year contract and is due to undergo a medical on Monday. Arsenal were interested in Rogers and made contact with Villa this month but Chelsea have long tracked the 23-year-old’s progress and have moved quickly to land one of Xabi Alonso’s top targets.",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://i.guim.co.uk/img/media/8ac87a3ed69edf58b8e46cbbe3e5c52ffc711ddb/276_188_3498_2799/master/3498.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aabc9b01d651514018d43a195b45bed3",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/18/chelsea-morgan-rogers-aston-villa-117m"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/18/chelsea-morgan-rogers-aston-villa-117m"
-      },
-      "confirmed_by": [],
-      "id": "chelsea-poised-to-sign-morgan-rogers-from-aston-villa-in-record-breaking-117m-deal"
-    },
-    {
       "published_at": "2026-07-18T15:15:43+00:00",
       "updated_at": "2026-07-18T15:15:43+00:00",
       "title": "‘Where did they go?’: homeless people feel force of America’s brutality in World Cup clean-up",
@@ -597,33 +636,6 @@
       },
       "confirmed_by": [],
       "id": "where-did-they-go-homeless-people-feel-force-of-america-s-brutality-in-world-cup-clean-up"
-    },
-    {
-      "published_at": "2026-07-16T13:38:05+00:00",
-      "updated_at": "2026-07-16T13:38:05+00:00",
-      "title": "Football Daily | It’s the end of the World Cup as England know it",
-      "summary": "In the last half an hour of their end-of-days Geopolitics World Cup semi-final with Argentina, England committed to the bit in the Deep South. Thomas Tuchel stood and watched national trauma unfold in front of his eyes as towering aerial threats such as Alexis Mac Allister and Lautaro Martínez beat his four centre-backs to cross after cross. Forget the ghosts of ‘66, the spectre of Southgate loomed over his successor as realism reared its ugly head at the business end of an England men’s major-tournament run once again .",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/37d1631afe60e01172e67cd9dece4cdb224d63a5/1_0_6347_5078/master/6347.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=34a341eb00ec692bb47a0be6a66f5856",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/16/football-daily-email-gwc-england-argentina"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/16/football-daily-email-gwc-england-argentina"
-      },
-      "confirmed_by": [],
-      "id": "football-daily-it-s-the-end-of-the-world-cup-as-england-know-it"
     },
     {
       "published_at": "2026-07-15T11:30:53+00:00",
@@ -1006,87 +1018,6 @@
       "id": "fansen-firar-efter-finalen-i-fotbolls-vm"
     },
     {
-      "published_at": "2026-07-20T07:25:18+00:00",
-      "updated_at": "2026-07-20T07:25:18+00:00",
-      "title": "Lionel Scaloni bröt ihop på presskonferensen",
-      "summary": "Argentinas förbundskapten Lionel Scaloni bröt ihop på presskonferensen efter VM-finalen. – Förlåt mig, säger han innan han lämnar podiet",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.47/0.39/c4df67de76d5d2c2f342ef7e4ec9814cd0d2210699878d52b677bb19d9a64e0d",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/lionel-scaloni-brot-ihop-pa-presskonferensen"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/lionel-scaloni-brot-ihop-pa-presskonferensen"
-      },
-      "confirmed_by": [],
-      "id": "lionel-scaloni-br-t-ihop-p-presskonferensen"
-    },
-    {
-      "published_at": "2026-07-20T19:55:00+00:00",
-      "updated_at": "2026-07-20T19:55:00+00:00",
-      "title": "Talks confirmed for 64-team World Cup in 2030",
-      "summary": "Read the full report at Sky Sports.",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/25/11/1600x900/skysports-world-cup-trophy_7084567.jpg?20251117221849",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans"
-      },
-      "confirmed_by": [],
-      "id": "talks-confirmed-for-64-team-world-cup-in-2030"
-    },
-    {
-      "published_at": "2026-07-20T11:31:00+00:00",
-      "updated_at": "2026-07-20T11:31:00+00:00",
-      "title": "Man Utd latest: Teenager Thompson joins from Spurs in £8m deal",
-      "summary": "Read the full report at Sky Sports.",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/26/02/1600x900/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "man-utd-latest-teenager-thompson-joins-from-spurs-in-8m-deal"
-    },
-    {
       "published_at": "2026-07-20T17:40:00+00:00",
       "updated_at": "2026-07-20T17:40:00+00:00",
       "title": "The trends that defined the World Cup",
@@ -1139,34 +1070,6 @@
       },
       "confirmed_by": [],
       "id": "was-rodri-really-the-player-of-the-tournament"
-    },
-    {
-      "published_at": "2026-07-20T15:00:00+00:00",
-      "updated_at": "2026-07-20T15:00:00+00:00",
-      "title": "What does Rogers' move mean for Chelsea's squad?",
-      "summary": "Morgan Rogers is set to join Chelsea in a British-record £117m from Aston Villa - and his arrival is set to have a knock-on effect for Xabi Alonso's Blues",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-premier-league-chelsea_7302475.jpg?20260720142040",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13565270/morgan-rogers-to-chelsea-what-does-the-arrival-of-the-england-forward-mean-for-the-blues-squad"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13565270/morgan-rogers-to-chelsea-what-does-the-arrival-of-the-england-forward-mean-for-the-blues-squad"
-      },
-      "confirmed_by": [],
-      "id": "what-does-rogers-move-mean-for-chelsea-s-squad"
     },
     {
       "published_at": "2026-07-20T11:34:00+00:00",
@@ -1222,33 +1125,6 @@
       },
       "confirmed_by": [],
       "id": "how-has-the-world-cup-impacted-the-ballon-d-or-race"
-    },
-    {
-      "published_at": "2026-07-20T08:47:00+00:00",
-      "updated_at": "2026-07-20T08:47:00+00:00",
-      "title": "'Nothing to blame them for' - Argentina papers defend team after dismal final and brawl",
-      "summary": "Argentina's national media defended their team's performance in the World Cup final - despite a defensive and ill-disciplined display",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-leandro-parades-argentina_7301946.jpg?20260719234200",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13565144/world-cup-final-spain-1-0-argentina-lionel-messis-side-defended-by-national-newspapers-despite-dismal-display"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13565144/world-cup-final-spain-1-0-argentina-lionel-messis-side-defended-by-national-newspapers-despite-dismal-display"
-      },
-      "confirmed_by": [],
-      "id": "nothing-to-blame-them-for-argentina-papers-defend-team-after-dismal-final-and-brawl"
     },
     {
       "published_at": "2026-07-20T07:56:47+00:00",
@@ -1331,6 +1207,87 @@
       },
       "confirmed_by": [],
       "id": "ny-era-i-premier-league-tr-narkarusell-och-miljardregn"
+    },
+    {
+      "published_at": "2026-07-21T06:00:04+00:00",
+      "updated_at": "2026-07-21T06:00:04+00:00",
+      "title": "Gaza celebrates World Cup victory of Spanish team they took into their hearts",
+      "summary": "People gather at cafes and outdoor screenings to support team after Spain’s backing for Palestinian rights The Spanish football team’s World Cup win has been celebrated in the streets of Gaza, where Spain’s support for Palestinian rights and Israel’s backing for the Argentinian team turned the competition into more than a football showdown. Gathered at cafes and outdoor screenings, Palestinians defied the risk of Israeli attacks to cheer on a team they had taken to their hearts.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/78e255eea424e5a5b37006672b2169a3a7838e85/325_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02b19d8b96201a3aab25a12ccffc77a5",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/21/gaza-celebrates-world-cup-victory-of-spanish-team-they-took-into-their-hearts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/21/gaza-celebrates-world-cup-victory-of-spanish-team-they-took-into-their-hearts"
+      },
+      "confirmed_by": [],
+      "id": "gaza-celebrates-world-cup-victory-of-spanish-team-they-took-into-their-hearts"
+    },
+    {
+      "published_at": "2026-07-21T09:21:46+00:00",
+      "updated_at": "2026-07-21T09:21:46+00:00",
+      "title": "21-åring lämnar Bajen – för okänd (?) klubb",
+      "summary": "Bea Sprung och Hammarby går skilda vägar. Mittfältaren lämnar Bajen efter ett år. Hennes nya klubbadress är ”en utländsk klubb”",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/KZarsPQhlw9YbDSQX4BJzU8gQzfwP9Q8v95qW8sx.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/21-aring-lamnar-bajen-for-okand-klubb-698341"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/21-aring-lamnar-bajen-for-okand-klubb-698341"
+      },
+      "confirmed_by": [],
+      "id": "21-ring-l-mnar-bajen-f-r-ok-nd-klubb"
+    },
+    {
+      "published_at": "2026-07-21T08:00:00+00:00",
+      "updated_at": "2026-07-21T08:00:00+00:00",
+      "title": "Power ranking – de är bäst efter omgång 13 i Allsvenskan",
+      "summary": "Sirius och Hammarby tuffar på och formtoppade AIK klättrar i Emil Annetorps allsvenska power ranking efter 13 spelade omgångar. Omgångens besvikelse är regerande mästarna Mjällby som har förtvivlat svårt att vinna och som riskerar att tappa ännu mer mark i tabellen nu när Europaspelet inleds",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/AduiU3nnaXqaLsz5EAa1tBlINdHQCmxQ7Y0hz9Lx.png",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/power-ranking-de-ar-bast-efter-omgang-13-i-allsvenskan-698328"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/power-ranking-de-ar-bast-efter-omgang-13-i-allsvenskan-698328"
+      },
+      "confirmed_by": [],
+      "id": "power-ranking-de-r-b-st-efter-omg-ng-13-i-allsvenskan"
     },
     {
       "published_at": "2026-07-21T06:00:00+00:00",
@@ -1441,58 +1398,112 @@
       "id": "matchrapport-kalmar-ff-malm-ff-2-2"
     },
     {
-      "published_at": "2026-07-20T19:07:56+00:00",
-      "updated_at": "2026-07-20T19:07:56+00:00",
-      "title": "Krönika - En novembermatch i juli",
-      "summary": "Det var blött, kallt och inte speciellt vackert. Men det var en match som passade oss mycket bättre än Malmö",
+      "published_at": "2026-07-21T10:11:00+00:00",
+      "updated_at": "2026-07-21T10:11:00+00:00",
+      "title": "Chelsea latest: 'Stones added to centre-backs list'",
+      "summary": "Read the full report at Sky Sports.",
       "category": [
-        "Sverige"
+        "Premier League"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/0CTVnAn2KUOyxOHMgCl14BjmQI8ZeLfh2pWk3eNU.jpg",
+      "club": "chelsea",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
       "sources": [
         {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/kronika-en-novembermatch-i-juli-698320"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/kronika-en-novembermatch-i-juli-698320"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "kr-nika-en-novembermatch-i-juli"
+      "id": "chelsea-latest-stones-added-to-centre-backs-list"
     },
     {
-      "published_at": "2026-07-20T19:07:00+00:00",
-      "updated_at": "2026-07-20T19:07:00+00:00",
-      "title": "Missräkning mot nykomlingen",
-      "summary": "Efter två raka segrar reste Djurgården ner till västkusten för ett möte med den allsvenska nykomlingen Örgryte. Jani Honkavaara såg nog fram emot sin första serie med tre vunna matcher i rad men blåränderna fick dessvärre resa hem med ett oavgjort resultat. Två viktiga poäng för att hänga med i toppstriden förlorades och det blir åter till träningsplanen för att se till att de verktyg som behövs för att luckra upp ett lågt stående lag tas fram",
+      "published_at": "2026-07-21T09:15:00+00:00",
+      "updated_at": "2026-07-21T09:15:00+00:00",
+      "title": "Bournemouth latest: Arsenal? Chelsea? Man Utd? What is Scott's best option?",
+      "summary": "Read the full report at Sky Sports.",
       "category": [
-        "Sverige"
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://e0.365dm.com/26/05/1600x900/skysports-premier-league-club-rumours_7259337.jpg?20260527081428",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+      },
+      "confirmed_by": [],
+      "id": "bournemouth-latest-arsenal-chelsea-man-utd-what-is-scott-s-best-option"
+    },
+    {
+      "published_at": "2026-07-20T17:00:00+00:00",
+      "updated_at": "2026-07-20T17:00:00+00:00",
+      "title": "Newcastle latest: Plans to be announced for Keegan book of condolence",
+      "summary": "Read the full report at Sky Sports.",
+      "category": [
+        "Premier League"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/G4YmHJmsz6taWF7UqSOzAvIHg42XaKZmZMkrDhVY.jpg",
+      "image": "https://e0.365dm.com/25/10/1600x900/skysports-newcastle-news-club_7039263.jpg?20251002160522",
       "sources": [
         {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/missrakning-mot-nykomlingen-698319"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/missrakning-mot-nykomlingen-698319"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "missr-kning-mot-nykomlingen"
+      "id": "newcastle-latest-plans-to-be-announced-for-keegan-book-of-condolence"
+    },
+    {
+      "published_at": "2026-07-20T15:30:00+00:00",
+      "updated_at": "2026-07-20T15:30:00+00:00",
+      "title": "'Rest in peace, King Kev' - Reaction and tributes as Keegan passes away",
+      "summary": "Kevin Keegan dies aged 75: Reaction and tributes for former England player and manager",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-kevin-keegan_7262850.jpg?20260720153405",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13565310/kevin-keegan-dies-aged-75-reaction-and-tributes-for-former-england-player-and-manager"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13565310/kevin-keegan-dies-aged-75-reaction-and-tributes-for-former-england-player-and-manager"
+      },
+      "confirmed_by": [],
+      "id": "rest-in-peace-king-kev-reaction-and-tributes-as-keegan-passes-away"
     }
   ]
 }
