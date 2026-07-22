@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-22T19:21:38.167463+00:00",
+  "updated_at": "2026-07-22T21:21:24.964132+00:00",
   "items": [
     {
-      "published_at": "2026-07-22T18:08:12+00:00",
-      "updated_at": "2026-07-22T18:08:12+00:00",
+      "published_at": "2026-07-22T20:44:04+00:00",
+      "updated_at": "2026-07-22T20:44:04+00:00",
       "title": "Inter Miami under investigation after signing Casemiro",
       "summary": "Midfielder signs a one-year deal with extension option League investigation centers on the transfer Inter Miami have signed Casemiro as a free agent, but Major League Soccer is investigating the South Florida side for potential tampering in the process of acquiring the Brazilian midfielder. Casemiro has signed what amounts to a one-year contract with Miami, beginning now and ending at the conclusion of the 2027 “sprint season” that precedes the league’s switch to a fall-to-spring calendar in 2027-28. There is an option for an extension that would see the Brazilian stay in Miami through the 2028-29 MLS season.",
       "category": [
@@ -45,50 +45,6 @@
         }
       ],
       "id": "inter-miami-under-investigation-after-signing-casemiro"
-    },
-    {
-      "published_at": "2026-07-22T12:17:51+00:00",
-      "updated_at": "2026-07-22T12:17:51+00:00",
-      "title": "Foden signs new four-year Man City contract",
-      "summary": "26-year-old looking forward to working with Maresca ‘To stay this long at the club is a dream’ Phil Foden has signed a new four-year contract with Manchester City, saying he is looking forward to “trying to win more” at his boyhood club. The deal, which has an additional 12-month option, ties the 26-year-old to the club until 2030. Foden is relishing working again with Enzo Maresca.",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ca76/live/f2f76e40-85b6-11f1-bd07-3b1b1452001a.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cg4dz410ld6o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13565922/phil-foden-contract-man-city-star-signs-new-four-year-contract-running-until-summer-of-2030"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/22/phil-foden-signs-new-four-year-manchester-city-contract"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cg4dz410ld6o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13565922/phil-foden-contract-man-city-star-signs-new-four-year-contract-running-until-summer-of-2030"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/22/phil-foden-signs-new-four-year-manchester-city-contract"
-        }
-      ],
-      "id": "foden-signs-new-four-year-man-city-contract"
     },
     {
       "published_at": "2026-07-22T10:30:54+00:00",
@@ -135,8 +91,44 @@
       "id": "southampton-boss-eckert-charged-by-fa-over-spygate"
     },
     {
-      "published_at": "2026-07-22T18:58:52+00:00",
-      "updated_at": "2026-07-22T18:58:52+00:00",
+      "published_at": "2026-07-22T20:33:58+00:00",
+      "updated_at": "2026-07-22T20:33:58+00:00",
+      "title": "Saliba to miss extended period with back injury",
+      "summary": "Arsenal confirm defender William Saliba is set to miss an \"extended period\" after suffering a back injury while at the World Cup with France",
+      "category": [
+        "Injury"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5ae5/live/df2c8db0-860a-11f1-8577-d306e957ffb1.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5yveezg9q3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13566125/william-saliba-injury-arsenal-confirm-france-international-will-miss-extended-period-after-returning-from-world-cup-with-back-problem"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5yveezg9q3o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13566125/william-saliba-injury-arsenal-confirm-france-international-will-miss-extended-period-after-returning-from-world-cup-with-back-problem"
+        }
+      ],
+      "id": "saliba-to-miss-extended-period-with-back-injury"
+    },
+    {
+      "published_at": "2026-07-22T20:19:24+00:00",
+      "updated_at": "2026-07-22T20:19:24+00:00",
       "title": "Villa agree loan deal for Chelsea winger Garnacho",
       "summary": "Aston Villa agree a loan deal for Chelsea winger Alejandro Garnacho until the end of the 2026-27 season, with an obligation to buy",
       "category": [
@@ -170,6 +162,42 @@
         }
       ],
       "id": "villa-agree-loan-deal-for-chelsea-winger-garnacho"
+    },
+    {
+      "published_at": "2026-07-22T12:17:51+00:00",
+      "updated_at": "2026-07-22T12:17:51+00:00",
+      "title": "Foden signs new four-year Man City contract",
+      "summary": "26-year-old looking forward to working with Maresca ‘To stay this long at the club is a dream’ Phil Foden has signed a new four-year contract with Manchester City, saying he is looking forward to “trying to win more” at his boyhood club. The deal, which has an additional 12-month option, ties the 26-year-old to the club until 2030. Foden is relishing working again with Enzo Maresca.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ca76/live/f2f76e40-85b6-11f1-bd07-3b1b1452001a.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cg4dz410ld6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/22/phil-foden-signs-new-four-year-manchester-city-contract"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cg4dz410ld6o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/22/phil-foden-signs-new-four-year-manchester-city-contract"
+        }
+      ],
+      "id": "foden-signs-new-four-year-man-city-contract"
     },
     {
       "published_at": "2026-07-22T10:12:58+00:00",
@@ -208,41 +236,31 @@
       "id": "financial-exceptions-could-be-made-for-guardiola-italian-fa"
     },
     {
-      "published_at": "2026-07-21T16:37:11+00:00",
-      "updated_at": "2026-07-21T16:37:11+00:00",
-      "title": "Consortium in talks to buy Liverpool minority stake",
-      "summary": "A consortium led by British-Indian millionaire businessman Amit Bhatia expresses an interest in buying a minority stake in Liverpool",
+      "published_at": "2026-07-22T20:23:09+00:00",
+      "updated_at": "2026-07-22T20:23:09+00:00",
+      "title": "Swansea sign New Zealand winger Just from Motherwell",
+      "summary": "Elijah Just joins the Championship club after scoring three goals during an impressive World Cup with New Zealand",
       "category": [
-        "Premier League",
         "Transfer"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b9f4/live/375cfcb0-851e-11f1-97e8-4f50dea2b016.jpg",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d75e/live/fea3aa10-83a4-11f1-8175-0b71720eeb65.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c1j1081dyn1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13565844/liverpool-amazon-founder-jeff-bezos-approached-to-join-consortium-led-by-former-qpr-co-owner-amit-bhatia-to-buy-stake-in-club"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqlxreqep15o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c1j1081dyn1o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqlxreqep15o?at_medium=RSS&at_campaign=rss"
       },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13565844/liverpool-amazon-founder-jeff-bezos-approached-to-join-consortium-led-by-former-qpr-co-owner-amit-bhatia-to-buy-stake-in-club"
-        }
-      ],
-      "id": "consortium-in-talks-to-buy-liverpool-minority-stake"
+      "confirmed_by": [],
+      "id": "swansea-sign-new-zealand-winger-just-from-motherwell"
     },
     {
       "published_at": "2026-07-22T18:23:37+00:00",
@@ -326,33 +344,6 @@
       "id": "garnacho-rogers-and-two-clubs-trying-to-balance-the-books"
     },
     {
-      "published_at": "2026-07-22T13:27:08+00:00",
-      "updated_at": "2026-07-22T13:27:08+00:00",
-      "title": "Ipswich sign Diop from Fulham",
-      "summary": "Ipswich Town sign Morocco defender Issa Diop from Fulham for £8.5m",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2c91/live/1870b4c0-85cf-11f1-8618-bb0b0307e54a.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cx2vqxe2e08o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx2vqxe2e08o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "ipswich-sign-diop-from-fulham"
-    },
-    {
       "published_at": "2026-07-22T12:06:36+00:00",
       "updated_at": "2026-07-22T12:06:36+00:00",
       "title": "Henrik Rydström ställd efter frågan – brister ut i skratt",
@@ -407,34 +398,6 @@
       "id": "rangers-to-appeal-mcinnes-four-match-touchline-ban"
     },
     {
-      "published_at": "2026-07-22T17:30:00+00:00",
-      "updated_at": "2026-07-22T17:30:00+00:00",
-      "title": "Barcelona closing in on record-breaking Kerolin deal",
-      "summary": "Barcelona are close to signing Brazilian forward Kerolin from Manchester City for a fee of €1.5m (£1.28m)",
-      "category": [
-        "La Liga",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "barcelona",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-manchester-city-kerolin_7288666.jpg?20260703090438",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13566066/wsl-transfer-latest-barcelona-closing-in-on-deal-for-man-city-forward-kerolin-in-move-worth-1-28m"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13566066/wsl-transfer-latest-barcelona-closing-in-on-deal-for-man-city-forward-kerolin-in-move-worth-1-28m"
-      },
-      "confirmed_by": [],
-      "id": "barcelona-closing-in-on-record-breaking-kerolin-deal"
-    },
-    {
       "published_at": "2026-07-22T11:37:00+00:00",
       "updated_at": "2026-07-22T11:37:00+00:00",
       "title": "Is £100m the new normal? Inside the PL’s transfer price explosion",
@@ -462,58 +425,31 @@
       "id": "is-100m-the-new-normal-inside-the-pl-s-transfer-price-explosion"
     },
     {
-      "published_at": "2026-07-22T10:44:00+00:00",
-      "updated_at": "2026-07-22T10:44:00+00:00",
-      "title": "Italy willing to make 'exceptional' budget change to hire Guardiola",
-      "summary": "The Italian Football Federation (FIGC) has met with Pep Guardiola to convince him to take over as national team head coach and are willing to make an exceptional adjustment to their budget to hire him",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "pep-guardiola",
-      "entity_type": "coaches",
-      "club": "",
-      "image": "https://e0.365dm.com/26/02/1600x900/skysports-pep-guardiola-man-city_7171536.jpg?20260221235445",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13565239/italian-football-federation-hold-talks-with-pep-guardiola-about-replacing-gennaro-gattuso-as-head-coach"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13565239/italian-football-federation-hold-talks-with-pep-guardiola-about-replacing-gennaro-gattuso-as-head-coach"
-      },
-      "confirmed_by": [],
-      "id": "italy-willing-to-make-exceptional-budget-change-to-hire-guardiola"
-    },
-    {
-      "published_at": "2026-07-20T15:00:00+00:00",
-      "updated_at": "2026-07-20T15:00:00+00:00",
-      "title": "How can Chelsea afford Rogers and what does it mean for Alonso's squad?",
-      "summary": "Morgan Rogers has joined Chelsea in a British-record £117m from Aston Villa - and his arrival is set to have a knock-on effect for Xabi Alonso's Blues",
+      "published_at": "2026-07-22T19:31:54+00:00",
+      "updated_at": "2026-07-22T19:31:54+00:00",
+      "title": "Liverpool primed for business: Bezos, Bhatia and the next steps at Anfield | Andy Hunter",
+      "summary": "Fenway Sports Group looks to be locked in talks with a consortium led by the son-in-law of Lakshmi Mittal, while the Amazon founder has now been linked Continue reading",
       "category": [
         "Premier League"
       ],
       "status": "Reported",
-      "entity": "xabi-alonso",
-      "entity_type": "coaches",
-      "club": "chelsea",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-premier-league-chelsea_7302475.jpg?20260720142040",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "https://i.guim.co.uk/img/media/bb1446e8d2808a3c6f2c2269ee491462668eee23/813_113_6351_5083/master/6351.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ef7d98fc01843e52650823291cee4f1c",
       "sources": [
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13565270/morgan-rogers-to-chelsea-what-does-the-arrival-of-the-england-forward-mean-for-the-blues-squad"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/22/liverpool-open-talks-over-selling-significant-stake-in-the-club"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13565270/morgan-rogers-to-chelsea-what-does-the-arrival-of-the-england-forward-mean-for-the-blues-squad"
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/22/liverpool-open-talks-over-selling-significant-stake-in-the-club"
       },
       "confirmed_by": [],
-      "id": "how-can-chelsea-afford-rogers-and-what-does-it-mean-for-alonso-s-squad"
+      "id": "liverpool-primed-for-business-bezos-bhatia-and-the-next-steps-at-anfield-andy-hunter"
     },
     {
       "published_at": "2026-07-22T19:00:22+00:00",
@@ -787,6 +723,60 @@
       "id": "kafaji-klar-f-r-london-city-fotbollssurr-om-verg-ngen"
     },
     {
+      "published_at": "2026-07-22T20:01:41+00:00",
+      "updated_at": "2026-07-22T20:01:41+00:00",
+      "title": "Kaotiska scenerna i depån – efter kraschen",
+      "summary": "Lertäckta scener utspelade sig i depån i matchen mellan Västervik och Lejonen. Lejonens Mateusz Cierniak kraschade och jobbade mot klockan för att hinna bli klar inför omstarten av heatet",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.28/0.35/2b7c3f2c7287b63a016c41948776eee834c72a287a10e9cc8fd31eced0113402",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/speedway/kaotiska-scenerna-i-depan-efter-kraschen"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/speedway/kaotiska-scenerna-i-depan-efter-kraschen"
+      },
+      "confirmed_by": [],
+      "id": "kaotiska-scenerna-i-dep-n-efter-kraschen"
+    },
+    {
+      "published_at": "2026-07-22T19:33:13+00:00",
+      "updated_at": "2026-07-22T19:33:13+00:00",
+      "title": "Nyförvärvet Renecke hyllar Bajenfansen: ”Ger 10–20 procent extra”",
+      "summary": "Waylon Renecke, 20, gjorde debut inför Hammarbys supportrar i 4–0-segern mot Degerfors i söndags. Inför morgondagens kvalmatch till Europa League hemma mot belgiska storklubben Anderlecht hyllar han atmosfären på 3 arena. – Det kommer att bli otroligt, säger sydafrikanen till SVT Sport",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.77/0.36/2b3c245e23c53512bd44031eb1c05a52809d25ecc551f25cd63798dafeabcf65",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/nyforvarvet-renecke-hyllar-bajenfansen-ger-10-20-procent-extra"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/nyforvarvet-renecke-hyllar-bajenfansen-ger-10-20-procent-extra"
+      },
+      "confirmed_by": [],
+      "id": "nyf-rv-rvet-renecke-hyllar-bajenfansen-ger-10-20-procent-extra"
+    },
+    {
       "published_at": "2026-07-22T17:49:10+00:00",
       "updated_at": "2026-07-22T17:49:10+00:00",
       "title": "Johaugs sorg efter nära vännens död: ”Chock”",
@@ -976,59 +966,31 @@
       "id": "vanessa-kamga-tittar-tillbaka-p-klipp-fr-n-2019-oh-my-days"
     },
     {
-      "published_at": "2026-07-22T07:20:47+00:00",
-      "updated_at": "2026-07-22T07:20:47+00:00",
-      "title": "La Liga-toppen Javier Tebas vill se Gianni Infantino avgå: ”Ruttet”",
-      "summary": "Spanska fotbollsligan La Ligas ordförande Javier Tebas sågar Fifa och dess ordförande Gianni Infantino efter VM. – Hans tid är förbi, säger Tebas till italienska Gazzetta dello Sport",
+      "published_at": "2026-07-22T22:00:00+00:00",
+      "updated_at": "2026-07-22T22:00:00+00:00",
+      "title": "New signings shine, absentees and exciting youth - Spurs kickstart pre-season",
+      "summary": "Tottenham made a winning start to pre-season with a 1-0 victory over newly-promoted League One side MK Dons at Hotspur Way",
       "category": [
-        "Sverige",
-        "La Liga"
+        "Transfer"
       ],
-      "status": "Confirmed",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.84/0.35/b68c71a75adc9edfb4699643e6104361d34a0ae69a7530acbcf2dab5dc84cfd2",
+      "club": "tottenham",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-mateus-fernandes_7304489.jpg?20260722191503",
       "sources": [
         {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/la-liga-toppen-javier-tebas-vill-se-gianni-infantino-avga-ruttet"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13566118/tottenham-1-0-mk-dons-spurs-winning-start-to-pre-season-assessed-as-mateus-fernandes-hits-screamer"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/la-liga-toppen-javier-tebas-vill-se-gianni-infantino-avga-ruttet"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13566118/tottenham-1-0-mk-dons-spurs-winning-start-to-pre-season-assessed-as-mateus-fernandes-hits-screamer"
       },
       "confirmed_by": [],
-      "id": "la-liga-toppen-javier-tebas-vill-se-gianni-infantino-avg-ruttet"
-    },
-    {
-      "published_at": "2026-07-22T06:16:34+00:00",
-      "updated_at": "2026-07-22T06:16:34+00:00",
-      "title": "Lionel Messi satte flest rekord i VM 2026",
-      "summary": "Trots att det blev förlust i finalen mot Spanien kan Lionel Messi glädjas åt att han satte tre nya rekord under mästerskapet. När Fifa listar de rekord som slogs har argentinaren flest",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "lionel-messi",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.59/0.61/e94a76051c135b18b028904f98987c8d4e5e7d04201363d600b653fc0c137f1b",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/lionel-messi-satte-flest-rekord-i-vm-2026"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/lionel-messi-satte-flest-rekord-i-vm-2026"
-      },
-      "confirmed_by": [],
-      "id": "lionel-messi-satte-flest-rekord-i-vm-2026"
+      "id": "new-signings-shine-absentees-and-exciting-youth-spurs-kickstart-pre-season"
     },
     {
       "published_at": "2026-07-22T16:05:00+00:00",
@@ -1143,7 +1105,7 @@
     {
       "published_at": "2026-07-22T12:26:12+00:00",
       "updated_at": "2026-07-22T12:26:12+00:00",
-      "title": "New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup",
+      "title": "New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup | Billy Munday",
       "summary": "The first 48-team World Cup had its positives and negatives – do we need to brace for a 64-team future? It was less than 12 months after Gianni Infantino succeeded Sepp Blatter as president that Fifa announced the expansion of the men’s World Cup from 32 to 48 teams. Diego Maradona said he was “delighted by Gianni’s initiative” because it allowed each country to dream of reaching the tournament, renewing their passion for football.",
       "category": [
         "Football"
@@ -1165,13 +1127,13 @@
         "url": "https://www.theguardian.com/football/2026/jul/22/how-48-teams-changed-the-world-cup"
       },
       "confirmed_by": [],
-      "id": "new-faces-gulfs-in-class-and-flawed-drama-how-48-teams-changed-the-world-cup"
+      "id": "new-faces-gulfs-in-class-and-flawed-drama-how-48-teams-changed-the-world-cup-billy-munday"
     },
     {
       "published_at": "2026-07-22T12:12:17+00:00",
       "updated_at": "2026-07-22T12:12:17+00:00",
       "title": "A tournament that crossed borders: crunching the numbers on the diaspora World Cup",
-      "summary": "Nationality in football has never been so complex and the influence of players from the diaspora has never been higher at a World Cup “Nationality says where you come from. And I actually come from four countries: France, Algeria, Nigeria and Great Britain. I consider myself very lucky to possess these four parts, which all enrich me.” This view was given by Michael Olise.",
+      "summary": "Nationality in football is increasingly complex and the influence of players from the diaspora has never been higher at a World Cup “Nationality says where you come from. And I actually come from four countries: France, Algeria, Nigeria and Great Britain. I consider myself very lucky to possess these four parts, which all enrich me.” This view was given by Michael Olise.",
       "category": [
         "Football"
       ],
@@ -1249,31 +1211,31 @@
       "id": "why-many-black-americans-were-rooting-for-argentina-to-lose-the-world-cup-etan-thomas"
     },
     {
-      "published_at": "2026-07-21T11:08:14+00:00",
-      "updated_at": "2026-07-21T11:08:14+00:00",
-      "title": "David Squires on … Spain winning the World Cup final in the shadow of Trump",
-      "summary": "Our cartoonist looks back at the final game of the 2026 World Cup as Donald Trump watched Spain triumph again Buy this cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading",
+      "published_at": "2026-07-22T20:38:45+00:00",
+      "updated_at": "2026-07-22T20:38:45+00:00",
+      "title": "Besaras passning till Augustinsson: ”Inget speciellt”",
+      "summary": "Hammarby möter Anderlecht i kvalet till Europa League. Svenske Ludwig Augustinsson står på andra sidan, men Bajen-kaptenen rycker mest på axlarna. – Det är inget speciellt, säger Nahir Besara, till SVT Sport",
       "category": [
-        "Football"
+        "Sverige"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://i.guim.co.uk/img/media/12152bc57a839127dccf10f5d6871246f738fbb4/74_332_585_468/master/585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=03520bb781562086ac2617d6ae0de62b",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/FVExzo6JenyeVIn3f8YAyrWv0wBnKjWr8ptGvMIz.jpg",
       "sources": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/picture/2026/jul/21/david-squires-spain-winning-world-cup-final-argentina-shadow-of-donald-trump"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/besaras-passning-till-augustinsson-inget-speciellt-698389"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/picture/2026/jul/21/david-squires-spain-winning-world-cup-final-argentina-shadow-of-donald-trump"
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/besaras-passning-till-augustinsson-inget-speciellt-698389"
       },
       "confirmed_by": [],
-      "id": "david-squires-on-spain-winning-the-world-cup-final-in-the-shadow-of-trump"
+      "id": "besaras-passning-till-augustinsson-inget-speciellt"
     },
     {
       "published_at": "2026-07-22T18:00:00+00:00",
@@ -1384,31 +1346,59 @@
       "id": "sex-och-j-vligt-offside-rimliga-f-rv-ntningar"
     },
     {
-      "published_at": "2026-07-21T21:11:05+00:00",
-      "updated_at": "2026-07-21T21:11:05+00:00",
-      "title": "283: \"Hittar de ens dit?\"",
-      "summary": "Efter att ha torkat upp från gårdagens match gläds vi åt en poäng. Vår nya anfallstrio hyllas och lokaltidningen sågas. Blickarna riktas mot helgens möte med Mjällby som gör processen kort med motståndet i Europa och förhoppningen är det blir målkalas på Guldfågeln till helgen!",
+      "published_at": "2026-07-22T21:55:00+00:00",
+      "updated_at": "2026-07-22T21:55:00+00:00",
+      "title": "Rangers secure friendly win in McInnes' first home game",
+      "summary": "The latest news, rumours and gossip from around Scottish football",
       "category": [
-        "Sverige"
+        "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/JN4ZuCc8PWGfLe8Y3ozh50fy5u3Z8OVkgp6uCp0j.jpg",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-derek-mcinnes_7304587.jpg?20260722215513",
       "sources": [
         {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/283-hittar-de-ens-dit-698364"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/283-hittar-de-ens-dit-698364"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more"
       },
       "confirmed_by": [],
-      "id": "283-hittar-de-ens-dit"
+      "id": "rangers-secure-friendly-win-in-mcinnes-first-home-game"
+    },
+    {
+      "published_at": "2026-07-22T21:03:00+00:00",
+      "updated_at": "2026-07-22T21:03:00+00:00",
+      "title": "Aston Villa latest: Why UEFA rules make Garnacho move complicated",
+      "summary": "Read the full report at Sky Sports.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/02/1600x900/skysports-aston-villa-latest_7164113.jpg?20260213143027",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "aston-villa-latest-why-uefa-rules-make-garnacho-move-complicated"
     },
     {
       "published_at": "2026-07-22T19:32:00+00:00",
