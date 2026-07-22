@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T04:17:16.461776+00:00",
+  "updated_at": "2026-07-22T07:34:33.924413+00:00",
   "items": [
     {
       "published_at": "2026-07-21T20:57:20+00:00",
@@ -185,7 +185,7 @@
         },
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13565744/liverpool-consortium-led-by-former-qpr-co-owner-amit-bhatia-seeking-minority-stake-in-anfield-club"
+          "url": "https://www.skysports.com/football/news/11095/13565844/liverpool-amazon-founder-jeff-bezos-approached-to-join-consortium-led-by-former-qpr-co-owner-amit-bhatia-to-buy-stake-in-club"
         }
       ],
       "language": "en",
@@ -196,46 +196,10 @@
       "confirmed_by": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13565744/liverpool-consortium-led-by-former-qpr-co-owner-amit-bhatia-seeking-minority-stake-in-anfield-club"
+          "url": "https://www.skysports.com/football/news/11095/13565844/liverpool-amazon-founder-jeff-bezos-approached-to-join-consortium-led-by-former-qpr-co-owner-amit-bhatia-to-buy-stake-in-club"
         }
       ],
       "id": "consortium-in-talks-to-buy-liverpool-minority-stake"
-    },
-    {
-      "published_at": "2026-07-21T16:36:15+00:00",
-      "updated_at": "2026-07-21T16:36:15+00:00",
-      "title": "Middlesbrough agree fee for Spurs striker Lankshear",
-      "summary": "Middlesbrough agree a deal to could rise to a club-record £20m for Tottenham striker Will Lankshear",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/756f/live/1caa8690-850e-11f1-9ebc-53bc1d9d88bb.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c8rnjvpm0g4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c8rnjvpm0g4o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "id": "middlesbrough-agree-fee-for-spurs-striker-lankshear"
     },
     {
       "published_at": "2026-07-21T16:31:05+00:00",
@@ -275,6 +239,33 @@
       "id": "al-hilal-agree-60m-deal-for-west-ham-s-summerville"
     },
     {
+      "published_at": "2026-07-22T06:47:34+00:00",
+      "updated_at": "2026-07-22T06:47:34+00:00",
+      "title": "Newcastle closing in on Liverpool forward Kiernan",
+      "summary": "Newcastle United are in advanced talks to sign Republic of Ireland forward Leanne Kiernan from Liverpool",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d7e3/live/7abdc950-8459-11f1-8cf4-43aed99842b4.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cr49lgg014ko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr49lgg014ko?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "newcastle-closing-in-on-liverpool-forward-kiernan"
+    },
+    {
       "published_at": "2026-07-21T18:57:34+00:00",
       "updated_at": "2026-07-21T18:57:34+00:00",
       "title": "Chelsea interested in former Man City defender Stones",
@@ -303,6 +294,33 @@
       "id": "chelsea-interested-in-former-man-city-defender-stones"
     },
     {
+      "published_at": "2026-07-21T16:36:15+00:00",
+      "updated_at": "2026-07-21T16:36:15+00:00",
+      "title": "Middlesbrough agree fee for Spurs striker Lankshear",
+      "summary": "Middlesbrough agree a deal to could rise to a club-record £20m for Tottenham striker Will Lankshear",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/756f/live/1caa8690-850e-11f1-9ebc-53bc1d9d88bb.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8rnjvpm0g4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c8rnjvpm0g4o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "middlesbrough-agree-fee-for-spurs-striker-lankshear"
+    },
+    {
       "published_at": "2026-07-21T15:53:28+00:00",
       "updated_at": "2026-07-21T15:53:28+00:00",
       "title": "Ipswich complete £20m deal for Ghana winger Fatawu",
@@ -328,34 +346,6 @@
       },
       "confirmed_by": [],
       "id": "ipswich-complete-20m-deal-for-ghana-winger-fatawu"
-    },
-    {
-      "published_at": "2026-07-21T13:54:14+00:00",
-      "updated_at": "2026-07-21T13:54:14+00:00",
-      "title": "Australia striker McNamara joins Everton",
-      "summary": "Everton sign Australia striker Holly McNamara on a free transfer from Melbourne City",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "everton",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0833/live/e3328110-8503-11f1-8b9b-a724b687bb3b.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c89nxdpyl2eo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c89nxdpyl2eo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "australia-striker-mcnamara-joins-everton"
     },
     {
       "published_at": "2026-07-21T13:11:53+00:00",
@@ -440,6 +430,43 @@
       "id": "jim-gottfridsson-terv-nder-till-sverige-klar-f-r-ifk-ystad"
     },
     {
+      "published_at": "2026-07-21T12:44:40+00:00",
+      "updated_at": "2026-07-21T12:44:40+00:00",
+      "title": "‘Reclaim football’: Sepp Blatter joins La Liga chief in call for Gianni Infantino to resign",
+      "summary": "Blatter attacks successor as Fifa president Javier Tebas says system is ‘rotten at its core’ The Fifa president, Gianni Infantino, has come in for heavy criticism from his predecessor, Sepp Blatter, and the La Liga president, Javier Tebas, with the pair united in the belief that he should stand down. As Spain celebrated their World Cup win on Sunday, Tebas accused Infantino of “destroying the football industry” by prioritising the World Cup over national competitions. Blatter has called for “fans, players and national associations to reclaim football and bring it back to its roots under new leadership”.",
+      "category": [
+        "La Liga",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.84/0.35/b68c71a75adc9edfb4699643e6104361d34a0ae69a7530acbcf2dab5dc84cfd2",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/la-liga-toppen-javier-tebas-vill-se-gianni-infantino-avga-ruttet"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/21/la-liga-chief-javier-tebas-claims-fifa-is-destroying-football-industry-and-calls-for-gianni-infantino-to-quit"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/la-liga-toppen-javier-tebas-vill-se-gianni-infantino-avga-ruttet"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/21/la-liga-chief-javier-tebas-claims-fifa-is-destroying-football-industry-and-calls-for-gianni-infantino-to-quit"
+        }
+      ],
+      "id": "reclaim-football-sepp-blatter-joins-la-liga-chief-in-call-for-gianni-infantino-to-resign"
+    },
+    {
       "published_at": "2026-07-21T23:15:00+00:00",
       "updated_at": "2026-07-21T23:15:00+00:00",
       "title": "Papers: Man Utd considering bid for PSG's Zaire-Emery",
@@ -456,13 +483,13 @@
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13565784/xxxx-paper-talk"
+          "url": "https://www.skysports.com/football/news/11095/13565784/man-utd-transfer-news-psg-midfielder-warren-zaire-emery-targeted-as-united-consider-bid"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13565784/xxxx-paper-talk"
+        "url": "https://www.skysports.com/football/news/11095/13565784/man-utd-transfer-news-psg-midfielder-warren-zaire-emery-targeted-as-united-consider-bid"
       },
       "confirmed_by": [],
       "id": "papers-man-utd-considering-bid-for-psg-s-zaire-emery"
@@ -470,7 +497,7 @@
     {
       "published_at": "2026-07-21T21:30:00+00:00",
       "updated_at": "2026-07-21T21:30:00+00:00",
-      "title": "Enzo Fernandez: Argentina played with 'pride' and 'humility'",
+      "title": "Enzo: Argentina played with 'pride' and 'humility'",
       "summary": "Enzo Fernandez has praised Argentina for playing with \"pride\" and \"humility\" at the 2026 World Cup after it was confirmed FIFA will investigate the team's behaviour after the final",
       "category": [
         "Football"
@@ -492,7 +519,7 @@
         "url": "https://www.skysports.com/football/news/11095/13565780/enzo-fernandez-says-argentina-played-with-pride-and-humility-as-fifa-investigate-world-cup-final-behaviour"
       },
       "confirmed_by": [],
-      "id": "enzo-fernandez-argentina-played-with-pride-and-humility"
+      "id": "enzo-argentina-played-with-pride-and-humility"
     },
     {
       "published_at": "2026-07-21T19:27:00+00:00",
@@ -549,6 +576,33 @@
       "id": "how-can-chelsea-afford-rogers-and-what-does-it-mean-for-alonso-s-squad"
     },
     {
+      "published_at": "2026-07-22T07:00:08+00:00",
+      "updated_at": "2026-07-22T07:00:08+00:00",
+      "title": "World Cup, Ballon d’Or, Champions League, Euros … has Rodri completed football? | The Knowledge",
+      "summary": "Plus: the most World Cup assists, Ballon d’Or winners with fewest caps and what happens to World Cup balls? Mail us with your all of your questions and answers “Adding the World Cup to his résumé means Rodri has now won the World Cup, the European Championship, the Champions League, and the Ballon d’Or,” writes Owen Bagnall. “Has anyone else ‘completed football’ like this?” They have but it’s a small, elite list.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/83bee0ba5b0341d7a419841276950b2b8aaaa8be/1432_361_3745_2996/master/3745.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a51139553388ad91f1db80f19c9ec199",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/22/world-cup-champions-league-ballon-dor-euros-has-rodri-completed-football"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/22/world-cup-champions-league-ballon-dor-euros-has-rodri-completed-football"
+      },
+      "confirmed_by": [],
+      "id": "world-cup-ballon-d-or-champions-league-euros-has-rodri-completed-football-the-knowledge"
+    },
+    {
       "published_at": "2026-07-21T15:05:34+00:00",
       "updated_at": "2026-07-21T15:05:34+00:00",
       "title": "Football Daily | Here are 48 reasons to cherish the World Cup (minus the Geopolitics)",
@@ -574,34 +628,6 @@
       },
       "confirmed_by": [],
       "id": "football-daily-here-are-48-reasons-to-cherish-the-world-cup-minus-the-geopolitics"
-    },
-    {
-      "published_at": "2026-07-21T12:44:40+00:00",
-      "updated_at": "2026-07-21T12:44:40+00:00",
-      "title": "‘Reclaim football’: Sepp Blatter joins La Liga chief in call for Gianni Infantino to resign",
-      "summary": "Blatter attacks successor as Fifa president Javier Tebas says system is ‘rotten at its core’ The Fifa president, Gianni Infantino, has come in for heavy criticism from his predecessor, Sepp Blatter, and the La Liga president, Javier Tebas, with the pair united in the belief that he should stand down. As Spain celebrated their World Cup win on Sunday, Tebas accused Infantino of “destroying the football industry” by prioritising the World Cup over national competitions. Blatter has called for “fans, players and national associations to reclaim football and bring it back to its roots under new leadership”.",
-      "category": [
-        "La Liga",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/0c0e829079f0a836e444de0b591f0bbd82847daf/369_0_3686_2949/master/3686.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bafc62252594a86f8bd34d61dc3927b2",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/21/la-liga-chief-javier-tebas-claims-fifa-is-destroying-football-industry-and-calls-for-gianni-infantino-to-quit"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/21/la-liga-chief-javier-tebas-claims-fifa-is-destroying-football-industry-and-calls-for-gianni-infantino-to-quit"
-      },
-      "confirmed_by": [],
-      "id": "reclaim-football-sepp-blatter-joins-la-liga-chief-in-call-for-gianni-infantino-to-resign"
     },
     {
       "published_at": "2026-07-21T12:41:13+00:00",
@@ -931,6 +957,60 @@
       "id": "kafaji-klar-f-r-london-city-fotbollssurr-om-verg-ngen"
     },
     {
+      "published_at": "2026-07-22T06:16:34+00:00",
+      "updated_at": "2026-07-22T06:16:34+00:00",
+      "title": "Lionel Messi satte flest rekord i VM 2026",
+      "summary": "Trots att det blev förlust i finalen mot Spanien kan Lionel Messi glädjas åt att han satte tre nya rekord under mästerskapet. När Fifa listar de rekord som slogs har argentinaren flest",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "lionel-messi",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.59/0.61/e94a76051c135b18b028904f98987c8d4e5e7d04201363d600b653fc0c137f1b",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/lionel-messi-satte-flest-rekord-i-vm-2026"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/lionel-messi-satte-flest-rekord-i-vm-2026"
+      },
+      "confirmed_by": [],
+      "id": "lionel-messi-satte-flest-rekord-i-vm-2026"
+    },
+    {
+      "published_at": "2026-07-22T05:47:37+00:00",
+      "updated_at": "2026-07-22T05:47:37+00:00",
+      "title": "Så har Hammarby förändrats under Henrik Rydström",
+      "summary": "Henrik Rydström har fått bästa tänkbara start i Hammarby. Nu pekar SVT Sports expert Magnus Eriksson ut förändringarna efter tränarbytet. – Rydströms system släpper loss de offensiva spelarna, säger han",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.27/0.24/c487c00c5b48f5445e4cdee9b8b3b97a3f85035f3382b3845bbdb134a20836e6",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/sa-har-hammarby-forandrats-under-henrik-rydstrom"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/sa-har-hammarby-forandrats-under-henrik-rydstrom"
+      },
+      "confirmed_by": [],
+      "id": "s-har-hammarby-f-r-ndrats-under-henrik-rydstr-m"
+    },
+    {
       "published_at": "2026-07-21T19:11:06+00:00",
       "updated_at": "2026-07-21T19:11:06+00:00",
       "title": "Se dråpliga straffsituationen i Mjällbys CL-kvalmatch",
@@ -1039,141 +1119,6 @@
       "id": "hanna-berg-gravid-p-verkar-n-sta-s-song"
     },
     {
-      "published_at": "2026-07-21T16:21:27+00:00",
-      "updated_at": "2026-07-21T16:21:27+00:00",
-      "title": "Experten om Gottfridssons flytt: ”Gjorde mig lite ledsen”",
-      "summary": "Jim Gottfridsson, 33, har lämnat världseliten för den svenska andraligan. Beskedet tas emot med förvåning – och sorg. – Det gjorde mig lite ledsen, säger SVT:s expert Magnus Grahn",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.26/0.43/ee8f165f0f84f3f136df23bd83ae7efc085e239944896fdec91c2859b2c1edd5",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/handboll/experten-om-gottfridssons-flytt-gjorde-mig-lite-ledsen"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/handboll/experten-om-gottfridssons-flytt-gjorde-mig-lite-ledsen"
-      },
-      "confirmed_by": [],
-      "id": "experten-om-gottfridssons-flytt-gjorde-mig-lite-ledsen"
-    },
-    {
-      "published_at": "2026-07-21T16:09:47+00:00",
-      "updated_at": "2026-07-21T16:09:47+00:00",
-      "title": "Norske roddlegendaren Olaf Tufte död – blev 50 år",
-      "summary": "I dag kom chockbeskedet att Norges främste roddare genom tiderna, Olaf Tufte, dött i en ålder av 50 år. – Han var en av Norges främsta idrottshjältar, säger Norges statsminister Jonas Gahr Störe",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.35/55c5caab6bd1fabc1ab66297f59f79ac939e9e45bd05284ced47c57216d6d2b8",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/rodd/norske-roddlegendaren-olaf-tufte-dod-blev-50-ar"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/rodd/norske-roddlegendaren-olaf-tufte-dod-blev-50-ar"
-      },
-      "confirmed_by": [],
-      "id": "norske-roddlegendaren-olaf-tufte-d-d-blev-50-r"
-    },
-    {
-      "published_at": "2026-07-21T14:24:48+00:00",
-      "updated_at": "2026-07-21T14:24:48+00:00",
-      "title": "Trots steget ner – landslagsdörren öppen för Jim Gottfridsson",
-      "summary": "Handbollsstjärnan Jim Gottfridsson vänder hem till moderklubben IFK Ystad. Men trots att det innebär spel i andradivisionen är han fortfarande aktuell för landslaget. – Vilken division man spelar i avgör inte om man kan spela i landslaget eller inte, säger förbundskaptenen Michael Apelgren",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.38/0.39/f4477a1fc13e9902d1be4f75ef88983868c267abc4468b01a9eaeee973765a03",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/handboll/trots-steget-ner-landslagsdorren-oppen-for-jim-gottfridsson"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/handboll/trots-steget-ner-landslagsdorren-oppen-for-jim-gottfridsson"
-      },
-      "confirmed_by": [],
-      "id": "trots-steget-ner-landslagsd-rren-ppen-f-r-jim-gottfridsson"
-    },
-    {
-      "published_at": "2026-07-21T15:30:00+00:00",
-      "updated_at": "2026-07-21T15:30:00+00:00",
-      "title": "Scot Prem latest: Ipswich closing in on £10m deal for Celtic's Maeda",
-      "summary": "The latest news, rumours and gossip from around Scottish football",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-maeda-celtic_7296732.jpg?20260713153835",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more"
-      },
-      "confirmed_by": [],
-      "id": "scot-prem-latest-ipswich-closing-in-on-10m-deal-for-celtic-s-maeda"
-    },
-    {
-      "published_at": "2026-07-21T14:00:00+00:00",
-      "updated_at": "2026-07-21T14:00:00+00:00",
-      "title": "Celtic and Rangers charged by SFA as police 'petrified' by Old Firm disorder",
-      "summary": "Rangers and Celtic have been hit with disciplinary charges over the trouble that followed their Scottish Cup clash at Ibrox",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/03/1600x900/skysports-scottish-cup-celtic_7186255.jpg?20260308174706",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13565627/old-firm-pitch-invasion-rangers-and-celtic-charged-by-scottish-fa-over-trouble-after-scottish-cup-game-at-ibrox"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13565627/old-firm-pitch-invasion-rangers-and-celtic-charged-by-scottish-fa-over-trouble-after-scottish-cup-game-at-ibrox"
-      },
-      "confirmed_by": [],
-      "id": "celtic-and-rangers-charged-by-sfa-as-police-petrified-by-old-firm-disorder"
-    },
-    {
       "published_at": "2026-07-21T11:44:00+00:00",
       "updated_at": "2026-07-21T11:44:00+00:00",
       "title": "Arsenal most impacted? The clubs hit hardest by World Cup",
@@ -1239,7 +1184,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-aston-villa-unai-emery_7298218.jpg?20260715132153",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-premier-league-aston-villa_7303212.jpg?20260721120309",
       "sources": [
         {
           "name": "Sky Sports",
@@ -1443,6 +1388,33 @@
       },
       "confirmed_by": [],
       "id": "s-ska-bl-vitt-klara-dubbelspel-alla-vill-ha-fler-matcher"
+    },
+    {
+      "published_at": "2026-07-21T22:03:00+00:00",
+      "updated_at": "2026-07-21T22:03:00+00:00",
+      "title": "Arsenal latest: Chelsea the biggest club in London, says former Gunners target Rogers",
+      "summary": "Read the full report at Sky Sports.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://e0.365dm.com/25/10/1600x900/skysports-arsenal-news-club_7039237.jpg?20251002155710",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "arsenal-latest-chelsea-the-biggest-club-in-london-says-former-gunners-target-rogers"
     },
     {
       "published_at": "2026-07-21T02:48:00+00:00",
