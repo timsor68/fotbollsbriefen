@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T02:49:55.904517+00:00",
+  "updated_at": "2026-07-23T05:55:32.578140+00:00",
   "items": [
     {
       "published_at": "2026-07-22T20:44:04+00:00",
@@ -316,6 +316,33 @@
       "id": "klart-amin-boudri-till-hammarby"
     },
     {
+      "published_at": "2026-07-23T05:15:52+00:00",
+      "updated_at": "2026-07-23T05:15:52+00:00",
+      "title": "One month, two record transfers - why English midfielders are in demand",
+      "summary": "Elliot Anderson and Morgan Rogers both sold for record transfer fees, so why are English midfielders so in demand?",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/511a/live/06cf37f0-85e3-11f1-8ade-a7a676c613b9.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cr596gzy8j3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr596gzy8j3o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "one-month-two-record-transfers-why-english-midfielders-are-in-demand"
+    },
+    {
       "published_at": "2026-07-22T20:23:09+00:00",
       "updated_at": "2026-07-22T20:23:09+00:00",
       "title": "Swansea sign New Zealand winger Just from Motherwell",
@@ -368,33 +395,6 @@
       },
       "confirmed_by": [],
       "id": "burkina-faso-mali-and-niger-launch-bid-for-2032-afcon"
-    },
-    {
-      "published_at": "2026-07-22T15:54:29+00:00",
-      "updated_at": "2026-07-22T15:54:29+00:00",
-      "title": "Garnacho, Rogers and two clubs trying to balance the books",
-      "summary": "How can Chelsea afford Morgan Rogers? And why are Aston Villa pursuing a loan for Alejandro Garnacho rather than buying him?",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0408/live/025b9280-85d5-11f1-bee8-53ce494e1abc.png",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cvg0723e0jko?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvg0723e0jko?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "garnacho-rogers-and-two-clubs-trying-to-balance-the-books"
     },
     {
       "published_at": "2026-07-22T12:06:36+00:00",
@@ -1132,7 +1132,7 @@
     {
       "published_at": "2026-07-22T12:26:12+00:00",
       "updated_at": "2026-07-22T12:26:12+00:00",
-      "title": "New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup | Billy Munday",
+      "title": "New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup",
       "summary": "The first 48-team World Cup had its positives and negatives – do we need to brace for a 64-team future? It was less than 12 months after Gianni Infantino succeeded Sepp Blatter as president that Fifa announced the expansion of the men’s World Cup from 32 to 48 teams. Diego Maradona said he was “delighted by Gianni’s initiative” because it allowed each country to dream of reaching the tournament, renewing their passion for football.",
       "category": [
         "Football"
@@ -1154,7 +1154,7 @@
         "url": "https://www.theguardian.com/football/2026/jul/22/how-48-teams-changed-the-world-cup"
       },
       "confirmed_by": [],
-      "id": "new-faces-gulfs-in-class-and-flawed-drama-how-48-teams-changed-the-world-cup-billy-munday"
+      "id": "new-faces-gulfs-in-class-and-flawed-drama-how-48-teams-changed-the-world-cup"
     },
     {
       "published_at": "2026-07-22T12:12:17+00:00",
