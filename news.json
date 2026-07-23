@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T18:13:01.990948+00:00",
+  "updated_at": "2026-07-23T20:13:15.449614+00:00",
   "items": [
     {
       "published_at": "2026-07-23T14:22:21+00:00",
@@ -45,6 +45,42 @@
         }
       ],
       "id": "garnacho-joins-villa-on-loan-from-chelsea"
+    },
+    {
+      "published_at": "2026-07-23T18:57:04+00:00",
+      "updated_at": "2026-07-23T18:57:04+00:00",
+      "title": "Italy confirm Ancelotti approach before Guardiola",
+      "summary": "Italy have failed to qualify for last three World Cups Guardiola is out of work while Ancelotti is still with Brazil The Italian football federation (FIGC) has talked to Pep Guardiola , the former Manchester City coach, and Carlo Ancelotti, the Brazil manager, about taking over the crisis-hit national team. It hopes to announce the new Italy coach within the week, with the Azzurri still reeling after failing for a third straight time to qualify for the World Cup .",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "pep-guardiola",
+      "entity_type": "coaches",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7165/live/7fa81240-86c0-11f1-9d73-41a48912c4b7.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c36d0291z6no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/23/paolo-maldini-italy-pep-guardiola-carlo-ancelotti-world-cup-new-manager"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c36d0291z6no?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/23/paolo-maldini-italy-pep-guardiola-carlo-ancelotti-world-cup-new-manager"
+        }
+      ],
+      "id": "italy-confirm-ancelotti-approach-before-guardiola"
     },
     {
       "published_at": "2026-07-23T16:01:00+00:00",
@@ -230,40 +266,41 @@
       "id": "newcastle-agree-34m-deal-for-monaco-s-bamba"
     },
     {
-      "published_at": "2026-07-22T20:33:58+00:00",
-      "updated_at": "2026-07-22T20:33:58+00:00",
-      "title": "Saliba to miss extended period with back injury",
-      "summary": "Centre-back forced off in World Cup semi-final Arsenal say problem does not require surgery Arsenal, the Premier League champions, have been dealt a big injury blow after the centre-back William Saliba was ruled out for “an extended period” with a back injury. Saliba played with a back problem during France’s run to the World Cup semi-final and, although he will not require an operation, the 25-year-old is set for a significant spell on the sidelines. He was forced off with the injury after just 30 minutes of France’s last-four defeat by Spain .",
+      "published_at": "2026-07-21T20:57:20+00:00",
+      "updated_at": "2026-07-21T20:57:20+00:00",
+      "title": "Chelsea sign £117m Rogers - what will he bring?",
+      "summary": "The England attacker thrives when he can gallop into space but Xabi Alonso’s best team built attacks slowly By Opta Analyst It quickly became apparent this summer that Aston Villa would not be holding on to Morgan Rogers. Having helped the club finish fourth in the Premier League and win the Europa League , the 23-year-old was in demand. Arsenal looked like his likeliest next destination, with the champions eager to strengthen the left side of their attack.",
       "category": [
-        "Injury"
+        "Premier League",
+        "Transfer"
       ],
       "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5ae5/live/df2c8db0-860a-11f1-8577-d306e957ffb1.jpg",
+      "club": "chelsea",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c155/live/3935ccd0-8549-11f1-95a9-e19e9bf09e34.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5yveezg9q3o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/22/arsenal-william-saliba-back-injury-france-world-cup"
+          "url": "https://www.theguardian.com/football/2026/jul/23/chelsea-aston-villa-117m-morgan-rogers-england-xabi-alonso"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5yveezg9q3o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/22/arsenal-william-saliba-back-injury-france-world-cup"
+          "url": "https://www.theguardian.com/football/2026/jul/23/chelsea-aston-villa-117m-morgan-rogers-england-xabi-alonso"
         }
       ],
-      "id": "saliba-to-miss-extended-period-with-back-injury"
+      "id": "chelsea-sign-117m-rogers-what-will-he-bring"
     },
     {
       "published_at": "2026-07-23T02:33:16+00:00",
@@ -302,6 +339,71 @@
       "id": "klart-amin-boudri-till-hammarby"
     },
     {
+      "published_at": "2026-07-23T10:30:00+00:00",
+      "updated_at": "2026-07-23T10:30:00+00:00",
+      "title": "Arsenal interested in Stones, Konsa after Saliba injury blow",
+      "summary": "Centre-back forced off in World Cup semi-final Arsenal say problem does not require surgery Arsenal, the Premier League champions, have been dealt a big injury blow after the centre-back William Saliba was ruled out for “an extended period” with a back injury. Saliba played with a back problem during France’s run to the World Cup semi-final and, although he will not require an operation, the 25-year-old is set for a significant spell on the sidelines. He was forced off with the injury after just 30 minutes of France’s last-four defeat by Spain .",
+      "category": [
+        "Premier League",
+        "Serie A",
+        "Injury"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-ezri-konsa-john-stones_7304797.jpg?20260723103056",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13566206/arsenal-transfer-news-gunners-interested-in-john-stones-and-ezri-konsa-after-william-saliba-injury-blow"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/22/arsenal-william-saliba-back-injury-france-world-cup"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13566206/arsenal-transfer-news-gunners-interested-in-john-stones-and-ezri-konsa-after-william-saliba-injury-blow"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/22/arsenal-william-saliba-back-injury-france-world-cup"
+        }
+      ],
+      "id": "arsenal-interested-in-stones-konsa-after-saliba-injury-blow"
+    },
+    {
+      "published_at": "2026-07-23T19:12:57+00:00",
+      "updated_at": "2026-07-23T19:12:57+00:00",
+      "title": "Can Hibs recover from calamity in Kosovo?",
+      "summary": "Hibernian’s hopes of reaching the Conference League are in jeopardy after a shock 2-0 defeat by Malisheva, with head coach David Gray saying his team \"were way below the levels required\"",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/898f/live/bf0c7fb0-86c6-11f1-bf7f-25405e28486d.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c0km5y4vrp7o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c0km5y4vrp7o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "can-hibs-recover-from-calamity-in-kosovo"
+    },
+    {
       "published_at": "2026-07-23T17:48:56+00:00",
       "updated_at": "2026-07-23T17:48:56+00:00",
       "title": "Modric, 40, signs new AC Milan deal",
@@ -328,61 +430,6 @@
       },
       "confirmed_by": [],
       "id": "modric-40-signs-new-ac-milan-deal"
-    },
-    {
-      "published_at": "2026-07-23T16:56:18+00:00",
-      "updated_at": "2026-07-23T16:56:18+00:00",
-      "title": "Arsenal set to make £70m bid for Newcastle's Guimaraes",
-      "summary": "Arsenal are set to make a £70m offer for Newcastle captain Bruno Guimaraes",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d4d4/live/c251d6c0-86b2-11f1-bb58-d3ffca85db6d.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cpq8lpj530po?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cpq8lpj530po?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "arsenal-set-to-make-70m-bid-for-newcastle-s-guimaraes"
-    },
-    {
-      "published_at": "2026-07-23T16:13:39+00:00",
-      "updated_at": "2026-07-23T16:13:39+00:00",
-      "title": "Rangers sign 'huge potential' in Partizan captain Dragojevic",
-      "summary": "Rangers sign 20-year-old Serbia midfielder Vanja Dragojevic from Partizan for an undisclosed fee",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/13bc/live/caeb8990-81ba-11f1-bee8-53ce494e1abc.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c87ng75zlx4o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c87ng75zlx4o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "rangers-sign-huge-potential-in-partizan-captain-dragojevic"
     },
     {
       "published_at": "2026-07-23T10:08:35+00:00",
@@ -577,35 +624,6 @@
       "id": "why-do-chelsea-want-to-sign-lacroix-from-palace"
     },
     {
-      "published_at": "2026-07-23T10:30:00+00:00",
-      "updated_at": "2026-07-23T10:30:00+00:00",
-      "title": "Arsenal interested in Stones, Konsa after Saliba injury blow",
-      "summary": "Arsenal hold an interest in John Stones and Ezri Konsa as they look to sign a centre-back this summer following news of an extended period on the sidelines for William Saliba",
-      "category": [
-        "Premier League",
-        "Serie A",
-        "Injury"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-ezri-konsa-john-stones_7304797.jpg?20260723103056",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13566206/arsenal-transfer-news-gunners-interested-in-john-stones-and-ezri-konsa-after-william-saliba-injury-blow"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13566206/arsenal-transfer-news-gunners-interested-in-john-stones-and-ezri-konsa-after-william-saliba-injury-blow"
-      },
-      "confirmed_by": [],
-      "id": "arsenal-interested-in-stones-konsa-after-saliba-injury-blow"
-    },
-    {
       "published_at": "2026-07-22T16:08:00+00:00",
       "updated_at": "2026-07-22T16:08:00+00:00",
       "title": "Evolution not revolution for Arsenal as transfer window starts slowly",
@@ -668,33 +686,6 @@
         }
       ],
       "id": "st-ngs-av-tre-matcher-efter-strypgreppet"
-    },
-    {
-      "published_at": "2026-07-23T14:41:53+00:00",
-      "updated_at": "2026-07-23T14:41:53+00:00",
-      "title": "Maldini confirms crisis-hit Italy have held talks with Guardiola and Ancelotti",
-      "summary": "Italy have failed to qualify for last three World Cups Guardiola is out of work while Ancelotti is still with Brazil The Italian football federation (FIGC) has talked to Pep Guardiola , the former Manchester City coach, and Carlo Ancelotti, the Brazil manager, about taking over the crisis-hit national team. It hopes to announce the new Italy coach within the week, with the Azzurri still reeling after failing for a third straight time to qualify for the World Cup .",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "pep-guardiola",
-      "entity_type": "coaches",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/2977c2054f4618cdd261a2aa29716f73a018b575/345_0_4731_3784/master/4731.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f450840bfc1184a5b57f4b1dfbe696d4",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/23/paolo-maldini-italy-pep-guardiola-carlo-ancelotti-world-cup-new-manager"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/23/paolo-maldini-italy-pep-guardiola-carlo-ancelotti-world-cup-new-manager"
-      },
-      "confirmed_by": [],
-      "id": "maldini-confirms-crisis-hit-italy-have-held-talks-with-guardiola-and-ancelotti"
     },
     {
       "published_at": "2026-07-23T11:41:48+00:00",
@@ -805,33 +796,6 @@
       "id": "england-cannot-afford-trip-to-amputee-world-cup-and-the-fa-will-not-help"
     },
     {
-      "published_at": "2026-07-22T10:54:57+00:00",
-      "updated_at": "2026-07-22T10:54:57+00:00",
-      "title": "Southampton head coach Tonda Eckert charged with misconduct by FA over spygate scandal",
-      "summary": "33-year-old German could be hit with one-year ban South-coast club denied chance to win promotion Southampton’s manager, Tonda Eckert, is facing a lengthy suspension from all football activity after being charged with three counts of misconduct by the Football Association. They relate to the Spygate scandal and involve breaching FA rules during covert missions to illicitly observe Championship training sessions involving Middlesbrough, Ipswich and Oxford last season.",
-      "category": [
-        "Coach"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/3a565a88701b465fbd5066d72f7b93420b2d5b82/394_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f8c07782321230b14f94dee19295dd75",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/22/southampton-tonda-eckert-charged-with-misconduct-by-fa-over-spygate-scandal"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/22/southampton-tonda-eckert-charged-with-misconduct-by-fa-over-spygate-scandal"
-      },
-      "confirmed_by": [],
-      "id": "southampton-head-coach-tonda-eckert-charged-with-misconduct-by-fa-over-spygate-scandal"
-    },
-    {
       "published_at": "2026-07-21T15:05:34+00:00",
       "updated_at": "2026-07-21T15:05:34+00:00",
       "title": "Football Daily | Here are 48 reasons to cherish the World Cup (minus the Geopolitics)",
@@ -884,6 +848,33 @@
       },
       "confirmed_by": [],
       "id": "where-did-they-go-homeless-people-feel-force-of-america-s-brutality-in-world-cup-clean-up"
+    },
+    {
+      "published_at": "2026-07-23T19:20:24+00:00",
+      "updated_at": "2026-07-23T19:20:24+00:00",
+      "title": "Holmberg: ”Decibelnivån var högre än någonsin”",
+      "summary": "GAIS tränare Fredrik Holmberg hyllar hemmapubliken efter segern mot FC Nordsjælland",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/uXzkmuXtgB1zHcsSkIkGeNZrCKLFla1D6Lw3EucT.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/holmberg-decibelnivan-var-hogre-an-nagonsin-698414"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/holmberg-decibelnivan-var-hogre-an-nagonsin-698414"
+      },
+      "confirmed_by": [],
+      "id": "holmberg-decibelniv-n-var-h-gre-n-n-gonsin"
     },
     {
       "published_at": "2026-07-23T13:00:00+00:00",
@@ -1049,6 +1040,60 @@
       "id": "kafaji-klar-f-r-london-city-fotbollssurr-om-verg-ngen"
     },
     {
+      "published_at": "2026-07-23T18:52:48+00:00",
+      "updated_at": "2026-07-23T18:52:48+00:00",
+      "title": "Sent mål ger Hammarby hopp inför returen i Europa League",
+      "summary": "I dag går Hammarby in i Europa League-kvalet när man ställs mot belgiska storklubben Anderlecht hemma på 3 arena. – Det kommer att smälla mycket och vi måste stå emot, säger Hammarbys Montader Madjed till SVT Sport inför matchen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.07/0.3/e44af2a0aac15e8cc28a5c30ca9fd780c53d65c58a5c223c26895280e8b96aae",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/sent-mal-ger-hammarby-hopp-infor-returen-i-europa-league"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/sent-mal-ger-hammarby-hopp-infor-returen-i-europa-league"
+      },
+      "confirmed_by": [],
+      "id": "sent-m-l-ger-hammarby-hopp-inf-r-returen-i-europa-league"
+    },
+    {
+      "published_at": "2026-07-23T18:50:07+00:00",
+      "updated_at": "2026-07-23T18:50:07+00:00",
+      "title": "De Brienne hjälte för Gais i första Europamatchen på 36 år",
+      "summary": "Första Europamatchen för Gais sedan 1990. Då frälste kanadensaren Matteo de Brienne Göteborgslaget med en riktig pangträff – och firade målet med en akrobatisk volt. Det var en historisk kväll, säger målskytten till SVT Sport",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.77/0.31/1cbc0d9549373863de00eeb4f374a8fc68eb262424621cfdb3148199a01d5eb5",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/de-brienne-hjalte-for-gais-i-forsta-europamatchen-pa-36-ar"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/de-brienne-hjalte-for-gais-i-forsta-europamatchen-pa-36-ar"
+      },
+      "confirmed_by": [],
+      "id": "de-brienne-hj-lte-f-r-gais-i-f-rsta-europamatchen-p-36-r"
+    },
+    {
       "published_at": "2026-07-23T14:53:22+00:00",
       "updated_at": "2026-07-23T14:53:22+00:00",
       "title": "Gaisikonen om Europaäventyret för 36 år sen: ”Fantastisk upplevelse”",
@@ -1103,33 +1148,6 @@
       "id": "v-rldsm-starna-fabian-ruiz-och-gavi-fick-tomater-i-sin-egen-vikt"
     },
     {
-      "published_at": "2026-07-23T11:54:31+00:00",
-      "updated_at": "2026-07-23T11:54:31+00:00",
-      "title": "Madjed inför Europa League-mötet med Anderlecht: ”Vi är favoriter”",
-      "summary": "I dag går Hammarby in i Europa League-kvalet när man ställs mot belgiska storklubben Anderlecht hemma på 3 arena. – Det kommer att smälla mycket och vi måste stå emot, säger Hammarbys Montader Madjed till SVT Sport inför matchen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.78/0.32/f53adcbe82bceaafb24e60ea075641dfb5c9dd2940393e1fc1976ccbfc254f30",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/madjed-infor-europa-league-motet-med-anderlecht-vi-ar-favoriter"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/madjed-infor-europa-league-motet-med-anderlecht-vi-ar-favoriter"
-      },
-      "confirmed_by": [],
-      "id": "madjed-inf-r-europa-league-m-tet-med-anderlecht-vi-r-favoriter"
-    },
-    {
       "published_at": "2026-07-23T08:00:50+00:00",
       "updated_at": "2026-07-23T08:00:50+00:00",
       "title": "Supportrar till IFK Göteborg slipper vistelseförbud",
@@ -1182,33 +1200,6 @@
       },
       "confirmed_by": [],
       "id": "kaotiska-scenerna-i-dep-n-efter-kraschen"
-    },
-    {
-      "published_at": "2026-07-22T19:33:13+00:00",
-      "updated_at": "2026-07-22T19:33:13+00:00",
-      "title": "Nyförvärvet Renecke hyllar Bajenfansen: ”Ger 10–20 procent extra”",
-      "summary": "Waylon Renecke, 20, gjorde debut inför Hammarbys supportrar i 4–0-segern mot Degerfors i söndags. Inför morgondagens kvalmatch till Europa League hemma mot belgiska storklubben Anderlecht hyllar han atmosfären på 3 arena. – Det kommer att bli otroligt, säger sydafrikanen till SVT Sport",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.77/0.36/2b3c245e23c53512bd44031eb1c05a52809d25ecc551f25cd63798dafeabcf65",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/nyforvarvet-renecke-hyllar-bajenfansen-ger-10-20-procent-extra"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/nyforvarvet-renecke-hyllar-bajenfansen-ger-10-20-procent-extra"
-      },
-      "confirmed_by": [],
-      "id": "nyf-rv-rvet-renecke-hyllar-bajenfansen-ger-10-20-procent-extra"
     },
     {
       "published_at": "2026-07-23T16:23:00+00:00",
@@ -1460,6 +1451,87 @@
       "id": "how-lnz-cherkasy-become-a-wartime-success-story-with-few-modern-parallels"
     },
     {
+      "published_at": "2026-07-22T12:26:12+00:00",
+      "updated_at": "2026-07-22T12:26:12+00:00",
+      "title": "New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup",
+      "summary": "The first 48-team World Cup had its positives and negatives – do we need to brace for a 64-team future? It was less than 12 months after Gianni Infantino succeeded Sepp Blatter as president that Fifa announced the expansion of the men’s World Cup from 32 to 48 teams. Diego Maradona said he was “delighted by Gianni’s initiative” because it allowed each country to dream of reaching the tournament, renewing their passion for football.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/77803819668ef82e32e02b61224a52a8799d5392/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=298dbf6b120cdc612785ca699e512f4d",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/22/how-48-teams-changed-the-world-cup"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/22/how-48-teams-changed-the-world-cup"
+      },
+      "confirmed_by": [],
+      "id": "new-faces-gulfs-in-class-and-flawed-drama-how-48-teams-changed-the-world-cup"
+    },
+    {
+      "published_at": "2026-07-21T11:08:14+00:00",
+      "updated_at": "2026-07-21T11:08:14+00:00",
+      "title": "David Squires on … Spain winning the World Cup final in the shadow of Trump",
+      "summary": "Our cartoonist looks back at the final game of the 2026 World Cup as Donald Trump watched Spain triumph again Buy this cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/12152bc57a839127dccf10f5d6871246f738fbb4/74_332_585_468/master/585.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=03520bb781562086ac2617d6ae0de62b",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/picture/2026/jul/21/david-squires-spain-winning-world-cup-final-argentina-shadow-of-donald-trump"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/picture/2026/jul/21/david-squires-spain-winning-world-cup-final-argentina-shadow-of-donald-trump"
+      },
+      "confirmed_by": [],
+      "id": "david-squires-on-spain-winning-the-world-cup-final-in-the-shadow-of-trump"
+    },
+    {
+      "published_at": "2026-07-23T18:50:42+00:00",
+      "updated_at": "2026-07-23T18:50:42+00:00",
+      "title": "GAIS-Nordsjälland - tre punkter: ”GAIS har bara börjat spela i Europa”",
+      "summary": "GAIS spelade första kvalmatchen till Conference League mot danska FC Nordsjälland under torsdagskvällen. Redaktör Sebastian Ahokas var på plats på Gamla Ullevi. Här är hans tre punkter från matchen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/xrSTRBOEn6Y61XczCfxlNMJ6Vt5JBMgVWfcLJI2X.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/gais-nordsjalland-tre-punkter-gais-har-bara-borjat-spela-i-europa-698413"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/gais-nordsjalland-tre-punkter-gais-har-bara-borjat-spela-i-europa-698413"
+      },
+      "confirmed_by": [],
+      "id": "gais-nordsj-lland-tre-punkter-gais-har-bara-b-rjat-spela-i-europa"
+    },
+    {
       "published_at": "2026-07-23T16:30:00+00:00",
       "updated_at": "2026-07-23T16:30:00+00:00",
       "title": "Liveblogg: GAIS-Nordsjälland i Conference League-kvalet",
@@ -1512,60 +1584,6 @@
       },
       "confirmed_by": [],
       "id": "inf-r-v-ster-s-sk-rgryte-is"
-    },
-    {
-      "published_at": "2026-07-23T09:21:00+00:00",
-      "updated_at": "2026-07-23T09:21:00+00:00",
-      "title": "Silly season sommaren 2026",
-      "summary": "Silly Season-bloggen är äntligen tillbaka! Under hela sommaren uppdaterar vi er med de ryktena kring Djurgårdens herrlag i fotboll",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/ofYhvWYgaCDk3y8OivcyGKqYYmb8Uq0YPZtW9mn5.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/silly-season-sommaren-2026-697593"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/silly-season-sommaren-2026-697593"
-      },
-      "confirmed_by": [],
-      "id": "silly-season-sommaren-2026"
-    },
-    {
-      "published_at": "2026-07-23T08:00:00+00:00",
-      "updated_at": "2026-07-23T08:00:00+00:00",
-      "title": "Belgien-experten om Anderlecht: ”Känns helt öppet”",
-      "summary": "Hammarby jagar europeiskt ligaspel och första hindret är belgiska Anderlecht. Signaturen ”Belgisk Fotboll” på SvenskaFans har stenkoll på Bajens motstånd. – Laget är betydligt svårare att analysera och förutse, säger han",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/EqGk9K34Ik9aWEfC0atTdbuIv503VdNooSnKaTJD.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/belgien-experten-om-anderlecht-kanns-helt-oppet-698324"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/belgien-experten-om-anderlecht-kanns-helt-oppet-698324"
-      },
-      "confirmed_by": [],
-      "id": "belgien-experten-om-anderlecht-k-nns-helt-ppet"
     }
   ]
 }
