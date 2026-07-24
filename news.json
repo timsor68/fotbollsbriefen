@@ -1,55 +1,11 @@
 {
-  "updated_at": "2026-07-24T10:19:18.750065+00:00",
+  "updated_at": "2026-07-24T12:19:41.967218+00:00",
   "items": [
-    {
-      "published_at": "2026-07-24T10:00:00+00:00",
-      "updated_at": "2026-07-24T10:00:00+00:00",
-      "title": "'I'll walk away!' Klopp sends warning to critics after taking Germany job",
-      "summary": "Former Liverpool coach replaces Julian Nagelsmann Germany suffered exit to Paraguay at World Cup Jürgen Klopp is to return to the dugout after being appointed head coach of the Germany men’s national side until 2030. The 59-year-old takes over from Julian Nagelsmann in the job after Germany’s humbling last-32 defeat by Paraguay at the World Cup . Klopp has been away from frontline management since leaving Liverpool at the end of the 2023-24 season, when he cited fatigue as his principal reason for stepping away after a hugely successful nine-season spell in which he win the Premier League and Champions League, among other trophies.",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "jurgen-klopp",
-      "entity_type": "coaches",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/de13/live/50669790-7f09-11f1-b84f-df00e7069bf1.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cn8k8llpz2mo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13566544/jurgen-klopp-germany-appoint-former-liverpool-boss-as-new-head-coach-to-replace-julian-nagelsmann"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/24/germany-confirm-jurgen-klopp-new-head-coach"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cn8k8llpz2mo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13566544/jurgen-klopp-germany-appoint-former-liverpool-boss-as-new-head-coach-to-replace-julian-nagelsmann"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/24/germany-confirm-jurgen-klopp-new-head-coach"
-        }
-      ],
-      "id": "i-ll-walk-away-klopp-sends-warning-to-critics-after-taking-germany-job"
-    },
     {
       "published_at": "2026-07-24T09:47:25+00:00",
       "updated_at": "2026-07-24T09:47:25+00:00",
       "title": "Guardiola turns down Italy manager job",
-      "summary": "Pep Guardiola has turned down the chance to take the Italy head coach job, according to Sky in Italy",
+      "summary": "Italy have failed to qualify for last three World Cups Guardiola is out of work while Ancelotti is still with Brazil The Italian football federation (FIGC) has talked to Pep Guardiola , the former Manchester City coach, and Carlo Ancelotti, the Brazil manager, about taking over the crisis-hit national team. It hopes to announce the new Italy coach within the week, with the Azzurri still reeling after failing for a third straight time to qualify for the World Cup .",
       "category": [
         "Coach"
       ],
@@ -66,6 +22,10 @@
         {
           "name": "Sky Sports",
           "url": "https://www.skysports.com/football/news/11095/13566556/italian-football-federation-holds-talks-with-pep-guardiola-about-replacing-gennaro-gattuso-as-head-coach"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/23/paolo-maldini-italy-pep-guardiola-carlo-ancelotti-world-cup-new-manager"
         }
       ],
       "language": "en",
@@ -77,9 +37,49 @@
         {
           "name": "Sky Sports",
           "url": "https://www.skysports.com/football/news/11095/13566556/italian-football-federation-holds-talks-with-pep-guardiola-about-replacing-gennaro-gattuso-as-head-coach"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/23/paolo-maldini-italy-pep-guardiola-carlo-ancelotti-world-cup-new-manager"
         }
       ],
       "id": "guardiola-turns-down-italy-manager-job"
+    },
+    {
+      "published_at": "2026-07-24T10:40:05+00:00",
+      "updated_at": "2026-07-24T10:40:05+00:00",
+      "title": "Klopp starts Germany reign by threatening to quit",
+      "summary": "Jurgen Klopp admits he is still coming to terms with being confirmed as the new head coach of the German national team, describing it as 'like a movie in my head'",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "jurgen-klopp",
+      "entity_type": "coaches",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6a61/live/077e1fd0-8747-11f1-80f4-b5921bc87065.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqjxd0n4gd2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/watch/video/13566584/jurgen-klopp-says-germany-appointment-is-like-a-movie"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqjxd0n4gd2o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/watch/video/13566584/jurgen-klopp-says-germany-appointment-is-like-a-movie"
+        }
+      ],
+      "id": "klopp-starts-germany-reign-by-threatening-to-quit"
     },
     {
       "published_at": "2026-07-24T09:43:39+00:00",
@@ -121,7 +121,7 @@
       "published_at": "2026-07-24T09:30:06+00:00",
       "updated_at": "2026-07-24T09:30:06+00:00",
       "title": "Newcastle seal £34m move for Monaco's Bamba",
-      "summary": "Karim Adeyemi moves from Dortmund in £19m deal Newcastle close on £34m Aladji Bamba from Monaco Barcelona have signed German winger Karim Adeyemi from Borussia Dortmund ⁠on a deal until 2031 while Newcastle are set to make Aladji Bamba their fourth summer signing. The La Liga club will pay around €22m (£19m) plus add-ons for the Germany international ⁠and the package includes a sell-on clause.",
+      "summary": "20-year-old agrees five-year contract at club Bamba expected to compete with Miley for No 6 role Newcastle have made Aladji Bamba their fourth signing of the summer after the 20-year-old midfielder completed a move from Monaco for a fee that could rise to £34m. “I’m very happy to be here,” said Bamba. “I was very excited when I heard Newcastle were interested in signing me.",
       "category": [
         "Premier League",
         "Ligue 1",
@@ -139,7 +139,7 @@
         },
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/23/transfer-roundup-barcelona-sign-karim-adeyemi-newcastle-aladji-bamba-monaco"
+          "url": "https://www.theguardian.com/football/2026/jul/24/transfers-newcastle-sign-aladji-bamba-monaco"
         }
       ],
       "language": "en",
@@ -150,7 +150,7 @@
       "confirmed_by": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/23/transfer-roundup-barcelona-sign-karim-adeyemi-newcastle-aladji-bamba-monaco"
+          "url": "https://www.theguardian.com/football/2026/jul/24/transfers-newcastle-sign-aladji-bamba-monaco"
         }
       ],
       "id": "newcastle-seal-34m-move-for-monaco-s-bamba"
@@ -191,6 +191,42 @@
         }
       ],
       "id": "chelsea-agree-deal-to-sign-palace-defender-lacroix"
+    },
+    {
+      "published_at": "2026-07-23T21:02:11+00:00",
+      "updated_at": "2026-07-23T21:02:11+00:00",
+      "title": "Defoe leaves Woking after 'eye-opening' first managerial role",
+      "summary": "Former England and Tottenham striker Jermain Defoe has described his first managerial job as an \"eye-opening experience\" following his departure from National League side Woking after just four months and nine matches in charge",
+      "category": [
+        "Coach"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3ef2/live/a5dd9620-86d3-11f1-8749-89447c313de6.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c304d47ql6jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13566466/jermain-defoe-former-england-striker-leaves-role-as-woking-head-coach-after-116-days-saying-it-was-impossible-to-continue"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c304d47ql6jo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13566466/jermain-defoe-former-england-striker-leaves-role-as-woking-head-coach-after-116-days-saying-it-was-impossible-to-continue"
+        }
+      ],
+      "id": "defoe-leaves-woking-after-eye-opening-first-managerial-role"
     },
     {
       "published_at": "2026-07-23T16:01:00+00:00",
@@ -264,43 +300,6 @@
         }
       ],
       "id": "arsenal-sign-greece-forward-tzolis-for-34m"
-    },
-    {
-      "published_at": "2026-07-23T14:22:21+00:00",
-      "updated_at": "2026-07-23T14:22:21+00:00",
-      "title": "Garnacho joins Villa on loan from Chelsea",
-      "summary": "Argentinian surplus to requirements at Chelsea Deal follows Morgan Rogers’ switch to Stamford Bridge Aston Villa have confirmed the loan signing of the Chelsea winger Alejandro Garnacho , as a summer of change continues at Villa Park. The deal for Garnacho’s season-long loan includes a conditional obligation to buy a player who joined Chelsea last August from Manchester United in a deal worth £40m . Villa will be expected to pay a similar fee for the 22-year-old, who struggled to impress at Stamford Bridge despite featuring in 43 games in all competitions and scoring eight goals.",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d128/live/341501b0-869f-11f1-926f-c90d1bcfbc84.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c1d1g6k51l7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/23/aston-villa-loan-signing-alejandro-garnacho-chelsea-transfer-latest"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c1d1g6k51l7o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/23/aston-villa-loan-signing-alejandro-garnacho-chelsea-transfer-latest"
-        }
-      ],
-      "id": "garnacho-joins-villa-on-loan-from-chelsea"
     },
     {
       "published_at": "2026-07-23T12:43:30+00:00",
@@ -412,6 +411,42 @@
       "id": "klart-amin-boudri-till-hammarby"
     },
     {
+      "published_at": "2026-07-24T12:24:00+00:00",
+      "updated_at": "2026-07-24T12:24:00+00:00",
+      "title": "Spain coach says Argentina behaviour 'intolerable' after World Cup final",
+      "summary": "Our cartoonist looks back at the final game of the 2026 World Cup as Donald Trump watched Spain triumph again Buy this cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading",
+      "category": [
+        "Coach"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-parades-argentina_7302004.jpg?20260720073524",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13566607/argentina-behaviour-after-world-cup-final-was-intolerable-and-unacceptable-says-spain-head-coach-luis-de-la-fuente"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/picture/2026/jul/21/david-squires-spain-winning-world-cup-final-argentina-shadow-of-donald-trump"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13566607/argentina-behaviour-after-world-cup-final-was-intolerable-and-unacceptable-says-spain-head-coach-luis-de-la-fuente"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/picture/2026/jul/21/david-squires-spain-winning-world-cup-final-argentina-shadow-of-donald-trump"
+        }
+      ],
+      "id": "spain-coach-says-argentina-behaviour-intolerable-after-world-cup-final"
+    },
+    {
       "published_at": "2026-07-24T08:22:48+00:00",
       "updated_at": "2026-07-24T08:22:48+00:00",
       "title": "Frustration över Hammarbys svaga start: ”En attitydsfråga”",
@@ -520,34 +555,6 @@
       "id": "loreta-kullashi-terv-nder-till-aik-efter-nio-r"
     },
     {
-      "published_at": "2026-07-24T11:00:00+00:00",
-      "updated_at": "2026-07-24T11:00:00+00:00",
-      "title": "Could Adeyemi's Barcelona move see Flick unlock winger's true potential?",
-      "summary": "Perhaps Karim Adeyemi's move to Barcelona should not come as a surprise even if usurping Lamine Yamal as the team's star left-footed right-winger is impossible. After all, it was Hansi Flick, Barca’s head coach, who gave Adeyemi his debut for Germany",
-      "category": [
-        "La Liga",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "barcelona",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-karim-adeyemi-borussia-dortmund_7305608.jpg?20260724101357",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13561670/karim-adeyemi-to-barcelona-why-hansi-flick-reunion-could-help-former-borussia-dortmund-winger-unlock-his-potential"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13561670/karim-adeyemi-to-barcelona-why-hansi-flick-reunion-could-help-former-borussia-dortmund-winger-unlock-his-potential"
-      },
-      "confirmed_by": [],
-      "id": "could-adeyemi-s-barcelona-move-see-flick-unlock-winger-s-true-potential"
-    },
-    {
       "published_at": "2026-07-24T10:30:00+00:00",
       "updated_at": "2026-07-24T10:30:00+00:00",
       "title": "'Huge potential for growth' - Newcastle sign Bamba",
@@ -629,33 +636,6 @@
       },
       "confirmed_by": [],
       "id": "why-newcastle-are-looking-to-emulate-german-giants-on-recruitment"
-    },
-    {
-      "published_at": "2026-07-23T22:30:00+00:00",
-      "updated_at": "2026-07-23T22:30:00+00:00",
-      "title": "Papers: Valuations of several Man Utd midfield targets revealed",
-      "summary": "Plus: Pep Guardiola is set to turn down the opportunity to become the new Italy head coach; Chelsea outcast Axel Disasi is linked with a move to Ruben Amorims AC Milan; a player from a Polish team set to face off with Rangers has gone AWOL",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/25/03/1600x900/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13566448/man-utd-transfer-news-eduardo-camavinga-valuation-revealed-amid-interest-in-real-madrid-midfielder"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13566448/man-utd-transfer-news-eduardo-camavinga-valuation-revealed-amid-interest-in-real-madrid-midfielder"
-      },
-      "confirmed_by": [],
-      "id": "papers-valuations-of-several-man-utd-midfield-targets-revealed"
     },
     {
       "published_at": "2026-07-23T15:05:00+00:00",
@@ -748,6 +728,33 @@
       "id": "st-ngs-av-tre-matcher-efter-strypgreppet"
     },
     {
+      "published_at": "2026-07-24T11:00:13+00:00",
+      "updated_at": "2026-07-24T11:00:13+00:00",
+      "title": "Andoni Iraola backs backroom staff to help cure Liverpool’s set-piece ills",
+      "summary": "Tommy Elphick and Shaun Cooper to work on set-pieces Iraola felt ‘very lucky’ to work with them at Bournemouth Andoni Iraola has outlined the roles his backroom staff will play in trying to improve Liverpool’s set-piece record next season and admitted he was “very lucky” to inherit a talented coaching team at Bournemouth. Iraola has brought several members of his Bournemouth backroom team with him to Liverpool since succeeding Arne Slot last month . Tommy Elphick, a boyhood Liverpool fan, and Shaun Cooper have joined as first-team coaches while Iraola’s long-time colleague Pablo de la Torre has arrived as assistant coach.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "https://i.guim.co.uk/img/media/f5389dc15ccea4bcc4c6f289619592cfe111fb96/423_20_2083_1667/master/2083.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=063b23b8a5f1da1977987385906864af",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/24/andoni-iraola-backs-backroom-staff-to-help-cure-liverpool-set-piece-ills"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/24/andoni-iraola-backs-backroom-staff-to-help-cure-liverpool-set-piece-ills"
+      },
+      "confirmed_by": [],
+      "id": "andoni-iraola-backs-backroom-staff-to-help-cure-liverpool-s-set-piece-ills"
+    },
+    {
       "published_at": "2026-07-23T11:41:48+00:00",
       "updated_at": "2026-07-23T11:41:48+00:00",
       "title": "Manchester United consider Camavinga and Berge as midfield overhaul continues",
@@ -773,34 +780,6 @@
       },
       "confirmed_by": [],
       "id": "manchester-united-consider-camavinga-and-berge-as-midfield-overhaul-continues"
-    },
-    {
-      "published_at": "2026-07-22T21:05:57+00:00",
-      "updated_at": "2026-07-22T21:05:57+00:00",
-      "title": "Arsenal reveal William Saliba out for ‘extended period’ with back injury",
-      "summary": "Centre-back forced off in World Cup semi-final Arsenal say problem does not require surgery Arsenal, the Premier League champions, have been dealt a big injury blow after the centre-back William Saliba was ruled out for “an extended period” with a back injury. Saliba played with a back problem during France’s run to the World Cup semi-final and, although he will not require an operation, the 25-year-old is set for a significant spell on the sidelines. He was forced off with the injury after just 30 minutes of France’s last-four defeat by Spain .",
-      "category": [
-        "Premier League",
-        "Injury"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://i.guim.co.uk/img/media/6ebd1aca95d0359361ec91e1ee80dc9c7998bc03/384_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5634219f7cc9048d63a2de633fa8bea2",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/22/arsenal-william-saliba-back-injury-france-world-cup"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/22/arsenal-william-saliba-back-injury-france-world-cup"
-      },
-      "confirmed_by": [],
-      "id": "arsenal-reveal-william-saliba-out-for-extended-period-with-back-injury"
     },
     {
       "published_at": "2026-07-22T19:31:54+00:00",
@@ -1046,33 +1025,6 @@
       "id": "inf-r-sandviken-hemma-ska-ifk-inleda-en-ny-segersvit"
     },
     {
-      "published_at": "2026-07-17T12:04:00+00:00",
-      "updated_at": "2026-07-17T12:04:00+00:00",
-      "title": "Krönika: Mäster Skräddare",
-      "summary": "Denna artikel är byggd kring den klassiska historien ”Mäster Skräddare”, där en man går till skräddaren för att få en rock sydd. Det blir dock ingen rock, utan för varje vecka han kommer dit så blir plagget mindre och mindre, tills det inte blir något alls. Den artikel skall läsas med STOR ironi, då den inte är menad att skada någon på något sätt utan bara få er läsare att tänka till och kanske, eventuellt, få ett gott skratt",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/678140.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/kronika-master-skraddare-698192"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/kronika-master-skraddare-698192"
-      },
-      "confirmed_by": [],
-      "id": "kr-nika-m-ster-skr-ddare"
-    },
-    {
       "published_at": "2026-07-24T09:02:41+00:00",
       "updated_at": "2026-07-24T09:02:41+00:00",
       "title": "Klart: Jürgen Klopp tar över tyska landslaget",
@@ -1181,37 +1133,9 @@
       "id": "de-brienne-hj-lte-f-r-gais-i-f-rsta-europamatchen-p-36-r"
     },
     {
-      "published_at": "2026-07-24T09:24:00+00:00",
-      "updated_at": "2026-07-24T09:24:00+00:00",
-      "title": "Palace latest: Chelsea offer defenders as Matsima move stalls",
-      "summary": "Read the full report at Sky Sports.",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://e0.365dm.com/26/06/1600x900/skysports-premier-league-crystal-palace_7274807.jpg?20260616120117",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-      },
-      "confirmed_by": [],
-      "id": "palace-latest-chelsea-offer-defenders-as-matsima-move-stalls"
-    },
-    {
-      "published_at": "2026-07-24T08:20:00+00:00",
-      "updated_at": "2026-07-24T08:20:00+00:00",
-      "title": "Chelsea latest: 'Lacroix set for Blues medical'",
+      "published_at": "2026-07-24T13:00:00+00:00",
+      "updated_at": "2026-07-24T13:00:00+00:00",
+      "title": "Chelsea latest: Lacroix set to undergo medical today",
       "summary": "Read the full report at Sky Sports.",
       "category": [
         "Premier League",
@@ -1234,7 +1158,7 @@
         "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "chelsea-latest-lacroix-set-for-blues-medical"
+      "id": "chelsea-latest-lacroix-set-to-undergo-medical-today"
     },
     {
       "published_at": "2026-07-24T07:40:00+00:00",
@@ -1290,6 +1214,88 @@
       },
       "confirmed_by": [],
       "id": "klopps-sv-raste-uppdrag-v-ntar-att-leda-tyskland-ur-m-rkret"
+    },
+    {
+      "published_at": "2026-07-24T02:19:51+00:00",
+      "updated_at": "2026-07-24T02:19:51+00:00",
+      "title": "\"Manchester Citys urladdning - Pep Guardiola vinner ny titel\"",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige",
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "pep-guardiola",
+      "entity_type": "coaches",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "manchester-citys-urladdning-pep-guardiola-vinner-ny-titel"
+    },
+    {
+      "published_at": "2026-07-24T01:45:26+00:00",
+      "updated_at": "2026-07-24T01:45:26+00:00",
+      "title": "\"Premiärfeber - därför kan Örgryte sänka Malmö FF\" - Europatipset",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "premi-rfeber-d-rf-r-kan-rgryte-s-nka-malm-ff-europatipset"
+    },
+    {
+      "published_at": "2026-07-24T01:24:56+00:00",
+      "updated_at": "2026-07-24T01:24:56+00:00",
+      "title": "\"City vinner toppmötet - jakten på ligatiteln fortsätter\" - Europatipset",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "city-vinner-toppm-tet-jakten-p-ligatiteln-forts-tter-europatipset"
     },
     {
       "published_at": "2026-07-23T07:40:31+00:00",
@@ -1404,6 +1410,33 @@
       "id": "experten-d-rf-r-vinner-psg-mot-arsenal-i-cl-finalen"
     },
     {
+      "published_at": "2026-07-23T15:30:58+00:00",
+      "updated_at": "2026-07-23T15:30:58+00:00",
+      "title": "Police call on English football clubs to ease security burden on taxpayers",
+      "summary": "Home Office reveals police incidents for 2025-26 season Four arrests for every 100,000 people attending games The number of football matches in England and Wales featuring incidents reported to police reached record levels last season, even as the number of arrests continued to return to pre-Covid figures. According to an annual report by the Home Office, released on Thursday, there was a 4% increase in the number of matches with reports of “football-related anti-social behaviour, violence and disorder” during the 2025-26 season. Reports were made at 1,644 games, up from 1,580 the previous campaign.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/2f6279d04c2bca087794c7da80b8253469a57d8a/0_320_4485_3588/master/4485.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a0228367ef4f2fa3df5b93a1341a4458",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/23/arrests-football-matches-police-home-office"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/23/arrests-football-matches-police-home-office"
+      },
+      "confirmed_by": [],
+      "id": "police-call-on-english-football-clubs-to-ease-security-burden-on-taxpayers"
+    },
+    {
       "published_at": "2026-07-23T11:00:42+00:00",
       "updated_at": "2026-07-23T11:00:42+00:00",
       "title": "‘Everyone is hooked on football’: Indian league seeks to ride World Cup wave",
@@ -1456,33 +1489,6 @@
       },
       "confirmed_by": [],
       "id": "how-lnz-cherkasy-become-a-wartime-success-story-with-few-modern-parallels"
-    },
-    {
-      "published_at": "2026-07-22T12:26:12+00:00",
-      "updated_at": "2026-07-22T12:26:12+00:00",
-      "title": "New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup",
-      "summary": "The first 48-team World Cup had its positives and negatives – do we need to brace for a 64-team future? It was less than 12 months after Gianni Infantino succeeded Sepp Blatter as president that Fifa announced the expansion of the men’s World Cup from 32 to 48 teams. Diego Maradona said he was “delighted by Gianni’s initiative” because it allowed each country to dream of reaching the tournament, renewing their passion for football.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/77803819668ef82e32e02b61224a52a8799d5392/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=298dbf6b120cdc612785ca699e512f4d",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/22/how-48-teams-changed-the-world-cup"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/22/how-48-teams-changed-the-world-cup"
-      },
-      "confirmed_by": [],
-      "id": "new-faces-gulfs-in-class-and-flawed-drama-how-48-teams-changed-the-world-cup"
     },
     {
       "published_at": "2026-07-22T09:00:11+00:00",
@@ -1618,6 +1624,61 @@
       },
       "confirmed_by": [],
       "id": "3-snabba-efter-krysset-mot-anderlecht"
+    },
+    {
+      "published_at": "2026-07-23T20:11:08+00:00",
+      "updated_at": "2026-07-23T20:11:08+00:00",
+      "title": "GAIS-spelarna firande inte kvalsegern: ”Bara halvlek”",
+      "summary": "GAIS vann första mötet mot FC Nordsjälland i kvalet till Conference League med 1-0. Trots segern blev det inget firande med supportrarna som kommit till Gamla Ullevi. – Vi vet att det bara är halvlek, säger August Wängberg efter matchen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/4KXEGGhXYjmzDRqkxLBrAt6mZyw3A0qZaMz83UP7.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/gais-spelarna-firande-inte-kvalsegern-bara-halvlek-698415"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/gais-spelarna-firande-inte-kvalsegern-bara-halvlek-698415"
+      },
+      "confirmed_by": [],
+      "id": "gais-spelarna-firande-inte-kvalsegern-bara-halvlek"
+    },
+    {
+      "published_at": "2026-07-24T10:54:00+00:00",
+      "updated_at": "2026-07-24T10:54:00+00:00",
+      "title": "Aston Villa latest: Juventus eyeing Suzuki as Martinez alternative",
+      "summary": "Read the full report at Sky Sports.",
+      "category": [
+        "Premier League",
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/02/1600x900/skysports-aston-villa-latest_7164113.jpg?20260213143027",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "aston-villa-latest-juventus-eyeing-suzuki-as-martinez-alternative"
     }
   ]
 }
