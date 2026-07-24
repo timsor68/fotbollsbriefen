@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T14:55:58.279331+00:00",
+  "updated_at": "2026-07-24T16:45:29.771866+00:00",
   "items": [
     {
       "published_at": "2026-07-24T09:47:25+00:00",
@@ -21,7 +21,7 @@
         },
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13566556/italian-football-federation-holds-talks-with-pep-guardiola-about-replacing-gennaro-gattuso-as-head-coach"
+          "url": "https://www.skysports.com/football/news/11095/13566556/pep-guardiola-turns-down-chance-to-replace-gennaro-gattuso-as-italy-head-coach-sky-in-italy"
         },
         {
           "name": "The Guardian",
@@ -36,7 +36,7 @@
       "confirmed_by": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13566556/italian-football-federation-holds-talks-with-pep-guardiola-about-replacing-gennaro-gattuso-as-head-coach"
+          "url": "https://www.skysports.com/football/news/11095/13566556/pep-guardiola-turns-down-chance-to-replace-gennaro-gattuso-as-italy-head-coach-sky-in-italy"
         },
         {
           "name": "The Guardian",
@@ -80,42 +80,6 @@
         }
       ],
       "id": "klopp-starts-germany-reign-by-threatening-to-quit"
-    },
-    {
-      "published_at": "2026-07-24T09:43:39+00:00",
-      "updated_at": "2026-07-24T09:43:39+00:00",
-      "title": "England amputee team's World Cup dream on hold",
-      "summary": "With no national funding, England’s successful men’s amputee side is struggling to raise the £50,000 needed for November’s tournament in Mexico Every time Scott Rogers walks into St George’s Park there is a sign on the wall that catches his eye. It boasts that the 330-acre site is the proud home of all England’s football teams. “I look at it every time and go, ‘Well, not all of them’” Rogers says.",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/54df/live/7a9117c0-873d-11f1-a10e-a5d4f08bc20c.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c62x54zedp1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/22/england-cannot-afford-trip-to-amputee-world-cup-and-the-fa-will-not-help"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c62x54zedp1o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/22/england-cannot-afford-trip-to-amputee-world-cup-and-the-fa-will-not-help"
-        }
-      ],
-      "id": "england-amputee-team-s-world-cup-dream-on-hold"
     },
     {
       "published_at": "2026-07-24T09:30:06+00:00",
@@ -193,42 +157,6 @@
       "id": "chelsea-agree-deal-to-sign-palace-defender-lacroix"
     },
     {
-      "published_at": "2026-07-23T16:01:00+00:00",
-      "updated_at": "2026-07-23T16:01:00+00:00",
-      "title": "Anderson gets Man City move he craved as £116m deal done",
-      "summary": "‘They’re winners, relentless, a team I want to be part of’ Midfielder hails De Bruyne as a childhood inspiration Elliot Anderson has called Manchester City the “kings of Manchester” after completing his £116m move to the club from Nottingham Forest. The 23-year-old was a key part of England’s third-place finish at the World Cup, having been an ever-present for Forest in the Premier League last season. Before Morgan Rogers’ £117m transfer to Chelsea from Aston Villa on Tuesday , Anderson’s fee was the record for a British player.",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/37f2/live/65d2b180-86b7-11f1-bb58-d3ffca85db6d.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c1j1gk23jj4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/23/elliot-anderson-manchester-city-116m-nottingham-forest-transfer-premier-league"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c1j1gk23jj4o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/23/elliot-anderson-manchester-city-116m-nottingham-forest-transfer-premier-league"
-        }
-      ],
-      "id": "anderson-gets-man-city-move-he-craved-as-116m-deal-done"
-    },
-    {
       "published_at": "2026-07-23T12:43:30+00:00",
       "updated_at": "2026-07-23T12:43:30+00:00",
       "title": "Norway consider complaint over Balogun World Cup ban suspension",
@@ -263,6 +191,69 @@
         }
       ],
       "id": "norway-consider-complaint-over-balogun-world-cup-ban-suspension"
+    },
+    {
+      "published_at": "2026-07-24T15:30:00+00:00",
+      "updated_at": "2026-07-24T15:30:00+00:00",
+      "title": "Liverpool takeover Q&A: Could Bezos buy stake at Anfield?",
+      "summary": "Fenway Sports Group looks to be locked in talks with a consortium led by the son-in-law of Lakshmi Mittal, while the Amazon founder has now been linked Continue reading",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-premier-league-liverpool_7305864.jpg?20260724143232",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13566630/liverpool-key-questions-answered-as-jeff-bezos-and-amit-bhatia-line-up-bid-for-strategic-minority-stake-in-club"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/22/liverpool-open-talks-over-selling-significant-stake-in-the-club"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13566630/liverpool-key-questions-answered-as-jeff-bezos-and-amit-bhatia-line-up-bid-for-strategic-minority-stake-in-club"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/22/liverpool-open-talks-over-selling-significant-stake-in-the-club"
+        }
+      ],
+      "id": "liverpool-takeover-q-a-could-bezos-buy-stake-at-anfield"
+    },
+    {
+      "published_at": "2026-07-24T15:33:06+00:00",
+      "updated_at": "2026-07-24T15:33:06+00:00",
+      "title": "Hearts sign Mendy for potential Forest Green record fee",
+      "summary": "Forest Green Rovers sell midfielder Laurent Mendy to Heart of Midlothian for what the National League outfit say could be a club record fee of nearly £1m \"if all targets are met\"",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a7c8/live/d26f14c0-8773-11f1-b430-afa19a42b819.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cy8m33l3kk3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cy8m33l3kk3o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "hearts-sign-mendy-for-potential-forest-green-record-fee"
     },
     {
       "published_at": "2026-07-24T14:24:53+00:00",
@@ -347,6 +338,33 @@
       "id": "van-bommel-appointed-belgium-head-coach"
     },
     {
+      "published_at": "2026-07-24T09:43:39+00:00",
+      "updated_at": "2026-07-24T09:43:39+00:00",
+      "title": "England amputee team's World Cup dream on hold",
+      "summary": "Former head coach Scott Rogers has said it is \"criminal\" that England men's amputee football team could miss the 2026 World Cup due to a lack of funding",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/54df/live/7a9117c0-873d-11f1-a10e-a5d4f08bc20c.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c62x54zedp1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c62x54zedp1o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "england-amputee-team-s-world-cup-dream-on-hold"
+    },
+    {
       "published_at": "2026-07-24T08:22:48+00:00",
       "updated_at": "2026-07-24T08:22:48+00:00",
       "title": "Frustration över Hammarbys svaga start: ”En attitydsfråga”",
@@ -426,33 +444,6 @@
       },
       "confirmed_by": [],
       "id": "rebecca-peterson-opererad-ska-tillbaka-starkare"
-    },
-    {
-      "published_at": "2026-07-23T07:49:11+00:00",
-      "updated_at": "2026-07-23T07:49:11+00:00",
-      "title": "Loreta Kullashi återvänder till AIK efter nio år",
-      "summary": "På torsdagsmorgonen presenterade AIK landslagsmeriterade anfallaren Loreta Kullashi på fri transfer. – Jag är jätteglad att vara här, säger hon till klubbens hemsida",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.52/0.42/fa83e024260611e52f928effe16fd6429aacf282096e364535b25eee780168e8",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/loreta-kullashi-atervander-till-aik-efter-9-ar-utomlands"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/loreta-kullashi-atervander-till-aik-efter-9-ar-utomlands"
-      },
-      "confirmed_by": [],
-      "id": "loreta-kullashi-terv-nder-till-aik-efter-nio-r"
     },
     {
       "published_at": "2026-07-24T14:40:00+00:00",
@@ -538,34 +529,6 @@
       "id": "huge-potential-for-growth-newcastle-sign-bamba"
     },
     {
-      "published_at": "2026-07-24T10:00:00+00:00",
-      "updated_at": "2026-07-24T10:00:00+00:00",
-      "title": "Al Hilal complete Summerville signing from West Ham",
-      "summary": "Al Hilal have completed the signing of winger Crysencio Summerville from West Ham in a deal worth up to £60m",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/03/1600x900/skysports-crysencio-summerville_7182463.jpg?20260304210252",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13565872/crysencio-summerville-transfer-news-al-hilal-complete-60m-signing-of-netherlands-international-from-west-ham"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13565872/crysencio-summerville-transfer-news-al-hilal-complete-60m-signing-of-netherlands-international-from-west-ham"
-      },
-      "confirmed_by": [],
-      "id": "al-hilal-complete-summerville-signing-from-west-ham"
-    },
-    {
       "published_at": "2026-07-24T08:00:00+00:00",
       "updated_at": "2026-07-24T08:00:00+00:00",
       "title": "Why Newcastle are looking to emulate German giants on recruitment",
@@ -591,33 +554,6 @@
       },
       "confirmed_by": [],
       "id": "why-newcastle-are-looking-to-emulate-german-giants-on-recruitment"
-    },
-    {
-      "published_at": "2026-07-23T15:05:00+00:00",
-      "updated_at": "2026-07-23T15:05:00+00:00",
-      "title": "Why Villa could offer Garnacho the perfect route to redemption",
-      "summary": "At the age of just 22, Alejandro Garnacho's career is at a crossroads, but his move to Aston Villa, driven by Unai Emery, offers the perfect chance to get it back on track",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-premier-league-aston-villa_7305578.jpg?20260724091040",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13566210/alejandro-garnacho-transfer-news-aston-villa-offer-winger-route-to-redemption-after-completing-chelsea-exit"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13566210/alejandro-garnacho-transfer-news-aston-villa-offer-winger-route-to-redemption-after-completing-chelsea-exit"
-      },
-      "confirmed_by": [],
-      "id": "why-villa-could-offer-garnacho-the-perfect-route-to-redemption"
     },
     {
       "published_at": "2026-07-22T16:08:00+00:00",
@@ -685,7 +621,7 @@
     {
       "published_at": "2026-07-24T14:02:33+00:00",
       "updated_at": "2026-07-24T14:02:33+00:00",
-      "title": "Manchester United and the quest to make mythical midfield a reality",
+      "title": "Football Daily | Manchester United and the quest to make mythical midfield a reality",
       "summary": "Real Madrid and Fulham players on club’s radar United have already signed two midfielders this summer Manchester United have identified Real Madrid’s Eduardo Camavinga and Fulham’s Sander Berge as midfield signings to further strengthen Michael Carrick’s squad. United have already signed two midfielders this window: Andrey Santos in a £48m deal from Chelsea and Youri Tielemans for £35m from Aston Villa . But with Casemiro having departed and Manuel Ugarte ruled out for what may be a prolonged period due to a knee ligament injury, the club is considering moving for another midfielder.",
       "category": [
         "Premier League"
@@ -707,7 +643,7 @@
         "url": "https://www.theguardian.com/football/2026/jul/24/manchester-united-midfield-football-daily-newsletter"
       },
       "confirmed_by": [],
-      "id": "manchester-united-and-the-quest-to-make-mythical-midfield-a-reality"
+      "id": "football-daily-manchester-united-and-the-quest-to-make-mythical-midfield-a-reality"
     },
     {
       "published_at": "2026-07-24T11:00:13+00:00",
@@ -764,6 +700,34 @@
       "id": "chelsea-paid-aston-villa-117m-for-morgan-rogers-is-he-the-right-fit"
     },
     {
+      "published_at": "2026-07-23T16:00:48+00:00",
+      "updated_at": "2026-07-23T16:00:48+00:00",
+      "title": "Elliot Anderson lauds City as ‘kings of Manchester’ after £116m Forest transfer",
+      "summary": "‘They’re winners, relentless, a team I want to be part of’ Midfielder hails De Bruyne as a childhood inspiration Elliot Anderson has called Manchester City the “kings of Manchester” after completing his £116m move to the club from Nottingham Forest. The 23-year-old was a key part of England’s third-place finish at the World Cup, having been an ever-present for Forest in the Premier League last season. Before Morgan Rogers’ £117m transfer to Chelsea from Aston Villa on Tuesday , Anderson’s fee was the record for a British player.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/3813bdbd504cb4a8774e203aba2cec99e4a6a6ae/499_0_5249_4200/master/5249.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5e4ccb13b9f7c477d83da4660396671d",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/23/elliot-anderson-manchester-city-116m-nottingham-forest-transfer-premier-league"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/23/elliot-anderson-manchester-city-116m-nottingham-forest-transfer-premier-league"
+      },
+      "confirmed_by": [],
+      "id": "elliot-anderson-lauds-city-as-kings-of-manchester-after-116m-forest-transfer"
+    },
+    {
       "published_at": "2026-07-23T13:00:13+00:00",
       "updated_at": "2026-07-23T13:00:13+00:00",
       "title": "Arsenal sign Greece forward Christos Tzolis from Club Brugge for £34m",
@@ -790,33 +754,6 @@
       },
       "confirmed_by": [],
       "id": "arsenal-sign-greece-forward-christos-tzolis-from-club-brugge-for-34m"
-    },
-    {
-      "published_at": "2026-07-22T19:31:54+00:00",
-      "updated_at": "2026-07-22T19:31:54+00:00",
-      "title": "Liverpool primed for business: Bezos, Bhatia and the next steps at Anfield",
-      "summary": "Fenway Sports Group looks to be locked in talks with a consortium led by the son-in-law of Lakshmi Mittal, while the Amazon founder has now been linked Continue reading",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://i.guim.co.uk/img/media/bb1446e8d2808a3c6f2c2269ee491462668eee23/813_113_6351_5083/master/6351.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ef7d98fc01843e52650823291cee4f1c",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/22/liverpool-open-talks-over-selling-significant-stake-in-the-club"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/22/liverpool-open-talks-over-selling-significant-stake-in-the-club"
-      },
-      "confirmed_by": [],
-      "id": "liverpool-primed-for-business-bezos-bhatia-and-the-next-steps-at-anfield"
     },
     {
       "published_at": "2026-07-22T19:00:22+00:00",
@@ -1197,6 +1134,33 @@
       "id": "amin-boudri-om-reaktionerna-efter-flytten-till-hammarby-jag-l-ser-inte-s-nt"
     },
     {
+      "published_at": "2026-07-23T18:52:48+00:00",
+      "updated_at": "2026-07-23T18:52:48+00:00",
+      "title": "Sent mål ger Hammarby hopp inför returen i Europa League",
+      "summary": "I dag går Hammarby in i Europa League-kvalet när man ställs mot belgiska storklubben Anderlecht hemma på 3 arena. – Det kommer att smälla mycket och vi måste stå emot, säger Hammarbys Montader Madjed till SVT Sport inför matchen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.07/0.3/e44af2a0aac15e8cc28a5c30ca9fd780c53d65c58a5c223c26895280e8b96aae",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/sent-mal-ger-hammarby-hopp-infor-returen-i-europa-league"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/sent-mal-ger-hammarby-hopp-infor-returen-i-europa-league"
+      },
+      "confirmed_by": [],
+      "id": "sent-m-l-ger-hammarby-hopp-inf-r-returen-i-europa-league"
+    },
+    {
       "published_at": "2026-07-24T15:30:00+00:00",
       "updated_at": "2026-07-24T15:30:00+00:00",
       "title": "Chelsea latest: Lacroix set for medical as Chalobah interest grows",
@@ -1254,31 +1218,31 @@
       "id": "arsenal-latest-gunners-still-in-contact-with-hamburg-over-vieira-deal"
     },
     {
-      "published_at": "2026-07-24T09:10:00+00:00",
-      "updated_at": "2026-07-24T09:10:00+00:00",
-      "title": "Klopps svåraste uppdrag väntar - att leda Tyskland ur mörkret",
-      "summary": "Read the full report at Fotbollskanalen.",
+      "published_at": "2026-07-24T15:59:00+00:00",
+      "updated_at": "2026-07-24T15:59:00+00:00",
+      "title": "Why Alex Scott is one of the Premier League's MOST WANTED midfielders",
+      "summary": "Sky Sports' Peter Smith explains why so many clubs are after Bournemouth's Alex Scott",
       "category": [
-        "Sverige"
+        "Premier League"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-alex-scott-football_7305965.jpg?20260724161055",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/watch/video/13566685/alex-scott-why-the-bournemouth-midfielder-is-wanted-by-so-many-premier-league-clubs"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/watch/video/13566685/alex-scott-why-the-bournemouth-midfielder-is-wanted-by-so-many-premier-league-clubs"
       },
       "confirmed_by": [],
-      "id": "klopps-sv-raste-uppdrag-v-ntar-att-leda-tyskland-ur-m-rkret"
+      "id": "why-alex-scott-is-one-of-the-premier-league-s-most-wanted-midfielders"
     },
     {
       "published_at": "2026-07-24T02:19:51+00:00",
@@ -1556,10 +1520,10 @@
       "id": "police-call-on-english-football-clubs-to-ease-security-burden-on-taxpayers"
     },
     {
-      "published_at": "2026-07-23T07:00:39+00:00",
-      "updated_at": "2026-07-23T07:00:39+00:00",
-      "title": "How LNZ Cherkasy become a wartime success story with few modern parallels",
-      "summary": "Ukrainian club were in fourth tier in 2021 but, despite war with Russia, will contest European qualifiers for first time It is time for set-piece training at LNZ Cherkasy’s smart, shiny training facility. “Arsenal!” one player says with a laugh as the grappling at a corner begins, the joke spreading among others clustered in the six-yard box. That is a level everyone here must aspire to but they are edging nearer.",
+      "published_at": "2026-07-23T11:00:42+00:00",
+      "updated_at": "2026-07-23T11:00:42+00:00",
+      "title": "‘Everyone is hooked on football’: Indian league seeks to ride World Cup wave",
+      "summary": "Club chiefs hope that a revitalised setup can help huge interest in this summer’s tournament translate into growth of the Indian domestic game India was not at the World Cup, but the tournament drew huge interest from within the country . This has happened before but now comes with significant, and necessary, changes in the domestic game that could transform a quadrennial passion into perennial interest. After more than a year of negative headlines regarding the Indian Super League, the country’s top tier will kick off on 4 September.",
       "category": [
         "Football"
       ],
@@ -1567,20 +1531,20 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://i.guim.co.uk/img/media/e1fd452cf265675c37eb29bdfca86b7f6e7c8d96/472_0_4706_3767/master/4706.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=70d56e7c0cac44cdb6325734f0dcfe0f",
+      "image": "https://i.guim.co.uk/img/media/4f374e8eb7a997d747b058c4d95283836fa0b92e/0_0_5031_4024/master/5031.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=833469cfc85dc9c6a1c72727b4f9ccd5",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/23/lnz-cherkasy-have-become-a-force-in-ukrainian-football"
+          "url": "https://www.theguardian.com/football/2026/jul/23/everyone-is-hooked-on-football-indian-league-seeks-to-ride-world-cup-wave"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/23/lnz-cherkasy-have-become-a-force-in-ukrainian-football"
+        "url": "https://www.theguardian.com/football/2026/jul/23/everyone-is-hooked-on-football-indian-league-seeks-to-ride-world-cup-wave"
       },
       "confirmed_by": [],
-      "id": "how-lnz-cherkasy-become-a-wartime-success-story-with-few-modern-parallels"
+      "id": "everyone-is-hooked-on-football-indian-league-seeks-to-ride-world-cup-wave"
     },
     {
       "published_at": "2026-07-24T12:40:51+00:00",
@@ -1691,31 +1655,31 @@
       "id": "tack-f-r-allt-sheriffen-nu-blickar-vi-fram-t"
     },
     {
-      "published_at": "2026-07-24T13:25:00+00:00",
-      "updated_at": "2026-07-24T13:25:00+00:00",
-      "title": "Man City latest: Maresca plays down Rodri exit talk",
-      "summary": "Read the full report at Sky Sports.",
+      "published_at": "2026-07-24T16:10:00+00:00",
+      "updated_at": "2026-07-24T16:10:00+00:00",
+      "title": "Lacey puts impressive United ahead against Rosenborg LIVE!",
+      "summary": "Rosenborg vs Manchester United LIVE! Pre-season friendly score, match updates, lineups",
       "category": [
         "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://e0.365dm.com/26/06/1600x900/skysports-enzo-maresca-man-city_7285824.jpg?20260629153129",
+      "club": "",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-shea-lacey_7306048.jpg?20260724173505",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "url": "https://www.skysports.com/football/live-blog/11095/13564320/rosenborg-vs-manchester-united-live-pre-season-friendly-score-match-updates-lineups"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "url": "https://www.skysports.com/football/live-blog/11095/13564320/rosenborg-vs-manchester-united-live-pre-season-friendly-score-match-updates-lineups"
       },
       "confirmed_by": [],
-      "id": "man-city-latest-maresca-plays-down-rodri-exit-talk"
+      "id": "lacey-puts-impressive-united-ahead-against-rosenborg-live"
     }
   ]
 }
