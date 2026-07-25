@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T07:18:24.051500+00:00",
+  "updated_at": "2026-07-25T09:48:34.540274+00:00",
   "items": [
     {
       "published_at": "2026-07-24T09:47:25+00:00",
@@ -812,6 +812,33 @@
       "id": "football-daily-here-are-48-reasons-to-cherish-the-world-cup-minus-the-geopolitics"
     },
     {
+      "published_at": "2026-07-25T08:42:00+00:00",
+      "updated_at": "2026-07-25T08:42:00+00:00",
+      "title": "Inför BP vs Bajen",
+      "summary": "Vi är inne i en period med tätt matchande i och med europakvalet, det fortsatta seriespelet i Allsvenskan samt en kommande match i svenska cupen. Under söndagen är det dags att vinna borta mot BP. Det är härliga tider, strålande tider!",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/ctWG9z8N0FS88j9QJ8ymJlC0lvZsodEmNeUw32fr.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/infor-bp-vs-bajen-698452"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/infor-bp-vs-bajen-698452"
+      },
+      "confirmed_by": [],
+      "id": "inf-r-bp-vs-bajen"
+    },
+    {
       "published_at": "2026-07-23T19:20:24+00:00",
       "updated_at": "2026-07-23T19:20:24+00:00",
       "title": "Holmberg: ”Decibelnivån var högre än någonsin”",
@@ -923,7 +950,7 @@
       "published_at": "2026-07-21T11:25:00+00:00",
       "updated_at": "2026-07-21T11:25:00+00:00",
       "title": "Reflektioner efter Hammarby - Degerfors",
-      "summary": "Bajen gör ännu en stark insats och tränare Rydström har nu vunnit sina tre första matcher med bajenmärket på bröstet. En sömnig första halvlek följdes upp med en lekfull och målfarlig andra. Här nedan är reflektioner från matchen",
+      "summary": "Äntligen var det dags för Hammarby att testa sig mot vad den europeiska kontinenten har att erbjuda i Europa League-kvalet. Belgiska Anderlecht stod för motståndet och i det första mötet på hemmaplan blev slutresultatet inte som man hade önskat, men bättre än vad man hade befarat",
       "category": [
         "Sverige"
       ],
@@ -972,6 +999,60 @@
       },
       "confirmed_by": [],
       "id": "inf-r-sandviken-hemma-ska-ifk-inleda-en-ny-segersvit"
+    },
+    {
+      "published_at": "2026-07-25T08:57:08+00:00",
+      "updated_at": "2026-07-25T08:57:08+00:00",
+      "title": "Axelina Johansson utan sponsorer – trots IVM-medalj: ”Hade vi varit halvnakna...”",
+      "summary": "Axelina Johansson är femma i världen i kula i år. Trots det står hon utan svenska sponsorer. – Det är för att jag inte är halvnaken när jag tävlar, säger Johansson",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.28/0.29/a1017e2ade298727801299d5fe551a0ee64cb09c5e65e650e3e75b622606c3fa",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/friidrott/axelina-johansson-utan-sponsorer-trots-ivm-medalj-hade-vi-varit-halvnakna"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/friidrott/axelina-johansson-utan-sponsorer-trots-ivm-medalj-hade-vi-varit-halvnakna"
+      },
+      "confirmed_by": [],
+      "id": "axelina-johansson-utan-sponsorer-trots-ivm-medalj-hade-vi-varit-halvnakna"
+    },
+    {
+      "published_at": "2026-07-25T07:45:30+00:00",
+      "updated_at": "2026-07-25T07:45:30+00:00",
+      "title": "Inget SM för Tilde Johansson: ”Lätt känning”",
+      "summary": "Det blir inget SM för Tilde Johansson. 25-åringen ställer in på grund av en skadekänning. ”Tråkigt men rätt beslut att ta”, skriver längdhopparen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.57/0.32/a34700f162318bb1d691751cd03befe330e2914dc812952887ea85e39f6ec851",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/friidrott/inget-sm-for-tilde-johansson-latt-kanning"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/friidrott/inget-sm-for-tilde-johansson-latt-kanning"
+      },
+      "confirmed_by": [],
+      "id": "inget-sm-f-r-tilde-johansson-l-tt-k-nning"
     },
     {
       "published_at": "2026-07-24T19:13:33+00:00",
@@ -1109,88 +1190,6 @@
       "id": "uppgifter-polisutredning-tillsatt-om-misst-nkt-l-ggmatch-i-aik"
     },
     {
-      "published_at": "2026-07-24T09:02:41+00:00",
-      "updated_at": "2026-07-24T09:02:41+00:00",
-      "title": "Klart: Jürgen Klopp tar över tyska landslaget",
-      "summary": "Jürgen Klopp återvänder till tränarbänken. Stortränaren tar över det tyska landslaget.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "jurgen-klopp",
-      "entity_type": "coaches",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.51/0.44/0c2303c9ec14edc8d29c10a3a12498747a63053bd1d73212e5844aa07a85a888",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/klart-jurgen-klopp-tar-over-tyska-landslaget"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/klart-jurgen-klopp-tar-over-tyska-landslaget"
-      },
-      "confirmed_by": [],
-      "id": "klart-j-rgen-klopp-tar-ver-tyska-landslaget"
-    },
-    {
-      "published_at": "2026-07-24T04:00:00+00:00",
-      "updated_at": "2026-07-24T04:00:00+00:00",
-      "title": "Rekordmånga såg fotbolls-VM 2026 i SVT Play",
-      "summary": "Sommarens fotbolls-VM har engagerat stora delar av svenska folket, och när mästerskapet nu är över står det klart att flera rekord har slagits för tittandet i SVT Play",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.72/0.45/301d9634e23d0b339d90b7c8ae0cd8a56a6cf337e296b3460113142940566f59",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/rekordmanga-sag-fotbolls-vm-2026-i-svt-play"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/rekordmanga-sag-fotbolls-vm-2026-i-svt-play"
-      },
-      "confirmed_by": [],
-      "id": "rekordm-nga-s-g-fotbolls-vm-2026-i-svt-play"
-    },
-    {
-      "published_at": "2026-07-24T18:00:00+00:00",
-      "updated_at": "2026-07-24T18:00:00+00:00",
-      "title": "Hull City latest: Japanese international Morita signs",
-      "summary": "Read the full report at Sky Sports.",
-      "category": [
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/05/1600x900/skysports-premier-league-hull-city_7259338.jpg?20260527081515",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-      },
-      "confirmed_by": [],
-      "id": "hull-city-latest-japanese-international-morita-signs"
-    },
-    {
       "published_at": "2026-07-24T15:30:00+00:00",
       "updated_at": "2026-07-24T15:30:00+00:00",
       "title": "Chelsea latest: Lacroix set for medical as Chalobah interest grows",
@@ -1276,6 +1275,35 @@
       "id": "man-city-latest-real-madrid-working-on-deal-to-sign-rodri"
     },
     {
+      "published_at": "2026-07-25T09:45:00+00:00",
+      "updated_at": "2026-07-25T09:45:00+00:00",
+      "title": "Inter Milan interested in signing Tottenham captain Romero",
+      "summary": "Inter Milan are interested in signing Tottenham captain Cristian Romero, according to Sky in Italy",
+      "category": [
+        "Premier League",
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://e0.365dm.com/26/02/1600x900/skysports-cristian-romero-tottenham_7153801.jpg?20260202204404",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13566826/cristian-romero-transfer-news-inter-milan-interested-in-signing-tottenham-captain-during-summer-window"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13566826/cristian-romero-transfer-news-inter-milan-interested-in-signing-tottenham-captain-during-summer-window"
+      },
+      "confirmed_by": [],
+      "id": "inter-milan-interested-in-signing-tottenham-captain-romero"
+    },
+    {
       "published_at": "2026-07-24T15:59:00+00:00",
       "updated_at": "2026-07-24T15:59:00+00:00",
       "title": "Why Alex Scott is one of the Premier League's MOST WANTED midfielders",
@@ -1359,61 +1387,6 @@
       "id": "trendbrott-manchester-uniteds-titeldr-m-lever-europatipset"
     },
     {
-      "published_at": "2026-07-24T02:19:51+00:00",
-      "updated_at": "2026-07-24T02:19:51+00:00",
-      "title": "\"Manchester Citys urladdning - Pep Guardiola vinner ny titel\"",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige",
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "pep-guardiola",
-      "entity_type": "coaches",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "manchester-citys-urladdning-pep-guardiola-vinner-ny-titel"
-    },
-    {
-      "published_at": "2026-07-24T01:45:26+00:00",
-      "updated_at": "2026-07-24T01:45:26+00:00",
-      "title": "\"Premiärfeber - därför kan Örgryte sänka Malmö FF\" - Europatipset",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "premi-rfeber-d-rf-r-kan-rgryte-s-nka-malm-ff-europatipset"
-    },
-    {
       "published_at": "2026-07-23T13:45:00+00:00",
       "updated_at": "2026-07-23T13:45:00+00:00",
       "title": "MFF bekräftar: Ekongs flytt sprack i sista stund",
@@ -1441,6 +1414,34 @@
       "id": "mff-bekr-ftar-ekongs-flytt-sprack-i-sista-stund"
     },
     {
+      "published_at": "2026-07-23T07:40:31+00:00",
+      "updated_at": "2026-07-23T07:40:31+00:00",
+      "title": "\"Stort vägskäl för Manchester United - nytt kapitel börjar nu\"",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige",
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "stort-v-gsk-l-f-r-manchester-united-nytt-kapitel-b-rjar-nu"
+    },
+    {
       "published_at": "2026-07-23T03:38:48+00:00",
       "updated_at": "2026-07-23T03:38:48+00:00",
       "title": "\"Skrälläget som kan rädda Spurs - topplaget lever farligt\" - Europatipset",
@@ -1466,34 +1467,6 @@
       },
       "confirmed_by": [],
       "id": "skr-ll-get-som-kan-r-dda-spurs-topplaget-lever-farligt-europatipset"
-    },
-    {
-      "published_at": "2026-07-22T10:32:00+00:00",
-      "updated_at": "2026-07-22T10:32:00+00:00",
-      "title": "Lokalmedia: Bergvall besviken på Tottenham",
-      "summary": "Lokalmedia: Bergvall besviken på Tottenham Fotbollskanalen",
-      "category": [
-        "Sverige",
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "lokalmedia-bergvall-besviken-p-tottenham"
     },
     {
       "published_at": "2026-07-22T09:55:24+00:00",
@@ -1524,35 +1497,6 @@
       "id": "ny-era-i-premier-league-tr-narkarusell-och-miljardregn"
     },
     {
-      "published_at": "2026-07-22T05:52:12+00:00",
-      "updated_at": "2026-07-22T05:52:12+00:00",
-      "title": "Experten: \"Därför vinner PSG mot Arsenal i CL-finalen\"",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige",
-        "Premier League",
-        "Ligue 1"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "experten-d-rf-r-vinner-psg-mot-arsenal-i-cl-finalen"
-    },
-    {
       "published_at": "2026-07-18T12:47:00+00:00",
       "updated_at": "2026-07-18T12:47:00+00:00",
       "title": "Därför valde Kamanzi MFF: \"Kände att det är en speciell klubb\"",
@@ -1578,6 +1522,60 @@
       },
       "confirmed_by": [],
       "id": "d-rf-r-valde-kamanzi-mff-k-nde-att-det-r-en-speciell-klubb"
+    },
+    {
+      "published_at": "2026-07-25T09:03:08+00:00",
+      "updated_at": "2026-07-25T09:03:08+00:00",
+      "title": "Revanschsuget FFF åker till Sundsvall",
+      "summary": "Segersviten i Superettan tog stopp mot Helsingborgs IF i tisdags. Klockan 13.00 imorgon står GIF Sundsvall borta på schemat.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/ePvlRR2S2enuq5eWc0Klwg1xtBKJSOnItYzNr44r.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/revanschsuget-fff-aker-till-sundsvall-698454"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/revanschsuget-fff-aker-till-sundsvall-698454"
+      },
+      "confirmed_by": [],
+      "id": "revanschsuget-fff-ker-till-sundsvall"
+    },
+    {
+      "published_at": "2026-07-25T07:33:59+00:00",
+      "updated_at": "2026-07-25T07:33:59+00:00",
+      "title": "Förlust i Västerås - 5 tankar efter matchen!",
+      "summary": "Under fredagen spelades den första matchen i den 14:e omgången av Allsvenskan. ÖIS hade tagit sig till Västerås för att möta just Västerås. Efter två bättre insatser från Sällskapet så fanns det hopp om att följa upp detta med ytterligare en bra insats",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/y3nX5almwFEKUyEeAKwDoWs8DrHMOwWMdxVSbnYT.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/forlust-i-vasteras-5-tankar-efter-matchen-698447"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/forlust-i-vasteras-5-tankar-efter-matchen-698447"
+      },
+      "confirmed_by": [],
+      "id": "f-rlust-i-v-ster-s-5-tankar-efter-matchen"
     },
     {
       "published_at": "2026-07-24T20:11:00+00:00",
@@ -1607,85 +1605,32 @@
       "id": "efter-36-r-kom-n-sta-kv-ll"
     },
     {
-      "published_at": "2026-07-24T20:10:08+00:00",
-      "updated_at": "2026-07-24T20:10:08+00:00",
-      "title": "Allsvenskan: Inför Mjällby hemma",
-      "summary": "En poäng mot Malmö ger motivation inför mötet med Svenska mästarna. Kanske kan vi störa dem när ena halvan av hjärnan befinner sig i Europaspelet",
+      "published_at": "2026-07-24T13:57:00+00:00",
+      "updated_at": "2026-07-24T13:57:00+00:00",
+      "title": "Beskedet: Rodri ska opereras",
+      "summary": "Read the full report at Fotbollskanalen.",
       "category": [
-        "Sverige"
+        "Sverige",
+        "Injury"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/461825.jpg",
+      "image": "",
       "sources": [
         {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/allsvenskan-infor-mjallby-hemma-698441"
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/allsvenskan-infor-mjallby-hemma-698441"
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "allsvenskan-inf-r-mj-llby-hemma"
-    },
-    {
-      "published_at": "2026-07-24T12:40:51+00:00",
-      "updated_at": "2026-07-24T12:40:51+00:00",
-      "title": "Svenska lagens publiksuccé i Europa — så många var på plats",
-      "summary": "Mjällby, Hammarby, GAIS och IFK Göteborg har alla spelat sina första matcher i årets Europakval. Alla lag inledde på hemmaplan och bjöd på mäktiga publikfester. Totalt såg 54 565 åskådare Europamatcherna på plats",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/gvIHiuZIungpC9OYtAwbMCHuWfP7DCivrrlwb2ZX.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/svenska-lagens-publiksucce-i-europa-sa-manga-var-pa-plats-698429"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/svenska-lagens-publiksucce-i-europa-sa-manga-var-pa-plats-698429"
-      },
-      "confirmed_by": [],
-      "id": "svenska-lagens-publiksucc-i-europa-s-m-nga-var-p-plats"
-    },
-    {
-      "published_at": "2026-07-24T10:00:00+00:00",
-      "updated_at": "2026-07-24T10:00:00+00:00",
-      "title": "Friday I´m In Love - Himmelsblå lågkonjunktur",
-      "summary": "Även lagen som vinner mest har sina svackor, men i regel hittar de tillbaka till toppen. Malmö FF har visat detta flera gånger",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2072112.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/friday-im-in-love-himmelsbla-lagkonjunktur-698421"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/friday-im-in-love-himmelsbla-lagkonjunktur-698421"
-      },
-      "confirmed_by": [],
-      "id": "friday-i-m-in-love-himmelsbl-l-gkonjunktur"
+      "id": "beskedet-rodri-ska-opereras"
     }
   ]
 }
