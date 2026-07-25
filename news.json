@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T15:03:47.520658+00:00",
+  "updated_at": "2026-07-25T16:59:19.142518+00:00",
   "items": [
     {
       "published_at": "2026-07-25T11:08:50+00:00",
@@ -434,31 +434,40 @@
       "id": "papers-premier-league-clubs-plotting-watkins-bid"
     },
     {
-      "published_at": "2026-07-22T16:08:00+00:00",
-      "updated_at": "2026-07-22T16:08:00+00:00",
-      "title": "Why there's no need to panic in Arsenal's summer of evolution not revolution",
-      "summary": "Mikel Arteta called for Arsenal to be \"very ambitious, very fast and very smart\" in the transfer market in the wake of their Champions League final loss to Paris Saint-Germain in May",
+      "published_at": "2026-07-25T14:51:28+00:00",
+      "updated_at": "2026-07-25T14:51:28+00:00",
+      "title": "Bo Hegland hjälte i Djurgårdens seger på Stora Valla",
+      "summary": "Bo Hegland blev återigen matchhjälte efter att han gjorde matchens enda mål i regnet i Värmland. Djurgården tog tre viktiga poäng och bröt därmed en dyster svit på bortaplan mot Degerfors",
       "category": [
-        "Premier League"
+        "Sverige"
       ],
-      "status": "Reported",
+      "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports_7305563.jpg?20260724085120",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.72/0.27/e5af2ea00fae4d1e67287ffbc94b8d2275e27a7e5a737c7a96b6b381ab493b34",
       "sources": [
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13566029/arsenals-transfer-plans-analysed-gunners-miss-out-on-morgan-rogers-in-summer-of-evolution-not-revolution"
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/bo-hegland-hjalte-i-djurgardens-seger-pa-stora-valla"
+        },
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/bo-hegland-matchhjalte-djurgarden-upp-pa-tredje-plats-698460"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13566029/arsenals-transfer-plans-analysed-gunners-miss-out-on-morgan-rogers-in-summer-of-evolution-not-revolution"
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/bo-hegland-hjalte-i-djurgardens-seger-pa-stora-valla"
       },
-      "confirmed_by": [],
-      "id": "why-there-s-no-need-to-panic-in-arsenal-s-summer-of-evolution-not-revolution"
+      "confirmed_by": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/bo-hegland-matchhjalte-djurgarden-upp-pa-tredje-plats-698460"
+        }
+      ],
+      "id": "bo-hegland-hj-lte-i-djurg-rdens-seger-p-stora-valla"
     },
     {
       "published_at": "2026-07-25T07:00:36+00:00",
@@ -896,10 +905,10 @@
       "id": "reflektioner-efter-hammarby-degerfors"
     },
     {
-      "published_at": "2026-07-25T14:51:28+00:00",
-      "updated_at": "2026-07-25T14:51:28+00:00",
-      "title": "Bo Hegland hjälte i Djurgårdens seger på Stora Valla",
-      "summary": "Djurgården har vunnit på Stora Valla igen. Bo Hegland blev både hjälte och föremål för en kritiserad filmningsbedömning",
+      "published_at": "2026-07-25T16:22:34+00:00",
+      "updated_at": "2026-07-25T16:22:34+00:00",
+      "title": "Tilda Månssons nya succé – trea i London",
+      "summary": "I London tog hon ytterligare en pallplats i VM-serien. – Jag försöker bara ta det lugnt och inte sätta press på mig själv, säger triatleten",
       "category": [
         "Sverige"
       ],
@@ -907,26 +916,53 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.72/0.27/e5af2ea00fae4d1e67287ffbc94b8d2275e27a7e5a737c7a96b6b381ab493b34",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.75/0.4/c8f0abc6e613ea88d5a08cbc52494609315c3649d33d4122834523c94510d812",
       "sources": [
         {
           "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/bo-hegland-hjalte-i-djurgardens-seger-pa-stora-valla"
+          "url": "https://www.svt.se/sport/triathlon/tilda-manssons-nya-succe-trea-i-london"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/bo-hegland-hjalte-i-djurgardens-seger-pa-stora-valla"
+        "url": "https://www.svt.se/sport/triathlon/tilda-manssons-nya-succe-trea-i-london"
       },
       "confirmed_by": [],
-      "id": "bo-hegland-hj-lte-i-djurg-rdens-seger-p-stora-valla"
+      "id": "tilda-m-nssons-nya-succ-trea-i-london"
+    },
+    {
+      "published_at": "2026-07-25T15:52:25+00:00",
+      "updated_at": "2026-07-25T15:52:25+00:00",
+      "title": "Fanny Peterson slog till med drömmål i Hammarbys kross",
+      "summary": "Hammarby krossade Norrköping med 4–0. Matchens delikatess kom från Fanny Peterson, 16, som bjöd på ett distinkt drömmål i storsegern. – Det är så vackert gjort, säger SVT:s expert Hanna Marklund",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.74/0.44/93a94c23f90dc36c6c892f6eb019c948463fc3d946114f5e83ebfaccd0acc47d",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/fanny-peterson-slog-till-med-drommal-i-hammarbys-kross"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/fanny-peterson-slog-till-med-drommal-i-hammarbys-kross"
+      },
+      "confirmed_by": [],
+      "id": "fanny-peterson-slog-till-med-dr-mm-l-i-hammarbys-kross"
     },
     {
       "published_at": "2026-07-25T13:38:48+00:00",
       "updated_at": "2026-07-25T13:38:48+00:00",
       "title": "Lillebror Viktor slog storebror – vann O-ringen",
-      "summary": "Viktor Svensk, 25, vann O-ringen i Göteborg före de två tidigare årens vinnare Emil Svensk, 33",
+      "summary": "Viktor Svensk, 25, vann O-ringen i Göteborg före de två tidigare årens vinnare Emil Svensk, 33. – Kul att vi är topp två igen också. Vi var ju det för två år sedan, säger Viktor Svensk",
       "category": [
         "Sverige"
       ],
@@ -1083,60 +1119,6 @@
       },
       "confirmed_by": [],
       "id": "sm-guld-f-r-fanny-roos-vann-duellen-mot-johansson"
-    },
-    {
-      "published_at": "2026-07-24T13:59:03+00:00",
-      "updated_at": "2026-07-24T13:59:03+00:00",
-      "title": "Hanna Marklund om Djurgårdens kris: ”Behöver gå snabbare i anfallsspelet”",
-      "summary": "Djurgården har haft en tuff inledning på den damallsvenska säsongen och ligger näst sist i tabellen inför återstarten. En kämpig höst väntar nu för huvudstadslaget. – Att Djurgården bara gjort sex mål är alldeles för svagt, säger SVT:s expert Hanna Marklund",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.29/0.43/8b9f270cdcb3ffd69c6514245b13943b95bf58efcd52d1d2af55e52959db3c7c",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/hanna-marklund-om-djurgardens-kris-behover-ga-snabbare-i-anfallsspelet"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/hanna-marklund-om-djurgardens-kris-behover-ga-snabbare-i-anfallsspelet"
-      },
-      "confirmed_by": [],
-      "id": "hanna-marklund-om-djurg-rdens-kris-beh-ver-g-snabbare-i-anfallsspelet"
-    },
-    {
-      "published_at": "2026-07-24T12:28:49+00:00",
-      "updated_at": "2026-07-24T12:28:49+00:00",
-      "title": "Uppgifter: Polisutredning tillsatt om misstänkt läggmatch i AIK",
-      "summary": "Tre AIK-spelare uppges ha planerat en läggmatch under våren 2023 för att bli av med tränaren Andreas Brännström. Nu har polisen tillsatt en utredning om försök till matchfixning, skriver Dagens ETC",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.48/0.47/9efaad3d0fc915047d2761084baadcdbe1a7e2b347ec7faa5aacabc6994fe3cd",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/uppgifter-polisutredning-tillsatt-om-misstankt-laggmatch-i-aik"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/uppgifter-polisutredning-tillsatt-om-misstankt-laggmatch-i-aik"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-polisutredning-tillsatt-om-misst-nkt-l-ggmatch-i-aik"
     },
     {
       "published_at": "2026-07-24T15:30:00+00:00",
@@ -1362,34 +1344,6 @@
       "id": "mff-bekr-ftar-ekongs-flytt-sprack-i-sista-stund"
     },
     {
-      "published_at": "2026-07-23T07:40:31+00:00",
-      "updated_at": "2026-07-23T07:40:31+00:00",
-      "title": "\"Stort vägskäl för Manchester United - nytt kapitel börjar nu\"",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige",
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "stort-v-gsk-l-f-r-manchester-united-nytt-kapitel-b-rjar-nu"
-    },
-    {
       "published_at": "2026-07-23T03:38:48+00:00",
       "updated_at": "2026-07-23T03:38:48+00:00",
       "title": "\"Skrälläget som kan rädda Spurs - topplaget lever farligt\" - Europatipset",
@@ -1415,6 +1369,60 @@
       },
       "confirmed_by": [],
       "id": "skr-ll-get-som-kan-r-dda-spurs-topplaget-lever-farligt-europatipset"
+    },
+    {
+      "published_at": "2026-07-25T16:13:52+00:00",
+      "updated_at": "2026-07-25T16:13:52+00:00",
+      "title": "Om att förstöra ett perfekt slut",
+      "summary": "Jonathan Andersson försöker förstå varför Amin Boudris övergång till Hammarby känns så märklig. Svaret visar sig handla mindre om Hammarby och desto mer om hur supportrar väljer att minnas sina hjältar",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/ckTvtZpt1ZGyY3ha37UJkLbiuzeZTV5RKfa0GIzB.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/om-att-forstora-ett-perfekt-slut-698444"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/om-att-forstora-ett-perfekt-slut-698444"
+      },
+      "confirmed_by": [],
+      "id": "om-att-f-rst-ra-ett-perfekt-slut"
+    },
+    {
+      "published_at": "2026-07-25T16:00:00+00:00",
+      "updated_at": "2026-07-25T16:00:00+00:00",
+      "title": "Inför Malmö FF - IF Elfsborg",
+      "summary": "Efter en 2-1 seger borta mot BP tar sig Sirius på söndag till Borås för att möta IF Elfsborg. Blåsvart ger sig in i matchen med två raka segrar mot boråsarna färskt i minnet. Samtidigt har man inte vunnit på Borås Arena i Allsvenskan sedan 2018",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/y3pkHpA29KWyQn1G1YncD28aiFFsCW56fEumYS7U.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/infor-malmo-ff-if-elfsborg-698464"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/infor-malmo-ff-if-elfsborg-698464"
+      },
+      "confirmed_by": [],
+      "id": "inf-r-malm-ff-if-elfsborg"
     },
     {
       "published_at": "2026-07-25T11:53:00+00:00",
@@ -1471,60 +1479,6 @@
       "id": "revanschsuget-fff-ker-till-sundsvall"
     },
     {
-      "published_at": "2026-07-25T07:33:59+00:00",
-      "updated_at": "2026-07-25T07:33:59+00:00",
-      "title": "Förlust i Västerås - 5 tankar efter matchen!",
-      "summary": "Under fredagen spelades den första matchen i den 14:e omgången av Allsvenskan. ÖIS hade tagit sig till Västerås för att möta just Västerås. Efter två bättre insatser från Sällskapet så fanns det hopp om att följa upp detta med ytterligare en bra insats",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/y3nX5almwFEKUyEeAKwDoWs8DrHMOwWMdxVSbnYT.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/forlust-i-vasteras-5-tankar-efter-matchen-698447"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/forlust-i-vasteras-5-tankar-efter-matchen-698447"
-      },
-      "confirmed_by": [],
-      "id": "f-rlust-i-v-ster-s-5-tankar-efter-matchen"
-    },
-    {
-      "published_at": "2026-07-24T20:11:00+00:00",
-      "updated_at": "2026-07-24T20:11:00+00:00",
-      "title": "Efter 36 år kom nästa kväll",
-      "summary": "För 36 år sedan skrev GAIS ett av klubbens mest mytomspunna Europakapitel. Det här är inte en text om taktik eller statistik, utan om en kväll då en hel supporterkultur fick uppleva något den nästan hade slutat tro var möjligt",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/xrSTRBOEn6Y61XczCfxlNMJ6Vt5JBMgVWfcLJI2X.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/efter-36-ar-kom-nasta-kvall-698442"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/efter-36-ar-kom-nasta-kvall-698442"
-      },
-      "confirmed_by": [],
-      "id": "efter-36-r-kom-n-sta-kv-ll"
-    },
-    {
       "published_at": "2026-07-25T08:31:00+00:00",
       "updated_at": "2026-07-25T08:31:00+00:00",
       "title": "Tottenham latest: De Zerbi wants two new forwards",
@@ -1550,6 +1504,33 @@
       },
       "confirmed_by": [],
       "id": "tottenham-latest-de-zerbi-wants-two-new-forwards"
+    },
+    {
+      "published_at": "2026-07-24T18:00:00+00:00",
+      "updated_at": "2026-07-24T18:00:00+00:00",
+      "title": "Premier League pre-season: Palace lose as Newcastle, Everton held in friendlies",
+      "summary": "Premier League pre-season friendlies 2026: Latest news, goals and highlights",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "everton",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-gateshead-newcastle_7306650.jpg?20260725174026",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13564293/premier-league-pre-season-friendlies-2026-latest-news-goals-and-highlights"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13564293/premier-league-pre-season-friendlies-2026-latest-news-goals-and-highlights"
+      },
+      "confirmed_by": [],
+      "id": "premier-league-pre-season-palace-lose-as-newcastle-everton-held-in-friendlies"
     }
   ]
 }
