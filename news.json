@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T22:05:26.361191+00:00",
+  "updated_at": "2026-07-25T00:04:40.411329+00:00",
   "items": [
     {
       "published_at": "2026-07-24T09:47:25+00:00",
@@ -46,6 +46,43 @@
       "id": "guardiola-turns-down-italy-manager-job"
     },
     {
+      "published_at": "2026-07-24T19:29:18+00:00",
+      "updated_at": "2026-07-24T19:29:18+00:00",
+      "title": "West Ham winger Summerville joins Al-Hilal",
+      "summary": "Midfielder agrees five-year contract after £34m move Dutch winger leaves West Ham in deal worth £60m Newcastle have made Aladji Bamba their fourth signing of the summer after the 20-year-old midfielder ­completed a move from Monaco for a fee that could rise to £34m. “I’m very happy to be here,” said Bamba. “I was very excited when I heard Newcastle were interested in signing me.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7968/live/94159260-8793-11f1-9d55-0b6742729f5d.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cevmx0y88vwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/24/transfers-newcastle-sign-aladji-bamba-monaco"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cevmx0y88vwo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/24/transfers-newcastle-sign-aladji-bamba-monaco"
+        }
+      ],
+      "id": "west-ham-winger-summerville-joins-al-hilal"
+    },
+    {
       "published_at": "2026-07-24T10:40:05+00:00",
       "updated_at": "2026-07-24T10:40:05+00:00",
       "title": "Klopp starts Germany reign by threatening to quit",
@@ -80,44 +117,6 @@
         }
       ],
       "id": "klopp-starts-germany-reign-by-threatening-to-quit"
-    },
-    {
-      "published_at": "2026-07-24T09:30:06+00:00",
-      "updated_at": "2026-07-24T09:30:06+00:00",
-      "title": "Newcastle seal £34m move for Monaco's Bamba",
-      "summary": "Midfielder agrees five-year contract after £34m move Dutch winger leaves West Ham in deal worth £60m Newcastle have made Aladji Bamba their fourth signing of the summer after the 20-year-old midfielder ­completed a move from Monaco for a fee that could rise to £34m. “I’m very happy to be here,” said Bamba. “I was very excited when I heard Newcastle were interested in signing me.",
-      "category": [
-        "Premier League",
-        "Ligue 1",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4771/live/107a3170-8682-11f1-b60e-a7e0943a9c78.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cr593z81lqno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/24/transfers-newcastle-sign-aladji-bamba-monaco"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cr593z81lqno?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/24/transfers-newcastle-sign-aladji-bamba-monaco"
-        }
-      ],
-      "id": "newcastle-seal-34m-move-for-monaco-s-bamba"
     },
     {
       "published_at": "2026-07-24T09:14:32+00:00",
@@ -413,6 +412,35 @@
     {
       "published_at": "2026-07-24T22:00:00+00:00",
       "updated_at": "2026-07-24T22:00:00+00:00",
+      "title": "Real Madrid have £85m bid rejected for Liverpool target Diomande",
+      "summary": "RB Leipzig have rejected an £85.4m bid from Real Madrid for Yan Diomande, according to Sky Germany",
+      "category": [
+        "Premier League",
+        "La Liga",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-diomande-liverpool_7306270.jpg?20260724233952",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13566796/yan-diomande-transfer-news-real-madrid-have-85m-bid-rejected-for-rb-leipzig-winger"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13566796/yan-diomande-transfer-news-real-madrid-have-85m-bid-rejected-for-rb-leipzig-winger"
+      },
+      "confirmed_by": [],
+      "id": "real-madrid-have-85m-bid-rejected-for-liverpool-target-diomande"
+    },
+    {
+      "published_at": "2026-07-24T22:00:00+00:00",
+      "updated_at": "2026-07-24T22:00:00+00:00",
       "title": "Papers: Premier League clubs plotting Watkins bid",
       "summary": "Plus: Real Madrid are working on a deal to sign Manchester City midfielder Rodri & Arsenal are willing to offer Viktor Gyokeres as bait to bring Atletico Madrid striker Julian Alvarez to the Emirates Stadium this summer",
       "category": [
@@ -464,34 +492,6 @@
       },
       "confirmed_by": [],
       "id": "replacing-pep-chelsea-rodri-and-grealish-maresca-s-best-bits"
-    },
-    {
-      "published_at": "2026-07-24T10:30:00+00:00",
-      "updated_at": "2026-07-24T10:30:00+00:00",
-      "title": "'Huge potential for growth' - Newcastle sign Bamba",
-      "summary": "Newcastle have completed the signing of midfielder Aladji Bamba from Monaco",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-aladji-bamba-monaco_7305210.jpg?20260723170311",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13566552/aladji-bamba-transfer-news-newcastle-complete-35-5m-signing-of-midfielder-from-monaco"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13566552/aladji-bamba-transfer-news-newcastle-complete-35-5m-signing-of-midfielder-from-monaco"
-      },
-      "confirmed_by": [],
-      "id": "huge-potential-for-growth-newcastle-sign-bamba"
     },
     {
       "published_at": "2026-07-22T16:08:00+00:00",
@@ -1283,227 +1283,6 @@
       "id": "why-alex-scott-is-one-of-the-premier-league-s-most-wanted-midfielders"
     },
     {
-      "published_at": "2026-07-24T02:19:51+00:00",
-      "updated_at": "2026-07-24T02:19:51+00:00",
-      "title": "\"Manchester Citys urladdning - Pep Guardiola vinner ny titel\"",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige",
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "pep-guardiola",
-      "entity_type": "coaches",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "manchester-citys-urladdning-pep-guardiola-vinner-ny-titel"
-    },
-    {
-      "published_at": "2026-07-24T01:45:26+00:00",
-      "updated_at": "2026-07-24T01:45:26+00:00",
-      "title": "\"Premiärfeber - därför kan Örgryte sänka Malmö FF\" - Europatipset",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "premi-rfeber-d-rf-r-kan-rgryte-s-nka-malm-ff-europatipset"
-    },
-    {
-      "published_at": "2026-07-23T13:45:00+00:00",
-      "updated_at": "2026-07-23T13:45:00+00:00",
-      "title": "MFF bekräftar: Ekongs flytt sprack i sista stund",
-      "summary": "MFF bekräftar: Ekongs flytt sprack i sista stund Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "mff-bekr-ftar-ekongs-flytt-sprack-i-sista-stund"
-    },
-    {
-      "published_at": "2026-07-23T07:40:31+00:00",
-      "updated_at": "2026-07-23T07:40:31+00:00",
-      "title": "\"Stort vägskäl för Manchester United - nytt kapitel börjar nu\"",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige",
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "stort-v-gsk-l-f-r-manchester-united-nytt-kapitel-b-rjar-nu"
-    },
-    {
-      "published_at": "2026-07-23T03:38:48+00:00",
-      "updated_at": "2026-07-23T03:38:48+00:00",
-      "title": "\"Skrälläget som kan rädda Spurs - topplaget lever farligt\" - Europatipset",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "skr-ll-get-som-kan-r-dda-spurs-topplaget-lever-farligt-europatipset"
-    },
-    {
-      "published_at": "2026-07-22T09:55:24+00:00",
-      "updated_at": "2026-07-22T09:55:24+00:00",
-      "title": "\"Ny era i Premier League - tränarkarusell och miljardregn\"",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige",
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "ny-era-i-premier-league-tr-narkarusell-och-miljardregn"
-    },
-    {
-      "published_at": "2026-07-22T05:52:12+00:00",
-      "updated_at": "2026-07-22T05:52:12+00:00",
-      "title": "Experten: \"Därför vinner PSG mot Arsenal i CL-finalen\"",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige",
-        "Premier League",
-        "Ligue 1"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "experten-d-rf-r-vinner-psg-mot-arsenal-i-cl-finalen"
-    },
-    {
-      "published_at": "2026-07-18T12:47:00+00:00",
-      "updated_at": "2026-07-18T12:47:00+00:00",
-      "title": "Därför valde Kamanzi MFF: \"Kände att det är en speciell klubb\"",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "d-rf-r-valde-kamanzi-mff-k-nde-att-det-r-en-speciell-klubb"
-    },
-    {
       "published_at": "2026-07-24T14:36:08+00:00",
       "updated_at": "2026-07-24T14:36:08+00:00",
       "title": "Feeling lost without the World Cup? Six ways to survive the weekend",
@@ -1637,34 +1416,6 @@
       },
       "confirmed_by": [],
       "id": "friday-i-m-in-love-himmelsbl-l-gkonjunktur"
-    },
-    {
-      "published_at": "2026-07-24T13:57:00+00:00",
-      "updated_at": "2026-07-24T13:57:00+00:00",
-      "title": "Beskedet: Rodri ska opereras",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige",
-        "Injury"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "beskedet-rodri-ska-opereras"
     }
   ]
 }
