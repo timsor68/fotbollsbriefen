@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T10:02:00.280409+00:00",
+  "updated_at": "2026-07-26T12:03:44.150869+00:00",
   "items": [
     {
       "published_at": "2026-07-26T06:25:17+00:00",
@@ -341,31 +341,42 @@
       "id": "rodri-to-have-back-surgery-but-maresca-brushes-off-transfer-speculation"
     },
     {
-      "published_at": "2026-07-25T06:36:48+00:00",
-      "updated_at": "2026-07-25T06:36:48+00:00",
-      "title": "Efter VM-succén – Vozinha klar för ny klubb",
-      "summary": "Kap Verdes målvakt Vozinha charmade hela världen under VM. 40-åringen har presenterats av den chilenska storklubben Colo-Colo. ”Vi väntar på dig”, skriver klubben",
+      "published_at": "2026-07-26T11:34:40+00:00",
+      "updated_at": "2026-07-26T11:34:40+00:00",
+      "title": "Inter enter talks with Tottenham over signing captain Cristian Romero",
+      "summary": "Inter sporting director confirms attempt to sign Romero Spurs captain helped Argentina reach World Cup final Internazionale have entered talks with Tottenham over the potential signing of captain Cristian Romero. Romero helped Argentina reach a second straight World Cup final earlier this month, but could leave Spurs this summer for a significant fee after an eventful five-year spell.",
       "category": [
-        "Sverige"
+        "Premier League",
+        "Serie A",
+        "Transfer"
       ],
-      "status": "Confirmed",
+      "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.33/0.55/fa48f86da3d5df4ca2d39fd861f4951bab44d168285084dcf60fefe151232379",
+      "club": "tottenham",
+      "image": "https://e0.365dm.com/26/02/1600x900/skysports-cristian-romero-tottenham_7153801.jpg?20260202204404",
       "sources": [
         {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/efter-vm-succen-vozinha-klar-for-ny-klubb"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13566826/cristian-romero-transfer-news-inter-milan-interested-in-signing-tottenham-captain-during-summer-window"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/26/inter-enter-talks-with-tottenham-over-signing-captain-cristian-romero-transfer-window"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/efter-vm-succen-vozinha-klar-for-ny-klubb"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13566826/cristian-romero-transfer-news-inter-milan-interested-in-signing-tottenham-captain-during-summer-window"
       },
-      "confirmed_by": [],
-      "id": "efter-vm-succ-n-vozinha-klar-f-r-ny-klubb"
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/26/inter-enter-talks-with-tottenham-over-signing-captain-cristian-romero-transfer-window"
+        }
+      ],
+      "id": "inter-enter-talks-with-tottenham-over-signing-captain-cristian-romero"
     },
     {
       "published_at": "2026-07-25T20:38:00+00:00",
@@ -540,33 +551,6 @@
       },
       "confirmed_by": [],
       "id": "premier-league-club-by-club-guide-to-transfer-business-so-far-and-what-they-still-need"
-    },
-    {
-      "published_at": "2026-07-24T18:13:47+00:00",
-      "updated_at": "2026-07-24T18:13:47+00:00",
-      "title": "‘You need to evolve’: Enzo Maresca plots life after Pep at Manchester City",
-      "summary": "Italian does not shy away from the task of following a legend but his previous time at the club may help him Relaxed and tanned, Enzo Maresca offered a warm note with his first words to the media as the manager of Manchester City, who must somehow follow the generational Pep Guardiola. “Before we start, I would like to send a message and a big hug to Kevin Keegan’s family for this moment,” said the Italian in tribute to a football legend, following his death on Monday. Keegan, of course, was a former City manager who had at Newcastle famously locked horns with Sir Alex Ferguson when he led Manchester United, the fierce rivals of Maresca’s new team.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://i.guim.co.uk/img/media/e049e72e60d7fee6e2f76de517ee34ed4d68eba8/817_0_4084_3267/master/4084.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb4d749d8f6fba11ccf28e987dfa9697",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/24/enzo-maresco-manchester-city-pep-guardiola"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/24/enzo-maresco-manchester-city-pep-guardiola"
-      },
-      "confirmed_by": [],
-      "id": "you-need-to-evolve-enzo-maresca-plots-life-after-pep-at-manchester-city"
     },
     {
       "published_at": "2026-07-24T14:02:33+00:00",
@@ -839,10 +823,37 @@
       "id": "reflektioner-efter-hammarby-degerfors"
     },
     {
+      "published_at": "2026-07-26T11:29:11+00:00",
+      "updated_at": "2026-07-26T11:29:11+00:00",
+      "title": "Träningsmatch spårade ur – domare uppges ha fått hjärnskakning",
+      "summary": "Träningsmatchen mellan franska FC Metz och nederländska Fortuna Sittard spårare ur. Huvuddomaren Mathilde Demoncay tvingades lämna matchen efter ett bråk mellan spelarna. Domaren uppges ha fått hjärnskakning",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.26/0.44/99c44effaefb961b830e95e0f1a0e4e54d5dd6b72e644400b57d3a20f10911a0",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/traningsmatch-sparade-ur-domare-uppges-ha-fatt-hjarnskakning"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/traningsmatch-sparade-ur-domare-uppges-ha-fatt-hjarnskakning"
+      },
+      "confirmed_by": [],
+      "id": "tr-ningsmatch-sp-rade-ur-domare-uppges-ha-f-tt-hj-rnskakning"
+    },
+    {
       "published_at": "2026-07-26T09:48:54+00:00",
       "updated_at": "2026-07-26T09:48:54+00:00",
       "title": "Här gör världens äldste fotbollsspelare Kazuyoshi Miura mål",
-      "summary": "Japanen Kazuyoshi Miura är världens äldste aktiva fotbollspelare. I natt gjorde 59-åringen mål för sitt Fukushima United. – Jag var fast besluten att göra mål, säger han",
+      "summary": "Japanen Kazuyoshi Miura är världens äldste aktiva elitfotbollspelare. I natt gjorde 59-åringen mål för sitt Fukushima United. – Jag var fast besluten att göra mål, säger han",
       "category": [
         "Sverige"
       ],
@@ -1138,61 +1149,6 @@
       "id": "man-city-latest-real-madrid-working-on-deal-to-sign-rodri"
     },
     {
-      "published_at": "2026-07-25T17:15:00+00:00",
-      "updated_at": "2026-07-25T17:15:00+00:00",
-      "title": "Duran scores and assists as Celtic round off pre-season with AC Milan draw",
-      "summary": "Camilo Duran impressed again as Celtic rounded off pre-season with an entertaining 2-2 draw against AC Milan",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-celtic-camilo-duran_7306515.jpg?20260725152424",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/celtic-vs-ac-milan/report/556660"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/celtic-vs-ac-milan/report/556660"
-      },
-      "confirmed_by": [],
-      "id": "duran-scores-and-assists-as-celtic-round-off-pre-season-with-ac-milan-draw"
-    },
-    {
-      "published_at": "2026-07-25T09:45:00+00:00",
-      "updated_at": "2026-07-25T09:45:00+00:00",
-      "title": "Inter Milan chief confirms interest in Tottenham captain Romero",
-      "summary": "Inter Milan are interested in signing Tottenham captain Cristian Romero",
-      "category": [
-        "Premier League",
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://e0.365dm.com/26/02/1600x900/skysports-cristian-romero-tottenham_7153801.jpg?20260202204404",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13566826/cristian-romero-transfer-news-inter-milan-interested-in-signing-tottenham-captain-during-summer-window"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13566826/cristian-romero-transfer-news-inter-milan-interested-in-signing-tottenham-captain-during-summer-window"
-      },
-      "confirmed_by": [],
-      "id": "inter-milan-chief-confirms-interest-in-tottenham-captain-romero"
-    },
-    {
       "published_at": "2026-07-24T03:44:28+00:00",
       "updated_at": "2026-07-24T03:44:28+00:00",
       "title": "\"Bortaspöket slår till - Liverpool visar sin klass och avancerar\"",
@@ -1303,6 +1259,114 @@
       "id": "feeling-lost-without-the-world-cup-six-ways-to-survive-the-weekend"
     },
     {
+      "published_at": "2026-07-24T05:33:23+00:00",
+      "updated_at": "2026-07-24T05:33:23+00:00",
+      "title": "Socceroos star Cristian Volpato allegedly tests positive for cocaine during roadside test",
+      "summary": "Australia forward allegedly driving almost 50km/h over speed limit 22-year-old was stopped twice for speeding on Anzac Bridge in Sydney Socceroos forward Cristian Volpato has allegedly tested positive for cocaine after being stopped while driving at almost 50km/h over the speed limit in Sydney. Volpato was one of Australia’s breakout stars of the 2026 World Cup but is now back in the spotlight after allegedly driving a BMW Coupe at 109km/h in a 60km/h zone across Anzac Bridge about 1.10am on Friday.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/b08129167dc127f281e496a4fa5ff71f8bf657af/169_411_3313_2650/master/3313.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a5274d54621a6cda0181d6624ad67e51",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/24/cristian-volpato-socceroos-allegedly-tests-positive-cocaine-speeding"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/24/cristian-volpato-socceroos-allegedly-tests-positive-cocaine-speeding"
+      },
+      "confirmed_by": [],
+      "id": "socceroos-star-cristian-volpato-allegedly-tests-positive-for-cocaine-during-roadside-test"
+    },
+    {
+      "published_at": "2026-07-26T11:31:37+00:00",
+      "updated_at": "2026-07-26T11:31:37+00:00",
+      "title": "Så startar Hammarby och Brommapojkarna – Besara bänkad",
+      "summary": "Nahir Besara får börja på bänken när Hammarby möter BP. Henrik Rydström gör tre ändringar efter matchen mot Anderlecht",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/jajb1zCnAgR7F6sPasPq2EhWLcTmCFmUOXmlOsbV.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/sa-startar-hammarby-och-brommapojkarna-besara-bankad-698479"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/sa-startar-hammarby-och-brommapojkarna-besara-bankad-698479"
+      },
+      "confirmed_by": [],
+      "id": "s-startar-hammarby-och-brommapojkarna-besara-b-nkad"
+    },
+    {
+      "published_at": "2026-07-26T11:22:13+00:00",
+      "updated_at": "2026-07-26T11:22:13+00:00",
+      "title": "Så startar Sirius och Blåvitt – nyförvärv får chansen från start",
+      "summary": "IK Sirius tar emot IFK Göteborg i allsvenskan. Avspark: 14:00. Så startar lagen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/oAjJ4vYef2eOImskoZG8sL74KmRSc5AAJT3XtNVf.png",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/sa-startar-sirius-och-blavitt-nyforvarv-far-chansen-fran-start-698478"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/sa-startar-sirius-och-blavitt-nyforvarv-far-chansen-fran-start-698478"
+      },
+      "confirmed_by": [],
+      "id": "s-startar-sirius-och-bl-vitt-nyf-rv-rv-f-r-chansen-fr-n-start"
+    },
+    {
+      "published_at": "2026-07-26T10:18:56+00:00",
+      "updated_at": "2026-07-26T10:18:56+00:00",
+      "title": "JUST NU: Avbräck för gulvitt- så startar laget i Sundsvall",
+      "summary": "Under söndagseftermiddagen gästar Falkenbergs FF GIF Sundsvall i jakten på tre poäng. Inför matchen rapporterades det om sjukdomsfall hos gästerna",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/fzQQaOfi5SXydHnfJwKEB4MZ5EwBU2a7rxunxSvM.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/just-nu-avbrack-for-gulvitt-sa-startar-laget-i-sundsvall-698475"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/just-nu-avbrack-for-gulvitt-sa-startar-laget-i-sundsvall-698475"
+      },
+      "confirmed_by": [],
+      "id": "just-nu-avbr-ck-f-r-gulvitt-s-startar-laget-i-sundsvall"
+    },
+    {
       "published_at": "2026-07-26T08:21:08+00:00",
       "updated_at": "2026-07-26T08:21:08+00:00",
       "title": "Smäll för Blåvitt – Stjärnan utanför truppen",
@@ -1330,85 +1394,31 @@
       "id": "sm-ll-f-r-bl-vitt-stj-rnan-utanf-r-truppen"
     },
     {
-      "published_at": "2026-07-25T20:37:29+00:00",
-      "updated_at": "2026-07-25T20:37:29+00:00",
-      "title": "Marcus Danielsson tvingas betala 319 000 till ombud",
-      "summary": "Marcus Danielsson stämdes av sitt tidigare ombud. Nu tvingas den gamla landslagsmittbacken betala 319 000 kronor",
+      "published_at": "2026-07-26T11:45:00+00:00",
+      "updated_at": "2026-07-26T11:45:00+00:00",
+      "title": "Bournemouth latest: Billam-Smith analyses Cherries' summer of change",
+      "summary": "Read the full report at Sky Sports.",
       "category": [
-        "Sverige"
+        "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2085002.jpg",
+      "image": "https://e0.365dm.com/26/05/1600x900/skysports-premier-league-club-rumours_7259337.jpg?20260527081428",
       "sources": [
         {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/marcus-danielsson-tvingas-betala-319-000-till-ombud-698467"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/marcus-danielsson-tvingas-betala-319-000-till-ombud-698467"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
       },
       "confirmed_by": [],
-      "id": "marcus-danielsson-tvingas-betala-319-000-till-ombud"
-    },
-    {
-      "published_at": "2026-07-25T19:05:30+00:00",
-      "updated_at": "2026-07-25T19:05:30+00:00",
-      "title": "Inför IK Sirius - IFK Göteborg \"Ombytta roller\"",
-      "summary": "Efter en stark prestation borta mot Elfsborg förra veckan tar Sirius nu emot ett IFK Göteborg i kris",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/JPv751v5trHfYFq718oiSxcyy5JJ5Bf3VMV70Vls.png",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/infor-ik-sirius-ifk-goteborg-698434"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/infor-ik-sirius-ifk-goteborg-698434"
-      },
-      "confirmed_by": [],
-      "id": "inf-r-ik-sirius-ifk-g-teborg-ombytta-roller"
-    },
-    {
-      "published_at": "2026-07-25T18:57:00+00:00",
-      "updated_at": "2026-07-25T18:57:00+00:00",
-      "title": "Kalmar FF – Mjällby AIF: Inte denna visan igen…",
-      "summary": "Efter kvalmatchen mot Lincoln Red Imps hade man ändå fått ett litet hopp om att det värsta kanske var över. Men laget såg snabbt till att sätta ner en på jorden igen. Vi är tyvärr inte bättre än så här just nu",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2064059.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/kalmar-ff-mjallby-aif-inte-denna-visan-igen-698466"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/kalmar-ff-mjallby-aif-inte-denna-visan-igen-698466"
-      },
-      "confirmed_by": [],
-      "id": "kalmar-ff-mj-llby-aif-inte-denna-visan-igen"
+      "id": "bournemouth-latest-billam-smith-analyses-cherries-summer-of-change"
     },
     {
       "published_at": "2026-07-25T13:53:00+00:00",
