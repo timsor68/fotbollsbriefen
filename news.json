@@ -1,42 +1,6 @@
 {
-  "updated_at": "2026-07-26T18:01:34.324643+00:00",
+  "updated_at": "2026-07-26T20:10:02.330496+00:00",
   "items": [
-    {
-      "published_at": "2026-07-26T06:25:17+00:00",
-      "updated_at": "2026-07-26T06:25:17+00:00",
-      "title": "Gomez injury overshadows winning start for Iraola",
-      "summary": "Liverpool start life under Andoni Iraola with a 4-2 win over Sunderland thanks to goals from Kieran Morrison, Dominik Szoboszlai, Federico Chiesa and Lewis Koumas",
-      "category": [
-        "Injury"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/92cc/live/489dc9f0-888e-11f1-890a-814beb5628ee.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm2genrg72do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm2genrg72do?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "id": "gomez-injury-overshadows-winning-start-for-iraola"
-    },
     {
       "published_at": "2026-07-25T14:54:03+00:00",
       "updated_at": "2026-07-25T14:54:03+00:00",
@@ -228,6 +192,33 @@
       },
       "confirmed_by": [],
       "id": "female-referee-injured-in-melee-during-friendly"
+    },
+    {
+      "published_at": "2026-07-26T06:25:17+00:00",
+      "updated_at": "2026-07-26T06:25:17+00:00",
+      "title": "Gomez injury overshadows winning start for Iraola",
+      "summary": "Liverpool start life under Andoni Iraola with a 4-2 win over Sunderland thanks to goals from Kieran Morrison, Dominik Szoboszlai, Federico Chiesa and Lewis Koumas",
+      "category": [
+        "Injury"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/92cc/live/489dc9f0-888e-11f1-890a-814beb5628ee.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm2genrg72do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm2genrg72do?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "gomez-injury-overshadows-winning-start-for-iraola"
     },
     {
       "published_at": "2026-07-25T18:07:42+00:00",
@@ -430,6 +421,34 @@
       "id": "inter-enter-talks-with-tottenham-over-signing-captain-cristian-romero"
     },
     {
+      "published_at": "2026-07-26T20:00:00+00:00",
+      "updated_at": "2026-07-26T20:00:00+00:00",
+      "title": "PSG pull out of Diomande race - Real confident of signing forward",
+      "summary": "Paris Saint-Germain have pulled out of the race to sign RB Leipzig forward Yan Diomande, with Real Madrid now increasingly confident of landing the Ivory Coast international",
+      "category": [
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "psg",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-diomande-rb-leipzig_7306872.jpg?20260726210321",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13567238/yan-diomande-transfer-news-psg-pull-out-of-race-for-rb-leipzig-forward-real-madrid-confident-of-signing-ivorian"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13567238/yan-diomande-transfer-news-psg-pull-out-of-race-for-rb-leipzig-forward-real-madrid-confident-of-signing-ivorian"
+      },
+      "confirmed_by": [],
+      "id": "psg-pull-out-of-diomande-race-real-confident-of-signing-forward"
+    },
+    {
       "published_at": "2026-07-25T20:38:00+00:00",
       "updated_at": "2026-07-25T20:38:00+00:00",
       "title": "Papers: Chelsea's Neto emerges as target for Man City and Maresca",
@@ -455,35 +474,6 @@
       },
       "confirmed_by": [],
       "id": "papers-chelsea-s-neto-emerges-as-target-for-man-city-and-maresca"
-    },
-    {
-      "published_at": "2026-07-24T22:00:00+00:00",
-      "updated_at": "2026-07-24T22:00:00+00:00",
-      "title": "Real Madrid in pole position to sign RB Leipzig's Diomande",
-      "summary": "Real Madrid are in pole position to sign RB Leipzig winger Yan Diomande, according to Sky in Germany",
-      "category": [
-        "La Liga",
-        "Bundesliga",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-diomande-rb-leipzig_7306872.jpg?20260726074616",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13567039/yan-diomande-transfer-news-real-madrid-in-pole-position-for-rb-leipzig-winger-after-85m-bid-rejected"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13567039/yan-diomande-transfer-news-real-madrid-in-pole-position-for-rb-leipzig-winger-after-85m-bid-rejected"
-      },
-      "confirmed_by": [],
-      "id": "real-madrid-in-pole-position-to-sign-rb-leipzig-s-diomande"
     },
     {
       "published_at": "2026-07-26T16:06:34+00:00",
@@ -647,33 +637,6 @@
       },
       "confirmed_by": [],
       "id": "chelsea-paid-aston-villa-117m-for-morgan-rogers-is-he-the-right-fit"
-    },
-    {
-      "published_at": "2026-07-23T13:40:39+00:00",
-      "updated_at": "2026-07-23T13:40:39+00:00",
-      "title": "Norway considers filing Fifa ethics complaint over Trump role in World Cup red card saga",
-      "summary": "Norwegian federation president: Fifa on a ‘slippery slope’ Trump called Infantino for review of Balogun’s red Donald Trump’s role in clearing Folarin Balogun from a mandatory one-game ban at the World Cup is set to provoke a formal complaint to Fifa ethics investigators. The Norway soccer federation said Thursday its board of directors will consider filing the complaint at its next meeting, likely on 6 August.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/4ce8ffe3c3431ebb334572d26adb448071ea5643/275_534_2485_1987/master/2485.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=202107e2409ebd1f331d011366d95d70",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/23/norway-fifa-ethics-complaint-trump-balogun-red-card"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/23/norway-fifa-ethics-complaint-trump-balogun-red-card"
-      },
-      "confirmed_by": [],
-      "id": "norway-considers-filing-fifa-ethics-complaint-over-trump-role-in-world-cup-red-card-saga"
     },
     {
       "published_at": "2026-07-22T19:00:22+00:00",
@@ -865,6 +828,33 @@
       "id": "reflektioner-efter-hammarby-degerfors"
     },
     {
+      "published_at": "2026-07-26T18:06:57+00:00",
+      "updated_at": "2026-07-26T18:06:57+00:00",
+      "title": "Leo Östmans erkännande efter röda kortet: ”Jag gör det lite fult”",
+      "summary": "Malte Frejd Pålsson drog på sig ett rött kort. Möjligen provocerades det fram av en dragning i shortsen. – Jag gör det lite fult, säger Leo Östman med ett leende",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.25/0.42/213bdf870e6ac84bffaa24c6b18d0e736631099e0f0b7db3f68a32f19e01a5a1",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/leo-ostmans-erkannande-efter-roda-kortet-jag-gor-det-lite-fult"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/leo-ostmans-erkannande-efter-roda-kortet-jag-gor-det-lite-fult"
+      },
+      "confirmed_by": [],
+      "id": "leo-stmans-erk-nnande-efter-r-da-kortet-jag-g-r-det-lite-fult"
+    },
+    {
       "published_at": "2026-07-26T17:40:58+00:00",
       "updated_at": "2026-07-26T17:40:58+00:00",
       "title": "Nora Lindahls sköna dubbel – svensk och finsk mästare",
@@ -903,7 +893,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.72/0.43/f69383f50a497f5c7fb88fee52693defc0abd303c6f951b165cf6513858dcd23",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.28/0.38/8a845ce7f40f6dcf217e8a430632cbb58d91333aebaa6db0bdb17dc5036ed0f9",
       "sources": [
         {
           "name": "SVT Sport",
@@ -1054,33 +1044,6 @@
       "id": "wilma-svensons-sm-succ-dubbla-medaljer-i-chock"
     },
     {
-      "published_at": "2026-07-26T13:50:47+00:00",
-      "updated_at": "2026-07-26T13:50:47+00:00",
-      "title": "Hammarby tappade poäng sent mot BP: ”Skitmål”",
-      "summary": "Tungt poängtapp för Hammarby på Grimsta. Efter ett sent nickmål slutade matchen mot BP 1–1. – Det är ett skitmål, säger Paulos Abraham till SVT Sport",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.75/0.41/f176bb19d1aa955bccfe074b2614945278cab5febbc41edbecc7c8e5cbaafb24",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/hammarby-tappade-poang-sent-mot-bp"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/hammarby-tappade-poang-sent-mot-bp"
-      },
-      "confirmed_by": [],
-      "id": "hammarby-tappade-po-ng-sent-mot-bp-skitm-l"
-    },
-    {
       "published_at": "2026-07-26T00:15:00+00:00",
       "updated_at": "2026-07-26T00:15:00+00:00",
       "title": "Leeds latest: Harrison signs for New England Revolution",
@@ -1220,33 +1183,6 @@
       "id": "trendbrott-manchester-uniteds-titeldr-m-lever-europatipset"
     },
     {
-      "published_at": "2026-07-21T11:10:00+00:00",
-      "updated_at": "2026-07-21T11:10:00+00:00",
-      "title": "Klart: Elfsborg lånar ut Richtnér",
-      "summary": "Klart: Elfsborg lånar ut Richtnér Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "klart-elfsborg-l-nar-ut-richtn-r"
-    },
-    {
       "published_at": "2026-07-26T09:14:49+00:00",
       "updated_at": "2026-07-26T09:14:49+00:00",
       "title": "Japan football great ‘King Kazu’ Miura, 59, scores first competitive goal in four years",
@@ -1299,6 +1235,33 @@
       },
       "confirmed_by": [],
       "id": "feeling-lost-without-the-world-cup-six-ways-to-survive-the-weekend"
+    },
+    {
+      "published_at": "2026-07-23T11:00:42+00:00",
+      "updated_at": "2026-07-23T11:00:42+00:00",
+      "title": "‘Everyone is hooked on football’: Indian league seeks to ride World Cup wave",
+      "summary": "Club chiefs hope that a revitalised setup can help huge interest in this summer’s tournament translate into growth of the Indian domestic game India was not at the World Cup, but the tournament drew huge interest from within the country . This has happened before but now comes with significant, and necessary, changes in the domestic game that could transform a quadrennial passion into perennial interest. After more than a year of negative headlines regarding the Indian Super League, the country’s top tier will kick off on 4 September.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/4f374e8eb7a997d747b058c4d95283836fa0b92e/0_0_5031_4024/master/5031.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=833469cfc85dc9c6a1c72727b4f9ccd5",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/23/everyone-is-hooked-on-football-indian-league-seeks-to-ride-world-cup-wave"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/23/everyone-is-hooked-on-football-indian-league-seeks-to-ride-world-cup-wave"
+      },
+      "confirmed_by": [],
+      "id": "everyone-is-hooked-on-football-indian-league-seeks-to-ride-world-cup-wave"
     },
     {
       "published_at": "2026-07-26T17:18:00+00:00",
@@ -1409,6 +1372,33 @@
       "id": "s-startar-hammarby-och-brommapojkarna-besara-b-nkad"
     },
     {
+      "published_at": "2026-07-26T19:00:00+00:00",
+      "updated_at": "2026-07-26T19:00:00+00:00",
+      "title": "Liverpool latest: Chiesa hoping for 'fresh start' under Iraola",
+      "summary": "Read the full report at Sky Sports.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-liverpool-club-blog_7266198.jpg?20260605143916",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "liverpool-latest-chiesa-hoping-for-fresh-start-under-iraola"
+    },
+    {
       "published_at": "2026-07-26T11:45:00+00:00",
       "updated_at": "2026-07-26T11:45:00+00:00",
       "title": "Bournemouth latest: Billam-Smith analyses Cherries' summer of change",
@@ -1461,33 +1451,6 @@
       },
       "confirmed_by": [],
       "id": "arsenal-latest-tzolis-gets-assist-in-behind-closed-doors-friendly-win"
-    },
-    {
-      "published_at": "2026-07-25T08:31:00+00:00",
-      "updated_at": "2026-07-25T08:31:00+00:00",
-      "title": "Tottenham latest: Spurs beat Auckland in New Zealand friendly",
-      "summary": "Read the full report at Sky Sports.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://e0.365dm.com/26/04/1600x900/skysports-spurs-roberto-de-zerbi_7216074.jpg?20260410141222",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "tottenham-latest-spurs-beat-auckland-in-new-zealand-friendly"
     }
   ]
 }
