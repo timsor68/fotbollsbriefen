@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-07-27T20:23:18.991731+00:00",
+  "updated_at": "2026-07-27T22:08:50.513673+00:00",
   "items": [
+    {
+      "published_at": "2026-07-27T18:54:31+00:00",
+      "updated_at": "2026-07-27T18:54:31+00:00",
+      "title": "Chelsea open talks to sign Henderson and Welbeck",
+      "summary": "Brighton striker scored 13 goals in league last season Veteran Brentford midfielder has a year left on contract Chelsea are understood to be in talks over a move to sign Danny Welbeck from Brighton. Welbeck is a surprise candidate to bolster Xabi Alonso’s forward line after scoring 13 goals in 37 Premier League match last season.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a3cd/live/7472a8e0-89ea-11f1-b2ab-0dd01740f9f6.png",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cx2d79ddvg4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13567555/chelsea-transfer-news-blues-interested-in-signing-jordan-henderson-36-after-holding-positive-talks-with-35-year-old-danny-welbeck"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/27/chelsea-surprise-move-danny-welbeck-brighton"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2d79ddvg4o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13567555/chelsea-transfer-news-blues-interested-in-signing-jordan-henderson-36-after-holding-positive-talks-with-35-year-old-danny-welbeck"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/27/chelsea-surprise-move-danny-welbeck-brighton"
+        }
+      ],
+      "id": "chelsea-open-talks-to-sign-henderson-and-welbeck"
+    },
     {
       "published_at": "2026-07-27T17:32:56+00:00",
       "updated_at": "2026-07-27T17:32:56+00:00",
@@ -93,77 +138,41 @@
       "id": "real-madrid-contract-talks-and-arsenal-interest-what-is-vinicius-jr-s-future"
     },
     {
-      "published_at": "2026-07-27T20:01:03+00:00",
-      "updated_at": "2026-07-27T20:01:03+00:00",
-      "title": "Pirlo out of running for Italy job over link to Russian betting company",
-      "summary": "Italian politicians had raised concern over appointment Roberto Mancini and Antonio Conte now in contention Andrea Pirlo has confirmed he is no longer in line to coach Italy, with his sponsorship deal with a Russian betting firm believed to behind the development. Several Italian politicians have raised concerns about Pirlo’s role as an ambassador for Fonbet, saying the national team coach should not have conflicting views on Italy’s support for Ukraine in the war with Russia. Writing on Instagram on Monday, Pirlo said he “heard last night that I’m no longer the candidate for the Italy national team job”.",
+      "published_at": "2026-07-27T20:02:14+00:00",
+      "updated_at": "2026-07-27T20:02:14+00:00",
+      "title": "Inter in advanced talks with England defender Stones",
+      "summary": "Defender left Manchester City on free transfer ‘I still feel I have so much to give to a club’ Inter are closing in on signing John Stones as a free transfer after the 32-year-old defender left Manchester City in June. Inter and their rival Italian club Juventus were interested in Stones before the World Cup and the Nerazzurri are now in pole position to recruit him following his impressive form in England’s run to the semi-finals.",
       "category": [
-        "Football"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/01fc/live/7b3dc190-89a5-11f1-8a9d-b9e590fcf96d.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/news/articles/c4g49r2338xo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/27/andrea-pirlo-out-of-running-for-italy-job-but-defends-deal-with-russian-betting-firm"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/news/articles/c4g49r2338xo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/27/andrea-pirlo-out-of-running-for-italy-job-but-defends-deal-with-russian-betting-firm"
-        }
-      ],
-      "id": "pirlo-out-of-running-for-italy-job-over-link-to-russian-betting-company"
-    },
-    {
-      "published_at": "2026-07-27T18:54:31+00:00",
-      "updated_at": "2026-07-27T18:54:31+00:00",
-      "title": "Chelsea open talks to sign Henderson and Welbeck",
-      "summary": "Chelsea are in talks to sign Brentford midfielder Jordan Henderson and Brighton striker Danny Welbeck",
-      "category": [
-        "Premier League",
+        "Serie A",
         "Transfer"
       ],
       "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a3cd/live/7472a8e0-89ea-11f1-b2ab-0dd01740f9f6.png",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e023/live/496d6e50-89f4-11f1-ad85-33848ec6bcfe.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cx2d79ddvg4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cgewgj8qwvjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13567555/chelsea-transfer-news-blues-interested-in-signing-jordan-henderson-36-after-holding-positive-talks-with-35-year-old-danny-welbeck"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/27/john-stones-inter-move-england-world-cup-2026-manchester-city"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx2d79ddvg4o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cgewgj8qwvjo?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13567555/chelsea-transfer-news-blues-interested-in-signing-jordan-henderson-36-after-holding-positive-talks-with-35-year-old-danny-welbeck"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/27/john-stones-inter-move-england-world-cup-2026-manchester-city"
         }
       ],
-      "id": "chelsea-open-talks-to-sign-henderson-and-welbeck"
+      "id": "inter-in-advanced-talks-with-england-defender-stones"
     },
     {
       "published_at": "2026-07-27T11:00:39+00:00",
@@ -239,32 +248,31 @@
       "id": "diomande-agrees-real-madrid-terms-as-psg-step-away"
     },
     {
-      "published_at": "2026-07-27T20:02:14+00:00",
-      "updated_at": "2026-07-27T20:02:14+00:00",
-      "title": "Inter in advanced talks with England defender Stones",
-      "summary": "England defender John Stones is in advanced talks with Inter Milan about joining the Italian side on a free transfer",
+      "published_at": "2026-07-27T20:01:03+00:00",
+      "updated_at": "2026-07-27T20:01:03+00:00",
+      "title": "Pirlo out of running for Italy job over link to Russian betting company",
+      "summary": "Andrea Pirlo says he is no longer a candidate to coach Italy following days of controversy over his link to a Russian betting company",
       "category": [
-        "Serie A",
-        "Transfer"
+        "Football"
       ],
       "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e023/live/496d6e50-89f4-11f1-ad85-33848ec6bcfe.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/01fc/live/7b3dc190-89a5-11f1-8a9d-b9e590fcf96d.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cgewgj8qwvjo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/news/articles/c4g49r2338xo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cgewgj8qwvjo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/news/articles/c4g49r2338xo?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "inter-in-advanced-talks-with-england-defender-stones"
+      "id": "pirlo-out-of-running-for-italy-job-over-link-to-russian-betting-company"
     },
     {
       "published_at": "2026-07-27T14:05:42+00:00",
@@ -402,6 +410,69 @@
       "id": "delad-pott-mellan-gais-och-halmstad-efter-sen-straff"
     },
     {
+      "published_at": "2026-07-27T14:14:00+00:00",
+      "updated_at": "2026-07-27T14:14:00+00:00",
+      "title": "Stefan Billborn lämnar IFK Göteborg",
+      "summary": "Stefan Billborn är inte längre huvudtränare i IFK Göteborg. Under 53-åringens blåvita sejour har göteborgsklubben gått svagt. Åtminstone om man ser till det låga poängsnittet på 1,31 poäng per match",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.27/0.42/cfb986a603ade2234b00938ae08b097dac5bcda30c5003b92072075e6318791a",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/stefan-billborn-lamnar-ifk-goteborg"
+        },
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/just-nu-billborn-lamnar-ifk-goteborg-698508"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/stefan-billborn-lamnar-ifk-goteborg"
+      },
+      "confirmed_by": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/just-nu-billborn-lamnar-ifk-goteborg-698508"
+        }
+      ],
+      "id": "stefan-billborn-l-mnar-ifk-g-teborg"
+    },
+    {
+      "published_at": "2026-07-27T22:10:00+00:00",
+      "updated_at": "2026-07-27T22:10:00+00:00",
+      "title": "Papers: Man City hopeful Rodri will sign new deal - but braced for Real bid",
+      "summary": "Latest transfer news and headlines as Man Utds Joshua Zirkzee is a top target for Juventus after a deal for Randal Kolo Muani collapsed; updates as Arsenal target Vinicius Jr and Bruno Guimaraes; Chelsea futures for Pedro Neto, Liam Delap and Emmanuel Emegha uncertain",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://e0.365dm.com/25/03/1600x900/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13567581/rodri-transfer-news-man-city-hopeful-world-cup-winner-will-sign-new-deal-but-braced-for-real-madrid-bid-paper-talk"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13567581/rodri-transfer-news-man-city-hopeful-world-cup-winner-will-sign-new-deal-but-braced-for-real-madrid-bid-paper-talk"
+      },
+      "confirmed_by": [],
+      "id": "papers-man-city-hopeful-rodri-will-sign-new-deal-but-braced-for-real-bid"
+    },
+    {
       "published_at": "2026-07-27T19:46:00+00:00",
       "updated_at": "2026-07-27T19:46:00+00:00",
       "title": "Leeds close to club-record deal for Trafford",
@@ -512,35 +583,6 @@
       "id": "why-bamba-could-be-a-bargain-for-newcastle"
     },
     {
-      "published_at": "2026-07-26T22:00:00+00:00",
-      "updated_at": "2026-07-26T22:00:00+00:00",
-      "title": "Papers: PSG value Barcola at £145m amid Liverpool and Arsenal interest",
-      "summary": "Plus: Arsenal would be willing to offer Real winger Vinicius Jr the biggest contract in the clubs history; Sunderland boss Regis Le Bris has told Chelsea to forget about signing Granit Xhaka this summer; Inter have entered talks with Spurs over the potential signing of Cristian Romero",
-      "category": [
-        "Premier League",
-        "Serie A",
-        "Ligue 1"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/25/03/1600x900/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13567165/bradley-barcola-transfer-news-psg-value-france-forward-at-145m-amid-liverpool-and-arsenal-interest-paper-talk"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13567165/bradley-barcola-transfer-news-psg-value-france-forward-at-145m-amid-liverpool-and-arsenal-interest-paper-talk"
-      },
-      "confirmed_by": [],
-      "id": "papers-psg-value-barcola-at-145m-amid-liverpool-and-arsenal-interest"
-    },
-    {
       "published_at": "2026-07-26T20:00:00+00:00",
       "updated_at": "2026-07-26T20:00:00+00:00",
       "title": "PSG pull out of Diomande race - Real confident of signing forward",
@@ -596,13 +638,13 @@
       "id": "what-we-learnt-in-iraola-s-liverpool-debut"
     },
     {
-      "published_at": "2026-07-26T17:21:00+00:00",
-      "updated_at": "2026-07-26T17:21:00+00:00",
-      "title": "Uppgifter: AIK:s Benkovic-värvning riskerar spricka",
-      "summary": "Read the full report at Fotbollskanalen.",
+      "published_at": "2026-07-26T13:30:00+00:00",
+      "updated_at": "2026-07-26T13:30:00+00:00",
+      "title": "Gomez av skadad - Iraola ledsen",
+      "summary": "Gomez av skadad - Iraola ledsen Fotbollskanalen",
       "category": [
         "Sverige",
-        "Transfer"
+        "Injury"
       ],
       "status": "Reported",
       "entity": "",
@@ -621,7 +663,61 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "uppgifter-aik-s-benkovic-v-rvning-riskerar-spricka"
+      "id": "gomez-av-skadad-iraola-ledsen"
+    },
+    {
+      "published_at": "2026-07-27T21:26:10+00:00",
+      "updated_at": "2026-07-27T21:26:10+00:00",
+      "title": "Maldini and Leonardo resign from Italian football federation after Pirlo appointment falls through",
+      "summary": "Pirlo no longer in running for head coach role over betting ties Paolo Maldini only appointed as technical director on 11 July Paolo Maldini and Leonardo have reportedly resigned from their roles with the Italian football federation in the wake of Andrea Pirlo’s appointment as Italy head coach falling through. Both figures had recently taken on roles as part of an overhaul of the national team management. Maldini ‌was appointed ‌on 11 ‌July as technical director of the Italian federation, to help to rebuild the national side after they failed to qualify for a third successive World Cup finals tournament.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/ae35ecd10569a3aa2901b6acb0892201b923572f/191_0_4990_3992/master/4990.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb3c0b148e07e851868986f7083af2be",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/27/andrea-pirlo-out-of-running-for-italy-job-but-defends-deal-with-russian-betting-firm"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/27/andrea-pirlo-out-of-running-for-italy-job-but-defends-deal-with-russian-betting-firm"
+      },
+      "confirmed_by": [],
+      "id": "maldini-and-leonardo-resign-from-italian-football-federation-after-pirlo-appointment-falls"
+    },
+    {
+      "published_at": "2026-07-27T20:22:41+00:00",
+      "updated_at": "2026-07-27T20:22:41+00:00",
+      "title": "Fifa president Gianni Infantino called to appear before Congress over Trump ties",
+      "summary": "Democrat Jamie Raskin pushes Fifa to release records of contact with Trump, administration and family business Jamie Raskin, the top Democrat on the House judiciary committee, has launched an investigation into Fifa president Gianni Infantino, seeking documents that would detail the ties between soccer’s governing body and Donald Trump and his administration. In a Sunday letter, Raskin wrote to Infantino and called for Fifa to provide any documents and communications related to gifts, payments or benefits provided to Trump and his associates, as well as the visitor logs for Fifa’s office space in Trump Tower, which it acquired last year. The committee also requested that Infantino sit for a transcribed interview.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/b2b96a25d5b8aec4cc44cd86a64ec3bce7cb4b8c/287_0_2860_2289/master/2860.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3bf73d60d9113c193740a2bc5ae73f85",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/27/gianni-infantino-donald-trump-jamie-raskin"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/27/gianni-infantino-donald-trump-jamie-raskin"
+      },
+      "confirmed_by": [],
+      "id": "fifa-president-gianni-infantino-called-to-appear-before-congress-over-trump-ties"
     },
     {
       "published_at": "2026-07-27T19:00:17+00:00",
@@ -676,34 +772,6 @@
       },
       "confirmed_by": [],
       "id": "the-2026-world-cup-is-over-but-the-onslaught-of-soccer-relentlessly-rolls-on-leander-schae"
-    },
-    {
-      "published_at": "2026-07-27T16:01:54+00:00",
-      "updated_at": "2026-07-27T16:01:54+00:00",
-      "title": "Chelsea explore surprise move to sign Danny Welbeck from Brighton",
-      "summary": "Veteran scored 13 goals in 37 league games last season Interest signals shift in Stamford Bridge transfer strategy Chelsea are understood to be in talks over a move to sign Danny Welbeck from Brighton. Welbeck is a surprise candidate to bolster Xabi Alonso’s forward line after scoring 13 goals in 37 Premier League match last season, and there is optimism at Stamford Bridge that a deal can be concluded with Brighton understood to be willing to allow the 35-year-old striker, who has a year remaining on his contract, to leave for the right price.",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://i.guim.co.uk/img/media/53afa6f9e48f751286289d43507cddd9265d73f4/567_552_5980_4784/master/5980.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9444c70c19d8068504e12351c1499464",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/27/chelsea-surprise-move-danny-welbeck-brighton"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/27/chelsea-surprise-move-danny-welbeck-brighton"
-      },
-      "confirmed_by": [],
-      "id": "chelsea-explore-surprise-move-to-sign-danny-welbeck-from-brighton"
     },
     {
       "published_at": "2026-07-26T16:06:34+00:00",
@@ -869,60 +937,6 @@
       },
       "confirmed_by": [],
       "id": "chelsea-paid-aston-villa-117m-for-morgan-rogers-is-he-the-right-fit"
-    },
-    {
-      "published_at": "2026-07-23T13:40:39+00:00",
-      "updated_at": "2026-07-23T13:40:39+00:00",
-      "title": "Norway considers filing Fifa ethics complaint over Trump role in World Cup red card saga",
-      "summary": "Norwegian federation president: Fifa on a ‘slippery slope’ Trump called Infantino for review of Balogun’s red Donald Trump’s role in clearing Folarin Balogun from a mandatory one-game ban at the World Cup is set to provoke a formal complaint to Fifa ethics investigators. The Norway soccer federation said Thursday its board of directors will consider filing the complaint at its next meeting, likely on 6 August.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/4ce8ffe3c3431ebb334572d26adb448071ea5643/275_534_2485_1987/master/2485.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=202107e2409ebd1f331d011366d95d70",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/23/norway-fifa-ethics-complaint-trump-balogun-red-card"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/23/norway-fifa-ethics-complaint-trump-balogun-red-card"
-      },
-      "confirmed_by": [],
-      "id": "norway-considers-filing-fifa-ethics-complaint-over-trump-role-in-world-cup-red-card-saga"
-    },
-    {
-      "published_at": "2026-07-27T14:14:00+00:00",
-      "updated_at": "2026-07-27T14:14:00+00:00",
-      "title": "JUST NU: Billborn lämnar IFK Göteborg",
-      "summary": "Stefan Billborn är inte längre huvudtränare i IFK Göteborg. Under 53-åringens blåvita sejour har göteborgsklubben gått svagt. Åtminstone om man ser till det låga poängsnittet på 1,31 poäng per match",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/tZcRQKIvrJLORwGHURQ74yG91MhAnVt4fIcp1WmH.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/just-nu-billborn-lamnar-ifk-goteborg-698508"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/just-nu-billborn-lamnar-ifk-goteborg-698508"
-      },
-      "confirmed_by": [],
-      "id": "just-nu-billborn-l-mnar-ifk-g-teborg"
     },
     {
       "published_at": "2026-07-25T08:42:00+00:00",
@@ -1112,33 +1126,6 @@
       },
       "confirmed_by": [],
       "id": "vittsj-skr-llde-i-sk-nederbyt-vann-efter-sj-lvm-l"
-    },
-    {
-      "published_at": "2026-07-27T14:14:12+00:00",
-      "updated_at": "2026-07-27T14:14:12+00:00",
-      "title": "IFK Göteborg sparkar Stefan Billborn",
-      "summary": "IFK Göteborg går blytungt i allsvenskan. Nu meddelar klubben att huvudtränaren Stefan Billborn tvingas lämna",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.27/0.42/cfb986a603ade2234b00938ae08b097dac5bcda30c5003b92072075e6318791a",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/stefan-billborn-lamnar-ifk-goteborg"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/stefan-billborn-lamnar-ifk-goteborg"
-      },
-      "confirmed_by": [],
-      "id": "ifk-g-teborg-sparkar-stefan-billborn"
     },
     {
       "published_at": "2026-07-27T13:41:05+00:00",
@@ -1333,7 +1320,7 @@
     {
       "published_at": "2026-07-26T08:21:00+00:00",
       "updated_at": "2026-07-26T08:21:00+00:00",
-      "title": "Chelsea latest: VOTE! Is the change in transfer approach to experience players right?",
+      "title": "Chelsea latest: VOTE! Is the change in transfer approach to experienced players right?",
       "summary": "Read the full report at Sky Sports.",
       "category": [
         "Premier League",
@@ -1356,7 +1343,7 @@
         "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "chelsea-latest-vote-is-the-change-in-transfer-approach-to-experience-players-right"
+      "id": "chelsea-latest-vote-is-the-change-in-transfer-approach-to-experienced-players-right"
     },
     {
       "published_at": "2026-07-27T10:00:00+00:00",
@@ -1578,6 +1565,33 @@
       "id": "sylisufajs-framtidssvar-vet-inte-vad-som-h-nder"
     },
     {
+      "published_at": "2026-07-21T11:10:00+00:00",
+      "updated_at": "2026-07-21T11:10:00+00:00",
+      "title": "Klart: Elfsborg lånar ut Richtnér",
+      "summary": "Klart: Elfsborg lånar ut Richtnér Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "klart-elfsborg-l-nar-ut-richtn-r"
+    },
+    {
       "published_at": "2026-07-27T19:24:40+00:00",
       "updated_at": "2026-07-27T19:24:40+00:00",
       "title": "Örebros kris växer: Avgångskrav mot Norling",
@@ -1657,6 +1671,33 @@
       },
       "confirmed_by": [],
       "id": "mj-llby-p-europaresa-en-realistisk-dr-m"
+    },
+    {
+      "published_at": "2026-07-27T17:50:00+00:00",
+      "updated_at": "2026-07-27T17:50:00+00:00",
+      "title": "Silly season sommaren 2026",
+      "summary": "Silly Season-bloggen är äntligen tillbaka! Under hela sommaren uppdaterar vi er med de ryktena kring Djurgårdens herrlag i fotboll",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/ofYhvWYgaCDk3y8OivcyGKqYYmb8Uq0YPZtW9mn5.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/silly-season-sommaren-2026-697593"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/silly-season-sommaren-2026-697593"
+      },
+      "confirmed_by": [],
+      "id": "silly-season-sommaren-2026"
     }
   ]
 }
