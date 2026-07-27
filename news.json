@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-07-27T14:36:46.870707+00:00",
+  "updated_at": "2026-07-27T16:58:34.382865+00:00",
   "items": [
+    {
+      "published_at": "2026-07-27T13:24:43+00:00",
+      "updated_at": "2026-07-27T13:24:43+00:00",
+      "title": "Chelsea open talks to sign Brighton striker Welbeck",
+      "summary": "Veteran scored 13 goals in 37 league games last season Interest signals shift in Stamford Bridge transfer strategy Chelsea are understood to be in talks over a move to sign Danny Welbeck from Brighton. Welbeck is a surprise candidate to bolster Xabi Alonso’s forward line after scoring 13 goals in 37 Premier League match last season, and there is optimism at Stamford Bridge that a deal can be concluded with Brighton understood to be willing to allow the 35-year-old striker, who has a year remaining on his contract, to leave for the right price.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/337d/live/5210b680-89bc-11f1-965a-d70ca8fc6275.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cx2d79ddvg4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13567452/danny-welbeck-transfer-news-chelsea-hold-positives-talks-with-brighton-over-signing-of-striker"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/27/chelsea-surprise-move-danny-welbeck-brighton"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2d79ddvg4o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13567452/danny-welbeck-transfer-news-chelsea-hold-positives-talks-with-brighton-over-signing-of-striker"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/27/chelsea-surprise-move-danny-welbeck-brighton"
+        }
+      ],
+      "id": "chelsea-open-talks-to-sign-brighton-striker-welbeck"
+    },
     {
       "published_at": "2026-07-27T11:03:15+00:00",
       "updated_at": "2026-07-27T11:03:15+00:00",
@@ -93,41 +138,40 @@
       "id": "real-madrid-contract-talks-and-arsenal-interest-what-is-vinicius-jr-s-future"
     },
     {
-      "published_at": "2026-07-27T13:24:43+00:00",
-      "updated_at": "2026-07-27T13:24:43+00:00",
-      "title": "Chelsea open talks to sign Brighton striker Welbeck",
-      "summary": "Chelsea are in talks to sign Brighton & Hove Albion striker Danny Welbeck, with the 35-year-old keen to join new manager Xabi Alonso at Stamford Bridge",
+      "published_at": "2026-07-27T11:00:39+00:00",
+      "updated_at": "2026-07-27T11:00:39+00:00",
+      "title": "Brighton captain Symonds signs new 'long-term' deal",
+      "summary": "Brighton captain Maisie Symonds signs a new contract, described by the club as long-term",
       "category": [
-        "Premier League",
         "Transfer"
       ],
       "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/337d/live/5210b680-89bc-11f1-965a-d70ca8fc6275.jpg",
+      "club": "brighton",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7ca0/live/00c939c0-89a6-11f1-a85a-79136c2d298e.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cx2d79ddvg4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cpvwrg0kmgro?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13567452/danny-welbeck-transfer-news-chelsea-hold-positives-talks-with-brighton-over-signing-of-striker"
+          "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx2d79ddvg4o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cpvwrg0kmgro?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13567452/danny-welbeck-transfer-news-chelsea-hold-positives-talks-with-brighton-over-signing-of-striker"
+          "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
-      "id": "chelsea-open-talks-to-sign-brighton-striker-welbeck"
+      "id": "brighton-captain-symonds-signs-new-long-term-deal"
     },
     {
       "published_at": "2026-07-27T05:46:37+00:00",
@@ -207,7 +251,7 @@
     {
       "published_at": "2026-07-27T14:05:42+00:00",
       "updated_at": "2026-07-27T14:05:42+00:00",
-      "title": "Salah, Stones & Sancho - Premier League free agents",
+      "title": "Salah, Stones & Sancho - who are the Premier League free agents?",
       "summary": "BBC Sport takes a look at some of the notable out-of-contract players who playing in the English top flight last season",
       "category": [
         "Premier League"
@@ -216,7 +260,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c745/live/482bfd30-89be-11f1-b8ee-9b3c26ad07bb.png",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/401e/live/190686d0-89da-11f1-b2ab-0dd01740f9f6.png",
       "sources": [
         {
           "name": "BBC Sport",
@@ -229,7 +273,7 @@
         "url": "https://www.bbc.co.uk/sport/football/articles/c78g7pj9gyno?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "salah-stones-sancho-premier-league-free-agents"
+      "id": "salah-stones-sancho-who-are-the-premier-league-free-agents"
     },
     {
       "published_at": "2026-07-27T13:22:05+00:00",
@@ -286,33 +330,6 @@
       "id": "martin-foxes-must-find-own-way-after-struggles"
     },
     {
-      "published_at": "2026-07-27T11:00:39+00:00",
-      "updated_at": "2026-07-27T11:00:39+00:00",
-      "title": "Brighton captain Symonds signs new 'long-term' deal",
-      "summary": "Brighton captain Maisie Symonds signs a new contract, described by the club as long-term",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "brighton",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7ca0/live/00c939c0-89a6-11f1-a85a-79136c2d298e.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cpvwrg0kmgro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cpvwrg0kmgro?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "brighton-captain-symonds-signs-new-long-term-deal"
-    },
-    {
       "published_at": "2026-07-27T10:51:13+00:00",
       "updated_at": "2026-07-27T10:51:13+00:00",
       "title": "York appoint Lindsey after shock Maynard sacking",
@@ -340,48 +357,31 @@
       "id": "york-appoint-lindsey-after-shock-maynard-sacking"
     },
     {
-      "published_at": "2026-07-27T08:07:28+00:00",
-      "updated_at": "2026-07-27T08:07:28+00:00",
-      "title": "Meditate, pray or watch football instead of spreading hate - Infantino",
-      "summary": "Infantino claims critics of World Cup ‘missed it all’ He again defends Balogun affair and treatment of Iran The Fifa president, Gianni Infantino , has hit back at critics of the World Cup, accusing them of spreading hate and false narratives while defending the tournament ⁠as a success that celebrated ⁠unity, safety and inclusion. In ​an open letter published on Monday, Infantino said detractors had overlooked the joy and togetherness experienced by millions of fans around the world who witnessed the tournament, ⁠ won by Spain and staged in the United States, Canada and Mexico.",
+      "published_at": "2026-07-27T06:10:05+00:00",
+      "updated_at": "2026-07-27T06:10:05+00:00",
+      "title": "Rogers and Palmer can play together - Alonso",
+      "summary": "Chelsea manager Xabi Alonso says he has a \"plan\" to play club record £117m signing Morgan Rogers alongside Cole Palmer",
       "category": [
         "Football"
       ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
+      "status": "Confirmed",
+      "entity": "xabi-alonso",
+      "entity_type": "coaches",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d0be/live/28678820-8987-11f1-88b2-635548373e92.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bd8d/live/9cd85070-897f-11f1-b8ee-9b3c26ad07bb.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cz0515973gpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/27/gianni-infantino-hits-out-fifa-critics-hate-open-letter-world-cup"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cre4qpq5j4wo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cz0515973gpo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cre4qpq5j4wo?at_medium=RSS&at_campaign=rss"
       },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/27/gianni-infantino-hits-out-fifa-critics-hate-open-letter-world-cup"
-        }
-      ],
-      "id": "meditate-pray-or-watch-football-instead-of-spreading-hate-infantino"
+      "confirmed_by": [],
+      "id": "rogers-and-palmer-can-play-together-alonso"
     },
     {
       "published_at": "2026-07-27T10:00:07+00:00",
@@ -465,42 +465,31 @@
       "id": "sirius-ngar-p-dr-mm-l-s-nkte-ifk-g-teborg"
     },
     {
-      "published_at": "2026-07-26T11:34:40+00:00",
-      "updated_at": "2026-07-26T11:34:40+00:00",
-      "title": "Inter enter talks with Tottenham over signing captain Cristian Romero",
-      "summary": "Inter sporting director confirms attempt to sign Romero Spurs captain helped Argentina reach World Cup final Inter have entered talks with Tottenham over the potential signing of Cristian Romero. The Spurs captain helped Argentina reach a second straight World Cup final this month, but could leave this summer for a significant fee after an eventful five-year spell. The centre-back has made 156 appearances since he joined Tottenham in 2021 and guided the club to Europa League success last year, but served four separate suspensions during a difficult 2025-26 campaign.",
+      "published_at": "2026-07-27T13:40:00+00:00",
+      "updated_at": "2026-07-27T13:40:00+00:00",
+      "title": "Can Premiership's youngest manager lead Motherwell to success?",
+      "summary": "Alfred Johansson is only 35, but what can be expected from Motherwell under the youngest manager in the Scottish Premiership?",
       "category": [
-        "Premier League",
-        "Serie A",
-        "Transfer"
+        "Coach"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://e0.365dm.com/26/02/1600x900/skysports-cristian-romero-tottenham_7153801.jpg?20260202204404",
+      "club": "",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-alfred-johansson_7305427.jpg?20260723220014",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13566826/cristian-romero-transfer-news-inter-milan-interested-in-signing-tottenham-captain-during-summer-window"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/26/inter-enter-talks-with-tottenham-over-signing-captain-cristian-romero-transfer-window"
+          "url": "https://www.skysports.com/football/news/11095/13567440/alfred-johansson-can-motherwell-build-on-success-under-leadership-of-scottish-premierships-youngest-manager"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13566826/cristian-romero-transfer-news-inter-milan-interested-in-signing-tottenham-captain-during-summer-window"
+        "url": "https://www.skysports.com/football/news/11095/13567440/alfred-johansson-can-motherwell-build-on-success-under-leadership-of-scottish-premierships-youngest-manager"
       },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/26/inter-enter-talks-with-tottenham-over-signing-captain-cristian-romero-transfer-window"
-        }
-      ],
-      "id": "inter-enter-talks-with-tottenham-over-signing-captain-cristian-romero"
+      "confirmed_by": [],
+      "id": "can-premiership-s-youngest-manager-lead-motherwell-to-success"
     },
     {
       "published_at": "2026-07-27T09:57:00+00:00",
@@ -612,6 +601,61 @@
       "id": "what-we-learnt-in-iraola-s-liverpool-debut"
     },
     {
+      "published_at": "2026-07-26T13:30:00+00:00",
+      "updated_at": "2026-07-26T13:30:00+00:00",
+      "title": "Gomez av skadad - Iraola ledsen",
+      "summary": "Gomez av skadad - Iraola ledsen Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "Injury"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "gomez-av-skadad-iraola-ledsen"
+    },
+    {
+      "published_at": "2026-07-27T16:36:58+00:00",
+      "updated_at": "2026-07-27T16:36:58+00:00",
+      "title": "The 2026 World Cup is over, but the onslaught of soccer relentlessly rolls on | Leander Schaerlaeckens",
+      "summary": "The supply of soccer seems to be enormously exceeding demand. It’s made the sport feel utterly overwhelming On Friday, the Scottish Premiership kicks off its 2026-27 season. The following Friday, the Dutch Eredivisie begins anew, and England’s Carabao Cup sets off on its ponderous journey.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/c9b74c9845db7fd2382c6200293a7e161cf58025/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=c416ffef7bc89d68b70a38f04ac8559b",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/27/relentless-soccer-schedule-world-cup"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/27/relentless-soccer-schedule-world-cup"
+      },
+      "confirmed_by": [],
+      "id": "the-2026-world-cup-is-over-but-the-onslaught-of-soccer-relentlessly-rolls-on-leander-schae"
+    },
+    {
       "published_at": "2026-07-26T16:06:34+00:00",
       "updated_at": "2026-07-26T16:06:34+00:00",
       "title": "Régis Le Bris says Chelsea’s pursuit of Sunderland captain Xhaka is ‘closed’",
@@ -637,6 +681,35 @@
       },
       "confirmed_by": [],
       "id": "r-gis-le-bris-says-chelsea-s-pursuit-of-sunderland-captain-xhaka-is-closed"
+    },
+    {
+      "published_at": "2026-07-26T11:34:40+00:00",
+      "updated_at": "2026-07-26T11:34:40+00:00",
+      "title": "Inter enter talks with Tottenham over signing captain Cristian Romero",
+      "summary": "Inter sporting director confirms attempt to sign Romero Spurs captain helped Argentina reach World Cup final Inter have entered talks with Tottenham over the potential signing of Cristian Romero. The Spurs captain helped Argentina reach a second straight World Cup final this month, but could leave this summer for a significant fee after an eventful five-year spell. The centre-back has made 156 appearances since he joined Tottenham in 2021 and guided the club to Europa League success last year, but served four separate suspensions during a difficult 2025-26 campaign.",
+      "category": [
+        "Premier League",
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://i.guim.co.uk/img/media/51e217f7a17c474999ac841df7a1e19bcc7634a3/161_0_2467_1973/master/2467.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a9cb7c835563f9323f9befa3f03854a7",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/26/inter-enter-talks-with-tottenham-over-signing-captain-cristian-romero-transfer-window"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/26/inter-enter-talks-with-tottenham-over-signing-captain-cristian-romero-transfer-window"
+      },
+      "confirmed_by": [],
+      "id": "inter-enter-talks-with-tottenham-over-signing-captain-cristian-romero"
     },
     {
       "published_at": "2026-07-26T07:00:05+00:00",
@@ -721,33 +794,6 @@
       "id": "premier-league-club-by-club-guide-to-transfer-business-so-far-and-what-they-still-need"
     },
     {
-      "published_at": "2026-07-24T14:02:33+00:00",
-      "updated_at": "2026-07-24T14:02:33+00:00",
-      "title": "Football Daily | Manchester United and the quest to make mythical midfield a reality",
-      "summary": "Like the urban myth that you are never more than three feet away from a spider, modern footballing lore tells us Manchester United are only ever three signings away from a Premier League title challenge. With the Geopolitics World Cup in the rear-view mirror and the transfer news machine churning once more, you may have missed United being linked with just about every midfielder to ever grace a centre circle. They missed out on Elliot Anderson – who went and dubbed his new club the “kings of Manchester” – and were fooled into thinking they could snare Aurélien Tchouaméni.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://i.guim.co.uk/img/media/bc90c50e8e4288df78da7f58d0210a904126463e/392_0_6290_5032/master/6290.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=886e7274f478a41c1e65be08a13da7ec",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/24/manchester-united-midfield-football-daily-newsletter"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/24/manchester-united-midfield-football-daily-newsletter"
-      },
-      "confirmed_by": [],
-      "id": "football-daily-manchester-united-and-the-quest-to-make-mythical-midfield-a-reality"
-    },
-    {
       "published_at": "2026-07-23T18:00:51+00:00",
       "updated_at": "2026-07-23T18:00:51+00:00",
       "title": "Chelsea paid Aston Villa £117m for Morgan Rogers. Is he the right fit?",
@@ -805,7 +851,7 @@
       "published_at": "2026-07-27T14:14:00+00:00",
       "updated_at": "2026-07-27T14:14:00+00:00",
       "title": "JUST NU: Billborn lämnar IFK Göteborg",
-      "summary": "Stefan Billborn lämnar sitt uppdrag som huvudtränare för IFK Göteborg. Hans assisterande tränare, Joachim Björklund, tar över rollen. Det meddelar IFK Göteborg under måndagen",
+      "summary": "Stefan Billborn är inte längre huvudtränare i IFK Göteborg. Under 53-åringens blåvita sejour har göteborgsklubben gått svagt. Åtminstone om man ser till det låga poängsnittet på 1,31 poäng per match",
       "category": [
         "Sverige"
       ],
@@ -1029,7 +1075,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/d1b624d80497516ff960c2aed0b87fceb2e1ecfe96ea5ffc6362aaa853cc49b3",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.7/0.5/e194d343cd9c93c92e2da8eef33e4e6435c3b61a6045cbb527468bc171458b3f",
       "sources": [
         {
           "name": "SVT Sport",
@@ -1180,31 +1226,32 @@
       "id": "elfsborg-segrade-mot-malm-efter-mittbackens-r-da-kort"
     },
     {
-      "published_at": "2026-07-27T10:45:00+00:00",
-      "updated_at": "2026-07-27T10:45:00+00:00",
-      "title": "Man Utd latest: Goalkeeper Margetson joins from Swansea",
-      "summary": "Read the full report at Sky Sports.",
+      "published_at": "2026-07-27T17:00:00+00:00",
+      "updated_at": "2026-07-27T17:00:00+00:00",
+      "title": "WSL latest: Man City's Layzell joins Everton on loan",
+      "summary": "The latest news, rumours and gossip from the Womens Super League",
       "category": [
+        "Premier League",
         "Transfer"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/26/02/1600x900/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
+      "club": "manchester-city",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-naomi-layzell-everton-women_7307941.jpg?20260727170403",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "url": "https://www.skysports.com/football/live-blog/11095/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "url": "https://www.skysports.com/football/live-blog/11095/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest"
       },
       "confirmed_by": [],
-      "id": "man-utd-latest-goalkeeper-margetson-joins-from-swansea"
+      "id": "wsl-latest-man-city-s-layzell-joins-everton-on-loan"
     },
     {
       "published_at": "2026-07-27T07:25:00+00:00",
@@ -1237,33 +1284,6 @@
     {
       "published_at": "2026-07-27T10:00:00+00:00",
       "updated_at": "2026-07-27T10:00:00+00:00",
-      "title": "McInnes challenges Rangers to have 'ambition' to win title",
-      "summary": "\"I don't see why we can't have the ambition to win a title this season.\"",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-derek-mcinnes-rangers_7288098.jpg?20260702132857",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13567361/rangers-derek-mcinnes-challenges-players-to-have-ambition-to-win-scottish-premiership-title-ahead-of-season-opener"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13567361/rangers-derek-mcinnes-challenges-players-to-have-ambition-to-win-scottish-premiership-title-ahead-of-season-opener"
-      },
-      "confirmed_by": [],
-      "id": "mcinnes-challenges-rangers-to-have-ambition-to-win-title"
-    },
-    {
-      "published_at": "2026-07-27T10:00:00+00:00",
-      "updated_at": "2026-07-27T10:00:00+00:00",
       "title": "The story of the 'non-League Wrexham' now chasing the EFL dream",
       "summary": "Having sold 40 per cent of influencer marketing agency, Goat, in 2021, Harry Hugo had made his fortune at 26 - and he realised that, by the age of 30, he would have the rare luxury of not needing to work again",
       "category": [
@@ -1287,6 +1307,33 @@
       },
       "confirmed_by": [],
       "id": "the-story-of-the-non-league-wrexham-now-chasing-the-efl-dream"
+    },
+    {
+      "published_at": "2026-07-27T10:00:00+00:00",
+      "updated_at": "2026-07-27T10:00:00+00:00",
+      "title": "McInnes challenges Rangers to have 'ambition' to win title",
+      "summary": "\"I don't see why we can't have the ambition to win a title this season.\"",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-derek-mcinnes-rangers_7288098.jpg?20260702132857",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13567361/rangers-derek-mcinnes-challenges-players-to-have-ambition-to-win-scottish-premiership-title-ahead-of-season-opener"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13567361/rangers-derek-mcinnes-challenges-players-to-have-ambition-to-win-scottish-premiership-title-ahead-of-season-opener"
+      },
+      "confirmed_by": [],
+      "id": "mcinnes-challenges-rangers-to-have-ambition-to-win-title"
     },
     {
       "published_at": "2026-07-27T01:26:39+00:00",
@@ -1427,33 +1474,6 @@
       "id": "trendbrott-manchester-uniteds-titeldr-m-lever-europatipset"
     },
     {
-      "published_at": "2026-07-21T11:10:00+00:00",
-      "updated_at": "2026-07-21T11:10:00+00:00",
-      "title": "Klart: Elfsborg lånar ut Richtnér",
-      "summary": "Klart: Elfsborg lånar ut Richtnér Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "klart-elfsborg-l-nar-ut-richtn-r"
-    },
-    {
       "published_at": "2026-07-24T14:36:08+00:00",
       "updated_at": "2026-07-24T14:36:08+00:00",
       "title": "Feeling lost without the World Cup? Six ways to survive the weekend",
@@ -1506,33 +1526,6 @@
       },
       "confirmed_by": [],
       "id": "everyone-is-hooked-on-football-indian-league-seeks-to-ride-world-cup-wave"
-    },
-    {
-      "published_at": "2026-07-23T07:00:39+00:00",
-      "updated_at": "2026-07-23T07:00:39+00:00",
-      "title": "How LNZ Cherkasy become a wartime success story with few modern parallels",
-      "summary": "Ukrainian club were in fourth tier in 2021 but, despite war with Russia, will contest European qualifiers for first time It is time for set-piece training at LNZ Cherkasy’s smart, shiny training facility. “Arsenal!” one player says with a laugh as the grappling at a corner begins, the joke spreading among others clustered in the six-yard box. That is a level everyone here must aspire to but they are edging nearer.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/e1fd452cf265675c37eb29bdfca86b7f6e7c8d96/472_0_4706_3767/master/4706.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=70d56e7c0cac44cdb6325734f0dcfe0f",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/23/lnz-cherkasy-have-become-a-force-in-ukrainian-football"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/23/lnz-cherkasy-have-become-a-force-in-ukrainian-football"
-      },
-      "confirmed_by": [],
-      "id": "how-lnz-cherkasy-become-a-wartime-success-story-with-few-modern-parallels"
     },
     {
       "published_at": "2026-07-27T14:35:23+00:00",
