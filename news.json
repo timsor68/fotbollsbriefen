@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T04:10:33.441816+00:00",
+  "updated_at": "2026-07-28T07:39:39.970849+00:00",
   "items": [
     {
       "published_at": "2026-07-27T18:54:31+00:00",
@@ -91,53 +91,6 @@
       "id": "english-football-agrees-trial-to-end-goalkeeper-tactical-timeouts"
     },
     {
-      "published_at": "2026-07-27T10:26:36+00:00",
-      "updated_at": "2026-07-27T10:26:36+00:00",
-      "title": "Real Madrid contract talks and Arsenal interest - what is Vinicius Jr's future?",
-      "summary": "Brazil forward has one year left on contract at Bernabéu Vinícius future at Real uncertain after Mourinho arrival Arsenal are exploring a shock deal to sign Vinícius Júnior from Real Madrid. Arsenal have inquired about the Brazil international, who has one year remaining on his contract at the Bernabéu. It is believed any move for Vinícius – who scored 22 goals for Real last season and four for Brazil at the World Cup – is at a formative stage as Mikel Arteta seeks a marquee signing to build on the club’s first Premier League title in more than two decades.",
-      "category": [
-        "Premier League",
-        "La Liga",
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5d30/live/def92a80-89a0-11f1-b2ab-0dd01740f9f6.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c62vx42zd83o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13567372/vinicius-jr-transfer-news-arsenal-interest-explained-as-real-madrid-step-up-efforts-to-sign-yan-diomande-from-rb-leipzig"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/25/arsenal-inquiry-transfer-vinicius-junior-real-madrid"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c62vx42zd83o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13567372/vinicius-jr-transfer-news-arsenal-interest-explained-as-real-madrid-step-up-efforts-to-sign-yan-diomande-from-rb-leipzig"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/25/arsenal-inquiry-transfer-vinicius-junior-real-madrid"
-        }
-      ],
-      "id": "real-madrid-contract-talks-and-arsenal-interest-what-is-vinicius-jr-s-future"
-    },
-    {
       "published_at": "2026-07-27T20:02:14+00:00",
       "updated_at": "2026-07-27T20:02:14+00:00",
       "title": "Inter in advanced talks with England defender Stones",
@@ -211,6 +164,45 @@
       "id": "brighton-captain-symonds-signs-new-long-term-deal"
     },
     {
+      "published_at": "2026-07-27T10:26:36+00:00",
+      "updated_at": "2026-07-27T10:26:36+00:00",
+      "title": "Real Madrid contract talks and Arsenal interest - what is Vinicius Jr's future?",
+      "summary": "With Real Madrid renewing contract talks and Arsenal showing interest, there may be no more intriguing transfer situation right now than Vinicius Jr's future",
+      "category": [
+        "Premier League",
+        "La Liga",
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5d30/live/def92a80-89a0-11f1-b2ab-0dd01740f9f6.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c62vx42zd83o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13567581/rodri-transfer-news-man-city-hopeful-world-cup-winner-will-sign-new-deal-but-braced-for-real-madrid-bid-paper-talk"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c62vx42zd83o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13567581/rodri-transfer-news-man-city-hopeful-world-cup-winner-will-sign-new-deal-but-braced-for-real-madrid-bid-paper-talk"
+        }
+      ],
+      "id": "real-madrid-contract-talks-and-arsenal-interest-what-is-vinicius-jr-s-future"
+    },
+    {
       "published_at": "2026-07-27T05:46:37+00:00",
       "updated_at": "2026-07-27T05:46:37+00:00",
       "title": "Diomande agrees Real Madrid terms as PSG step away",
@@ -246,6 +238,34 @@
         }
       ],
       "id": "diomande-agrees-real-madrid-terms-as-psg-step-away"
+    },
+    {
+      "published_at": "2026-07-28T05:34:08+00:00",
+      "updated_at": "2026-07-28T05:34:08+00:00",
+      "title": "Why Chelsea want to sign older players",
+      "summary": "Chelsea are targeting deals for Maxence Lacroix, Jordan Henderson and Danny Welbeck - three experienced heads, in an age when the focus has been on youth",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0100/live/44ad9bb0-8a49-11f1-b2ab-0dd01740f9f6.png",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cn0nw0lyrkdo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cn0nw0lyrkdo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "why-chelsea-want-to-sign-older-players"
     },
     {
       "published_at": "2026-07-27T20:01:03+00:00",
@@ -327,33 +347,6 @@
       },
       "confirmed_by": [],
       "id": "martin-foxes-must-find-own-way-after-struggles"
-    },
-    {
-      "published_at": "2026-07-27T10:51:13+00:00",
-      "updated_at": "2026-07-27T10:51:13+00:00",
-      "title": "York appoint Lindsey after shock Maynard sacking",
-      "summary": "York City appoint former Crawley Town boss Scott Lindsey as their new head coach, one day after sacking title-winning Stuart Maynard",
-      "category": [
-        "Coach"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0aec/live/bbf00890-89a7-11f1-a85a-79136c2d298e.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c4g4917vdg7o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c4g4917vdg7o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "york-appoint-lindsey-after-shock-maynard-sacking"
     },
     {
       "published_at": "2026-07-27T10:00:07+00:00",
@@ -446,33 +439,6 @@
       "id": "stefan-billborn-l-mnar-ifk-g-teborg"
     },
     {
-      "published_at": "2026-07-27T22:10:00+00:00",
-      "updated_at": "2026-07-27T22:10:00+00:00",
-      "title": "Papers: Man City hopeful Rodri will sign new deal - but braced for Real bid",
-      "summary": "Latest transfer news and headlines as Man Utds Joshua Zirkzee is a top target for Juventus after a deal for Randal Kolo Muani collapsed; updates as Arsenal target Vinicius Jr and Bruno Guimaraes; Chelsea futures for Pedro Neto, Liam Delap and Emmanuel Emegha uncertain",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://e0.365dm.com/25/03/1600x900/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13567581/rodri-transfer-news-man-city-hopeful-world-cup-winner-will-sign-new-deal-but-braced-for-real-madrid-bid-paper-talk"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13567581/rodri-transfer-news-man-city-hopeful-world-cup-winner-will-sign-new-deal-but-braced-for-real-madrid-bid-paper-talk"
-      },
-      "confirmed_by": [],
-      "id": "papers-man-city-hopeful-rodri-will-sign-new-deal-but-braced-for-real-bid"
-    },
-    {
       "published_at": "2026-07-27T19:46:00+00:00",
       "updated_at": "2026-07-27T19:46:00+00:00",
       "title": "Leeds close to club-record deal for Trafford",
@@ -531,7 +497,7 @@
     {
       "published_at": "2026-07-27T18:50:00+00:00",
       "updated_at": "2026-07-27T18:50:00+00:00",
-      "title": "Maldini quits as Italy technical director after 16 days over head coach saga",
+      "title": "Maldini quits as Italy technical chief with Mancini favourite for head coach role",
       "summary": "Paolo Maldini has left his role as technical director of the Italian Football Federation (FIGC) following the decision not to appoint Andrea Pirlo as Italy head coach, according to Sky in Italy",
       "category": [
         "Coach"
@@ -553,7 +519,7 @@
         "url": "https://www.skysports.com/football/news/11095/13567529/paolo-maldini-italian-football-federation-technical-director-quits-after-just-16-days-amid-head-coach-saga"
       },
       "confirmed_by": [],
-      "id": "maldini-quits-as-italy-technical-director-after-16-days-over-head-coach-saga"
+      "id": "maldini-quits-as-italy-technical-chief-with-mancini-favourite-for-head-coach-role"
     },
     {
       "published_at": "2026-07-27T09:30:00+00:00",
@@ -746,6 +712,34 @@
       "id": "the-2026-world-cup-is-over-but-the-onslaught-of-soccer-relentlessly-rolls-on-leander-schae"
     },
     {
+      "published_at": "2026-07-27T08:37:35+00:00",
+      "updated_at": "2026-07-27T08:37:35+00:00",
+      "title": "Football transfer rumours: Arsenal and Liverpool battle it out for Bradley Barcola?",
+      "summary": "Today’s rumours are back with a vengeance Like baggy trousers, small sunglasses and leopard print, transfer rumours are back in a big way. And there can be no doubting the transfer ambition of the Premier League champions, Arsenal, who are eyeing up either Vinícius Júnior or Bradley Barcola as a deluxe Leandro Trossard replacement. One sticking point for the Gunners is the former’s apparent desire to stay put at Real Madrid, while Liverpool appear to be favourites for Barcola if they can muster the £145m Paris Saint-Germain are demanding for their fourth-best forward.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://i.guim.co.uk/img/media/479f261bd671a680c528a9112296b0d2eb5404aa/0_60_2106_1684/master/2106.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=447162f608247633515292622c53616a",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/27/football-transfer-rumours-arsenal-liverpool-bradley-barcola-psg"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/27/football-transfer-rumours-arsenal-liverpool-bradley-barcola-psg"
+      },
+      "confirmed_by": [],
+      "id": "football-transfer-rumours-arsenal-and-liverpool-battle-it-out-for-bradley-barcola"
+    },
+    {
       "published_at": "2026-07-26T16:06:34+00:00",
       "updated_at": "2026-07-26T16:06:34+00:00",
       "title": "Régis Le Bris says Chelsea’s pursuit of Sunderland captain Xhaka is ‘closed’",
@@ -882,33 +876,6 @@
       },
       "confirmed_by": [],
       "id": "premier-league-club-by-club-guide-to-transfer-business-so-far-and-what-they-still-need"
-    },
-    {
-      "published_at": "2026-07-23T18:00:51+00:00",
-      "updated_at": "2026-07-23T18:00:51+00:00",
-      "title": "Chelsea paid Aston Villa £117m for Morgan Rogers. Is he the right fit?",
-      "summary": "The England attacker thrives when he can gallop into space but Xabi Alonso’s best team built attacks slowly By Opta Analyst It quickly became apparent this summer that Aston Villa would not be holding on to Morgan Rogers. Having helped the club finish fourth in the Premier League and win the Europa League , the 23-year-old was in demand. Arsenal looked like his likeliest next destination, with the champions eager to strengthen the left side of their attack.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://i.guim.co.uk/img/media/4ee1ab61dfff187f51fb12e575e5baadaa215b5c/53_85_5674_4539/master/5674.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6935400cd023c5b07c0ecfbbf1928b65",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/23/chelsea-aston-villa-117m-morgan-rogers-england-xabi-alonso"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/23/chelsea-aston-villa-117m-morgan-rogers-england-xabi-alonso"
-      },
-      "confirmed_by": [],
-      "id": "chelsea-paid-aston-villa-117m-for-morgan-rogers-is-he-the-right-fit"
     },
     {
       "published_at": "2026-07-25T08:42:00+00:00",
@@ -1073,6 +1040,33 @@
       "id": "reflektioner-efter-hammarby-degerfors"
     },
     {
+      "published_at": "2026-07-28T05:05:48+00:00",
+      "updated_at": "2026-07-28T05:05:48+00:00",
+      "title": "Svensk kvartett ska leda Ghana i afrikanska mästerskapen",
+      "summary": "Under helgen drog afrikanska mästerskapen i fotboll igång. Och i Ghana finns det flera blågula influenser, där 23-åriga Piteåspelaren Sharon Sampson är en del av truppen. – När vi är som bäst tror jag inte någon kan slå oss, säger hon till SVT Sport",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.21/0.42/2eb91f0abc0962efd2baf29078bb169555af65d6d52ad1294cafb381c31edf21",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/svensk-kvartett-ska-leda-ghana-i-afrikanska-masterskapen"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/svensk-kvartett-ska-leda-ghana-i-afrikanska-masterskapen"
+      },
+      "confirmed_by": [],
+      "id": "svensk-kvartett-ska-leda-ghana-i-afrikanska-m-sterskapen"
+    },
+    {
       "published_at": "2026-07-27T19:11:36+00:00",
       "updated_at": "2026-07-27T19:11:36+00:00",
       "title": "Vittsjö skrällde i Skånederbyt – vann efter självmål",
@@ -1235,31 +1229,86 @@
       "id": "nora-lindahls-sk-na-dubbel-svensk-och-finsk-m-stare"
     },
     {
-      "published_at": "2026-07-26T16:23:24+00:00",
-      "updated_at": "2026-07-26T16:23:24+00:00",
-      "title": "Elfsborg segrade mot Malmö efter mittbackens röda kort",
-      "summary": "Elfsborg vann den griniga bortamatchen mot Malmö. De himmelsblå tar med sig noll poäng och ett rött kort hem från Eleda Stadion. – Otroligt tråkigt, säger Malte Frejd Pålsson till SVT Sport",
+      "published_at": "2026-07-28T07:46:00+00:00",
+      "updated_at": "2026-07-28T07:46:00+00:00",
+      "title": "Arsenal latest: 'Gunners ready to intensify talks for Guimaraes'",
+      "summary": "Read the full report at Sky Sports.",
       "category": [
-        "Sverige"
+        "Premier League",
+        "Transfer"
       ],
-      "status": "Confirmed",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.28/0.38/8a845ce7f40f6dcf217e8a430632cbb58d91333aebaa6db0bdb17dc5036ed0f9",
+      "club": "arsenal",
+      "image": "https://e0.365dm.com/25/10/1600x900/skysports-arsenal-news-club_7039237.jpg?20251002155710",
       "sources": [
         {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/elfsborg-segrade-mot-malmo-efter-mittbackens-roda-kort"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/elfsborg-segrade-mot-malmo-efter-mittbackens-roda-kort"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "elfsborg-segrade-mot-malm-efter-mittbackens-r-da-kort"
+      "id": "arsenal-latest-gunners-ready-to-intensify-talks-for-guimaraes"
+    },
+    {
+      "published_at": "2026-07-28T07:45:00+00:00",
+      "updated_at": "2026-07-28T07:45:00+00:00",
+      "title": "Man City latest: Club hopeful of new deal for Rodri",
+      "summary": "Read the full report at Sky Sports.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-enzo-maresca-man-city_7285824.jpg?20260629153129",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "man-city-latest-club-hopeful-of-new-deal-for-rodri"
+    },
+    {
+      "published_at": "2026-07-27T10:45:00+00:00",
+      "updated_at": "2026-07-27T10:45:00+00:00",
+      "title": "Man Utd latest: Ferdinand tells Welbeck to reject Chelsea for United return",
+      "summary": "Read the full report at Sky Sports.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/02/1600x900/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "man-utd-latest-ferdinand-tells-welbeck-to-reject-chelsea-for-united-return"
     },
     {
       "published_at": "2026-07-27T07:25:00+00:00",
@@ -1290,73 +1339,17 @@
       "id": "liverpool-latest-facebook-co-founder-saverin-invited-to-join-bid-for-reds-stake"
     },
     {
-      "published_at": "2026-07-26T08:21:00+00:00",
-      "updated_at": "2026-07-26T08:21:00+00:00",
-      "title": "Chelsea latest: VOTE! Is the change in transfer approach to experienced players right?",
-      "summary": "Read the full report at Sky Sports.",
+      "published_at": "2026-07-27T20:35:00+00:00",
+      "updated_at": "2026-07-27T20:35:00+00:00",
+      "title": "Ny regel i England ska minska taktiska spelavbrott",
+      "summary": "Read the full report at Fotbollskanalen.",
       "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://e0.365dm.com/26/06/1600x900/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "chelsea-latest-vote-is-the-change-in-transfer-approach-to-experienced-players-right"
-    },
-    {
-      "published_at": "2026-07-27T10:00:00+00:00",
-      "updated_at": "2026-07-27T10:00:00+00:00",
-      "title": "The story of the 'non-League Wrexham' now chasing the EFL dream",
-      "summary": "Having sold 40 per cent of influencer marketing agency, Goat, in 2021, Harry Hugo had made his fortune at 26 - and he realised that, by the age of 30, he would have the rare luxury of not needing to work again",
-      "category": [
-        "Football"
+        "Sverige"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-farnham-town-promotion_7305890.jpg?20260724145901",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13566192/harry-hugo-interview"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13566192/harry-hugo-interview"
-      },
-      "confirmed_by": [],
-      "id": "the-story-of-the-non-league-wrexham-now-chasing-the-efl-dream"
-    },
-    {
-      "published_at": "2026-07-27T10:02:00+00:00",
-      "updated_at": "2026-07-27T10:02:00+00:00",
-      "title": "Officiellt: Manchester United värvar Margetson",
-      "summary": "Officiellt: Manchester United värvar Margetson Fotbollskanalen",
-      "category": [
-        "Sverige",
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
       "image": "",
       "sources": [
         {
@@ -1370,7 +1363,35 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "officiellt-manchester-united-v-rvar-margetson"
+      "id": "ny-regel-i-england-ska-minska-taktiska-spelavbrott"
+    },
+    {
+      "published_at": "2026-07-27T14:40:00+00:00",
+      "updated_at": "2026-07-27T14:40:00+00:00",
+      "title": "HIF-managern: \"Det finns intresse på några startspelare\"",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige",
+        "Coach"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "hif-managern-det-finns-intresse-p-n-gra-startspelare"
     },
     {
       "published_at": "2026-07-27T01:26:39+00:00",
@@ -1508,33 +1529,6 @@
       },
       "confirmed_by": [],
       "id": "officiellt-elfsborg-v-rvar-nordvall"
-    },
-    {
-      "published_at": "2026-07-22T16:43:00+00:00",
-      "updated_at": "2026-07-22T16:43:00+00:00",
-      "title": "Sylisufajs framtidssvar: \"Vet inte vad som händer\"",
-      "summary": "Sylisufajs framtidssvar: \"Vet inte vad som händer\" Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "sylisufajs-framtidssvar-vet-inte-vad-som-h-nder"
     },
     {
       "published_at": "2026-07-27T19:24:40+00:00",
