@@ -1,27 +1,28 @@
 {
-  "updated_at": "2026-07-29T08:41:56.306157+00:00",
+  "updated_at": "2026-07-29T11:26:57.498382+00:00",
   "items": [
     {
-      "published_at": "2026-07-28T13:28:28+00:00",
-      "updated_at": "2026-07-28T13:28:28+00:00",
-      "title": "Alonso's first Chelsea match was a tale of four strikers",
+      "published_at": "2026-07-29T10:06:35+00:00",
+      "updated_at": "2026-07-29T10:06:35+00:00",
+      "title": "Henderson nears Chelsea move as Welbeck has medical",
       "summary": "‘There will be a lot of transfer links, a lot of rumours’ Chelsea hit back to beat Western Sydney Wanderers 6-4 Xabi Alonso refused to confirm Chelsea are interested in signing the veterans Danny Welbeck and Jordan Henderson after his first game in charge of the team, a 6-4 pre-season victory against Western Sydney Wanderers on Tuesday, but said he was looking to build a squad that had “proper balance”. Chelsea are understood to be in talks over a surprise move to sign the 35-year-old Welbeck from Brighton, with the club also reportedly interested in signing the 36-year-old Henderson from Brentford. The links to two Premier League stalwarts reflects a revised transfer strategy under Alonso, with Chelsea seeking to recruit more experienced players into their squad as opposed to focused solely on signing young players, often tying them to l",
       "category": [
-        "Premier League"
+        "Premier League",
+        "Transfer"
       ],
       "status": "Confirmed by multiple sources",
-      "entity": "xabi-alonso",
-      "entity_type": "coaches",
+      "entity": "",
+      "entity_type": "players",
       "club": "chelsea",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2c6e/live/d4a65f80-8a86-11f1-83c5-cf36fe4b083e.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/45c6/live/e0e15c40-8b31-11f1-b2ab-0dd01740f9f6.png",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c1w13ddr4ejo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c935lvyeykwo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13567651/chelsea-vs-western-sydney-wanderers-live-xabi-alonsos-first-game-commentary-team-news-updates-live-score"
+          "url": "https://www.skysports.com/football/news/11095/13567471/danny-welbeck-transfer-news"
         },
         {
           "name": "The Guardian",
@@ -31,19 +32,19 @@
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c1w13ddr4ejo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/c935lvyeykwo?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13567651/chelsea-vs-western-sydney-wanderers-live-xabi-alonsos-first-game-commentary-team-news-updates-live-score"
+          "url": "https://www.skysports.com/football/news/11095/13567471/danny-welbeck-transfer-news"
         },
         {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/football/2026/jul/28/xabi-alonso-danny-welbeck-jordan-henderson-chelsea-western-sydney-wanderers"
         }
       ],
-      "id": "alonso-s-first-chelsea-match-was-a-tale-of-four-strikers"
+      "id": "henderson-nears-chelsea-move-as-welbeck-has-medical"
     },
     {
       "published_at": "2026-07-28T13:36:50+00:00",
@@ -80,6 +81,42 @@
         }
       ],
       "id": "relive-zidane-s-world-cup-masterclass-as-he-s-named-france-head-coach"
+    },
+    {
+      "published_at": "2026-07-28T13:28:28+00:00",
+      "updated_at": "2026-07-28T13:28:28+00:00",
+      "title": "Alonso's first Chelsea match was a tale of four strikers",
+      "summary": "Xabi Alonso's first game as Chelsea manager is defined by four strikers - from one who scored a hat-trick to one who could leave",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "xabi-alonso",
+      "entity_type": "coaches",
+      "club": "chelsea",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2c6e/live/d4a65f80-8a86-11f1-83c5-cf36fe4b083e.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c1w13ddr4ejo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13567651/chelsea-vs-western-sydney-wanderers-live-xabi-alonsos-first-game-commentary-team-news-updates-live-score"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c1w13ddr4ejo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13567651/chelsea-vs-western-sydney-wanderers-live-xabi-alonsos-first-game-commentary-team-news-updates-live-score"
+        }
+      ],
+      "id": "alonso-s-first-chelsea-match-was-a-tale-of-four-strikers"
     },
     {
       "published_at": "2026-07-27T17:32:56+00:00",
@@ -157,48 +194,32 @@
       "id": "real-madrid-contract-talks-and-arsenal-interest-what-is-vinicius-jr-s-future"
     },
     {
-      "published_at": "2026-07-29T08:00:27+00:00",
-      "updated_at": "2026-07-29T08:00:27+00:00",
-      "title": "Concacaf joins criticism of Fifa plan to sell off World Cup stakes to private investors",
-      "summary": "Association was unaware of Infantino’s plans Members given 19 September deadline to opt in Concacaf has joined Uefa in criticising Fifa’s plan to sell off stakes in the World Cup to private investors. In a strongly worded statement the Confederation of North, Central America and Caribbean Association Football expressed deep concerns about Fifa’s governance and a lack of due process, revealing that they were unaware of the proposal to sell stakes in a new commercial entity that has been valued at $20bn (£15bn) until reading about it in the media.",
+      "published_at": "2026-07-29T09:22:02+00:00",
+      "updated_at": "2026-07-29T09:22:02+00:00",
+      "title": "Palace hold talks with ex-Arsenal defender Tomiyasu",
+      "summary": "Japan's Takehiro Tomiyasu, who is training with Crystal Palace, was named as a substitute in the pre-season friendly against Lens",
       "category": [
+        "Premier League",
         "Transfer"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3d76/live/95c800d0-8b16-11f1-b8ee-9b3c26ad07bb.jpg",
+      "club": "arsenal",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/68c3/live/665e80c0-8b2b-11f1-841c-ef08db9db338.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cvg7vglq9wpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13567829/world-cup-uefa-hit-out-at-fifa-and-gianni-infantino-amid-plans-to-sell-minority-stakes-linked-to-competition"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/29/concacaf-joins-criticism-of-fifa-infantino-plan-to-sell-off-world-cup-stakes-to-private-investors"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c0qv8e7e0l0o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvg7vglq9wpo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/c0qv8e7e0l0o?at_medium=RSS&at_campaign=rss"
       },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13567829/world-cup-uefa-hit-out-at-fifa-and-gianni-infantino-amid-plans-to-sell-minority-stakes-linked-to-competition"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/29/concacaf-joins-criticism-of-fifa-infantino-plan-to-sell-off-world-cup-stakes-to-private-investors"
-        }
-      ],
-      "id": "concacaf-joins-criticism-of-fifa-plan-to-sell-off-world-cup-stakes-to-private-investors"
+      "confirmed_by": [],
+      "id": "palace-hold-talks-with-ex-arsenal-defender-tomiyasu"
     },
     {
       "published_at": "2026-07-29T08:30:29+00:00",
@@ -255,34 +276,6 @@
       "id": "cucurella-gets-tattoo-of-spain-coach-de-la-fuente"
     },
     {
-      "published_at": "2026-07-29T05:44:24+00:00",
-      "updated_at": "2026-07-29T05:44:24+00:00",
-      "title": "Brighton's Welbeck set for Chelsea medical",
-      "summary": "Brighton striker Danny Welbeck is given permission to have a medical at Stamford Bridge as his move to Chelsea moves closer",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0239/live/738eba30-8aea-11f1-9f39-d7991a790868.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c935lvyeykwo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c935lvyeykwo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "brighton-s-welbeck-set-for-chelsea-medical"
-    },
-    {
       "published_at": "2026-07-28T22:56:30+00:00",
       "updated_at": "2026-07-28T22:56:30+00:00",
       "title": "Are there already worrying signs for Vrancken's Hearts?",
@@ -337,67 +330,40 @@
       "id": "villa-offer-glimpse-into-future-despite-friendly-loss"
     },
     {
-      "published_at": "2026-07-27T10:00:07+00:00",
-      "updated_at": "2026-07-27T10:00:07+00:00",
-      "title": "Nina Koppang återvänder till Sävehof",
-      "summary": "Efter två år utomlands och en paus av personliga skäl vänder landslagsmeriterade Nina Koppang hem till Sverige och Sävehof. Hon skriver ett kontrakt till 2028. – Det är med både spänning och förväntan som jag nu återvänder till IK Sävehof och på något sätt får en nystart i min karriär, säger Nina Koppang i ett pressmeddelande",
+      "published_at": "2026-07-29T09:21:08+00:00",
+      "updated_at": "2026-07-29T09:21:08+00:00",
+      "title": "FA joins criticism of Fifa plan to sell off World Cup stakes to private investors",
+      "summary": "FA in talks with other European associations Options include boycott and potential breakaway Members given 19 September deadline to opt in The Football Association has joined Uefa in condemning Fifa’s plan to sell off stakes in the World Cup to private investors. In a statement released on Wednesday morning the FA said it has yet to see any details of the controversial proposals, and expressed grave concerns over Fifa’a governance.",
       "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.66/0.23/1552f5fc1e1fd6f6c28390589f6dedbc23b299da04a61bcda9907bbe6d129e8a",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/handboll/nina-koppang-atervander-till-savehof"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/handboll/nina-koppang-atervander-till-savehof"
-      },
-      "confirmed_by": [],
-      "id": "nina-koppang-terv-nder-till-s-vehof"
-    },
-    {
-      "published_at": "2026-07-29T07:00:25+00:00",
-      "updated_at": "2026-07-29T07:00:25+00:00",
-      "title": "Where all 20 Premier League clubs should strengthen before the season",
-      "summary": "Manchester United and Arsenal need midfielders, Liverpool should sign a winger and Chelsea require a goalkeeper By Opta Analyst Declan Rice was worked to the bone by Arsenal last season, playing 4,456 minutes in all competitions. This showed at points during the World Cup, when the midfielder’s body looked on the verge of breaking down. Arsenal need high-quality reinforcements in the centre of the pitch so Rice can occasionally have a rest.",
-      "category": [
-        "Premier League"
+        "Transfer"
       ],
       "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-hayden-hackney_7308972.jpg?20260728225759",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-infantino-world-cup_7308724.jpg?20260728164237",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13564293/premier-league-pre-season-friendlies-2026-latest-news-goals-and-highlights"
+          "url": "https://www.skysports.com/football/news/11095/13567829/world-cup-uefa-hit-out-at-fifa-and-gianni-infantino-amid-plans-to-sell-minority-stakes-linked-to-competition"
         },
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/29/premier-league-clubs-strengthen-season-manchester-united-arsenal-midfielders-city-liverpool-chelsea"
+          "url": "https://www.theguardian.com/football/2026/jul/29/concacaf-joins-criticism-of-fifa-infantino-plan-to-sell-off-world-cup-stakes-to-private-investors"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13564293/premier-league-pre-season-friendlies-2026-latest-news-goals-and-highlights"
+        "url": "https://www.skysports.com/football/news/11095/13567829/world-cup-uefa-hit-out-at-fifa-and-gianni-infantino-amid-plans-to-sell-minority-stakes-linked-to-competition"
       },
       "confirmed_by": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/29/premier-league-clubs-strengthen-season-manchester-united-arsenal-midfielders-city-liverpool-chelsea"
+          "url": "https://www.theguardian.com/football/2026/jul/29/concacaf-joins-criticism-of-fifa-infantino-plan-to-sell-off-world-cup-stakes-to-private-investors"
         }
       ],
-      "id": "where-all-20-premier-league-clubs-should-strengthen-before-the-season"
+      "id": "fa-joins-criticism-of-fifa-plan-to-sell-off-world-cup-stakes-to-private-investors"
     },
     {
       "published_at": "2026-07-27T14:14:00+00:00",
@@ -434,6 +400,89 @@
         }
       ],
       "id": "stefan-billborn-l-mnar-ifk-g-teborg"
+    },
+    {
+      "published_at": "2026-07-29T11:15:00+00:00",
+      "updated_at": "2026-07-29T11:15:00+00:00",
+      "title": "Infantino offers £30m incentive for FIFA members to back controversial plans",
+      "summary": "Gianni Infantino has given football associations until September 19 to back his plan to sell off part of FIFA to private investors - with a $40m (£30.1m) incentive to accept, a letter has revealed",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-infantino-world-cup_7308724.jpg?20260728164237",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13568022/world-cup"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13568022/world-cup"
+      },
+      "confirmed_by": [],
+      "id": "infantino-offers-30m-incentive-for-fifa-members-to-back-controversial-plans"
+    },
+    {
+      "published_at": "2026-07-29T11:00:00+00:00",
+      "updated_at": "2026-07-29T11:00:00+00:00",
+      "title": "Naismith reveals talks over future Scotland role but plays down Moyes links",
+      "summary": "Scotland assistant Steven Naismith expects to remain involved with the national team regardless of who is appointed as Steve Clarke’s successor",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-steven-naismith-scotland_7309161.jpg?20260729103513",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13568024/scotland-assistant-steven-naismith-plays-down-david-moyes-links-as-he-reveals-talks-over-future-national-role"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13568024/scotland-assistant-steven-naismith-plays-down-david-moyes-links-as-he-reveals-talks-over-future-national-role"
+      },
+      "confirmed_by": [],
+      "id": "naismith-reveals-talks-over-future-scotland-role-but-plays-down-moyes-links"
+    },
+    {
+      "published_at": "2026-07-29T09:50:00+00:00",
+      "updated_at": "2026-07-29T09:50:00+00:00",
+      "title": "Liverpool set to open talks with PSG over Barcola signing",
+      "summary": "Liverpool are set to open talks with PSG over a potential deal for Bradley Barcola",
+      "category": [
+        "Premier League",
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-bradley-barcola-arsenal_7304497.jpg?20260722192341",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13567997/bradley-barcola-transfer-news-liverpool-set-to-open-talks-with-paris-saint-germain-over-winger-with-an-opening-offer-prepared"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13567997/bradley-barcola-transfer-news-liverpool-set-to-open-talks-with-paris-saint-germain-over-winger-with-an-opening-offer-prepared"
+      },
+      "confirmed_by": [],
+      "id": "liverpool-set-to-open-talks-with-psg-over-barcola-signing"
     },
     {
       "published_at": "2026-07-28T21:40:00+00:00",
@@ -492,35 +541,6 @@
       "id": "why-is-psg-forward-barcola-wanted-by-liverpool-and-arsenal"
     },
     {
-      "published_at": "2026-07-27T14:34:00+00:00",
-      "updated_at": "2026-07-27T14:34:00+00:00",
-      "title": "Chelsea interested in Henderson after holding positive talks with Welbeck",
-      "summary": "Chelsea hold an interest in Brentford midfielder Jordan Henderson; the England international is recovering from an arm injury sustained during the 2026 World Cup; the Blues have also held positive talks over the signing of Danny Welbeck",
-      "category": [
-        "Premier League",
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-jordan-henderson_7308168.jpg?20260727225829",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13567555/chelsea-transfer-news-blues-interested-in-signing-jordan-henderson-36-after-holding-positive-talks-with-35-year-old-danny-welbeck"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13567555/chelsea-transfer-news-blues-interested-in-signing-jordan-henderson-36-after-holding-positive-talks-with-35-year-old-danny-welbeck"
-      },
-      "confirmed_by": [],
-      "id": "chelsea-interested-in-henderson-after-holding-positive-talks-with-welbeck"
-    },
-    {
       "published_at": "2026-07-26T13:30:00+00:00",
       "updated_at": "2026-07-26T13:30:00+00:00",
       "title": "Gomez av skadad - Iraola ledsen",
@@ -547,6 +567,61 @@
       },
       "confirmed_by": [],
       "id": "gomez-av-skadad-iraola-ledsen"
+    },
+    {
+      "published_at": "2026-07-29T09:30:33+00:00",
+      "updated_at": "2026-07-29T09:30:33+00:00",
+      "title": "Football transfer rumours: Eli Junior Kroupi to boost Barcelona attack?",
+      "summary": "Today’s tittle-tattle is walking on sunshine After waving Robert Lewandowski off into the sunset at the end of last season, Barcelona are in need of a new striker. The only one on their books scored the winner in the World Cup final. Julián Alvarez is at the centre of a Spanish tug of war this summer – he wants to leave Atlético Madrid and is wanted by Barcelona and Real Madrid , who had a £129m bid roundly rejected in June.",
+      "category": [
+        "La Liga",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "barcelona",
+      "image": "https://i.guim.co.uk/img/media/db346f7e100728ef6b8a37844a28e87c292a4ff0/107_40_2371_1898/master/2371.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b2c1f5893f6443d3f09ef4a65fd675f",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/29/football-transfer-rumours-eli-junior-kroupi-barcelona-alvarez-joao-pedro"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/29/football-transfer-rumours-eli-junior-kroupi-barcelona-alvarez-joao-pedro"
+      },
+      "confirmed_by": [],
+      "id": "football-transfer-rumours-eli-junior-kroupi-to-boost-barcelona-attack"
+    },
+    {
+      "published_at": "2026-07-29T07:00:25+00:00",
+      "updated_at": "2026-07-29T07:00:25+00:00",
+      "title": "Where all 20 Premier League clubs should strengthen before the season",
+      "summary": "Manchester United and Arsenal need midfielders, Liverpool should sign a winger and Chelsea require a goalkeeper By Opta Analyst Declan Rice was worked to the bone by Arsenal last season, playing 4,456 minutes in all competitions. This showed at points during the World Cup, when the midfielder’s body looked on the verge of breaking down. Arsenal need high-quality reinforcements in the centre of the pitch so Rice can occasionally have a rest.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/d663f04025afde7942cac08fd3253d43b272b254/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd31ee5304d80d2fb41a20a2cc7c7e78",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/29/premier-league-clubs-strengthen-season-manchester-united-arsenal-midfielders-city-liverpool-chelsea"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/29/premier-league-clubs-strengthen-season-manchester-united-arsenal-midfielders-city-liverpool-chelsea"
+      },
+      "confirmed_by": [],
+      "id": "where-all-20-premier-league-clubs-should-strengthen-before-the-season"
     },
     {
       "published_at": "2026-07-28T19:00:11+00:00",
@@ -766,60 +841,6 @@
       "id": "how-the-death-of-jayden-adams-shook-a-community-being-on-the-pitch-was-his-happy-place"
     },
     {
-      "published_at": "2026-07-25T19:00:50+00:00",
-      "updated_at": "2026-07-25T19:00:50+00:00",
-      "title": "From Haaland love to Mexico’s Merlin: 26 memories from the 2026 World Cup",
-      "summary": "Norway’s striker left his mark, as did Scotland’s fans in Boston, but Turkey’s dark horses fell at the first hurdle “I played with him on my PlayStation, and now I’ve scored against him,” Livano Comenencia said after converting Curaçao’s first World Cup goal past Manuel Neuer in their opening match against Germany. The smallest nation ever to qualify for the World Cup went on to lose 7-1 but that goal – their only one of the tournament – will go down in history.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "erling-haaland",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/1b71c5a12b9c54ae956243407368f2048bd4d4c2/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d272109421628eefc090e1a23cca5df6",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/25/26-memories-from-the-2026-world-cup-football"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/25/26-memories-from-the-2026-world-cup-football"
-      },
-      "confirmed_by": [],
-      "id": "from-haaland-love-to-mexico-s-merlin-26-memories-from-the-2026-world-cup"
-    },
-    {
-      "published_at": "2026-07-23T13:40:39+00:00",
-      "updated_at": "2026-07-23T13:40:39+00:00",
-      "title": "Norway considers filing Fifa ethics complaint over Trump role in World Cup red card saga",
-      "summary": "Norwegian federation president: Fifa on a ‘slippery slope’ Trump called Infantino for review of Balogun’s red Donald Trump’s role in clearing Folarin Balogun from a mandatory one-game ban at the World Cup is set to provoke a formal complaint to Fifa ethics investigators. The Norway soccer federation said Thursday its board of directors will consider filing the complaint at its next meeting, likely on 6 August.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/4ce8ffe3c3431ebb334572d26adb448071ea5643/275_534_2485_1987/master/2485.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=202107e2409ebd1f331d011366d95d70",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/23/norway-fifa-ethics-complaint-trump-balogun-red-card"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/23/norway-fifa-ethics-complaint-trump-balogun-red-card"
-      },
-      "confirmed_by": [],
-      "id": "norway-considers-filing-fifa-ethics-complaint-over-trump-role-in-world-cup-red-card-saga"
-    },
-    {
       "published_at": "2026-07-25T08:42:00+00:00",
       "updated_at": "2026-07-25T08:42:00+00:00",
       "title": "Inför BP vs Bajen",
@@ -953,6 +974,87 @@
       },
       "confirmed_by": [],
       "id": "v-rnamo-ljungskile-2-3-0-1"
+    },
+    {
+      "published_at": "2026-07-29T11:03:55+00:00",
+      "updated_at": "2026-07-29T11:03:55+00:00",
+      "title": "SvFF står bakom kritiken mot Fifa",
+      "summary": "Svenska fotbollsförbundet ställer sig bakom kritiken mot Fifa. Det gäller Fifas planer på att sälja andelar av fotbolls-VM. ”Det är av största vikt att fotbollen själv har kontroll över sina rättigheter och hur dessa förvaltas”, skriver SvFF",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.8/0.38/d831706246c25b186232abaae5f68469882bdd466d60af2efe31f8938bc7fe15",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/svff-star-bakom-kritiken-mot-fifa"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/svff-star-bakom-kritiken-mot-fifa"
+      },
+      "confirmed_by": [],
+      "id": "svff-st-r-bakom-kritiken-mot-fifa"
+    },
+    {
+      "published_at": "2026-07-29T10:51:22+00:00",
+      "updated_at": "2026-07-29T10:51:22+00:00",
+      "title": "Här tar 17-åringe Cruz Hewitt sin första ATP-seger",
+      "summary": "Cruz Hewitt har vunnit sin första match på ATP-touren. 17-åringen besegrade Marcos Giron med 6–3, 6–4. – Det känns overkligt att vinna här, säger Hewitt",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.63/0.42/3d97ebcdde934bdbee3c2b359642c0fcbee9e9ebdc24a4257dc854366c2e45d5",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/tennis/har-tar-17-aringe-cruz-hewitt-sin-forsta-atp-seger"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/tennis/har-tar-17-aringe-cruz-hewitt-sin-forsta-atp-seger"
+      },
+      "confirmed_by": [],
+      "id": "h-r-tar-17-ringe-cruz-hewitt-sin-f-rsta-atp-seger"
+    },
+    {
+      "published_at": "2026-07-29T09:09:45+00:00",
+      "updated_at": "2026-07-29T09:09:45+00:00",
+      "title": "Axelina Johansson prisas i New York: ”Galet!”",
+      "summary": "Axelina Johansson åkte direkt från SM i Uppsala till New York. För att hyllas som årets bästa kvinnliga collegefriidrottare. – Jag tror inte jag fattade hur stort det här är, säger kulstötaren",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.22/0.31/2a6d233caae9bd260470f397fe5ca1ebac5c8f80b813de7894037223d585834f",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/friidrott/axelina-johansson-prisas-i-new-york-galet"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/friidrott/axelina-johansson-prisas-i-new-york-galet"
+      },
+      "confirmed_by": [],
+      "id": "axelina-johansson-prisas-i-new-york-galet"
     },
     {
       "published_at": "2026-07-29T04:59:34+00:00",
@@ -1118,60 +1220,6 @@
       "id": "joachim-bj-rklund-lider-med-stefan-billborn-jobbigt-p-ett-personligt-plan"
     },
     {
-      "published_at": "2026-07-28T11:40:11+00:00",
-      "updated_at": "2026-07-28T11:40:11+00:00",
-      "title": "Schweiz får rätt – stjärnan felaktigt utvisad",
-      "summary": "Schweiz stjärna Breel Embolo blev utvisad i VM-kvartsfinalen mot Argentina – efter en VAR-granskning. Nu slås det fast att han aldrig skulle fått sitt andra gula kort. ”Det här är naturligtvis smärtsamt,” skriver schweiziska förbundet till Blick",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.69/0.21/3517bb30a8e8c92c44901372a1feb0cdd2d9598149dfe50d5613af4e5c3c316f",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/schweiz-far-ratt-stjarnan-felaktigt-utvisad"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/schweiz-far-ratt-stjarnan-felaktigt-utvisad"
-      },
-      "confirmed_by": [],
-      "id": "schweiz-f-r-r-tt-stj-rnan-felaktigt-utvisad"
-    },
-    {
-      "published_at": "2026-07-28T10:47:28+00:00",
-      "updated_at": "2026-07-28T10:47:28+00:00",
-      "title": "Klart: Zinedine Zidane tar över Frankrikes landslag",
-      "summary": "Det har varit på gång ett bra tag – nu är det helt klart. Zinedine Zidane tar över Frankrikes landslag som ny förbundskapten, efter att Didier Deschamps lämnat rollen efter 14 år. – Jag tackade nej till allt för det franska landslaget, säger han",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.7/0.4/6e2855c609c7246a3b8e0268a8627415e78669d2c8b6d51024e160a940fca864",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/klart-zinedine-zidane-tar-over-frankrikes-landslag"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/klart-zinedine-zidane-tar-over-frankrikes-landslag"
-      },
-      "confirmed_by": [],
-      "id": "klart-zinedine-zidane-tar-ver-frankrikes-landslag"
-    },
-    {
       "published_at": "2026-07-29T08:56:00+00:00",
       "updated_at": "2026-07-29T08:56:00+00:00",
       "title": "Brentford latest: Bees pushing to sign 'Elliot Anderson of Ligue 1'",
@@ -1228,31 +1276,31 @@
       "id": "man-city-latest-discussions-start-with-real-madrid-over-rodri-deal"
     },
     {
-      "published_at": "2026-07-27T08:30:00+00:00",
-      "updated_at": "2026-07-27T08:30:00+00:00",
-      "title": "Are the Big Six raiding the rest of the Premier League?",
-      "summary": "What do Elliot Anderson, Morgan Rogers and Sandro Tonali have in common?",
+      "published_at": "2026-07-29T10:00:00+00:00",
+      "updated_at": "2026-07-29T10:00:00+00:00",
+      "title": "The other Terry: John's nephew and Paul's son making his own mark",
+      "summary": "Colchester defender Frankie Terry discusses forging his own path despite his famous family; his dad is Leyton Orient assistant Paul Terry, one uncle is former West Ham, Fulham and Leicester left-back Paul Konchesky - and another uncle is former Chelsea and England captain John Terry",
       "category": [
-        "Premier League"
+        "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-premier-league-transfers_7304216.jpg?20260722140417",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-efl-league-two-colchester-united_7308558.jpg?20260728133520",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13566519/premier-league-transfers-are-big-six-clubs-raiding-their-rivals"
+          "url": "https://www.skysports.com/football/news/11095/13566189/frankie-terry-interview"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13566519/premier-league-transfers-are-big-six-clubs-raiding-their-rivals"
+        "url": "https://www.skysports.com/football/news/11095/13566189/frankie-terry-interview"
       },
       "confirmed_by": [],
-      "id": "are-the-big-six-raiding-the-rest-of-the-premier-league"
+      "id": "the-other-terry-john-s-nephew-and-paul-s-son-making-his-own-mark"
     },
     {
       "published_at": "2026-07-27T04:21:54+00:00",
@@ -1365,6 +1413,61 @@
       "id": "b-sta-vm-truppen-p-decennier-sv-rtydaste-f-ruts-ttningarna-n-gonsin"
     },
     {
+      "published_at": "2026-07-29T09:47:49+00:00",
+      "updated_at": "2026-07-29T09:47:49+00:00",
+      "title": "Christian Järdler tar över som huvudtränare i Öster",
+      "summary": "Sedan Öster sparkade Max Mölder i våras har Daniel Friberg varit interimtränare. Nu har klubben hittat en ny lösning på tränarfrågan. Akademicheften Christian Järdler tar över huvudtränaruppdraget",
+      "category": [
+        "Sverige",
+        "Coach"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/ddw39d5oHYjExH50Xm2TQI8bbd6NWEfO8EV0RUAq.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/christian-jardler-tar-over-som-huvudtranare-i-oster-698564"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/christian-jardler-tar-over-som-huvudtranare-i-oster-698564"
+      },
+      "confirmed_by": [],
+      "id": "christian-j-rdler-tar-ver-som-huvudtr-nare-i-ster"
+    },
+    {
+      "published_at": "2026-07-29T09:31:00+00:00",
+      "updated_at": "2026-07-29T09:31:00+00:00",
+      "title": "Inför returen mot Anderlecht",
+      "summary": "Det blev oavgjort, 1–1, mellan Hammarby och Anderlecht på Nya Söderstadion. Hemmalaget gör en riktigt bra match, men ett baklängesmål redan i den sjätte minuten, på en suverän frispark signerad Danylo Sikan, gjorde att det direkt blev uppförsbacke. Kvittering till 1-1 kom, dock till slut, genom inhoppande Frank Junior Adjei, som fick två chanser och inte gjorde något misstag på den andra.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/eaUh7kVQnzf9PZ0sn2TJTA9se1KFU0TKylQgE7s3.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/infor-returen-mot-anderlecht-698562"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/infor-returen-mot-anderlecht-698562"
+      },
+      "confirmed_by": [],
+      "id": "inf-r-returen-mot-anderlecht"
+    },
+    {
       "published_at": "2026-07-28T19:57:00+00:00",
       "updated_at": "2026-07-28T19:57:00+00:00",
       "title": "IFK Norrköping åter i serieledning – spelarbetyg efter segern mot Landskrona",
@@ -1446,139 +1549,31 @@
       "id": "mj-llby-vidare-europaspel-i-h-st-s-krat"
     },
     {
-      "published_at": "2026-07-28T14:00:00+00:00",
-      "updated_at": "2026-07-28T14:00:00+00:00",
-      "title": "En blåvit Tallinn-guide – det får du inte missa",
-      "summary": "Tusentals göteborgare tar färjan över till Estalnd och Tallinn. Anledningen är returmötet i europakvalet mot FCI Levadia från den estländska huvudstaden. Estland-kännaren Staffan Vowles berättar allt om staden",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/grqBhLLmvxWaOQ6ROdAuZPuJk1mkXoNqnWetjhox.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/en-blavit-tallinn-guide-det-far-du-inte-missa-698343"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/en-blavit-tallinn-guide-det-far-du-inte-missa-698343"
-      },
-      "confirmed_by": [],
-      "id": "en-bl-vit-tallinn-guide-det-f-r-du-inte-missa"
-    },
-    {
-      "published_at": "2026-07-28T14:00:00+00:00",
-      "updated_at": "2026-07-28T14:00:00+00:00",
-      "title": "Så många svenskar är på plats i Europa – publikfest",
-      "summary": "Fyra svensklag spelar bortamöten i kvalet till Europa i veckan. Då är det högt tryck på buss, båt och tåg-biljetterna för att stötta sitt lag utanför Sveriges gränser. Tusentals svenska supportrar reser ut i Europa",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/c55aUDv5bycLivWdliIubwsuU9g1McihLsO85HEQ.png",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/sa-manga-svenskar-ar-pa-plats-i-europa-publikfest-698506"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/sa-manga-svenskar-ar-pa-plats-i-europa-publikfest-698506"
-      },
-      "confirmed_by": [],
-      "id": "s-m-nga-svenskar-r-p-plats-i-europa-publikfest"
-    },
-    {
-      "published_at": "2026-07-29T09:35:00+00:00",
-      "updated_at": "2026-07-29T09:35:00+00:00",
-      "title": "Sydney FC vs Spurs LIVE!",
-      "summary": "Sydney FC vs Tottenham LIVE! Pre-season friendly in Australia commentary, team news, updates, live score",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-tottenham-sydney_7309074.jpg?20260729083433",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13567984/sydney-fc-vs-tottenham-live-pre-season-friendly-in-australia-commentary-team-news-updates-live-score"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13567984/sydney-fc-vs-tottenham-live-pre-season-friendly-in-australia-commentary-team-news-updates-live-score"
-      },
-      "confirmed_by": [],
-      "id": "sydney-fc-vs-spurs-live"
-    },
-    {
-      "published_at": "2026-07-29T07:31:00+00:00",
-      "updated_at": "2026-07-29T07:31:00+00:00",
-      "title": "Football kits 2026/27: Liverpool unveil new 80s-inspired away strip",
-      "summary": "Premier League kits 26/27 plus more football home, away and third strips from Nike, Adidas, Puma and others",
+      "published_at": "2026-07-29T11:45:00+00:00",
+      "updated_at": "2026-07-29T11:45:00+00:00",
+      "title": "Chelsea latest: Neville backs decision to target Premier League experience",
+      "summary": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
         "Premier League"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-liverpool-away-kit_7309035.jpg?20260729073045",
+      "club": "chelsea",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13546546/premier-league-kits-26-27-plus-more-football-home-away-and-third-strips-from-nike-adidas-puma-and-others"
+          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13546546/premier-league-kits-26-27-plus-more-football-home-away-and-third-strips-from-nike-adidas-puma-and-others"
+        "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "football-kits-2026-27-liverpool-unveil-new-80s-inspired-away-strip"
-    },
-    {
-      "published_at": "2026-07-28T17:30:00+00:00",
-      "updated_at": "2026-07-28T17:30:00+00:00",
-      "title": "Arsenal latest: VOTE! What should Gunners do after missing out on Vini Jr?",
-      "summary": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/25/10/1600x900/skysports-arsenal-news-club_7039237.jpg?20251002155710",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "arsenal-latest-vote-what-should-gunners-do-after-missing-out-on-vini-jr"
+      "id": "chelsea-latest-neville-backs-decision-to-target-premier-league-experience"
     }
   ]
 }
