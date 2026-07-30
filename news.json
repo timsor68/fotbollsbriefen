@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T00:00:29.659493+00:00",
+  "updated_at": "2026-07-30T03:57:25.363387+00:00",
   "items": [
     {
       "published_at": "2026-07-29T10:06:35+00:00",
@@ -45,44 +45,6 @@
         }
       ],
       "id": "henderson-nears-chelsea-move-as-welbeck-has-medical"
-    },
-    {
-      "published_at": "2026-07-29T15:42:20+00:00",
-      "updated_at": "2026-07-29T15:42:20+00:00",
-      "title": "Liverpool preparing opening bid for PSG's Barcola",
-      "summary": "23-year-old open to Premier League move PSG value Barcola in the region of £145m Liverpool are preparing an opening offer for Bradley Barcola after talks with the Paris Saint-Germain forward’s representatives. Barcola is a leading target for Liverpool as they look to add a proven winger to Andoni Iraola’s squad before the new season. Yan Diomande had been wanted but is likely to join Real Madrid after PSG pulled out of a deal for the RB Leipzig winger.",
-      "category": [
-        "Premier League",
-        "Ligue 1",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3044/live/86d30bf0-8b62-11f1-b4bb-f7524edbe34a.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c0qv8wekp7eo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/29/liverpool-prepare-opening-offer-for-paris-saint-germains-bradley-barcola"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c0qv8wekp7eo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/29/liverpool-prepare-opening-offer-for-paris-saint-germains-bradley-barcola"
-        }
-      ],
-      "id": "liverpool-preparing-opening-bid-for-psg-s-barcola"
     },
     {
       "published_at": "2026-07-29T13:14:41+00:00",
@@ -318,6 +280,35 @@
       },
       "confirmed_by": [],
       "id": "spain-u20s-midfielder-arques-joins-london-city"
+    },
+    {
+      "published_at": "2026-07-29T15:42:20+00:00",
+      "updated_at": "2026-07-29T15:42:20+00:00",
+      "title": "Liverpool preparing opening bid for PSG's Barcola",
+      "summary": "Liverpool step up their interest for Paris St-Germain's Bradley Barcola and are preparing an opening bid",
+      "category": [
+        "Premier League",
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3044/live/86d30bf0-8b62-11f1-b4bb-f7524edbe34a.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c0qv8wekp7eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c0qv8wekp7eo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "liverpool-preparing-opening-bid-for-psg-s-barcola"
     },
     {
       "published_at": "2026-07-29T14:21:31+00:00",
