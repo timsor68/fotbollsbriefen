@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-30T16:27:08.454447+00:00",
+  "updated_at": "2026-07-30T18:16:57.821385+00:00",
   "items": [
     {
-      "published_at": "2026-07-30T16:17:34+00:00",
-      "updated_at": "2026-07-30T16:17:34+00:00",
+      "published_at": "2026-07-30T17:32:01+00:00",
+      "updated_at": "2026-07-30T17:32:01+00:00",
       "title": "Elliott ready to take 'second chance' at Liverpool",
       "summary": "Midfielder grateful to be back with boyhood club Hardly played at Villa but won the Europa League Harvey Elliott believes he has been given “a second chance” at Liverpool and denied his ill-fated loan to Aston Villa was a lost year in his career. Elliott joined Villa on a season-long loan last September with an obligation for them to buy the midfielder for £35m once he made 10 appearances for the club. However, Elliott featured only nine times, playing 277 minutes in total, with Unai Emery and Villa unconvinced over completing the deal.",
       "category": [
@@ -36,42 +36,6 @@
         }
       ],
       "id": "elliott-ready-to-take-second-chance-at-liverpool"
-    },
-    {
-      "published_at": "2026-07-30T14:39:37+00:00",
-      "updated_at": "2026-07-30T14:39:37+00:00",
-      "title": "Newcastle captain Guimaraes expected to join Arsenal",
-      "summary": "There is a growing expectation that Newcastle captain Bruno Guimaraes will join Arsenal this summer in a deal worth up to £80m",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e1db/live/8274e610-8c1f-11f1-a7ab-8b30adf0800a.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cgewqpp5e57o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cgewqpp5e57o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "id": "newcastle-captain-guimaraes-expected-to-join-arsenal"
     },
     {
       "published_at": "2026-07-30T12:51:32+00:00",
@@ -113,7 +77,7 @@
       "published_at": "2026-07-30T15:35:09+00:00",
       "updated_at": "2026-07-30T15:35:09+00:00",
       "title": "Uefa agrees to boycott Fifa competitions if World Cup sell-off plans proceed",
-      "summary": "Uefa vote passes 55-0 at emergency meeting on Thursday Boycott would begin with Under-20 Women’s World Cup European countries have agreed to boycott all Fifa competitions if Gianni Infantino pushes forward with his proposals to sell chunks of the World Cup to US-based private investment. In an extraordinary development all 55 Uefa members resolved not to participate in future World Cups or other Fifa-run events, saying in a statement that they “unanimously and unequivocally reject” the proposals. An emergency meeting that lasted just short of two hours ended with a united front despite earlier fears that smaller countries, attracted by the money on offer through Infantino’s scheme, would be swayed in favour.",
+      "summary": "Uefa vote passes 55-0 at emergency meeting on Thursday Boycott would begin with Under-20 Women’s World Cup European countries have agreed to boycott all Fifa competitions if Gianni Infantino pushes forward with his proposals to sell chunks of the World Cup to US-based private investment . In an extraordinary development all 55 Uefa members resolved not to participate in future World Cups or other Fifa-run events, saying in a statement that they “unanimously and unequivocally reject” the proposals. An emergency meeting that lasted just short of two hours ended with a united front despite earlier fears that smaller countries, attracted by the money on offer through Infantino’s scheme, would be swayed in favour.",
       "category": [
         "Football"
       ],
@@ -272,6 +236,33 @@
       "id": "pressley-signs-new-dundee-deal-but-warns-of-pain-ahead"
     },
     {
+      "published_at": "2026-07-30T14:39:37+00:00",
+      "updated_at": "2026-07-30T14:39:37+00:00",
+      "title": "Newcastle captain Guimaraes expected to join Arsenal",
+      "summary": "There is a growing expectation that Newcastle captain Bruno Guimaraes will join Arsenal this summer in a deal worth up to £80m",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e1db/live/8274e610-8c1f-11f1-a7ab-8b30adf0800a.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cgewqpp5e57o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cgewqpp5e57o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "newcastle-captain-guimaraes-expected-to-join-arsenal"
+    },
+    {
       "published_at": "2026-07-30T14:00:36+00:00",
       "updated_at": "2026-07-30T14:00:36+00:00",
       "title": "Minimum 10-match ban for discrimination - FA",
@@ -382,10 +373,10 @@
       "id": "real-madrid-expected-to-make-offer-for-rodri"
     },
     {
-      "published_at": "2026-07-30T13:00:15+00:00",
-      "updated_at": "2026-07-30T13:00:15+00:00",
-      "title": "Scottish Premiership returns with McInnes adding new twist to Old Firm rivalry",
-      "summary": "Derek McInnes has a score to settle with Celtic after swapping Hearts for Rangers, while Motherwell could impress again Only residents of cloud cuckoo land can hold the firm belief of Scottish football emerging promptly from a summer of discontent. The onset of a new domestic season, ordinarily a cause for excitement, instead gives reason to ponder the grim realities of what came before. That it is unsurprising there has been no detailed explanation or plan from the Scottish Football Association following a lamentable World Cup does not prevent the scenario from being so deflating.",
+      "published_at": "2026-07-30T16:34:53+00:00",
+      "updated_at": "2026-07-30T16:34:53+00:00",
+      "title": "FA raises minimum ban for racism and other forms of discrimination to 10 matches",
+      "summary": "Discrimination ‘continues to be challenge’ Current minimum ban is six matches The FA is to increase the minimum punishment for discriminatory behaviour to 10 matches, in an attempt to counteract behaviour it says “continues to be a challenge across the game”. The changes will come into force at the start of the new season and will apply to players and other football participants who are found guilty of an “aggravated breach” of the FA’s disciplinary rules on improper conduct, effectively actions that included discriminatory behaviour against any protected characteristics. Currently the minimum suspension for such a breach is six matches.",
       "category": [
         "Football"
       ],
@@ -393,20 +384,74 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://i.guim.co.uk/img/media/7b0c31b9c44f6b151f88202d91bbb9ca99fdd2ea/218_2_1590_1272/master/1590.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7834818c0c59b8ec61ca2dd27403ab7b",
+      "image": "https://i.guim.co.uk/img/media/51cafc1a9d51c1da509097e63498b74a976dbade/249_0_3542_2833/master/3542.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e4c2f8672716f655a0aa11898b7c38fb",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/30/scottish-premiership-celtic-rangers-old-firm-motherwell-hearts"
+          "url": "https://www.theguardian.com/football/2026/jul/30/fa-raise-minimum-ban-for-discrimination-to-10-matches"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/30/scottish-premiership-celtic-rangers-old-firm-motherwell-hearts"
+        "url": "https://www.theguardian.com/football/2026/jul/30/fa-raise-minimum-ban-for-discrimination-to-10-matches"
       },
       "confirmed_by": [],
-      "id": "scottish-premiership-returns-with-mcinnes-adding-new-twist-to-old-firm-rivalry"
+      "id": "fa-raises-minimum-ban-for-racism-and-other-forms-of-discrimination-to-10-matches"
+    },
+    {
+      "published_at": "2026-07-30T15:33:48+00:00",
+      "updated_at": "2026-07-30T15:33:48+00:00",
+      "title": "Toon turnover: the stats behind Eddie Howe’s highs and lows at Newcastle",
+      "summary": "During Eddie Howe’s time at Newcastle, only four clubs earned more Premier League points, but the team underperformed last term When Eddie Howe was appointed by Newcastle in November 2021, the club was 19th in the Premier League with no wins after 11 games. He steered them to 11th by the end of the campaign, and they finished 12th last season. At some clubs there would have been little deviation across that period.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/094a6af8f996458e7cf7fff44ae6ffcdf2d86f1a/385_0_4593_3674/master/4593.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1087382b419fa5c1f7bf17b4c5dd58b8",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/30/toon-turnover-the-stats-behind-eddie-howes-highs-and-lows-at-newcastle"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/30/toon-turnover-the-stats-behind-eddie-howes-highs-and-lows-at-newcastle"
+      },
+      "confirmed_by": [],
+      "id": "toon-turnover-the-stats-behind-eddie-howe-s-highs-and-lows-at-newcastle"
+    },
+    {
+      "published_at": "2026-07-30T13:04:14+00:00",
+      "updated_at": "2026-07-30T13:04:14+00:00",
+      "title": "Fifa’s sale of the century: how Kushners and Trump are at centre of a tangled web",
+      "summary": "Joshua Kushner is now the kingpin in driving the sale of the World Cup to investors and family ties are tight around the project It isn’t just football fans and Uefa executives who want to give Gianni Infantino the red card for his plan to sell off 20% of the World Cup to a privately backed commercial enterprise. The Fifa president is also in the crosshairs of the House of Representatives Judiciary Committee in Washington and ranking Democrat member Jamie Raskin. Infantino’s plan, which is backed by Joshua Kushner’s investment fund, has, for some observers, president Trump’s sticky fingers all over it.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/37a0831c4562f5276a58673f77cce55c899afbca/477_128_1615_1293/master/1615.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b2f36813ed7e250eab4580fc2d391389",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/30/fifas-sale-of-the-century-how-kushners-and-trump-are-at-centre-of-a-tangled-web"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/30/fifas-sale-of-the-century-how-kushners-and-trump-are-at-centre-of-a-tangled-web"
+      },
+      "confirmed_by": [],
+      "id": "fifa-s-sale-of-the-century-how-kushners-and-trump-are-at-centre-of-a-tangled-web"
     },
     {
       "published_at": "2026-07-29T18:06:08+00:00",
@@ -464,31 +509,31 @@
       "id": "usmnt-coach-mauricio-pochettino-us-soccer-in-final-stages-of-agreeing-on-new-contract"
     },
     {
-      "published_at": "2026-07-28T19:00:11+00:00",
-      "updated_at": "2026-07-28T19:00:11+00:00",
-      "title": "Retaining Rodri is key to Manchester City success under Enzo Maresca",
-      "summary": "New manager’s No 1 priority must be to persuade World Cup-winning captain to stay as Real Madrid circle “Welcome home,” was Khaldoon al-Mubarak’s warm greeting to Enzo Maresca on his appointment last month as Manchester City manager. Now, after two previous spells at the club, the Italian’s task is to keep the chair content, and ensure a three-year contract does not end early. To achieve that, Maresca’s tenure must continue Pep Guardiola’s glittering legacy of 20 trophies across a decade of excellence.",
+      "published_at": "2026-07-29T14:05:09+00:00",
+      "updated_at": "2026-07-29T14:05:09+00:00",
+      "title": "Defence promises to be a central issue for Carrick and Manchester United",
+      "summary": "Manager may have concerns over his group of five central defenders withstanding the demands of a long campaign Manchester United’s central defender quintet of Leny Yoro, Ayden Heaven, Harry Maguire, Matthijs De Ligt and Lisandro Martínez: an ideal blend of youthful zest and experienced winners or a unit that may prove vulnerable and injury-prone across the long months of the campaign? In Yoro, Heaven, Maguire, De Ligt, and Martínez, Michael Carrick can talk of high potential and seasoned operators who will patrol the manager’s backline safely. Except it would be understandable if the 44-year-old privately has any concerns about the five defenders, as a unit, especially as there is no plan to strengthen the position unless one (or more) departs.",
       "category": [
         "Premier League"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://i.guim.co.uk/img/media/46b59c14feced015ad92d2215700cabf136926d2/596_0_3018_2414/master/3018.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a6018d04d09da8d1ab149de6464acf87",
+      "club": "manchester-united",
+      "image": "https://i.guim.co.uk/img/media/e00ef50d6b6adffc96ad76feedd30bfe2a72ed6a/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3e91e401de6e20ab67dff2e9562f543c",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/28/retaining-rodri-is-key-to-manchester-city-success-under-enzo-maresca"
+          "url": "https://www.theguardian.com/football/2026/jul/29/manchester-united-michael-carrick-central-defence-premier-league"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/28/retaining-rodri-is-key-to-manchester-city-success-under-enzo-maresca"
+        "url": "https://www.theguardian.com/football/2026/jul/29/manchester-united-michael-carrick-central-defence-premier-league"
       },
       "confirmed_by": [],
-      "id": "retaining-rodri-is-key-to-manchester-city-success-under-enzo-maresca"
+      "id": "defence-promises-to-be-a-central-issue-for-carrick-and-manchester-united"
     },
     {
       "published_at": "2026-07-28T11:00:02+00:00",
@@ -545,6 +590,33 @@
       "id": "the-2026-world-cup-is-over-but-the-onslaught-of-soccer-relentlessly-rolls-on-leander-schae"
     },
     {
+      "published_at": "2026-07-26T07:00:05+00:00",
+      "updated_at": "2026-07-26T07:00:05+00:00",
+      "title": "How the death of Jayden Adams shook a community: ‘Being on the pitch was his happy place’",
+      "summary": "Those who knew the South African, who died aged 25 not long after playing at the World Cup, describe a humble and hard-working man who cared about friends and family For Jayden Adams, the South Africa midfielder who died this month at the age of 25 , football was a “safe space”. Those words, used by Adams’s junior coach Steve Barker at his memorial service 10 days ago, tell you everything you need to know about his life beyond the pitch. Adams’s battles were bestowed on him almost from birth.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/e08e18a68540b6657373cf1b68b803fb8178054c/804_191_2507_2007/master/2507.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0c911c1a938fcd895f30971e65882c6b",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/26/jayden-adams-death-south-africa-world-cup"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/26/jayden-adams-death-south-africa-world-cup"
+      },
+      "confirmed_by": [],
+      "id": "how-the-death-of-jayden-adams-shook-a-community-being-on-the-pitch-was-his-happy-place"
+    },
+    {
       "published_at": "2026-07-25T19:00:50+00:00",
       "updated_at": "2026-07-25T19:00:50+00:00",
       "title": "From Haaland love to Mexico’s Merlin: 26 memories from the 2026 World Cup",
@@ -570,34 +642,6 @@
       },
       "confirmed_by": [],
       "id": "from-haaland-love-to-mexico-s-merlin-26-memories-from-the-2026-world-cup"
-    },
-    {
-      "published_at": "2026-07-25T07:00:36+00:00",
-      "updated_at": "2026-07-25T07:00:36+00:00",
-      "title": "Premier League: club-by-club guide to transfer business so far – and what they still need",
-      "summary": "The English transfer record has been smashed, with Elliot Anderson and Morgan Rogers on the move during a busy summer of signings For once, Mikel Arteta is not spending his summer looking for a No 9. Instead the champions have moved to strengthen out wide after the departure of Leandro Trossard with Christos Tzolis arriving for £34m having scored 33 league goals in his last two seasons from Club Brugge’s left wing. After missing out on Morgan Rogers to Chelsea, they will not want to be beaten to Alex Scott’s signature.",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/650223fe8da257607abbb686356fca7d72de8468/0_0_5000_3999/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=80017ba69e0b269680cb46bd9a9cc6af",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/25/premier-league-club-by-club-guide-to-transfer-business-so-far-and-what-they-still-need"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/25/premier-league-club-by-club-guide-to-transfer-business-so-far-and-what-they-still-need"
-      },
-      "confirmed_by": [],
-      "id": "premier-league-club-by-club-guide-to-transfer-business-so-far-and-what-they-still-need"
     },
     {
       "published_at": "2026-07-27T14:14:00+00:00",
@@ -681,10 +725,10 @@
       "id": "holmberg-decibelniv-n-var-h-gre-n-n-gonsin"
     },
     {
-      "published_at": "2026-07-30T15:08:42+00:00",
-      "updated_at": "2026-07-30T15:08:42+00:00",
-      "title": "Uefa-länderna kan bojkotta Fifa-turneringar: ”VM är inte till salu”",
-      "summary": "Fifa planerar att sälja andelar av fotbolls-VM till privata investerare. Om det blir av kommer VM att bojkottas av samtliga Uefa-medlemmar. ”VM kan inte behandlas som en investeringsprodukt”, skriver Uefa",
+      "published_at": "2026-07-30T17:16:11+00:00",
+      "updated_at": "2026-07-30T17:16:11+00:00",
+      "title": "Svenska fotbollförbundets svar efter Uefas hot om VM-bojkott: ”Står bakom det”",
+      "summary": "Uefas medlemsländer hotar med att bojkotta VM. Svenska fotbollförbundet står bakom beslutet. – Det är viktigt att vi tillsammans markerar mot processen, säger SvFF:s ordförande Simon Åström i ett uttalande",
       "category": [
         "Sverige"
       ],
@@ -692,7 +736,34 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.18/0.23/0c11d4e241c18945c7c141d2b9106dc52341d2c94390416969875794d7ca7859",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.19/0.34/0c11d4e241c18945c7c141d2b9106dc52341d2c94390416969875794d7ca7859",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/svenska-fotbollforbundets-svar-efter-uefas-hot-om-vm-bojkott-star-bakom-det"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/svenska-fotbollforbundets-svar-efter-uefas-hot-om-vm-bojkott-star-bakom-det"
+      },
+      "confirmed_by": [],
+      "id": "svenska-fotbollf-rbundets-svar-efter-uefas-hot-om-vm-bojkott-st-r-bakom-det"
+    },
+    {
+      "published_at": "2026-07-30T15:08:42+00:00",
+      "updated_at": "2026-07-30T15:08:42+00:00",
+      "title": "Uefa-länderna kan bojkotta Fifa-turneringar: ”VM är inte till salu”",
+      "summary": "Fifa planerar att sälja andelar av fotbolls-VM till privata investerare. Om det blir av kommer VM att bojkottas av samtliga Uefa-medlemmar. – Det har inget motstycke i historien, säger fotbollskrönikören Noa Bachner",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.19/0.34/0c11d4e241c18945c7c141d2b9106dc52341d2c94390416969875794d7ca7859",
       "sources": [
         {
           "name": "SVT Sport",
@@ -924,36 +995,64 @@
       "id": "fifa-anklagar-argentinska-spelare-efter-vm-finalen"
     },
     {
-      "published_at": "2026-07-29T16:35:42+00:00",
-      "updated_at": "2026-07-29T16:35:42+00:00",
-      "title": "Otto Wallin knockades medvetslös: ”Otäckt”",
-      "summary": "Otto Wallin, 35, låg medvetslös i över en minut. Boxaren berättar om den otäcka smällen. – Det viktigaste är att man lever, säger han till SVT Sport",
+      "published_at": "2026-07-30T18:24:00+00:00",
+      "updated_at": "2026-07-30T18:24:00+00:00",
+      "title": "Brentford latest: Bees agree £41m deal for Lens midfielder Sangare",
+      "summary": "Brentford transfers, latest news, rumours and gossip: Live updates, goals and highlights",
       "category": [
-        "Sverige"
+        "Transfer"
       ],
-      "status": "Confirmed",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.71/0.47/480542d1430e589523662185b2fd1ba86d78c620408656e84b30afab1a13b3cd",
+      "image": "https://e0.365dm.com/25/10/1600x900/skysports-brentford-news-club_7039245.jpg?20251002155849",
       "sources": [
         {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/boxning/otto-wallin-knockades-medvetslos-otackt"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/boxning/otto-wallin-knockades-medvetslos-otackt"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
       },
       "confirmed_by": [],
-      "id": "otto-wallin-knockades-medvetsl-s-ot-ckt"
+      "id": "brentford-latest-bees-agree-41m-deal-for-lens-midfielder-sangare"
+    },
+    {
+      "published_at": "2026-07-30T16:31:00+00:00",
+      "updated_at": "2026-07-30T16:31:00+00:00",
+      "title": "Fulham latest: Double deal agreed with Real Madrid",
+      "summary": "Fulham transfers, latest news, rumours and gossip: Live updates, goals and highlights",
+      "category": [
+        "La Liga",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "real-madrid",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-fulham-transfer-news_7293560.jpg?20260709104446",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+      },
+      "confirmed_by": [],
+      "id": "fulham-latest-double-deal-agreed-with-real-madrid"
     },
     {
       "published_at": "2026-07-30T15:56:00+00:00",
       "updated_at": "2026-07-30T15:56:00+00:00",
-      "title": "Man City latest: Club progressing on deal for Bouaddi as Rodri replacement",
+      "title": "Man City latest: Deal progressing for Bouaddi as Rodri replacement",
       "summary": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
         "Transfer"
@@ -975,7 +1074,7 @@
         "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "man-city-latest-club-progressing-on-deal-for-bouaddi-as-rodri-replacement"
+      "id": "man-city-latest-deal-progressing-for-bouaddi-as-rodri-replacement"
     },
     {
       "published_at": "2026-07-30T10:44:00+00:00",
@@ -1004,6 +1103,33 @@
       },
       "confirmed_by": [],
       "id": "tottenham-latest-de-zerbi-promises-another-transfer-bomba"
+    },
+    {
+      "published_at": "2026-07-30T17:30:00+00:00",
+      "updated_at": "2026-07-30T17:30:00+00:00",
+      "title": "Q&A: Why are UEFA boycotting FIFA tournaments and can it stop Infantino?",
+      "summary": "UEFA announced on Thursday that it will boycott FIFA tournaments until plans from president Gianni Infantino to sell off stakes in the World Cup are ended",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/03/1600x900/skysports-uefa-logo-headquarters_7193297.jpg?20260315134758",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13568527/uefa-to-boycott-fifa-tournaments-qa-why-they-are-doing-can-it-stop-gianni-infantino-and-where-do-other-confederations-stand"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13568527/uefa-to-boycott-fifa-tournaments-qa-why-they-are-doing-can-it-stop-gianni-infantino-and-where-do-other-confederations-stand"
+      },
+      "confirmed_by": [],
+      "id": "q-a-why-are-uefa-boycotting-fifa-tournaments-and-can-it-stop-infantino"
     },
     {
       "published_at": "2026-07-30T16:15:00+00:00",
@@ -1060,33 +1186,6 @@
       "id": "carra-liverpool-don-t-need-barcola-they-need-to-replace-salah"
     },
     {
-      "published_at": "2026-07-30T14:32:00+00:00",
-      "updated_at": "2026-07-30T14:32:00+00:00",
-      "title": "Breaking down FIFA's stake sale and whether it's necessary",
-      "summary": "The news on Tuesday, first reported by the Financial Times, that FIFA is preparing to sell off part of its commercial operations spread shock and outrage across the sporting world",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-world-cup-fifa_7310393.jpg?20260730144402",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13568465/breaking-down-fifas-stake-sale-how-it-compares-to-other-sports-and-whether-its-necessary"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13568465/breaking-down-fifas-stake-sale-how-it-compares-to-other-sports-and-whether-its-necessary"
-      },
-      "confirmed_by": [],
-      "id": "breaking-down-fifa-s-stake-sale-and-whether-it-s-necessary"
-    },
-    {
       "published_at": "2026-07-30T10:00:00+00:00",
       "updated_at": "2026-07-30T10:00:00+00:00",
       "title": "Who is Matthias Jaissle?",
@@ -1112,33 +1211,6 @@
       },
       "confirmed_by": [],
       "id": "who-is-matthias-jaissle"
-    },
-    {
-      "published_at": "2026-07-30T08:00:00+00:00",
-      "updated_at": "2026-07-30T08:00:00+00:00",
-      "title": "Merson: Vini Jr is playing Arsenal",
-      "summary": "In his latest Sky Sports column, Paul Merson gives his take on Chelsea's potential double signing of Jordan Henderson and Danny Welbeck, Arsenal's pursuit of Vinicius Jr and the possibility of Man City losing Rodri to Real Madrid",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-football-laliga-real-madrid_7309970.jpg?20260730083449",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13568179/chelsea-transfer-news-danny-welbeck-and-jordan-henderson-good-for-experience-but-striker-needs-game-time-says-paul-merson"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13568179/chelsea-transfer-news-danny-welbeck-and-jordan-henderson-good-for-experience-but-striker-needs-game-time-says-paul-merson"
-      },
-      "confirmed_by": [],
-      "id": "merson-vini-jr-is-playing-arsenal"
     },
     {
       "published_at": "2026-07-27T05:11:00+00:00",
@@ -1168,10 +1240,10 @@
       "id": "b-sta-vm-truppen-p-decennier-sv-rtydaste-f-ruts-ttningarna-n-gonsin"
     },
     {
-      "published_at": "2026-07-27T04:21:54+00:00",
-      "updated_at": "2026-07-27T04:21:54+00:00",
-      "title": "Första matchen efter två år på bänken: \"Det var nervöst\"",
-      "summary": "Read the full report at Fotbollskanalen.",
+      "published_at": "2026-07-24T12:41:00+00:00",
+      "updated_at": "2026-07-24T12:41:00+00:00",
+      "title": "Officiellt: Elfsborg värvar Nordvall",
+      "summary": "Officiellt: Elfsborg värvar Nordvall Fotbollskanalen",
       "category": [
         "Sverige"
       ],
@@ -1192,61 +1264,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "f-rsta-matchen-efter-tv-r-p-b-nken-det-var-nerv-st"
-    },
-    {
-      "published_at": "2026-07-30T09:00:10+00:00",
-      "updated_at": "2026-07-30T09:00:10+00:00",
-      "title": "Fifa wants more money for its members but that does not guarantee investment | John Duerden",
-      "summary": "Asia and Africa are bastions of support for Gianni Infantino but Fifa’s money has not always been well spent in the regions Fifa’s justification for its proposed plans to sell stakes in the World Cup to private investors is about giving the 211 member associations more money to develop football. It’s safe to say that in the past, funds have done more developing in some places than in others, with millions either going missing or not being used for their original purpose and Fifa too often shutting the stable door after the horse, laden with cash, has ambled out. Uefa has declared its outrage, Concacaf – the North, Central American and Caribbean governing body – has gone for concern and the Asian Football Confederation (AFC) is disappointed at the lack of consultation.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/a9f4ddc124676073ba5dcfc6547f1e469277eb44/1000_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=329f8a08e5d87592504288d8d0db5165",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/30/fifa-wants-more-money-for-its-members-but-that-does-not-guarantee-investment"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/30/fifa-wants-more-money-for-its-members-but-that-does-not-guarantee-investment"
-      },
-      "confirmed_by": [],
-      "id": "fifa-wants-more-money-for-its-members-but-that-does-not-guarantee-investment-john-duerden"
-    },
-    {
-      "published_at": "2026-07-30T05:00:54+00:00",
-      "updated_at": "2026-07-30T05:00:54+00:00",
-      "title": "England’s 1966 World Cup heroes were fun, humble and unlike today’s stars",
-      "summary": "After lifting the trophy 60 years ago, some still supplemented their income by performing in working men’s clubs and as after dinner speakers With each passing World Cup I am reminded of the times I spent in the company of those wonderful “Boys of 66”. What a privilege it was getting to know them in a much simpler era when, unlike today’s mollycoddled stars, household names remained unaffected by money and fame. Where were you on 30 July 1966, the day England won the World Cup?",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/4eb45d76a687bfb530dc2745405887e59270467f/305_867_4915_3933/master/4915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1f3c6ffddf1a14e50dc1fb970344be0",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/30/england-1966-world-cup-heroes-60-years-ago"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/30/england-1966-world-cup-heroes-60-years-ago"
-      },
-      "confirmed_by": [],
-      "id": "england-s-1966-world-cup-heroes-were-fun-humble-and-unlike-today-s-stars"
+      "id": "officiellt-elfsborg-v-rvar-nordvall"
     },
     {
       "published_at": "2026-07-30T15:38:16+00:00",
@@ -1436,33 +1454,6 @@
       },
       "confirmed_by": [],
       "id": "v-rnamo-brage-0-0"
-    },
-    {
-      "published_at": "2026-07-30T17:20:00+00:00",
-      "updated_at": "2026-07-30T17:20:00+00:00",
-      "title": "Liverpool latest: Ex-Reds boss Slot wants European return amid Al Ahli links",
-      "summary": "Liverpool latest: Carra - Barcola not the Salah replacement Anfield needs - Do you agree?",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://e0.365dm.com/26/06/1600x900/skysports-liverpool-club-blog_7266198.jpg?20260605143916",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "liverpool-latest-ex-reds-boss-slot-wants-european-return-amid-al-ahli-links"
     }
   ]
 }
