@@ -1,41 +1,86 @@
 {
-  "updated_at": "2026-07-31T12:56:49.229801+00:00",
+  "updated_at": "2026-07-31T15:23:43.977203+00:00",
   "items": [
     {
-      "published_at": "2026-07-31T08:03:13+00:00",
-      "updated_at": "2026-07-31T08:03:13+00:00",
-      "title": "Bournemouth agree £26m fee for Benfica defender Silva",
-      "summary": "There was a time when Antonio Silva's rise to the top appeared an inevitability. He was only 18 years old when he scored his first Champions League goal for Benfica in a 4-3 win over Juventus. He played at the 2022 World Cup for Portugal soon after that",
+      "published_at": "2026-07-31T14:28:00+00:00",
+      "updated_at": "2026-07-31T14:28:00+00:00",
+      "title": "Chelsea handed £10m fine and suspended transfer ban",
+      "summary": "Club escape suspended six-point deduction on appeal Owners admitted secret payments by previous regime Chelsea have been fined £10m by the FA and served with a suspended transfer ban for multiple violations of transfer rules during the Roman Abramovich era. The sanction reflects a similar punishment handed to the Blues by the Premier League earlier this year after the club was found to have used unlicensed agents and sought to obscure the nature of their transfer dealings between 2009 and 2022. Deals involving Chelsea legends Samuel Eto’o, Eden Hazard and Willian were amongst those found to have breached the rules.",
       "category": [
-        "Football"
+        "Premier League",
+        "Transfer"
       ],
       "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8221/live/f769cfb0-8028-11f1-8ae2-1d238eb2d791.jpg",
+      "club": "chelsea",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4aa1/live/663f9e70-8ce9-11f1-b2ab-0dd01740f9f6.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/crr8r4zvj5jo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5ygz42gedno?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+          "url": "https://www.skysports.com/football/news/11095/13568791/chelsea-handed-10m-fine-and-suspended-transfer-ban-after-admitting-fa-rule-breaches-dating-back-to-roman-abramovich-era"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/31/chelsea-fined-10m-suspended-transfer-ban-fa-agent-breaches"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crr8r4zvj5jo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5ygz42gedno?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+          "url": "https://www.skysports.com/football/news/11095/13568791/chelsea-handed-10m-fine-and-suspended-transfer-ban-after-admitting-fa-rule-breaches-dating-back-to-roman-abramovich-era"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/31/chelsea-fined-10m-suspended-transfer-ban-fa-agent-breaches"
         }
       ],
-      "id": "bournemouth-agree-26m-fee-for-benfica-defender-silva"
+      "id": "chelsea-handed-10m-fine-and-suspended-transfer-ban"
+    },
+    {
+      "published_at": "2026-07-31T15:19:46+00:00",
+      "updated_at": "2026-07-31T15:19:46+00:00",
+      "title": "Chelsea's Mudryk free to play after appeal against doping ban",
+      "summary": "Chelsea winger Mykhailo Mudryk has not played since November 2024 but can return after partially winning his appeal against a four-year doping ban",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/feee/live/2fbc1cd0-43cd-11f1-903c-97fc83b422d6.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cvg8pvr8e8go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvg8pvr8e8go?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "id": "chelsea-s-mudryk-free-to-play-after-appeal-against-doping-ban"
     },
     {
       "published_at": "2026-07-30T18:36:32+00:00",
@@ -130,7 +175,7 @@
         },
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13568628/bruno-guimaraes-transfer-news-arsenal-closing-in-on-deal-for-newcastle-captain-paper-talk"
+          "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
@@ -141,7 +186,7 @@
       "confirmed_by": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13568628/bruno-guimaraes-transfer-news-arsenal-closing-in-on-deal-for-newcastle-captain-paper-talk"
+          "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "id": "newcastle-captain-guimaraes-expected-to-join-arsenal"
@@ -184,6 +229,90 @@
       "id": "howe-going-as-spending-rules-bite-troubles-for-newcastle-s-saudi-owners"
     },
     {
+      "published_at": "2026-07-31T15:00:25+00:00",
+      "updated_at": "2026-07-31T15:00:25+00:00",
+      "title": "Head coach Matos agrees new Swansea contract",
+      "summary": "Swansea City head coach Vitor Matos agrees a new contract that ties him to the Championship club until 2030",
+      "category": [
+        "Transfer",
+        "Coach"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/207c/live/85822f90-8cef-11f1-a573-93159e2b55da.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqjx755vp0xo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqjx755vp0xo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "head-coach-matos-agrees-new-swansea-contract"
+    },
+    {
+      "published_at": "2026-07-31T14:15:10+00:00",
+      "updated_at": "2026-07-31T14:15:10+00:00",
+      "title": "Celtic reject West Ham Engels bid and confirm Johnston interest",
+      "summary": "Celtic reject a West Ham approach for Arne Engels while there is Everton interest in Alistair Johnston, manager Martin O'Neill confirms",
+      "category": [
+        "Premier League",
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4677/live/dd247a60-8ce9-11f1-b1ae-d9d901a2754c.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c3r04pdlw22o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3r04pdlw22o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "celtic-reject-west-ham-engels-bid-and-confirm-johnston-interest"
+    },
+    {
+      "published_at": "2026-07-31T13:56:28+00:00",
+      "updated_at": "2026-07-31T13:56:28+00:00",
+      "title": "Eckert will be happy when FA reaches Spygate verdict",
+      "summary": "Southampton head coach Tonda Eckert says the looming FA charge over the Spygate scandal is on his mind as he awaits a verdict",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e38e/live/d598e590-8ce6-11f1-a65d-4f54e31f4a67.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cg4dx1xpleyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cg4dx1xpleyo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "eckert-will-be-happy-when-fa-reaches-spygate-verdict"
+    },
+    {
       "published_at": "2026-07-31T08:09:34+00:00",
       "updated_at": "2026-07-31T08:09:34+00:00",
       "title": "Beever-Jones ready to 'conquer' new season after injury troubles last term",
@@ -211,115 +340,6 @@
       "id": "beever-jones-ready-to-conquer-new-season-after-injury-troubles-last-term"
     },
     {
-      "published_at": "2026-07-30T19:06:53+00:00",
-      "updated_at": "2026-07-30T19:06:53+00:00",
-      "title": "Staveley in talks to buy 25% stake in West Ham",
-      "summary": "A consortium led by former Newcastle United co-owner Amanda Staveley holds talks about purchasing a 25% stake in Championship club West Ham",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b965/live/dbf92160-8c47-11f1-b2ab-0dd01740f9f6.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c4gk8d52x45o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c4gk8d52x45o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "staveley-in-talks-to-buy-25-stake-in-west-ham"
-    },
-    {
-      "published_at": "2026-07-30T16:01:58+00:00",
-      "updated_at": "2026-07-30T16:01:58+00:00",
-      "title": "Tonali 'took 10 minutes' to decide to join Spurs",
-      "summary": "Club-record £100m signing Sandro Tonali took \"10 minutes\" to decide to join Tottenham after meeting manager Roberto de Zerbi",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e08f/live/5120aca0-8bea-11f1-861c-757141bb522d.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cz7dlyq1qnwo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cz7dlyq1qnwo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "tonali-took-10-minutes-to-decide-to-join-spurs"
-    },
-    {
-      "published_at": "2026-07-30T15:10:54+00:00",
-      "updated_at": "2026-07-30T15:10:54+00:00",
-      "title": "Challenging times ahead for Newcastle - Shearer",
-      "summary": "MOTD pundit and Newcastle United legend Alan Shearer explains why he is worried about what will happen next at his old club after the departure of manager Eddie Howe",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/70a9/live/1c667320-8c29-11f1-9488-69577cd5e4e0.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cd0xvpmny55o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cd0xvpmny55o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "challenging-times-ahead-for-newcastle-shearer"
-    },
-    {
-      "published_at": "2026-07-30T14:00:36+00:00",
-      "updated_at": "2026-07-30T14:00:36+00:00",
-      "title": "Minimum 10-match ban for discrimination - FA",
-      "summary": "Players found guilty of discrimination will face a ban of at least 10 matches under strengthened Football Association rules",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/61f7/live/9a580a30-8c1c-11f1-94b2-05bc97107049.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cn4nlpwq1qyo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cn4nlpwq1qyo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "minimum-10-match-ban-for-discrimination-fa"
-    },
-    {
       "published_at": "2026-07-31T07:23:00+00:00",
       "updated_at": "2026-07-31T07:23:00+00:00",
       "title": "'Desperate, tone deaf' - Why FIFA's 4am statement raises more questions",
@@ -345,33 +365,6 @@
       },
       "confirmed_by": [],
       "id": "desperate-tone-deaf-why-fifa-s-4am-statement-raises-more-questions"
-    },
-    {
-      "published_at": "2026-07-31T06:03:00+00:00",
-      "updated_at": "2026-07-31T06:03:00+00:00",
-      "title": "FIFA denies 'selling football' as AFC joins opposition and senior advisor quits",
-      "summary": "Carlos Cordeiro - a senior advisor to FIFA president Gianni Infantino - has resigned in protest at plans to launch a consultation on selling stakes in a World Cup commercial entity to private investors",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-fifa-football-gianni-infantino_7310907.jpg?20260731075152",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13568656/fifa-insists-nobody-is-selling-football-after-uefa-threatens-to-boycott-tournaments-if-plans-to-sell-off-stake-in-world-cup-go-ahead"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13568656/fifa-insists-nobody-is-selling-football-after-uefa-threatens-to-boycott-tournaments-if-plans-to-sell-off-stake-in-world-cup-go-ahead"
-      },
-      "confirmed_by": [],
-      "id": "fifa-denies-selling-football-as-afc-joins-opposition-and-senior-advisor-quits"
     },
     {
       "published_at": "2026-07-30T20:23:46+00:00",
@@ -446,6 +439,33 @@
       "id": "ifk-g-teborg-vidare-i-conference-league-kvalet-trots-dubbla-straffmissar"
     },
     {
+      "published_at": "2026-07-31T12:50:35+00:00",
+      "updated_at": "2026-07-31T12:50:35+00:00",
+      "title": "Arsenal target Bruno Guimarães not on Newcastle’s flight to pre-season camp",
+      "summary": "Today’s rumours have a geordie flavour Eddie Howe presumably won’t be reading this page for a while. Perhaps the now departed Newcastle boss will be seeking some beach time, looking out to sea and mentally preparing his audition for the England job while his assistant Jason Tindall works on trying to be as quick over the first few yards as Anthony Barry. The Magpies fly out to La Manga on Friday for a pre-season training camp and it remains to be seen if Bruno Guimarães , a £75m Arsenal target, will turn up to the airport, meet them in Spain or send the lads a farewell on social media while house-hunting in London.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://i.guim.co.uk/img/media/135dfe03e527f9da3de6da422555d54769325268/315_0_5222_4178/master/5222.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f531d206a1a108ec32871763f5a545d0",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/31/newcastle-bruno-guimaraes-pre-season-camp"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/31/newcastle-bruno-guimaraes-pre-season-camp"
+      },
+      "confirmed_by": [],
+      "id": "arsenal-target-bruno-guimar-es-not-on-newcastle-s-flight-to-pre-season-camp"
+    },
+    {
       "published_at": "2026-07-31T10:54:10+00:00",
       "updated_at": "2026-07-31T10:54:10+00:00",
       "title": "Uefa has formed a rare but fragile united front against Fifa in battle for football’s future | Nick Ames and Matt Hughes",
@@ -498,34 +518,6 @@
       },
       "confirmed_by": [],
       "id": "infantino-increasingly-embattled-after-senior-adviser-resigns-over-world-cup-sell-off-plan"
-    },
-    {
-      "published_at": "2026-07-31T08:37:20+00:00",
-      "updated_at": "2026-07-31T08:37:20+00:00",
-      "title": "Football transfer rumours: Guimarães set for Arsenal? Newcastle to bring in Froholdt?",
-      "summary": "Today’s rumours have a geordie flavour Eddie Howe presumably won’t be reading this page for a while. Perhaps the now departed Newcastle boss will be seeking some beach time, looking out to sea and mentally preparing his audition for the England job while his assistant Jason Tindall works on trying to be as quick over the first few yards as Anthony Barry. The Magpies fly out to La Manga on Friday for a pre-season training camp and it remains to be seen if Bruno Guimarães , a £75m Arsenal target, will turn up to the airport, meet them in Spain or send the lads a farewell on social media while house-hunting in London.",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://i.guim.co.uk/img/media/06637bcff62ca99885035155ae0598a37ea6386e/147_196_1347_1078/master/1347.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e68f59c14b9c21ba4b7418f0fca79472",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/31/football-transfer-rumours-bruno-guimaraes-arsenal-newcastle-victor-froholdt"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/31/football-transfer-rumours-bruno-guimaraes-arsenal-newcastle-victor-froholdt"
-      },
-      "confirmed_by": [],
-      "id": "football-transfer-rumours-guimar-es-set-for-arsenal-newcastle-to-bring-in-froholdt"
     },
     {
       "published_at": "2026-07-31T07:00:07+00:00",
@@ -827,6 +819,33 @@
       "id": "inf-r-bp-vs-bajen"
     },
     {
+      "published_at": "2026-07-31T14:34:35+00:00",
+      "updated_at": "2026-07-31T14:34:35+00:00",
+      "title": "Alhaji Jeng om den svenska EM-truppen: ”Kan slå rekordet från 2006”",
+      "summary": "Under EM i Göteborg 2006 tog Sverige sex medaljer. Det rekordet kan slås i år, enligt Alhaji Jeng. – För första gången är det ordentligt hotat, säger experten",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.22/0.31/1d62b20411df56c588cd958637b70721a5b38b97035ea8c93640826aa4bfc226",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/friidrott/alhaji-jeng-om-den-svenska-em-truppen-kan-sla-rekordet-fran-2006"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/friidrott/alhaji-jeng-om-den-svenska-em-truppen-kan-sla-rekordet-fran-2006"
+      },
+      "confirmed_by": [],
+      "id": "alhaji-jeng-om-den-svenska-em-truppen-kan-sl-rekordet-fr-n-2006"
+    },
+    {
       "published_at": "2026-07-31T11:11:22+00:00",
       "updated_at": "2026-07-31T11:11:22+00:00",
       "title": "Kajsa Bergqvist om Grete Ahlbergs väg tillbaka: ”Inspirerande”",
@@ -1016,31 +1035,60 @@
       "id": "maja-starks-frustration-i-the-open-avslutade-med-dubbla-bogeys"
     },
     {
-      "published_at": "2026-07-30T17:16:11+00:00",
-      "updated_at": "2026-07-30T17:16:11+00:00",
-      "title": "Svenska fotbollförbundets svar efter Uefas hot om VM-bojkott: ”Tror Fifa backar”",
-      "summary": "Uefas medlemsländer hotar med att bojkotta VM. Svenska fotbollförbundet står bakom beslutet. – Vi tycker att Fifa korsat en röd linje, säger SvFF:s ordförande Simon Åström till SVT Sport",
+      "published_at": "2026-07-31T15:44:00+00:00",
+      "updated_at": "2026-07-31T15:44:00+00:00",
+      "title": "Tottenham latest: De Zerbi promises more signings and reveals Maddison injury",
+      "summary": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
-        "Sverige"
+        "Premier League",
+        "Transfer",
+        "Injury"
       ],
-      "status": "Confirmed",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.29/0.33/cfd8763b4291da3d17c216d483522d62c7880774aca02919ebd44ad326f1b85d",
+      "club": "tottenham",
+      "image": "https://e0.365dm.com/26/04/1600x900/skysports-spurs-roberto-de-zerbi_7216074.jpg?20260410141222",
       "sources": [
         {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/svenska-fotbollforbundets-svar-efter-uefas-hot-om-vm-bojkott-star-bakom-det"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/svenska-fotbollforbundets-svar-efter-uefas-hot-om-vm-bojkott-star-bakom-det"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "svenska-fotbollf-rbundets-svar-efter-uefas-hot-om-vm-bojkott-tror-fifa-backar"
+      "id": "tottenham-latest-de-zerbi-promises-more-signings-and-reveals-maddison-injury"
+    },
+    {
+      "published_at": "2026-07-31T14:38:00+00:00",
+      "updated_at": "2026-07-31T14:38:00+00:00",
+      "title": "Man City latest: No talks about Rodri's future, says Maresca",
+      "summary": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-enzo-maresca-man-city_7285824.jpg?20260629153129",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "man-city-latest-no-talks-about-rodri-s-future-says-maresca"
     },
     {
       "published_at": "2026-07-31T09:50:00+00:00",
@@ -1072,7 +1120,7 @@
     {
       "published_at": "2026-07-30T23:42:00+00:00",
       "updated_at": "2026-07-30T23:42:00+00:00",
-      "title": "'Serious questions now being asked' | Is this the beginning of the end for Infantino?",
+      "title": "Is this the beginning of the end for Infantino?",
       "summary": "Kaveh Solhekol explains why FIFA president is under serious pressure after UEFA said they will boycott FIFA tournaments if the proposal to sell off a stake in the World Cup goes ahead and CONCACAF also rejected the idea of the proposals",
       "category": [
         "Football"
@@ -1081,7 +1129,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-infantino-fifa_7310846.jpg?20260730234703",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-fifa-kaveh-gianni_7311270.jpg?20260731145213",
       "sources": [
         {
           "name": "Sky Sports",
@@ -1094,7 +1142,7 @@
         "url": "https://www.skysports.com/watch/video/13568648/is-this-the-beginning-of-the-end-for-infantino"
       },
       "confirmed_by": [],
-      "id": "serious-questions-now-being-asked-is-this-the-beginning-of-the-end-for-infantino"
+      "id": "is-this-the-beginning-of-the-end-for-infantino"
     },
     {
       "published_at": "2026-07-30T16:15:00+00:00",
@@ -1178,37 +1226,10 @@
       "id": "scottish-premiership-a-z-guide-for-the-new-season"
     },
     {
-      "published_at": "2026-07-30T14:55:40+00:00",
-      "updated_at": "2026-07-30T14:55:40+00:00",
-      "title": "\"Londonderby - nu kan Spurs rädda kontraktet\"",
-      "summary": "\"Londonderby - nu kan Spurs rädda kontraktet\" Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "londonderby-nu-kan-spurs-r-dda-kontraktet"
-    },
-    {
-      "published_at": "2026-07-27T05:11:00+00:00",
-      "updated_at": "2026-07-27T05:11:00+00:00",
-      "title": "Bästa VM-truppen på decennier – svårtydaste förutsättningarna någonsin",
-      "summary": "Read the full report at Fotbollskanalen.",
+      "published_at": "2026-07-31T14:36:04+00:00",
+      "updated_at": "2026-07-31T14:36:04+00:00",
+      "title": "Inför Helsingborg Hemma: Andra dubbelmötet mot Skåne",
+      "summary": "Det har varit en dryg veckas speluppehåll för IFK Norrköping. Men nu väntar två matcher inom loppet av fyra dagar, båda mot Skånelagen Landskrona borta och följt av Helsingborg hemma. Skulle nog säga att matchen mot Landskrona är den svåraste av de två.",
       "category": [
         "Sverige"
       ],
@@ -1216,20 +1237,101 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/dKl82KrKS7v1FEdHveZdVE59W53nvgShcU35nWLl.jpg",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/infor-helsingborg-hemma-andra-dubbelmotet-mot-skane-698648"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/infor-helsingborg-hemma-andra-dubbelmotet-mot-skane-698648"
       },
       "confirmed_by": [],
-      "id": "b-sta-vm-truppen-p-decennier-sv-rtydaste-f-ruts-ttningarna-n-gonsin"
+      "id": "inf-r-helsingborg-hemma-andra-dubbelm-tet-mot-sk-ne"
+    },
+    {
+      "published_at": "2026-07-31T14:16:39+00:00",
+      "updated_at": "2026-07-31T14:16:39+00:00",
+      "title": "Inför AIK - ÖIS",
+      "summary": "Då är det dags för Örgryte att ta sig an AIK och i och med det också spela mot det enda laget man hittills inte mött. Vilket i sin tur innebär att serien vänder efter söndagens match. Matchen blir också lite speciell eftersom det är den första av två raka matcher mot just nämnda AIK.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/uSrrcJleKd9gwaVXXOdFF8I7jIyWRztLb2kYLpbe.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/infor-aik-ois-698645"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/infor-aik-ois-698645"
+      },
+      "confirmed_by": [],
+      "id": "inf-r-aik-is"
+    },
+    {
+      "published_at": "2026-07-31T13:42:00+00:00",
+      "updated_at": "2026-07-31T13:42:00+00:00",
+      "title": "Krönika: \"Ett huvudlöst beteende\"",
+      "summary": "IFK Göteborg besegrade under gårdagen Levadia Tallinn med 1-3. Resultatet innebär fortsatt Europaspel. Eftermälet handlade dock till stor del om något helt annat – vilket inte är något nytt för den här föreningen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/wobmc7P5s8TgBcNJgNvc4xavWaUJRoBpqKVHbZFm.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/kronika-ett-huvudlost-beteende-698643"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/kronika-ett-huvudlost-beteende-698643"
+      },
+      "confirmed_by": [],
+      "id": "kr-nika-ett-huvudl-st-beteende"
+    },
+    {
+      "published_at": "2026-07-31T13:11:00+00:00",
+      "updated_at": "2026-07-31T13:11:00+00:00",
+      "title": "Jag är slut som artist. Det var en utomkroppslig upplevelse",
+      "summary": "Elon Wissing har varit på fotbollsmatch ute på kontinenten. Helt golvad av upplevelsen försöker, och misslyckas, han sammanfatta sina tankar och känslor efter 0-6 mot Nordsjaelland",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/kr9UPQ14JACWGw6zAM8b9Ms4Pvab2KZD0YC8FB7B.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/jag-ar-slut-som-artist-det-var-en-utomkroppslig-upplevelse-698642"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/jag-ar-slut-som-artist-det-var-en-utomkroppslig-upplevelse-698642"
+      },
+      "confirmed_by": [],
+      "id": "jag-r-slut-som-artist-det-var-en-utomkroppslig-upplevelse"
     },
     {
       "published_at": "2026-07-31T12:35:00+00:00",
@@ -1286,114 +1388,6 @@
       "id": "inf-r-derbyt-vi-ska-spela-matchen-med-passion"
     },
     {
-      "published_at": "2026-07-31T08:46:16+00:00",
-      "updated_at": "2026-07-31T08:46:16+00:00",
-      "title": "Damer och herrar, skilda världar: Inför Växjö i guldjakten",
-      "summary": "På något annat sätt kan inte herrlagets allt annat än fysiskt presterande insatser i Bromma för några dagar sedan och i Belgien i går beskrivas. Tur då att vi i Söder-led har annat att glädjas åt, ett HTFF som går som tåget och framför allt ett damlag som andas självförtroende och käkar motståndare till frukost. I kväll fortsätter den upplysta stigen – ”sendero luminoso” - i framgångssagan såväl nationellt som i Europa.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2092703.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/damer-och-herrar-skilda-varldar-infor-vaxjo-i-guldjakten-698626"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/damer-och-herrar-skilda-varldar-infor-vaxjo-i-guldjakten-698626"
-      },
-      "confirmed_by": [],
-      "id": "damer-och-herrar-skilda-v-rldar-inf-r-v-xj-i-guldjakten"
-    },
-    {
-      "published_at": "2026-07-31T08:40:00+00:00",
-      "updated_at": "2026-07-31T08:40:00+00:00",
-      "title": "Bildextra: Svensklagens bortaföljen i Europa",
-      "summary": "Mjällby, GAIS, Hammarby och IFK Göteborg spelade alla bortamatch i kval till Europa i veckan. Här kommer lite bilder på lagens bortaföljen i Europa i veckan",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/OkVcMJ1lPgL6EmA4R3p1xqasEmN0qrU4NUYDiT7n.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/bildextra-svensklagens-bortafoljen-i-europa-698624"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/bildextra-svensklagens-bortafoljen-i-europa-698624"
-      },
-      "confirmed_by": [],
-      "id": "bildextra-svensklagens-bortaf-ljen-i-europa"
-    },
-    {
-      "published_at": "2026-07-31T08:30:00+00:00",
-      "updated_at": "2026-07-31T08:30:00+00:00",
-      "title": "Blåvitt-supportrar kritiseras för vandalisering i Tallinn",
-      "summary": "IFK Göteborg-supportrar kritiseras i Estland efter vandalisering i samband med bortamatchen mot Levadia i Tallinn under torsdagen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/tMpZl9GoCe6r5szLvmEIkjfp95X5MxrmIVzowWLd.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/blavitt-supportrar-kritiseras-for-vandalisering-i-tallinn-698623"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/blavitt-supportrar-kritiseras-for-vandalisering-i-tallinn-698623"
-      },
-      "confirmed_by": [],
-      "id": "bl-vitt-supportrar-kritiseras-f-r-vandalisering-i-tallinn"
-    },
-    {
-      "published_at": "2026-07-31T06:14:10+00:00",
-      "updated_at": "2026-07-31T06:14:10+00:00",
-      "title": "Fifa slår tillbaka: \"Ingen säljer fotbollen\"",
-      "summary": "Fifa försvarar sina kontroversiella investeringsplaner efter att både Uefa och Concacaf vänt sig emot förslaget. Samtidigt lovar förbundet att gå vidare med processen – och betonar att \"ingen säljer fotbollen\"",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/zJw2cnYDf0BTCzUakH2e8DZoVFS5LEQ7TKcnrRDp.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/fifa-slar-tillbaka-ingen-saljer-fotbollen-698617"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/fifa-slar-tillbaka-ingen-saljer-fotbollen-698617"
-      },
-      "confirmed_by": [],
-      "id": "fifa-sl-r-tillbaka-ingen-s-ljer-fotbollen"
-    },
-    {
       "published_at": "2026-07-31T13:45:00+00:00",
       "updated_at": "2026-07-31T13:45:00+00:00",
       "title": "FIFA's decision on 64-team World Cup to be made by August 14",
@@ -1419,33 +1413,6 @@
       },
       "confirmed_by": [],
       "id": "fifa-s-decision-on-64-team-world-cup-to-be-made-by-august-14"
-    },
-    {
-      "published_at": "2026-07-31T11:40:00+00:00",
-      "updated_at": "2026-07-31T11:40:00+00:00",
-      "title": "Jaissle set to meet Newcastle players in Spain with Guimaraes arriving on Sunday",
-      "summary": "Newcastle transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-newcastle-bruno-bruno-guimaraes_7293252.jpg?20260708201537",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "jaissle-set-to-meet-newcastle-players-in-spain-with-guimaraes-arriving-on-sunday"
     },
     {
       "published_at": "2026-07-31T10:30:00+00:00",
