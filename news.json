@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T21:05:19.995581+00:00",
+  "updated_at": "2026-07-31T23:01:23.445867+00:00",
   "items": [
     {
       "published_at": "2026-07-31T14:28:00+00:00",
@@ -122,7 +122,7 @@
     {
       "published_at": "2026-07-31T17:15:00+00:00",
       "updated_at": "2026-07-31T17:15:00+00:00",
-      "title": "Newcastle to appoint Jaissle as new boss tomorrow after Howe exit confirmed",
+      "title": "Newcastle to appoint Jaissle as new boss after Howe exit confirmed",
       "summary": "German Matthias Jaissle is the favourite to replace Eddie Howe at Newcastle - and has a reputation for attacking football and winning trophies",
       "category": [
         "Premier League"
@@ -153,7 +153,35 @@
           "url": "https://www.skysports.com/football/news/11095/13568841/matthias-jaissle-newcastle-to-appoint-german-as-new-boss-on-saturday-after-eddie-howe-exit-confirmed"
         }
       ],
-      "id": "newcastle-to-appoint-jaissle-as-new-boss-tomorrow-after-howe-exit-confirmed"
+      "id": "newcastle-to-appoint-jaissle-as-new-boss-after-howe-exit-confirmed"
+    },
+    {
+      "published_at": "2026-07-31T22:40:49+00:00",
+      "updated_at": "2026-07-31T22:40:49+00:00",
+      "title": "Bowie makes loan switch to Serie A side Sassuolo",
+      "summary": "Scotland international Kieron Bowie has completed a loan move from Hellas Verona to Serie A side Sassuolo",
+      "category": [
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/809a/live/b732ea70-8d30-11f1-b3b6-29b7cb5033ec.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cy8ejv6j5wwo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cy8ejv6j5wwo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "bowie-makes-loan-switch-to-serie-a-side-sassuolo"
     },
     {
       "published_at": "2026-07-31T16:52:15+00:00",
@@ -298,31 +326,68 @@
       "id": "eckert-will-be-happy-when-fa-reaches-spygate-verdict"
     },
     {
-      "published_at": "2026-07-31T08:09:34+00:00",
-      "updated_at": "2026-07-31T08:09:34+00:00",
-      "title": "Beever-Jones ready to 'conquer' new season after injury troubles last term",
-      "summary": "Chelsea and England forward Aggie Beever-Jones had her \"hardest\" season in 2025-26 and she had a big decision to make about her future when it ended",
+      "published_at": "2026-07-31T21:58:49+00:00",
+      "updated_at": "2026-07-31T21:58:49+00:00",
+      "title": "Aasgaard strikes as Rangers start McInnes era with draw at Dundee United",
+      "summary": "Thelo Aasgaard earned Derek McInnes his first point as Rangers manager as they fought back for a 1-1 draw against Dundee United. Lachlan Rose struck the first goal of the Premiership season to give United a half-time lead at Tannadice.",
       "category": [
-        "Injury"
+        "Football"
       ],
-      "status": "Confirmed",
+      "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/df00/live/991b00e0-8c1d-11f1-94b2-05bc97107049.jpg",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-derek-mcinnes-rangers_7311498.jpg?20260731210153",
       "sources": [
         {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c235g2vngk9o?at_medium=RSS&at_campaign=rss"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/dundee-united-vs-rangers/report/558333"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/31/dundee-united-rangers-scottish-premiership-match-report"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c235g2vngk9o?at_medium=RSS&at_campaign=rss"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/dundee-united-vs-rangers/report/558333"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/31/dundee-united-rangers-scottish-premiership-match-report"
+        }
+      ],
+      "id": "aasgaard-strikes-as-rangers-start-mcinnes-era-with-draw-at-dundee-united"
+    },
+    {
+      "published_at": "2026-07-31T23:30:00+00:00",
+      "updated_at": "2026-07-31T23:30:00+00:00",
+      "title": "Papers: Real Madrid open to Arsenal target Vinicius Jr leaving club",
+      "summary": "Latest transfer news and headlines as Arsenal agree a £77m plus add-ons deal for Newcastle captain Bruno Guimaraes; Chelsea avoid a 15-point deduction over that would have relegated them; Inter Milan are willing to pay £30m for Liverpool midfielder Curtis Jones",
+      "category": [
+        "Premier League",
+        "La Liga"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://e0.365dm.com/25/03/1600x900/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13568924/vinicius-junior-transfer-news-real-madrid-open-to-possibility-of-arsenal-target-leaving-paper-talk"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13568924/vinicius-junior-transfer-news-real-madrid-open-to-possibility-of-arsenal-target-leaving-paper-talk"
       },
       "confirmed_by": [],
-      "id": "beever-jones-ready-to-conquer-new-season-after-injury-troubles-last-term"
+      "id": "papers-real-madrid-open-to-arsenal-target-vinicius-jr-leaving-club"
     },
     {
       "published_at": "2026-07-30T20:23:46+00:00",
@@ -1078,31 +1143,31 @@
       "id": "tottenham-latest-de-zerbi-promises-more-signings-and-reveals-maddison-injury"
     },
     {
-      "published_at": "2026-07-31T09:50:00+00:00",
-      "updated_at": "2026-07-31T09:50:00+00:00",
-      "title": "Q&A: Why is UEFA boycotting FIFA tournaments and can it stop Infantino?",
-      "summary": "UEFA announced on Thursday that it will boycott FIFA tournaments until plans from president Gianni Infantino to sell off stakes in the World Cup are ended",
+      "published_at": "2026-07-31T14:38:00+00:00",
+      "updated_at": "2026-07-31T14:38:00+00:00",
+      "title": "Man City latest: No talks about Rodri's future, says Maresca",
+      "summary": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
-        "Football"
+        "Transfer"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/03/1600x900/skysports-uefa-logo-headquarters_7193297.jpg?20260315134758",
+      "club": "manchester-city",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-enzo-maresca-man-city_7285824.jpg?20260629153129",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13568527/uefa-to-boycott-fifa-tournaments-qa-why-they-are-doing-can-it-stop-gianni-infantino-and-where-do-other-confederations-stand"
+          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13568527/uefa-to-boycott-fifa-tournaments-qa-why-they-are-doing-can-it-stop-gianni-infantino-and-where-do-other-confederations-stand"
+        "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "q-a-why-is-uefa-boycotting-fifa-tournaments-and-can-it-stop-infantino"
+      "id": "man-city-latest-no-talks-about-rodri-s-future-says-maresca"
     },
     {
       "published_at": "2026-07-30T14:55:40+00:00",
@@ -1322,6 +1387,60 @@
       "id": "motst-ndarkoll-ik-brage-2-0"
     },
     {
+      "published_at": "2026-07-31T22:45:00+00:00",
+      "updated_at": "2026-07-31T22:45:00+00:00",
+      "title": "Man Utd latest: Hall move being explored as Flick says Barca will miss Rashford",
+      "summary": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/02/1600x900/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "man-utd-latest-hall-move-being-explored-as-flick-says-barca-will-miss-rashford"
+    },
+    {
+      "published_at": "2026-07-31T22:11:00+00:00",
+      "updated_at": "2026-07-31T22:11:00+00:00",
+      "title": "Forest latest: Glasner's side suffer first defeat of pre-season",
+      "summary": "Nottingham Forest transfers, latest news, rumours and gossip: Live updates, goals and highlights",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-premier-league-nottingham-forest_7287949.jpg?20260702112820",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+      },
+      "confirmed_by": [],
+      "id": "forest-latest-glasner-s-side-suffer-first-defeat-of-pre-season"
+    },
+    {
       "published_at": "2026-07-31T20:10:00+00:00",
       "updated_at": "2026-07-31T20:10:00+00:00",
       "title": "Leeds latest: Ajax beat Farke's side to signing of Brandt",
@@ -1374,114 +1493,6 @@
       },
       "confirmed_by": [],
       "id": "trump-denies-talking-to-infantino-over-contentious-world-cup-plans"
-    },
-    {
-      "published_at": "2026-07-31T19:13:00+00:00",
-      "updated_at": "2026-07-31T19:13:00+00:00",
-      "title": "This is Gianni Infantino’s Icarus moment",
-      "summary": "Gianni Infantinos plans to sell off stake in World Cup have been met with widespread condemnation and have severely weakened the FIFA presidents position; UK Prime Minister Andy Burnham says Infantino is the wrong man to lead FIFA",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-gianni-infantino_7311449.jpg?20260731192706",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13568865/gianni-infantino-fifa-president-arrives-at-icarus-moment-as-plans-to-sell-off-world-cup-stake-unravel"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13568865/gianni-infantino-fifa-president-arrives-at-icarus-moment-as-plans-to-sell-off-world-cup-stake-unravel"
-      },
-      "confirmed_by": [],
-      "id": "this-is-gianni-infantino-s-icarus-moment"
-    },
-    {
-      "published_at": "2026-07-31T18:31:00+00:00",
-      "updated_at": "2026-07-31T18:31:00+00:00",
-      "title": "Arsenal latest: Gunners target Guimaraes posts Howe farewell message",
-      "summary": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/25/10/1600x900/skysports-arsenal-news-club_7039237.jpg?20251002155710",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "arsenal-latest-gunners-target-guimaraes-posts-howe-farewell-message"
-    },
-    {
-      "published_at": "2026-07-31T18:00:00+00:00",
-      "updated_at": "2026-07-31T18:00:00+00:00",
-      "title": "Rangers held to draw in season opener at Dundee Utd LIVE!",
-      "summary": "Scottish Premiership match Dundee Utd vs Rangers 31.07.2026. Preview and stats followed by live commentary, video highlights and match report",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/dundee-united-vs-rangers/live/558333"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/dundee-united-vs-rangers/live/558333"
-      },
-      "confirmed_by": [],
-      "id": "rangers-held-to-draw-in-season-opener-at-dundee-utd-live"
-    },
-    {
-      "published_at": "2026-07-31T13:45:00+00:00",
-      "updated_at": "2026-07-31T13:45:00+00:00",
-      "title": "FIFA's decision on 64-team World Cup to be made by August 14",
-      "summary": "Read the full report at Sky Sports.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-world-cup-fifa_7310393.jpg?20260730144402",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
-      },
-      "confirmed_by": [],
-      "id": "fifa-s-decision-on-64-team-world-cup-to-be-made-by-august-14"
     }
   ]
 }
