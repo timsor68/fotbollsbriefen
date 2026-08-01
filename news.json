@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T05:55:58.506972+00:00",
+  "updated_at": "2026-08-01T08:25:36.965820+00:00",
   "items": [
     {
       "published_at": "2026-07-31T14:28:00+00:00",
@@ -45,44 +45,6 @@
         }
       ],
       "id": "chelsea-handed-10m-fine-and-suspended-transfer-ban"
-    },
-    {
-      "published_at": "2026-07-31T16:52:15+00:00",
-      "updated_at": "2026-07-31T16:52:15+00:00",
-      "title": "Chelsea sign Italy's Dragoni from Barcelona",
-      "summary": "Chelsea sign Italy attacking midfielder Giulia Dragoni from Barcelona on a four-year contract",
-      "category": [
-        "Premier League",
-        "La Liga",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/57ce/live/423f4d70-8cff-11f1-9a29-416a24547568.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cy745m20827o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cy745m20827o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest"
-        }
-      ],
-      "id": "chelsea-sign-italy-s-dragoni-from-barcelona"
     },
     {
       "published_at": "2026-07-31T15:59:06+00:00",
@@ -156,6 +118,50 @@
         }
       ],
       "id": "defender-stones-joins-inter-milan-on-free-transfer"
+    },
+    {
+      "published_at": "2026-07-31T23:55:44+00:00",
+      "updated_at": "2026-07-31T23:55:44+00:00",
+      "title": "Fifa scraps proposal to sell off stakes in World Cup after widespread backlash",
+      "summary": "Gianni ⁠Infantino issues statement on controversial plan ‘This proposal will not proceed,’ confirms Fifa president Gianni Infantino’s proposal to sell chunks of the World Cup to private investors has sensationally collapsed, with the Fifa president admitting the project “has created divisions of a nature that are no longer in the interest of the objective”, amid widespread anger globally. The plan had caused ructions within football around the world, leading Uefa to threaten a boycott of future Fifa tournaments if it was not shelved. Other confederations had also come out in opposition while one of Infantino’s senior advisors, Carlos Cordeiro, resigned on Friday in protest at the scheme.",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6843/live/935b3ad0-8d6c-11f1-a7ab-8b30adf0800a.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/01/fifa-scraps-plan-to-sell-off-stakes-in-world-cup-after-widespread-backlash"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/01/fifa-scraps-plan-to-sell-off-stakes-in-world-cup-after-widespread-backlash"
+        }
+      ],
+      "id": "fifa-scraps-proposal-to-sell-off-stakes-in-world-cup-after-widespread-backlash"
     },
     {
       "published_at": "2026-07-31T17:15:00+00:00",
@@ -249,6 +255,35 @@
       "id": "bowie-makes-loan-switch-to-serie-a-side-sassuolo"
     },
     {
+      "published_at": "2026-07-31T16:52:15+00:00",
+      "updated_at": "2026-07-31T16:52:15+00:00",
+      "title": "Chelsea sign Italy's Dragoni from Barcelona",
+      "summary": "Chelsea sign Italy attacking midfielder Giulia Dragoni from Barcelona on a four-year contract",
+      "category": [
+        "Premier League",
+        "La Liga",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/57ce/live/423f4d70-8cff-11f1-9a29-416a24547568.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cy745m20827o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cy745m20827o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "chelsea-sign-italy-s-dragoni-from-barcelona"
+    },
+    {
       "published_at": "2026-07-31T16:09:53+00:00",
       "updated_at": "2026-07-31T16:09:53+00:00",
       "title": "Newcastle confirm Howe resignation as head coach",
@@ -306,39 +341,10 @@
       "id": "head-coach-matos-agrees-new-swansea-contract"
     },
     {
-      "published_at": "2026-07-31T14:15:10+00:00",
-      "updated_at": "2026-07-31T14:15:10+00:00",
-      "title": "Celtic reject West Ham Engels bid and confirm Johnston interest",
-      "summary": "Celtic reject a West Ham approach for Arne Engels while there is Everton interest in Alistair Johnston, manager Martin O'Neill confirms",
-      "category": [
-        "Premier League",
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4677/live/dd247a60-8ce9-11f1-b1ae-d9d901a2754c.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c3r04pdlw22o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3r04pdlw22o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "celtic-reject-west-ham-engels-bid-and-confirm-johnston-interest"
-    },
-    {
       "published_at": "2026-07-31T21:58:49+00:00",
       "updated_at": "2026-07-31T21:58:49+00:00",
       "title": "Rangers held by Dundee United to kick off McInnes era and Scottish Premiership",
-      "summary": "Derek McInnes has a score to settle with Celtic after swapping Hearts for Rangers, while Motherwell could impress again Only residents of cloud cuckoo land can hold the firm belief that Scottish football will emerge promptly from a summer of discontent. The onset of a new domestic season, ordinarily a cause for excitement, instead gives reason to ponder the grim realities of what came before. That it is unsurprising there has been no detailed explanation or plan from the Scottish Football Association following a lamentable World Cup does not prevent the scenario from being so deflating.",
+      "summary": "Thelo Aasgaard earned Derek McInnes his first point as Rangers manager as they fought back for a 1-1 draw against Dundee United. Lachlan Rose struck the first goal of the Premiership season to give United a half-time lead at Tannadice.",
       "category": [
         "Football"
       ],
@@ -925,6 +931,34 @@
       "id": "inf-r-bp-vs-bajen"
     },
     {
+      "published_at": "2026-08-01T07:24:00+00:00",
+      "updated_at": "2026-08-01T07:24:00+00:00",
+      "title": "Sagoe Jrs stora hyllning till allsvenskan: ”Påminner om Premier League”",
+      "summary": "Charles Sagoe Jr har tränat med Mesut Özil, debuterat för Arsenals seniorlag och suttit på bänken i Champions League. Men allsvenskan har överraskat honom. – Det påminner mig om hur Premier League är",
+      "category": [
+        "Sverige",
+        "Premier League"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.84/0.23/7902f9d63ae13d36e0dc0aea4257cefd2fd5ff491e681e19a880a04456f404f5",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/sagoe-jrs-stora-hyllning-till-allsvenskan-paminner-om-premier-league"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/sagoe-jrs-stora-hyllning-till-allsvenskan-paminner-om-premier-league"
+      },
+      "confirmed_by": [],
+      "id": "sagoe-jrs-stora-hyllning-till-allsvenskan-p-minner-om-premier-league"
+    },
+    {
       "published_at": "2026-08-01T05:26:08+00:00",
       "updated_at": "2026-08-01T05:26:08+00:00",
       "title": "Carmen Cernjul vill bli första svenska på 36 år: ”Det jag drömmer om”",
@@ -1114,33 +1148,6 @@
       "id": "alhaji-jeng-om-den-svenska-em-truppen-kan-sl-rekordet-fr-n-2006"
     },
     {
-      "published_at": "2026-07-31T11:11:22+00:00",
-      "updated_at": "2026-07-31T11:11:22+00:00",
-      "title": "Kajsa Bergqvist om Grete Ahlbergs väg tillbaka: ”Inspirerande”",
-      "summary": "Senast släggkastaren Grete Ahlberg tävlade i ett mästerskap var EM i Rom 2024. Då åkte hon ut i kvalet och berättade öppet och ärligt om hur dåligt hon mått direkt efter. Nu är hon uttagen till EM i Birmingham, som börjar 10 augusti.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.53/0.37/a950210c5a8d42ea6688e391a062f3ca5e6d483b5169073f7c8a9d440c50dc45",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/friidrott/kajsa-bergqvist-om-grete-ahlbergs-vag-tillbaka-inspirerande"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/friidrott/kajsa-bergqvist-om-grete-ahlbergs-vag-tillbaka-inspirerande"
-      },
-      "confirmed_by": [],
-      "id": "kajsa-bergqvist-om-grete-ahlbergs-v-g-tillbaka-inspirerande"
-    },
-    {
       "published_at": "2026-07-31T22:00:00+00:00",
       "updated_at": "2026-07-31T22:00:00+00:00",
       "title": "Brentford latest: Sangare completes medical ahead of £39m move from Lens",
@@ -1225,6 +1232,33 @@
       "id": "tottenham-latest-de-zerbi-promises-more-signings-and-reveals-maddison-injury"
     },
     {
+      "published_at": "2026-08-01T07:24:00+00:00",
+      "updated_at": "2026-08-01T07:24:00+00:00",
+      "title": "Infantino abandons plan to sell off stake in World Cup",
+      "summary": "FIFA president Gianni Infantino has abandoned his controversial plan to sell a stake in future World Cup profits to private equity investors after fierce opposition from football's governing bodies",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-fifa-football-gianni-infantino_7310907.jpg?20260731075152",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13568949/fifa-president-gianni-infantino-abandons-plans-to-sell-world-cup-profits-to-private-equity-after-widespread-criticism"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13568949/fifa-president-gianni-infantino-abandons-plans-to-sell-world-cup-profits-to-private-equity-after-widespread-criticism"
+      },
+      "confirmed_by": [],
+      "id": "infantino-abandons-plan-to-sell-off-stake-in-world-cup"
+    },
+    {
       "published_at": "2026-07-30T14:55:40+00:00",
       "updated_at": "2026-07-30T14:55:40+00:00",
       "title": "\"Londonderby - nu kan Spurs rädda kontraktet\"",
@@ -1250,6 +1284,33 @@
       },
       "confirmed_by": [],
       "id": "londonderby-nu-kan-spurs-r-dda-kontraktet"
+    },
+    {
+      "published_at": "2026-08-01T07:48:34+00:00",
+      "updated_at": "2026-08-01T07:48:34+00:00",
+      "title": "GAIS-supportrarnas kupp — lägger ”bud” på FC Nordsjälland",
+      "summary": "Torsdagens förlust mot Nordsjälland i Europakvalet tog hårt på GAIS-supportrarna. Nu lägger supporterföreningen Gårdakvarnen96 ett ”bud” på den danska klubben",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/kr9UPQ14JACWGw6zAM8b9Ms4Pvab2KZD0YC8FB7B.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/gais-supportrarnas-kupp-lagger-bud-pa-fc-nordsjalland-698662"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/gais-supportrarnas-kupp-lagger-bud-pa-fc-nordsjalland-698662"
+      },
+      "confirmed_by": [],
+      "id": "gais-supportrarnas-kupp-l-gger-bud-p-fc-nordsj-lland"
     },
     {
       "published_at": "2026-07-31T21:01:23+00:00",
@@ -1388,33 +1449,6 @@
       "id": "jag-r-slut-som-artist-det-var-en-utomkroppslig-upplevelse"
     },
     {
-      "published_at": "2026-07-31T12:35:00+00:00",
-      "updated_at": "2026-07-31T12:35:00+00:00",
-      "title": "Motståndarkoll: IK Brage 2.0",
-      "summary": "Superettan - Omgång 17 IK Brage - Landskrona BoIS Tisdag 1/8 17.00, Borlänge Energi Arena",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/vI6rsDNC6WGMJK7XS1ev6ZpeHtienlNKAA9OzCA8.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/motstandarkoll-ik-brage-20-698640"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/motstandarkoll-ik-brage-20-698640"
-      },
-      "confirmed_by": [],
-      "id": "motst-ndarkoll-ik-brage-2-0"
-    },
-    {
       "published_at": "2026-07-31T22:45:00+00:00",
       "updated_at": "2026-07-31T22:45:00+00:00",
       "title": "Man Utd latest: Hall move being explored as Flick says Barca will miss Rashford",
@@ -1467,33 +1501,6 @@
       },
       "confirmed_by": [],
       "id": "forest-latest-glasner-s-side-suffer-first-defeat-of-pre-season"
-    },
-    {
-      "published_at": "2026-07-31T20:10:00+00:00",
-      "updated_at": "2026-07-31T20:10:00+00:00",
-      "title": "Leeds latest: Ajax beat Farke's side to signing of Brandt",
-      "summary": "Leeds United transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/25/10/1600x900/skysports-leeds-news-club-blog_7039256.jpg?20251002160345",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "leeds-latest-ajax-beat-farke-s-side-to-signing-of-brandt"
     }
   ]
 }
