@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T02:52:49.601124+00:00",
+  "updated_at": "2026-08-01T05:55:58.506972+00:00",
   "items": [
     {
       "published_at": "2026-07-31T14:28:00+00:00",
@@ -45,42 +45,6 @@
         }
       ],
       "id": "chelsea-handed-10m-fine-and-suspended-transfer-ban"
-    },
-    {
-      "published_at": "2026-07-31T23:45:21+00:00",
-      "updated_at": "2026-07-31T23:45:21+00:00",
-      "title": "Dundee Utd & Rangers open season with Friday draw - watch",
-      "summary": "Thelo Aasgaard earned Derek McInnes his first point as Rangers manager as they fought back for a 1-1 draw against Dundee United. Lachlan Rose struck the first goal of the Premiership season to give United a half-time lead at Tannadice.",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/b1d8/live/aa3f6db0-8d36-11f1-a7ab-8b30adf0800a.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c62enlg40j5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/31/dundee-united-rangers-scottish-premiership-match-report"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c62enlg40j5o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/31/dundee-united-rangers-scottish-premiership-match-report"
-        }
-      ],
-      "id": "dundee-utd-rangers-open-season-with-friday-draw-watch"
     },
     {
       "published_at": "2026-07-31T16:52:15+00:00",
@@ -230,6 +194,33 @@
       "id": "newcastle-to-appoint-jaissle-as-new-boss-after-howe-exit-confirmed"
     },
     {
+      "published_at": "2026-07-31T23:45:21+00:00",
+      "updated_at": "2026-07-31T23:45:21+00:00",
+      "title": "Dundee Utd & Rangers open season with Friday draw - watch",
+      "summary": "Derek McInnes' era as Rangers manager got off to an underwhelming start as Dundee United hold them to an opening Scottish Premiership draw",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/b1d8/live/aa3f6db0-8d36-11f1-a7ab-8b30adf0800a.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c62enlg40j5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c62enlg40j5o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "dundee-utd-rangers-open-season-with-friday-draw-watch"
+    },
+    {
       "published_at": "2026-07-31T22:40:49+00:00",
       "updated_at": "2026-07-31T22:40:49+00:00",
       "title": "Bowie makes loan switch to Serie A side Sassuolo",
@@ -342,6 +333,42 @@
       },
       "confirmed_by": [],
       "id": "celtic-reject-west-ham-engels-bid-and-confirm-johnston-interest"
+    },
+    {
+      "published_at": "2026-07-31T21:58:49+00:00",
+      "updated_at": "2026-07-31T21:58:49+00:00",
+      "title": "Rangers held by Dundee United to kick off McInnes era and Scottish Premiership",
+      "summary": "Derek McInnes has a score to settle with Celtic after swapping Hearts for Rangers, while Motherwell could impress again Only residents of cloud cuckoo land can hold the firm belief that Scottish football will emerge promptly from a summer of discontent. The onset of a new domestic season, ordinarily a cause for excitement, instead gives reason to ponder the grim realities of what came before. That it is unsurprising there has been no detailed explanation or plan from the Scottish Football Association following a lamentable World Cup does not prevent the scenario from being so deflating.",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-derek-mcinnes-rangers_7311498.jpg?20260731210153",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/dundee-united-vs-rangers/report/558333"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/31/dundee-united-rangers-scottish-premiership-match-report"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/dundee-united-vs-rangers/report/558333"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/31/dundee-united-rangers-scottish-premiership-match-report"
+        }
+      ],
+      "id": "rangers-held-by-dundee-united-to-kick-off-mcinnes-era-and-scottish-premiership"
     },
     {
       "published_at": "2026-07-31T14:25:52+00:00",
@@ -898,10 +925,37 @@
       "id": "inf-r-bp-vs-bajen"
     },
     {
+      "published_at": "2026-08-01T05:26:08+00:00",
+      "updated_at": "2026-08-01T05:26:08+00:00",
+      "title": "Carmen Cernjul vill bli första svenska på 36 år: ”Det jag drömmer om”",
+      "summary": "Carmen Cernjul vill göra något som ingen svensk kvinna har gjort sedan 1990. Ta en medalj på U20-VM på medeldistans. – Det är såklart det jag drömmer om, säger den svenska talangen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.71/0.41/0d93fad802fd7fa7bdcd3bd19d3580acedcf2a0cb6fa1f304454ab6dbd0f168a",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/friidrott/carmen-cernjul-vill-bli-forsta-svenska-pa-36-ar-det-jag-drommer-om"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/friidrott/carmen-cernjul-vill-bli-forsta-svenska-pa-36-ar-det-jag-drommer-om"
+      },
+      "confirmed_by": [],
+      "id": "carmen-cernjul-vill-bli-f-rsta-svenska-p-36-r-det-jag-dr-mmer-om"
+    },
+    {
       "published_at": "2026-07-31T23:55:28+00:00",
       "updated_at": "2026-07-31T23:55:28+00:00",
       "title": "Fifa backar – ska inte längre sälja VM-andelar",
-      "summary": "Fifa drar tillbaka förslaget om att sälja VM-andelar till riskkapitalbolag. Beskedet kommer efter att många förbund hotat att bojkotta mästerskapet",
+      "summary": "Fifa drar tillbaka förslaget om att sälja VM-andelar till riskkapitalbolag. Beskedet kommer efter att många förbund hotat att bojkotta mästerskapet. – Vi kommer inte att gå vidare med förslaget, säger Gianni Infantino",
       "category": [
         "Sverige"
       ],
@@ -1087,33 +1141,6 @@
       "id": "kajsa-bergqvist-om-grete-ahlbergs-v-g-tillbaka-inspirerande"
     },
     {
-      "published_at": "2026-07-31T07:17:21+00:00",
-      "updated_at": "2026-07-31T07:17:21+00:00",
-      "title": "Skandal på VM i styrkelyft – funktionär stängs av efter sabotage och rasistattack",
-      "summary": "En stor skandal har blossat upp efter VM i styrkelyft. Guldmedaljören Sonita Muluh, 30, blev hindrad av en funktionär – som själv erkänner sabotaget på sociala medier. ”Jag är rasist och jag gjorde det med flit”, skriver funktionären enligt HLN",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.28/0.75/f68492196f09cec95b2e741dde6be363c44368a3bcce1944e480ba9e794f1c62",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/styrkelyft/skandal-pa-vm-i-styrkelyft-funktionar-stangs-av-efter-sabotage-och-rasistattack"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/styrkelyft/skandal-pa-vm-i-styrkelyft-funktionar-stangs-av-efter-sabotage-och-rasistattack"
-      },
-      "confirmed_by": [],
-      "id": "skandal-p-vm-i-styrkelyft-funktion-r-st-ngs-av-efter-sabotage-och-rasistattack"
-    },
-    {
       "published_at": "2026-07-31T22:00:00+00:00",
       "updated_at": "2026-07-31T22:00:00+00:00",
       "title": "Brentford latest: Sangare completes medical ahead of £39m move from Lens",
@@ -1198,33 +1225,6 @@
       "id": "tottenham-latest-de-zerbi-promises-more-signings-and-reveals-maddison-injury"
     },
     {
-      "published_at": "2026-07-31T22:00:00+00:00",
-      "updated_at": "2026-07-31T22:00:00+00:00",
-      "title": "New Rangers era gets off to underwhelming start at Dundee United",
-      "summary": "Rangers got the Derek McInnes era off to a stuttering start as they were forced to come from behind to earn a draw at Dundee United in the opening game of the Scottish Premiership season",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-derek-mcinnes-rangers_7311498.jpg?20260731210153",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/dundee-united-vs-rangers/report/558333"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/dundee-united-vs-rangers/report/558333"
-      },
-      "confirmed_by": [],
-      "id": "new-rangers-era-gets-off-to-underwhelming-start-at-dundee-united"
-    },
-    {
       "published_at": "2026-07-30T14:55:40+00:00",
       "updated_at": "2026-07-30T14:55:40+00:00",
       "title": "\"Londonderby - nu kan Spurs rädda kontraktet\"",
@@ -1250,33 +1250,6 @@
       },
       "confirmed_by": [],
       "id": "londonderby-nu-kan-spurs-r-dda-kontraktet"
-    },
-    {
-      "published_at": "2026-07-27T05:11:00+00:00",
-      "updated_at": "2026-07-27T05:11:00+00:00",
-      "title": "Bästa VM-truppen på decennier – svårtydaste förutsättningarna någonsin",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "b-sta-vm-truppen-p-decennier-sv-rtydaste-f-ruts-ttningarna-n-gonsin"
     },
     {
       "published_at": "2026-07-31T21:01:23+00:00",
