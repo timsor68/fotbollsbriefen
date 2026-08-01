@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T23:01:23.445867+00:00",
+  "updated_at": "2026-08-01T02:52:49.601124+00:00",
   "items": [
     {
       "published_at": "2026-07-31T14:28:00+00:00",
@@ -45,6 +45,80 @@
         }
       ],
       "id": "chelsea-handed-10m-fine-and-suspended-transfer-ban"
+    },
+    {
+      "published_at": "2026-07-31T23:45:21+00:00",
+      "updated_at": "2026-07-31T23:45:21+00:00",
+      "title": "Dundee Utd & Rangers open season with Friday draw - watch",
+      "summary": "Thelo Aasgaard earned Derek McInnes his first point as Rangers manager as they fought back for a 1-1 draw against Dundee United. Lachlan Rose struck the first goal of the Premiership season to give United a half-time lead at Tannadice.",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/b1d8/live/aa3f6db0-8d36-11f1-a7ab-8b30adf0800a.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c62enlg40j5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/31/dundee-united-rangers-scottish-premiership-match-report"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c62enlg40j5o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/31/dundee-united-rangers-scottish-premiership-match-report"
+        }
+      ],
+      "id": "dundee-utd-rangers-open-season-with-friday-draw-watch"
+    },
+    {
+      "published_at": "2026-07-31T16:52:15+00:00",
+      "updated_at": "2026-07-31T16:52:15+00:00",
+      "title": "Chelsea sign Italy's Dragoni from Barcelona",
+      "summary": "Chelsea sign Italy attacking midfielder Giulia Dragoni from Barcelona on a four-year contract",
+      "category": [
+        "Premier League",
+        "La Liga",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/57ce/live/423f4d70-8cff-11f1-9a29-416a24547568.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cy745m20827o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cy745m20827o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest"
+        }
+      ],
+      "id": "chelsea-sign-italy-s-dragoni-from-barcelona"
     },
     {
       "published_at": "2026-07-31T15:59:06+00:00",
@@ -184,35 +258,6 @@
       "id": "bowie-makes-loan-switch-to-serie-a-side-sassuolo"
     },
     {
-      "published_at": "2026-07-31T16:52:15+00:00",
-      "updated_at": "2026-07-31T16:52:15+00:00",
-      "title": "Chelsea sign Italy's Dragoni from Barcelona",
-      "summary": "Chelsea sign Italy attacking midfielder Giulia Dragoni from Barcelona on a four-year contract",
-      "category": [
-        "Premier League",
-        "La Liga",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/57ce/live/423f4d70-8cff-11f1-9a29-416a24547568.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cy745m20827o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cy745m20827o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "chelsea-sign-italy-s-dragoni-from-barcelona"
-    },
-    {
       "published_at": "2026-07-31T16:09:53+00:00",
       "updated_at": "2026-07-31T16:09:53+00:00",
       "title": "Newcastle confirm Howe resignation as head coach",
@@ -299,37 +344,10 @@
       "id": "celtic-reject-west-ham-engels-bid-and-confirm-johnston-interest"
     },
     {
-      "published_at": "2026-07-31T13:56:28+00:00",
-      "updated_at": "2026-07-31T13:56:28+00:00",
-      "title": "Eckert will be happy when FA reaches Spygate verdict",
-      "summary": "Southampton head coach Tonda Eckert says the looming FA charge over the Spygate scandal is on his mind as he awaits a verdict",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e38e/live/d598e590-8ce6-11f1-a65d-4f54e31f4a67.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cg4dx1xpleyo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cg4dx1xpleyo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "eckert-will-be-happy-when-fa-reaches-spygate-verdict"
-    },
-    {
-      "published_at": "2026-07-31T21:58:49+00:00",
-      "updated_at": "2026-07-31T21:58:49+00:00",
-      "title": "Aasgaard strikes as Rangers start McInnes era with draw at Dundee United",
-      "summary": "Thelo Aasgaard earned Derek McInnes his first point as Rangers manager as they fought back for a 1-1 draw against Dundee United. Lachlan Rose struck the first goal of the Premiership season to give United a half-time lead at Tannadice.",
+      "published_at": "2026-07-31T14:25:52+00:00",
+      "updated_at": "2026-07-31T14:25:52+00:00",
+      "title": "Football Daily | Will Gianni Infantino survive as Fifa president?",
+      "summary": "You have to hand it to Gianni Infantino, his timing was impeccable. After the relative on-field success of the Geopolitics World Cup, Fifa’s omnipresent overlord knew he had to strike while the iron was hot. There would be a small gap in the news cycle.",
       "category": [
         "Football"
       ],
@@ -337,29 +355,65 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-derek-mcinnes-rangers_7311498.jpg?20260731210153",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-fifa-football-gianni-infantino_7310907.jpg?20260731075152",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/dundee-united-vs-rangers/report/558333"
+          "url": "https://www.skysports.com/football/news/11095/13568656/fifa-insists-nobody-is-selling-football-after-uefa-threatens-to-boycott-tournaments-if-plans-to-sell-off-stake-in-world-cup-go-ahead"
         },
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/31/dundee-united-rangers-scottish-premiership-match-report"
+          "url": "https://www.theguardian.com/football/2026/jul/31/football-daily-email-gianni-infantino-fifa"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/dundee-united-vs-rangers/report/558333"
+        "url": "https://www.skysports.com/football/news/11095/13568656/fifa-insists-nobody-is-selling-football-after-uefa-threatens-to-boycott-tournaments-if-plans-to-sell-off-stake-in-world-cup-go-ahead"
       },
       "confirmed_by": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/31/dundee-united-rangers-scottish-premiership-match-report"
+          "url": "https://www.theguardian.com/football/2026/jul/31/football-daily-email-gianni-infantino-fifa"
         }
       ],
-      "id": "aasgaard-strikes-as-rangers-start-mcinnes-era-with-draw-at-dundee-united"
+      "id": "football-daily-will-gianni-infantino-survive-as-fifa-president"
+    },
+    {
+      "published_at": "2026-07-28T19:00:11+00:00",
+      "updated_at": "2026-07-28T19:00:11+00:00",
+      "title": "Retaining Rodri is key to Manchester City success under Enzo Maresca",
+      "summary": "New manager’s No 1 priority must be to persuade World Cup-winning captain to stay as Real Madrid circle “Welcome home,” was Khaldoon al-Mubarak’s warm greeting to Enzo Maresca on his appointment last month as Manchester City manager. Now, after two previous spells at the club, the Italian’s task is to keep the chair content, and ensure a three-year contract does not end early. To achieve that, Maresca’s tenure must continue Pep Guardiola’s glittering legacy of 20 trophies across a decade of excellence.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-enzo-maresca-man-city_7285824.jpg?20260629153129",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/28/retaining-rodri-is-key-to-manchester-city-success-under-enzo-maresca"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/28/retaining-rodri-is-key-to-manchester-city-success-under-enzo-maresca"
+        }
+      ],
+      "id": "retaining-rodri-is-key-to-manchester-city-success-under-enzo-maresca"
     },
     {
       "published_at": "2026-07-31T23:30:00+00:00",
@@ -462,33 +516,6 @@
       "id": "ifk-g-teborg-vidare-i-conference-league-kvalet-trots-dubbla-straffmissar"
     },
     {
-      "published_at": "2026-07-31T18:05:02+00:00",
-      "updated_at": "2026-07-31T18:05:02+00:00",
-      "title": "Infantino under huge pressure after plan for World Cup sell-off sparks resignation and rebuke",
-      "summary": "Cordeiro quits as senior adviser to Fifa president Lamour: sell-off plan ‘defies belief and imagination’ The walls started closing in on Gianni Infantino after another dramatic day that saw one of his senior advisers resign and brought a scathing rebuke from Fifa’s own chief operating officer. Infantino is under huge pressure after his plan to sell chunks of the World Cup to private investors met a tide of opposition from around the globe. European countries have already promised to boycott Fifa competitions if he does not shelve the scheme but Friday’s developments, which led to two key members of his inner circle distancing themselves from him, may prove equally damaging to any prospects of salvaging his presidency.",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/dcece4aecb61c8da39e8f03c7af561a7b8d3b974/778_0_3363_2691/master/3363.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a38dfc889d49597afb8982249dbcccac",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/31/infantino-under-huge-pressure-after-plan-for-world-cup-sell-off-sparks-resignation-and-rebuke"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/31/infantino-under-huge-pressure-after-plan-for-world-cup-sell-off-sparks-resignation-and-rebuke"
-      },
-      "confirmed_by": [],
-      "id": "infantino-under-huge-pressure-after-plan-for-world-cup-sell-off-sparks-resignation-and-reb"
-    },
-    {
       "published_at": "2026-07-31T18:01:46+00:00",
       "updated_at": "2026-07-31T18:01:46+00:00",
       "title": "Inter make new approach to Liverpool for Curtis Jones with £30m offer likely",
@@ -515,6 +542,33 @@
       },
       "confirmed_by": [],
       "id": "inter-make-new-approach-to-liverpool-for-curtis-jones-with-30m-offer-likely"
+    },
+    {
+      "published_at": "2026-07-31T17:31:08+00:00",
+      "updated_at": "2026-07-31T17:31:08+00:00",
+      "title": "Franco Baresi obituary",
+      "summary": "Italian footballer who captained AC Milan for 15 of his 20 seasons, a period of unprecedented success for the club At a time when Italian football was known for the excellence of its defensive systems, Franco Baresi , who has died aged 66 after a period of ill health, embodied its most prized qualities. Whether with AC Milan, his only club during his two decades as a professional, or Italy, with whom he reached the 1994 World Cup final, he was a stylish, quick-witted, unflappable and commanding presence, primus inter pares alongside distinguished colleagues. Captaining Milan for 15 of his 20 seasons at San Siro, he won the European Cup twice and the Serie A championship six times, a key figure alongside such glittering names as Gianni Rivera, Ruud Gullit, Paolo Maldini , Marco van Basten , Dejan Savićević, Carlo Ancelotti, George Weah and",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/69d2df9018a787736795fda221873db9e182cc08/87_0_2217_1773/master/2217.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c2ac9492b22eee3cb93c97ae049b6cb3",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/31/franco-baresi-obituary"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/31/franco-baresi-obituary"
+      },
+      "confirmed_by": [],
+      "id": "franco-baresi-obituary"
     },
     {
       "published_at": "2026-07-31T16:17:20+00:00",
@@ -569,33 +623,6 @@
       },
       "confirmed_by": [],
       "id": "how-does-mls-pick-up-the-world-cup-mantle-casemiro-helps-but-it-ll-take-much-more"
-    },
-    {
-      "published_at": "2026-07-31T10:54:10+00:00",
-      "updated_at": "2026-07-31T10:54:10+00:00",
-      "title": "Uefa has formed a rare but fragile united front against Fifa in battle for football’s future | Nick Ames and Matt Hughes",
-      "summary": "Emerging from this week with unity over Fifa’s World Cup sell off was quite an acheivement but Europe cannot rest on its laurels It was a phrase not always heard when Europe’s football associations discuss a pressing issue. “Touchingly unanimous,” was the assessment of a senior Uefa executive within moments of Thursday afternoon’s seismic decision to boycott Fifa tournaments unless Gianni Infantino scraps his private investment plan. United fronts on this scale are vanishingly rare and there is now a narrow window in which to make it count.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/fb92913ee9623f7bda70b61fd690e62544b06db2/463_190_3545_2836/master/3545.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1e82b800dc848a9c5c6918a42ebe225e",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/31/uefa-fifa-battle-for-football-future-world-cup-infantino"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/31/uefa-fifa-battle-for-football-future-world-cup-infantino"
-      },
-      "confirmed_by": [],
-      "id": "uefa-has-formed-a-rare-but-fragile-united-front-against-fifa-in-battle-for-football-s-futu"
     },
     {
       "published_at": "2026-07-31T07:00:07+00:00",
@@ -679,33 +706,6 @@
       "id": "toon-turnover-the-stats-behind-eddie-howe-s-highs-and-lows-at-newcastle"
     },
     {
-      "published_at": "2026-07-30T13:04:14+00:00",
-      "updated_at": "2026-07-30T13:04:14+00:00",
-      "title": "Fifa’s sale of the century: how Kushners and Trump are at centre of a tangled web",
-      "summary": "Joshua Kushner is now the kingpin in driving the sale of the World Cup to investors and family ties are tight around the project It isn’t just football fans and Uefa executives who want to give Gianni Infantino the red card for his plan to sell off 20% of the World Cup to a privately backed commercial enterprise. The Fifa president is also in the crosshairs of the House of Representatives Judiciary Committee in Washington and ranking Democrat member Jamie Raskin. Infantino’s plan, which is backed by Joshua Kushner’s investment fund, has, for some observers, president Trump’s sticky fingers all over it.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/37a0831c4562f5276a58673f77cce55c899afbca/477_128_1615_1293/master/1615.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b2f36813ed7e250eab4580fc2d391389",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/30/fifas-sale-of-the-century-how-kushners-and-trump-are-at-centre-of-a-tangled-web"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/30/fifas-sale-of-the-century-how-kushners-and-trump-are-at-centre-of-a-tangled-web"
-      },
-      "confirmed_by": [],
-      "id": "fifa-s-sale-of-the-century-how-kushners-and-trump-are-at-centre-of-a-tangled-web"
-    },
-    {
       "published_at": "2026-07-29T18:06:08+00:00",
       "updated_at": "2026-07-29T18:06:08+00:00",
       "title": "‘I’m very sorry’: Mancini apologises after being reappointed as Italy head coach",
@@ -731,6 +731,61 @@
       },
       "confirmed_by": [],
       "id": "i-m-very-sorry-mancini-apologises-after-being-reappointed-as-italy-head-coach"
+    },
+    {
+      "published_at": "2026-07-29T15:45:40+00:00",
+      "updated_at": "2026-07-29T15:45:40+00:00",
+      "title": "USMNT coach Mauricio Pochettino, US Soccer in ‘final stages’ of agreeing on new contract",
+      "summary": "Deal would extend Argentinian through 2030 World Cup Coach would stand to earn ‘significantly’ more Pochettino’s tenure has been mixed bag of results USMNT head coach Mauricio Pochettino and US Soccer are “in the final stages” of finalizing an agreement for a new contract through the 2030 World Cup, multiple sources briefed on ongoing negotiations have told the Guardian. Those sources requested anonymity because they were not authorized to speak on the matter. Pochettino was brought on as US head coach in September 2024, tapped to lead the team through the 2026 World Cup, where the Americans suffered a disappointing exit in the last 16.",
+      "category": [
+        "Transfer",
+        "Coach"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/a6c468de7d99b8afeeb92e5009241b902369919c/307_0_4264_3414/master/4264.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f6feb151865ec8d664899910f596bc1f",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/29/mauricio-pochettino-us-soccer-contract-status"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/29/mauricio-pochettino-us-soccer-contract-status"
+      },
+      "confirmed_by": [],
+      "id": "usmnt-coach-mauricio-pochettino-us-soccer-in-final-stages-of-agreeing-on-new-contract"
+    },
+    {
+      "published_at": "2026-07-29T14:05:09+00:00",
+      "updated_at": "2026-07-29T14:05:09+00:00",
+      "title": "Defence promises to be a central issue for Carrick and Manchester United",
+      "summary": "Manager may have concerns over his group of five central defenders withstanding the demands of a long campaign Manchester United’s central defender quintet of Leny Yoro, Ayden Heaven, Harry Maguire, Matthijs De Ligt and Lisandro Martínez: an ideal blend of youthful zest and experienced winners or a unit that may prove vulnerable and injury-prone across the long months of the campaign? In Yoro, Heaven, Maguire, De Ligt, and Martínez, Michael Carrick can talk of high potential and seasoned operators who will patrol the manager’s backline safely. Except it would be understandable if the 45-year-old privately has any concerns about the five defenders, as a unit, especially as there is no plan to strengthen the position unless one (or more) departs.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://i.guim.co.uk/img/media/e00ef50d6b6adffc96ad76feedd30bfe2a72ed6a/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3e91e401de6e20ab67dff2e9562f543c",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/29/manchester-united-michael-carrick-central-defence-premier-league"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/29/manchester-united-michael-carrick-central-defence-premier-league"
+      },
+      "confirmed_by": [],
+      "id": "defence-promises-to-be-a-central-issue-for-carrick-and-manchester-united"
     },
     {
       "published_at": "2026-07-31T12:01:00+00:00",
@@ -841,6 +896,33 @@
       },
       "confirmed_by": [],
       "id": "inf-r-bp-vs-bajen"
+    },
+    {
+      "published_at": "2026-07-31T23:55:28+00:00",
+      "updated_at": "2026-07-31T23:55:28+00:00",
+      "title": "Fifa backar – ska inte längre sälja VM-andelar",
+      "summary": "Fifa drar tillbaka förslaget om att sälja VM-andelar till riskkapitalbolag. Beskedet kommer efter att många förbund hotat att bojkotta mästerskapet",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.53/0.58/5375e6bb22c875be0e603f4c089d1ed65f4946452f88465739b8e8dad2157a54",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/fifa-backar-ska-inte-langre-salja-vm-andelar"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/fifa-backar-ska-inte-langre-salja-vm-andelar"
+      },
+      "confirmed_by": [],
+      "id": "fifa-backar-ska-inte-l-ngre-s-lja-vm-andelar"
     },
     {
       "published_at": "2026-07-31T18:48:09+00:00",
@@ -1032,33 +1114,6 @@
       "id": "skandal-p-vm-i-styrkelyft-funktion-r-st-ngs-av-efter-sabotage-och-rasistattack"
     },
     {
-      "published_at": "2026-07-31T05:57:57+00:00",
-      "updated_at": "2026-07-31T05:57:57+00:00",
-      "title": "Fotbollslegendaren Franco Baresi död – blev 66 år gammal",
-      "summary": "Franco Baresi är död, det meddelar AC Milan. Fotbollslegendaren blev 66 år gammal. ”Hur ska vi klara oss utan vår kapten?”, skriver en annan Milan-ikon, Paolo Maldini på Instagram",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.4/0.42/9de354b391681de2f58e6e0d910ee8d0b96b1d56c13b354818be7fce042dbdde",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/fotbollslegendaren-franco-baresi-dod-blev-66-ar-gammal"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/fotbollslegendaren-franco-baresi-dod-blev-66-ar-gammal"
-      },
-      "confirmed_by": [],
-      "id": "fotbollslegendaren-franco-baresi-d-d-blev-66-r-gammal"
-    },
-    {
       "published_at": "2026-07-31T22:00:00+00:00",
       "updated_at": "2026-07-31T22:00:00+00:00",
       "title": "Brentford latest: Sangare completes medical ahead of £39m move from Lens",
@@ -1143,31 +1198,31 @@
       "id": "tottenham-latest-de-zerbi-promises-more-signings-and-reveals-maddison-injury"
     },
     {
-      "published_at": "2026-07-31T14:38:00+00:00",
-      "updated_at": "2026-07-31T14:38:00+00:00",
-      "title": "Man City latest: No talks about Rodri's future, says Maresca",
-      "summary": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "published_at": "2026-07-31T22:00:00+00:00",
+      "updated_at": "2026-07-31T22:00:00+00:00",
+      "title": "New Rangers era gets off to underwhelming start at Dundee United",
+      "summary": "Rangers got the Derek McInnes era off to a stuttering start as they were forced to come from behind to earn a draw at Dundee United in the opening game of the Scottish Premiership season",
       "category": [
-        "Transfer"
+        "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://e0.365dm.com/26/06/1600x900/skysports-enzo-maresca-man-city_7285824.jpg?20260629153129",
+      "club": "",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-derek-mcinnes-rangers_7311498.jpg?20260731210153",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "url": "https://www.skysports.com/football/dundee-united-vs-rangers/report/558333"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "url": "https://www.skysports.com/football/dundee-united-vs-rangers/report/558333"
       },
       "confirmed_by": [],
-      "id": "man-city-latest-no-talks-about-rodri-s-future-says-maresca"
+      "id": "new-rangers-era-gets-off-to-underwhelming-start-at-dundee-united"
     },
     {
       "published_at": "2026-07-30T14:55:40+00:00",
@@ -1466,33 +1521,6 @@
       },
       "confirmed_by": [],
       "id": "leeds-latest-ajax-beat-farke-s-side-to-signing-of-brandt"
-    },
-    {
-      "published_at": "2026-07-31T19:44:00+00:00",
-      "updated_at": "2026-07-31T19:44:00+00:00",
-      "title": "Trump denies talking to Infantino over contentious World Cup plans",
-      "summary": "World Cup 2026 news and live updates - USA, Canada and Mexico latest including Trump, tickets and fans",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-donald-trump-gianni-infantino_7291301.jpg?20260706154956",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans"
-      },
-      "confirmed_by": [],
-      "id": "trump-denies-talking-to-infantino-over-contentious-world-cup-plans"
     }
   ]
 }
