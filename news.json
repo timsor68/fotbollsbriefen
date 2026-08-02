@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T15:02:59.686715+00:00",
+  "updated_at": "2026-08-02T17:00:05.057928+00:00",
   "items": [
     {
       "published_at": "2026-08-01T16:53:12+00:00",
@@ -248,35 +248,6 @@
       "id": "newcastle-confirm-howe-resignation-as-head-coach"
     },
     {
-      "published_at": "2026-07-31T14:15:10+00:00",
-      "updated_at": "2026-07-31T14:15:10+00:00",
-      "title": "Celtic reject West Ham Engels bid and confirm Johnston interest",
-      "summary": "Celtic reject a West Ham approach for Arne Engels while there is Everton interest in Alistair Johnston, manager Martin O'Neill confirms",
-      "category": [
-        "Premier League",
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4677/live/dd247a60-8ce9-11f1-b1ae-d9d901a2754c.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c3r04pdlw22o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3r04pdlw22o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "celtic-reject-west-ham-engels-bid-and-confirm-johnston-interest"
-    },
-    {
       "published_at": "2026-07-31T08:09:34+00:00",
       "updated_at": "2026-07-31T08:09:34+00:00",
       "title": "Beever-Jones ready to 'conquer' new season after injury troubles last term",
@@ -302,6 +273,33 @@
       },
       "confirmed_by": [],
       "id": "beever-jones-ready-to-conquer-new-season-after-injury-troubles-last-term"
+    },
+    {
+      "published_at": "2026-07-30T15:10:54+00:00",
+      "updated_at": "2026-07-30T15:10:54+00:00",
+      "title": "Challenging times ahead for Newcastle - Shearer",
+      "summary": "MOTD pundit and Newcastle United legend Alan Shearer explains why he is worried about what will happen next at his old club after the departure of manager Eddie Howe",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/70a9/live/1c667320-8c29-11f1-9488-69577cd5e4e0.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cd0xvpmny55o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cd0xvpmny55o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "challenging-times-ahead-for-newcastle-shearer"
     },
     {
       "published_at": "2026-08-02T11:32:18+00:00",
@@ -366,6 +364,42 @@
         }
       ],
       "id": "arsenal-target-bruno-guimar-es-not-on-newcastle-s-flight-to-pre-season-camp"
+    },
+    {
+      "published_at": "2026-07-29T07:00:25+00:00",
+      "updated_at": "2026-07-29T07:00:25+00:00",
+      "title": "Where all 20 Premier League clubs should strengthen before the season",
+      "summary": "Manchester United and Arsenal need midfielders, Liverpool should sign a winger and Chelsea require a goalkeeper By Opta Analyst Declan Rice was worked to the bone by Arsenal last season, playing 4,456 minutes in all competitions. This showed at points during the World Cup, when the midfielder’s body looked on the verge of breaking down. Arsenal need high-quality reinforcements in the centre of the pitch so Rice can occasionally have a rest.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/02/1600x900/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/29/premier-league-clubs-strengthen-season-manchester-united-arsenal-midfielders-city-liverpool-chelsea"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/29/premier-league-clubs-strengthen-season-manchester-united-arsenal-midfielders-city-liverpool-chelsea"
+        }
+      ],
+      "id": "where-all-20-premier-league-clubs-should-strengthen-before-the-season"
     },
     {
       "published_at": "2026-08-01T22:45:00+00:00",
@@ -462,7 +496,7 @@
       "published_at": "2026-08-02T07:00:15+00:00",
       "updated_at": "2026-08-02T07:00:15+00:00",
       "title": "Gianni Infantino could face leadership challenge as Fifa council members rebel",
-      "summary": "Council wants to trigger emergency general meeting Members demand review of Balogun decision Gianni Infantino is facing a rebellion from members of the Fifa council who are attempting to force an extraordinary general meeting (EGM) that could develop into a full blown leadership challenge. The Guardian has learned that moves to call an EGM were already under way before the emergence of Infantino’s abortive plan to sell off stakes in the World Cup, with council members demanding an independent review into the unprecedented decision to lift Folarin Balogun’s suspension during the World Cup, which involved multiple phone calls from Donald Trump.",
+      "summary": "Council wants to trigger emergency general meeting Members demand review of Balogun decision Gianni Infantino is facing a rebellion from members of the Fifa council who are attempting to force an extraordinary general meeting (EGM) that could develop into a full-blown leadership challenge. The Guardian has learned that moves to call an EGM were already under way before the emergence of Infantino’s abortive plan to sell off stakes in the World Cup, with council members demanding an independent review into the unprecedented decision to lift Folarin Balogun’s suspension during the World Cup, which involved multiple phone calls from Donald Trump.",
       "category": [
         "Football"
       ],
@@ -786,6 +820,96 @@
       "id": "stefan-billborn-l-mnar-ifk-g-teborg"
     },
     {
+      "published_at": "2026-08-02T16:15:00+00:00",
+      "updated_at": "2026-08-02T16:15:00+00:00",
+      "title": "St Johnstone edge Kilmarnock in seven-goal thriller",
+      "summary": "Two stoppage-time goals secure 2-1 win at Pittodrie St Johnstone fight back to beat Kilmarnock 4-3 Hearts’ miserable summer continued as they conceded two late goals to lose 2-1 to Aberdeen in their Premiership opener at Pittodrie. Wouter Vrancken and Hearts looked on course for a much-needed victory after a turbulent few months as they led through Oisin McEntee’s first-half goal. But just as they looked to be closing out a first win at Pittodrie for more than a decade, Lewis Mayo equalised in the 90th minute before Kevin Nisbet won it for Aberdeen with a stoppage-time penalty after Stuart Findlay was sent off for denying a goal-scoring opportunity.",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-kai-fotheringham_7312324.jpg?20260802172100",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/st-johnstone-vs-kilmarnock/report/558337"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/01/scottish-premiership-aberdeen-hearts-falkirk-st-mirren"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/st-johnstone-vs-kilmarnock/report/558337"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/01/scottish-premiership-aberdeen-hearts-falkirk-st-mirren"
+        }
+      ],
+      "id": "st-johnstone-edge-kilmarnock-in-seven-goal-thriller"
+    },
+    {
+      "published_at": "2026-08-02T16:20:40+00:00",
+      "updated_at": "2026-08-02T16:20:40+00:00",
+      "title": "Noah Christofferssons hattrick sänkte AIK",
+      "summary": "Noah Christoffersson bjöd på stor show mot AIK. Örgryte-anfallaren stänkte in ett hattrick på Nationalarenan",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.71/0.33/d1bc28b104f8152013d81dc2f6fc35ba6a2b95efe1d5146ac3eabff995605833",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/noah-christofferssons-hattrick-sankte-aik"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/noah-christofferssons-hattrick-sankte-aik"
+      },
+      "confirmed_by": [],
+      "id": "noah-christofferssons-hattrick-s-nkte-aik"
+    },
+    {
+      "published_at": "2026-08-02T16:05:36+00:00",
+      "updated_at": "2026-08-02T16:05:36+00:00",
+      "title": "Sam Larsson om straffarna: ”Tänkte att han går dit igen”",
+      "summary": "Första straffen gick i mål men fick tas om. Andra straffen gick i mål men behövde inte tas om. IFK Göteborgs Sam Larsson blev hjälte i ångestmötet mot Degerfors.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.81/0.41/a27694ea49a8712f59c59416c14507bc1fe2db87767b0c2d5ba0252ffab4085b",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/sam-larsson-om-straffarna-tankte-att-han-gar-dit-igen"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/sam-larsson-om-straffarna-tankte-att-han-gar-dit-igen"
+      },
+      "confirmed_by": [],
+      "id": "sam-larsson-om-straffarna-t-nkte-att-han-g-r-dit-igen"
+    },
+    {
       "published_at": "2026-08-02T13:53:01+00:00",
       "updated_at": "2026-08-02T13:53:01+00:00",
       "title": "Garcia sen matchhjälte när MFF bortaslog BP",
@@ -948,60 +1072,6 @@
       "id": "melwin-lycke-holm-om-reaktionerna-efter-em-platsen"
     },
     {
-      "published_at": "2026-08-01T16:10:59+00:00",
-      "updated_at": "2026-08-01T16:10:59+00:00",
-      "title": "Otäck krasch i finländska VM-rallyt – stjärnföraren till sjukhus",
-      "summary": "Den flerfaldiga världsmästaren Sébastien Ogier var i ledning inför lördagens näst sista specialsträcka. Då kraschade fransmannen våldsamt och sträckan avbröts. ”Vi båda mår okej vilket är det viktigaste”, skriver Ogier på sin Instagram",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/d1b164bfd6463c0b34b27fc7d43060e0e18d6911ffb88cc9f148235284309d8a",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/rally/otack-krasch-i-finlandska-vm-rallyt-stjarnforaren-till-sjukhus"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/rally/otack-krasch-i-finlandska-vm-rallyt-stjarnforaren-till-sjukhus"
-      },
-      "confirmed_by": [],
-      "id": "ot-ck-krasch-i-finl-ndska-vm-rallyt-stj-rnf-raren-till-sjukhus"
-    },
-    {
-      "published_at": "2026-08-01T14:57:48+00:00",
-      "updated_at": "2026-08-01T14:57:48+00:00",
-      "title": "Här är alla turer kring Infantinos kontroversiella förslag",
-      "summary": "Fifa backar från förslaget att sälja andelar av VM. Få alla turer kring Gianni Infantinos kontroversiella utspel i spelaren ovan",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.49/0.19/95710ced54d13e5b9316625a1e6ce7ebc4bb0e07eb313fc2cec1e804892daf71",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/har-ar-alla-turer-kring-infantinos-kontroversiella-forslag"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/har-ar-alla-turer-kring-infantinos-kontroversiella-forslag"
-      },
-      "confirmed_by": [],
-      "id": "h-r-r-alla-turer-kring-infantinos-kontroversiella-f-rslag"
-    },
-    {
       "published_at": "2026-08-02T12:00:00+00:00",
       "updated_at": "2026-08-02T12:00:00+00:00",
       "title": "Bournemouth latest: Cherries agree deal to sign right-back",
@@ -1056,34 +1126,6 @@
       },
       "confirmed_by": [],
       "id": "tottenham-latest-juventus-eye-loan-move-for-vicario"
-    },
-    {
-      "published_at": "2026-08-01T23:00:00+00:00",
-      "updated_at": "2026-08-01T23:00:00+00:00",
-      "title": "Everton latest: Toffees agree £7m deal to sign Arsenal's Norgaard",
-      "summary": "Everton transfers, latest news, rumours and gossip: Live updates, goals and highlights",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/25/10/1600x900/skysports-everton-news-club_7039252.jpg?20251002160124",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-      },
-      "confirmed_by": [],
-      "id": "everton-latest-toffees-agree-7m-deal-to-sign-arsenal-s-norgaard"
     },
     {
       "published_at": "2026-08-01T20:55:00+00:00",
@@ -1196,8 +1238,37 @@
       "id": "welbeck-completes-move-to-chelsea"
     },
     {
-      "published_at": "2026-08-01T23:36:38+00:00",
-      "updated_at": "2026-08-01T23:36:38+00:00",
+      "published_at": "2026-08-02T04:31:30+00:00",
+      "updated_at": "2026-08-02T04:31:30+00:00",
+      "title": "Experten: \"Därför vinner PSG mot Arsenal i CL-finalen\"",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige",
+        "Premier League",
+        "Ligue 1"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "experten-d-rf-r-vinner-psg-mot-arsenal-i-cl-finalen"
+    },
+    {
+      "published_at": "2026-08-02T04:02:18+00:00",
+      "updated_at": "2026-08-02T04:02:18+00:00",
       "title": "\"Upplagt för historisk skräll för Norge mot ett darrigt England\"",
       "summary": "Read the full report at Fotbollskanalen.",
       "category": [
@@ -1331,6 +1402,87 @@
       "id": "kouame-och-ayari-klev-av-skadade"
     },
     {
+      "published_at": "2026-08-02T16:56:34+00:00",
+      "updated_at": "2026-08-02T16:56:34+00:00",
+      "title": "ÖIS upp på kvalplats efter 3-0 mot AIK!",
+      "summary": "ÖIS gjorde en prickfri insats mot AIK och besegrade Stockholmslaget med hela 3-0. Spelarna slet för emblemet, stod rätt i positionerna och agerade taktiskt mycket smart och kunde därför ta med sig 3 mycket viktiga poäng hem till Göteborg",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/MYdGjW1XLVERqBVlsT8PWldcNW7VqSIk6xToRD6F.png",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/ois-upp-pa-kvalplats-efter-3-0-mot-aik-698717"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/ois-upp-pa-kvalplats-efter-3-0-mot-aik-698717"
+      },
+      "confirmed_by": [],
+      "id": "is-upp-p-kvalplats-efter-3-0-mot-aik"
+    },
+    {
+      "published_at": "2026-08-02T16:24:00+00:00",
+      "updated_at": "2026-08-02T16:24:00+00:00",
+      "title": "Christoffersson sänkte AIK – jämförs med Haaland",
+      "summary": "Noah Cristoffersson blev stor hjälte för Örgryte i skrällsegern borta mot AIK. 27-åringen stod för ett hattrick när ”Gnaget” besegrades med 3–0 på Strawberry Arena. Då lät hyllningarna inte vänta på sig inne i Öis-forumet på SvenskaFans",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "erling-haaland",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/I35u0miBHLXAbOkV9pAJYDaJl6rbzArZwXtsfbPI.png",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/christoffersson-sankte-aik-jamfors-med-haaland-698716"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/christoffersson-sankte-aik-jamfors-med-haaland-698716"
+      },
+      "confirmed_by": [],
+      "id": "christoffersson-s-nkte-aik-j-mf-rs-med-haaland"
+    },
+    {
+      "published_at": "2026-08-02T15:31:04+00:00",
+      "updated_at": "2026-08-02T15:31:04+00:00",
+      "title": "Björklund stöttar Billborn efter kaosveckan: ”Min bästa vän”",
+      "summary": "Joachim Björklund är ny chefstränare för IFK Göteborg sedan en vecka tillbaka. Efter att parhästen och kompisen Stefan Billborn fått sparken. – Det är inte rätt eller rättvist, säger Björklund efter segern mot Degerfors",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/oVcDBjQ2RqD1GwXC95X0l5Lhtbmo8gHDgVGMqiIE.png",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/bjorklund-stottar-billborn-min-basta-van-efter-kaosveckan-698715"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/bjorklund-stottar-billborn-min-basta-van-efter-kaosveckan-698715"
+      },
+      "confirmed_by": [],
+      "id": "bj-rklund-st-ttar-billborn-efter-kaosveckan-min-b-sta-v-n"
+    },
+    {
       "published_at": "2026-08-02T14:35:45+00:00",
       "updated_at": "2026-08-02T14:35:45+00:00",
       "title": "Spelarbetyg efter segern: ”Kliver fram i Kruses frånvaro”",
@@ -1388,7 +1540,7 @@
       "published_at": "2026-08-02T14:00:00+00:00",
       "updated_at": "2026-08-02T14:00:00+00:00",
       "title": "Fem snabba efter BP-MFF",
-      "summary": "Smärtsam förlust efter en blek insats från Malmö FF när Elfsborg vann med två mål mot ett",
+      "summary": "Domaren hade knappt hunnit blåsa igång matchen så fick BP en riktigt ruggig chans och jag hade i princip noterat 1-0 redan. Sen skapar Höög en straff och det kändes tryggt när Botheim gick fram mot bollen. Men, han straff var för löst slagen, så även om den var ganska välplacerad så kunde BP-målvakten rädda. Igår var jag och fick masserat bort ett gäng läskiga muskelknutor, men de återuppstod under matchens första tio minuter.",
       "category": [
         "Sverige"
       ],
@@ -1437,115 +1589,6 @@
       },
       "confirmed_by": [],
       "id": "inf-r-halmstad-bk-ik-sirius-botten-mot-toppen"
-    },
-    {
-      "published_at": "2026-08-02T13:00:00+00:00",
-      "updated_at": "2026-08-02T13:00:00+00:00",
-      "title": "Inför: Djurgårdens IF - Västerås SK",
-      "summary": "Efter en trevande och efterlängtad vinst borta mot Degerfors på Stora Valla senast rullar sommarmatcherna på. Djurgårdens IF, med tio inspelade poäng av tolv möjliga efter sommaruppehållet, ska vända hem till Stockholmsarenan och under måndagen ta emot säsongens bortglömda uppstickare Västerås. Forum 1891 ger er koll på det viktigaste",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/oBmRsR7yz12TwGTbxxbf9HVorChIkso7v6BYvwjs.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/infor-djurgardens-if-vasteras-sk-698708"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/infor-djurgardens-if-vasteras-sk-698708"
-      },
-      "confirmed_by": [],
-      "id": "inf-r-djurg-rdens-if-v-ster-s-sk"
-    },
-    {
-      "published_at": "2026-08-02T12:00:00+00:00",
-      "updated_at": "2026-08-02T12:00:00+00:00",
-      "title": "Inför Örebro SK - IFK Värnamo: Stormen kommer",
-      "summary": "Ännu en ödesmatch väntar för ÖSK när den oväntade bottenkonkurrenten Värnamo kommer på besök. Kan ÖSK besegra dem och hitta lite lugn eller kommer stormen skölja dem överbord? Och vems fel är det egentligen att vi befinner oss i denna situation?",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/0CTlKBieGX6q6SvfR38KcaP92k6Mb4UKDseVbHXj.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/infor-orebro-sk-ifk-varnamo-stormen-kommer-698706"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/infor-orebro-sk-ifk-varnamo-stormen-kommer-698706"
-      },
-      "confirmed_by": [],
-      "id": "inf-r-rebro-sk-ifk-v-rnamo-stormen-kommer"
-    },
-    {
-      "published_at": "2026-08-02T11:22:38+00:00",
-      "updated_at": "2026-08-02T11:22:38+00:00",
-      "title": "BP tar sig an Malmö – så startar lagen",
-      "summary": "Brommapojkarna tar emot Malmö FF på Grimsta IP i Allsvenskan. Se startelvorna, lagens förändringar och förutsättningarna inför söndagens match",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/MxEP6hrrr6JABEuqci113GK3iAVr02aAnwD3YYts.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/bp-tar-sig-an-malmo-sa-startar-lagen-698705"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/bp-tar-sig-an-malmo-sa-startar-lagen-698705"
-      },
-      "confirmed_by": [],
-      "id": "bp-tar-sig-an-malm-s-startar-lagen"
-    },
-    {
-      "published_at": "2026-08-02T14:58:00+00:00",
-      "updated_at": "2026-08-02T14:58:00+00:00",
-      "title": "EFL latest: Barcelona cancel friendly due to Preston injuries",
-      "summary": "EFL transfer news, rumours and gossip for Championship, League One and League Two",
-      "category": [
-        "La Liga",
-        "Injury"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "barcelona",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-barcelona-birmingham_7312206.jpg?20260802150007",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13163353/efl-transfer-news-rumours-and-gossip-for-championship-league-one-and-league-two"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13163353/efl-transfer-news-rumours-and-gossip-for-championship-league-one-and-league-two"
-      },
-      "confirmed_by": [],
-      "id": "efl-latest-barcelona-cancel-friendly-due-to-preston-injuries"
     }
   ]
 }
