@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T17:00:05.057928+00:00",
+  "updated_at": "2026-08-02T18:07:25.951031+00:00",
   "items": [
     {
       "published_at": "2026-08-01T16:53:12+00:00",
@@ -430,6 +430,42 @@
       "id": "papers-man-utd-considering-move-for-arsenal-s-lewis-skelly"
     },
     {
+      "published_at": "2026-08-02T16:20:40+00:00",
+      "updated_at": "2026-08-02T16:20:40+00:00",
+      "title": "Noah Christofferssons hattrick sänkte AIK: ”Galet”",
+      "summary": "Noah Cristoffersson blev stor hjälte för Örgryte i skrällsegern borta mot AIK. 27-åringen stod för ett hattrick när ”Gnaget” besegrades med 3–0 på Strawberry Arena. Då lät hyllningarna inte vänta på sig inne i Öis-forumet på SvenskaFans",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.71/0.33/d1bc28b104f8152013d81dc2f6fc35ba6a2b95efe1d5146ac3eabff995605833",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/noah-christofferssons-hattrick-sankte-aik"
+        },
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/christoffersson-sankte-aik-jamfors-med-haaland-698716"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/noah-christofferssons-hattrick-sankte-aik"
+      },
+      "confirmed_by": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/christoffersson-sankte-aik-jamfors-med-haaland-698716"
+        }
+      ],
+      "id": "noah-christofferssons-hattrick-s-nkte-aik-galet"
+    },
+    {
       "published_at": "2026-08-01T16:49:54+00:00",
       "updated_at": "2026-08-01T16:49:54+00:00",
       "title": "IFK Norrköping vann igen – Elias Jemal låg bakom allt",
@@ -856,33 +892,6 @@
       "id": "st-johnstone-edge-kilmarnock-in-seven-goal-thriller"
     },
     {
-      "published_at": "2026-08-02T16:20:40+00:00",
-      "updated_at": "2026-08-02T16:20:40+00:00",
-      "title": "Noah Christofferssons hattrick sänkte AIK",
-      "summary": "Noah Christoffersson bjöd på stor show mot AIK. Örgryte-anfallaren stänkte in ett hattrick på Nationalarenan",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.71/0.33/d1bc28b104f8152013d81dc2f6fc35ba6a2b95efe1d5146ac3eabff995605833",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/noah-christofferssons-hattrick-sankte-aik"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/noah-christofferssons-hattrick-sankte-aik"
-      },
-      "confirmed_by": [],
-      "id": "noah-christofferssons-hattrick-s-nkte-aik"
-    },
-    {
       "published_at": "2026-08-02T16:05:36+00:00",
       "updated_at": "2026-08-02T16:05:36+00:00",
       "title": "Sam Larsson om straffarna: ”Tänkte att han går dit igen”",
@@ -1072,6 +1081,35 @@
       "id": "melwin-lycke-holm-om-reaktionerna-efter-em-platsen"
     },
     {
+      "published_at": "2026-08-02T18:00:00+00:00",
+      "updated_at": "2026-08-02T18:00:00+00:00",
+      "title": "Chelsea latest: Blues sign Argentina international Barco",
+      "summary": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Premier League",
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "chelsea-latest-blues-sign-argentina-international-barco"
+    },
+    {
       "published_at": "2026-08-02T12:00:00+00:00",
       "updated_at": "2026-08-02T12:00:00+00:00",
       "title": "Bournemouth latest: Cherries agree deal to sign right-back",
@@ -1126,34 +1164,6 @@
       },
       "confirmed_by": [],
       "id": "tottenham-latest-juventus-eye-loan-move-for-vicario"
-    },
-    {
-      "published_at": "2026-08-01T20:55:00+00:00",
-      "updated_at": "2026-08-01T20:55:00+00:00",
-      "title": "Chelsea latest: Joao Pedro set to sign contract extension",
-      "summary": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://e0.365dm.com/26/06/1600x900/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "chelsea-latest-joao-pedro-set-to-sign-contract-extension"
     },
     {
       "published_at": "2026-08-01T16:58:00+00:00",
@@ -1429,33 +1439,6 @@
       "id": "is-upp-p-kvalplats-efter-3-0-mot-aik"
     },
     {
-      "published_at": "2026-08-02T16:24:00+00:00",
-      "updated_at": "2026-08-02T16:24:00+00:00",
-      "title": "Christoffersson sänkte AIK – jämförs med Haaland",
-      "summary": "Noah Cristoffersson blev stor hjälte för Örgryte i skrällsegern borta mot AIK. 27-åringen stod för ett hattrick när ”Gnaget” besegrades med 3–0 på Strawberry Arena. Då lät hyllningarna inte vänta på sig inne i Öis-forumet på SvenskaFans",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "erling-haaland",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/I35u0miBHLXAbOkV9pAJYDaJl6rbzArZwXtsfbPI.png",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/christoffersson-sankte-aik-jamfors-med-haaland-698716"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/christoffersson-sankte-aik-jamfors-med-haaland-698716"
-      },
-      "confirmed_by": [],
-      "id": "christoffersson-s-nkte-aik-j-mf-rs-med-haaland"
-    },
-    {
       "published_at": "2026-08-02T15:31:04+00:00",
       "updated_at": "2026-08-02T15:31:04+00:00",
       "title": "Björklund stöttar Billborn efter kaosveckan: ”Min bästa vän”",
@@ -1589,6 +1572,33 @@
       },
       "confirmed_by": [],
       "id": "inf-r-halmstad-bk-ik-sirius-botten-mot-toppen"
+    },
+    {
+      "published_at": "2026-08-02T13:00:00+00:00",
+      "updated_at": "2026-08-02T13:00:00+00:00",
+      "title": "Inför: Djurgårdens IF - Västerås SK",
+      "summary": "Efter en trevande och efterlängtad vinst borta mot Degerfors på Stora Valla senast rullar sommarmatcherna på. Djurgårdens IF, med tio inspelade poäng av tolv möjliga efter sommaruppehållet, ska vända hem till Stockholmsarenan och under måndagen ta emot säsongens bortglömda uppstickare Västerås. Forum 1891 ger er koll på det viktigaste",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/oBmRsR7yz12TwGTbxxbf9HVorChIkso7v6BYvwjs.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/infor-djurgardens-if-vasteras-sk-698708"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/infor-djurgardens-if-vasteras-sk-698708"
+      },
+      "confirmed_by": [],
+      "id": "inf-r-djurg-rdens-if-v-ster-s-sk"
     }
   ]
 }
