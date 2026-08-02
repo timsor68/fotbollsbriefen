@@ -1,6 +1,43 @@
 {
-  "updated_at": "2026-08-02T20:11:05.029424+00:00",
+  "updated_at": "2026-08-02T21:57:24.206071+00:00",
   "items": [
+    {
+      "published_at": "2026-08-02T18:38:05+00:00",
+      "updated_at": "2026-08-02T18:38:05+00:00",
+      "title": "Chelsea sign Strasbourg midfielder Barco",
+      "summary": "Barco a left-back who can also play in midfield Player had spell at Brighton before move to France Chelsea have signed Argentina international Valentín Barco from sister club Strasbourg on a seven-year deal. The 22-year-old, who played seven times for Brighton including six Premier League appearances during the 2023-24 season, becomes the seventh arrival of new manager Xabi Alonso’s reign.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b0a2/live/785fbb00-8e9f-11f1-98e9-7bce254b4c15.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cdrv6e5m87no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/02/chelsea-sign-argentina-international-valentin-barco-from-strasbourg"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cdrv6e5m87no?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/02/chelsea-sign-argentina-international-valentin-barco-from-strasbourg"
+        }
+      ],
+      "id": "chelsea-sign-strasbourg-midfielder-barco"
+    },
     {
       "published_at": "2026-08-01T16:53:12+00:00",
       "updated_at": "2026-08-01T16:53:12+00:00",
@@ -20,10 +57,6 @@
           "url": "https://www.bbc.co.uk/sport/football/articles/cwyle0nl810o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13569061/west-ham-vanessa-gold-agrees-to-sell-stake-in-championship-club-to-former-newcastle-co-owner-amanda-staveley-led-consortium"
-        },
-        {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/football/2026/aug/01/amanda-staveley-consortium-deal-west-ham-stake-club"
         }
@@ -35,43 +68,11 @@
       },
       "confirmed_by": [
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13569061/west-ham-vanessa-gold-agrees-to-sell-stake-in-championship-club-to-former-newcastle-co-owner-amanda-staveley-led-consortium"
-        },
-        {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/football/2026/aug/01/amanda-staveley-consortium-deal-west-ham-stake-club"
         }
       ],
       "id": "gold-family-agrees-to-sell-west-ham-stake-to-staveley"
-    },
-    {
-      "published_at": "2026-08-02T18:38:05+00:00",
-      "updated_at": "2026-08-02T18:38:05+00:00",
-      "title": "Chelsea sign Strasbourg midfielder Barco",
-      "summary": "Chelsea complete the signing of Argentina and Strasbourg midfielder Valentin Barco on a seven-year deal",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b0a2/live/785fbb00-8e9f-11f1-98e9-7bce254b4c15.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cdrv6e5m87no?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cdrv6e5m87no?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "chelsea-sign-strasbourg-midfielder-barco"
     },
     {
       "published_at": "2026-08-02T12:44:37+00:00",
@@ -425,6 +426,33 @@
         }
       ],
       "id": "where-all-20-premier-league-clubs-should-strengthen-before-the-season"
+    },
+    {
+      "published_at": "2026-08-02T22:45:00+00:00",
+      "updated_at": "2026-08-02T22:45:00+00:00",
+      "title": "Papers: Man Utd edging closer to winning race for Hall",
+      "summary": "Latest transfer news and headlines as Lewis Hall rejects Chelsea and Manchester United edge closer in the race for the left-back; Atletico Madrid consider a move for Jack Grealish",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/25/03/1600x900/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13569280/manchester-united-edging-closer-to-winning-transfer-race-for-lewis-hall-after-left-back-rejects-chelsea-return-paper-talk"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13569280/manchester-united-edging-closer-to-winning-transfer-race-for-lewis-hall-after-left-back-rejects-chelsea-return-paper-talk"
+      },
+      "confirmed_by": [],
+      "id": "papers-man-utd-edging-closer-to-winning-race-for-hall"
     },
     {
       "published_at": "2026-08-02T18:40:00+00:00",
@@ -971,6 +999,33 @@
       "id": "st-johnstone-edge-kilmarnock-in-seven-goal-thriller"
     },
     {
+      "published_at": "2026-08-02T20:57:44+00:00",
+      "updated_at": "2026-08-02T20:57:44+00:00",
+      "title": "Noah Christoffersson reagerar på sitt hattrick: ”Går snabbt – känns enkelt”",
+      "summary": "Noah Christoffersson slog till med ett hattrick mot AIK. Se när Örgryte-spelaren reagerar på sina fullträffar. – Jag vet att jag kommer upp i bra hastighet, säger han till SVT Sport",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.81/0.33/805701623a0c7a2ca68aee567e4f4e0404a45a822a02d6e8abb7e6d87ec1e0f6",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/noah-christoffersson-reagerar-pa-sitt-hattrick-gar-snabbt-kanns-enkelt"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/noah-christoffersson-reagerar-pa-sitt-hattrick-gar-snabbt-kanns-enkelt"
+      },
+      "confirmed_by": [],
+      "id": "noah-christoffersson-reagerar-p-sitt-hattrick-g-r-snabbt-k-nns-enkelt"
+    },
+    {
       "published_at": "2026-08-02T19:06:14+00:00",
       "updated_at": "2026-08-02T19:06:14+00:00",
       "title": "Fina bilderna – Sanas ord till Andersson: ”Kommer dansa med folk”",
@@ -1106,33 +1161,6 @@
       "id": "garcia-sen-matchhj-lte-n-r-mff-bortaslog-bp"
     },
     {
-      "published_at": "2026-08-02T13:52:21+00:00",
-      "updated_at": "2026-08-02T13:52:21+00:00",
-      "title": "IFK Göteborg vann efter straffmål – stor ilska i Degerfors",
-      "summary": "IFK Göteborg vann ångestmötet mot Degerfors. Detta efter en straff som fick Degerfors att rasa. – Jag är trött på de här domarna, säger Kazper Karlsson till SVT Sport",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.26/0.46/e314f9afe0acab4a862201fd03fee588d1177778fb2bbb84d8978184df5fda87",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/ifk-goteborg-vann-efter-straffmal-stor-ilska-i-degerfors"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/ifk-goteborg-vann-efter-straffmal-stor-ilska-i-degerfors"
-      },
-      "confirmed_by": [],
-      "id": "ifk-g-teborg-vann-efter-straffm-l-stor-ilska-i-degerfors"
-    },
-    {
       "published_at": "2026-08-02T18:00:00+00:00",
       "updated_at": "2026-08-02T18:00:00+00:00",
       "title": "Chelsea latest: Blues sign Argentina international Barco",
@@ -1243,33 +1271,6 @@
       },
       "confirmed_by": [],
       "id": "tottenham-latest-juventus-eye-loan-move-for-vicario"
-    },
-    {
-      "published_at": "2026-08-01T16:58:00+00:00",
-      "updated_at": "2026-08-01T16:58:00+00:00",
-      "title": "Dowman dazzles and debutant Tzolis scores as Arsenal dominate Girona",
-      "summary": "Max Dowman dazzled with a goal and an assist as Arsenal recorded a dominant 4-1 win against Girona in their pre-season game at Montilivi in Catalonia",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-max-dowman-arsenal_7312002.jpg?20260801202741",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/girona-vs-arsenal/report/562155"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/girona-vs-arsenal/report/562155"
-      },
-      "confirmed_by": [],
-      "id": "dowman-dazzles-and-debutant-tzolis-scores-as-arsenal-dominate-girona"
     },
     {
       "published_at": "2026-08-02T04:31:30+00:00",
@@ -1436,6 +1437,60 @@
       "id": "kouame-och-ayari-klev-av-skadade"
     },
     {
+      "published_at": "2026-08-02T21:46:04+00:00",
+      "updated_at": "2026-08-02T21:46:04+00:00",
+      "title": "Sanas hånfulla passning: ”Tror flintisen gick hem”",
+      "summary": "Tobias Sanas Örgryte skrällde och vann stort borta mot AIK. Efter 3–0 segern passade Öis-veteranen på att skicka en hälsning till ex-lagkamraten och kompisen Amel Mujanic. – Jag kommer ringa honom, säger 37-åringen enligt Sportbladet",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/bVLgcjXS1zN8jeUaikiUtBiekF9PhK39zPrfy0md.png",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/sanas-hanfulla-passning-tror-flintisen-gick-hem-698730"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/sanas-hanfulla-passning-tror-flintisen-gick-hem-698730"
+      },
+      "confirmed_by": [],
+      "id": "sanas-h-nfulla-passning-tror-flintisen-gick-hem"
+    },
+    {
+      "published_at": "2026-08-02T20:24:00+00:00",
+      "updated_at": "2026-08-02T20:24:00+00:00",
+      "title": "Matchrapport AIK - Örgryte IS ¨Förnedrade på hemmaplan¨",
+      "summary": "Örgryte gästade Nationalarenan, det som var tänkt att bli en femte match utan förlust blev istället helt tvärtom. 0-3 på tavlan och idag var det faktiskt inget snack om saken. Nedan följer mina punkter från eftermiddagens match",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/m1hctzV9PG9YWKKeNbM8akvF5vkYHXXQbyaocWpz.png",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/matchrapport-aik-orgryte-is-fornedrade-pa-hemmaplan-698728"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/matchrapport-aik-orgryte-is-fornedrade-pa-hemmaplan-698728"
+      },
+      "confirmed_by": [],
+      "id": "matchrapport-aik-rgryte-is-f-rnedrade-p-hemmaplan"
+    },
+    {
       "published_at": "2026-08-02T18:44:55+00:00",
       "updated_at": "2026-08-02T18:44:55+00:00",
       "title": "Geflepodden #511 Ljusare tider",
@@ -1542,60 +1597,6 @@
       },
       "confirmed_by": [],
       "id": "is-upp-p-kvalplats-efter-3-0-mot-aik"
-    },
-    {
-      "published_at": "2026-08-02T15:31:04+00:00",
-      "updated_at": "2026-08-02T15:31:04+00:00",
-      "title": "Björklund stöttar Billborn efter kaosveckan: ”Min bästa vän”",
-      "summary": "Joachim Björklund är ny chefstränare för IFK Göteborg sedan en vecka tillbaka. Efter att parhästen och kompisen Stefan Billborn fått sparken. – Det är inte rätt eller rättvist, säger Björklund efter segern mot Degerfors",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/oVcDBjQ2RqD1GwXC95X0l5Lhtbmo8gHDgVGMqiIE.png",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/bjorklund-stottar-billborn-min-basta-van-efter-kaosveckan-698715"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/bjorklund-stottar-billborn-min-basta-van-efter-kaosveckan-698715"
-      },
-      "confirmed_by": [],
-      "id": "bj-rklund-st-ttar-billborn-efter-kaosveckan-min-b-sta-v-n"
-    },
-    {
-      "published_at": "2026-08-02T14:35:45+00:00",
-      "updated_at": "2026-08-02T14:35:45+00:00",
-      "title": "Spelarbetyg efter segern: ”Kliver fram i Kruses frånvaro”",
-      "summary": "IFK Norrköping är återigen serieledare efter segern mot Landskrona BoIS. En match som IFK dominerade fullständigt i 60 minuter innan den skiftade över till Landskronas fördel. Men IFK-spelarna lyckades kämpa kvar sin ledning och med ett enastående målvaktsspel bärga hem tre poäng.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/wy9cZrKWLphtLsDleKUsMZ2SAivSsdQjVsG55Gas.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/spelarbetyg-efter-segern-kliver-fram-i-kruses-franvaro-698710"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/spelarbetyg-efter-segern-kliver-fram-i-kruses-franvaro-698710"
-      },
-      "confirmed_by": [],
-      "id": "spelarbetyg-efter-segern-kliver-fram-i-kruses-fr-nvaro"
     }
   ]
 }
