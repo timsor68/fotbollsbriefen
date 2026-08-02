@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T18:07:25.951031+00:00",
+  "updated_at": "2026-08-02T20:11:05.029424+00:00",
   "items": [
     {
       "published_at": "2026-08-01T16:53:12+00:00",
@@ -46,40 +46,32 @@
       "id": "gold-family-agrees-to-sell-west-ham-stake-to-staveley"
     },
     {
-      "published_at": "2026-08-01T16:48:26+00:00",
-      "updated_at": "2026-08-01T16:48:26+00:00",
-      "title": "Brentford sign Sangare for club record fee",
-      "summary": "Brentford confirmed the signing of Mali midfielder Mamadou Sangare from Lens for a club record fee",
+      "published_at": "2026-08-02T18:38:05+00:00",
+      "updated_at": "2026-08-02T18:38:05+00:00",
+      "title": "Chelsea sign Strasbourg midfielder Barco",
+      "summary": "Chelsea complete the signing of Argentina and Strasbourg midfielder Valentin Barco on a seven-year deal",
       "category": [
+        "Premier League",
         "Transfer"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0acf/live/05b9ff80-8dc7-11f1-99b6-11db6bdc35da.jpg",
+      "club": "chelsea",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b0a2/live/785fbb00-8e9f-11f1-98e9-7bce254b4c15.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cn8n43nzyvmo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cdrv6e5m87no?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cn8n43nzyvmo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cdrv6e5m87no?at_medium=RSS&at_campaign=rss"
       },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-        }
-      ],
-      "id": "brentford-sign-sangare-for-club-record-fee"
+      "confirmed_by": [],
+      "id": "chelsea-sign-strasbourg-midfielder-barco"
     },
     {
       "published_at": "2026-08-02T12:44:37+00:00",
@@ -136,6 +128,33 @@
       "id": "new-boss-maresca-is-perfect-for-man-city-gvardiol"
     },
     {
+      "published_at": "2026-08-01T16:48:26+00:00",
+      "updated_at": "2026-08-01T16:48:26+00:00",
+      "title": "Brentford sign Sangare for club record fee",
+      "summary": "Brentford confirmed the signing of Mali midfielder Mamadou Sangare from Lens for a club record fee",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0acf/live/05b9ff80-8dc7-11f1-99b6-11db6bdc35da.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cn8n43nzyvmo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cn8n43nzyvmo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "brentford-sign-sangare-for-club-record-fee"
+    },
+    {
       "published_at": "2026-08-01T15:27:44+00:00",
       "updated_at": "2026-08-01T15:27:44+00:00",
       "title": "McAidoo 'the kind of winger I love' - Maresca",
@@ -188,64 +207,6 @@
       },
       "confirmed_by": [],
       "id": "bournemouth-sign-portugal-defender-silva"
-    },
-    {
-      "published_at": "2026-07-31T16:52:15+00:00",
-      "updated_at": "2026-07-31T16:52:15+00:00",
-      "title": "Chelsea sign Italy's Dragoni from Barcelona",
-      "summary": "Chelsea sign Italy attacking midfielder Giulia Dragoni from Barcelona on a four-year contract",
-      "category": [
-        "Premier League",
-        "La Liga",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/57ce/live/423f4d70-8cff-11f1-9a29-416a24547568.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cy745m20827o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cy745m20827o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "chelsea-sign-italy-s-dragoni-from-barcelona"
-    },
-    {
-      "published_at": "2026-07-31T16:09:53+00:00",
-      "updated_at": "2026-07-31T16:09:53+00:00",
-      "title": "Newcastle confirm Howe resignation as head coach",
-      "summary": "Eddie Howe steps down as head coach of Newcastle United after nearly five years in charge",
-      "category": [
-        "Premier League",
-        "Transfer",
-        "Coach"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/945a/live/6cb01ca0-8bf7-11f1-9127-6b0fc0b6fa67.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c74gdn2w3d7o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c74gdn2w3d7o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "newcastle-confirm-howe-resignation-as-head-coach"
     },
     {
       "published_at": "2026-07-31T08:09:34+00:00",
@@ -302,6 +263,34 @@
       "id": "challenging-times-ahead-for-newcastle-shearer"
     },
     {
+      "published_at": "2026-07-30T07:01:01+00:00",
+      "updated_at": "2026-07-30T07:01:01+00:00",
+      "title": "Four pointers to most open Premier League title race in years",
+      "summary": "Three of the Premier League's \"big six\" have new managers, the champions have a key injury issue and Tottenham and Chelsea are breaking transfer records - and that might mean a very open title race",
+      "category": [
+        "Premier League",
+        "Serie A"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/51e0/live/63ec62c0-8b40-11f1-b8ee-9b3c26ad07bb.png",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c1e163xpzz2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c1e163xpzz2o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "four-pointers-to-most-open-premier-league-title-race-in-years"
+    },
+    {
       "published_at": "2026-08-02T11:32:18+00:00",
       "updated_at": "2026-08-02T11:32:18+00:00",
       "title": "Solberg tvåa i Finland – trots skada: ”Fick ta smärtstillande”",
@@ -328,6 +317,42 @@
       },
       "confirmed_by": [],
       "id": "solberg-tv-a-i-finland-trots-skada-fick-ta-sm-rtstillande"
+    },
+    {
+      "published_at": "2026-08-02T19:36:26+00:00",
+      "updated_at": "2026-08-02T19:36:26+00:00",
+      "title": "Pressure on Gianni Infantino increases as Uefa members prepare to oppose re-election",
+      "summary": "European nations to withdraw letters of support for Fifa president Appetite to ensure Infantino is quickly removed from post European countries are planning to increase the pressure on Gianni Infantino with a mass withdrawal of letters supporting his re-election as Fifa president. Infantino’s reign is in severe peril after the collapse of his privately backed scheme to sell off chunks of the World Cup, which was largely scuppered when Uefa member associations threatened to boycott future Fifa competitions . The mood remains febrile and there is a widespread appetite around Europe to ensure that he is quickly removed from his post.",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.49/0.19/95710ced54d13e5b9316625a1e6ce7ebc4bb0e07eb313fc2cec1e804892daf71",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/uppgifter-uefa-vill-att-gianni-infantino-avgar"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/02/gianni-infantino-fifa-president-pressure-uefa-members-prepare-oppose-re-election"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/uppgifter-uefa-vill-att-gianni-infantino-avgar"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/02/gianni-infantino-fifa-president-pressure-uefa-members-prepare-oppose-re-election"
+        }
+      ],
+      "id": "pressure-on-gianni-infantino-increases-as-uefa-members-prepare-to-oppose-re-election"
     },
     {
       "published_at": "2026-07-31T16:17:20+00:00",
@@ -400,6 +425,33 @@
         }
       ],
       "id": "where-all-20-premier-league-clubs-should-strengthen-before-the-season"
+    },
+    {
+      "published_at": "2026-08-02T18:40:00+00:00",
+      "updated_at": "2026-08-02T18:40:00+00:00",
+      "title": "Said earns Motherwell victory at Hibernian",
+      "summary": "Ibrahim Said netted a late winner as Motherwell started their Scottish Premiership season as they left off by beating Hibernian at Easter Road",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-ibrahim-said-motherwell_7312401.jpg?20260802192606",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/hibernian-vs-motherwell/report/558336"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/hibernian-vs-motherwell/report/558336"
+      },
+      "confirmed_by": [],
+      "id": "said-earns-motherwell-victory-at-hibernian"
     },
     {
       "published_at": "2026-08-01T22:45:00+00:00",
@@ -527,33 +579,6 @@
       },
       "confirmed_by": [],
       "id": "robert-lewandowski-strikes-twice-for-chicago-fire-in-mls-win-over-charlotte"
-    },
-    {
-      "published_at": "2026-08-02T07:00:15+00:00",
-      "updated_at": "2026-08-02T07:00:15+00:00",
-      "title": "Gianni Infantino could face leadership challenge as Fifa council members rebel",
-      "summary": "Council wants to trigger emergency general meeting Members demand review of Balogun decision Gianni Infantino is facing a rebellion from members of the Fifa council who are attempting to force an extraordinary general meeting (EGM) that could develop into a full-blown leadership challenge. The Guardian has learned that moves to call an EGM were already under way before the emergence of Infantino’s abortive plan to sell off stakes in the World Cup, with council members demanding an independent review into the unprecedented decision to lift Folarin Balogun’s suspension during the World Cup, which involved multiple phone calls from Donald Trump.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/84b8a376ce7a1bc6fd5742cc4175e66aa2bbb8a5/356_0_3276_2620/master/3276.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=394de401b9387766f66a54e4ffcca2e6",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/02/gianni-infantino-could-face-leadership-challenge-as-fifa-council-members-rebel"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/02/gianni-infantino-could-face-leadership-challenge-as-fifa-council-members-rebel"
-      },
-      "confirmed_by": [],
-      "id": "gianni-infantino-could-face-leadership-challenge-as-fifa-council-members-rebel"
     },
     {
       "published_at": "2026-08-01T15:00:55+00:00",
@@ -692,6 +717,33 @@
       "id": "how-does-mls-pick-up-the-world-cup-mantle-casemiro-helps-but-it-ll-take-much-more"
     },
     {
+      "published_at": "2026-07-31T14:25:52+00:00",
+      "updated_at": "2026-07-31T14:25:52+00:00",
+      "title": "Football Daily | Will Gianni Infantino survive as Fifa president?",
+      "summary": "You have to hand it to Gianni Infantino, his timing was impeccable. After the relative on-field success of the Geopolitics World Cup, Fifa’s omnipresent overlord knew he had to strike while the iron was hot. There would be a small gap in the news cycle.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/791c476e591a03bddcd1b70dbeb1ec0e237c0e87/271_54_2719_2175/master/2719.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d5dcaa3f83d8dcd7a9eb2fcf128e0ca9",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/31/football-daily-email-gianni-infantino-fifa"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/31/football-daily-email-gianni-infantino-fifa"
+      },
+      "confirmed_by": [],
+      "id": "football-daily-will-gianni-infantino-survive-as-fifa-president"
+    },
+    {
       "published_at": "2026-07-31T12:20:03+00:00",
       "updated_at": "2026-07-31T12:20:03+00:00",
       "title": "Franco Baresi was not only the captain but the moral heart of great Milan team",
@@ -771,6 +823,33 @@
       },
       "confirmed_by": [],
       "id": "i-m-very-sorry-mancini-apologises-after-being-reappointed-as-italy-head-coach"
+    },
+    {
+      "published_at": "2026-08-02T18:06:00+00:00",
+      "updated_at": "2026-08-02T18:06:00+00:00",
+      "title": "Klart: Colin Rösler lämnar Malmö FF",
+      "summary": "MFF:s norska mittback saknades i dagens trupp mott Brommapojkarna. Nu bekräftar klubben att Colin Rösler lämnar.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/3HZhvD91ELrEneVVbInErjOjn047uMeRPgvARiAj.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/klart-colin-rosler-lamnar-malmo-ff-698721"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/klart-colin-rosler-lamnar-malmo-ff-698721"
+      },
+      "confirmed_by": [],
+      "id": "klart-colin-r-sler-l-mnar-malm-ff"
     },
     {
       "published_at": "2026-07-31T12:01:00+00:00",
@@ -892,6 +971,87 @@
       "id": "st-johnstone-edge-kilmarnock-in-seven-goal-thriller"
     },
     {
+      "published_at": "2026-08-02T19:06:14+00:00",
+      "updated_at": "2026-08-02T19:06:14+00:00",
+      "title": "Fina bilderna – Sanas ord till Andersson: ”Kommer dansa med folk”",
+      "summary": "Örgryte körde över AIK med 3–0 på bortaplan. Efteråt var Öis-stjärnan Tobias Sana, 37, framme hos motståndaren Victor Andersson, 21, för ett ”brandtal”. – Jag ville uppmuntra honom att fortsätta göra sin grej, trots att de förlorade i dag, säger Sana till SVT Sport",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.23/0.45/69f961d8b84b6c1f4539186e4263d4f7bd8ba0f9449f628d4852413fdf153ee4",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/fina-bilderna-sanas-ord-till-andersson-kommer-dansa-med-folk"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/fina-bilderna-sanas-ord-till-andersson-kommer-dansa-med-folk"
+      },
+      "confirmed_by": [],
+      "id": "fina-bilderna-sanas-ord-till-andersson-kommer-dansa-med-folk"
+    },
+    {
+      "published_at": "2026-08-02T19:03:34+00:00",
+      "updated_at": "2026-08-02T19:03:34+00:00",
+      "title": "Experten: Här är tre kandidater om Gianni Infantino avsätts",
+      "summary": "Uefa uppges ha tappat förtroendet för Gianni Infantino. Här är namnen det pratas om som ersättare – om Fifas ordförande skulle avsättas. – Det finns tre namn som florerar, säger SVT:s expert Jonas Eriksson",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.68/0.44/e54e8f7f32f8ce065d3e4117decf7fcec6bf9b36d60e03edc83434fce9bc25e8",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/experten-har-ar-tre-kandidater-om-gianni-infantino-avsatts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/experten-har-ar-tre-kandidater-om-gianni-infantino-avsatts"
+      },
+      "confirmed_by": [],
+      "id": "experten-h-r-r-tre-kandidater-om-gianni-infantino-avs-tts"
+    },
+    {
+      "published_at": "2026-08-02T18:41:56+00:00",
+      "updated_at": "2026-08-02T18:41:56+00:00",
+      "title": "Shiho Kuwaki vinner The Open efter särspelsdrama",
+      "summary": "Japanskan Shiho Kuwaki var på väg mot segern i British Open. Men en otrolig långputt från tyskan Esther Henseleit på det 18:e hålet tog det till särspel. Och där fortsatte dramat – tyskan träffade en funktionär i publiken på det andra särspelshålet och Kuwaki kunde vinna.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.65/0.35/86851e4d825349f7c8d4f814afd379799eaadb34d393360f6f2d20aa9dd0ba0f",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/golf/shiho-kuwaki-vinner-the-open-efter-sarspelsdrama"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/golf/shiho-kuwaki-vinner-the-open-efter-sarspelsdrama"
+      },
+      "confirmed_by": [],
+      "id": "shiho-kuwaki-vinner-the-open-efter-s-rspelsdrama"
+    },
+    {
       "published_at": "2026-08-02T16:05:36+00:00",
       "updated_at": "2026-08-02T16:05:36+00:00",
       "title": "Sam Larsson om straffarna: ”Tänkte att han går dit igen”",
@@ -973,114 +1133,6 @@
       "id": "ifk-g-teborg-vann-efter-straffm-l-stor-ilska-i-degerfors"
     },
     {
-      "published_at": "2026-08-02T12:59:08+00:00",
-      "updated_at": "2026-08-02T12:59:08+00:00",
-      "title": "Nytt EM-brons för Jenny Rissveds – efter punktering",
-      "summary": "Jenny Rissveds var i ensam ledning på favoritdistansen XCO i EM i schweiziska Monteceneri. Då punkterade hon bakhjulet och tappade till bronsplats",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.47/0.49/918807d83d09a1121039d8b8cc2eb0426774656137c5035dffcea1d14281c1bc",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/mountainbike/nytt-em-brons-for-jenny-rissveds-efter-punktering"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/mountainbike/nytt-em-brons-for-jenny-rissveds-efter-punktering"
-      },
-      "confirmed_by": [],
-      "id": "nytt-em-brons-f-r-jenny-rissveds-efter-punktering"
-    },
-    {
-      "published_at": "2026-08-02T05:24:39+00:00",
-      "updated_at": "2026-08-02T05:24:39+00:00",
-      "title": "Uppgifter: Uefa vill att Gianni Infantino avgår",
-      "summary": "Planerna på att sälja ut andelar av fotbolls-VM har begravts av Fifa-ordförande Gianni Infantino. Enligt uppgifter till The Telegraph har Uefa nu ställt ett ultimatum till Infantino",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.49/0.19/95710ced54d13e5b9316625a1e6ce7ebc4bb0e07eb313fc2cec1e804892daf71",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/uppgifter-uefa-vill-att-gianni-infantino-avgar"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/uppgifter-uefa-vill-att-gianni-infantino-avgar"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-uefa-vill-att-gianni-infantino-avg-r"
-    },
-    {
-      "published_at": "2026-08-02T04:24:53+00:00",
-      "updated_at": "2026-08-02T04:24:53+00:00",
-      "title": "Detaljen som ska göra Sarah Sjöström snabbare: ”Det kan vara två hundradelar”",
-      "summary": "Amerikanska stjärnan Gretchen Walsh har tagit över världsrekorden på både 50 meter fritt och 100 meter fjäril. Nu tar Sarah Sjöström inspiration från just Walsh – i jakten på hundradelar. – Det kan vara två hundradelar, det är det det handlar om på den här nivån",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.31/0.28/5afe1b0621bb8f0da79e309ea8401d74fd5ec1d8ced55345118fa19b0d6bf0a0",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/simning/detaljen-som-ska-gora-sarah-sjostrom-snabbare-det-kan-vara-tva-hundradelar"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/simning/detaljen-som-ska-gora-sarah-sjostrom-snabbare-det-kan-vara-tva-hundradelar"
-      },
-      "confirmed_by": [],
-      "id": "detaljen-som-ska-g-ra-sarah-sj-str-m-snabbare-det-kan-vara-tv-hundradelar"
-    },
-    {
-      "published_at": "2026-08-01T19:03:29+00:00",
-      "updated_at": "2026-08-01T19:03:29+00:00",
-      "title": "Melwin Lycke Holm om reaktionerna efter EM-platsen",
-      "summary": "Melwin Lycke Holm är med i EM-truppen. Något som många har haft åsikter om. – Jag har fått en hel del kritik online, säger han till SVT Sport",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.53/0.45/a12cc67b4b23eb8327ea61fc6b84febbb3c007cb9515f45c825dd585ba3ab8aa",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/friidrott/melwin-lycke-holm-om-reaktionerna-efter-em-platsen"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/friidrott/melwin-lycke-holm-om-reaktionerna-efter-em-platsen"
-      },
-      "confirmed_by": [],
-      "id": "melwin-lycke-holm-om-reaktionerna-efter-em-platsen"
-    },
-    {
       "published_at": "2026-08-02T18:00:00+00:00",
       "updated_at": "2026-08-02T18:00:00+00:00",
       "title": "Chelsea latest: Blues sign Argentina international Barco",
@@ -1108,6 +1160,33 @@
       },
       "confirmed_by": [],
       "id": "chelsea-latest-blues-sign-argentina-international-barco"
+    },
+    {
+      "published_at": "2026-08-02T17:05:00+00:00",
+      "updated_at": "2026-08-02T17:05:00+00:00",
+      "title": "Hull City latest: Tigers reach verbal agreement to sign Australian teen",
+      "summary": "Hull City transfers, latest news, rumours and gossip: Live updates, goals and highlights",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/05/1600x900/skysports-premier-league-hull-city_7259338.jpg?20260527081515",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+      },
+      "confirmed_by": [],
+      "id": "hull-city-latest-tigers-reach-verbal-agreement-to-sign-australian-teen"
     },
     {
       "published_at": "2026-08-02T12:00:00+00:00",
@@ -1191,61 +1270,6 @@
       },
       "confirmed_by": [],
       "id": "dowman-dazzles-and-debutant-tzolis-scores-as-arsenal-dominate-girona"
-    },
-    {
-      "published_at": "2026-08-01T15:59:00+00:00",
-      "updated_at": "2026-08-01T15:59:00+00:00",
-      "title": "Mbeumo scores twice as Man Utd beat Atletico",
-      "summary": "Bryan Mbeumo scored twice as Manchester United came from behind to beat Atletico Madrid 2-1 in Stockholm",
-      "category": [
-        "La Liga"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-bryan-mbeumo-manchester-united_7311938.jpg?20260801180148",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/manchester-united-vs-atletico-madrid/report/559826"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/manchester-united-vs-atletico-madrid/report/559826"
-      },
-      "confirmed_by": [],
-      "id": "mbeumo-scores-twice-as-man-utd-beat-atletico"
-    },
-    {
-      "published_at": "2026-07-29T09:50:00+00:00",
-      "updated_at": "2026-07-29T09:50:00+00:00",
-      "title": "Welbeck completes move to Chelsea",
-      "summary": "Chelsea have completed the signing of Danny Welbeck from Brighton for an undisclosed fee",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-danny-welbeck-chelsea_7311926.jpg?20260801174125",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13568440/chelsea-transfer-news-danny-welbeck-completes-move-to-stamford-bridge-from-brighton-for-undisclosed-fee"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13568440/chelsea-transfer-news-danny-welbeck-completes-move-to-stamford-bridge-from-brighton-for-undisclosed-fee"
-      },
-      "confirmed_by": [],
-      "id": "welbeck-completes-move-to-chelsea"
     },
     {
       "published_at": "2026-08-02T04:31:30+00:00",
@@ -1412,6 +1436,87 @@
       "id": "kouame-och-ayari-klev-av-skadade"
     },
     {
+      "published_at": "2026-08-02T18:44:55+00:00",
+      "updated_at": "2026-08-02T18:44:55+00:00",
+      "title": "Geflepodden #511 Ljusare tider",
+      "summary": "Efter en månads uppehåll är vi tillbaka och det är med glada miner vi tar ner segermatchen mot Piteå. Går vi mot ljusare tider nu med tanke på matcherna som kommer? Vi diskuterar också de två nyförvärv som kommit in, har vi valt det tyska spåret nu?",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2089412.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/geflepodden-511-ljusare-tider-698722"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/geflepodden-511-ljusare-tider-698722"
+      },
+      "confirmed_by": [],
+      "id": "geflepodden-511-ljusare-tider"
+    },
+    {
+      "published_at": "2026-08-02T18:32:42+00:00",
+      "updated_at": "2026-08-02T18:32:42+00:00",
+      "title": "Kommunikationschefens VAR-flört: ”Börjar bli redo”",
+      "summary": "Degerfors föll tungt borta mot IFK Göteborg efter en tveksam straff emot sig. Då var klubbens kommunikationschef Timmie Falk snabb på tangenterna. ”Trodde aldrig jag skulle säga det, men jag börjar bli redo att hoppa på VAR-tåget”, skrev han på X",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/lrJGq3rPHpg1ls6wa45bBMfIJETidSahqMeQxSBt.png",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/kommunikationschefens-var-flort-borjar-bli-redo-698719"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/kommunikationschefens-var-flort-borjar-bli-redo-698719"
+      },
+      "confirmed_by": [],
+      "id": "kommunikationschefens-var-fl-rt-b-rjar-bli-redo"
+    },
+    {
+      "published_at": "2026-08-02T18:15:05+00:00",
+      "updated_at": "2026-08-02T18:15:05+00:00",
+      "title": "Lindberg inför Halmstad: ”Fokus ligger på nästa match”",
+      "summary": "Självförtroendet är starkt efter segern mot IFK Göteborg, men i Sirius är det redan nästa uppgift som gäller. Inför måndagens bortamöte med Halmstad berättar Marcus Lindberg om lagets fina sammanhållning, sin nya mittfältsroll och stödet från supportrarna",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/RFk2kwXNgxfRxv7vLhqWZNz4G3Q200kMvOTfaFt4.png",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/lindberg-infor-halmstad-fokus-ligger-pa-nasta-match-698720"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/lindberg-infor-halmstad-fokus-ligger-pa-nasta-match-698720"
+      },
+      "confirmed_by": [],
+      "id": "lindberg-inf-r-halmstad-fokus-ligger-p-n-sta-match"
+    },
+    {
       "published_at": "2026-08-02T16:56:34+00:00",
       "updated_at": "2026-08-02T16:56:34+00:00",
       "title": "ÖIS upp på kvalplats efter 3-0 mot AIK!",
@@ -1491,114 +1596,6 @@
       },
       "confirmed_by": [],
       "id": "spelarbetyg-efter-segern-kliver-fram-i-kruses-fr-nvaro"
-    },
-    {
-      "published_at": "2026-08-02T14:15:00+00:00",
-      "updated_at": "2026-08-02T14:15:00+00:00",
-      "title": "Brommapojkarna - Malmö FF 1-2",
-      "summary": "Halva serien är spelad och Malmö FF kunde fira det med tre poäng på Grimsta efter att ha slagit BP med 1-2",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/ra1IemYL6l0gUugbOqgvXXavRzd9hvFaetaxzdGh.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/brommapojkarna-malmo-ff-698707"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/brommapojkarna-malmo-ff-698707"
-      },
-      "confirmed_by": [],
-      "id": "brommapojkarna-malm-ff-1-2"
-    },
-    {
-      "published_at": "2026-08-02T14:00:00+00:00",
-      "updated_at": "2026-08-02T14:00:00+00:00",
-      "title": "Fem snabba efter BP-MFF",
-      "summary": "Domaren hade knappt hunnit blåsa igång matchen så fick BP en riktigt ruggig chans och jag hade i princip noterat 1-0 redan. Sen skapar Höög en straff och det kändes tryggt när Botheim gick fram mot bollen. Men, han straff var för löst slagen, så även om den var ganska välplacerad så kunde BP-målvakten rädda. Igår var jag och fick masserat bort ett gäng läskiga muskelknutor, men de återuppstod under matchens första tio minuter.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/ra1IemYL6l0gUugbOqgvXXavRzd9hvFaetaxzdGh.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/fem-snabba-efter-bp-mff-698711"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/fem-snabba-efter-bp-mff-698711"
-      },
-      "confirmed_by": [],
-      "id": "fem-snabba-efter-bp-mff"
-    },
-    {
-      "published_at": "2026-08-02T13:15:00+00:00",
-      "updated_at": "2026-08-02T13:15:00+00:00",
-      "title": "Inför Halmstad BK - IK Sirius \"Botten mot toppen\"",
-      "summary": "Mot ett krisande IFK Göteborg tog Sirius sin tredje raka seger och tolfte för säsongen efter att man vunnit med klara 4-1. Nu väntar den Allsvenska jumbon Halmstad BK på bortaplan för blåsvart. Ett möte som förra säsongen blev vändningen för lagets negativa trend",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/OeuEPAmoD5kwKx7tSmwTl1iXqpDAsR3j3gmoS8xi.png",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/infor-halmstad-bk-ik-sirius-botten-mot-toppen-698666"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/infor-halmstad-bk-ik-sirius-botten-mot-toppen-698666"
-      },
-      "confirmed_by": [],
-      "id": "inf-r-halmstad-bk-ik-sirius-botten-mot-toppen"
-    },
-    {
-      "published_at": "2026-08-02T13:00:00+00:00",
-      "updated_at": "2026-08-02T13:00:00+00:00",
-      "title": "Inför: Djurgårdens IF - Västerås SK",
-      "summary": "Efter en trevande och efterlängtad vinst borta mot Degerfors på Stora Valla senast rullar sommarmatcherna på. Djurgårdens IF, med tio inspelade poäng av tolv möjliga efter sommaruppehållet, ska vända hem till Stockholmsarenan och under måndagen ta emot säsongens bortglömda uppstickare Västerås. Forum 1891 ger er koll på det viktigaste",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/oBmRsR7yz12TwGTbxxbf9HVorChIkso7v6BYvwjs.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/infor-djurgardens-if-vasteras-sk-698708"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/infor-djurgardens-if-vasteras-sk-698708"
-      },
-      "confirmed_by": [],
-      "id": "inf-r-djurg-rdens-if-v-ster-s-sk"
     }
   ]
 }
