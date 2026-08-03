@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T16:26:13.102147+00:00",
+  "updated_at": "2026-08-03T18:51:21.190040+00:00",
   "items": [
     {
       "published_at": "2026-08-03T06:54:07+00:00",
@@ -46,6 +46,43 @@
       "id": "wales-first-home-nation-to-withdraw-support-for-infantino"
     },
     {
+      "published_at": "2026-08-03T17:30:32+00:00",
+      "updated_at": "2026-08-03T17:30:32+00:00",
+      "title": "Real to resume talks with Arsenal target Vinicius Jr",
+      "summary": "Real Madrid and Vinicius Jr will resume contract talks this week as Arsenal wait in the wings",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2b1c/live/f88277c0-8f33-11f1-bd9f-4361c301d82b.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckge3g8dl95o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckge3g8dl95o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "id": "real-to-resume-talks-with-arsenal-target-vinicius-jr"
+    },
+    {
       "published_at": "2026-08-03T15:39:32+00:00",
       "updated_at": "2026-08-03T15:39:32+00:00",
       "title": "Como agree £31m deal to sign Chalobah from Chelsea",
@@ -81,43 +118,6 @@
         }
       ],
       "id": "como-agree-31m-deal-to-sign-chalobah-from-chelsea"
-    },
-    {
-      "published_at": "2026-08-03T08:00:39+00:00",
-      "updated_at": "2026-08-03T08:00:39+00:00",
-      "title": "Newcastle sign Braga keeper Hornicek for £25.7m",
-      "summary": "Newcastle United have signed goalkeeper Lukas Hornicek from Braga in a deal worth £25.7m",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d684/live/e9ea61c0-8d83-11f1-b8ee-9b3c26ad07bb.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c3ekzyz1qj8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13569327/lukas-hornicek-newcastle-united-sign-czech-republic-international-goalkeeper-on-five-year-contract-from-braga-in-deal-worth-25-7m"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c3ekzyz1qj8o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13569327/lukas-hornicek-newcastle-united-sign-czech-republic-international-goalkeeper-on-five-year-contract-from-braga-in-deal-worth-25-7m"
-        }
-      ],
-      "id": "newcastle-sign-braga-keeper-hornicek-for-25-7m"
     },
     {
       "published_at": "2026-08-01T16:53:12+00:00",
@@ -330,31 +330,32 @@
       "id": "it-s-a-new-era-the-past-is-the-past-peixoto"
     },
     {
-      "published_at": "2026-08-03T05:43:49+00:00",
-      "updated_at": "2026-08-03T05:43:49+00:00",
-      "title": "'Nothing is strange' - how clubs prepare for the transfer window",
-      "summary": "Premier League clubs have already spent more than £1bn in the transfer window, but are expected to only get busier",
+      "published_at": "2026-08-03T08:00:39+00:00",
+      "updated_at": "2026-08-03T08:00:39+00:00",
+      "title": "Newcastle sign Braga keeper Hornicek for £25.7m",
+      "summary": "Newcastle United sign goalkeeper Lukas Hornicek from Braga for £25.7m",
       "category": [
+        "Premier League",
         "Transfer"
       ],
       "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fb6b/live/6cfc67a0-8f07-11f1-be24-a9d46d021d98.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d684/live/e9ea61c0-8d83-11f1-b8ee-9b3c26ad07bb.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c87nxvyq4yqo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c3ekzyz1qj8o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c87nxvyq4yqo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3ekzyz1qj8o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "nothing-is-strange-how-clubs-prepare-for-the-transfer-window"
+      "id": "newcastle-sign-braga-keeper-hornicek-for-25-7m"
     },
     {
       "published_at": "2026-08-02T11:32:18+00:00",
@@ -413,33 +414,6 @@
       "id": "couldn-t-turn-it-down-chelsea-confirm-henderson-signing"
     },
     {
-      "published_at": "2026-08-03T08:45:00+00:00",
-      "updated_at": "2026-08-03T08:45:00+00:00",
-      "title": "Skinner leaves Man Utd Women",
-      "summary": "Marc Skinner has left his role as Manchester United Women head coach after five years in charge",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-man-utd-boss-wsl_7312609.jpg?20260803090541",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13569329/marc-skinner-manchester-united-womens-head-coach-leaves-club-after-five-years-in-charge"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13569329/marc-skinner-manchester-united-womens-head-coach-leaves-club-after-five-years-in-charge"
-      },
-      "confirmed_by": [],
-      "id": "skinner-leaves-man-utd-women"
-    },
-    {
       "published_at": "2026-08-02T16:20:40+00:00",
       "updated_at": "2026-08-02T16:20:40+00:00",
       "title": "Noah Christofferssons hattrick sänkte AIK: ”Galet”",
@@ -474,6 +448,61 @@
         }
       ],
       "id": "noah-christofferssons-hattrick-s-nkte-aik-galet"
+    },
+    {
+      "published_at": "2026-08-03T17:30:01+00:00",
+      "updated_at": "2026-08-03T17:30:01+00:00",
+      "title": "Transfer roundup: Chelsea sell Trevoh Chalobah and sign Jordan Henderson",
+      "summary": "Chalobah to join Cesc Fàbregas at Como for £27.5m Henderson adds experience to Xabi Alonso’s squad Trevoh Chalobah’s long association with Chelsea is to end after Como agreed a deal worth an initial £25.7m. The England World Cup defender ’s departure was agreed on the same day the club completed the signing of Jordan Henderson. Chalobah made 105 Premier League appearances for Chelsea and established himself as a first-team option during a number of turbulent periods for the club.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://i.guim.co.uk/img/media/5d4088648475d6c1ed077c266463ba0161e1dce7/357_194_2135_1708/master/2135.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f2499d9dfdb360f4ab3d5896ec80338c",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/03/transfer-roundup-chelsea-sell-trevoh-chalobah-sign-jordan-henderson"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/03/transfer-roundup-chelsea-sell-trevoh-chalobah-sign-jordan-henderson"
+      },
+      "confirmed_by": [],
+      "id": "transfer-roundup-chelsea-sell-trevoh-chalobah-and-sign-jordan-henderson"
+    },
+    {
+      "published_at": "2026-08-03T16:48:15+00:00",
+      "updated_at": "2026-08-03T16:48:15+00:00",
+      "title": "Mauricio Pochettino’s US return is risky, expensive and probably unnecessary | Leander Schaerlaeckens",
+      "summary": "In giving the head coach another World Cup cycle, US Soccer is tempting fate for negligible benefit Mauricio Pochettino and US Soccer enjoyed their time together. Or, rather, they enshoyed it, as Pochettino would pronounce it in his thick Argentinian accent, which charmingly carries over when he speaks English.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/af2415af86334bbdeafbef8095cd6798ca669d2d/213_0_2125_1701/master/2125.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=a363ca361fd66a9c4cce7500e8c22eeb",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/03/mauricio-pochettino-usmnt-return"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/03/mauricio-pochettino-usmnt-return"
+      },
+      "confirmed_by": [],
+      "id": "mauricio-pochettino-s-us-return-is-risky-expensive-and-probably-unnecessary-leander-schaer"
     },
     {
       "published_at": "2026-08-03T15:00:21+00:00",
@@ -693,60 +722,6 @@
       "id": "fifa-opens-disciplinary-proceedings-against-argentina-over-falklands-banner-and-final-chao"
     },
     {
-      "published_at": "2026-07-29T14:05:09+00:00",
-      "updated_at": "2026-07-29T14:05:09+00:00",
-      "title": "Defence promises to be a central issue for Carrick and Manchester United",
-      "summary": "Manager may have concerns over his group of five central defenders withstanding the demands of a long campaign Manchester United’s central defender quintet of Leny Yoro, Ayden Heaven, Harry Maguire, Matthijs De Ligt and Lisandro Martínez: an ideal blend of youthful zest and experienced winners or a unit that may prove vulnerable and injury-prone across the long months of the campaign? In Yoro, Heaven, Maguire, De Ligt, and Martínez, Michael Carrick can talk of high potential and seasoned operators who will patrol the manager’s backline safely. Except it would be understandable if the 45-year-old privately has any concerns about the five defenders, as a unit, especially as there is no plan to strengthen the position unless one (or more) departs.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://i.guim.co.uk/img/media/e00ef50d6b6adffc96ad76feedd30bfe2a72ed6a/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3e91e401de6e20ab67dff2e9562f543c",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/29/manchester-united-michael-carrick-central-defence-premier-league"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/29/manchester-united-michael-carrick-central-defence-premier-league"
-      },
-      "confirmed_by": [],
-      "id": "defence-promises-to-be-a-central-issue-for-carrick-and-manchester-united"
-    },
-    {
-      "published_at": "2026-07-29T07:00:25+00:00",
-      "updated_at": "2026-07-29T07:00:25+00:00",
-      "title": "Where all 20 Premier League clubs should strengthen before the season",
-      "summary": "Manchester United and Arsenal need midfielders, Liverpool should sign a winger and Chelsea require a goalkeeper By Opta Analyst Declan Rice was worked to the bone by Arsenal last season, playing 4,456 minutes in all competitions. This showed at points during the World Cup, when the midfielder’s body looked on the verge of breaking down. Arsenal need high-quality reinforcements in the centre of the pitch so Rice can occasionally have a rest.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/d663f04025afde7942cac08fd3253d43b272b254/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd31ee5304d80d2fb41a20a2cc7c7e78",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/jul/29/premier-league-clubs-strengthen-season-manchester-united-arsenal-midfielders-city-liverpool-chelsea"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/jul/29/premier-league-clubs-strengthen-season-manchester-united-arsenal-midfielders-city-liverpool-chelsea"
-      },
-      "confirmed_by": [],
-      "id": "where-all-20-premier-league-clubs-should-strengthen-before-the-season"
-    },
-    {
       "published_at": "2026-08-02T18:06:00+00:00",
       "updated_at": "2026-08-02T18:06:00+00:00",
       "title": "Klart: Colin Rösler lämnar Malmö FF",
@@ -828,6 +803,33 @@
       },
       "confirmed_by": [],
       "id": "vi-tycker-om-mff"
+    },
+    {
+      "published_at": "2026-08-03T16:58:51+00:00",
+      "updated_at": "2026-08-03T16:58:51+00:00",
+      "title": "Experten: ”Infantino kommer inte avgå frivilligt”",
+      "summary": "Förtroendet för Gianni Infantino är i stort sett obefintligt i stora delar av fotbollsvärlden. Men SVT:s expert Jonas Eriksson tror inte att det kommer bli en lätt process att få till en annan Fifa-ordförande. – Han har en självbild som är grandios – han kommer inte avgå frivilligt, säger Eriksson i ”Sportnytt”",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.24/0.43/fbe20467950cc4aa9b30b01c8e04a0be09a43162ff4c63126d173bd36cb116c3",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/experten-infantino-kommer-inte-avga-frivilligt"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/experten-infantino-kommer-inte-avga-frivilligt"
+      },
+      "confirmed_by": [],
+      "id": "experten-infantino-kommer-inte-avg-frivilligt"
     },
     {
       "published_at": "2026-08-03T12:57:48+00:00",
@@ -1019,33 +1021,6 @@
       "id": "fina-bilderna-sanas-ord-till-andersson-kommer-dansa-med-folk"
     },
     {
-      "published_at": "2026-08-02T19:03:34+00:00",
-      "updated_at": "2026-08-02T19:03:34+00:00",
-      "title": "Experten: Här är tre kandidater om Gianni Infantino avsätts",
-      "summary": "Uefa uppges ha tappat förtroendet för Gianni Infantino. Här är namnen det pratas om som ersättare – om Fifas ordförande skulle avsättas. – Det finns tre namn som florerar, säger SVT:s expert Jonas Eriksson",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.68/0.44/e54e8f7f32f8ce065d3e4117decf7fcec6bf9b36d60e03edc83434fce9bc25e8",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/experten-har-ar-tre-kandidater-om-gianni-infantino-avsatts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/experten-har-ar-tre-kandidater-om-gianni-infantino-avsatts"
-      },
-      "confirmed_by": [],
-      "id": "experten-h-r-r-tre-kandidater-om-gianni-infantino-avs-tts"
-    },
-    {
       "published_at": "2026-08-03T16:54:00+00:00",
       "updated_at": "2026-08-03T16:54:00+00:00",
       "title": "Coventry latest: Rushworth deal agreed as Hamer talks continue",
@@ -1126,6 +1101,33 @@
       },
       "confirmed_by": [],
       "id": "pochettino-signs-new-usa-deal"
+    },
+    {
+      "published_at": "2026-08-03T18:42:00+00:00",
+      "updated_at": "2026-08-03T18:42:00+00:00",
+      "title": "Can Rashford be reintergrated at Man Utd?",
+      "summary": "In a special Man Utd summer podcast, Sky Sports presenter Joe Thomlinson is joined by Sky Sports News Dan Khan and Sky Sports football journalist William Bitibiri to discuss Rashfords future at Old Trafford. The trio also discuss Uniteds midfield rebuild and the pursuit of Lewis Hall",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-marcus-rashford-man-utd_7313148.jpg?20260803180702",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13569445/man-utd-transfers-can-marcus-rashford-be-reintegrated-at-old-trafford-or-will-he-leave-before-the-end-of-the-window"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13569445/man-utd-transfers-can-marcus-rashford-be-reintegrated-at-old-trafford-or-will-he-leave-before-the-end-of-the-window"
+      },
+      "confirmed_by": [],
+      "id": "can-rashford-be-reintergrated-at-man-utd"
     },
     {
       "published_at": "2026-08-03T12:00:00+00:00",
@@ -1239,33 +1241,6 @@
       "id": "upplagt-f-r-historisk-skr-ll-f-r-norge-mot-ett-darrigt-england"
     },
     {
-      "published_at": "2026-08-01T11:51:20+00:00",
-      "updated_at": "2026-08-01T11:51:20+00:00",
-      "title": "\"Miljardmatchen i sikte - rysare väntas\"",
-      "summary": "\"Miljardmatchen i sikte - rysare väntas\" Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "miljardmatchen-i-sikte-rysare-v-ntas"
-    },
-    {
       "published_at": "2026-07-30T14:55:40+00:00",
       "updated_at": "2026-07-30T14:55:40+00:00",
       "title": "\"Londonderby - nu kan Spurs rädda kontraktet\"",
@@ -1293,10 +1268,10 @@
       "id": "londonderby-nu-kan-spurs-r-dda-kontraktet"
     },
     {
-      "published_at": "2026-07-27T17:16:00+00:00",
-      "updated_at": "2026-07-27T17:16:00+00:00",
-      "title": "Kouame och Ayari klev av skadade",
-      "summary": "Kouame och Ayari klev av skadade Fotbollskanalen",
+      "published_at": "2026-08-03T18:36:01+00:00",
+      "updated_at": "2026-08-03T18:36:01+00:00",
+      "title": "Uppgifter: Erik Botheim på väg bort från Malmö FF",
+      "summary": "Det blåser förändringarnas vindar i Malmö FF. Nu kommer nästa förändring hos mesta mästarna. Enligt Fotbollskanalens uppgifter förbereder MFF en försäljning av stjärnanfallaren Erik Botheim",
       "category": [
         "Sverige"
       ],
@@ -1304,20 +1279,47 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/ENinQxHbfvUdzoitqUaaIRa7ZdaMIN6sGSVwQ7hZ.jpg",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/uppgifter-erik-botheim-pa-vag-bort-fran-malmo-ff-698776"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/uppgifter-erik-botheim-pa-vag-bort-fran-malmo-ff-698776"
       },
       "confirmed_by": [],
-      "id": "kouame-och-ayari-klev-av-skadade"
+      "id": "uppgifter-erik-botheim-p-v-g-bort-fr-n-malm-ff"
+    },
+    {
+      "published_at": "2026-08-03T17:09:37+00:00",
+      "updated_at": "2026-08-03T17:09:37+00:00",
+      "title": "Motståndarkoll: Östers IF 2.0",
+      "summary": "Superettan - Omgång 17 IK Brage - Landskrona BoIS Tisdag 1/8 17.00, Borlänge Energi Arena",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/GHxs28pVfJtd1VGlXonx40EXfPNVTSN3rSDt5Bby.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/motstandarkoll-osters-if-20-698762"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/motstandarkoll-osters-if-20-698762"
+      },
+      "confirmed_by": [],
+      "id": "motst-ndarkoll-sters-if-2-0"
     },
     {
       "published_at": "2026-08-03T15:30:00+00:00",
@@ -1455,66 +1457,40 @@
       "id": "lagen-mj-llby-f-r-m-ta-i-europa-league-playoff-om-cl-dr-mmen-spricker"
     },
     {
-      "published_at": "2026-08-03T09:47:53+00:00",
-      "updated_at": "2026-08-03T09:47:53+00:00",
-      "title": "Inför HBK - IK Sirius",
-      "summary": "Ikväll klockan 19:00 så blåser rättskiparen Kristoffer Karlsson igång den 15e omgången av Allsvenskan för HBKs del. Ett HBK i ett otroligt mörkt läge mot ett högt flygande Sirius, ett Sirius som inte har en enda förlust på de 14 tidigare omgångarna och med kanske hela seriens två hetaste spelare i skotten Robbie Ure som stått för makalösa 15 mål och 2 assist på 14 matcher och Isak Bjerkebo som gjort 10 mål och 5 assist på 14 spelade",
+      "published_at": "2026-08-03T18:00:00+00:00",
+      "updated_at": "2026-08-03T18:00:00+00:00",
+      "title": "Hogh misses big chance on debut as Celtic kick off season vs Dundee LIVE!",
+      "summary": "Scottish Premiership match Celtic vs Dundee 03.08.2026. Preview and stats followed by live commentary, video highlights and match report",
       "category": [
-        "Sverige"
+        "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/N0LBVfbWjfpwQxdY3W2rfUtJtbwc0TnGomRdbNSr.jpg",
+      "image": "",
       "sources": [
         {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/infor-hbk-ik-sirius-698737"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/celtic-vs-dundee/live/558338"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/infor-hbk-ik-sirius-698737"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/celtic-vs-dundee/live/558338"
       },
       "confirmed_by": [],
-      "id": "inf-r-hbk-ik-sirius"
+      "id": "hogh-misses-big-chance-on-debut-as-celtic-kick-off-season-vs-dundee-live"
     },
     {
-      "published_at": "2026-08-03T07:40:25+00:00",
-      "updated_at": "2026-08-03T07:40:25+00:00",
-      "title": "IFK Göteborg kan få drömmotstånd – eller tuff bortaresa i Europa",
-      "summary": "IFK Göteborg har fortfarande ett dubbelmöte mot Gent att ta sig igenom. Men redan under måndagen får Blåvitt veta vilket lag som väntar i ett eventuellt playoff till Conference League.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/X5SpLLjUeg7bKap4HnadilIaYeRTbcJGONPvxzGN.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/ifk-goteborg-kan-fa-drommotstand-eller-tuff-bortaresa-i-europa-698735"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/ifk-goteborg-kan-fa-drommotstand-eller-tuff-bortaresa-i-europa-698735"
-      },
-      "confirmed_by": [],
-      "id": "ifk-g-teborg-kan-f-dr-mmotst-nd-eller-tuff-bortaresa-i-europa"
-    },
-    {
-      "published_at": "2026-08-03T13:00:00+00:00",
-      "updated_at": "2026-08-03T13:00:00+00:00",
-      "title": "Liverpool latest: Does Iraola have enough cover at the back?",
+      "published_at": "2026-08-03T17:34:00+00:00",
+      "updated_at": "2026-08-03T17:34:00+00:00",
+      "title": "Liverpool latest: What's the latest on Reds' move for Barcola?",
       "summary": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
-        "Premier League"
+        "Premier League",
+        "Transfer"
       ],
       "status": "Reported",
       "entity": "",
@@ -1533,36 +1509,7 @@
         "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "liverpool-latest-does-iraola-have-enough-cover-at-the-back"
-    },
-    {
-      "published_at": "2026-08-03T10:16:00+00:00",
-      "updated_at": "2026-08-03T10:16:00+00:00",
-      "title": "Tottenham latest: Atletico and Inter still interested in Romero",
-      "summary": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Premier League",
-        "La Liga",
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://e0.365dm.com/26/04/1600x900/skysports-spurs-roberto-de-zerbi_7216074.jpg?20260410141222",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "tottenham-latest-atletico-and-inter-still-interested-in-romero"
+      "id": "liverpool-latest-what-s-the-latest-on-reds-move-for-barcola"
     }
   ]
 }
