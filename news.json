@@ -1,6 +1,43 @@
 {
-  "updated_at": "2026-08-04T13:03:09.477058+00:00",
+  "updated_at": "2026-08-04T16:12:20.473462+00:00",
   "items": [
+    {
+      "published_at": "2026-08-04T12:54:20+00:00",
+      "updated_at": "2026-08-04T12:54:20+00:00",
+      "title": "Kretinsky share sale hinders Staveley's West Ham bid",
+      "summary": "West Ham co-chair Daniel Kretinsky sells a small stake in the club in a move that could end Amanda Staveley's hopes of investment",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c717/live/8176fff0-9002-11f1-9dfb-fd4408d16f2f.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ce8lgel8kj3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13210475/west-ham-latest-news"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ce8lgel8kj3o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13210475/west-ham-latest-news"
+        }
+      ],
+      "id": "kretinsky-share-sale-hinders-staveley-s-west-ham-bid"
+    },
     {
       "published_at": "2026-08-04T11:12:13+00:00",
       "updated_at": "2026-08-04T11:12:13+00:00",
@@ -39,69 +76,140 @@
       "id": "arsenal-in-talks-to-sign-newcastle-s-guimaraes"
     },
     {
-      "published_at": "2026-08-03T21:18:39+00:00",
-      "updated_at": "2026-08-03T21:18:39+00:00",
-      "title": "Fulham sign Garcia and Palacios from Real Madrid",
-      "summary": "Fulham sign Gonzalo Garcia and Cesar Palacios from Real Madrid on five-year deals",
+      "published_at": "2026-08-04T16:05:03+00:00",
+      "updated_at": "2026-08-04T16:05:03+00:00",
+      "title": "Cape Verde coach Bubista resigns as Ivory Coast reappoint Renard",
+      "summary": "Head coach Bubista leaves Cape Verde after reaching the last 32 at the World Cup while Ivory Coast reappoint two-time Afcon winner Herve Renard",
       "category": [
-        "La Liga",
-        "Transfer"
+        "Transfer",
+        "Coach"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
-      "club": "real-madrid",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a1d9/live/6bb7fd20-8f7d-11f1-a41e-b9f388d2ea9c.jpg",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0349/live/6a2ede20-9017-11f1-b2ab-0dd01740f9f6.png",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5yv049xqpzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c04kg192k2eo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5yv049xqpzo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/c04kg192k2eo?at_medium=RSS&at_campaign=rss"
       },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-        }
-      ],
-      "id": "fulham-sign-garcia-and-palacios-from-real-madrid"
+      "confirmed_by": [],
+      "id": "cape-verde-coach-bubista-resigns-as-ivory-coast-reappoint-renard"
     },
     {
-      "published_at": "2026-08-04T12:54:20+00:00",
-      "updated_at": "2026-08-04T12:54:20+00:00",
-      "title": "Kretinsky share sale hinders Staveley's West Ham bid",
-      "summary": "West Ham co-chair Daniel Kretinsky sells a small stake in the club in a move that could end Amanda Staveley's hopes of investment",
+      "published_at": "2026-08-04T15:05:02+00:00",
+      "updated_at": "2026-08-04T15:05:02+00:00",
+      "title": "Meet the £1m-rated non-league star Abdulmalik",
+      "summary": "Boreham Wood reject a £1m bid for one of their forwards - but who is he?",
       "category": [
-        "Premier League",
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9680/live/ac9b54e0-8ff0-11f1-a10e-47119dd4425c.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cjejkke8nj7o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cjejkke8nj7o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "meet-the-1m-rated-non-league-star-abdulmalik"
+    },
+    {
+      "published_at": "2026-08-04T13:43:44+00:00",
+      "updated_at": "2026-08-04T13:43:44+00:00",
+      "title": "Toone grateful to Skinner after his Man Utd departure",
+      "summary": "Manchester United midfielder Ella Toone says she will always be \"grateful\" to former manager Marc Skinner after he helped her through the death of her father",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/20e6/live/792c1920-9007-11f1-9dfb-fd4408d16f2f.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cgljg5068n5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cgljg5068n5o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "toone-grateful-to-skinner-after-his-man-utd-departure"
+    },
+    {
+      "published_at": "2026-08-04T13:40:15+00:00",
+      "updated_at": "2026-08-04T13:40:15+00:00",
+      "title": "Retired Taylor named head of refereeing in Turkey",
+      "summary": "Retired referee Anthony Taylor is appointed as director of elite refereeing for the Turkish Football Federation",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e3d8/live/a9f6d4e0-9008-11f1-9dfb-fd4408d16f2f.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8dnr5m89d3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c8dnr5m89d3o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "retired-taylor-named-head-of-refereeing-in-turkey"
+    },
+    {
+      "published_at": "2026-08-04T13:12:11+00:00",
+      "updated_at": "2026-08-04T13:12:11+00:00",
+      "title": "Keeper Jorgensen set for loan move to Strasbourg",
+      "summary": "Chelsea goalkeeper Filip Jorgensen is set to seal a season-long loan to Strasbourg, part of the same ownership group as the London club",
+      "category": [
         "Transfer"
       ],
       "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c717/live/8176fff0-9002-11f1-9dfb-fd4408d16f2f.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/79fd/live/595c0db0-9004-11f1-9dfb-fd4408d16f2f.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ce8lgel8kj3o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwyepgxz93yo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ce8lgel8kj3o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwyepgxz93yo?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "kretinsky-share-sale-hinders-staveley-s-west-ham-bid"
+      "id": "keeper-jorgensen-set-for-loan-move-to-strasbourg"
     },
     {
       "published_at": "2026-08-04T12:36:58+00:00",
@@ -158,143 +266,32 @@
       "id": "coventry-sign-brighton-goalkeeper-rushworth-after-loan"
     },
     {
-      "published_at": "2026-08-03T17:30:32+00:00",
-      "updated_at": "2026-08-03T17:30:32+00:00",
-      "title": "Real to resume talks with Arsenal target Vinicius Jr",
-      "summary": "Real Madrid and Vinicius Jr will resume contract talks this week as Arsenal wait in the wings",
+      "published_at": "2026-08-03T21:18:39+00:00",
+      "updated_at": "2026-08-03T21:18:39+00:00",
+      "title": "Fulham sign Garcia and Palacios from Real Madrid",
+      "summary": "Fulham sign Gonzalo Garcia and Cesar Palacios from Real Madrid on five-year deals",
       "category": [
-        "Premier League",
+        "La Liga",
         "Transfer"
       ],
       "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2b1c/live/f88277c0-8f33-11f1-bd9f-4361c301d82b.jpg",
+      "club": "real-madrid",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a1d9/live/6bb7fd20-8f7d-11f1-a41e-b9f388d2ea9c.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckge3g8dl95o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5yv049xqpzo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckge3g8dl95o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5yv049xqpzo?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "real-to-resume-talks-with-arsenal-target-vinicius-jr"
-    },
-    {
-      "published_at": "2026-08-03T15:39:32+00:00",
-      "updated_at": "2026-08-03T15:39:32+00:00",
-      "title": "Como agree £31m deal to sign Chalobah from Chelsea",
-      "summary": "Como agree a deal worth more than £30m to sign Chelsea defender Trevoh Chalobah",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bd23/live/c0064220-8f4f-11f1-99e6-95543b07d23d.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cgljgk65j25o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cgljgk65j25o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "como-agree-31m-deal-to-sign-chalobah-from-chelsea"
-    },
-    {
-      "published_at": "2026-08-03T15:37:14+00:00",
-      "updated_at": "2026-08-03T15:37:14+00:00",
-      "title": "Ex-Man City striker Dzeko, 40, pens new Schalke deal",
-      "summary": "Bosnia and Herzegovina captain Edin Dzeko, 40, signs a one-year contract extension at newly promoted Bundesliga side Schalke",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/931f/live/16738800-8f4d-11f1-9818-6fa9a4d75fb0.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwymplydl82o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwymplydl82o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "ex-man-city-striker-dzeko-40-pens-new-schalke-deal"
-    },
-    {
-      "published_at": "2026-08-03T15:17:56+00:00",
-      "updated_at": "2026-08-03T15:17:56+00:00",
-      "title": "England midfielder Henderson joins Chelsea",
-      "summary": "Free agent Jordan Henderson signs a two-year deal with Chelsea after his contract with Premier League rivals Brentford is mutually terminated",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1eb2/live/62bbe1d0-8f4d-11f1-9818-6fa9a4d75fb0.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c62qnnrzqk5o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c62qnnrzqk5o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "england-midfielder-henderson-joins-chelsea"
-    },
-    {
-      "published_at": "2026-08-03T13:57:06+00:00",
-      "updated_at": "2026-08-03T13:57:06+00:00",
-      "title": "Pochettino agrees US manager contract extension",
-      "summary": "Mauricio Pochettino agrees a deal to continue as the manager of the United States men's team until 2030",
-      "category": [
-        "Transfer",
-        "Coach"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8da9/live/f67f1030-8f3f-11f1-8c3d-6f698d2b4d1e.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5yepj80j9xo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5yepj80j9xo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "pochettino-agrees-us-manager-contract-extension"
+      "id": "fulham-sign-garcia-and-palacios-from-real-madrid"
     },
     {
       "published_at": "2026-08-03T20:18:53+00:00",
@@ -354,7 +351,7 @@
       "published_at": "2026-08-04T11:36:24+00:00",
       "updated_at": "2026-08-04T11:36:24+00:00",
       "title": "Wenger and Infantino’s No 2 Grafström criticise ‘sad and reproachable’ World Cup plan",
-      "summary": "Senior Fifa duo pile pressure on under-fire president Wenger reveals he knew nothing about investment plan Gianni Infantino’s authority was dealt a further blow after his No 2, the Fifa secretary general Mattias Grafström, called the failed World Cup private investment plan a “sad and reproachable series of events”. In further evidence that senior Fifa personnel continue to distance themselves from Infantino and his botched scheme, Arsène Wenger issued a statement on Tuesday morning saying the project’s withdrawal was “absolutely necessary and beyond question”. The former Arsenal manager is Fifa’s chief of global development and had publicly been silent about the crisis unfolding in world football.",
+      "summary": "Senior Fifa duo pile pressure on under-fire president Wenger reveals he knew nothing about investment plan Gianni Infantino’s authority was dealt a further blow after his No 2, the Fifa secretary general, Mattias Grafström, called the failed World Cup private investment plan a “sad and reproachable series of events”. In further evidence that senior Fifa personnel continue to distance themselves from Infantino and his botched scheme, Arsène Wenger issued a statement on Tuesday morning saying the project’s withdrawal was “absolutely necessary and beyond question”. The former Arsenal manager is Fifa’s chief of global development and had publicly been silent about the crisis unfolding in world football.",
       "category": [
         "Football"
       ],
@@ -387,6 +384,70 @@
       "id": "wenger-and-infantino-s-no-2-grafstr-m-criticise-sad-and-reproachable-world-cup-plan"
     },
     {
+      "published_at": "2026-07-31T12:20:03+00:00",
+      "updated_at": "2026-07-31T12:20:03+00:00",
+      "title": "Franco Baresi was not only the captain but the moral heart of great Milan team",
+      "summary": "The late centre-back defined an era of Italian defending and his collection of honours is eternal proof of his class There are very few players who become bywords for their position, who enjoy universal acclaim. But for anybody who watched football in the late 80s or early 90s, Franco Baresi was the central defender. He was unsurpassed, obviously the best in his position in the world, the definition of the art of the defending.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.18/0.35/12cff6954829ed9ae2b405864fcbc84ca8df01e94c854241a755c9105d4ae936",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/tusentals-sa-farval-till-milan-legendaren-franco-baresi"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/31/franco-baresi-was-not-only-the-captain-but-the-moral-heart-of-sacchis-great-milan-team"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/tusentals-sa-farval-till-milan-legendaren-franco-baresi"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/31/franco-baresi-was-not-only-the-captain-but-the-moral-heart-of-sacchis-great-milan-team"
+        }
+      ],
+      "id": "franco-baresi-was-not-only-the-captain-but-the-moral-heart-of-great-milan-team"
+    },
+    {
+      "published_at": "2026-08-04T16:36:00+00:00",
+      "updated_at": "2026-08-04T16:36:00+00:00",
+      "title": "Barcelona sign Kerolin from Man City in WSL record sale",
+      "summary": "Barcelona have completed the signing of Brazilian forward Kerolin from Manchester City",
+      "category": [
+        "La Liga",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-manchester-city-kerolin_7288666.jpg?20260703090438",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13566091/kerolin-man-city-forward-joins-barcelona-for-1-25m-in-record-womens-super-league-sale"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13566091/kerolin-man-city-forward-joins-barcelona-for-1-25m-in-record-womens-super-league-sale"
+      },
+      "confirmed_by": [],
+      "id": "barcelona-sign-kerolin-from-man-city-in-wsl-record-sale"
+    },
+    {
       "published_at": "2026-08-04T12:50:00+00:00",
       "updated_at": "2026-08-04T12:50:00+00:00",
       "title": "Where would Guimaraes fit in at Arsenal?",
@@ -412,33 +473,6 @@
       },
       "confirmed_by": [],
       "id": "where-would-guimaraes-fit-in-at-arsenal"
-    },
-    {
-      "published_at": "2026-08-03T22:30:00+00:00",
-      "updated_at": "2026-08-03T22:30:00+00:00",
-      "title": "Papers: Turkish side eyeing shock Rashford move",
-      "summary": "Latest transfer news and headlines as Newcastle reject £75m opening bid from Arsenal for Bruno Guimaraes; Chelsea receive multiple approaches over Mykhailo Mudryk; Liverpool have no plans to sell Cody Gakpo amid Tottenhams interest; Charltons US owners have put the club up for sale",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/25/03/1600x900/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13569563/marcus-rashford-transfer-news-fenerbahce-eye-shock-move-for-manchester-united-forward-paper-talk"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13569563/marcus-rashford-transfer-news-fenerbahce-eye-shock-move-for-manchester-united-forward-paper-talk"
-      },
-      "confirmed_by": [],
-      "id": "papers-turkish-side-eyeing-shock-rashford-move"
     },
     {
       "published_at": "2026-08-03T18:51:26+00:00",
@@ -585,33 +619,6 @@
       "id": "alverca-the-portuguese-club-thriving-with-help-from-vin-cius-j-nior"
     },
     {
-      "published_at": "2026-08-03T21:02:30+00:00",
-      "updated_at": "2026-08-03T21:02:30+00:00",
-      "title": "MLS investigates reports of antisemitic chants toward New England’s Dor Turgeman in Montreal",
-      "summary": "Israeli striker scored, then gestured at CF Montréal fans Revolution ‘strongly condemn’ the chants The New England Revolution have denounced chants they deemed “antisemitic” and “discriminatory” from CF Montréal fans during Saturday’s MLS matchup between the sides in Quebec. The specific chants were directed towards New England’s Israeli striker Dor Turgeman, with broadcast microphones capturing fans chanting “free Palestine” shortly before he scored a goal. MLS on Monday confirmed it was “aware of reported antisemitic and discriminatory language directed at a New England Revolution player” and that the matter is under investigation.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/1fac87a254caa04b1296af1935d9db65881a6e55/386_0_3839_3073/master/3839.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c122f7ffb0371ff4f15dee6d6998f894",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/03/mls-dor-turgeman-montreal-new-england-revolution-israel"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/03/mls-dor-turgeman-montreal-new-england-revolution-israel"
-      },
-      "confirmed_by": [],
-      "id": "mls-investigates-reports-of-antisemitic-chants-toward-new-england-s-dor-turgeman-in-montre"
-    },
-    {
       "published_at": "2026-08-03T17:30:01+00:00",
       "updated_at": "2026-08-03T17:30:01+00:00",
       "title": "Transfer roundup: Chelsea sell Trevoh Chalobah and sign Jordan Henderson",
@@ -722,32 +729,58 @@
       "id": "vin-cius-j-nior-to-arsenal-doesn-t-make-sense-that-s-why-it-may-work-jonathan-wilson"
     },
     {
-      "published_at": "2026-08-03T13:01:57+00:00",
-      "updated_at": "2026-08-03T13:01:57+00:00",
-      "title": "Mauricio Pochettino agrees deal to stay as US coach through World Cup 2030",
-      "summary": "Pochettino joined US national team in 2024 Coach led US to last 16 at 2026 World Cup US men’s national team head coach Mauricio Pochettino and the US Soccer Federation have agreed to a contract extension that will keep Pochettino attached to the program through 2030, US Soccer announced on Monday. The two sides had been actively engaged in discussions on a contract extension for several months, long before the USMNT’s disappointing, last-16 exit in this summer’s World Cup, with the federation making it clear it desired Pochettino to stay. Conversations picked up in the weeks following the World Cup, with the Guardian reporting last week that the sides had been in the “final stages” of agreeing to a deal.",
+      "published_at": "2026-08-03T09:30:14+00:00",
+      "updated_at": "2026-08-03T09:30:14+00:00",
+      "title": "‘It’s my time’: Christos Tzolis fighting fit for Arsenal on return to England",
+      "summary": "The £34m signing from Club Brugge says he is a more complete player now after an indifferent time at Norwich For any Arsenal fan eager to know what Christos Tzolis might bring to the Premier League champions, the winger’s swiftly earned nickname at his new club might prove instructive. In the 2006 action film 300, the leading figure of King Leonidas guides a meagre bunch of Spartans against an overwhelmingly large invading army. Although doomed by the vast numerical disadvantage, Leonidas’s courage, determination and strength inspires his troops far beyond their means.",
       "category": [
-        "Transfer",
-        "Coach"
+        "Premier League"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/da24155fea45e717269aae84c10297d678b37d34/191_0_3531_2825/master/3531.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8da7e6d19595b17c7d25be8acf632fa0",
+      "club": "arsenal",
+      "image": "https://i.guim.co.uk/img/media/586afcd3e10f99e85ec24f0d374424d4da5be26e/335_0_6343_5074/master/6343.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1c66a85a4bd27ebd8b8284e67539bd28",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/03/mauricio-pochettino-new-contract-us-soccer-world-cup"
+          "url": "https://www.theguardian.com/football/2026/aug/03/christos-tzolis-arsenal-premier-league-club-brugge"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/03/mauricio-pochettino-new-contract-us-soccer-world-cup"
+        "url": "https://www.theguardian.com/football/2026/aug/03/christos-tzolis-arsenal-premier-league-club-brugge"
       },
       "confirmed_by": [],
-      "id": "mauricio-pochettino-agrees-deal-to-stay-as-us-coach-through-world-cup-2030"
+      "id": "it-s-my-time-christos-tzolis-fighting-fit-for-arsenal-on-return-to-england"
+    },
+    {
+      "published_at": "2026-08-01T15:00:55+00:00",
+      "updated_at": "2026-08-01T15:00:55+00:00",
+      "title": "There can be no letup. Humiliated Infantino must stand down at Fifa or be removed | Nick Ames",
+      "summary": "Uefa’s call for a boycott and declaration of no-confidence must be the opening salvos in push to dethrone game’s global leader There is no time to dance around the subject. Gianni Infantino must stand down as Fifa president or otherwise be legally removed. No fresh chances can be made available for an official who has demolished trust in football’s integrity and governance, trashing all remaining credibility of the body that oversees the world’s most-cherished sport.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/8b378f109d8ed192a6a8f1cc382d55de2798e469/1026_0_5132_4105/master/5132.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=8edd554eb46a2d9557a75de6015eb81c",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/01/humiliated-gianni-infantino-must-stand-down-fifa-or-be-removed-uefa-football-politics"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/01/humiliated-gianni-infantino-must-stand-down-fifa-or-be-removed-uefa-football-politics"
+      },
+      "confirmed_by": [],
+      "id": "there-can-be-no-letup-humiliated-infantino-must-stand-down-at-fifa-or-be-removed-nick-ames"
     },
     {
       "published_at": "2026-08-02T18:06:00+00:00",
@@ -995,58 +1028,89 @@
       "id": "kristian-lien-med-hattrick-n-r-djurg-rden-krossade-v-ster-s"
     },
     {
-      "published_at": "2026-08-03T16:58:51+00:00",
-      "updated_at": "2026-08-03T16:58:51+00:00",
-      "title": "Experten: ”Infantino kommer inte avgå frivilligt”",
-      "summary": "Förtroendet för Gianni Infantino är i stort sett obefintligt i stora delar av fotbollsvärlden. Men SVT:s expert Jonas Eriksson tror inte att det kommer bli en lätt process att få till en annan Fifa-ordförande. – Han har en självbild som är grandios – han kommer inte avgå frivilligt, säger Eriksson i ”Sportnytt”",
+      "published_at": "2026-08-04T16:20:00+00:00",
+      "updated_at": "2026-08-04T16:20:00+00:00",
+      "title": "Aston Villa latest: McGinn suffers injury scare in pre-season victory",
+      "summary": "Aston Villa transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.24/0.43/fbe20467950cc4aa9b30b01c8e04a0be09a43162ff4c63126d173bd36cb116c3",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/experten-infantino-kommer-inte-avga-frivilligt"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/experten-infantino-kommer-inte-avga-frivilligt"
-      },
-      "confirmed_by": [],
-      "id": "experten-infantino-kommer-inte-avg-frivilligt"
-    },
-    {
-      "published_at": "2026-08-04T13:08:00+00:00",
-      "updated_at": "2026-08-04T13:08:00+00:00",
-      "title": "Sunderland latest: Abdullahi joins Eyupspor",
-      "summary": "Sunderland transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Transfer"
+        "Premier League",
+        "Injury"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/25/05/1600x900/skysports-sunderland-club-blog_6929406.jpg?20250528092613",
+      "image": "https://e0.365dm.com/26/02/1600x900/skysports-aston-villa-latest_7164113.jpg?20260213143027",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "sunderland-latest-abdullahi-joins-eyupspor"
+      "id": "aston-villa-latest-mcginn-suffers-injury-scare-in-pre-season-victory"
+    },
+    {
+      "published_at": "2026-08-04T15:15:00+00:00",
+      "updated_at": "2026-08-04T15:15:00+00:00",
+      "title": "Liverpool fans have their say on squad strength: 'Is Trent on loan the answer?'",
+      "summary": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-liverpool-club-blog_7266198.jpg?20260605143916",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "liverpool-fans-have-their-say-on-squad-strength-is-trent-on-loan-the-answer"
+    },
+    {
+      "published_at": "2026-08-04T14:40:00+00:00",
+      "updated_at": "2026-08-04T14:40:00+00:00",
+      "title": "Chelsea latest: Mudryk attracting loan interest",
+      "summary": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Premier League",
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "chelsea-latest-mudryk-attracting-loan-interest"
     },
     {
       "published_at": "2026-08-04T12:30:00+00:00",
@@ -1105,6 +1169,33 @@
       "id": "rangers-8m-bid-for-serie-a-winger-rejected-as-yokota-nears-ibrox-move"
     },
     {
+      "published_at": "2026-08-04T13:46:00+00:00",
+      "updated_at": "2026-08-04T13:46:00+00:00",
+      "title": "Liverpool's squad lacks depth: What areas does Iraola needs to strengthen?",
+      "summary": "Liverpool are short in a number of positions just three weeks out from their Premier League opener and seemingly no closer to bringing in any further additions this summer",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-andoni-iraola_7309869.jpg?20260730063505",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13569738/liverpool-transfer-news-andoni-iraolas-squad-lacks-depth-where-should-reds-strengthen"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13569738/liverpool-transfer-news-andoni-iraolas-squad-lacks-depth-where-should-reds-strengthen"
+      },
+      "confirmed_by": [],
+      "id": "liverpool-s-squad-lacks-depth-what-areas-does-iraola-needs-to-strengthen"
+    },
+    {
       "published_at": "2026-08-04T12:30:00+00:00",
       "updated_at": "2026-08-04T12:30:00+00:00",
       "title": "What did we learn from opening weekend of Scottish Premiership season?",
@@ -1132,114 +1223,32 @@
       "id": "what-did-we-learn-from-opening-weekend-of-scottish-premiership-season"
     },
     {
-      "published_at": "2026-08-03T18:42:00+00:00",
-      "updated_at": "2026-08-03T18:42:00+00:00",
-      "title": "Rashford's future, Hall pursuit and Man Utd's midfield rebuild",
-      "summary": "In a special Man Utd summer podcast, Sky Sports presenter Joe Thomlinson is joined by Sky Sports News Dan Khan and Sky Sports football journalist William Bitibiri to discuss Rashfords future at Old Trafford. The trio also discuss Uniteds midfield rebuild and the pursuit of Lewis Hall",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-premier-league-manchester-united_7313389.jpg?20260804075904",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13569445/man-utd-transfers-can-marcus-rashford-be-reintegrated-at-old-trafford-or-will-he-leave-before-the-end-of-the-window"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13569445/man-utd-transfers-can-marcus-rashford-be-reintegrated-at-old-trafford-or-will-he-leave-before-the-end-of-the-window"
-      },
-      "confirmed_by": [],
-      "id": "rashford-s-future-hall-pursuit-and-man-utd-s-midfield-rebuild"
-    },
-    {
-      "published_at": "2026-08-03T04:52:34+00:00",
-      "updated_at": "2026-08-03T04:52:34+00:00",
-      "title": "Experten: \"Därför vinner PSG mot Arsenal i CL-finalen\"",
-      "summary": "Read the full report at Fotbollskanalen.",
+      "published_at": "2026-08-04T13:09:31+00:00",
+      "updated_at": "2026-08-04T13:09:31+00:00",
+      "title": "Intervju Theo Krantz: Det är roligt att få visa laget att de har bra vägg där längst bak",
+      "summary": "I matchen mot Helsingborg var de tre bästa spelarna enligt vår bedömning Elias Jemal, Moutaz Neffati och vår målvakt Theeo Krantz. Sist ut i denna trio för att bli intervjuad är vår excellenta målvakt, som staplar nollorna på hög!",
       "category": [
         "Sverige",
-        "Premier League",
-        "Ligue 1"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "experten-d-rf-r-vinner-psg-mot-arsenal-i-cl-finalen"
-    },
-    {
-      "published_at": "2026-08-01T11:51:20+00:00",
-      "updated_at": "2026-08-01T11:51:20+00:00",
-      "title": "\"Miljardmatchen i sikte - rysare väntas\"",
-      "summary": "\"Miljardmatchen i sikte - rysare väntas\" Fotbollskanalen",
-      "category": [
-        "Sverige"
+        "Serie A"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/MpohIBxFKvjYySw3ex0Yu1AOHyyDFeLKCupkGLGa.jpg",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/intervju-theo-krantz-det-ar-roligt-att-fa-visa-laget-att-de-har-bra-vagg-dar-langst-bak-698813"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/intervju-theo-krantz-det-ar-roligt-att-fa-visa-laget-att-de-har-bra-vagg-dar-langst-bak-698813"
       },
       "confirmed_by": [],
-      "id": "miljardmatchen-i-sikte-rysare-v-ntas"
-    },
-    {
-      "published_at": "2026-07-30T14:55:40+00:00",
-      "updated_at": "2026-07-30T14:55:40+00:00",
-      "title": "\"Londonderby - nu kan Spurs rädda kontraktet\"",
-      "summary": "\"Londonderby - nu kan Spurs rädda kontraktet\" Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "londonderby-nu-kan-spurs-r-dda-kontraktet"
+      "id": "intervju-theo-krantz-det-r-roligt-att-f-visa-laget-att-de-har-bra-v-gg-d-r-l-ngst-bak"
     },
     {
       "published_at": "2026-08-04T12:13:52+00:00",
@@ -1402,87 +1411,6 @@
       },
       "confirmed_by": [],
       "id": "kritiken-mot-supportrarna-inte-optimalt"
-    },
-    {
-      "published_at": "2026-08-04T07:00:00+00:00",
-      "updated_at": "2026-08-04T07:00:00+00:00",
-      "title": "Så bra är Mjällbys CL-motståndare: ”En gigant”",
-      "summary": "Mjällby fortsätter sitt historiska Europaäventyr. Inför dubbelmötet med Slovan Bratislava har SvenskaFans kontaktat Slovakien-experten Lukas Landl. – Åtta raka ligatitlar talar sitt klara språk, säger han om Mjällbys motstånd",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/SKfgVfsgldwS61DcDXrXhoMnr2DEPkQ7JmnwHF3E.png",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/sa-bra-ar-mjallbys-cl-motstandare-en-gigant-698738"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/sa-bra-ar-mjallbys-cl-motstandare-en-gigant-698738"
-      },
-      "confirmed_by": [],
-      "id": "s-bra-r-mj-llbys-cl-motst-ndare-en-gigant"
-    },
-    {
-      "published_at": "2026-08-04T13:27:00+00:00",
-      "updated_at": "2026-08-04T13:27:00+00:00",
-      "title": "Arsenal latest: Vini Jr to Arsenal is 'certainly possible'",
-      "summary": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/25/10/1600x900/skysports-arsenal-news-club_7039237.jpg?20251002155710",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "arsenal-latest-vini-jr-to-arsenal-is-certainly-possible"
-    },
-    {
-      "published_at": "2026-08-04T12:00:00+00:00",
-      "updated_at": "2026-08-04T12:00:00+00:00",
-      "title": "Coventry latest: Rushworth completes move to Sky Blues",
-      "summary": "Coventry transfers, latest news, rumours and gossip: Live updates, goals and highlights",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/05/1600x900/skysports-premier-league-club-rumours_7242342.jpg?20260508093716",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-      },
-      "confirmed_by": [],
-      "id": "coventry-latest-rushworth-completes-move-to-sky-blues"
     }
   ]
 }
