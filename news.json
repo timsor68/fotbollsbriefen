@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T16:12:20.473462+00:00",
+  "updated_at": "2026-08-04T18:27:58.982206+00:00",
   "items": [
     {
       "published_at": "2026-08-04T12:54:20+00:00",
@@ -42,7 +42,7 @@
       "published_at": "2026-08-04T11:12:13+00:00",
       "updated_at": "2026-08-04T11:12:13+00:00",
       "title": "Arsenal in talks to sign Newcastle's Guimaraes",
-      "summary": "Arsenal's opening bid for Bruno Guimaraes has been rejected by Newcastle, with the Gunners now considering their next move",
+      "summary": "Arsenal open direct talks with Newcastle United to sign captain Bruno Guimaraes",
       "category": [
         "Premier League",
         "Transfer"
@@ -59,7 +59,7 @@
         },
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13557961/bruno-guimaraes-arsenal-bid-rejected-by-newcastle-with-magpies-determined-to-keep-captain-and-brazil-international-midfielder"
+          "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
@@ -70,10 +70,73 @@
       "confirmed_by": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13557961/bruno-guimaraes-arsenal-bid-rejected-by-newcastle-with-magpies-determined-to-keep-captain-and-brazil-international-midfielder"
+          "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "id": "arsenal-in-talks-to-sign-newcastle-s-guimaraes"
+    },
+    {
+      "published_at": "2026-08-04T17:52:37+00:00",
+      "updated_at": "2026-08-04T17:52:37+00:00",
+      "title": "Tungt för Mjällby – tappade ledning till förlust i Champions League-kvalet",
+      "summary": "Mjällby vet nu vilket motstånd som väntar i ett eventuellt playoff till Champions League. Om Blekingelaget slår ut Slovan Bratislava i den tredje kvalomgången väntar vinnaren mellan Ararat-Armenia och slovenska Celje",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.88/0.28/49d6ead7d3c1ff26494afbcc4a958f56f6e297951d56518dcdac2a0aa3d76536",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/tungt-for-mjallby-tappade-ledning-till-forlust-i-champions-league-kvalet"
+        },
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/mjallby-lottning-till-champions-league-playoff-klart-dromlottning-698739"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/tungt-for-mjallby-tappade-ledning-till-forlust-i-champions-league-kvalet"
+      },
+      "confirmed_by": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/mjallby-lottning-till-champions-league-playoff-klart-dromlottning-698739"
+        }
+      ],
+      "id": "tungt-f-r-mj-llby-tappade-ledning-till-f-rlust-i-champions-league-kvalet"
+    },
+    {
+      "published_at": "2026-08-04T18:09:27+00:00",
+      "updated_at": "2026-08-04T18:09:27+00:00",
+      "title": "Ipswich sign midfielder Florentino from Burnley",
+      "summary": "Newly promoted Ipswich Town complete the signing of Portuguese midfielder Florentino Luis from Burnley for an undisclosed fee",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/31e8/live/75eb9450-902c-11f1-9cf2-316ac336c337.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cjrv0pxvqx1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cjrv0pxvqx1o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "ipswich-sign-midfielder-florentino-from-burnley"
     },
     {
       "published_at": "2026-08-04T16:05:03+00:00",
@@ -266,34 +329,6 @@
       "id": "coventry-sign-brighton-goalkeeper-rushworth-after-loan"
     },
     {
-      "published_at": "2026-08-03T21:18:39+00:00",
-      "updated_at": "2026-08-03T21:18:39+00:00",
-      "title": "Fulham sign Garcia and Palacios from Real Madrid",
-      "summary": "Fulham sign Gonzalo Garcia and Cesar Palacios from Real Madrid on five-year deals",
-      "category": [
-        "La Liga",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a1d9/live/6bb7fd20-8f7d-11f1-a41e-b9f388d2ea9c.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5yv049xqpzo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5yv049xqpzo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "fulham-sign-garcia-and-palacios-from-real-madrid"
-    },
-    {
       "published_at": "2026-08-03T20:18:53+00:00",
       "updated_at": "2026-08-03T20:18:53+00:00",
       "title": "Amin Boudris ärliga ord: ”Måste spela med ilska”",
@@ -348,40 +383,78 @@
       "id": "mikkel-ladefoged-varnad-och-utbytt-i-sista-vsk-matchen"
     },
     {
-      "published_at": "2026-08-04T11:36:24+00:00",
-      "updated_at": "2026-08-04T11:36:24+00:00",
-      "title": "Wenger and Infantino’s No 2 Grafström criticise ‘sad and reproachable’ World Cup plan",
-      "summary": "Senior Fifa duo pile pressure on under-fire president Wenger reveals he knew nothing about investment plan Gianni Infantino’s authority was dealt a further blow after his No 2, the Fifa secretary general, Mattias Grafström, called the failed World Cup private investment plan a “sad and reproachable series of events”. In further evidence that senior Fifa personnel continue to distance themselves from Infantino and his botched scheme, Arsène Wenger issued a statement on Tuesday morning saying the project’s withdrawal was “absolutely necessary and beyond question”. The former Arsenal manager is Fifa’s chief of global development and had publicly been silent about the crisis unfolding in world football.",
+      "published_at": "2026-08-04T17:15:28+00:00",
+      "updated_at": "2026-08-04T17:15:28+00:00",
+      "title": "Manchester United set to appoint former Hearts manager Eva Olid as new head coach",
+      "summary": "Olid expected to meet new players on Wednesday United squad pays tribute to former head coach Skinner Manchester United are set to appoint the former Hearts manager Eva Olid as their new head coach to replace Marc Skinner, following his exit on Monday, multiple sources have told the Guardian. Talks with the 40-year-old are understood to be very advanced and she is expected to be introduced to the United squad on Wednesday.",
       "category": [
-        "Football"
+        "Premier League",
+        "Coach"
       ],
       "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-fifa-arsene-wenger_7313553.jpg?20260804112138",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-eva-olid-hearts-womens-football_7313991.jpg?20260804183350",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
+          "url": "https://www.skysports.com/football/live-blog/11095/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest"
         },
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/04/arsene-wenger-gianni-infantino-grafstrom-criticise-world-cup-plan-fifa"
+          "url": "https://www.theguardian.com/football/2026/aug/04/manchester-united-women-new-head-coach-marc-skinner"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
+        "url": "https://www.skysports.com/football/live-blog/11095/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest"
       },
       "confirmed_by": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/04/arsene-wenger-gianni-infantino-grafstrom-criticise-world-cup-plan-fifa"
+          "url": "https://www.theguardian.com/football/2026/aug/04/manchester-united-women-new-head-coach-marc-skinner"
         }
       ],
-      "id": "wenger-and-infantino-s-no-2-grafstr-m-criticise-sad-and-reproachable-world-cup-plan"
+      "id": "manchester-united-set-to-appoint-former-hearts-manager-eva-olid-as-new-head-coach"
+    },
+    {
+      "published_at": "2026-08-04T16:37:50+00:00",
+      "updated_at": "2026-08-04T16:37:50+00:00",
+      "title": "Arsenal target Vinícius says Mourinho ‘wants me to be happy’ at Real Madrid",
+      "summary": "‘It has gone very well, getting to know the new coach’ Brazil winger has one year left on contract at Bernabéu Vinícius Júnior is settling into life under the new Real Madrid manager, José ⁠Mourinho, with a smile on his face even as uncertainty swirls around the Brazil forward’s future at the Bernabéu. The 26-year-old, who has ⁠been ​one of the linchpins of Real Madrid’s attack in recent years, gave an upbeat assessment of his second ⁠day of pre-season training under Mourinho despite speculation linking him with a possible move to Arsenal .",
+      "category": [
+        "Premier League",
+        "La Liga"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://e0.365dm.com/25/10/1600x900/skysports-arsenal-news-club_7039237.jpg?20251002155710",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/04/arsenal-target-vinicius-junior-jose-mourinho-real-madrid"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/04/arsenal-target-vinicius-junior-jose-mourinho-real-madrid"
+        }
+      ],
+      "id": "arsenal-target-vin-cius-says-mourinho-wants-me-to-be-happy-at-real-madrid"
     },
     {
       "published_at": "2026-07-31T12:20:03+00:00",
@@ -565,6 +638,33 @@
       "id": "david-squires-on-gianni-infantino-clinging-to-power-as-his-fifa-empire-crumbles"
     },
     {
+      "published_at": "2026-08-04T11:36:24+00:00",
+      "updated_at": "2026-08-04T11:36:24+00:00",
+      "title": "Wenger and Infantino’s No 2 Grafström criticise ‘sad and reproachable’ World Cup plan",
+      "summary": "Senior Fifa duo pile pressure on under-fire president Wenger reveals he knew nothing about investment plan Gianni Infantino’s authority was dealt a further blow after his No 2, the Fifa secretary general, Mattias Grafström, called the failed World Cup private investment plan a “sad and reproachable series of events”. In further evidence that senior Fifa personnel continue to distance themselves from Infantino and his botched scheme, Arsène Wenger issued a statement on Tuesday morning saying the project’s withdrawal was “absolutely necessary and beyond question”. The former Arsenal manager is Fifa’s chief of global development and had publicly been silent about the crisis unfolding in world football.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/3e6e8459eb4fd26969df11fd89e951d87007c120/1327_323_4115_3292/master/4115.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b576498553e0bfbfe5a4c8ec7b137489",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/04/arsene-wenger-gianni-infantino-grafstrom-criticise-world-cup-plan-fifa"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/04/arsene-wenger-gianni-infantino-grafstrom-criticise-world-cup-plan-fifa"
+      },
+      "confirmed_by": [],
+      "id": "wenger-and-infantino-s-no-2-grafstr-m-criticise-sad-and-reproachable-world-cup-plan"
+    },
+    {
       "published_at": "2026-08-04T11:00:49+00:00",
       "updated_at": "2026-08-04T11:00:49+00:00",
       "title": "‘I can’t wait’: Dominik Szoboszlai hungry for Liverpool reset under Andoni Iraola",
@@ -590,61 +690,6 @@
       },
       "confirmed_by": [],
       "id": "i-can-t-wait-dominik-szoboszlai-hungry-for-liverpool-reset-under-andoni-iraola"
-    },
-    {
-      "published_at": "2026-08-04T09:12:55+00:00",
-      "updated_at": "2026-08-04T09:12:55+00:00",
-      "title": "Alverca: the Portuguese club thriving with help from Vinícius Júnior",
-      "summary": "Their rise is down to smart scouting and clever links with celebrities such as Eduardo Camavinga and Travis Scott By Get French Football News Alverca have been busy in the last few years. They have shot up the Portuguese pyramid while changing owners, buying a whole new squad and bringing in one of the world’s most famous footballers as a co-owner. The club’s sporting director, Fernando Malta, says they want to be “gamechangers”.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/6fb87704fef0ff0b65460575b97491e6a48e2e21/836_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=944c22f7e1e48758bb93747e2680910c",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/04/alverca-fc-portuguese-club-smart-scouting-vinicius-junior-eduardo-camavinga-travis-scott"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/04/alverca-fc-portuguese-club-smart-scouting-vinicius-junior-eduardo-camavinga-travis-scott"
-      },
-      "confirmed_by": [],
-      "id": "alverca-the-portuguese-club-thriving-with-help-from-vin-cius-j-nior"
-    },
-    {
-      "published_at": "2026-08-03T17:30:01+00:00",
-      "updated_at": "2026-08-03T17:30:01+00:00",
-      "title": "Transfer roundup: Chelsea sell Trevoh Chalobah and sign Jordan Henderson",
-      "summary": "Chalobah to join Cesc Fàbregas at Como for £27.5m Fulham sign Real Madrid’s Gonzalo García for £34m Trevoh Chalobah’s long association with Chelsea is to end after Como agreed a deal worth an initial £25.7m. The England defender ’s departure was agreed on the same day the club completed the signing of Jordan Henderson. Chalobah made 105 Premier League appearances for Chelsea and established himself as a first-team option during a number of turbulent periods for the club.",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://i.guim.co.uk/img/media/5d4088648475d6c1ed077c266463ba0161e1dce7/357_194_2135_1708/master/2135.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f2499d9dfdb360f4ab3d5896ec80338c",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/03/transfer-roundup-chelsea-sell-trevoh-chalobah-sign-jordan-henderson"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/03/transfer-roundup-chelsea-sell-trevoh-chalobah-sign-jordan-henderson"
-      },
-      "confirmed_by": [],
-      "id": "transfer-roundup-chelsea-sell-trevoh-chalobah-and-sign-jordan-henderson"
     },
     {
       "published_at": "2026-08-03T16:48:15+00:00",
@@ -783,6 +828,33 @@
       "id": "there-can-be-no-letup-humiliated-infantino-must-stand-down-at-fifa-or-be-removed-nick-ames"
     },
     {
+      "published_at": "2026-07-31T15:28:57+00:00",
+      "updated_at": "2026-07-31T15:28:57+00:00",
+      "title": "How does MLS pick up the World Cup mantle? Casemiro helps, but it’ll take much more",
+      "summary": "The World Cup gave MLS unprecedented momentum. Keeping it will depend less on signing aging icons than convincing America’s best young players to stay “Thanks World, we’ll take it from here,” is Major League Soccer’s message to the American public. Yet two moves in the last week were emblematic of the issues the league faces in taking on the mantle of North America’s hosting of the game’s grandest stage.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/47167b52c68f33ea076e6dfdcf03b3194643bd9f/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc4db7623a5ab1b600a85094f039fed6",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/31/mls-casemiro-sebastian-berhalter-world-cup-young-american-players"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/31/mls-casemiro-sebastian-berhalter-world-cup-young-american-players"
+      },
+      "confirmed_by": [],
+      "id": "how-does-mls-pick-up-the-world-cup-mantle-casemiro-helps-but-it-ll-take-much-more"
+    },
+    {
       "published_at": "2026-08-02T18:06:00+00:00",
       "updated_at": "2026-08-02T18:06:00+00:00",
       "title": "Klart: Colin Rösler lämnar Malmö FF",
@@ -864,6 +936,33 @@
       },
       "confirmed_by": [],
       "id": "vi-tycker-om-mff"
+    },
+    {
+      "published_at": "2026-08-04T17:07:24+00:00",
+      "updated_at": "2026-08-04T17:07:24+00:00",
+      "title": "Rebecca Peterson om tunga tiden: ”Många tror att jag har slutat”",
+      "summary": "Rebecca Peterson har haft några skadefyllda år och har tappat sin WTA-ranking. Nyligen opererade hon ryggen – men 30-åringen har inte gett upp. Jag känner mig inte klar, säger hon till SVT Sport",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.71/0.3/3d6a37d4bde8a14b704bb92b2f1a299c8db19d0f0696f33af28214ffb47ae46b",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/tennis/rebecca-peterson-om-tunga-tiden-manga-tror-att-jag-har-slutat"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/tennis/rebecca-peterson-om-tunga-tiden-manga-tror-att-jag-har-slutat"
+      },
+      "confirmed_by": [],
+      "id": "rebecca-peterson-om-tunga-tiden-m-nga-tror-att-jag-har-slutat"
     },
     {
       "published_at": "2026-08-04T12:25:36+00:00",
@@ -974,86 +1073,59 @@
       "id": "axelina-johansson-om-orsaken-till-lyftet-ter-mer-protein"
     },
     {
-      "published_at": "2026-08-04T05:51:04+00:00",
-      "updated_at": "2026-08-04T05:51:04+00:00",
-      "title": "Första beskedet om Oliver Solberg efter ryggskadan",
-      "summary": "Efter pallplatsen bröt Oliver Solberg tv-intervjun i smärtor. Nu meddelar svensken att han undersökt ryggskadan på sjukhus. ”Det kommer ta ett par veckor att återhämta sig”, skriver Solberg",
+      "published_at": "2026-08-04T19:00:00+00:00",
+      "updated_at": "2026-08-04T19:00:00+00:00",
+      "title": "Man City latest: Trafford replacement lined up as Neto 'talks' begin",
+      "summary": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.45/0.38/5154adcb1b369b7d9cfd686fe376433e04175d8a699450ac90a4b1a59108f16b",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/motorsport/forsta-beskedet-om-oliver-solberg-efter-ryggskadan"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/motorsport/forsta-beskedet-om-oliver-solberg-efter-ryggskadan"
-      },
-      "confirmed_by": [],
-      "id": "f-rsta-beskedet-om-oliver-solberg-efter-ryggskadan"
-    },
-    {
-      "published_at": "2026-08-03T19:06:28+00:00",
-      "updated_at": "2026-08-03T19:06:28+00:00",
-      "title": "Kristian Lien med hattrick när Djurgården krossade Västerås",
-      "summary": "Djurgården firade 135 år som förening – då bjöd Blåränderna supportrarna på show. Kristian Lien gjorde hattrick när Västerås besegrades med 6–0. – Jag har lagkamrater som hittar mig i rätt lägen så det är grymt, säger tremålsskytten till SVT Sport",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.54/0.38/a44b2bfeac7c6c8e52f3644472a02fd5672737c29fe4f4701b2e63710a0eaa97",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/kristian-lien-med-hattrick-nar-djurgarden-krossade-vasteras"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/kristian-lien-med-hattrick-nar-djurgarden-krossade-vasteras"
-      },
-      "confirmed_by": [],
-      "id": "kristian-lien-med-hattrick-n-r-djurg-rden-krossade-v-ster-s"
-    },
-    {
-      "published_at": "2026-08-04T16:20:00+00:00",
-      "updated_at": "2026-08-04T16:20:00+00:00",
-      "title": "Aston Villa latest: McGinn suffers injury scare in pre-season victory",
-      "summary": "Aston Villa transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Premier League",
-        "Injury"
+        "Transfer"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/02/1600x900/skysports-aston-villa-latest_7164113.jpg?20260213143027",
+      "club": "manchester-city",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-enzo-maresca-man-city_7285824.jpg?20260629153129",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "aston-villa-latest-mcginn-suffers-injury-scare-in-pre-season-victory"
+      "id": "man-city-latest-trafford-replacement-lined-up-as-neto-talks-begin"
+    },
+    {
+      "published_at": "2026-08-04T17:38:00+00:00",
+      "updated_at": "2026-08-04T17:38:00+00:00",
+      "title": "Chelsea latest: Deal close to sign Rayo Vallecano left-back Chavarria",
+      "summary": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "chelsea-latest-deal-close-to-sign-rayo-vallecano-left-back-chavarria"
     },
     {
       "published_at": "2026-08-04T15:15:00+00:00",
@@ -1082,91 +1154,6 @@
       },
       "confirmed_by": [],
       "id": "liverpool-fans-have-their-say-on-squad-strength-is-trent-on-loan-the-answer"
-    },
-    {
-      "published_at": "2026-08-04T14:40:00+00:00",
-      "updated_at": "2026-08-04T14:40:00+00:00",
-      "title": "Chelsea latest: Mudryk attracting loan interest",
-      "summary": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Premier League",
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://e0.365dm.com/26/06/1600x900/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "chelsea-latest-mudryk-attracting-loan-interest"
-    },
-    {
-      "published_at": "2026-08-04T12:30:00+00:00",
-      "updated_at": "2026-08-04T12:30:00+00:00",
-      "title": "Everton latest: Norgaard set for medical ahead of £7m move",
-      "summary": "Everton transfers, latest news, rumours and gossip: Live updates, goals and highlights",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "everton",
-      "image": "https://e0.365dm.com/25/10/1600x900/skysports-everton-news-club_7039252.jpg?20251002160124",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-      },
-      "confirmed_by": [],
-      "id": "everton-latest-norgaard-set-for-medical-ahead-of-7m-move"
-    },
-    {
-      "published_at": "2026-08-04T10:00:00+00:00",
-      "updated_at": "2026-08-04T10:00:00+00:00",
-      "title": "Rangers' £8m bid for Serie A winger rejected as Yokota nears Ibrox move",
-      "summary": "Scottish Premiership news, transfers, rumours, gossip and more",
-      "category": [
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-ghedjemis-fares_7311263.jpg?20260731144522",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more"
-      },
-      "confirmed_by": [],
-      "id": "rangers-8m-bid-for-serie-a-winger-rejected-as-yokota-nears-ibrox-move"
     },
     {
       "published_at": "2026-08-04T13:46:00+00:00",
@@ -1221,6 +1208,141 @@
       },
       "confirmed_by": [],
       "id": "what-did-we-learn-from-opening-weekend-of-scottish-premiership-season"
+    },
+    {
+      "published_at": "2026-08-03T18:42:00+00:00",
+      "updated_at": "2026-08-03T18:42:00+00:00",
+      "title": "Rashford's future, Hall pursuit and Man Utd's midfield rebuild",
+      "summary": "In a special Man Utd summer podcast, Sky Sports presenter Joe Thomlinson is joined by Sky Sports News Dan Khan and Sky Sports football journalist William Bitibiri to discuss Rashfords future at Old Trafford. The trio also discuss Uniteds midfield rebuild and the pursuit of Lewis Hall",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-premier-league-manchester-united_7313389.jpg?20260804075904",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13569445/man-utd-transfers-can-marcus-rashford-be-reintegrated-at-old-trafford-or-will-he-leave-before-the-end-of-the-window"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13569445/man-utd-transfers-can-marcus-rashford-be-reintegrated-at-old-trafford-or-will-he-leave-before-the-end-of-the-window"
+      },
+      "confirmed_by": [],
+      "id": "rashford-s-future-hall-pursuit-and-man-utd-s-midfield-rebuild"
+    },
+    {
+      "published_at": "2026-08-01T11:51:20+00:00",
+      "updated_at": "2026-08-01T11:51:20+00:00",
+      "title": "\"Miljardmatchen i sikte - rysare väntas\"",
+      "summary": "\"Miljardmatchen i sikte - rysare väntas\" Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "miljardmatchen-i-sikte-rysare-v-ntas"
+    },
+    {
+      "published_at": "2026-07-30T14:55:40+00:00",
+      "updated_at": "2026-07-30T14:55:40+00:00",
+      "title": "\"Londonderby - nu kan Spurs rädda kontraktet\"",
+      "summary": "\"Londonderby - nu kan Spurs rädda kontraktet\" Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "londonderby-nu-kan-spurs-r-dda-kontraktet"
+    },
+    {
+      "published_at": "2026-08-04T17:59:00+00:00",
+      "updated_at": "2026-08-04T17:59:00+00:00",
+      "title": "Svidande tung förlust på tilläggstid för Mjällby",
+      "summary": "Trots ledning lyckades inte Mjällby hålla stången mot den forne storspelaren Yaya Tourés Slovan Bratislava",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/TTLZeEKszF52ADcoRWD6h2YMrUjmPtLYtRtYjGqM.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/svidande-tung-forlust-pa-tillaggstid-for-mjallby-698826"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/svidande-tung-forlust-pa-tillaggstid-for-mjallby-698826"
+      },
+      "confirmed_by": [],
+      "id": "svidande-tung-f-rlust-p-till-ggstid-f-r-mj-llby"
+    },
+    {
+      "published_at": "2026-08-04T17:55:09+00:00",
+      "updated_at": "2026-08-04T17:55:09+00:00",
+      "title": "Komfortabel seger på Örjans vall",
+      "summary": "En hörna och en straff. Femton minuter hann det gå – sedan var matchen avgjord. Segertåget rullar vidare",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/zSKgDk9aTpki5saA4W334ov3U2s48LnEssABrnoh.png",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/komfortabel-seger-pa-orjans-vall-698825"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/komfortabel-seger-pa-orjans-vall-698825"
+      },
+      "confirmed_by": [],
+      "id": "komfortabel-seger-p-rjans-vall"
     },
     {
       "published_at": "2026-08-04T13:09:31+00:00",
@@ -1357,60 +1479,6 @@
       },
       "confirmed_by": [],
       "id": "polisen-beslagtog-en-oh-flagga-ett-mindre-br-k"
-    },
-    {
-      "published_at": "2026-08-04T08:00:00+00:00",
-      "updated_at": "2026-08-04T08:00:00+00:00",
-      "title": "Power ranking – de är bäst efter omgång 15 i Allsvenskan",
-      "summary": "Fortsatt blåsvartrandigt och blårandigt i topp i Emil Annetorps Allsvenska power ranking efter omgång 15. För bottenduon Halmstad och Degerfors ser det väldigt mörkt ut",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/GZ8bzSLeDs8VqFvhMNnSLl4e4LXvU9r22F573Lhj.png",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/power-ranking-de-ar-bast-efter-omgang-15-i-allsvenskan-698789"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/power-ranking-de-ar-bast-efter-omgang-15-i-allsvenskan-698789"
-      },
-      "confirmed_by": [],
-      "id": "power-ranking-de-r-b-st-efter-omg-ng-15-i-allsvenskan"
-    },
-    {
-      "published_at": "2026-08-04T07:49:00+00:00",
-      "updated_at": "2026-08-04T07:49:00+00:00",
-      "title": "Kritiken mot supportrarna: ”Inte optimalt”",
-      "summary": "Västerås blev överkörda av Djurgården på 3 Arena. Då kastade Västerås-supportrar in pyroteknik från bortaläktaren så att matchen avbröts. – Jag fattar att de lackar ur, men det är inte det bästa att göra säger Herman Magnusson till Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/4tBt6rDnc5oX49motNpT0R8HsEUkTYlWGcUEySFi.png",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/kritiken-mot-supportrarna-inte-optimalt-698796"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/kritiken-mot-supportrarna-inte-optimalt-698796"
-      },
-      "confirmed_by": [],
-      "id": "kritiken-mot-supportrarna-inte-optimalt"
     }
   ]
 }
