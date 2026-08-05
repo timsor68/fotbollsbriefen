@@ -1,6 +1,79 @@
 {
-  "updated_at": "2026-08-05T17:38:42.213975+00:00",
+  "updated_at": "2026-08-05T19:36:15.445979+00:00",
   "items": [
+    {
+      "published_at": "2026-08-05T18:32:43+00:00",
+      "updated_at": "2026-08-05T18:32:43+00:00",
+      "title": "Newcastle appoint Jaissle - what should fans expect?",
+      "summary": "Matthias Jaissle, Eddie Howe's replacement at Newcastle United, might not be too well known given that his only head coaching roles to date have been in Austria and Saudi Arabia. So who is the man arriving to take charge at St James' Park?",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/46e9/live/c69f1010-8fe2-11f1-9b57-e74b317a0f23.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cn4n0ypyx31o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13568428/newcastle-united-appoint-matthias-jaissle-as-head-coach-following-eddie-howes-departure-from-st-james-park"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cn4n0ypyx31o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13568428/newcastle-united-appoint-matthias-jaissle-as-head-coach-following-eddie-howes-departure-from-st-james-park"
+        }
+      ],
+      "id": "newcastle-appoint-jaissle-what-should-fans-expect"
+    },
+    {
+      "published_at": "2026-08-05T17:59:01+00:00",
+      "updated_at": "2026-08-05T17:59:01+00:00",
+      "title": "Real Madrid make Vinicius Jr improved contract offer",
+      "summary": "Real Madrid make Vinicius Jr an improved contract offer as they look to keep the Brazil winger at the Bernabeu",
+      "category": [
+        "La Liga",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "real-madrid",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2269/live/1bef05c0-90f6-11f1-8a08-b30314e337a5.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cx2dpejpv70o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2dpejpv70o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "id": "real-madrid-make-vinicius-jr-improved-contract-offer"
+    },
     {
       "published_at": "2026-08-05T14:58:25+00:00",
       "updated_at": "2026-08-05T14:58:25+00:00",
@@ -72,6 +145,33 @@
         }
       ],
       "id": "olid-appointed-new-man-utd-women-head-coach"
+    },
+    {
+      "published_at": "2026-08-05T18:30:18+00:00",
+      "updated_at": "2026-08-05T18:30:18+00:00",
+      "title": "Wrexham sign Preston captain Whiteman",
+      "summary": "Wrexham complete the signing of Preston North End captain Ben Whiteman on a three-year deal",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7190/live/bc83b280-90f9-11f1-84d1-19eee56ad506.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/czxqkkyxe9vo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/czxqkkyxe9vo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "wrexham-sign-preston-captain-whiteman"
     },
     {
       "published_at": "2026-08-05T16:20:17+00:00",
@@ -238,88 +338,6 @@
       "id": "chelsea-nearing-16-3m-deal-for-rayo-defender-chavarria"
     },
     {
-      "published_at": "2026-08-04T18:09:27+00:00",
-      "updated_at": "2026-08-04T18:09:27+00:00",
-      "title": "Ipswich sign midfielder Florentino from Burnley",
-      "summary": "Newly promoted Ipswich Town complete the signing of Portuguese midfielder Florentino Luis from Burnley for an undisclosed fee",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/31e8/live/75eb9450-902c-11f1-9cf2-316ac336c337.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cjrv0pxvqx1o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cjrv0pxvqx1o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "ipswich-sign-midfielder-florentino-from-burnley"
-    },
-    {
-      "published_at": "2026-08-04T16:05:03+00:00",
-      "updated_at": "2026-08-04T16:05:03+00:00",
-      "title": "Cape Verde coach Bubista resigns as Ivory Coast reappoint Renard",
-      "summary": "Head coach Bubista leaves Cape Verde after reaching the last 32 at the World Cup while Ivory Coast reappoint two-time Afcon winner Herve Renard",
-      "category": [
-        "Transfer",
-        "Coach"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0349/live/6a2ede20-9017-11f1-b2ab-0dd01740f9f6.png",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c04kg192k2eo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c04kg192k2eo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "cape-verde-coach-bubista-resigns-as-ivory-coast-reappoint-renard"
-    },
-    {
-      "published_at": "2026-08-04T15:05:02+00:00",
-      "updated_at": "2026-08-04T15:05:02+00:00",
-      "title": "Meet the £1m-rated non-league star Abdulmalik",
-      "summary": "Boreham Wood reject a £1m bid for one of their forwards - but who is he?",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9680/live/ac9b54e0-8ff0-11f1-a10e-47119dd4425c.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cjejkke8nj7o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cjejkke8nj7o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "meet-the-1m-rated-non-league-star-abdulmalik"
-    },
-    {
       "published_at": "2026-08-05T11:53:56+00:00",
       "updated_at": "2026-08-05T11:53:56+00:00",
       "title": "Tränaren om Dejan Kulusevski: ”Hoppas han är tillgänglig snart”",
@@ -332,7 +350,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.45/0.33/748dbbb504d3232e45c2908c0c4a7a91db13e30ee373575b977a6c2f35da92d7",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.14/0.2/c192f25aeeeb68b32f4641bc22b839d33e681e83267ea10066c07868bb09d34e",
       "sources": [
         {
           "name": "SVT Sport",
@@ -419,62 +437,6 @@
         }
       ],
       "id": "franco-baresi-was-not-only-the-captain-but-the-moral-heart-of-great-milan-team"
-    },
-    {
-      "published_at": "2026-08-05T10:42:00+00:00",
-      "updated_at": "2026-08-05T10:42:00+00:00",
-      "title": "Liverpool explore deal for PSG winger Mbaye",
-      "summary": "Liverpool have explored the conditions of a deal for Paris Saint-Germain's teenage winger Ibrahim Mbaye",
-      "category": [
-        "Premier League",
-        "Ligue 1",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-paris-saint-germain_7314281.jpg?20260805085619",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13569955/ibrahim-mbaye-liverpool-explore-deal-for-paris-saint-germain-winger"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13569955/ibrahim-mbaye-liverpool-explore-deal-for-paris-saint-germain-winger"
-      },
-      "confirmed_by": [],
-      "id": "liverpool-explore-deal-for-psg-winger-mbaye"
-    },
-    {
-      "published_at": "2026-08-05T10:03:00+00:00",
-      "updated_at": "2026-08-05T10:03:00+00:00",
-      "title": "Salah set to join Turkish side Trabzonspor",
-      "summary": "Mohamed Salah is set to join Turkish side Trabzonspor on a free transfer after mutually agreeing to terminate his Liverpool contract a year early",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/06/1600x900/skysports-world-cup-egypt-new-zealand_7279724.jpg?20260622082125",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13569969/mohamed-salah-former-liverpool-forward-set-to-join-turkish-club-trabzonspor-on-free-transfer-after-leaving-anfield"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13569969/mohamed-salah-former-liverpool-forward-set-to-join-turkish-club-trabzonspor-on-free-transfer-after-leaving-anfield"
-      },
-      "confirmed_by": [],
-      "id": "salah-set-to-join-turkish-side-trabzonspor"
     },
     {
       "published_at": "2026-08-05T09:15:00+00:00",
@@ -576,58 +538,87 @@
       "id": "yaya-tour-s-hyllning-till-strandvallen-lskar-den"
     },
     {
-      "published_at": "2026-08-05T15:34:31+00:00",
-      "updated_at": "2026-08-05T15:34:31+00:00",
-      "title": "Football Daily | Mohamed Salah and a potted history of Liverpool legends visiting Trabzon",
-      "summary": "This October will mark the 50th anniversary of the first time Liverpool and Trabzonspor were thrown together by the gods of football. When they played each other in the second round of the European Cup in 1976 it’s fair to say not many associated with Liverpool were impressed with Trabzon. Bob Paisley described the team hotel as a “doss house”, the ball as “a pig’s bladder” that “was not good enough for blow football”, adding that “teams in the Durham Mining League would not play with it”, and as for the food, well, he’d had “better rations in my bivvy in the Western Desert”, back when he was in Montgomery’s Eighth Army.",
+      "published_at": "2026-08-05T19:19:47+00:00",
+      "updated_at": "2026-08-05T19:19:47+00:00",
+      "title": "Fifa Super League: Infantino discussed having governing body’s name on European breakaway",
+      "summary": "Document shows Fifa staff were involved in project Fifa was prepared to sideline member associations Gianni Infantino held talks about rebranding the ill-fated European breakaway competition the “Fifa Super League” in 2021, with negotiations going as far as the term sheet for an agreement that would have changed the face of European football. The term sheet, whose full contents can be revealed for the first time, proposes renaming any new competition under Fifa’s branding and outlines the extent to which Infantino’s administration were implicated in a scheme that later caused widespread revulsion among fans and excluded clubs. It also reveals that Fifa was prepared to sideline its member associations in pushing plans to cut back the number of international windows and outlines how global football’s governing body would have been given spe",
       "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://i.guim.co.uk/img/media/d583855b5a689f1a50f0695c3ea82657bde24099/1042_0_2859_2287/master/2859.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c3909d193c7bc648092e62f1870f33b3",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/05/mohamed-salah-potted-history-liverpool-legends-visiting-trabzon-football-daily"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/05/mohamed-salah-potted-history-liverpool-legends-visiting-trabzon-football-daily"
-      },
-      "confirmed_by": [],
-      "id": "football-daily-mohamed-salah-and-a-potted-history-of-liverpool-legends-visiting-trabzon"
-    },
-    {
-      "published_at": "2026-08-05T13:49:12+00:00",
-      "updated_at": "2026-08-05T13:49:12+00:00",
-      "title": "Transfer roundup: Coventry to make Yirenkyi record signing, Palace swoop for Gozo",
-      "summary": "Promoted side closing on £23m deal with Nordsjælland Palace target USA’s Zavier Gozo, hold firm on Wharton Coventry are set to break their transfer record for the fourth time in this window after agreeing a £23m fee with Danish side Nordsjælland for the Ghana midfielder Caleb Yirenkyi. The deal for Yirenkyi, who impressed during the Black Stars’ World Cup campaign and scored the winning goal against Panama in the group stage, is set to be a record for the Danish top flight and comes after Coventry have already spent almost £60m on the winger Loum Tchaouna, the defender Aurèle Amenda and the goalkeeper Carl Rushworth. Yirenkyi, who was named young player of the year in the Danish league last season, will travel to Coventry in the coming hours to complete his move.",
-      "category": [
-        "Transfer"
+        "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://i.guim.co.uk/img/media/dca6e5c9ccef4b633263f1ff82b82f4f25535918/655_0_5173_4138/master/5173.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=adbddd858d17bb7fc21c0b4414354288",
+      "image": "https://i.guim.co.uk/img/media/97f01990c9aa2c6596e47cea18cbe1cdd7e60064/0_51_5554_4443/master/5554.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=79a28a658ec66c940159760c804bae88",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/05/crystal-palace-ready-to-swoop-for-us-star-zavier-gozo-and-stand-firm-on-wharton"
+          "url": "https://www.theguardian.com/football/2026/aug/05/fifa-super-league-gianni-infantino-wanted-governing-body-name-european-breakaway"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/05/crystal-palace-ready-to-swoop-for-us-star-zavier-gozo-and-stand-firm-on-wharton"
+        "url": "https://www.theguardian.com/football/2026/aug/05/fifa-super-league-gianni-infantino-wanted-governing-body-name-european-breakaway"
       },
       "confirmed_by": [],
-      "id": "transfer-roundup-coventry-to-make-yirenkyi-record-signing-palace-swoop-for-gozo"
+      "id": "fifa-super-league-infantino-discussed-having-governing-body-s-name-on-european-breakaway"
+    },
+    {
+      "published_at": "2026-08-05T19:12:01+00:00",
+      "updated_at": "2026-08-05T19:12:01+00:00",
+      "title": "Real Madrid agree club record £115m deal for Yan Diomande and want to keep Vinícius",
+      "summary": "Spanish giant make Ivory Coast attacker most expensive African player Club are in positive talks with Vinícius Júnior Real Madrid have agreed a club-record fee of €135m (£115.7m) with RB Leipzig for Yan Diomande and are confident of warding off Arsenal’s interest in Vinícius Júnior after offering an improved contract to the Brazil forward. After several weeks of negotiations that saw Paris Saint-Germain pull out of the race, the deal for Diomande – the 19-year-old who joined the German side from Leganés last summer and starred for Côte d’Ivoire at the World Cup – was finally struck on Wednesday afternoon. It is understood that Madrid will pay an initial €125m plus another €10m in add-ons, a total that would eclipse the fee the Spanish side paid Borussia Dortmund to sign Jude Bellingham in 2023 , believed to have been worth up to €134m inc",
+      "category": [
+        "La Liga",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "real-madrid",
+      "image": "https://i.guim.co.uk/img/media/66c044c02400ffc43c9a62caa40fe14b54096014/180_0_1794_1435/master/1794.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78ddbdd732af698fdceb52fa69aa272f",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/05/real-madrid-agree-club-record-115m-deal-for-yan-diomande-and-want-to-keep-vinicius"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/05/real-madrid-agree-club-record-115m-deal-for-yan-diomande-and-want-to-keep-vinicius"
+      },
+      "confirmed_by": [],
+      "id": "real-madrid-agree-club-record-115m-deal-for-yan-diomande-and-want-to-keep-vin-cius"
+    },
+    {
+      "published_at": "2026-08-05T18:00:25+00:00",
+      "updated_at": "2026-08-05T18:00:25+00:00",
+      "title": "‘There is a clear vision’: Matthias Jaissle installed as Newcastle head coach",
+      "summary": "German officially announced as Howe’s successor ‘This an incredibly compelling place to be’ Matthias Jaissle has described Newcastle “as an incredibly compelling place to be” after finally formalising his managerial move from Saudi Arabia’s Al-Ahli. The 38-year-old German has been with his new players at their training camp in La Manga, southern Spain, since last Saturday but, despite also falling under the ownership of Saudi Arabia’s Public Investment Fund, Al-Ahli took time to provide Newcastle with some vital paperwork regarding the release of a head coach they were extremely reluctant to lose.",
+      "category": [
+        "Premier League",
+        "Coach"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/c57a493240e3ccf72e6879d6044003cff5ba8758/106_0_1886_1509/master/1886.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7c41c5e069ff439d47134fbac17bdbe0",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/05/matthias-jaissle-installed-as-newcastle-united-head-coach"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/05/matthias-jaissle-installed-as-newcastle-united-head-coach"
+      },
+      "confirmed_by": [],
+      "id": "there-is-a-clear-vision-matthias-jaissle-installed-as-newcastle-head-coach"
     },
     {
       "published_at": "2026-08-05T13:00:19+00:00",
@@ -739,6 +730,33 @@
       "id": "h-ctor-beller-n-when-you-leave-a-club-like-arsenal-it-s-scary-it-hurts"
     },
     {
+      "published_at": "2026-08-04T12:06:44+00:00",
+      "updated_at": "2026-08-04T12:06:44+00:00",
+      "title": "Frank Lampard hails ‘huge’ signing as Coventry seal record £22.5m Rushworth deal",
+      "summary": "The 25-year-old excelled during promotion campaign Brighton goalkeeper completes permanent switch Coventry have completed the club-record £22.5m signing of goalkeeper Carl Rushworth from Brighton as Frank Lampard’s side continue to prepare for their return to the Premier League after 25 years away. The 25-year-old excelled on loan at Coventry in the Championship last season, playing an instrumental role in their promotion as champions, starting all 46 league matches and earning the Golden Glove award for keeping 17 clean sheets.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/4970d19603374d0d009357ccf708498ca607b056/482_145_2020_1616/master/2020.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4bb7f137cdf4ee056fdc9ae3278beb64",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/04/frank-lampard-coventry-brighton-carl-rushworth-transfer-roundup"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/04/frank-lampard-coventry-brighton-carl-rushworth-transfer-roundup"
+      },
+      "confirmed_by": [],
+      "id": "frank-lampard-hails-huge-signing-as-coventry-seal-record-22-5m-rushworth-deal"
+    },
+    {
       "published_at": "2026-08-04T12:03:15+00:00",
       "updated_at": "2026-08-04T12:03:15+00:00",
       "title": "David Squires on … Gianni Infantino clinging to power as his Fifa empire crumbles",
@@ -791,60 +809,6 @@
       },
       "confirmed_by": [],
       "id": "i-can-t-wait-dominik-szoboszlai-hungry-for-liverpool-reset-under-andoni-iraola"
-    },
-    {
-      "published_at": "2026-08-03T15:00:21+00:00",
-      "updated_at": "2026-08-03T15:00:21+00:00",
-      "title": "Vinícius Júnior to Arsenal doesn’t make sense. That’s why it may work | Jonathan Wilson",
-      "summary": "Mikel Arteta’s team and the Brazilian star could be a perfect match. It also could be a risk that ends in disaster Sometimes what is needed is something different. There is a long history in football of counterintuitive thinking being successful, of the benefits of creative tension, of adding grit to the oyster to generate the pearl, but even so, the news that talks between Vinícius Júnior and Arsenal on personal terms are progressing comes as something of a shock.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://i.guim.co.uk/img/media/234ff972524bcc20825043a9223aac8e8b10ec89/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bf0b758681e3aa5e428fb0910d7cef11",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/03/arsenal-vinicius-transfer-real-madrid"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/03/arsenal-vinicius-transfer-real-madrid"
-      },
-      "confirmed_by": [],
-      "id": "vin-cius-j-nior-to-arsenal-doesn-t-make-sense-that-s-why-it-may-work-jonathan-wilson"
-    },
-    {
-      "published_at": "2026-08-03T09:30:14+00:00",
-      "updated_at": "2026-08-03T09:30:14+00:00",
-      "title": "‘It’s my time’: Christos Tzolis fighting fit for Arsenal on return to England",
-      "summary": "The £34m signing from Club Brugge says he is a more complete player now after an indifferent time at Norwich For any Arsenal fan eager to know what Christos Tzolis might bring to the Premier League champions, the winger’s swiftly earned nickname at his new club might prove instructive. In the 2006 action film 300, the leading figure of King Leonidas guides a meagre bunch of Spartans against an overwhelmingly large invading army. Although doomed by the vast numerical disadvantage, Leonidas’s courage, determination and strength inspires his troops far beyond their means.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://i.guim.co.uk/img/media/586afcd3e10f99e85ec24f0d374424d4da5be26e/335_0_6343_5074/master/6343.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1c66a85a4bd27ebd8b8284e67539bd28",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/03/christos-tzolis-arsenal-premier-league-club-brugge"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/03/christos-tzolis-arsenal-premier-league-club-brugge"
-      },
-      "confirmed_by": [],
-      "id": "it-s-my-time-christos-tzolis-fighting-fit-for-arsenal-on-return-to-england"
     },
     {
       "published_at": "2026-08-02T18:06:00+00:00",
@@ -1126,92 +1090,6 @@
     {
       "published_at": "2026-08-05T16:00:00+00:00",
       "updated_at": "2026-08-05T16:00:00+00:00",
-      "title": "Arsenal latest: Vinicius Jr expected to stay at Real Madrid after talks",
-      "summary": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Premier League",
-        "La Liga",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/25/10/1600x900/skysports-arsenal-news-club_7039237.jpg?20251002155710",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "arsenal-latest-vinicius-jr-expected-to-stay-at-real-madrid-after-talks"
-    },
-    {
-      "published_at": "2026-08-05T11:25:00+00:00",
-      "updated_at": "2026-08-05T11:25:00+00:00",
-      "title": "Real Madrid finalising big-money deal with RB Leipzig for Diomande",
-      "summary": "Read the full report at Sky Sports.",
-      "category": [
-        "La Liga",
-        "Bundesliga",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-diomande-rb-leipzig_7306872.jpg?20260726210321",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
-      },
-      "confirmed_by": [],
-      "id": "real-madrid-finalising-big-money-deal-with-rb-leipzig-for-diomande"
-    },
-    {
-      "published_at": "2026-08-04T15:48:00+00:00",
-      "updated_at": "2026-08-04T15:48:00+00:00",
-      "title": "West Ham latest: Veltman in advanced talks over Hammers move",
-      "summary": "West Ham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/25/10/1600x900/skysports-west-ham-news-club_7039266.jpg?20251002160718",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13210475/west-ham-latest-news"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13210475/west-ham-latest-news"
-      },
-      "confirmed_by": [],
-      "id": "west-ham-latest-veltman-in-advanced-talks-over-hammers-move"
-    },
-    {
-      "published_at": "2026-08-05T16:00:00+00:00",
-      "updated_at": "2026-08-05T16:00:00+00:00",
       "title": "Reijnders and Semenyo shine in Maresca's interesting tactical set-up",
       "summary": "Enzo Maresca won his first game in charge of Manchester City with a 3-1 win over the K-League All Stars in Seoul",
       "category": [
@@ -1237,66 +1115,92 @@
       "id": "reijnders-and-semenyo-shine-in-maresca-s-interesting-tactical-set-up"
     },
     {
-      "published_at": "2026-08-05T11:46:00+00:00",
-      "updated_at": "2026-08-05T11:46:00+00:00",
-      "title": "Kulusevski-beskedet: \"Han är redo\"",
-      "summary": "Kulusevski-beskedet: \"Han är redo\" Fotbollskanalen",
+      "published_at": "2026-08-05T12:26:00+00:00",
+      "updated_at": "2026-08-05T12:26:00+00:00",
+      "title": "Chelsea suffer defeat to Juventus in lacklustre Hong Kong friendly",
+      "summary": "Chelsea failed to ramp up their pre-season preparations as Xabi Alonso's side suffered a 1-0 defeat to Juventus in Hong Kong thanks to Edon Zhegrova's stunning second-half strike",
       "category": [
-        "Sverige"
+        "Premier League",
+        "Serie A"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "",
+      "club": "chelsea",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-chelsea-juventus_7314601.jpg?20260805141229",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/chelsea-vs-juventus/report/556017"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/chelsea-vs-juventus/report/556017"
       },
       "confirmed_by": [],
-      "id": "kulusevski-beskedet-han-r-redo"
+      "id": "chelsea-suffer-defeat-to-juventus-in-lacklustre-hong-kong-friendly"
     },
     {
-      "published_at": "2026-08-05T00:09:36+00:00",
-      "updated_at": "2026-08-05T00:09:36+00:00",
-      "title": "Experten: \"Därför vinner PSG mot Arsenal i CL-finalen\"",
-      "summary": "Read the full report at Fotbollskanalen.",
+      "published_at": "2026-08-05T09:13:00+00:00",
+      "updated_at": "2026-08-05T09:13:00+00:00",
+      "title": "Arsenal agree fee for Guimaraes",
+      "summary": "Arsenal have agreed a £75m fee with Newcastle for their captain Bruno Guimaraes",
       "category": [
-        "Sverige",
-        "Premier League",
-        "Ligue 1"
+        "Premier League"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "arsenal",
-      "image": "",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-newcastle-bruno-bruno-guimaraes_7293252.jpg?20260708201537",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13569653/bruno-guimaraes-transfer-news-arsenal-agree-75m-fee-for-newcastle-midfielder"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13569653/bruno-guimaraes-transfer-news-arsenal-agree-75m-fee-for-newcastle-midfielder"
       },
       "confirmed_by": [],
-      "id": "experten-d-rf-r-vinner-psg-mot-arsenal-i-cl-finalen"
+      "id": "arsenal-agree-fee-for-guimaraes"
     },
     {
-      "published_at": "2026-08-04T17:50:42+00:00",
-      "updated_at": "2026-08-04T17:50:42+00:00",
-      "title": "\"Upplagt för historisk skräll för Norge mot ett darrigt England\"",
-      "summary": "Read the full report at Fotbollskanalen.",
+      "published_at": "2026-08-04T15:45:00+00:00",
+      "updated_at": "2026-08-04T15:45:00+00:00",
+      "title": "West Ham fan group call on Sullivan to stay away from home matches",
+      "summary": "The West Ham United Fan Advisory Board (FAB) has called on David Sullivan not to attend the club's home matches, warning his presence could become a \"distraction\" and a potential security concern",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-david-sullivan-west-ham_7266783.jpg?20260606133503",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13570182/david-sullivan-fans-want-west-ham-co-owner-not-to-attend-home-matches-after-sexual-misconduct-allegations"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13570182/david-sullivan-fans-want-west-ham-co-owner-not-to-attend-home-matches-after-sexual-misconduct-allegations"
+      },
+      "confirmed_by": [],
+      "id": "west-ham-fan-group-call-on-sullivan-to-stay-away-from-home-matches"
+    },
+    {
+      "published_at": "2026-08-05T18:11:00+00:00",
+      "updated_at": "2026-08-05T18:11:00+00:00",
+      "title": "Panel inför Rakow borta",
+      "summary": "Efter uttåget i Europa League mot Anderlecht så får vi i Hammarby en ny chans att kvala in till gruppspelet i Europa Conference Leauge i stället. Nu finns det inga fler livlinor så en vinst i dubbelmötet mot polska Rakow är ett måste för att ta oss till det sista steget, en playoff om en plats i gruppspelet. Vi på S@derstadion har satt ihop en panel bestående av Elias Dahl, Per Planhammar och Göran Öberg, en panel som pratar om hur det känns efter förlusten mot Anderlecht, men också vad som krävs för att gå vidare mot Rakow",
       "category": [
         "Sverige"
       ],
@@ -1304,20 +1208,20 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2095456.jpg",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/panel-infor-rakow-borta-698851"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/panel-infor-rakow-borta-698851"
       },
       "confirmed_by": [],
-      "id": "upplagt-f-r-historisk-skr-ll-f-r-norge-mot-ett-darrigt-england"
+      "id": "panel-inf-r-rakow-borta"
     },
     {
       "published_at": "2026-08-05T16:00:00+00:00",
@@ -1482,31 +1386,59 @@
       "id": "svidande-tung-f-rlust-p-till-ggstid-f-r-mj-llby"
     },
     {
-      "published_at": "2026-08-04T17:55:09+00:00",
-      "updated_at": "2026-08-04T17:55:09+00:00",
-      "title": "Komfortabel seger på Örjans vall",
-      "summary": "En hörna och en straff. Femton minuter hann det gå – sedan var matchen avgjord. Segertåget rullar vidare",
+      "published_at": "2026-08-05T18:00:00+00:00",
+      "updated_at": "2026-08-05T18:00:00+00:00",
+      "title": "Arsenal conceded third goal against Real Betis before half-time LIVE!",
+      "summary": "Friendly Match match Arsenal vs Real Betis 05.08.2026. Preview and stats followed by live commentary, video highlights and match report",
       "category": [
-        "Sverige"
+        "Premier League"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/zSKgDk9aTpki5saA4W334ov3U2s48LnEssABrnoh.png",
+      "club": "arsenal",
+      "image": "",
       "sources": [
         {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/komfortabel-seger-pa-orjans-vall-698825"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/arsenal-vs-real-betis/live/555716"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/komfortabel-seger-pa-orjans-vall-698825"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/arsenal-vs-real-betis/live/555716"
       },
       "confirmed_by": [],
-      "id": "komfortabel-seger-p-rjans-vall"
+      "id": "arsenal-conceded-third-goal-against-real-betis-before-half-time-live"
+    },
+    {
+      "published_at": "2026-08-05T12:50:00+00:00",
+      "updated_at": "2026-08-05T12:50:00+00:00",
+      "title": "Spurs latest: Atletico's Romero interest, Moore future and Kulusevski's fitness",
+      "summary": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "La Liga",
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://e0.365dm.com/26/04/1600x900/skysports-spurs-roberto-de-zerbi_7216074.jpg?20260410141222",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "spurs-latest-atletico-s-romero-interest-moore-future-and-kulusevski-s-fitness"
     }
   ]
 }
