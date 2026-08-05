@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-08-05T10:36:13.747337+00:00",
+  "updated_at": "2026-08-05T12:53:13.536862+00:00",
   "items": [
+    {
+      "published_at": "2026-08-05T10:35:01+00:00",
+      "updated_at": "2026-08-05T10:35:01+00:00",
+      "title": "Hull sign goalkeeper Tzolakis for club record fee",
+      "summary": "Hull City sign Greece goalkeeper Konstantinos Tzolakis from Olympiacos on a five-year deal for a club-record fee",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b932/live/7e150e00-90b7-11f1-b8f3-bf6a2c059a9b.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ce8l6nn7xkyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ce8l6nn7xkyo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+        }
+      ],
+      "id": "hull-sign-goalkeeper-tzolakis-for-club-record-fee"
+    },
     {
       "published_at": "2026-08-05T07:28:14+00:00",
       "updated_at": "2026-08-05T07:28:14+00:00",
@@ -39,40 +75,59 @@
       "id": "chelsea-nearing-16-3m-deal-for-rayo-defender-chavarria"
     },
     {
-      "published_at": "2026-08-04T21:39:08+00:00",
-      "updated_at": "2026-08-04T21:39:08+00:00",
-      "title": "Turkish club Trabzonspor begin talks to sign Salah",
-      "summary": "Mohamed Salah is set to join Turkish side Trabzonspor on a free transfer after mutually agreeing to terminate his Liverpool contract a year early",
+      "published_at": "2026-08-05T11:55:50+00:00",
+      "updated_at": "2026-08-05T11:55:50+00:00",
+      "title": "Why Arsenal are signing Newcastle captain Guimaraes",
+      "summary": "With Bruno Guimaraes set to sign for Premier League champions Arsenal, BBC Sport look at why the Gunners wanted the Newcastle skipper",
       "category": [
+        "Premier League",
         "Transfer"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/57b6/live/c05399c0-904a-11f1-bac4-9bcd48c14c6e.jpg",
+      "club": "arsenal",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ebae/live/740028c0-9010-11f1-9b87-418a05eb4792.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckgdkd5ggg7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13569969/mohamed-salah-former-liverpool-forward-set-to-join-turkish-club-trabzonspor-on-free-transfer-after-leaving-anfield"
+          "url": "https://www.bbc.co.uk/sport/football/articles/clyl2e351vlo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckgdkd5ggg7o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/clyl2e351vlo?at_medium=RSS&at_campaign=rss"
       },
-      "confirmed_by": [
+      "confirmed_by": [],
+      "id": "why-arsenal-are-signing-newcastle-captain-guimaraes"
+    },
+    {
+      "published_at": "2026-08-05T11:50:39+00:00",
+      "updated_at": "2026-08-05T11:50:39+00:00",
+      "title": "Cardiff City set to sign Lincoln midfielder Moylan",
+      "summary": "The 24-year-old was a key figure in the Imps' promotion to the Championship, as they beat the Bluebirds to the League One title",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7253/live/be310ed0-90c1-11f1-b8f3-bf6a2c059a9b.jpg",
+      "sources": [
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13569969/mohamed-salah-former-liverpool-forward-set-to-join-turkish-club-trabzonspor-on-free-transfer-after-leaving-anfield"
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c935ng14xv0o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "id": "turkish-club-trabzonspor-begin-talks-to-sign-salah"
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c935ng14xv0o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "cardiff-city-set-to-sign-lincoln-midfielder-moylan"
     },
     {
       "published_at": "2026-08-05T09:01:35+00:00",
@@ -100,34 +155,6 @@
       },
       "confirmed_by": [],
       "id": "japanese-winger-yokota-joins-rangers-from-hannover"
-    },
-    {
-      "published_at": "2026-08-05T06:29:40+00:00",
-      "updated_at": "2026-08-05T06:29:40+00:00",
-      "title": "Arsenal set to sign Newcastle captain Guimaraes",
-      "summary": "Arsenal are set to complete their protracted move for Newcastle captain Bruno Guimaraes",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/455e/live/63811700-9094-11f1-8bde-ef5552781449.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c8en9rnex2jo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c8en9rnex2jo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "arsenal-set-to-sign-newcastle-captain-guimaraes"
     },
     {
       "published_at": "2026-08-04T18:09:27+00:00",
@@ -239,33 +266,6 @@
       "id": "toone-grateful-to-skinner-after-his-man-utd-departure"
     },
     {
-      "published_at": "2026-08-04T13:12:11+00:00",
-      "updated_at": "2026-08-04T13:12:11+00:00",
-      "title": "Keeper Jorgensen set for loan move to Strasbourg",
-      "summary": "Chelsea goalkeeper Filip Jorgensen is set to seal a season-long loan to Strasbourg, part of the same ownership group as the London club",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/79fd/live/595c0db0-9004-11f1-9dfb-fd4408d16f2f.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwyepgxz93yo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwyepgxz93yo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "keeper-jorgensen-set-for-loan-move-to-strasbourg"
-    },
-    {
       "published_at": "2026-08-04T12:54:20+00:00",
       "updated_at": "2026-08-04T12:54:20+00:00",
       "title": "Kretinsky share sale hinders Staveley's West Ham bid",
@@ -292,6 +292,33 @@
       },
       "confirmed_by": [],
       "id": "kretinsky-share-sale-hinders-staveley-s-west-ham-bid"
+    },
+    {
+      "published_at": "2026-08-05T11:53:56+00:00",
+      "updated_at": "2026-08-05T11:53:56+00:00",
+      "title": "Glädjebeskedet om Dejan Kulusevski: ”Redo och i form”",
+      "summary": "Dejan Kulusevski, 26, har inte spelat en match på över ett år. – Han är redo och i form, säger Tottenhams tränare Roberto De Zerbi",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.45/0.33/748dbbb504d3232e45c2908c0c4a7a91db13e30ee373575b977a6c2f35da92d7",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/gladjebeskedet-om-dejan-kulusevski-redo-och-i-form"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/gladjebeskedet-om-dejan-kulusevski-redo-och-i-form"
+      },
+      "confirmed_by": [],
+      "id": "gl-djebeskedet-om-dejan-kulusevski-redo-och-i-form"
     },
     {
       "published_at": "2026-08-03T20:18:53+00:00",
@@ -413,6 +440,33 @@
       "id": "liverpool-explore-deal-for-psg-winger-mbaye"
     },
     {
+      "published_at": "2026-08-05T10:03:00+00:00",
+      "updated_at": "2026-08-05T10:03:00+00:00",
+      "title": "Salah set to join Turkish side Trabzonspor",
+      "summary": "Mohamed Salah is set to join Turkish side Trabzonspor on a free transfer after mutually agreeing to terminate his Liverpool contract a year early",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-world-cup-egypt-new-zealand_7279724.jpg?20260622082125",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13569969/mohamed-salah-former-liverpool-forward-set-to-join-turkish-club-trabzonspor-on-free-transfer-after-leaving-anfield"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13569969/mohamed-salah-former-liverpool-forward-set-to-join-turkish-club-trabzonspor-on-free-transfer-after-leaving-anfield"
+      },
+      "confirmed_by": [],
+      "id": "salah-set-to-join-turkish-side-trabzonspor"
+    },
+    {
       "published_at": "2026-08-05T09:15:00+00:00",
       "updated_at": "2026-08-05T09:15:00+00:00",
       "title": "Where would Guimaraes fit in at Arsenal?",
@@ -438,34 +492,6 @@
       },
       "confirmed_by": [],
       "id": "where-would-guimaraes-fit-in-at-arsenal"
-    },
-    {
-      "published_at": "2026-08-04T22:30:00+00:00",
-      "updated_at": "2026-08-04T22:30:00+00:00",
-      "title": "Papers: Chelsea eyeing move for Porto goalkeeper Costa",
-      "summary": "Latest transfer news and headlines as Man City midfielder Tijjani Reijnders emerges as a £55m target for Nottingham Forest; United States striker Folarin Balogun has been offered to Tottenham; Trabzonspor are closing in on a two-year deal with former Liverpool forward Mo Salah",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-paper-talk-sky-sports-news_7311195.png?20260731134338",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13569788/diogo-costa-transfer-news-chelsea-eyeing-move-for-porto-goalkeeper-paper-talk"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13569788/diogo-costa-transfer-news-chelsea-eyeing-move-for-porto-goalkeeper-paper-talk"
-      },
-      "confirmed_by": [],
-      "id": "papers-chelsea-eyeing-move-for-porto-goalkeeper-costa"
     },
     {
       "published_at": "2026-08-04T18:44:44+00:00",
@@ -540,40 +566,31 @@
       "id": "tungt-f-r-mj-llby-tappade-ledning-till-f-rlust-i-champions-league-kvalet"
     },
     {
-      "published_at": "2026-08-03T18:51:26+00:00",
-      "updated_at": "2026-08-03T18:51:26+00:00",
-      "title": "Sirius fortsätter rycka i toppen – efter en tidig ledning mot Halmstad",
-      "summary": "Mot ett krisande IFK Göteborg tog Sirius sin tredje raka seger och tolfte för säsongen efter att man vunnit med klara 4-1. Nu väntar den Allsvenska jumbon Halmstad BK på bortaplan för blåsvart. Ett möte som förra säsongen blev vändningen för lagets negativa trend",
+      "published_at": "2026-08-05T10:51:53+00:00",
+      "updated_at": "2026-08-05T10:51:53+00:00",
+      "title": "Crystal Palace ready to swoop for US star Zavier Gozo and stand firm on Wharton",
+      "summary": "Palace determined to keep hold of England midfielder Chelsea close to deal for Chavarria from Rayo Vallecano Crystal Palace are closing in on the signing of the United States youth international Zavier Gozo as the new manager Pierre Sage attempts to strengthen his squad ahead of the new season. Gozo, a 19-year-old who plays for Real Salt Lake in MLS and has represented the US at various youth levels up to Under 23, is expected to complete an £11m move to south London after he was left out of his side’s game on Tuesday night due to an “excused absence”. It is understood that Palace have tracked Gozo’s progress at Real Salt Lake – who are part-owned by David Blitzer, the American who is one of Palace’s co-owners – for some time and view him as a potential successor to Daniel Muñoz at right wing-back.",
       "category": [
-        "Sverige"
+        "Premier League"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.53/0.41/2bd9f6edccff6b46806af061460fe3c8d27c98cb7ff1f3fe964413db59556771",
+      "image": "https://i.guim.co.uk/img/media/5e69ed5193de39dee8d592e021eacfb6e189a258/0_0_3345_2677/master/3345.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0e7c7d9334b039a5361e7cce4406bce8",
       "sources": [
         {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/sirius-fortsatter-rycka-i-toppen-efter-en-tidig-ledning-mot-halmstad"
-        },
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/infor-halmstad-bk-ik-sirius-botten-mot-toppen-698666"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/05/crystal-palace-ready-to-swoop-for-us-star-zavier-gozo-and-stand-firm-on-wharton"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/sirius-fortsatter-rycka-i-toppen-efter-en-tidig-ledning-mot-halmstad"
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/05/crystal-palace-ready-to-swoop-for-us-star-zavier-gozo-and-stand-firm-on-wharton"
       },
-      "confirmed_by": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/infor-halmstad-bk-ik-sirius-botten-mot-toppen-698666"
-        }
-      ],
-      "id": "sirius-forts-tter-rycka-i-toppen-efter-en-tidig-ledning-mot-halmstad"
+      "confirmed_by": [],
+      "id": "crystal-palace-ready-to-swoop-for-us-star-zavier-gozo-and-stand-firm-on-wharton"
     },
     {
       "published_at": "2026-08-05T10:23:19+00:00",
@@ -606,7 +623,7 @@
       "published_at": "2026-08-05T07:31:34+00:00",
       "updated_at": "2026-08-05T07:31:34+00:00",
       "title": "Football transfer rumours: Folarin Balogun to Spurs? Pedro Neto to Manchester City?",
-      "summary": "Today’s fluff is riding a unicycle It’s been a quiet summer thus far for Folarin Balogun , so why not stir up some controversy by signing for the arch rivals of your boyhood club? The Monaco striker, who started his career at Arsenal, is being linked with a move to Tottenham Hotspur, who need a goalscorer to ensure they do not finish 17th again. The American’s agents have offered him up to Roberto De Zerbi’s side to see if they are willing to bite.",
+      "summary": "Today’s fluff is riding a unicycle It’s been a quiet summer thus far for Folarin Balogun , so why not stir up some controversy by signing for the arch rivals of your boyhood club? The Monaco striker, who started his career at Arsenal, is being linked with a move to Tottenham, who need a goalscorer to ensure they do not finish 17th again. The American’s agents have offered him to Roberto De Zerbi’s side to see if they are willing to bite.",
       "category": [
         "Premier League",
         "Transfer"
@@ -656,33 +673,6 @@
       },
       "confirmed_by": [],
       "id": "h-ctor-beller-n-when-you-leave-a-club-like-arsenal-it-s-scary-it-hurts"
-    },
-    {
-      "published_at": "2026-08-04T21:52:37+00:00",
-      "updated_at": "2026-08-04T21:52:37+00:00",
-      "title": "Trabzonspor aim to sign Mohamed Salah this week after opening transfer talks",
-      "summary": "Club chair says forward will have medical on Wednesday Egypt international left Liverpool after nine years The Turkish Super Lig side Trabzonspor say they have begun transfer ⁠negotiations with Mohamed Salah, with the club chair adding they hoped to sign the Egypt forward later this week. “Negotiations have been launched ⁠to transfer professional footballer ⁠Mohamed Salah, ​who is in a free status, to our club,” the club said in a statement.",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/d759261f7d9d77ba04e2fe31a6b01e0c7ee85f25/449_0_3699_2960/master/3699.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4aa9357dcf49dbc8cf261ae31c353d5d",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/04/trabzonspor-transfer-mohamed-salah-turkish-super-lig"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/04/trabzonspor-transfer-mohamed-salah-turkish-super-lig"
-      },
-      "confirmed_by": [],
-      "id": "trabzonspor-aim-to-sign-mohamed-salah-this-week-after-opening-transfer-talks"
     },
     {
       "published_at": "2026-08-04T18:40:07+00:00",
@@ -738,34 +728,6 @@
       },
       "confirmed_by": [],
       "id": "manchester-united-set-to-appoint-former-hearts-manager-eva-olid-as-new-head-coach"
-    },
-    {
-      "published_at": "2026-08-04T16:37:50+00:00",
-      "updated_at": "2026-08-04T16:37:50+00:00",
-      "title": "Arsenal target Vinícius says Mourinho ‘wants me to be happy’ at Real Madrid",
-      "summary": "‘It has gone very well, getting to know the new coach’ Brazil winger has one year left on contract at Bernabéu Vinícius Júnior is settling into life under the new Real Madrid manager, José ⁠Mourinho, with a smile on his face even as uncertainty swirls around the Brazil forward’s future at the Bernabéu. The 26-year-old, who has ⁠been ​one of the linchpins of Real Madrid’s attack in recent years, gave an upbeat assessment of his second ⁠day of pre-season training under Mourinho despite speculation linking him with a possible move to Arsenal .",
-      "category": [
-        "Premier League",
-        "La Liga"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://i.guim.co.uk/img/media/0b1fd376e2806814af9d57a61e7b2dc9062470ce/0_63_4104_3283/master/4104.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1602ef378fa0f7e2c003954e4ac5835a",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/04/arsenal-target-vinicius-junior-jose-mourinho-real-madrid"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/04/arsenal-target-vinicius-junior-jose-mourinho-real-madrid"
-      },
-      "confirmed_by": [],
-      "id": "arsenal-target-vin-cius-says-mourinho-wants-me-to-be-happy-at-real-madrid"
     },
     {
       "published_at": "2026-08-04T12:06:44+00:00",
@@ -847,6 +809,33 @@
       },
       "confirmed_by": [],
       "id": "i-can-t-wait-dominik-szoboszlai-hungry-for-liverpool-reset-under-andoni-iraola"
+    },
+    {
+      "published_at": "2026-08-03T16:48:15+00:00",
+      "updated_at": "2026-08-03T16:48:15+00:00",
+      "title": "Mauricio Pochettino’s US return is risky, expensive and probably unnecessary | Leander Schaerlaeckens",
+      "summary": "In giving the head coach another World Cup cycle, US Soccer is tempting fate for negligible benefit Mauricio Pochettino and US Soccer enjoyed their time together. Or, rather, they enshoyed it, as Pochettino would pronounce it in his thick Argentinian accent, which charmingly carries over when he speaks English.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/af2415af86334bbdeafbef8095cd6798ca669d2d/213_0_2125_1701/master/2125.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=a363ca361fd66a9c4cce7500e8c22eeb",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/03/mauricio-pochettino-usmnt-return"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/03/mauricio-pochettino-usmnt-return"
+      },
+      "confirmed_by": [],
+      "id": "mauricio-pochettino-s-us-return-is-risky-expensive-and-probably-unnecessary-leander-schaer"
     },
     {
       "published_at": "2026-08-02T18:06:00+00:00",
@@ -932,6 +921,34 @@
       "id": "vi-tycker-om-mff"
     },
     {
+      "published_at": "2026-08-05T11:44:04+00:00",
+      "updated_at": "2026-08-05T11:44:04+00:00",
+      "title": "Vinterstudion 2026/27 – nyheter och sändningar",
+      "summary": "SVT rapporterar om de största nyheterna från all vintersport",
+      "category": [
+        "Sverige",
+        "Serie A"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.51/0.34/3615d9beed6607d13de60c830cefcf822afa87ba2fa4c0fb17bac200069e036a",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/vintersport/vinterstudion-202627-nyheter-och-sandningar"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/vintersport/vinterstudion-202627-nyheter-och-sandningar"
+      },
+      "confirmed_by": [],
+      "id": "vinterstudion-2026-27-nyheter-och-s-ndningar"
+    },
+    {
       "published_at": "2026-08-05T09:39:38+00:00",
       "updated_at": "2026-08-05T09:39:38+00:00",
       "title": "Ryssar får tävla i Europe Smash i Malmö: ”Olyckligt”",
@@ -1013,31 +1030,31 @@
       "id": "elliot-stroud-har-spelat-sin-sista-match-i-mj-llby"
     },
     {
-      "published_at": "2026-08-04T17:07:24+00:00",
-      "updated_at": "2026-08-04T17:07:24+00:00",
-      "title": "Rebecca Peterson om tunga tiden: ”Många tror att jag har slutat”",
-      "summary": "Rebecca Peterson har haft några skadefyllda år och har tappat sin WTA-ranking. Nyligen opererade hon ryggen – men 30-åringen har inte gett upp. Jag känner mig inte klar, säger hon till SVT Sport",
+      "published_at": "2026-08-05T12:50:00+00:00",
+      "updated_at": "2026-08-05T12:50:00+00:00",
+      "title": "Coventry latest: Sky Blues agree £26m deal to sign Ghana star Yirenkyi",
+      "summary": "Coventry transfers, latest news, rumours and gossip: Live updates, goals and highlights",
       "category": [
-        "Sverige"
+        "Transfer"
       ],
-      "status": "Confirmed",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.71/0.3/3d6a37d4bde8a14b704bb92b2f1a299c8db19d0f0696f33af28214ffb47ae46b",
+      "image": "https://e0.365dm.com/26/05/1600x900/skysports-premier-league-club-rumours_7242342.jpg?20260508093716",
       "sources": [
         {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/tennis/rebecca-peterson-om-tunga-tiden-manga-tror-att-jag-har-slutat"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/tennis/rebecca-peterson-om-tunga-tiden-manga-tror-att-jag-har-slutat"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
       },
       "confirmed_by": [],
-      "id": "rebecca-peterson-om-tunga-tiden-m-nga-tror-att-jag-har-slutat"
+      "id": "coventry-latest-sky-blues-agree-26m-deal-to-sign-ghana-star-yirenkyi"
     },
     {
       "published_at": "2026-08-05T11:25:00+00:00",
@@ -1067,34 +1084,6 @@
       },
       "confirmed_by": [],
       "id": "real-madrid-finalising-big-money-deal-with-rb-leipzig-for-diomande"
-    },
-    {
-      "published_at": "2026-08-05T11:05:00+00:00",
-      "updated_at": "2026-08-05T11:05:00+00:00",
-      "title": "Chelsea latest: 'Man City begin talks over Neto'",
-      "summary": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://e0.365dm.com/26/06/1600x900/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "chelsea-latest-man-city-begin-talks-over-neto"
     },
     {
       "published_at": "2026-08-04T18:22:00+00:00",
@@ -1203,33 +1192,6 @@
       },
       "confirmed_by": [],
       "id": "infantino-to-hold-crisis-meeting-with-senior-fifa-staff"
-    },
-    {
-      "published_at": "2026-08-04T13:46:00+00:00",
-      "updated_at": "2026-08-04T13:46:00+00:00",
-      "title": "Liverpool's squad lacks depth: What areas does Iraola needs to strengthen?",
-      "summary": "Liverpool are short in a number of positions just three weeks out from their Premier League opener and seemingly no closer to bringing in any further additions this summer",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-andoni-iraola_7309869.jpg?20260730063505",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13569738/liverpool-transfer-news-andoni-iraolas-squad-lacks-depth-where-should-reds-strengthen"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13569738/liverpool-transfer-news-andoni-iraolas-squad-lacks-depth-where-should-reds-strengthen"
-      },
-      "confirmed_by": [],
-      "id": "liverpool-s-squad-lacks-depth-what-areas-does-iraola-needs-to-strengthen"
     },
     {
       "published_at": "2026-08-05T07:00:00+00:00",
@@ -1474,6 +1436,33 @@
       },
       "confirmed_by": [],
       "id": "intervju-theo-krantz-det-r-roligt-att-f-visa-laget-att-de-har-bra-v-gg-d-r-l-ngst-bak"
+    },
+    {
+      "published_at": "2026-08-05T13:15:00+00:00",
+      "updated_at": "2026-08-05T13:15:00+00:00",
+      "title": "Chelsea latest: Palmer misses Juve friendly with 'slight issue'",
+      "summary": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "chelsea-latest-palmer-misses-juve-friendly-with-slight-issue"
     }
   ]
 }
