@@ -1,6 +1,43 @@
 {
-  "updated_at": "2026-08-05T21:10:03.640012+00:00",
+  "updated_at": "2026-08-05T22:59:57.200155+00:00",
   "items": [
+    {
+      "published_at": "2026-08-05T21:18:29+00:00",
+      "updated_at": "2026-08-05T21:18:29+00:00",
+      "title": "Everton sign midfielder Norgaard from Arsenal",
+      "summary": "Everton sign Denmark midfielder Christian Norgaard from Arsenal on a two-year contract for a reported fee of £7m",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e5a7/live/c3aa8680-9106-11f1-883e-7f87b9cbea15.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm2gvlnjndpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm2gvlnjndpo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+        }
+      ],
+      "id": "everton-sign-midfielder-norgaard-from-arsenal"
+    },
     {
       "published_at": "2026-08-05T18:32:43+00:00",
       "updated_at": "2026-08-05T18:32:43+00:00",
@@ -41,7 +78,7 @@
       "published_at": "2026-08-05T17:59:01+00:00",
       "updated_at": "2026-08-05T17:59:01+00:00",
       "title": "Real Madrid make Vinicius Jr improved contract offer",
-      "summary": "Arsenal target Vinicus Junior is expected to stay at Real Madrid after positive talks over a contract renewal on Wednesday",
+      "summary": "Real Madrid make Vinicius Jr an improved contract offer as they look to keep the Brazil winger at the Bernabeu",
       "category": [
         "La Liga",
         "Transfer"
@@ -75,10 +112,10 @@
       "id": "real-madrid-make-vinicius-jr-improved-contract-offer"
     },
     {
-      "published_at": "2026-08-05T14:58:25+00:00",
-      "updated_at": "2026-08-05T14:58:25+00:00",
-      "title": "Celtic boss O'Neill in hospital after 'small procedure'",
-      "summary": "Celtic manager Martin O'Neill remains in hospital after undergoing a \"small procedure\", the club announce",
+      "published_at": "2026-08-05T22:30:40+00:00",
+      "updated_at": "2026-08-05T22:30:40+00:00",
+      "title": "Fifa insists Gianni Infantino will remain president after crisis meeting",
+      "summary": "Statement said Infantino sent written apologies to members Infantino sorry for failing to consult them over World Cup sell-off Fifa on Wednesday night confirmed that Gianni Infantino will remain as president after a meeting of their senior executives in Rabat. In a statement which also revealed that Infantino has sent written apologies to the Fifa council and the 211 member associations for failing to consult them over the World Cup sell-off, the world governing body said that he retains the full support of his leadership team.",
       "category": [
         "Football"
       ],
@@ -86,29 +123,37 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9ccf/live/bcc7bf30-90df-11f1-bad1-37f8e0c246e3.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ff53/live/5bb2a070-90cb-11f1-822b-5340fee140e1.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cz05n32n9vlo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13570119/martin-oneill-celtic-manager-in-hospital-after-small-procedure-as-club-expect-return-home-in-coming-days"
+          "url": "https://www.skysports.com/football/news/11095/13570210/gianni-infantino-fifa-leaders-back-under-fire-president-following-crisis-meeting-as-he-apologises-for-mistakes-over-world-cup-sell-off"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/05/gianni-infantino-scrambling-for-his-future-in-morocco-with-colombia-next"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cz05n32n9vlo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13570119/martin-oneill-celtic-manager-in-hospital-after-small-procedure-as-club-expect-return-home-in-coming-days"
+          "url": "https://www.skysports.com/football/news/11095/13570210/gianni-infantino-fifa-leaders-back-under-fire-president-following-crisis-meeting-as-he-apologises-for-mistakes-over-world-cup-sell-off"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/05/gianni-infantino-scrambling-for-his-future-in-morocco-with-colombia-next"
         }
       ],
-      "id": "celtic-boss-o-neill-in-hospital-after-small-procedure"
+      "id": "fifa-insists-gianni-infantino-will-remain-president-after-crisis-meeting"
     },
     {
       "published_at": "2026-08-05T14:54:00+00:00",
@@ -145,6 +190,33 @@
         }
       ],
       "id": "olid-appointed-new-man-utd-women-head-coach"
+    },
+    {
+      "published_at": "2026-08-05T21:18:14+00:00",
+      "updated_at": "2026-08-05T21:18:14+00:00",
+      "title": "Defender Walker 'at ease' with England retirement",
+      "summary": "Former England defender Kyle Walker says he is \"at ease\" with his decision to quit international football and hoped it could lead to an extended club career, similar to that enjoyed by James Milner",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ed4c/live/30d29c20-910c-11f1-b61e-4f9456542bbf.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ce8kn37gj82o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ce8kn37gj82o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "defender-walker-at-ease-with-england-retirement"
     },
     {
       "published_at": "2026-08-05T18:30:18+00:00",
@@ -228,6 +300,33 @@
       "id": "palace-set-to-sign-tomiyasu-and-consider-march-deal"
     },
     {
+      "published_at": "2026-08-05T14:58:25+00:00",
+      "updated_at": "2026-08-05T14:58:25+00:00",
+      "title": "Celtic boss O'Neill in hospital after 'small procedure'",
+      "summary": "Celtic manager Martin O'Neill remains in hospital after undergoing a \"small procedure\", the club announce",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9ccf/live/bcc7bf30-90df-11f1-bad1-37f8e0c246e3.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cz05n32n9vlo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cz05n32n9vlo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "celtic-boss-o-neill-in-hospital-after-small-procedure"
+    },
+    {
       "published_at": "2026-08-05T11:55:50+00:00",
       "updated_at": "2026-08-05T11:55:50+00:00",
       "title": "Why Arsenal are signing Newcastle captain Guimaraes",
@@ -256,88 +355,6 @@
       "id": "why-arsenal-are-signing-newcastle-captain-guimaraes"
     },
     {
-      "published_at": "2026-08-05T10:35:01+00:00",
-      "updated_at": "2026-08-05T10:35:01+00:00",
-      "title": "Hull sign goalkeeper Tzolakis for club record fee",
-      "summary": "Hull City sign Greece goalkeeper Konstantinos Tzolakis from Olympiacos on a five-year deal for a club-record fee",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b932/live/7e150e00-90b7-11f1-b8f3-bf6a2c059a9b.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ce8l6nn7xkyo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ce8l6nn7xkyo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "hull-sign-goalkeeper-tzolakis-for-club-record-fee"
-    },
-    {
-      "published_at": "2026-08-05T09:01:35+00:00",
-      "updated_at": "2026-08-05T09:01:35+00:00",
-      "title": "Japanese winger Yokota joins Rangers from Hannover",
-      "summary": "Japanese winger Daisuke Yokota hopes to make \"special memories\" after joining Rangers from Hannover",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e6b4/live/1d0b5ff0-90ae-11f1-b35a-3be58eca94a8.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cddjryv4e52o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cddjryv4e52o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "japanese-winger-yokota-joins-rangers-from-hannover"
-    },
-    {
-      "published_at": "2026-08-05T07:28:14+00:00",
-      "updated_at": "2026-08-05T07:28:14+00:00",
-      "title": "Chelsea nearing £16.3m deal for Rayo defender Chavarria",
-      "summary": "Chelsea are closing in on an agreement with Rayo Vallecano for defender Pep Chavarria",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e2d8/live/8a7a95d0-804e-11f1-8a74-43d9da26a654.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c4gygn47rpmo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c4gygn47rpmo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "chelsea-nearing-16-3m-deal-for-rayo-defender-chavarria"
-    },
-    {
       "published_at": "2026-08-05T11:53:56+00:00",
       "updated_at": "2026-08-05T11:53:56+00:00",
       "title": "Tränaren om Dejan Kulusevski: ”Hoppas han är tillgänglig snart”",
@@ -364,6 +381,42 @@
       },
       "confirmed_by": [],
       "id": "tr-naren-om-dejan-kulusevski-hoppas-han-r-tillg-nglig-snart"
+    },
+    {
+      "published_at": "2026-08-05T22:13:02+00:00",
+      "updated_at": "2026-08-05T22:13:02+00:00",
+      "title": "Mykhailo Mudryk returns in Chelsea defeat as Real Betis see off Arsenal",
+      "summary": "Chelsea beaten 1-0 by Juventus in Hong Kong friendly Arsenal defeated 3-1 by Real Betis in Dublin Xabi Alonso hailed Mykhailo Mudryk’s “emotional” return from a doping ban as the winger played for Chelsea for the first time in nearly two years in a 1-0 friendly defeat by Juventus in Hong Kong on Wednesday. Mudryk came on as a substitute for Nicolas Jackson in the 82nd minute, drawing applause from his teammates and loud cheers from Chelsea fans in the 43,575 crowd at Kai Tak Sports Park.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-arsenal-betis_7314907.jpg?20260805202120",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/arsenal-vs-real-betis/report/555716"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/05/mykhailo-mudryk-chelsea-juventus-arsenal-real-betis-friendly-milan-tribute-franco-baresi"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/arsenal-vs-real-betis/report/555716"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/05/mykhailo-mudryk-chelsea-juventus-arsenal-real-betis-friendly-milan-tribute-franco-baresi"
+        }
+      ],
+      "id": "mykhailo-mudryk-returns-in-chelsea-defeat-as-real-betis-see-off-arsenal"
     },
     {
       "published_at": "2026-08-05T18:00:25+00:00",
@@ -567,7 +620,7 @@
     {
       "published_at": "2026-08-05T19:12:01+00:00",
       "updated_at": "2026-08-05T19:12:01+00:00",
-      "title": "Real Madrid agree club-record £115m deal for Yan Diomandé and want to keep Vinícius",
+      "title": "Real Madrid agree club-record £115m deal for Yan Diomande and want to keep Vinícius",
       "summary": "Forward becomes most expensive African player Club are in positive talks with Vinícius Júnior Real Madrid have agreed a club-record fee of €135m (£115.7m) with RB Leipzig for Yan Diomande and are confident of warding off Arsenal’s interest in Vinícius Júnior after offering an improved contract to the Brazil forward. After several weeks of negotiations that saw Paris Saint-Germain pull out of the race, the deal for Diomande – the 19-year-old who joined the German side from Leganés last summer and starred for Côte d’Ivoire at the World Cup – was finally struck on Wednesday afternoon. It is understood that Madrid will pay an initial €125m plus another €10m in add-ons, a total that would eclipse the fee the Spanish side paid Borussia Dortmund to sign Jude Bellingham in 2023 , believed to have been worth up to €134m including add-ons.",
       "category": [
         "La Liga",
@@ -590,62 +643,7 @@
         "url": "https://www.theguardian.com/football/2026/aug/05/real-madrid-agree-club-record-115m-deal-for-yan-diomande-and-want-to-keep-vinicius"
       },
       "confirmed_by": [],
-      "id": "real-madrid-agree-club-record-115m-deal-for-yan-diomand-and-want-to-keep-vin-cius"
-    },
-    {
-      "published_at": "2026-08-05T15:39:37+00:00",
-      "updated_at": "2026-08-05T15:39:37+00:00",
-      "title": "Mykhailo Mudryk returns in Chelsea defeat as Milan pay tribute to Baresi",
-      "summary": "Chelsea beaten 1-0 by Juventus in Hong Kong friendly Milan and Inter observe minute’s silence before 1-1 draw Xabi Alonso hailed Mykhailo Mudryk’s “emotional” return from a doping ban as the winger played for Chelsea for the first time in nearly two years in a 1-0 friendly defeat by Juventus in Hong Kong on Wednesday. Mudryk came on as a substitute for Nicolas Jackson in the 82nd minute, drawing applause from his teammates and loud cheers from Chelsea fans in the 43,575 crowd at Kai Tak Sports Park.",
-      "category": [
-        "Premier League",
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://i.guim.co.uk/img/media/a77e757bab2a4f913d59d5e336439d1ea4bfdb17/580_140_4755_3804/master/4755.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f056ef4f7dec098a1700b58a51fdd50",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/05/mykhailo-mudryk-chelsea-juventus-arsenal-real-betis-friendly-milan-tribute-franco-baresi"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/05/mykhailo-mudryk-chelsea-juventus-arsenal-real-betis-friendly-milan-tribute-franco-baresi"
-      },
-      "confirmed_by": [],
-      "id": "mykhailo-mudryk-returns-in-chelsea-defeat-as-milan-pay-tribute-to-baresi"
-    },
-    {
-      "published_at": "2026-08-05T13:00:19+00:00",
-      "updated_at": "2026-08-05T13:00:19+00:00",
-      "title": "‘Punch to the gut’: Indian football thrown into chaos with Jamshedpur withdrawal from ISL | John Duerden",
-      "summary": "In a blow for the league, Tata Steel has pulled the plug on the club saying it wants to ‘focus more intensely on grassroots development’ “Please don’t let this be the final whistle for Jamshedpur FC,” the defender Pratik Chaudhari said, looking into the camera as teammates looked on disconsolately. “We would like to say on behalf of all the players, please do rethink about this. Because if this happens, this is not just a loss for Indian football … this is a big loss for all of India.” In addition, fans of the Indian Super League club marched in protest, petitions were launched, and the Indian football legend Sunil Chhetri said it was a “punch to the gut” and joined others in begging for a rethink.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/cde88c0e9246a0171a2151b8ad4c280e162abf44/182_12_877_702/master/877.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f91fa2bdb81854ee5ce5c7c5924efd2c",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/05/indian-super-league-football-chaos-jamshedpur-withdrawal-isl-tata-steel"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/05/indian-super-league-football-chaos-jamshedpur-withdrawal-isl-tata-steel"
-      },
-      "confirmed_by": [],
-      "id": "punch-to-the-gut-indian-football-thrown-into-chaos-with-jamshedpur-withdrawal-from-isl-joh"
+      "id": "real-madrid-agree-club-record-115m-deal-for-yan-diomande-and-want-to-keep-vin-cius"
     },
     {
       "published_at": "2026-08-05T10:23:19+00:00",
@@ -757,33 +755,6 @@
       "id": "frank-lampard-hails-huge-signing-as-coventry-seal-record-22-5m-rushworth-deal"
     },
     {
-      "published_at": "2026-08-04T12:03:15+00:00",
-      "updated_at": "2026-08-04T12:03:15+00:00",
-      "title": "David Squires on … Gianni Infantino clinging to power as his Fifa empire crumbles",
-      "summary": "Our resident cartoon imagines some of the crisis talks at Fifa as its president scrambles for support after a botched World Cup plan Continue reading",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/9cefb0fc0b79d7f7df91f75570b4c1c586aa38fd/1002_903_927_742/master/927.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=875b8d9195071d7ffba6256ad1ff9b91",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/picture/2026/aug/04/david-squires-gianni-infantino-clinging-to-power-as-his-fifa-empire-crumbles-cartoon"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/picture/2026/aug/04/david-squires-gianni-infantino-clinging-to-power-as-his-fifa-empire-crumbles-cartoon"
-      },
-      "confirmed_by": [],
-      "id": "david-squires-on-gianni-infantino-clinging-to-power-as-his-fifa-empire-crumbles"
-    },
-    {
       "published_at": "2026-08-04T11:00:49+00:00",
       "updated_at": "2026-08-04T11:00:49+00:00",
       "title": "‘I can’t wait’: Dominik Szoboszlai hungry for Liverpool reset under Andoni Iraola",
@@ -809,6 +780,60 @@
       },
       "confirmed_by": [],
       "id": "i-can-t-wait-dominik-szoboszlai-hungry-for-liverpool-reset-under-andoni-iraola"
+    },
+    {
+      "published_at": "2026-08-01T15:00:55+00:00",
+      "updated_at": "2026-08-01T15:00:55+00:00",
+      "title": "There can be no letup. Humiliated Infantino must stand down at Fifa or be removed | Nick Ames",
+      "summary": "Uefa’s call for a boycott and declaration of no-confidence must be the opening salvos in push to dethrone game’s global leader There is no time to dance around the subject. Gianni Infantino must stand down as Fifa president or otherwise be legally removed. No fresh chances can be made available for an official who has demolished trust in football’s integrity and governance, trashing all remaining credibility of the body that oversees the world’s most-cherished sport.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/8b378f109d8ed192a6a8f1cc382d55de2798e469/1026_0_5132_4105/master/5132.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=8edd554eb46a2d9557a75de6015eb81c",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/01/humiliated-gianni-infantino-must-stand-down-fifa-or-be-removed-uefa-football-politics"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/01/humiliated-gianni-infantino-must-stand-down-fifa-or-be-removed-uefa-football-politics"
+      },
+      "confirmed_by": [],
+      "id": "there-can-be-no-letup-humiliated-infantino-must-stand-down-at-fifa-or-be-removed-nick-ames"
+    },
+    {
+      "published_at": "2026-07-31T15:28:57+00:00",
+      "updated_at": "2026-07-31T15:28:57+00:00",
+      "title": "How does MLS pick up the World Cup mantle? Casemiro helps, but it’ll take much more",
+      "summary": "The World Cup gave MLS unprecedented momentum. Keeping it will depend less on signing aging icons than convincing America’s best young players to stay “Thanks World, we’ll take it from here,” is Major League Soccer’s message to the American public. Yet two moves in the last week were emblematic of the issues the league faces in taking on the mantle of North America’s hosting of the game’s grandest stage.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/47167b52c68f33ea076e6dfdcf03b3194643bd9f/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc4db7623a5ab1b600a85094f039fed6",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/jul/31/mls-casemiro-sebastian-berhalter-world-cup-young-american-players"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/31/mls-casemiro-sebastian-berhalter-world-cup-young-american-players"
+      },
+      "confirmed_by": [],
+      "id": "how-does-mls-pick-up-the-world-cup-mantle-casemiro-helps-but-it-ll-take-much-more"
     },
     {
       "published_at": "2026-08-02T18:06:00+00:00",
@@ -892,6 +917,33 @@
       },
       "confirmed_by": [],
       "id": "vi-tycker-om-mff"
+    },
+    {
+      "published_at": "2026-08-05T21:41:24+00:00",
+      "updated_at": "2026-08-05T21:41:24+00:00",
+      "title": "Gianni Infantino ber om ursäkt: ”Misstag begicks”",
+      "summary": "Fifa ber om ursäkt efter kontroverserna. I ett brev som bland annat Sky News tagit del av skriver man att man begick ett misstag. ”Vi erkänner att misstag också begicks efter att förslaget läckte till medierna”, står det i brevet",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.49/0.19/95710ced54d13e5b9316625a1e6ce7ebc4bb0e07eb313fc2cec1e804892daf71",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/gianni-infantino-ber-om-ursakt-misstag-begicks"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/gianni-infantino-ber-om-ursakt-misstag-begicks"
+      },
+      "confirmed_by": [],
+      "id": "gianni-infantino-ber-om-urs-kt-misstag-begicks"
     },
     {
       "published_at": "2026-08-05T14:59:00+00:00",
@@ -1032,33 +1084,6 @@
       "id": "elliot-stroud-har-spelat-sin-sista-match-i-mj-llby"
     },
     {
-      "published_at": "2026-08-04T17:07:24+00:00",
-      "updated_at": "2026-08-04T17:07:24+00:00",
-      "title": "Rebecca Peterson om tunga tiden: ”Många tror att jag har slutat”",
-      "summary": "Rebecca Peterson har haft några skadefyllda år och har tappat sin WTA-ranking. Nyligen opererade hon ryggen – men 30-åringen har inte gett upp. Jag känner mig inte klar, säger hon till SVT Sport",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.71/0.3/3d6a37d4bde8a14b704bb92b2f1a299c8db19d0f0696f33af28214ffb47ae46b",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/tennis/rebecca-peterson-om-tunga-tiden-manga-tror-att-jag-har-slutat"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/tennis/rebecca-peterson-om-tunga-tiden-manga-tror-att-jag-har-slutat"
-      },
-      "confirmed_by": [],
-      "id": "rebecca-peterson-om-tunga-tiden-m-nga-tror-att-jag-har-slutat"
-    },
-    {
       "published_at": "2026-08-05T16:07:00+00:00",
       "updated_at": "2026-08-05T16:07:00+00:00",
       "title": "Aston Villa latest: Deal close for Atletico left-back",
@@ -1115,61 +1140,6 @@
       "id": "rangers-in-talks-over-psv-winger-driouech"
     },
     {
-      "published_at": "2026-08-05T21:44:00+00:00",
-      "updated_at": "2026-08-05T21:44:00+00:00",
-      "title": "Arsenal beaten by Real Betis in Dublin friendly",
-      "summary": "Arsenal produced a sloppy performance as they were beaten 3-1 by LaLiga side Real Betis in a pre-season friendly in Dublin",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-arsenal-betis_7314907.jpg?20260805202120",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/arsenal-vs-real-betis/report/555716"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/arsenal-vs-real-betis/report/555716"
-      },
-      "confirmed_by": [],
-      "id": "arsenal-beaten-by-real-betis-in-dublin-friendly"
-    },
-    {
-      "published_at": "2026-08-05T12:26:00+00:00",
-      "updated_at": "2026-08-05T12:26:00+00:00",
-      "title": "Chelsea suffer defeat to Juventus in lacklustre Hong Kong friendly",
-      "summary": "Chelsea failed to ramp up their pre-season preparations as Xabi Alonso's side suffered a 1-0 defeat to Juventus in Hong Kong thanks to Edon Zhegrova's stunning second-half strike",
-      "category": [
-        "Premier League",
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-chelsea-juventus_7314601.jpg?20260805141229",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/chelsea-vs-juventus/report/556017"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/chelsea-vs-juventus/report/556017"
-      },
-      "confirmed_by": [],
-      "id": "chelsea-suffer-defeat-to-juventus-in-lacklustre-hong-kong-friendly"
-    },
-    {
       "published_at": "2026-08-05T09:13:00+00:00",
       "updated_at": "2026-08-05T09:13:00+00:00",
       "title": "Arsenal agree fee for Guimaraes",
@@ -1222,6 +1192,33 @@
       },
       "confirmed_by": [],
       "id": "west-ham-fan-group-call-on-sullivan-to-stay-away-from-home-matches"
+    },
+    {
+      "published_at": "2026-08-05T11:53:00+00:00",
+      "updated_at": "2026-08-05T11:53:00+00:00",
+      "title": "Diogo Tomas: Ingen behövde övertyga mig om AIK",
+      "summary": "Diogo Tomas: Ingen behövde övertyga mig om AIK Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "diogo-tomas-ingen-beh-vde-vertyga-mig-om-aik"
     },
     {
       "published_at": "2026-08-05T11:46:00+00:00",
@@ -1305,6 +1302,33 @@
       },
       "confirmed_by": [],
       "id": "upplagt-f-r-historisk-skr-ll-f-r-norge-mot-ett-darrigt-england"
+    },
+    {
+      "published_at": "2026-08-05T19:00:26+00:00",
+      "updated_at": "2026-08-05T19:00:26+00:00",
+      "title": "Infantino is getting his karmic kicking, but why did football take so long to rebel against Fifa? | Jonathan Liew",
+      "summary": "Federation leaders are massing forces at the gates, but years after the first proposed selling off of its commercial legacy and the Qatar World Cup In recent decades the city of Salé, just across the river from Rabat on Morocco’s Atlantic coast, has undergone a remarkable transformation. At the start of this century it was a gritty working-class area, whose old town was still weathered enough to serve as a body double for the Somali capital Mogadishu in the film Black Hawk Down. But in recent decades, under the country’s autocratic government, the area has been transformed beyond measure, and largely beyond control.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/3deae4b96f96bb626bdb753000ddb7171a54c47d/171_0_1707_1365/master/1707.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=6f3d736e912bd890bf82a973b393f2c3",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/05/gianni-infantino-fifa-president-uefa-world-cup"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/05/gianni-infantino-fifa-president-uefa-world-cup"
+      },
+      "confirmed_by": [],
+      "id": "infantino-is-getting-his-karmic-kicking-but-why-did-football-take-so-long-to-rebel-against"
     },
     {
       "published_at": "2026-08-05T18:11:00+00:00",
@@ -1496,32 +1520,60 @@
       "id": "svidande-tung-f-rlust-p-till-ggstid-f-r-mj-llby"
     },
     {
-      "published_at": "2026-08-05T14:00:00+00:00",
-      "updated_at": "2026-08-05T14:00:00+00:00",
-      "title": "Everton latest: Norgaard completes move from Arsenal",
-      "summary": "Everton transfers, latest news, rumours and gossip: Live updates, goals and highlights",
+      "published_at": "2026-08-05T16:00:00+00:00",
+      "updated_at": "2026-08-05T16:00:00+00:00",
+      "title": "Arsenal latest: Arteta 'optimistic' on transfers despite Vinicius Jr news",
+      "summary": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
         "Premier League",
         "Transfer"
       ],
       "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
+      "entity": "mikel-arteta",
+      "entity_type": "coaches",
       "club": "arsenal",
-      "image": "https://e0.365dm.com/25/10/1600x900/skysports-everton-news-club_7039252.jpg?20251002160124",
+      "image": "https://e0.365dm.com/25/10/1600x900/skysports-arsenal-news-club_7039237.jpg?20251002155710",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+        "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "everton-latest-norgaard-completes-move-from-arsenal"
+      "id": "arsenal-latest-arteta-optimistic-on-transfers-despite-vinicius-jr-news"
+    },
+    {
+      "published_at": "2026-08-05T12:50:00+00:00",
+      "updated_at": "2026-08-05T12:50:00+00:00",
+      "title": "Spurs latest: Atletico's Romero interest, Moore future and Kulusevski's fitness",
+      "summary": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "La Liga",
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://e0.365dm.com/26/04/1600x900/skysports-spurs-roberto-de-zerbi_7216074.jpg?20260410141222",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "spurs-latest-atletico-s-romero-interest-moore-future-and-kulusevski-s-fitness"
     }
   ]
 }
