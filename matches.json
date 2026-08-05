@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T13:58:18.065280+00:00",
+  "updated_at": "2026-08-05T02:43:42.552172+00:00",
   "leagues": {
     "Premier League": {
       "competition_code": "PL",
@@ -732,7 +732,94 @@
           "away": null
         }
       ],
-      "matches": []
+      "matches": [
+        {
+          "id": "fd-564634",
+          "league": "La Liga",
+          "utc_kickoff": "2026-08-15T17:30:00Z",
+          "matchday": 1,
+          "venue": null,
+          "home": {
+            "id": 263,
+            "name": "Deportivo Alavés",
+            "short_name": "Alavés",
+            "crest": "https://crests.football-data.org/263.png",
+            "position": 14,
+            "points": 43,
+            "played": 38,
+            "form": [],
+            "table_size": 20
+          },
+          "away": {
+            "id": 82,
+            "name": "Getafe CF",
+            "short_name": "Getafe",
+            "crest": "https://crests.football-data.org/82.png",
+            "position": 7,
+            "points": 51,
+            "played": 38,
+            "form": [],
+            "table_size": 20
+          },
+          "h2h": {
+            "matches": 10,
+            "home_wins": 0,
+            "away_wins": 0,
+            "draws": 10
+          },
+          "prediction": {
+            "home_win_pct": 34,
+            "draw_pct": 29,
+            "away_win_pct": 37,
+            "basis": "Formkurva (45%), tabellplacering (35%), inbördes möten (20%) + hemmaplansfördel. Statistisk uppskattning — inget spelråd."
+          },
+          "extra_stats": null,
+          "source": "football-data.org"
+        },
+        {
+          "id": "fd-564633",
+          "league": "La Liga",
+          "utc_kickoff": "2026-08-15T19:30:00Z",
+          "matchday": 1,
+          "venue": null,
+          "home": {
+            "id": 559,
+            "name": "Sevilla FC",
+            "short_name": "Sevilla FC",
+            "crest": "https://crests.football-data.org/559.png",
+            "position": 15,
+            "points": 43,
+            "played": 38,
+            "form": [],
+            "table_size": 20
+          },
+          "away": {
+            "id": 87,
+            "name": "Rayo Vallecano de Madrid",
+            "short_name": "Rayo Vallecano",
+            "crest": "https://crests.football-data.org/87.png",
+            "position": 8,
+            "points": 50,
+            "played": 38,
+            "form": [],
+            "table_size": 20
+          },
+          "h2h": {
+            "matches": 10,
+            "home_wins": 0,
+            "away_wins": 0,
+            "draws": 10
+          },
+          "prediction": {
+            "home_win_pct": 34,
+            "draw_pct": 29,
+            "away_win_pct": 37,
+            "basis": "Formkurva (45%), tabellplacering (35%), inbördes möten (20%) + hemmaplansfördel. Statistisk uppskattning — inget spelråd."
+          },
+          "extra_stats": null,
+          "source": "football-data.org"
+        }
+      ]
     },
     "Serie A": {
       "competition_code": "SA",
