@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T02:43:42.552172+00:00",
+  "updated_at": "2026-08-06T02:46:18.709154+00:00",
   "leagues": {
     "Premier League": {
       "competition_code": "PL",
@@ -814,6 +814,120 @@
             "home_win_pct": 34,
             "draw_pct": 29,
             "away_win_pct": 37,
+            "basis": "Formkurva (45%), tabellplacering (35%), inbördes möten (20%) + hemmaplansfördel. Statistisk uppskattning — inget spelråd."
+          },
+          "extra_stats": null,
+          "source": "football-data.org"
+        },
+        {
+          "id": "fd-564629",
+          "league": "La Liga",
+          "utc_kickoff": "2026-08-16T15:00:00Z",
+          "matchday": 1,
+          "venue": null,
+          "home": {
+            "id": 5335,
+            "name": "Real Racing Club de Santander",
+            "short_name": "Santander",
+            "crest": "https://crests.football-data.org/5335.png",
+            "position": null,
+            "points": null,
+            "played": null,
+            "form": [],
+            "table_size": null
+          },
+          "away": {
+            "id": 94,
+            "name": "Villarreal CF",
+            "short_name": "Villarreal",
+            "crest": "https://crests.football-data.org/94.png",
+            "position": 3,
+            "points": 72,
+            "played": 38,
+            "form": [],
+            "table_size": 20
+          },
+          "h2h": null,
+          "prediction": {
+            "home_win_pct": 34,
+            "draw_pct": 28,
+            "away_win_pct": 38,
+            "basis": "Formkurva (45%), tabellplacering (35%), inbördes möten (20%) + hemmaplansfördel. Statistisk uppskattning — inget spelråd."
+          },
+          "extra_stats": null,
+          "source": "football-data.org"
+        },
+        {
+          "id": "fd-564632",
+          "league": "La Liga",
+          "utc_kickoff": "2026-08-16T17:00:00Z",
+          "matchday": 1,
+          "venue": null,
+          "home": {
+            "id": 80,
+            "name": "RCD Espanyol de Barcelona",
+            "short_name": "Espanyol",
+            "crest": "https://crests.football-data.org/80.png",
+            "position": 11,
+            "points": 46,
+            "played": 38,
+            "form": [],
+            "table_size": 20
+          },
+          "away": {
+            "id": 88,
+            "name": "Levante UD",
+            "short_name": "Levante",
+            "crest": "https://crests.football-data.org/88.png",
+            "position": 18,
+            "points": 42,
+            "played": 38,
+            "form": [],
+            "table_size": 20
+          },
+          "h2h": null,
+          "prediction": {
+            "home_win_pct": 47,
+            "draw_pct": 23,
+            "away_win_pct": 30,
+            "basis": "Formkurva (45%), tabellplacering (35%), inbördes möten (20%) + hemmaplansfördel. Statistisk uppskattning — inget spelråd."
+          },
+          "extra_stats": null,
+          "source": "football-data.org"
+        },
+        {
+          "id": "fd-564636",
+          "league": "La Liga",
+          "utc_kickoff": "2026-08-16T19:30:00Z",
+          "matchday": 1,
+          "venue": null,
+          "home": {
+            "id": 558,
+            "name": "RC Celta de Vigo",
+            "short_name": "Celta",
+            "crest": "https://crests.football-data.org/558.png",
+            "position": 6,
+            "points": 54,
+            "played": 38,
+            "form": [],
+            "table_size": 20
+          },
+          "away": {
+            "id": 79,
+            "name": "CA Osasuna",
+            "short_name": "Osasuna",
+            "crest": "https://crests.football-data.org/79.png",
+            "position": 16,
+            "points": 42,
+            "played": 38,
+            "form": [],
+            "table_size": 20
+          },
+          "h2h": null,
+          "prediction": {
+            "home_win_pct": 49,
+            "draw_pct": 21,
+            "away_win_pct": 30,
             "basis": "Formkurva (45%), tabellplacering (35%), inbördes möten (20%) + hemmaplansfördel. Statistisk uppskattning — inget spelråd."
           },
           "extra_stats": null,
