@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-08-07T11:45:52.600813+00:00",
+  "updated_at": "2026-08-07T13:05:12.045540+00:00",
   "items": [
+    {
+      "published_at": "2026-08-07T12:20:52+00:00",
+      "updated_at": "2026-08-07T12:20:52+00:00",
+      "title": "Man City reject Barcelona's £38.5m bid for Rodri",
+      "summary": "Barça ready to hijack rivals’ plans to sign Spain captain Manchester City will allow midfielder to go for £60m Barcelona have stepped up their attempts to hijack Real Madrid’s move to sign Rodri from Manchester City. While City have not given up hope that Spain’s World Cup-winning captain will sign a new contract after he entered the final year of his deal, they are thought to be willing to allow him to leave for about £60m. Despite weeks of talks with Rodri and his representatives, Real have yet to reach an agreement and Barcelona are hoping to take advantage.",
+      "category": [
+        "La Liga",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4fd3/live/49335860-9240-11f1-afba-01cbe043dea0.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/articles/clyj1rgdnpxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13570585/rodri-transfer-news-man-city-reject-initial-barcelona-off-for-spain-midfielder-with-bid-considered-far-too-low"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/06/barcelona-rodri-alvarez-manchester-city-real-madrid-transfers"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/articles/clyj1rgdnpxo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13570585/rodri-transfer-news-man-city-reject-initial-barcelona-off-for-spain-midfielder-with-bid-considered-far-too-low"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/06/barcelona-rodri-alvarez-manchester-city-real-madrid-transfers"
+        }
+      ],
+      "id": "man-city-reject-barcelona-s-38-5m-bid-for-rodri"
+    },
     {
       "published_at": "2026-08-06T17:58:41+00:00",
       "updated_at": "2026-08-06T17:58:41+00:00",
@@ -47,42 +92,6 @@
       "id": "vinicius-jr-and-real-madrid-agree-new-six-year-deal"
     },
     {
-      "published_at": "2026-08-07T11:26:23+00:00",
-      "updated_at": "2026-08-07T11:26:23+00:00",
-      "title": "Assistant referee Massey-Ellis retires to take FA role",
-      "summary": "Assistant referee Sian Massey‑Ellis announces her retirement from officiating to take up a position with the Football Association",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d9a2/live/02549cc0-924e-11f1-a6ce-afeee273b42e.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/crl7ed7gerzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13570628/sian-massey-ellis"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crl7ed7gerzo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13570628/sian-massey-ellis"
-        }
-      ],
-      "id": "assistant-referee-massey-ellis-retires-to-take-fa-role"
-    },
-    {
       "published_at": "2026-08-07T10:51:46+00:00",
       "updated_at": "2026-08-07T10:51:46+00:00",
       "title": "Atletico hold talks with Spurs captain Romero",
@@ -120,92 +129,35 @@
       "id": "atletico-hold-talks-with-spurs-captain-romero"
     },
     {
-      "published_at": "2026-08-06T14:58:56+00:00",
-      "updated_at": "2026-08-06T14:58:56+00:00",
-      "title": "Real Madrid sign Diomande in deal worth up to £120m",
-      "summary": "Real Madrid sign Ivory Coast international Yan Diomande from German side RB Leipzig for a fee worth up to 140m euros (£120m)",
+      "published_at": "2026-08-07T12:06:03+00:00",
+      "updated_at": "2026-08-07T12:06:03+00:00",
+      "title": "Image of Spygate 'far from truth' says Eckert",
+      "summary": "Southampton head coach Tonda Eckert says he is \"grateful\" to owner Dragon Solak for backing him in the wake of the Spygate scandal",
       "category": [
-        "La Liga",
-        "Transfer"
+        "Football"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
-      "club": "real-madrid",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3597/live/93c8c7c0-91a0-11f1-964d-6f76397ea067.jpg",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/397f/live/66e25ac0-9252-11f1-b5ee-071f131f07bb.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c4g3906pz65o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13567543/yan-diomande-transfer-news-real-madrid-agree-deal-for-ivory-coast-international-with-rb-leipzig"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cp8x051jjz8o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c4g3906pz65o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cp8x051jjz8o?at_medium=RSS&at_campaign=rss"
       },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13567543/yan-diomande-transfer-news-real-madrid-agree-deal-for-ivory-coast-international-with-rb-leipzig"
-        }
-      ],
-      "id": "real-madrid-sign-diomande-in-deal-worth-up-to-120m"
+      "confirmed_by": [],
+      "id": "image-of-spygate-far-from-truth-says-eckert"
     },
     {
-      "published_at": "2026-08-06T16:39:01+00:00",
-      "updated_at": "2026-08-06T16:39:01+00:00",
-      "title": "Barcelona step up Rodri interest after Real Madrid talks with Manchester City star stall",
-      "summary": "Barça ready to hijack rivals’ plans to sign Spain captain Manchester City will allow midfielder to go for £60m Barcelona have stepped up their attempts to hijack Real Madrid’s move to sign Rodri from Manchester City. While City have not given up hope that Spain’s World Cup-winning captain will sign a new contract after he entered the final year of his deal, they are thought to be willing to allow him to leave for about £60m. Despite weeks of talks with Rodri and his representatives, Real have yet to reach an agreement and Barcelona are hoping to take advantage.",
-      "category": [
-        "Premier League",
-        "La Liga",
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d9f8/live/b890e120-9180-11f1-b59e-3d7a9337129d.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cglj6p6n9l8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13570426/rodri-transfer-news-barcelona-target-man-city-and-spain-star-wanted-by-real-madrid"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/06/barcelona-rodri-alvarez-manchester-city-real-madrid-transfers"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cglj6p6n9l8o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13570426/rodri-transfer-news-barcelona-target-man-city-and-spain-star-wanted-by-real-madrid"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/06/barcelona-rodri-alvarez-manchester-city-real-madrid-transfers"
-        }
-      ],
-      "id": "barcelona-step-up-rodri-interest-after-real-madrid-talks-with-manchester-city-star-stall"
-    },
-    {
-      "published_at": "2026-08-07T10:29:38+00:00",
-      "updated_at": "2026-08-07T10:29:38+00:00",
+      "published_at": "2026-08-07T12:04:25+00:00",
+      "updated_at": "2026-08-07T12:04:25+00:00",
       "title": "Norway call for Infantino to resign as Mexico and Argentina back president",
       "summary": "Mexico breaks ranks with Concacaf to support Fifa chief Growing speculation country will switch to Conmebol The Mexican football federations have broken ranks with the rest of Concacaf by issuing their public backing for beleaguered Fifa president Gianni Infantino in a move that has deepened world football’s civil war. Concacaf has called for a thorough review of Fifa’s governance in the light of the World Cup sell-off debacle, and is backing Uefa’s demands for meaningful change, although has yet to follow their European counterparts by threatening to boycott tournaments if they do not achieve their objectives.",
       "category": [
@@ -246,6 +198,61 @@
         }
       ],
       "id": "norway-call-for-infantino-to-resign-as-mexico-and-argentina-back-president"
+    },
+    {
+      "published_at": "2026-08-07T12:00:16+00:00",
+      "updated_at": "2026-08-07T12:00:16+00:00",
+      "title": "Emotional Guimaraes wanted Arsenal move, says Newcastle chief",
+      "summary": "Newcastle United sporting director Ross Wilson says the club did not plan to sell Bruno Guimaraes, but their \"very emotional\" captain wanted to join Arsenal",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d820/live/676bbec0-9241-11f1-afba-01cbe043dea0.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c0m7knennd3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c0m7knennd3o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "emotional-guimaraes-wanted-arsenal-move-says-newcastle-chief"
+    },
+    {
+      "published_at": "2026-08-07T11:26:23+00:00",
+      "updated_at": "2026-08-07T11:26:23+00:00",
+      "title": "Assistant referee Massey-Ellis retires to take FA role",
+      "summary": "Assistant referee Sian Massey‑Ellis announces her retirement from officiating to take up a position with the Football Association",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d9a2/live/02549cc0-924e-11f1-a6ce-afeee273b42e.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/crl7ed7gerzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/crl7ed7gerzo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "assistant-referee-massey-ellis-retires-to-take-fa-role"
     },
     {
       "published_at": "2026-08-07T10:07:49+00:00",
@@ -346,33 +353,6 @@
       "id": "stanway-deal-boosts-partick-thistle-promotion-push"
     },
     {
-      "published_at": "2026-08-07T05:34:16+00:00",
-      "updated_at": "2026-08-07T05:34:16+00:00",
-      "title": "Who will exit Chelsea? How Blues could cut 41-man squad",
-      "summary": "With 25 days until the transfer window closes, Chelsea will be working hard to cut their 41-man senior squad.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2acf/live/263ce210-91ad-11f1-9c12-47c0acd34ba6.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c0jle24ln68o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c0jle24ln68o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "who-will-exit-chelsea-how-blues-could-cut-41-man-squad"
-    },
-    {
       "published_at": "2026-08-06T08:52:53+00:00",
       "updated_at": "2026-08-06T08:52:53+00:00",
       "title": "Simon Edvinsson om sin spektakulära räddning med klubban: ”Lite tur”",
@@ -431,7 +411,7 @@
       "published_at": "2026-08-07T08:00:00+00:00",
       "updated_at": "2026-08-07T08:00:00+00:00",
       "title": "Why Liverpool are ready to put their faith in the 'real deal' Jacquet",
-      "summary": "Liverpool have big hopes for Jeremy Jacquet having invested £60m to bring the highly-regarded young central defender to Anfield this summer. An injury has disrupted his pre-season but the Frenchman looks worth the wait",
+      "summary": "Liverpool have big hopes for Jeremy Jacquet having invested £60m to bring the highly regarded young central defender to Anfield this summer. An injury has disrupted his pre-season but the Frenchman looks worth the wait",
       "category": [
         "Premier League",
         "Transfer"
@@ -1003,7 +983,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.8/0.48/e49e06df7d3e953020faa711e70f0fcc0a11b2d17685d896962ab819418f8f92",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.83/0.47/82acecbdff3377143157091c28c2341a146ad7f58e4c1da301a88c2b570e8947",
       "sources": [
         {
           "name": "SVT Sport",
@@ -1154,6 +1134,33 @@
       "id": "se-messis-f-rsta-m-l-efter-vm-som-picasso"
     },
     {
+      "published_at": "2026-08-07T13:29:00+00:00",
+      "updated_at": "2026-08-07T13:29:00+00:00",
+      "title": "Ipswich latest: Lukic completes medical",
+      "summary": "Ipswich transfers, latest news, rumours and gossip: Live updates, goals and highlights",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-ipswich-town-news_7281011.jpg?20260623154649",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+      },
+      "confirmed_by": [],
+      "id": "ipswich-latest-lukic-completes-medical"
+    },
+    {
       "published_at": "2026-08-07T10:07:00+00:00",
       "updated_at": "2026-08-07T10:07:00+00:00",
       "title": "Man Utd latest: Bayindir makes Celta Vigo loan move",
@@ -1212,7 +1219,7 @@
       "published_at": "2026-08-07T12:20:00+00:00",
       "updated_at": "2026-08-07T12:20:00+00:00",
       "title": "Gallagher ready to show what he can do under De Zerbi at Spurs",
-      "summary": "Timing in sport often defines a career and for Conor Gallagher and Tottenham Hotspur, it probably could not have been worse",
+      "summary": "Timing in sport often defines a career and for Conor Gallagher and Tottenham, it probably could not have been worse",
       "category": [
         "Football"
       ],
@@ -1344,6 +1351,33 @@
       },
       "confirmed_by": [],
       "id": "gravius-visar-upp-sig-hos-gais-igen-f-rtjust-i-honom"
+    },
+    {
+      "published_at": "2026-08-07T12:00:00+00:00",
+      "updated_at": "2026-08-07T12:00:00+00:00",
+      "title": "Panalen efter halva serien – de åker ur",
+      "summary": "15 omgångar av Allsvenskan 2026 har passerat. Då samlas panelen för att sia om sluttabellen i november. Vilka kommer topp tre och vilka åker ur serien?",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/Yk6qBLNncFWiBocdG7kjihyWgdBh7OvjmKVwojSl.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/panalen-efter-halva-serien-de-aker-ur-698894"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/panalen-efter-halva-serien-de-aker-ur-698894"
+      },
+      "confirmed_by": [],
+      "id": "panalen-efter-halva-serien-de-ker-ur"
     },
     {
       "published_at": "2026-08-07T11:15:00+00:00",
@@ -1508,68 +1542,12 @@
       "id": "erlingmark-f-ordig-om-petningen-m-nga-matcher"
     },
     {
-      "published_at": "2026-08-06T20:43:00+00:00",
-      "updated_at": "2026-08-06T20:43:00+00:00",
-      "title": "Inte tillräckligt bra, Blåvitt!",
-      "summary": "IFK Göteborg gör en av säsongens bästa matcher, men det säger inte särskilt mycket. Trots iver och vilja att få in ett kvitteringsmål i andra halvlek, saknas kvalitén för att kunna hävda sig i Europa",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/kC0RKpm8cnMofJLl27lYnvGZ3Qpnt9kWuCn45BgQ.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/inte-tillrackligt-bra-blavitt-698893"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/inte-tillrackligt-bra-blavitt-698893"
-      },
-      "confirmed_by": [],
-      "id": "inte-tillr-ckligt-bra-bl-vitt"
-    },
-    {
-      "published_at": "2026-08-07T12:00:00+00:00",
-      "updated_at": "2026-08-07T12:00:00+00:00",
-      "title": "Seventeen-year-old Madjo leads line for Villa vs Bayern LIVE!",
-      "summary": "Bayern Munich vs Aston Villa LIVE! Pre-season friendly commentary, updates, scores and team",
-      "category": [
-        "Bundesliga"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "bayern-munich",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-aston-villa-pre-season_7315964.jpg?20260807105421",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13570609/bayern-munich-vs-aston-villa-live-pre-season-friendly-commentary-updates-scores-and-team-news"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13570609/bayern-munich-vs-aston-villa-live-pre-season-friendly-commentary-updates-scores-and-team-news"
-      },
-      "confirmed_by": [],
-      "id": "seventeen-year-old-madjo-leads-line-for-villa-vs-bayern-live"
-    },
-    {
-      "published_at": "2026-08-07T11:38:00+00:00",
-      "updated_at": "2026-08-07T11:38:00+00:00",
-      "title": "Chelsea latest: Napoli exploring move for Blues defender",
+      "published_at": "2026-08-07T13:52:00+00:00",
+      "updated_at": "2026-08-07T13:52:00+00:00",
+      "title": "Chelsea latest: Fernandez would be 'dream' Rodri replacement for Maresca",
       "summary": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
-        "Premier League",
-        "Serie A",
-        "Transfer"
+        "Premier League"
       ],
       "status": "Reported",
       "entity": "",
@@ -1588,7 +1566,7 @@
         "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "chelsea-latest-napoli-exploring-move-for-blues-defender"
+      "id": "chelsea-latest-fernandez-would-be-dream-rodri-replacement-for-maresca"
     }
   ]
 }
