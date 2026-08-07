@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T03:49:50.995481+00:00",
+  "updated_at": "2026-08-07T05:40:52.124281+00:00",
   "items": [
     {
       "published_at": "2026-08-06T17:58:41+00:00",
@@ -203,6 +203,33 @@
       "id": "papers-liverpool-could-rival-arsenal-in-konsa-chase"
     },
     {
+      "published_at": "2026-08-07T05:34:16+00:00",
+      "updated_at": "2026-08-07T05:34:16+00:00",
+      "title": "Who will exit Chelsea? How Blues could cut 41-man squad",
+      "summary": "With 25 days until the transfer window closes, Chelsea will be working hard to cut their 41-man senior squad.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2acf/live/263ce210-91ad-11f1-9c12-47c0acd34ba6.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c0jle24ln68o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c0jle24ln68o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "who-will-exit-chelsea-how-blues-could-cut-41-man-squad"
+    },
+    {
       "published_at": "2026-08-06T21:26:51+00:00",
       "updated_at": "2026-08-06T21:26:51+00:00",
       "title": "Birmingham sign striker Effa Effa for £100K",
@@ -336,34 +363,6 @@
       },
       "confirmed_by": [],
       "id": "arsenal-have-big-hopes-for-o-neill-arteta"
-    },
-    {
-      "published_at": "2026-08-06T14:38:33+00:00",
-      "updated_at": "2026-08-06T14:38:33+00:00",
-      "title": "Forlan agrees to become interim Uruguay head coach",
-      "summary": "Former Manchester United striker Diego Forlan agrees to become the new Uruguay coach on an interim basis",
-      "category": [
-        "Serie A",
-        "Coach"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bb3d/live/ce17b950-7ef3-11f1-83a7-0959f8cc10cc.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/clyrddd2y2no?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/clyrddd2y2no?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "forlan-agrees-to-become-interim-uruguay-head-coach"
     },
     {
       "published_at": "2026-08-06T08:52:53+00:00",
@@ -596,7 +595,7 @@
       "published_at": "2026-08-05T13:01:06+00:00",
       "updated_at": "2026-08-05T13:01:06+00:00",
       "title": "Älvali Lindström stor hjälte för Malmö FF – vidare i Champions League-kvalet",
-      "summary": "Mjällby förlorade mot Slovan Bratislava med 1–2 i det första mötet. Hemmalagets mål kom på en straff som godkändes först efter en lång VAR-granskning. Vi tappar greppet om matchen efter kvitteringen, säger tränaren Karl Marius Aksum",
+      "summary": "Malmö FF är klart för final i Champions League-kvalet. Nyförvärvet Älvali Lindström blev stor matchhjälte när hennes första mål i den himmelsblå tröjan säkrade en 1–0-seger mot norska Vålerenga",
       "category": [
         "Sverige"
       ],
@@ -1049,6 +1048,33 @@
       "id": "vi-tycker-om-mff"
     },
     {
+      "published_at": "2026-08-07T05:15:51+00:00",
+      "updated_at": "2026-08-07T05:15:51+00:00",
+      "title": "Se Messis första mål efter VM: ”Som Picasso”",
+      "summary": "Lionel Messi var tillbaka i startelvan för första gången sedan VM. Då slog argentinaren till med två klassmål och en assist för hans Inter Miami",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.7/0.49/971e5bca0f134f3b834cd14f0077f0bd3ff611eb21f5a0f40d9be9921fcd6d11",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/se-messis-forsta-mal-efter-vm-som-picasso"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/se-messis-forsta-mal-efter-vm-som-picasso"
+      },
+      "confirmed_by": [],
+      "id": "se-messis-f-rsta-m-l-efter-vm-som-picasso"
+    },
+    {
       "published_at": "2026-08-06T16:15:05+00:00",
       "updated_at": "2026-08-06T16:15:05+00:00",
       "title": "Efter Infantinos ursäkt – Uefas bojkotthot kvarstår: ”Ändrar ingenting”",
@@ -1155,33 +1181,6 @@
       },
       "confirmed_by": [],
       "id": "h-r-r-nyckeln-f-r-att-det-ska-bli-em-guld-till-andreas-almgren-m-ste-kunna"
-    },
-    {
-      "published_at": "2026-08-06T05:59:56+00:00",
-      "updated_at": "2026-08-06T05:59:56+00:00",
-      "title": "Carmen Cernjul femma på 5000 meter i U20-VM",
-      "summary": "Carmen Cernjul inledde U20-VM med en femteplats. Samtidigt var Ella Alvelin Malm bäst i längdhoppskvalet – efter att ha slagit sitt personliga rekord med en decimeter. – Jag förväntar mig en tuff final, säger Alvelin Malm",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.46/0.33/9d86e74af78e7c7fa9358a09fac12d963faad2ff30ef49620f8563987c6834d8",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/friidrott/carmen-cernjul-femma-pa-5000-meter-i-u20-vm"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/friidrott/carmen-cernjul-femma-pa-5000-meter-i-u20-vm"
-      },
-      "confirmed_by": [],
-      "id": "carmen-cernjul-femma-p-5000-meter-i-u20-vm"
     },
     {
       "published_at": "2026-08-06T22:30:00+00:00",
@@ -1403,6 +1402,33 @@
       "id": "gravius-visar-upp-sig-hos-gais-igen-f-rtjust-i-honom"
     },
     {
+      "published_at": "2026-08-07T05:30:00+00:00",
+      "updated_at": "2026-08-07T05:30:00+00:00",
+      "title": "Erlingmark fåordig om petningen: ”Många matcher”",
+      "summary": "August Erlingmark fick inleda på bänken hemma mot Gent. Efter petningen är Blåvitts lagkapten fåordig. – Så är det ibland, vi har många matcher, säger Erlingmark",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/bXizMIKm6b0I5g0LV8r9DgixTDPim5EHeALjWVCI.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/erlingmark-faordig-om-petningen-manga-matcher-698890"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/erlingmark-faordig-om-petningen-manga-matcher-698890"
+      },
+      "confirmed_by": [],
+      "id": "erlingmark-f-ordig-om-petningen-m-nga-matcher"
+    },
+    {
       "published_at": "2026-08-06T20:43:00+00:00",
       "updated_at": "2026-08-06T20:43:00+00:00",
       "title": "Inte tillräckligt bra, Blåvitt!",
@@ -1536,33 +1562,6 @@
       },
       "confirmed_by": [],
       "id": "spelarbetyg-efter-gent-hemma-en-skugga-av-sig-sj-lv"
-    },
-    {
-      "published_at": "2026-08-06T19:14:30+00:00",
-      "updated_at": "2026-08-06T19:14:30+00:00",
-      "title": "Inför Örgryte IS - AIK",
-      "summary": "Efter den fina 3-0 segern på nationalarenan i söndags är det dags för nytt möte med AIK. Ett möte som blir speciellt, dels på för att lagen så nyss spelat mot varandra men också på grund av resultatet. Det ska bli väldigt spännande att se hur matchen artar sig.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/9RNiV8agtMRwcfsxRBz8nexLK8n2vpejfPoZ76On.png",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/infor-orgryte-is-aik-698887"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/infor-orgryte-is-aik-698887"
-      },
-      "confirmed_by": [],
-      "id": "inf-r-rgryte-is-aik"
     }
   ]
 }
