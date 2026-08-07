@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T02:46:18.709154+00:00",
+  "updated_at": "2026-08-07T00:05:17.631291+00:00",
   "leagues": {
     "Premier League": {
       "competition_code": "PL",
@@ -928,6 +928,44 @@
             "home_win_pct": 49,
             "draw_pct": 21,
             "away_win_pct": 30,
+            "basis": "Formkurva (45%), tabellplacering (35%), inbördes möten (20%) + hemmaplansfördel. Statistisk uppskattning — inget spelråd."
+          },
+          "extra_stats": null,
+          "source": "football-data.org"
+        },
+        {
+          "id": "fd-564635",
+          "league": "La Liga",
+          "utc_kickoff": "2026-08-17T19:00:00Z",
+          "matchday": 1,
+          "venue": null,
+          "home": {
+            "id": 560,
+            "name": "RC Deportivo La Coruña",
+            "short_name": "Deportivo",
+            "crest": "https://crests.football-data.org/560.png",
+            "position": null,
+            "points": null,
+            "played": null,
+            "form": [],
+            "table_size": null
+          },
+          "away": {
+            "id": 285,
+            "name": "Elche CF",
+            "short_name": "Elche",
+            "crest": "https://crests.football-data.org/285.png",
+            "position": 13,
+            "points": 43,
+            "played": 38,
+            "form": [],
+            "table_size": 20
+          },
+          "h2h": null,
+          "prediction": {
+            "home_win_pct": 41,
+            "draw_pct": 26,
+            "away_win_pct": 33,
             "basis": "Formkurva (45%), tabellplacering (35%), inbördes möten (20%) + hemmaplansfördel. Statistisk uppskattning — inget spelråd."
           },
           "extra_stats": null,
