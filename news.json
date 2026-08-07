@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T19:54:43.095318+00:00",
+  "updated_at": "2026-08-07T20:41:19.069200+00:00",
   "items": [
     {
       "published_at": "2026-08-07T12:20:52+00:00",
@@ -155,43 +155,6 @@
       "id": "o-neill-out-of-hospital-but-no-timeline-for-celtic-return"
     },
     {
-      "published_at": "2026-08-07T10:51:46+00:00",
-      "updated_at": "2026-08-07T10:51:46+00:00",
-      "title": "Atletico hold talks with Spurs captain Romero",
-      "summary": "Atletico Madrid hold talks over a move for Tottenham captain Cristian Romero, who is expected to leave the club this summer",
-      "category": [
-        "La Liga",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c4e3/live/96bb1990-924c-11f1-a6ce-afeee273b42e.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c0qv4g0x79go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13570615/cristian-romero-transfer-news-atletico-madrid-in-talks-to-sign-tottenham-captain-amid-inter-milan-interest"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c0qv4g0x79go?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13570615/cristian-romero-transfer-news-atletico-madrid-in-talks-to-sign-tottenham-captain-amid-inter-milan-interest"
-        }
-      ],
-      "id": "atletico-hold-talks-with-spurs-captain-romero"
-    },
-    {
       "published_at": "2026-08-07T14:10:20+00:00",
       "updated_at": "2026-08-07T14:10:20+00:00",
       "title": "Hjerto-Dahl joins Hull in 'biggest challenge' yet",
@@ -299,6 +262,34 @@
       },
       "confirmed_by": [],
       "id": "assistant-referee-massey-ellis-retires-to-take-fa-role"
+    },
+    {
+      "published_at": "2026-08-07T10:51:46+00:00",
+      "updated_at": "2026-08-07T10:51:46+00:00",
+      "title": "Atletico hold talks with Spurs captain Romero",
+      "summary": "Atletico Madrid hold talks over a move for Tottenham captain Cristian Romero, who is expected to leave the club this summer",
+      "category": [
+        "La Liga",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c4e3/live/96bb1990-924c-11f1-a6ce-afeee273b42e.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c0qv4g0x79go?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c0qv4g0x79go?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "atletico-hold-talks-with-spurs-captain-romero"
     },
     {
       "published_at": "2026-08-07T10:07:49+00:00",
@@ -1044,31 +1035,32 @@
       "id": "scots-prem-celtic-target-hassan-left-out-of-oviedo-squad-amid-9m-bid"
     },
     {
-      "published_at": "2026-08-07T15:00:00+00:00",
-      "updated_at": "2026-08-07T15:00:00+00:00",
-      "title": "Palace latest Tomiyasu signs with deal agreed for MLS winger",
-      "summary": "Crystal Palace transfers, latest news, rumours and gossip: Live updates, goals and highlights",
+      "published_at": "2026-08-07T11:30:00+00:00",
+      "updated_at": "2026-08-07T11:30:00+00:00",
+      "title": "EFL latest: Wilder confirms Coventry bid for Hamer being considered by owners",
+      "summary": "Championship news, transfer latest and gossip plus EFL updates from League One and League Two",
       "category": [
-        "Transfer"
+        "Transfer",
+        "Club management"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/06/1600x900/skysports-premier-league-crystal-palace_7274807.jpg?20260616120117",
+      "image": "https://e0.365dm.com/26/04/1600x900/skysports-gus-hamer-sheffield-united_7210298.jpg?20260403161529",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+          "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+        "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two"
       },
       "confirmed_by": [],
-      "id": "palace-latest-tomiyasu-signs-with-deal-agreed-for-mls-winger"
+      "id": "efl-latest-wilder-confirms-coventry-bid-for-hamer-being-considered-by-owners"
     },
     {
       "published_at": "2026-08-07T15:13:00+00:00",
@@ -1125,31 +1117,141 @@
       "id": "bayern-hold-off-late-surge-from-villa-to-win-in-hong-kong"
     },
     {
-      "published_at": "2026-08-07T12:20:00+00:00",
-      "updated_at": "2026-08-07T12:20:00+00:00",
-      "title": "Gallagher ready to show what he can do under De Zerbi at Spurs",
-      "summary": "Timing in sport often defines a career and for Conor Gallagher and Tottenham, it probably could not have been worse",
+      "published_at": "2026-08-07T11:30:00+00:00",
+      "updated_at": "2026-08-07T11:30:00+00:00",
+      "title": "Make your Scottish Premiership predictions with every game analysed",
+      "summary": "Stuttering starts, goals in every match and plenty of excitement - the Scottish Premiership returned with a bang and there is more to look forward to this weekend",
       "category": [
         "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-spurs-midfielder_7316029.jpg?20260807123348",
+      "club": "",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-scottish-premiership_7315950.jpg?20260807103215",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13570633/conor-gallagher-exclusive-spurs-midfielder-ready-to-show-what-he-can-do-under-roberto-de-zerbi-this-season"
+          "url": "https://www.skysports.com/football/news/11095/13570605/scottish-premiership-predict-the-scores-ahead-of-another-big-weekend-including-kilmarnock-vs-celtic-live-on-sky"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13570633/conor-gallagher-exclusive-spurs-midfielder-ready-to-show-what-he-can-do-under-roberto-de-zerbi-this-season"
+        "url": "https://www.skysports.com/football/news/11095/13570605/scottish-premiership-predict-the-scores-ahead-of-another-big-weekend-including-kilmarnock-vs-celtic-live-on-sky"
       },
       "confirmed_by": [],
-      "id": "gallagher-ready-to-show-what-he-can-do-under-de-zerbi-at-spurs"
+      "id": "make-your-scottish-premiership-predictions-with-every-game-analysed"
+    },
+    {
+      "published_at": "2026-08-05T22:30:28+00:00",
+      "updated_at": "2026-08-05T22:30:28+00:00",
+      "title": "Experten: \"Därför vinner PSG mot Arsenal i CL-finalen\"",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige",
+        "Premier League",
+        "Ligue 1"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "experten-d-rf-r-vinner-psg-mot-arsenal-i-cl-finalen"
+    },
+    {
+      "published_at": "2026-08-05T12:03:16+00:00",
+      "updated_at": "2026-08-05T12:03:16+00:00",
+      "title": "\"Upplagt för historisk skräll för Norge mot ett darrigt England\"",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "upplagt-f-r-historisk-skr-ll-f-r-norge-mot-ett-darrigt-england"
+    },
+    {
+      "published_at": "2026-08-05T11:53:00+00:00",
+      "updated_at": "2026-08-05T11:53:00+00:00",
+      "title": "Diogo Tomas: Ingen behövde övertyga mig om AIK",
+      "summary": "Diogo Tomas: Ingen behövde övertyga mig om AIK Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "diogo-tomas-ingen-beh-vde-vertyga-mig-om-aik"
+    },
+    {
+      "published_at": "2026-08-05T07:00:00+00:00",
+      "updated_at": "2026-08-05T07:00:00+00:00",
+      "title": "Gravius visar upp sig hos Gais - igen: \"Förtjust i honom\"",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "gravius-visar-upp-sig-hos-gais-igen-f-rtjust-i-honom"
     },
     {
       "published_at": "2026-08-07T18:39:00+00:00",
