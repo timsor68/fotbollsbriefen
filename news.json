@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T10:07:27.126378+00:00",
+  "updated_at": "2026-08-07T11:45:52.600813+00:00",
   "items": [
     {
       "published_at": "2026-08-06T17:58:41+00:00",
@@ -45,6 +45,79 @@
         }
       ],
       "id": "vinicius-jr-and-real-madrid-agree-new-six-year-deal"
+    },
+    {
+      "published_at": "2026-08-07T11:26:23+00:00",
+      "updated_at": "2026-08-07T11:26:23+00:00",
+      "title": "Assistant referee Massey-Ellis retires to take FA role",
+      "summary": "Assistant referee Sian Massey‑Ellis announces her retirement from officiating to take up a position with the Football Association",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d9a2/live/02549cc0-924e-11f1-a6ce-afeee273b42e.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/crl7ed7gerzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13570628/sian-massey-ellis"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/crl7ed7gerzo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13570628/sian-massey-ellis"
+        }
+      ],
+      "id": "assistant-referee-massey-ellis-retires-to-take-fa-role"
+    },
+    {
+      "published_at": "2026-08-07T10:51:46+00:00",
+      "updated_at": "2026-08-07T10:51:46+00:00",
+      "title": "Atletico hold talks with Spurs captain Romero",
+      "summary": "Atletico Madrid hold talks over a move for Tottenham captain Cristian Romero, who is expected to leave the club this summer",
+      "category": [
+        "La Liga",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c4e3/live/96bb1990-924c-11f1-a6ce-afeee273b42e.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c0qv4g0x79go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13570615/cristian-romero-transfer-news-atletico-madrid-in-talks-to-sign-tottenham-captain-amid-inter-milan-interest"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c0qv4g0x79go?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13570615/cristian-romero-transfer-news-atletico-madrid-in-talks-to-sign-tottenham-captain-amid-inter-milan-interest"
+        }
+      ],
+      "id": "atletico-hold-talks-with-spurs-captain-romero"
     },
     {
       "published_at": "2026-08-06T14:58:56+00:00",
@@ -131,10 +204,81 @@
       "id": "barcelona-step-up-rodri-interest-after-real-madrid-talks-with-manchester-city-star-stall"
     },
     {
+      "published_at": "2026-08-07T10:29:38+00:00",
+      "updated_at": "2026-08-07T10:29:38+00:00",
+      "title": "Norway call for Infantino to resign as Mexico and Argentina back president",
+      "summary": "Mexico breaks ranks with Concacaf to support Fifa chief Growing speculation country will switch to Conmebol The Mexican football federations have broken ranks with the rest of Concacaf by issuing their public backing for beleaguered Fifa president Gianni Infantino in a move that has deepened world football’s civil war. Concacaf has called for a thorough review of Fifa’s governance in the light of the World Cup sell-off debacle, and is backing Uefa’s demands for meaningful change, although has yet to follow their European counterparts by threatening to boycott tournaments if they do not achieve their objectives.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8170/live/00f828c0-9248-11f1-afba-01cbe043dea0.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13570447/gianni-infantino-players-union-fifpro-slams-fifa-and-abuse-of-presidential-power-as-uefa-doubles-down-on-boycott"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/07/mexico-argentina-gianni-infantino-deepen-football-civil-war-fifa"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13570447/gianni-infantino-players-union-fifpro-slams-fifa-and-abuse-of-presidential-power-as-uefa-doubles-down-on-boycott"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/07/mexico-argentina-gianni-infantino-deepen-football-civil-war-fifa"
+        }
+      ],
+      "id": "norway-call-for-infantino-to-resign-as-mexico-and-argentina-back-president"
+    },
+    {
+      "published_at": "2026-08-07T10:07:49+00:00",
+      "updated_at": "2026-08-07T10:07:49+00:00",
+      "title": "Lewis-Skelly's push to start in midfield for Arsenal",
+      "summary": "Myles Lewis-Skelly broke into the Arsenal first team at left-back, but the teenager's preference has always been to play in midfield",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/36be/live/d0f7f380-9247-11f1-afba-01cbe043dea0.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c15171py593o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c15171py593o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "lewis-skelly-s-push-to-start-in-midfield-for-arsenal"
+    },
+    {
       "published_at": "2026-08-07T09:30:30+00:00",
       "updated_at": "2026-08-07T09:30:30+00:00",
       "title": "England forward Toney charged with assault in Soho",
-      "summary": "Met police say charge relates to alleged assault that reportedly took place in December at venue in London The England striker Ivan Toney has been charged with assault after an incident at a nightclub in Soho. The Metropolitan police said Ivan Toney, 30, of Northampton, was charged on 31 July with assault causing actual bodily harm.",
+      "summary": "Met police say charge relates to alleged assault that reportedly took place in December at venue in London The England footballer Ivan Toney has been charged with assault after an incident at a nightclub in Soho in December last year. Scotland Yard said the striker had been charged on 31 July with assault causing actual bodily harm. Toney, who plays for the Saudi Pro League club Al-Ahli, is due to appear at Westminster magistrates court on 24 September.",
       "category": [
         "Football"
       ],
@@ -173,50 +317,6 @@
         }
       ],
       "id": "england-forward-toney-charged-with-assault-in-soho"
-    },
-    {
-      "published_at": "2026-08-07T08:42:12+00:00",
-      "updated_at": "2026-08-07T08:42:12+00:00",
-      "title": "Mexico break ranks to join Argentina in backing Infantino",
-      "summary": "Mexico breaks ranks with Concacaf to support Fifa chief Growing speculation country will switch to Conmebol The Mexican football federations have broken ranks with the rest of Concacaf by issuing their public backing for beleaguered Fifa president Gianni Infantino in a move that has deepened world football’s civil war. Concacaf has called for a thorough review of Fifa’s governance in the light of the World Cup sell-off debacle, and is backing Uefa’s demands for meaningful change, although has yet to follow their European counterparts by threatening to boycott tournaments if they do not achieve their objectives.",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fe92/live/06cd6360-923d-11f1-b37c-576fd8256624.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13570447/gianni-infantino-players-union-fifpro-slams-fifa-and-abuse-of-presidential-power-as-uefa-doubles-down-on-boycott"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/07/mexico-argentina-gianni-infantino-deepen-football-civil-war-fifa"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13570447/gianni-infantino-players-union-fifpro-slams-fifa-and-abuse-of-presidential-power-as-uefa-doubles-down-on-boycott"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/07/mexico-argentina-gianni-infantino-deepen-football-civil-war-fifa"
-        }
-      ],
-      "id": "mexico-break-ranks-to-join-argentina-in-backing-infantino"
     },
     {
       "published_at": "2026-08-07T08:00:11+00:00",
@@ -273,87 +373,6 @@
       "id": "who-will-exit-chelsea-how-blues-could-cut-41-man-squad"
     },
     {
-      "published_at": "2026-08-06T21:26:51+00:00",
-      "updated_at": "2026-08-06T21:26:51+00:00",
-      "title": "Birmingham sign striker Effa Effa for £100K",
-      "summary": "Birmingham City sign France youth international Chancelle Effa Effa from Le Havre",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7b28/live/cbc38d30-91d8-11f1-a871-cbc6294c08f0.png",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ce971e8ny8mo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ce971e8ny8mo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "birmingham-sign-striker-effa-effa-for-100k"
-    },
-    {
-      "published_at": "2026-08-06T19:11:30+00:00",
-      "updated_at": "2026-08-06T19:11:30+00:00",
-      "title": "Van de Ven close to agreeing new Spurs contract",
-      "summary": "Micky van de Ven is close to agreeing a new five-year contract with Tottenham Hotspur",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fe27/live/6f332be0-91c7-11f1-8c3a-e79d623d823a.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5y3j1k8053o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5y3j1k8053o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "van-de-ven-close-to-agreeing-new-spurs-contract"
-    },
-    {
-      "published_at": "2026-08-06T18:04:21+00:00",
-      "updated_at": "2026-08-06T18:04:21+00:00",
-      "title": "Trafford joins Leeds from Man City in potential £45m deal",
-      "summary": "Leeds United sign Manchester City and England goalkeeper James Trafford in a deal worth up to £45m",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/28a4/live/6b9d7d70-9184-11f1-9587-294e25c71c14.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c0l592513y9o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c0l592513y9o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "trafford-joins-leeds-from-man-city-in-potential-45m-deal"
-    },
-    {
       "published_at": "2026-08-06T08:52:53+00:00",
       "updated_at": "2026-08-06T08:52:53+00:00",
       "title": "Simon Edvinsson om sin spektakulära räddning med klubban: ”Lite tur”",
@@ -407,34 +426,6 @@
       },
       "confirmed_by": [],
       "id": "tr-naren-om-dejan-kulusevski-hoppas-han-r-tillg-nglig-snart"
-    },
-    {
-      "published_at": "2026-08-07T10:15:00+00:00",
-      "updated_at": "2026-08-07T10:15:00+00:00",
-      "title": "Atletico in talks with Spurs to sign captain Romero",
-      "summary": "Atletico Madrid are in talks with Tottenham over signing their captain Cristian Romero",
-      "category": [
-        "La Liga",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://e0.365dm.com/26/01/1600x900/skysports-cristian-romero-spurs_7138101.jpg?20260117163435",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13570615/cristian-romero-transfer-news-atletico-madrid-in-talks-to-sign-tottenham-captain-amid-inter-milan-interest"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13570615/cristian-romero-transfer-news-atletico-madrid-in-talks-to-sign-tottenham-captain-amid-inter-milan-interest"
-      },
-      "confirmed_by": [],
-      "id": "atletico-in-talks-with-spurs-to-sign-captain-romero"
     },
     {
       "published_at": "2026-08-07T08:00:00+00:00",
@@ -494,8 +485,8 @@
     {
       "published_at": "2026-08-06T20:00:00+00:00",
       "updated_at": "2026-08-06T20:00:00+00:00",
-      "title": "The Vinicius Junior dream is over - so what do Arsenal do now?",
-      "summary": "No Morgan Rogers, no Vinicius Junior - what do Arsenal do now in their bid to improve their forward line this summer?",
+      "title": "No Vini Jr, no Rogers - so what do Arsenal do now?",
+      "summary": "No Vinicius Junior, no Morgan Rogers - what do Arsenal do now in their bid to improve their forward line this summer?",
       "category": [
         "Premier League"
       ],
@@ -516,7 +507,7 @@
         "url": "https://www.skysports.com/football/news/11095/13570357/arsenal-transfer-news-what-do-gunners-do-now-after-vinicius-jr-commits-to-new-real-madrid-contract"
       },
       "confirmed_by": [],
-      "id": "the-vinicius-junior-dream-is-over-so-what-do-arsenal-do-now"
+      "id": "no-vini-jr-no-rogers-so-what-do-arsenal-do-now"
     },
     {
       "published_at": "2026-08-06T19:00:00+00:00",
@@ -544,60 +535,6 @@
       },
       "confirmed_by": [],
       "id": "leeds-sign-england-goalkeeper-trafford-for-club-record-fee"
-    },
-    {
-      "published_at": "2026-08-06T19:00:00+00:00",
-      "updated_at": "2026-08-06T19:00:00+00:00",
-      "title": "Rangers Europa League hopes dealt blow by Jagiellonia",
-      "summary": "Derek McInnes is still looking for his first win as Rangers manager after they fell to a 2-1 defeat to Jagiellonia Bialystok in Europa League qualifying",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-mcinnes-derek-rangers_7315598.jpg?20260806180709",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/jagiellonia-bialystok-vs-rangers/report/571441"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/jagiellonia-bialystok-vs-rangers/report/571441"
-      },
-      "confirmed_by": [],
-      "id": "rangers-europa-league-hopes-dealt-blow-by-jagiellonia"
-    },
-    {
-      "published_at": "2026-08-06T13:29:00+00:00",
-      "updated_at": "2026-08-06T13:29:00+00:00",
-      "title": "Salah joins Turkish side Trabzonspor",
-      "summary": "Mohamed Salah has joined Turkish Super Lig side Trabzonspor on a free transfer",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-mohamed-salah-trabzonspor_7315530.jpg?20260806170534",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13570282/mohamed-salah-former-liverpool-forward-joins-turkish-club-trabzonspor-on-free-transfer-after-leaving-anfield"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13570282/mohamed-salah-former-liverpool-forward-joins-turkish-club-trabzonspor-on-free-transfer-after-leaving-anfield"
-      },
-      "confirmed_by": [],
-      "id": "salah-joins-turkish-side-trabzonspor"
     },
     {
       "published_at": "2026-08-02T22:08:00+00:00",
@@ -698,6 +635,35 @@
         }
       ],
       "id": "lvali-lindstr-m-stor-hj-lte-f-r-malm-ff-vidare-i-champions-league-kvalet"
+    },
+    {
+      "published_at": "2026-08-07T10:37:43+00:00",
+      "updated_at": "2026-08-07T10:37:43+00:00",
+      "title": "Tottenham and Atlético in talks over Romero with Van de Ven set to sign new deal",
+      "summary": "Simeone keen on swoop for Spurs defender Van de Ven expected to pen five-year extension Tottenham are in talks with Atlético Madrid over the sale of Cristian Romero after categorically rejecting Arsenal’s approach for the Argentina defender and are expected to agree a new five-year deal with Micky van de Ven. Romero has made no secret of his desire to leave Spurs despite signing a new four-year contract at the start of last season and had looked set to join Internazionale for a fee of around £35m . But Atlético are long-term suitors of the 27-year-old and are thought to be his preferred destination, with Diego Simeone’s side understood to be prepared to match Inter’s bid.",
+      "category": [
+        "Premier League",
+        "La Liga",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://i.guim.co.uk/img/media/c772102745e2f6cd0f04d6d0e72dc28851c9df48/512_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9a09e89f88b9cc4cc7d1f3065f897531",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/07/tottenham-and-atletico-in-talks-over-romero-with-van-de-ven-set-to-sign-new-deal"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/07/tottenham-and-atletico-in-talks-over-romero-with-van-de-ven-set-to-sign-new-deal"
+      },
+      "confirmed_by": [],
+      "id": "tottenham-and-atl-tico-in-talks-over-romero-with-van-de-ven-set-to-sign-new-deal"
     },
     {
       "published_at": "2026-08-07T07:00:10+00:00",
@@ -945,35 +911,8 @@
       "id": "mauricio-pochettino-s-us-return-is-risky-expensive-and-probably-unnecessary-leander-schaer"
     },
     {
-      "published_at": "2026-08-01T15:00:55+00:00",
-      "updated_at": "2026-08-01T15:00:55+00:00",
-      "title": "There can be no letup. Humiliated Infantino must stand down at Fifa or be removed | Nick Ames",
-      "summary": "‘There is no way back for him,’ says NFF president Infantino still battling for support around the world The Norwegian FA will ask Gianni Infantino to resign with immediate effect after his doomed attempt to sell stakes in the World Cup to private investors. Norway is the first federation to call directly for the Fifa president to step down after a series of controversies that came to a head with the current crisis surrounding his Fifa Forward Enterprise scheme. The decision was made in a meeting of the Norwegian Football Federation (NFF) on Thursday night.",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/8b378f109d8ed192a6a8f1cc382d55de2798e469/1026_0_5132_4105/master/5132.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=8edd554eb46a2d9557a75de6015eb81c",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/01/humiliated-gianni-infantino-must-stand-down-fifa-or-be-removed-uefa-football-politics"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/01/humiliated-gianni-infantino-must-stand-down-fifa-or-be-removed-uefa-football-politics"
-      },
-      "confirmed_by": [],
-      "id": "there-can-be-no-letup-humiliated-infantino-must-stand-down-at-fifa-or-be-removed-nick-ames"
-    },
-    {
-      "published_at": "2026-08-07T09:42:09+00:00",
-      "updated_at": "2026-08-07T09:42:09+00:00",
+      "published_at": "2026-08-07T09:42:00+00:00",
+      "updated_at": "2026-08-07T09:42:00+00:00",
       "title": "Presentation av Claesson, Motaraghebjafarpour & Mella",
       "summary": "IFK Värnamo har förstärkt truppen med tre spelare under sommaren i jakten på nytt kontrakt i Superettan. Rutinerade Viktor Claesson, högerbacken Arash Motaraghebjafarpour och den unge yttern Hugo Andersson Mella har alla hunnit visa upp sig – men frågan är vad de egentligen tillför och om värvningarna är tillräckliga för att rädda säsongen?",
       "category": [
@@ -1053,6 +992,33 @@
       "id": "klart-colin-r-sler-l-mnar-malm-ff"
     },
     {
+      "published_at": "2026-08-07T11:44:12+00:00",
+      "updated_at": "2026-08-07T11:44:12+00:00",
+      "title": "Isabelle Haak spelar piano på EM-låten",
+      "summary": "Med drygt två veckor kvar till volleyboll-EM i Göteborg släpps den svenska EM-låten ”Hur vi skimrade” – med världsstjärnan Isabelle Haak på piano. – Även om det var en liten pianoslinga var jag nervös, säger ”Bella” Haak till SVT Sport",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.8/0.48/e49e06df7d3e953020faa711e70f0fcc0a11b2d17685d896962ab819418f8f92",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/volleyboll/isabelle-haak-spelar-piano-pa-em-laten"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/volleyboll/isabelle-haak-spelar-piano-pa-em-laten"
+      },
+      "confirmed_by": [],
+      "id": "isabelle-haak-spelar-piano-p-em-l-ten"
+    },
+    {
       "published_at": "2026-08-07T09:48:11+00:00",
       "updated_at": "2026-08-07T09:48:11+00:00",
       "title": "Jacob Hölting Nilsson och Elmer Andersson fortsätter att imponera",
@@ -1064,7 +1030,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/d1b624d80497516ff960c2aed0b87fceb2e1ecfe96ea5ffc6362aaa853cc49b3",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.28/0.5/ee977922d102905401098fa34c8b3a3f81c116a4ce7b615d7275b163c0721626",
       "sources": [
         {
           "name": "SVT Sport",
@@ -1188,33 +1154,6 @@
       "id": "se-messis-f-rsta-m-l-efter-vm-som-picasso"
     },
     {
-      "published_at": "2026-08-06T16:15:05+00:00",
-      "updated_at": "2026-08-06T16:15:05+00:00",
-      "title": "Efter Infantinos ursäkt – Uefas bojkotthot kvarstår: ”Ändrar ingenting”",
-      "summary": "Europeiska fotbollsledare är inte imponerade av Fifas ursäkt efter den havererade VM-planen. Uefa står fast vid sitt bojkotthot om VM, uppger brittiska medier. ”Uefas medlemsförbund var mycket tydliga med villkoren för sitt icke-deltagande i Fifa-tävlingar”, skriver förbundet i ett uttalande, enligt BBC",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.24/0.43/fbe20467950cc4aa9b30b01c8e04a0be09a43162ff4c63126d173bd36cb116c3",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/efter-infantinos-ursakt-uefas-bojkotthot-kvarstar-andrar-ingenting"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/efter-infantinos-ursakt-uefas-bojkotthot-kvarstar-andrar-ingenting"
-      },
-      "confirmed_by": [],
-      "id": "efter-infantinos-urs-kt-uefas-bojkotthot-kvarst-r-ndrar-ingenting"
-    },
-    {
       "published_at": "2026-08-07T10:07:00+00:00",
       "updated_at": "2026-08-07T10:07:00+00:00",
       "title": "Man Utd latest: Bayindir makes Celta Vigo loan move",
@@ -1270,31 +1209,58 @@
       "id": "a-crazy-day-how-the-spanish-papers-reacted-to-transfer-bonanza"
     },
     {
-      "published_at": "2026-08-06T22:30:00+00:00",
-      "updated_at": "2026-08-06T22:30:00+00:00",
-      "title": "Scot Prem: Celtic bid for Egypt star, Rangers make offer for PSV winger",
-      "summary": "Scottish Premiership news, transfers, rumours, gossip and more",
+      "published_at": "2026-08-07T12:20:00+00:00",
+      "updated_at": "2026-08-07T12:20:00+00:00",
+      "title": "Gallagher ready to show what he can do under De Zerbi at Spurs",
+      "summary": "Timing in sport often defines a career and for Conor Gallagher and Tottenham Hotspur, it probably could not have been worse",
       "category": [
-        "Transfer"
+        "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-haissem-hassan-celtic_7315476.jpg?20260806160830",
+      "club": "tottenham",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-spurs-midfielder_7316029.jpg?20260807123348",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more"
+          "url": "https://www.skysports.com/football/news/11095/13570633/conor-gallagher-exclusive-spurs-midfielder-ready-to-show-what-he-can-do-under-roberto-de-zerbi-this-season"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more"
+        "url": "https://www.skysports.com/football/news/11095/13570633/conor-gallagher-exclusive-spurs-midfielder-ready-to-show-what-he-can-do-under-roberto-de-zerbi-this-season"
       },
       "confirmed_by": [],
-      "id": "scot-prem-celtic-bid-for-egypt-star-rangers-make-offer-for-psv-winger"
+      "id": "gallagher-ready-to-show-what-he-can-do-under-de-zerbi-at-spurs"
+    },
+    {
+      "published_at": "2026-08-07T11:30:00+00:00",
+      "updated_at": "2026-08-07T11:30:00+00:00",
+      "title": "Make your Scottish Premiership predictions with every game analysed",
+      "summary": "Stuttering starts, goals in every match and plenty of excitement - the Scottish Premiership returned with a bang and there is more to look forward to this weekend",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-scottish-premiership_7315950.jpg?20260807103215",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13570605/scottish-premiership-predict-the-scores-ahead-of-another-big-weekend-including-kilmarnock-vs-celtic-live-on-sky"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13570605/scottish-premiership-predict-the-scores-ahead-of-another-big-weekend-including-kilmarnock-vs-celtic-live-on-sky"
+      },
+      "confirmed_by": [],
+      "id": "make-your-scottish-premiership-predictions-with-every-game-analysed"
     },
     {
       "published_at": "2026-08-05T22:30:28+00:00",
@@ -1380,8 +1346,35 @@
       "id": "gravius-visar-upp-sig-hos-gais-igen-f-rtjust-i-honom"
     },
     {
-      "published_at": "2026-08-07T10:04:28+00:00",
-      "updated_at": "2026-08-07T10:04:28+00:00",
+      "published_at": "2026-08-07T11:15:00+00:00",
+      "updated_at": "2026-08-07T11:15:00+00:00",
+      "title": "Inför Nordic hemma: ”Vill leverera match med betydligt högre kvalité”",
+      "summary": "FFF har skakat av sig den sura derbyförlusten och vill imorgon visa att man är ett bättre lag än vad man visade senast. För motståndet står Södertäljegänget Nordic United, också dem ett topplag",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/D8N6XckLTMIDDsrhwNFsN6ET5oiIuryHsJDQeQ57.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/infor-nordic-hemma-vill-leverera-match-med-betydligt-hogre-kvalite-698914"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/infor-nordic-hemma-vill-leverera-match-med-betydligt-hogre-kvalite-698914"
+      },
+      "confirmed_by": [],
+      "id": "inf-r-nordic-hemma-vill-leverera-match-med-betydligt-h-gre-kvalit"
+    },
+    {
+      "published_at": "2026-08-07T10:04:00+00:00",
+      "updated_at": "2026-08-07T10:04:00+00:00",
       "title": "Inför Örgryte-AIK: Täta skrovet",
       "summary": "Efter den fina 3-0 segern på nationalarenan i söndags är det dags för nytt möte med AIK. Ett möte som blir speciellt, dels på för att lagen så nyss spelat mot varandra men också på grund av resultatet. Det ska bli väldigt spännande att se hur matchen artar sig.",
       "category": [
@@ -1542,31 +1535,60 @@
       "id": "inte-tillr-ckligt-bra-bl-vitt"
     },
     {
-      "published_at": "2026-08-06T20:25:00+00:00",
-      "updated_at": "2026-08-06T20:25:00+00:00",
-      "title": "3 snabba efter matchen mot Raków",
-      "summary": "Efter debaclet mot Anderlecht var det återigen dags att bevittna Hammarby spela fotboll. Denna gång var jag tyvärr inte på plats så matchen fick följas via Aftonbladets mediokra sändning. Raków stod för motståndet och en hård match om europaspel väntades.",
+      "published_at": "2026-08-07T12:00:00+00:00",
+      "updated_at": "2026-08-07T12:00:00+00:00",
+      "title": "Seventeen-year-old Madjo leads line for Villa vs Bayern LIVE!",
+      "summary": "Bayern Munich vs Aston Villa LIVE! Pre-season friendly commentary, updates, scores and team",
       "category": [
-        "Sverige"
+        "Bundesliga"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/YWTsMNhFBNdzTRcrWWxS8yhaqoDzL9F7DjDjCkSo.jpg",
+      "club": "bayern-munich",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-aston-villa-pre-season_7315964.jpg?20260807105421",
       "sources": [
         {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/3-snabba-efter-matchen-mot-rakow-698892"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13570609/bayern-munich-vs-aston-villa-live-pre-season-friendly-commentary-updates-scores-and-team-news"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/3-snabba-efter-matchen-mot-rakow-698892"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13570609/bayern-munich-vs-aston-villa-live-pre-season-friendly-commentary-updates-scores-and-team-news"
       },
       "confirmed_by": [],
-      "id": "3-snabba-efter-matchen-mot-rak-w"
+      "id": "seventeen-year-old-madjo-leads-line-for-villa-vs-bayern-live"
+    },
+    {
+      "published_at": "2026-08-07T11:38:00+00:00",
+      "updated_at": "2026-08-07T11:38:00+00:00",
+      "title": "Chelsea latest: Napoli exploring move for Blues defender",
+      "summary": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Premier League",
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "chelsea-latest-napoli-exploring-move-for-blues-defender"
     }
   ]
 }
