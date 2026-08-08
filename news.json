@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T11:29:05.545269+00:00",
+  "updated_at": "2026-08-08T12:49:49.049456+00:00",
   "items": [
     {
       "published_at": "2026-08-07T22:54:13+00:00",
@@ -140,7 +140,7 @@
       "published_at": "2026-08-08T11:00:08+00:00",
       "updated_at": "2026-08-08T11:00:08+00:00",
       "title": "Arsenal sign Guimaraes from Newcastle in £75m deal",
-      "summary": "Newcastle United sporting director Ross Wilson says the club did not plan to sell Bruno Guimaraes, but their \"very emotional\" captain wanted to join Arsenal",
+      "summary": "With Bruno Guimaraes set to sign for Premier League champions Arsenal, BBC Sport look at why the Gunners wanted the Newcastle skipper",
       "category": [
         "Premier League",
         "Transfer"
@@ -149,7 +149,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "arsenal",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/10ee/live/02bdf5c0-8e44-11f1-b92b-e77f734e2374.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/633b/live/60a9ce90-931a-11f1-9931-79a1e0bcb641.jpg",
       "sources": [
         {
           "name": "BBC Sport",
@@ -245,6 +245,33 @@
         }
       ],
       "id": "johanna-rytting-kaneryd-korsbandsskadad-igen-inte-slutet"
+    },
+    {
+      "published_at": "2026-08-08T11:48:24+00:00",
+      "updated_at": "2026-08-08T11:48:24+00:00",
+      "title": "Scotland closing in on head coach to replace Clarke",
+      "summary": "The Scottish FA is closing in on the appointment of a new head coach to succeed Steve Clarke",
+      "category": [
+        "Coach"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d32b/live/c9d13c20-9322-11f1-be7f-7379a19ef5b2.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c07rx4npmpxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c07rx4npmpxo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "scotland-closing-in-on-head-coach-to-replace-clarke"
     },
     {
       "published_at": "2026-08-08T11:09:40+00:00",
@@ -356,31 +383,32 @@
       "id": "life-as-a-wag-in-the-transfer-window"
     },
     {
-      "published_at": "2026-08-07T18:37:55+00:00",
-      "updated_at": "2026-08-07T18:37:55+00:00",
-      "title": "Coventry sign Ghana's Yirenkyi for record fee",
-      "summary": "Premier League newcomers Coventry City have completed the club-record signing of Ghana midfielder Caleb Yirenkyi",
+      "published_at": "2026-08-08T12:44:22+00:00",
+      "updated_at": "2026-08-08T12:44:22+00:00",
+      "title": "Experten om Rytting Kaneryds svåra skada: ”Räkna med ett år”",
+      "summary": "Landslagets nyckelspelare Johanna Rytting Kaneryd har skadat korsbandet och blir borta från spel länge. SVT Sports expert Hanna Marklund räknar bort stjärnyttern från Sveriges VM-playoff i höst.",
       "category": [
-        "Transfer"
+        "Sverige",
+        "Injury"
       ],
       "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6206/live/3fc36c30-928a-11f1-9e22-67b4720e20ea.jpg",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.29/0.41/916312961fca46ddd3d1f8e0fb91cc2c7eee4e5a0d6d62d92b0ae2c8be414b69",
       "sources": [
         {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cy4kgprjzx2o?at_medium=RSS&at_campaign=rss"
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/experten-om-rytting-kaneryds-svara-skada-rakna-med-ett-ar"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cy4kgprjzx2o?at_medium=RSS&at_campaign=rss"
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/experten-om-rytting-kaneryds-svara-skada-rakna-med-ett-ar"
       },
       "confirmed_by": [],
-      "id": "coventry-sign-ghana-s-yirenkyi-for-record-fee"
+      "id": "experten-om-rytting-kaneryds-sv-ra-skada-r-kna-med-ett-r"
     },
     {
       "published_at": "2026-08-08T05:37:58+00:00",
@@ -476,7 +504,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "arsenal",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-bruno-guimaraes-newcastle_7313641.jpg?20260804124506",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-bruno-guimaraes-premier-league_7316644.jpg?20260808123955",
       "sources": [
         {
           "name": "Sky Sports",
@@ -576,45 +604,9 @@
       "id": "no-vini-jr-no-rogers-so-what-do-arsenal-do-now"
     },
     {
-      "published_at": "2026-08-06T18:51:57+00:00",
-      "updated_at": "2026-08-06T18:51:57+00:00",
-      "title": "Irriterat när IFK Göteborg föll mot Gent i Conference League-kvalet",
-      "summary": "Gästande Gent tog ledningen på Gamla Ullevi – och firade framför hemmapubliken. Då blev det rejält irriterat hos IFK Göteborg. Sedan föll ”Blåvitt” i den första matchen av dubbelmötet.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.29/0.36/892d36318286ce472086873efb43121d8e937ae8d0358b621ee5aab05c92e185",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/irriterat-nar-ifk-goteborg-foll-hemma-mot-gent"
-        },
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/liveblogg-ifk-goteborg-gent-i-conference-league-kvalet-698822"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/irriterat-nar-ifk-goteborg-foll-hemma-mot-gent"
-      },
-      "confirmed_by": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/liveblogg-ifk-goteborg-gent-i-conference-league-kvalet-698822"
-        }
-      ],
-      "id": "irriterat-n-r-ifk-g-teborg-f-ll-mot-gent-i-conference-league-kvalet"
-    },
-    {
-      "published_at": "2026-08-08T11:00:48+00:00",
-      "updated_at": "2026-08-08T11:00:48+00:00",
-      "title": "Bruno Guimarães completes £75m Arsenal move: ‘I needed a new challenge’",
+      "published_at": "2026-08-08T11:22:32+00:00",
+      "updated_at": "2026-08-08T11:22:32+00:00",
+      "title": "Data shows Bruno Guimarães deal could be another Arsenal set-piece masterstroke",
       "summary": "Player seals four-year deal after Newcastle’s reluctant sale ‘I want to win trophies and I’m in the right place to do it’ Bruno Guimarães says he “needed a new challenge in my life” after joining Arsenal from Newcastle for £75m and has targeted trophies in north London. Guimarães is understood to have signed a four-year contract at the Emirates that contains a further one-year option after Newcastle reluctantly agreed to sell their captain .",
       "category": [
         "Premier League",
@@ -624,20 +616,20 @@
       "entity": "",
       "entity_type": "players",
       "club": "arsenal",
-      "image": "https://i.guim.co.uk/img/media/fa40be3ea3d1484aa696d71849024567dee05be6/94_723_5090_4069/master/5090.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=64f2969d2910f9ed4325a806459d2e85",
+      "image": "https://i.guim.co.uk/img/media/a41b0e3e39e5cdf351ae1b0ef83dd7943bdfecb4/431_87_4210_3369/master/4210.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb94e2a546bb361c48ff15c418829b7e",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/08/arsenal-transfer-bruno-guimaraes-newcastle-football"
+          "url": "https://www.theguardian.com/football/2026/aug/08/why-the-data-shows-guimaraes-deal-could-be-another-arsenal-set-piece-masterstroke"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/08/arsenal-transfer-bruno-guimaraes-newcastle-football"
+        "url": "https://www.theguardian.com/football/2026/aug/08/why-the-data-shows-guimaraes-deal-could-be-another-arsenal-set-piece-masterstroke"
       },
       "confirmed_by": [],
-      "id": "bruno-guimar-es-completes-75m-arsenal-move-i-needed-a-new-challenge"
+      "id": "data-shows-bruno-guimar-es-deal-could-be-another-arsenal-set-piece-masterstroke"
     },
     {
       "published_at": "2026-08-07T19:00:25+00:00",
@@ -748,6 +740,35 @@
       "id": "i-love-football-so-i-support-lots-of-clubs-letters"
     },
     {
+      "published_at": "2026-08-07T10:37:43+00:00",
+      "updated_at": "2026-08-07T10:37:43+00:00",
+      "title": "Tottenham and Atlético in talks over Romero with Van de Ven set to sign new deal",
+      "summary": "Simeone keen on move for Spurs defender Van de Ven expected to pen five-year extension Tottenham are in talks with Atlético Madrid over the sale of Cristian Romero after categorically rejecting Arsenal’s approach for the Argentina defender and are expected to agree a new five-year deal with Micky van de Ven. Romero has made no secret of his desire to leave Spurs despite signing a new four-year contract at the start of last season and had looked set to join Inter for a fee of around £35m . But Atlético are long-term suitors of the 28-year-old and are thought to be his preferred destination, with Diego Simeone’s side understood to be prepared to match Inter’s bid.",
+      "category": [
+        "Premier League",
+        "La Liga",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://i.guim.co.uk/img/media/c772102745e2f6cd0f04d6d0e72dc28851c9df48/925_169_2944_2355/master/2944.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ced7e4f81d872c2c9084a07f1239dd0b",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/07/tottenham-and-atletico-in-talks-over-romero-with-van-de-ven-set-to-sign-new-deal"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/07/tottenham-and-atletico-in-talks-over-romero-with-van-de-ven-set-to-sign-new-deal"
+      },
+      "confirmed_by": [],
+      "id": "tottenham-and-atl-tico-in-talks-over-romero-with-van-de-ven-set-to-sign-new-deal"
+    },
+    {
       "published_at": "2026-08-07T07:00:10+00:00",
       "updated_at": "2026-08-07T07:00:10+00:00",
       "title": "Afcon’s biennial switch cost African governing body deal worth more than $1bn",
@@ -773,33 +794,6 @@
       },
       "confirmed_by": [],
       "id": "afcon-s-biennial-switch-cost-african-governing-body-deal-worth-more-than-1bn"
-    },
-    {
-      "published_at": "2026-08-06T14:30:32+00:00",
-      "updated_at": "2026-08-06T14:30:32+00:00",
-      "title": "Top Ugandan footballer killed by robbers armed with paving stones",
-      "summary": "David Owori, who played for the national team, died in hospital after he tried to stop robbers taking his phone The Ugandan football community is in mourning after the death of a player who was fatally injured during a robbery in the capital, Kampala, on Tuesday night. David Owori, who captained Sports Club Villa, a Uganda Premier League club, and represented the national team, was attacked after resisting an attempt to steal his mobile phone and other belongings near his home in Makindye division.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/722558205b33f4faaab5e9e6e15a8a25d3bd3933/0_251_692_554/master/692.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=15bbefcb152ba4f677e4cd45e8752b07",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala"
-      },
-      "confirmed_by": [],
-      "id": "top-ugandan-footballer-killed-by-robbers-armed-with-paving-stones"
     },
     {
       "published_at": "2026-08-05T07:00:13+00:00",
@@ -991,6 +985,33 @@
       "id": "klart-colin-r-sler-l-mnar-malm-ff"
     },
     {
+      "published_at": "2026-08-08T12:38:49+00:00",
+      "updated_at": "2026-08-08T12:38:49+00:00",
+      "title": "Lionel Messis pappa har dött",
+      "summary": "Lionel Messi har sorg. Hans pappa Jorge har gått bort efter en tids sjukdom",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.51/0.37/4b1a6d927b7a20049a4d3d7d097b16f4aaeb11ac934ef97070a2cf4bf10b37c9",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/lionel-messis-pappa-har-dott"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/lionel-messis-pappa-har-dott"
+      },
+      "confirmed_by": [],
+      "id": "lionel-messis-pappa-har-d-tt"
+    },
+    {
       "published_at": "2026-08-08T09:57:58+00:00",
       "updated_at": "2026-08-08T09:57:58+00:00",
       "title": "Ryska gymnaster missar EM – får inte visum",
@@ -1099,60 +1120,6 @@
       "id": "jennifer-williams-tillbaka-efter-korsbandsskadan-allt-jag-g-r-nu-g-r-jag-med-tanke-p-os"
     },
     {
-      "published_at": "2026-08-07T18:54:03+00:00",
-      "updated_at": "2026-08-07T18:54:03+00:00",
-      "title": "Krisen total i Gif Sundsvall – 15:e förlusten i superettan",
-      "summary": "Gif Sundsvall mäktade inte med en vändning borta mot Östersund. Giffarna förlorade Norrlandsderbyt med 0–1 – lagets sjunde raka nollpoängare. I slutet av matchen kastades det in pyroteknik på planen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.3/0.46/7989472dd3fda154b695e91e82a7915076aa5ed04d9c82b01084b44137fb6d22",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/krisen-total-i-gif-sundsvall-15e-forlusten-i-superettan"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/krisen-total-i-gif-sundsvall-15e-forlusten-i-superettan"
-      },
-      "confirmed_by": [],
-      "id": "krisen-total-i-gif-sundsvall-15-e-f-rlusten-i-superettan"
-    },
-    {
-      "published_at": "2026-08-08T10:05:00+00:00",
-      "updated_at": "2026-08-08T10:05:00+00:00",
-      "title": "EFL latest: Man Utd goalkeeper Vitek joins Middlesbrough",
-      "summary": "Championship news, transfer latest and gossip plus EFL updates from League One and League Two",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-radek-vitek-middlesbrough_7313976.jpg?20260804182511",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two"
-      },
-      "confirmed_by": [],
-      "id": "efl-latest-man-utd-goalkeeper-vitek-joins-middlesbrough"
-    },
-    {
       "published_at": "2026-08-08T10:45:00+00:00",
       "updated_at": "2026-08-08T10:45:00+00:00",
       "title": "'Don't say that!' 😅 New subs rule catches out Boro star",
@@ -1234,33 +1201,6 @@
       "id": "newcastle-stand-firm-on-hall-after-rejecting-man-utd-approach"
     },
     {
-      "published_at": "2026-08-07T13:45:00+00:00",
-      "updated_at": "2026-08-07T13:45:00+00:00",
-      "title": "Bayern hold off late surge from Villa to win in Hong Kong",
-      "summary": "Bayern Munich held off a late fightback from Aston Villa to secure a 2-1 victory in Hong Kong, bringing the pre-season tours of Asia for both sides to a close",
-      "category": [
-        "Bundesliga"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "bayern-munich",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-bayern-munich-aston-villa_7316099.jpg?20260807145616",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/bayern-munich-vs-aston-villa/report/555764"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/bayern-munich-vs-aston-villa/report/555764"
-      },
-      "confirmed_by": [],
-      "id": "bayern-hold-off-late-surge-from-villa-to-win-in-hong-kong"
-    },
-    {
       "published_at": "2026-08-05T11:53:00+00:00",
       "updated_at": "2026-08-05T11:53:00+00:00",
       "title": "Diogo Tomas: Ingen behövde övertyga mig om AIK",
@@ -1286,6 +1226,87 @@
       },
       "confirmed_by": [],
       "id": "diogo-tomas-ingen-beh-vde-vertyga-mig-om-aik"
+    },
+    {
+      "published_at": "2026-08-08T12:01:00+00:00",
+      "updated_at": "2026-08-08T12:01:00+00:00",
+      "title": "Så löser Riveiro krisen: Tre förändringar i AIK-elvan",
+      "summary": "AIK saknar 13 (!) spelare i matchtruppen borta mot Örgryte. Det tvingar huvudtränare José Riveiro till förändringar i startelvan. ”Gnaget” gör tre förändringar jämfört med senast",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/Cosx09FSckHDLOuVHznHl5jdPWfHcIhOepO0J0VK.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/sa-loser-riveiro-krisen-tre-forandringar-i-aik-elvan-698950"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/sa-loser-riveiro-krisen-tre-forandringar-i-aik-elvan-698950"
+      },
+      "confirmed_by": [],
+      "id": "s-l-ser-riveiro-krisen-tre-f-r-ndringar-i-aik-elvan"
+    },
+    {
+      "published_at": "2026-08-08T12:00:00+00:00",
+      "updated_at": "2026-08-08T12:00:00+00:00",
+      "title": "Inför Malmö FF - Degerfors IF",
+      "summary": "Värmländska Degerfors IF kommer på besök i slutet av en händelserik vecka som har sett tre guldvinnare tackat för sig i MFF",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/1LPJ4n1Rxce6rh8PqlH2ZpXe5OS7Qe0VhLzGWRLh.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/infor-malmo-ff-degerfors-if-698927"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/infor-malmo-ff-degerfors-if-698927"
+      },
+      "confirmed_by": [],
+      "id": "inf-r-malm-ff-degerfors-if"
+    },
+    {
+      "published_at": "2026-08-08T11:43:44+00:00",
+      "updated_at": "2026-08-08T11:43:44+00:00",
+      "title": "Inför IFK Göteborg - Kalmar FF",
+      "summary": "IFK Göteborg är vidare i Europaspelet efter seger mot Tallinn och nu väntar Belgiska KAA Gent. IFK Göteborg inleder på hemmaplan och vid avancemang väntar möte mot vinnarna mellan Skotska Hibernian FC och Nordmakedonska Shkendija",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/Op5IYdOFXWHeq0fdS0J1GUTqJ8LqMPWGg7jIDvjs.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/infor-ifk-goteborg-kalmar-ff-698951"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/infor-ifk-goteborg-kalmar-ff-698951"
+      },
+      "confirmed_by": [],
+      "id": "inf-r-ifk-g-teborg-kalmar-ff"
     },
     {
       "published_at": "2026-08-08T10:00:00+00:00",
@@ -1369,85 +1390,31 @@
       "id": "bisarra-listan-13-skadade-spelare"
     },
     {
-      "published_at": "2026-08-08T07:50:00+00:00",
-      "updated_at": "2026-08-08T07:50:00+00:00",
-      "title": "Matchreflektioner efter bortamatchen mot Rakow",
-      "summary": "Efter det lite snöpliga uttåget i kvalet till Europa League (EL), där Anderlecht till slut blev för svåra, så åkte Hammarby till Polen för att möta Krakow i kvalificeringsrunda 3 i Europa Conference League (ECL) i torsdags. Matchen slutade 0–0, och här kommer lite matchreflektioner",
+      "published_at": "2026-08-08T13:30:00+00:00",
+      "updated_at": "2026-08-08T13:30:00+00:00",
+      "title": "QPR host Millwall with ALL Carabao Cup first-round games on Sky LIVE!",
+      "summary": "Carabao Cup first round LIVE! West Ham, Leicester, Southampton commentary, scores, match updates and free highlights",
       "category": [
-        "Sverige"
+        "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2095456.jpg",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-football-efl-carabao-cup_7314233.jpg?20260805075727",
       "sources": [
         {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/matchreflektioner-efter-bortamatchen-mot-rakow-698940"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13570685/carabao-cup-first-round-live-scores-match-updates-and-free-highlights"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/matchreflektioner-efter-bortamatchen-mot-rakow-698940"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13570685/carabao-cup-first-round-live-scores-match-updates-and-free-highlights"
       },
       "confirmed_by": [],
-      "id": "matchreflektioner-efter-bortamatchen-mot-rakow"
-    },
-    {
-      "published_at": "2026-08-08T07:08:33+00:00",
-      "updated_at": "2026-08-08T07:08:33+00:00",
-      "title": "Sommarsilly AIK – så kan AIK förvalta Yohanna-pengarna",
-      "summary": "Zadok Yohanna blev Allsvenskans dyraste övergång någonsin. Därefter har AIK agerat på transfermarknaden. Redaktionen hyllar värvningen av Linus Carlstrand – en av klubbens dyraste någonsin",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/lELIriziRKqlOZdhFmIyDaYGwZ8xZtou6h1vJIBV.png",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/sommarsilly-aik-sa-kan-aik-forvalta-yohanna-pengarna-698939"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/sommarsilly-aik-sa-kan-aik-forvalta-yohanna-pengarna-698939"
-      },
-      "confirmed_by": [],
-      "id": "sommarsilly-aik-s-kan-aik-f-rvalta-yohanna-pengarna"
-    },
-    {
-      "published_at": "2026-08-08T07:00:00+00:00",
-      "updated_at": "2026-08-08T07:00:00+00:00",
-      "title": "TV-guide: Örgryte IS–AIK – så kan du se matchen",
-      "summary": "Under lördagen 8 augusti spelar Örgryte IS mot AIK i Allsvenskan. Här är allt om hur och var du kan se matchen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/9RNiV8agtMRwcfsxRBz8nexLK8n2vpejfPoZ76On.png",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/tv-guide-orgryte-is-aik-sa-kan-du-se-matchen-698903"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/tv-guide-orgryte-is-aik-sa-kan-du-se-matchen-698903"
-      },
-      "confirmed_by": [],
-      "id": "tv-guide-rgryte-is-aik-s-kan-du-se-matchen"
+      "id": "qpr-host-millwall-with-all-carabao-cup-first-round-games-on-sky-live"
     },
     {
       "published_at": "2026-08-08T12:00:00+00:00",
@@ -1476,6 +1443,33 @@
       },
       "confirmed_by": [],
       "id": "arsenal-latest-no-more-fights-rice-s-message-for-guimaraes-ahead-of-gunners-move"
+    },
+    {
+      "published_at": "2026-08-07T19:33:00+00:00",
+      "updated_at": "2026-08-07T19:33:00+00:00",
+      "title": "Newcastle latest: Guimaraes pens farewell after 'toughest decision'",
+      "summary": "Newcastle transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-premier-league-matthias-jaissle_7312588.jpg?20260803082043",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "newcastle-latest-guimaraes-pens-farewell-after-toughest-decision"
     }
   ]
 }
