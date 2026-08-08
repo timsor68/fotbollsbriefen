@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T19:30:35.623250+00:00",
+  "updated_at": "2026-08-08T20:30:40.711941+00:00",
   "items": [
     {
       "published_at": "2026-08-08T11:00:08+00:00",
@@ -459,10 +459,11 @@
     {
       "published_at": "2026-08-08T18:00:00+00:00",
       "updated_at": "2026-08-08T18:00:00+00:00",
-      "title": "Mbeumo scores in encouraging Man Utd draw with PSG",
+      "title": "'Good signs' for Man Utd as Mbeumo scores in encouraging draw with PSG",
       "summary": "Bryan Mbeumo earned Man Utd a 1-1 draw with Paris St-Germain in Gothenburg, a pre-season friendly which left boss Michael Carrick encouraged by the \"good signs\" from his side",
       "category": [
-        "Ligue 1"
+        "Ligue 1",
+        "Transfer"
       ],
       "status": "Reported",
       "entity": "",
@@ -481,7 +482,7 @@
         "url": "https://www.skysports.com/football/paris-saint-germain-vs-manchester-united/report/555766"
       },
       "confirmed_by": [],
-      "id": "mbeumo-scores-in-encouraging-man-utd-draw-with-psg"
+      "id": "good-signs-for-man-utd-as-mbeumo-scores-in-encouraging-draw-with-psg"
     },
     {
       "published_at": "2026-08-08T12:01:00+00:00",
@@ -514,7 +515,7 @@
       "published_at": "2026-08-08T19:10:23+00:00",
       "updated_at": "2026-08-08T19:10:23+00:00",
       "title": "Mason Mount injury overshadows Manchester United’s draw with PSG",
-      "summary": "Bryan Mbeumo scores United’s goal in 1-1 draw Mount taken off with foot injury in Gothenburg Manchester United managed a creditable 1-1 draw with European champions Paris Saint-Germain in a Gothenburg friendly on Saturday but the result was overshadowed by an injury to Mason Mount. The England midfielder, who joined United from Chelsea in 2023, has been hampered by injury problems since arriving at Old Trafford and he lasted fewer than 20 minutes after starting against PSG.",
+      "summary": "Bryan Mbeumo scores United’s goal in 1-1 draw Mount taken off with foot injury in Gothenburg Manchester United managed a creditable 1-1 draw with European champions Paris Saint-Germain in a Gothenburg friendly on Saturday but the result was overshadowed by an injury to Mason Mount. The England midfielder, who joined United from Chelsea in 2023 , has been hampered by injury problems since arriving at Old Trafford and he lasted fewer than 20 minutes after starting against PSG.",
       "category": [
         "Premier League",
         "Ligue 1",
@@ -895,6 +896,33 @@
       "id": "klart-colin-r-sler-l-mnar-malm-ff"
     },
     {
+      "published_at": "2026-08-08T19:31:08+00:00",
+      "updated_at": "2026-08-08T19:31:08+00:00",
+      "title": "Svenska världsettorna utslagna – föll mot hemmahoppen",
+      "summary": "”Icemen” har spelat färdigt i Hamburg. Världsettorna Jacob Hölting Nilsson och Elmer Andersson föll i kvartsfinalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.39/0.5/26b6219bf96e3d646f8e6c8fa418d90816a9215a435f57657d26f57cccd3cb73",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/beachvolleyboll/svenska-varldsettorna-utslagna-foll-mot-hemmahoppen"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/beachvolleyboll/svenska-varldsettorna-utslagna-foll-mot-hemmahoppen"
+      },
+      "confirmed_by": [],
+      "id": "svenska-v-rldsettorna-utslagna-f-ll-mot-hemmahoppen"
+    },
+    {
       "published_at": "2026-08-08T18:54:23+00:00",
       "updated_at": "2026-08-08T18:54:23+00:00",
       "title": "Malmö FF ute ur Champions League",
@@ -906,7 +934,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.16/0.37/944e12ac68179fab1e4ad51ed2ef1eed477949857bc215ebccd3c4bdd8487cce",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.76/0.2/944e12ac68179fab1e4ad51ed2ef1eed477949857bc215ebccd3c4bdd8487cce",
       "sources": [
         {
           "name": "SVT Sport",
@@ -1030,33 +1058,6 @@
       "id": "h-r-ker-is-kaptenen-p-r-tt-kort-d-vann-aik"
     },
     {
-      "published_at": "2026-08-08T14:14:33+00:00",
-      "updated_at": "2026-08-08T14:14:33+00:00",
-      "title": "Dubbelt svenskt på pallen i världscupen",
-      "summary": "Då stod de svenska orienteringsherrarna för en finfin insats. – Jätteimponerade, säger SVT:s expert Josefine Heikka",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.48/0.5/4b289a86a89a6770ea475f8479abff14964a62201aa1e58951b0e3f56c6427a2",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/orientering/dubbelt-svenskt-pa-pallen-i-varldscupen"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/orientering/dubbelt-svenskt-pa-pallen-i-varldscupen"
-      },
-      "confirmed_by": [],
-      "id": "dubbelt-svenskt-p-pallen-i-v-rldscupen"
-    },
-    {
       "published_at": "2026-08-08T19:26:00+00:00",
       "updated_at": "2026-08-08T19:26:00+00:00",
       "title": "West Ham latest: Nuno admits Hammers cannot afford transfer mistakes",
@@ -1144,11 +1145,10 @@
     {
       "published_at": "2026-08-07T15:00:00+00:00",
       "updated_at": "2026-08-07T15:00:00+00:00",
-      "title": "Man Utd latest: Carrick positive after 'good signs' in PSG draw",
+      "title": "Man Utd latest: 'Careful' Carrick gives update on Mount injury",
       "summary": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
-        "Ligue 1",
-        "Transfer"
+        "Injury"
       ],
       "status": "Reported",
       "entity": "",
@@ -1167,7 +1167,7 @@
         "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "man-utd-latest-carrick-positive-after-good-signs-in-psg-draw"
+      "id": "man-utd-latest-careful-carrick-gives-update-on-mount-injury"
     },
     {
       "published_at": "2026-08-08T17:05:00+00:00",
@@ -1250,6 +1250,33 @@
       },
       "confirmed_by": [],
       "id": "diogo-tomas-ingen-beh-vde-vertyga-mig-om-aik"
+    },
+    {
+      "published_at": "2026-08-08T20:22:47+00:00",
+      "updated_at": "2026-08-08T20:22:47+00:00",
+      "title": "Skräckscener för landslaget — Anthony Elanga utburen på bår",
+      "summary": "Anthony Elanga fick lämna kvällens försäsongsmatch mot Valencia på bår. Det efter en vansinnestackling från Valencia-backen Gaya",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/0y0SpvD1DxoOxMnfwQmwt0Leu8GCYXayZBuKIPzf.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/skrackscener-for-landslaget-anthony-elanga-utburen-pa-bar-698967"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/skrackscener-for-landslaget-anthony-elanga-utburen-pa-bar-698967"
+      },
+      "confirmed_by": [],
+      "id": "skr-ckscener-f-r-landslaget-anthony-elanga-utburen-p-b-r"
     },
     {
       "published_at": "2026-08-08T19:02:00+00:00",
@@ -1387,37 +1414,10 @@
       "id": "det-h-r-m-ste-hbk-f-fan-f-r"
     },
     {
-      "published_at": "2026-08-08T12:01:00+00:00",
-      "updated_at": "2026-08-08T12:01:00+00:00",
-      "title": "Så löser Riveiro krisen: Tre förändringar i AIK-elvan",
-      "summary": "AIK saknar 13 (!) spelare i matchtruppen borta mot Örgryte. Det tvingar huvudtränare José Riveiro till förändringar i startelvan. ”Gnaget” gör tre förändringar jämfört med senast",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/Cosx09FSckHDLOuVHznHl5jdPWfHcIhOepO0J0VK.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/sa-loser-riveiro-krisen-tre-forandringar-i-aik-elvan-698950"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/sa-loser-riveiro-krisen-tre-forandringar-i-aik-elvan-698950"
-      },
-      "confirmed_by": [],
-      "id": "s-l-ser-riveiro-krisen-tre-f-r-ndringar-i-aik-elvan"
-    },
-    {
-      "published_at": "2026-08-08T19:01:00+00:00",
-      "updated_at": "2026-08-08T19:01:00+00:00",
-      "title": "Nightmare start for Jaissle as Valencia take early lead vs Newcastle LIVE!",
-      "summary": "Valencia vs Newcastle LIVE! Pre-season fixture, score, live updates and team",
+      "published_at": "2026-08-08T20:53:00+00:00",
+      "updated_at": "2026-08-08T20:53:00+00:00",
+      "title": "Newcastle latest: Elanga stretchered off in Valencia friendly",
+      "summary": "Newcastle transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
         "Premier League",
         "La Liga"
@@ -1426,47 +1426,48 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-matthias-jaissle_7310038.jpg?20260730094143",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-premier-league-matthias-jaissle_7312588.jpg?20260803082043",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13571193/valencia-vs-newcastle-live-pre-season-fixture-score-live-updates-and-team-news"
+          "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13571193/valencia-vs-newcastle-live-pre-season-fixture-score-live-updates-and-team-news"
+        "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "nightmare-start-for-jaissle-as-valencia-take-early-lead-vs-newcastle-live"
+      "id": "newcastle-latest-elanga-stretchered-off-in-valencia-friendly"
     },
     {
-      "published_at": "2026-08-08T18:37:00+00:00",
-      "updated_at": "2026-08-08T18:37:00+00:00",
-      "title": "Everton latest: Toffees suffer two-goal defeat to Stuttgart in Germany",
-      "summary": "Everton transfers, latest news, rumours and gossip: Live updates, goals and highlights",
+      "published_at": "2026-08-08T19:01:00+00:00",
+      "updated_at": "2026-08-08T19:01:00+00:00",
+      "title": "Wissa scores equaliser for Newcastle at 10-man Valencia LIVE!",
+      "summary": "Friendly Matches match Valencia vs Newcastle 08.08.2026. Preview and stats followed by live commentary, video highlights and match report",
       "category": [
-        "Premier League"
+        "Premier League",
+        "La Liga"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "everton",
-      "image": "https://e0.365dm.com/25/10/1600x900/skysports-everton-news-club_7039252.jpg?20251002160124",
+      "club": "",
+      "image": "",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+          "url": "https://www.skysports.com/football/valencia-vs-newcastle-united/live/568647"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+        "url": "https://www.skysports.com/football/valencia-vs-newcastle-united/live/568647"
       },
       "confirmed_by": [],
-      "id": "everton-latest-toffees-suffer-two-goal-defeat-to-stuttgart-in-germany"
+      "id": "wissa-scores-equaliser-for-newcastle-at-10-man-valencia-live"
     }
   ]
 }
