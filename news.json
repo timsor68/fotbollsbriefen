@@ -1,6 +1,50 @@
 {
-  "updated_at": "2026-08-08T08:41:59.817536+00:00",
+  "updated_at": "2026-08-08T09:38:30.875318+00:00",
   "items": [
+    {
+      "published_at": "2026-08-07T22:50:58+00:00",
+      "updated_at": "2026-08-07T22:50:58+00:00",
+      "title": "Infantino denies claims Uefa paid off alleged 'lover'",
+      "summary": "Infantino was Uefa general secretary from 2009 to 2016 ‘These allegations … are categorically untrue,’ says Fifa Uefa has confirmed a “departure payment” was made to a female employee who is alleged to have been in a relationship with Gianni Infantino while he was the organisation’s general secretary, allegations Fifa has dismissed as “categorically untrue”. The Daily Telegraph reported on Friday night that the woman received a six-figure sum following the alleged relationship with Infantino. In a statement, Uefa confirmed a payment was made along with covering the fees for an MBA course, which it said was “in line” with regulations at the time.",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/aba1/live/af50b570-92a4-11f1-adf3-d72106e899cc.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13570861/gianni-infantino-uefa-aware-of-allegation-it-paid-off-an-alleged-mistress-of-fifa-president-while-he-worked-at-european-governing-body"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/08/fifa-gianni-infantino-uefa-employee-departure-payment-allegations-denial"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13570861/gianni-infantino-uefa-aware-of-allegation-it-paid-off-an-alleged-mistress-of-fifa-president-while-he-worked-at-european-governing-body"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/08/fifa-gianni-infantino-uefa-employee-departure-payment-allegations-denial"
+        }
+      ],
+      "id": "infantino-denies-claims-uefa-paid-off-alleged-lover"
+    },
     {
       "published_at": "2026-08-07T12:20:52+00:00",
       "updated_at": "2026-08-07T12:20:52+00:00",
@@ -47,6 +91,43 @@
       "id": "man-city-reject-barcelona-s-38-5m-bid-for-rodri"
     },
     {
+      "published_at": "2026-08-08T06:00:37+00:00",
+      "updated_at": "2026-08-08T06:00:37+00:00",
+      "title": "Man City agree deal to sign Marseille keeper Rulli",
+      "summary": "Manchester City agree a deal to sign Argentina goalkeeper Geronimo Rulli from Marseille",
+      "category": [
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4d4c/live/69d3cb90-92e5-11f1-98e4-b7a92b11b9a4.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwye10q7e92o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwye10q7e92o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "id": "man-city-agree-deal-to-sign-marseille-keeper-rulli"
+    },
+    {
       "published_at": "2026-08-07T22:54:13+00:00",
       "updated_at": "2026-08-07T22:54:13+00:00",
       "title": "Liverpool close to signing Barcelona's Araujo on loan",
@@ -83,42 +164,6 @@
         }
       ],
       "id": "liverpool-close-to-signing-barcelona-s-araujo-on-loan"
-    },
-    {
-      "published_at": "2026-08-07T22:50:58+00:00",
-      "updated_at": "2026-08-07T22:50:58+00:00",
-      "title": "Infantino denies claims Uefa paid off alleged 'lover'",
-      "summary": "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/aba1/live/af50b570-92a4-11f1-adf3-d72106e899cc.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13570861/gianni-infantino-uefa-aware-of-allegation-it-paid-off-an-alleged-mistress-of-fifa-president-while-he-worked-at-european-governing-body"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13570861/gianni-infantino-uefa-aware-of-allegation-it-paid-off-an-alleged-mistress-of-fifa-president-while-he-worked-at-european-governing-body"
-        }
-      ],
-      "id": "infantino-denies-claims-uefa-paid-off-alleged-lover"
     },
     {
       "published_at": "2026-08-07T18:37:55+00:00",
@@ -227,34 +272,6 @@
         }
       ],
       "id": "johanna-rytting-kaneryd-korsbandsskadad-igen-inte-slutet"
-    },
-    {
-      "published_at": "2026-08-08T06:00:37+00:00",
-      "updated_at": "2026-08-08T06:00:37+00:00",
-      "title": "Man City agree deal to sign Marseille keeper Rulli",
-      "summary": "Manchester City agree a deal to sign Argentina goalkeeper Geronimo Rulli from Marseille",
-      "category": [
-        "Ligue 1",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4d4c/live/69d3cb90-92e5-11f1-98e4-b7a92b11b9a4.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwye10q7e92o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwye10q7e92o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "man-city-agree-deal-to-sign-marseille-keeper-rulli"
     },
     {
       "published_at": "2026-08-08T05:50:20+00:00",
@@ -947,6 +964,33 @@
       "id": "klart-colin-r-sler-l-mnar-malm-ff"
     },
     {
+      "published_at": "2026-08-08T09:07:19+00:00",
+      "updated_at": "2026-08-08T09:07:19+00:00",
+      "title": "Amanda Bohlin vinner Cykelvasan för andra året i rad",
+      "summary": "Förra året avgjorde Amanda Bohlin Cykelvasan i en spurtduell. I år var hon överlägsen när hon försvarade titeln – på ny rekordtid. – Perfekta förutsättningar och bra ben, säger Bohlin till SVT Sport",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.74/0.48/2611200890320806f918c12c42a1f36cbaf2b1a61bfe08501ee857e50e06b830",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/cykel/amanda-bohlin-vinner-cykelvasan-for-andra-aret-i-rad"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/cykel/amanda-bohlin-vinner-cykelvasan-for-andra-aret-i-rad"
+      },
+      "confirmed_by": [],
+      "id": "amanda-bohlin-vinner-cykelvasan-f-r-andra-ret-i-rad"
+    },
+    {
       "published_at": "2026-08-08T07:01:17+00:00",
       "updated_at": "2026-08-08T07:01:17+00:00",
       "title": "Arrangörslandet Kroatien trotsar gymnastikförbundets beslut – inga ryska flaggor under EM",
@@ -1055,46 +1099,18 @@
       "id": "anna-oscarsson-matchhj-lte-n-r-aik-vann-derbyt"
     },
     {
-      "published_at": "2026-08-07T13:23:33+00:00",
-      "updated_at": "2026-08-07T13:23:33+00:00",
-      "title": "Fick slagträ rakt i huvudet – kräver 95 miljoner",
-      "summary": "Olyckliga scener utspelade sig i den amerikanska baseboll-ligan under början av sommaren. Åskådaren Stephanie Duluc fick ett slagträ rakt i huvudet. Nu kräver hon 95 miljoner i skadestånd",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/f1f3917b4c207a4dfa3b774cd76c7ca177598649cc8fa30f473487018d1420bf",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/baseboll/fick-slagtra-rakt-i-huvudet-kraver-95-miljoner"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/baseboll/fick-slagtra-rakt-i-huvudet-kraver-95-miljoner"
-      },
-      "confirmed_by": [],
-      "id": "fick-slagtr-rakt-i-huvudet-kr-ver-95-miljoner"
-    },
-    {
-      "published_at": "2026-08-07T11:30:00+00:00",
-      "updated_at": "2026-08-07T11:30:00+00:00",
-      "title": "EFL latest: Wilder confirms Coventry bid for Hamer being considered by owners",
+      "published_at": "2026-08-08T10:05:00+00:00",
+      "updated_at": "2026-08-08T10:05:00+00:00",
+      "title": "EFL latest: Man Utd goalkeeper Vitek joins Middlesbrough",
       "summary": "Championship news, transfer latest and gossip plus EFL updates from League One and League Two",
       "category": [
-        "Transfer",
-        "Club management"
+        "Transfer"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/04/1600x900/skysports-gus-hamer-sheffield-united_7210298.jpg?20260403161529",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-radek-vitek-middlesbrough_7313976.jpg?20260804182511",
       "sources": [
         {
           "name": "Sky Sports",
@@ -1107,7 +1123,7 @@
         "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two"
       },
       "confirmed_by": [],
-      "id": "efl-latest-wilder-confirms-coventry-bid-for-hamer-being-considered-by-owners"
+      "id": "efl-latest-man-utd-goalkeeper-vitek-joins-middlesbrough"
     },
     {
       "published_at": "2026-08-07T22:05:00+00:00",
@@ -1189,6 +1205,33 @@
       },
       "confirmed_by": [],
       "id": "bayern-hold-off-late-surge-from-villa-to-win-in-hong-kong"
+    },
+    {
+      "published_at": "2026-08-08T09:11:00+00:00",
+      "updated_at": "2026-08-08T09:11:00+00:00",
+      "title": "Silly season sommaren 2026",
+      "summary": "Silly Season-bloggen är äntligen tillbaka! Under hela sommaren uppdaterar vi er med de ryktena kring Djurgårdens herrlag i fotboll",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/ofYhvWYgaCDk3y8OivcyGKqYYmb8Uq0YPZtW9mn5.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/silly-season-sommaren-2026-697593"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/silly-season-sommaren-2026-697593"
+      },
+      "confirmed_by": [],
+      "id": "silly-season-sommaren-2026"
     },
     {
       "published_at": "2026-08-08T08:01:02+00:00",
@@ -1324,33 +1367,6 @@
       },
       "confirmed_by": [],
       "id": "patronerna-tar-avst-nd-fr-n-h-gerextremism-inte-v-lkomna"
-    },
-    {
-      "published_at": "2026-08-07T12:00:00+00:00",
-      "updated_at": "2026-08-07T12:00:00+00:00",
-      "title": "Panalen efter halva serien – de åker ur",
-      "summary": "15 omgångar av Allsvenskan 2026 har passerat. Då samlas panelen för att sia om sluttabellen i november. Vilka kommer topp tre och vilka åker ur serien?",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/Yk6qBLNncFWiBocdG7kjihyWgdBh7OvjmKVwojSl.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/panalen-efter-halva-serien-de-aker-ur-698894"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/panalen-efter-halva-serien-de-aker-ur-698894"
-      },
-      "confirmed_by": [],
-      "id": "panalen-efter-halva-serien-de-ker-ur"
     },
     {
       "published_at": "2026-08-07T19:33:00+00:00",
