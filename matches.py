@@ -57,7 +57,10 @@ LEAGUES: list[tuple[str, str]] = [
     ("Ligue 1", "FL1"),
 ]
 
-DAYS_AHEAD = 10          # hur långt fram vi hämtar kommande matcher
+# Utökad från 10 till 14 dagar: med bara 10 dagars fönster missade vi
+# ofta hela ligor under perioder mellan spelomgångar/landslagsuppehåll,
+# särskilt tidigt på säsongen innan alla ligor kommit igång.
+DAYS_AHEAD = 14
 MAX_MATCHES_PER_LEAGUE = 8
 H2H_LOOKUP_LIMIT = 2     # bara de N närmaste matcherna per liga får inbördes-möten (rate limit-hänsyn)
 FOOTBALL_DATA_MIN_INTERVAL = 6.2  # sekunder mellan anrop, håller oss under 10/min med marginal

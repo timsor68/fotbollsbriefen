@@ -23,7 +23,7 @@
     {
       "name": "Fotbollskanalen",
       "type": "google",
-      "query": "site:fotbollskanalen.se värvning kontrakt skada tränare",
+      "query": "site:fotbollskanalen.se (värvning OR kontrakt OR skada OR tränare)",
       "priority": 92
     },
     {
@@ -49,6 +49,36 @@
       "type": "rss",
       "url": "https://www.espn.com/espn/rss/soccer/news",
       "priority": 87
+    },
+    {
+      "name": "Football Italia",
+      "type": "rss",
+      "url": "https://www.football-italia.net/feed",
+      "priority": 88
+    },
+    {
+      "name": "Google News - La Liga",
+      "type": "google",
+      "query": "La Liga football",
+      "priority": 70
+    },
+    {
+      "name": "Google News - Serie A",
+      "type": "google",
+      "query": "Serie A football",
+      "priority": 70
+    },
+    {
+      "name": "Google News - Bundesliga",
+      "type": "google",
+      "query": "Bundesliga football",
+      "priority": 70
+    },
+    {
+      "name": "Google News - Ligue 1",
+      "type": "google",
+      "query": "Ligue 1 football",
+      "priority": 70
     }
   ]
 }
