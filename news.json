@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-09T07:56:17.296712+00:00",
+  "updated_at": "2026-08-09T08:48:59.163342+00:00",
   "items": [
     {
       "published_at": "2026-08-08T11:00:08+00:00",
       "updated_at": "2026-08-08T11:00:08+00:00",
       "title": "Arsenal sign Guimaraes from Newcastle in £75m deal",
-      "summary": "With Bruno Guimaraes set to sign for Premier League champions Arsenal, BBC Sport look at why the Gunners wanted the Newcastle skipper",
+      "summary": "Premier League champions Arsenal sign Brazil midfielder Bruno Guimaraes from Newcastle United for £75m",
       "category": [
         "Premier League",
         "Transfer"
@@ -37,43 +37,6 @@
         }
       ],
       "id": "arsenal-sign-guimaraes-from-newcastle-in-75m-deal"
-    },
-    {
-      "published_at": "2026-08-08T06:00:37+00:00",
-      "updated_at": "2026-08-08T06:00:37+00:00",
-      "title": "Man City agree deal to sign Marseille keeper Rulli",
-      "summary": "Manchester City agree a deal to sign Argentina goalkeeper Geronimo Rulli from Marseille",
-      "category": [
-        "Ligue 1",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4d4c/live/69d3cb90-92e5-11f1-98e4-b7a92b11b9a4.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwye10q7e92o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwye10q7e92o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "id": "man-city-agree-deal-to-sign-marseille-keeper-rulli"
     },
     {
       "published_at": "2026-08-08T08:24:35+00:00",
@@ -123,11 +86,11 @@
       "entity": "lionel-messi",
       "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dcf2/live/be4e3d50-933e-11f1-a35f-039358cea467.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/023e/live/4e91ed30-93c6-11f1-8b64-d7ef958ad168.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/czrj0yd2p4ro?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Sky Sports",
@@ -141,7 +104,7 @@
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/czrj0yd2p4ro?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
@@ -154,6 +117,33 @@
         }
       ],
       "id": "jorge-messi-father-and-agent-of-argentina-great-dies-aged-68"
+    },
+    {
+      "published_at": "2026-08-09T08:00:15+00:00",
+      "updated_at": "2026-08-09T08:00:15+00:00",
+      "title": "Unmasking London City's Spanish superstar",
+      "summary": "Alexia Putellas' arrival at London City Lionesses was the biggest transfer in WSL history - but who is the person behind the global stardom?",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/42fa/live/5a7f1660-9324-11f1-be7f-7379a19ef5b2.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8en56r919ro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c8en56r919ro?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "unmasking-london-city-s-spanish-superstar"
     },
     {
       "published_at": "2026-08-08T23:23:30+00:00",
@@ -292,6 +282,34 @@
       "id": "aberdeen-buy-versatile-belgian-forward-ntelo"
     },
     {
+      "published_at": "2026-08-08T06:00:37+00:00",
+      "updated_at": "2026-08-08T06:00:37+00:00",
+      "title": "Man City agree deal to sign Marseille keeper Rulli",
+      "summary": "Manchester City agree a deal to sign Argentina goalkeeper Geronimo Rulli from Marseille",
+      "category": [
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4d4c/live/69d3cb90-92e5-11f1-98e4-b7a92b11b9a4.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwye10q7e92o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwye10q7e92o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "man-city-agree-deal-to-sign-marseille-keeper-rulli"
+    },
+    {
       "published_at": "2026-08-08T05:50:20+00:00",
       "updated_at": "2026-08-08T05:50:20+00:00",
       "title": "Inside Newcastle 2.0 - how the project is changing",
@@ -317,33 +335,6 @@
       },
       "confirmed_by": [],
       "id": "inside-newcastle-2-0-how-the-project-is-changing"
-    },
-    {
-      "published_at": "2026-08-08T05:15:34+00:00",
-      "updated_at": "2026-08-08T05:15:34+00:00",
-      "title": "Life as a Wag in the transfer window",
-      "summary": "What is life like for footballers' families during the transfer window where a last-minute deal means you need to uproot your life and move hundreds of miles?",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8ebc/live/82fc5780-925f-11f1-b9ff-37ae3aba3894.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx2jpgj24vlo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "life-as-a-wag-in-the-transfer-window"
     },
     {
       "published_at": "2026-08-08T12:44:22+00:00",
@@ -490,6 +481,61 @@
       },
       "confirmed_by": [],
       "id": "where-does-guimaraes-fit-in-at-arsenal"
+    },
+    {
+      "published_at": "2026-08-07T08:00:00+00:00",
+      "updated_at": "2026-08-07T08:00:00+00:00",
+      "title": "Why Liverpool are ready to put their faith in the 'real deal' Jacquet",
+      "summary": "Liverpool have big hopes for Jeremy Jacquet having invested £60m to bring the highly regarded young central defender to Anfield this summer. An injury has disrupted his pre-season but the Frenchman looks worth the wait",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-premier-league-jeremy-jacquet_7314615.jpg?20260805142824",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13570137/jeremy-jacquet-why-liverpool-are-ready-to-put-their-faith-in-60m-france-centre-back"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13570137/jeremy-jacquet-why-liverpool-are-ready-to-put-their-faith-in-60m-france-centre-back"
+      },
+      "confirmed_by": [],
+      "id": "why-liverpool-are-ready-to-put-their-faith-in-the-real-deal-jacquet"
+    },
+    {
+      "published_at": "2026-08-09T08:00:10+00:00",
+      "updated_at": "2026-08-09T08:00:10+00:00",
+      "title": "Alexia Putellas: ‘I’m hungry to win, to fight with my teammates for victory’",
+      "summary": "London City Lionesses’ headline signing talks expectations, the lure of playing in England and the prospect of being kicked by her former teammates Momentarily, Alexia Putellas appears somewhat nervous, stepping inside the cramped conference room in a Kent hotel to see 23 reporters squeezed inside, all eager to hear from the Women’s Super League’s newest global superstar , but she quickly composes herself. Within minutes, she is into her stride, asking for tips about roast dinners and drawing laughs from the room as she jokes that her friends who play for other English clubs have told her they are going to kick her. Speaking in English throughout the 20-minute session with ever-increasing proficiency, the two-time Ballon d’Or winner and four-time Champions League winner explains why she has swapped the prestige of Barcelona – where she ha",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/ae174fb4e8a62b3c107b2da6d91528bb51129635/935_1387_3077_2460/master/3077.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=50f372cfc8c48586ee2908d3a212bf87",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/09/wsl-london-city-lionesses-alexia-putellas-hungry-to-win-to-fight-with-teammates-for-victory"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/09/wsl-london-city-lionesses-alexia-putellas-hungry-to-win-to-fight-with-teammates-for-victory"
+      },
+      "confirmed_by": [],
+      "id": "alexia-putellas-i-m-hungry-to-win-to-fight-with-my-teammates-for-victory"
     },
     {
       "published_at": "2026-08-09T07:00:09+00:00",
@@ -737,33 +783,6 @@
       },
       "confirmed_by": [],
       "id": "the-guardian-view-on-gianni-infantino-in-the-interests-of-the-game-he-professes-to-love-he"
-    },
-    {
-      "published_at": "2026-08-07T16:56:45+00:00",
-      "updated_at": "2026-08-07T16:56:45+00:00",
-      "title": "I love football, so I support lots of clubs | Letters",
-      "summary": "Millwall remain my main club, but others have turned my head, writes Michael Opitz. Also letters from Neil Bage and Ariel J Friedlander I read Luke McLaughlin’s article with a great deal of empathy, yet still with some uneasiness about the taboo of having more than one club ( Have you ever switched allegiance as a football fan? I too was at the Millwall v Forest game marred by crowd trouble.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/9393e51aa7da55fed9092564f6dbd6428e3d2e81/289_0_2840_2272/master/2840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8d0b7636f7535f6469ff31d87e4b2301",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/07/i-love-football-so-i-support-lots-of-clubs"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/07/i-love-football-so-i-support-lots-of-clubs"
-      },
-      "confirmed_by": [],
-      "id": "i-love-football-so-i-support-lots-of-clubs-letters"
     },
     {
       "published_at": "2026-08-07T18:39:00+00:00",
@@ -1090,6 +1109,60 @@
       "id": "h-r-ker-is-kaptenen-p-r-tt-kort-d-vann-aik"
     },
     {
+      "published_at": "2026-08-09T09:19:00+00:00",
+      "updated_at": "2026-08-09T09:19:00+00:00",
+      "title": "Man Utd latest: Carrick gives update on Mount injury and Rashford return",
+      "summary": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Injury"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/02/1600x900/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "man-utd-latest-carrick-gives-update-on-mount-injury-and-rashford-return"
+    },
+    {
+      "published_at": "2026-08-09T09:08:00+00:00",
+      "updated_at": "2026-08-09T09:08:00+00:00",
+      "title": "Man City latest: 'Barca looking to finalise Rodri deal'",
+      "summary": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-enzo-maresca-man-city_7285824.jpg?20260629153129",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "man-city-latest-barca-looking-to-finalise-rodri-deal"
+    },
+    {
       "published_at": "2026-08-08T17:38:00+00:00",
       "updated_at": "2026-08-08T17:38:00+00:00",
       "title": "Spurs latest: West Ham agree deal in principle to sign Solomon",
@@ -1116,62 +1189,6 @@
       },
       "confirmed_by": [],
       "id": "spurs-latest-west-ham-agree-deal-in-principle-to-sign-solomon"
-    },
-    {
-      "published_at": "2026-08-08T17:13:00+00:00",
-      "updated_at": "2026-08-08T17:13:00+00:00",
-      "title": "Aston Villa latest: Transfer chief confirms Palhinha talks with Bayern",
-      "summary": "Aston Villa transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Premier League",
-        "Bundesliga",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "bayern-munich",
-      "image": "https://e0.365dm.com/26/02/1600x900/skysports-aston-villa-latest_7164113.jpg?20260213143027",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "aston-villa-latest-transfer-chief-confirms-palhinha-talks-with-bayern"
-    },
-    {
-      "published_at": "2026-08-07T15:00:00+00:00",
-      "updated_at": "2026-08-07T15:00:00+00:00",
-      "title": "Man Utd latest: Carrick gives update on Mount injury and Rashford return",
-      "summary": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Injury"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/26/02/1600x900/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "man-utd-latest-carrick-gives-update-on-mount-injury-and-rashford-return"
     },
     {
       "published_at": "2026-08-07T18:30:00+00:00",
@@ -1202,8 +1219,35 @@
       "id": "joao-pedro-nets-double-as-chelsea-bounce-back-to-beat-milan"
     },
     {
-      "published_at": "2026-08-08T22:16:14+00:00",
-      "updated_at": "2026-08-08T22:16:14+00:00",
+      "published_at": "2026-08-09T08:22:00+00:00",
+      "updated_at": "2026-08-09T08:22:00+00:00",
+      "title": "Stjärnbetygen: \"Vek inte ner sig\"",
+      "summary": "Öster förlorade hemma mot Landskrona BoIS där bortalaget fick matchen precis dit de ville. Fem spelare stack dock ut i rödblått",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/BuaD5o1yhL4VpqK7jxgbI15ghmR1lP6xx7aVIHGZ.png",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/stjarnbetygen-vek-inte-ner-sig-698975"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/stjarnbetygen-vek-inte-ner-sig-698975"
+      },
+      "confirmed_by": [],
+      "id": "stj-rnbetygen-vek-inte-ner-sig"
+    },
+    {
+      "published_at": "2026-08-08T22:16:00+00:00",
+      "updated_at": "2026-08-08T22:16:00+00:00",
       "title": "Peking = En vinstmaskin!",
       "summary": "En lurig match sades det innan, och det var det i ungefär fem minuter. Det här var ett skolboksexempel på hur man avgör en fotbollsmatch snabbt. 9 segrar på de 10 senaste matcherna och den magnifika målskillnaden 19-2.",
       "category": [
@@ -1337,33 +1381,6 @@
       "id": "mj-llby-aif-elfsborg-ett-lag-utan-riktning"
     },
     {
-      "published_at": "2026-08-08T15:50:00+00:00",
-      "updated_at": "2026-08-08T15:50:00+00:00",
-      "title": "Inför Västerås SK - Djurgårdens IF",
-      "summary": "Djurgården krossade västmanlänningarna med hela 6-0 i den första av de två back-to-back mötena. Nu är det dags för \"returen\" på bortaplan och det är ett huvudstadslag med fin form som åker till Västerås för att bärga ytterligare tre poäng. Med 13 inspelade poäng på de fem spelade matcherna efter uppehållet blir det viktigt att fortsätta leverera på planen för att vara kvar i toppskiktet av tabellen.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/pLi9waxhQ1NkJM4y1W1TI8iiYHoXffcjpbynAqYK.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/infor-vasteras-sk-djurgardens-if-698959"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/infor-vasteras-sk-djurgardens-if-698959"
-      },
-      "confirmed_by": [],
-      "id": "inf-r-v-ster-s-sk-djurg-rdens-if"
-    },
-    {
       "published_at": "2026-08-09T08:35:00+00:00",
       "updated_at": "2026-08-09T08:35:00+00:00",
       "title": "Arsenal latest: Do Gunners need Romero? Have your say!",
@@ -1389,33 +1406,6 @@
       },
       "confirmed_by": [],
       "id": "arsenal-latest-do-gunners-need-romero-have-your-say"
-    },
-    {
-      "published_at": "2026-08-08T23:23:00+00:00",
-      "updated_at": "2026-08-08T23:23:00+00:00",
-      "title": "PL pre-season: Gallagher's last-gasp leveller earns Spurs draw against Getafe",
-      "summary": "Premier League pre-season friendlies 2026: Latest news, goals and highlights",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-spurs-midfielder_7316029.jpg?20260807123348",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13564293/premier-league-pre-season-friendlies-2026-latest-news-goals-and-highlights"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13564293/premier-league-pre-season-friendlies-2026-latest-news-goals-and-highlights"
-      },
-      "confirmed_by": [],
-      "id": "pl-pre-season-gallagher-s-last-gasp-leveller-earns-spurs-draw-against-getafe"
     }
   ]
 }
