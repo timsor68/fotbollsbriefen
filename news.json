@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T14:35:05.801680+00:00",
+  "updated_at": "2026-08-09T15:32:27.997362+00:00",
   "items": [
     {
       "published_at": "2026-08-09T13:10:10+00:00",
@@ -72,6 +72,33 @@
         }
       ],
       "id": "man-utd-working-on-deal-to-sign-leicester-teenager-page"
+    },
+    {
+      "published_at": "2026-08-09T15:03:03+00:00",
+      "updated_at": "2026-08-09T15:03:03+00:00",
+      "title": "Everton's McNeil & Palace's Johnson poised for swap",
+      "summary": "Everton and Crystal Palace are in talks about a swap deal that would see Toffees' winger Dwight McNeil join the Eagles, and Wales international Brennan Johnson move in the opposite direction",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "everton",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c617/live/b99bfca0-93fe-11f1-870d-5d08c49babb2.png",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckg32lvxpvyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckg32lvxpvyo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "everton-s-mcneil-palace-s-johnson-poised-for-swap"
     },
     {
       "published_at": "2026-08-09T14:20:04+00:00",
@@ -266,31 +293,58 @@
       "id": "man-city-agree-deal-to-sign-marseille-keeper-rulli"
     },
     {
-      "published_at": "2026-08-08T05:50:20+00:00",
-      "updated_at": "2026-08-08T05:50:20+00:00",
-      "title": "Inside Newcastle 2.0 - how the project is changing",
-      "summary": "Matthias Jaissle will take charge of his first friendly as Newcastle United head coach against Valencia as a new era begins",
+      "published_at": "2026-08-09T15:03:50+00:00",
+      "updated_at": "2026-08-09T15:03:50+00:00",
+      "title": "Klart: Elliot Stroud går till Hull City",
+      "summary": "Men nu är Elliot Stroud klar för Hull City. – Jag är superglad och superexalterad över att komma i gång här, säger Stroud till klubbens hemsida",
       "category": [
-        "Premier League"
+        "Sverige"
       ],
       "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c98a/live/662c2c80-9286-11f1-9985-cdf6a137096d.jpg",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.3/0.39/37fabc2dc2bf657bb5fbdcfae3e29c4d3a2d3f30767cf13eecd71d3af7cc19cc",
       "sources": [
         {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cd7lzdpjlg2o?at_medium=RSS&at_campaign=rss"
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/klart-elliot-stroud-gar-till-hull-city"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cd7lzdpjlg2o?at_medium=RSS&at_campaign=rss"
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/klart-elliot-stroud-gar-till-hull-city"
       },
       "confirmed_by": [],
-      "id": "inside-newcastle-2-0-how-the-project-is-changing"
+      "id": "klart-elliot-stroud-g-r-till-hull-city"
+    },
+    {
+      "published_at": "2026-08-09T14:51:47+00:00",
+      "updated_at": "2026-08-09T14:51:47+00:00",
+      "title": "OS-hjälten Léon Marchands skadebesked: ”Dålig tajming”",
+      "summary": "Franske OS-hjälten Léon Marchand kan inte upprepa sin guldfyrling i EM på hemmaplan. På grund av skada tvingas simstjärnan stryka ännu en distans och ställer nu endast upp i två grenar",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.53/0.38/e33da8fb7e97573acb767151017c9d14953e5d1c7e7e5ceed5d16d37d16e8910",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/simning/os-hjalten-leon-marchands-skadebesked-dalig-tajming"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/simning/os-hjalten-leon-marchands-skadebesked-dalig-tajming"
+      },
+      "confirmed_by": [],
+      "id": "os-hj-lten-l-on-marchands-skadebesked-d-lig-tajming"
     },
     {
       "published_at": "2026-08-07T08:00:00+00:00",
@@ -407,7 +461,7 @@
       "published_at": "2026-08-08T19:00:05+00:00",
       "updated_at": "2026-08-08T19:00:05+00:00",
       "title": "Premier League managers have never been less English, title-winning or secure in their jobs",
-      "summary": "Huge turnover between seasons means 11 clubs start 2026-27 led by people with under a year in their dugout Nine of the 20 Premier League clubs will begin the 2026-27 season with a different man in the dugout than the one who ended the last campaign. Opta recently revealed that the only other seasons which started with so many men making their managerial debut for top flight clubs were 1888-89 and 1946-47; the inaugural season of league football and the first following the second world war. Neither occurred under normal circumstances yet the level of turnover this summer does not feel unusual.",
+      "summary": "Huge turnover between seasons means 11 clubs start 2026-27 led by people with under a year in their dugout Nine of the 20 Premier League clubs will begin the 2026-27 season with a different man in the dugout than the one who ended the last campaign. The only other seasons which started with so many men making their managerial debut for top flight clubs were 1888-89 and 1946-47; the inaugural season of league football and the first following the second world war. Neither occurred under normal circumstances yet the level of turnover this summer does not feel unusual.",
       "category": [
         "Premier League",
         "Coach"
@@ -457,33 +511,6 @@
       },
       "confirmed_by": [],
       "id": "versatile-bruno-guimar-es-gives-mikel-arteta-options-to-shuffle-midfield-pack-ed-aarons"
-    },
-    {
-      "published_at": "2026-08-08T18:37:44+00:00",
-      "updated_at": "2026-08-08T18:37:44+00:00",
-      "title": "Carabao Cup: Millwall keeper saves four penalties, Preston prevail in Goodison home game",
-      "summary": "Lukas Jensen the shootout hero for Millwall at QPR Kyle Walker hits winner in Burnley shootout victory Alex Neil felt Lukas Jensen deserved his moment of glory after the fit-again goalkeeper saved all four QPR penalties to take Millwall through to the second round of the Carabao Cup. After a 1-1 draw, with a late Mark Sykes own goal bringing Rangers level after Luke Cundle’s opener, Millwall won 2-0 in a shootout which included six missed spot-kicks. Jensen, back after a long injury lay-off, kept out penalties from Ilias Chair, Harvey Vale, Koki Saito and Kwame Poku.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/b692fb6d79a0e311d781b28ae14faf4e6def0357/636_161_4767_3813/master/4767.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ed31c1d50bd9bafe694ef977896cafc4",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/08/carabao-cup-roundup-preston-huddersfield-goodison-park-millwall-qpr-penalties"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/08/carabao-cup-roundup-preston-huddersfield-goodison-park-millwall-qpr-penalties"
-      },
-      "confirmed_by": [],
-      "id": "carabao-cup-millwall-keeper-saves-four-penalties-preston-prevail-in-goodison-home-game"
     },
     {
       "published_at": "2026-08-08T11:22:32+00:00",
@@ -593,6 +620,33 @@
       },
       "confirmed_by": [],
       "id": "the-guardian-view-on-gianni-infantino-in-the-interests-of-the-game-he-professes-to-love-he"
+    },
+    {
+      "published_at": "2026-08-07T16:56:45+00:00",
+      "updated_at": "2026-08-07T16:56:45+00:00",
+      "title": "I love football, so I support lots of clubs | Letters",
+      "summary": "Millwall remain my main club, but others have turned my head, writes Michael Opitz. Also letters from Neil Bage and Ariel J Friedlander I read Luke McLaughlin’s article with a great deal of empathy, yet still with some uneasiness about the taboo of having more than one club ( Have you ever switched allegiance as a football fan? I too was at the Millwall v Forest game marred by crowd trouble.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/9393e51aa7da55fed9092564f6dbd6428e3d2e81/289_0_2840_2272/master/2840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8d0b7636f7535f6469ff31d87e4b2301",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/07/i-love-football-so-i-support-lots-of-clubs"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/07/i-love-football-so-i-support-lots-of-clubs"
+      },
+      "confirmed_by": [],
+      "id": "i-love-football-so-i-support-lots-of-clubs-letters"
     },
     {
       "published_at": "2026-08-07T18:39:00+00:00",
@@ -706,7 +760,7 @@
       "published_at": "2026-08-09T12:24:05+00:00",
       "updated_at": "2026-08-09T12:24:05+00:00",
       "title": "Dijan Vukojevic slog till med drömmål mot MFF: ”Det är världsklass!”",
-      "summary": "Det är mycket möjligt att Degerfors Dijan Vukojevic stod för det i 2–1-segern borta mot Malmö. – Jag ser att han är långt ute och då är det bara att köra, säger han till TV4",
+      "summary": "Det är mycket möjligt att Degerfors Dijan Vukojevic stod för det i 2–1-segern borta mot Malmö.",
       "category": [
         "Sverige"
       ],
@@ -892,60 +946,6 @@
       "id": "svenska-v-rldsettorna-utslagna-f-ll-mot-hemmahoppen"
     },
     {
-      "published_at": "2026-08-08T18:54:23+00:00",
-      "updated_at": "2026-08-08T18:54:23+00:00",
-      "title": "Malmö FF ute ur Champions League",
-      "summary": "Eintracht Frankfurts Laura Freigang, 28, sänkte Malmö FF. MFF är utslaget ur Champions League efter en 2–0-förlust. – Det är en besvikelse blandat med att det finns bra grejer att ta med från matchen, säger Mia Persson till SVT Sport",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.76/0.2/944e12ac68179fab1e4ad51ed2ef1eed477949857bc215ebccd3c4bdd8487cce",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/malmo-ff-ute-ur-champions-league"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/malmo-ff-ute-ur-champions-league"
-      },
-      "confirmed_by": [],
-      "id": "malm-ff-ute-ur-champions-league"
-    },
-    {
-      "published_at": "2026-08-08T17:21:44+00:00",
-      "updated_at": "2026-08-08T17:21:44+00:00",
-      "title": "Mjällby föll igen – har inte vunnit i allsvenskan på tre månader",
-      "summary": "Först sen förlust i Europakvalet – och nu ännu en förlust i allsvenskan. – Vi vet att det är tufft, men vafan vi kan inte lägga oss ner och dö, säger Axel Norén till TV4 efter 0–1 mot Elfsborg",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.79/0.46/5924360776f1a1b5e7221ce2f4f0aa193664d7d139577ed1e614737139ce5965",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/mjallby-foll-igen-har-inte-vunnit-i-allsvenskan-pa-tre-manader"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/mjallby-foll-igen-har-inte-vunnit-i-allsvenskan-pa-tre-manader"
-      },
-      "confirmed_by": [],
-      "id": "mj-llby-f-ll-igen-har-inte-vunnit-i-allsvenskan-p-tre-m-nader"
-    },
-    {
       "published_at": "2026-08-09T14:28:00+00:00",
       "updated_at": "2026-08-09T14:28:00+00:00",
       "title": "Chelsea latest: Jorgensen set for Strasbourg loan move",
@@ -999,6 +999,34 @@
       },
       "confirmed_by": [],
       "id": "coventry-latest-sky-blues-agree-deal-to-re-sign-hamer"
+    },
+    {
+      "published_at": "2026-08-09T15:58:00+00:00",
+      "updated_at": "2026-08-09T15:58:00+00:00",
+      "title": "Arsenal defend badly as Dortmund win Emirates Cup",
+      "summary": "Arsenal produced more comical defending in pre-season as Borussia Dortmund won 3-2 in north London to win the Emirates Cup",
+      "category": [
+        "Premier League",
+        "Bundesliga"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-arsenal-dortmund_7317538.jpg?20260809160634",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13571075/arsenal-2-3-borussia-dortmund-mikel-artetas-side-defend-poorly-but-christos-tzolis-shines-as-gunners-lose-emirates-cup"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13571075/arsenal-2-3-borussia-dortmund-mikel-artetas-side-defend-poorly-but-christos-tzolis-shines-as-gunners-lose-emirates-cup"
+      },
+      "confirmed_by": [],
+      "id": "arsenal-defend-badly-as-dortmund-win-emirates-cup"
     },
     {
       "published_at": "2026-08-09T14:11:00+00:00",
@@ -1093,7 +1121,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/xinqbKx0NjGHahb7QcBoWANDbTkyt9JmLaHCVjgx.jpg",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/SGFDrDwYQoahl6u7EVBna6o0R2BqAdWnjYOpkpkS.jpg",
       "sources": [
         {
           "name": "SvenskaFans",
@@ -1327,7 +1355,7 @@
     {
       "published_at": "2026-08-09T13:23:00+00:00",
       "updated_at": "2026-08-09T13:23:00+00:00",
-      "title": "Isak and Wirtz on target as Liverpool lead Monaco LIVE!",
+      "title": "Monaco hit back to win as Liverpool throw away another lead LIVE!",
       "summary": "Friendly Match match Liverpool vs Monaco 09.08.2026. Preview and stats followed by live commentary, video highlights and match report",
       "category": [
         "Premier League",
@@ -1350,35 +1378,7 @@
         "url": "https://www.skysports.com/football/liverpool-vs-monaco/live/556109"
       },
       "confirmed_by": [],
-      "id": "isak-and-wirtz-on-target-as-liverpool-lead-monaco-live"
-    },
-    {
-      "published_at": "2026-08-09T12:30:00+00:00",
-      "updated_at": "2026-08-09T12:30:00+00:00",
-      "title": "Tzolis impressing as Arsenal pull another goal back vs Dortmund LIVE!",
-      "summary": "Arsenal vs Borussia Dortmund LIVE! Pre-season friendly team news, preview, score updates and live blog",
-      "category": [
-        "Premier League",
-        "Bundesliga"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-arsenal-tzolis_7317611.jpg?20260809152927",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13571163/arsenal-vs-borussia-dortmund-live-pre-season-friendly-team-news-preview-score-updates-and-live-blog"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13571163/arsenal-vs-borussia-dortmund-live-pre-season-friendly-team-news-preview-score-updates-and-live-blog"
-      },
-      "confirmed_by": [],
-      "id": "tzolis-impressing-as-arsenal-pull-another-goal-back-vs-dortmund-live"
+      "id": "monaco-hit-back-to-win-as-liverpool-throw-away-another-lead-live"
     }
   ]
 }
