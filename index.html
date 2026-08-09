@@ -183,6 +183,9 @@ footer { text-align: center; color: var(--muted); font-size: 13px; padding: 32px
 .stats-table .form-dots { justify-content: center; }
 .stats-table-wrap { overflow-x: auto; }
 .injury-report-note { font-size: 12px; color: var(--muted); margin: 10px 0 0; }
+.active-league-hint { font-size: 12.5px; color: var(--muted); margin: -8px 0 16px; display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.active-league-hint button { border: 1px solid var(--line); background: var(--paper); color: var(--ink); border-radius: 999px; padding: 3px 10px; font-size: 12px; font-weight: 700; cursor: pointer; }
+.active-league-hint button:hover { border-color: var(--green); color: var(--green); }
 
 @media(max-width: 1050px) { .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; } }
 @media(max-width: 720px) {
@@ -227,12 +230,14 @@ footer { text-align: center; color: var(--muted); font-size: 13px; padding: 32px
   <div id="matchesView" style="display:none">
     <div class="intro"><h2>Kommande matcher <span id="matchesCount" style="font-size:14px;font-weight:normal;color:var(--muted)"></span></h2><div class="updated" id="matchesUpdated"></div></div>
     <div class="message" id="matchesMessage"></div>
+    <div class="active-league-hint" id="matchesLeagueHint" style="display:none"></div>
     <div class="grid stacked" id="matchesGrid"></div>
     <div class="empty" id="matchesEmpty">No upcoming matches to show yet.</div>
   </div>
   <div id="statsView" style="display:none">
     <div class="intro"><h2>Tabell <span id="statsCount" style="font-size:14px;font-weight:normal;color:var(--muted)"></span></h2><div class="updated" id="statsUpdated"></div></div>
     <div class="message" id="statsMessage"></div>
+    <div class="active-league-hint" id="statsLeagueHint" style="display:none"></div>
     <div class="table-toggle" id="tableToggle">
       <button class="table-toggle-btn active" data-mode="total">Totalt</button>
       <button class="table-toggle-btn" data-mode="home">Hemma</button>
@@ -248,6 +253,9 @@ footer { text-align: center; color: var(--muted); font-size: 13px; padding: 32px
 const FILTERS=["All","Svenska källor","Experter","Skador","Premier League","La Liga","Serie A","Bundesliga","Ligue 1","Transfer","Coach"];
 const LEAGUE_ORDER=["Premier League","La Liga","Serie A","Bundesliga","Ligue 1","Sverige","Football"];
 const LEAGUE_LABELS={"Sverige":"Sverige / Allsvenskan","Football":"Övriga ligor"};
+// De fem ligorna som matches.py faktiskt hämtar data för — används för att
+// avgöra om det aktiva nyhetsfiltret också ska styra Matcher-/Statistik-vyn.
+const MATCH_LEAGUES=["Premier League","La Liga","Serie A","Bundesliga","Ligue 1"];
 const VISIT_KEY="fb_final_last_visit",STATE_KEY="fb_final_story_state";
 let data={items:[]},active="All",previousVisit=localStorage.getItem(VISIT_KEY),previousState={};
 try{previousState=JSON.parse(localStorage.getItem(STATE_KEY)||"{}")}catch(e){}
@@ -339,7 +347,7 @@ async function shareStory(title, url, btn) {
   }
 }
 
-function renderFilters(){const n=document.getElementById("filters");n.innerHTML=FILTERS.map(f=>`<button class="filter ${f==="Skador"?"filter-injury":""} ${f===active?"active":""}" data-f="${esc(f)}">${esc(f)}</button>`).join("");n.querySelectorAll("button").forEach(b=>b.onclick=()=>{active=b.dataset.f;renderFilters();render()})}
+function renderFilters(){const n=document.getElementById("filters");n.innerHTML=FILTERS.map(f=>`<button class="filter ${f==="Skador"?"filter-injury":""} ${f===active?"active":""}" data-f="${esc(f)}">${esc(f)}</button>`).join("");n.querySelectorAll("button").forEach(b=>b.onclick=()=>{active=b.dataset.f;renderFilters();render();if(currentView==="matches")renderMatches();if(currentView==="stats")renderStats()})}
 
 // Bygger HTML för ett enskilt nyhetskort. Används både i det vanliga flödet
 // och i den liga-grupperade Skador-vyn, så all kortlogik finns på ett ställe.
@@ -474,6 +482,21 @@ async function load(){
 // resp. weather.py) och laddas lazy, först när användaren växlar till fliken.
 let currentView="news",matchesData=null,matchesWeather={},tableMode="total";
 
+// Om det aktiva nyhetsfiltret pekar på en av de fem ligorna matches.py
+// hämtar data för, filtrerar vi Matcher-/Statistik-vyn till just den ligan
+// i stället för att alltid visa alla ligor staplade under varandra.
+function activeLeagueFilter(){
+ return MATCH_LEAGUES.includes(active) ? active : null;
+}
+
+function renderLeagueHint(elId, filterLeague){
+ const el=document.getElementById(elId);
+ if(!filterLeague){ el.style.display="none"; el.innerHTML=""; return; }
+ el.style.display="flex";
+ el.innerHTML=`<span>Visar endast: <strong>${esc(filterLeague)}</strong></span><button type="button" id="${elId}Clear">Visa alla ligor</button>`;
+ document.getElementById(`${elId}Clear`).onclick=()=>{active="All";renderFilters();renderMatches();renderStats();render()};
+}
+
 function formDotsHTML(team){
  return (team.form||[]).map(r=>`<span class="form-dot ${esc(r)}" title="${r==='W'?'Vinst':r==='D'?'Oavgjort':'Förlust'}"></span>`).join("");
 }
@@ -583,8 +606,12 @@ function renderStats(){
  }
  document.getElementById("statsEmpty").style.display="none";
 
+ const leagueFilter=activeLeagueFilter();
+ renderLeagueHint("statsLeagueHint", leagueFilter);
+ const leaguesToShow = leagueFilter ? [leagueFilter] : LEAGUE_ORDER;
+
  let leagueCount=0;
- LEAGUE_ORDER.forEach(league=>{
+ leaguesToShow.forEach(league=>{
    const leagueData=matchesData.leagues&&matchesData.leagues[league];
    const rows=leagueData?.table;
    if(!rows||!rows.length)return;
@@ -621,8 +648,12 @@ function renderMatches(){
  }
  document.getElementById("matchesEmpty").style.display="none";
 
+ const leagueFilter=activeLeagueFilter();
+ renderLeagueHint("matchesLeagueHint", leagueFilter);
+ const leaguesToShow = leagueFilter ? [leagueFilter] : LEAGUE_ORDER;
+
  let totalShown=0;
- LEAGUE_ORDER.forEach(league=>{
+ leaguesToShow.forEach(league=>{
    const leagueData=matchesData.leagues&&matchesData.leagues[league];
    if(!leagueData)return;
    let matches=leagueData.matches||[];
