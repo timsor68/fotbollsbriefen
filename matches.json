@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T00:05:17.631291+00:00",
+  "updated_at": "2026-08-09T01:55:20.427684+00:00",
   "leagues": {
     "Premier League": {
       "competition_code": "PL",
@@ -966,6 +966,44 @@
             "home_win_pct": 41,
             "draw_pct": 26,
             "away_win_pct": 33,
+            "basis": "Formkurva (45%), tabellplacering (35%), inbördes möten (20%) + hemmaplansfördel. Statistisk uppskattning — inget spelråd."
+          },
+          "extra_stats": null,
+          "source": "football-data.org"
+        },
+        {
+          "id": "fd-564628",
+          "league": "La Liga",
+          "utc_kickoff": "2026-08-19T19:00:00Z",
+          "matchday": 1,
+          "venue": null,
+          "home": {
+            "id": 78,
+            "name": "Club Atlético de Madrid",
+            "short_name": "Atleti",
+            "crest": "https://crests.football-data.org/78.png",
+            "position": 4,
+            "points": 69,
+            "played": 38,
+            "form": [],
+            "table_size": 20
+          },
+          "away": {
+            "id": 84,
+            "name": "Málaga CF",
+            "short_name": "Málaga",
+            "crest": "https://crests.football-data.org/84.png",
+            "position": null,
+            "points": null,
+            "played": null,
+            "form": [],
+            "table_size": null
+          },
+          "h2h": null,
+          "prediction": {
+            "home_win_pct": 45,
+            "draw_pct": 23,
+            "away_win_pct": 32,
             "basis": "Formkurva (45%), tabellplacering (35%), inbördes möten (20%) + hemmaplansfördel. Statistisk uppskattning — inget spelråd."
           },
           "extra_stats": null,
