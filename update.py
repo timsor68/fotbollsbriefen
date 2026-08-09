@@ -71,17 +71,23 @@ JUNK_RE = re.compile(
     re.I,
 )
 
-# Utökad för att blockera IOK, OS-politik och icke-fotbollsrelaterade organisationsnyheter
+# Utökad för att blockera IOK, OS-politik, orientering/simning/friidrott m.fl.
+# icke-fotbollsrelaterade sporter som annars läcker in via breda SVT/allmänna sportkällor.
 OTHER_SPORTS_RE = re.compile(
     r"\b(crick|golf|mcilroy|tiger woods|formula 1|f1|indycar|tennis|wimbledon|djokovic|"
-    r"alcaraz|swimming|simning|athlet|rugby|nfl|super bowl|nba|basket|baseball|"
-    r"boxning|boxing|ufc|t20|test match|ashes|ryder cup|olympic|olympiska|"
+    r"alcaraz|swimming|simning|simhopp|simstjärn\w*|simmare\w*|guldfyrling|athlet|rugby|nfl|"
+    r"super bowl|nba|basket|baseball|"
+    r"boxning|boxing|ufc|t20|test match|ashes|ryder cup|olympic|olympiska|os-hjält\w*|"
+    r"os-guld|em-guld(?!.{0,20}fotboll)|"
     r"horse racing|jockey|dettori|newmarket|ascot|cheltenham|grand national|"
     r"equestrian|showjumping|dressage|ridsport|"
     r"skid|längdskid|skidskytte|alpin|slalom|frida karlsson|ebba andersson|kalla|"
     r"jonna sundling|shiffrin|victoriapris|victoriastipend|friidrott|löpning|"
     r"stavhopp|duplantis|ståhl|diskus|höjdhopp|ishockey|hockey|shl|nhl|"
-    r"orientering|orienteering|"
+    r"orientering|orienteering|stafetten|sträckan(?!.{0,15}fotboll)|"
+    r"beachvolley\w*|volleyboll|handboll|innebandy|bordtennis|badminton|"
+    r"brottning|gymnastik|cykel(?:sport|lopp|tempo)|cycling|roddare|rodd|"
+    r"kanot|paddling|fäktning|fencing|bowling|curling|"
     r"shubman gill|julien alfred|tharp|axar patel|odi|häck|edgbaston|stands|"
     r"iok|ioc|olympiska kommitt|eu-stöd|sportpolitik)\w*",
     re.I,
@@ -133,17 +139,6 @@ NON_NEWS_PROFILE_RE = re.compile(
 OFF_TOPIC_RE = re.compile(
     r"\b(crypto-backed|cryptocurrency|crypto market|nft|web3|"
     r"picks two midfielders to keep|picks .* to keep at)\b",
-    re.I,
-)
-
-# Skadenyheter — används för att tagga kategorin "Injury" oavsett liga
-INJURY_RE = re.compile(
-    r"\b(injury|injuries|injured|surgery|operation|scan|sidelined|"
-    r"out for weeks|out for months|hamstring|groin injury|knee injury|"
-    r"ankle injury|muscle injury|knee surgery|\bacl\b|fitness test|"
-    r"medical update|skada|skadad|skadeuppdatering|skadeläge|opereras|"
-    r"axelskada|knäskada|vadskada|hälseneskada|korsbandsskada|"
-    r"ryggskada|ljumskskada)\b",
     re.I,
 )
 
@@ -357,10 +352,6 @@ def categories(title: str, publisher: str = "") -> list[str]:
     for category, pattern in pairs:
         if re.search(pattern, lowered):
             output.append(category)
-
-    # Tagga skadenyheter separat, utöver liga/lagtaggning ovan
-    if INJURY_RE.search(lowered):
-        output.append("Injury")
 
     return output or (["Sverige"] if "Sverige" in output else ["Football"])
 
