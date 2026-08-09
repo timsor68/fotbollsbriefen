@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T13:50:34.506663+00:00",
+  "updated_at": "2026-08-09T14:35:05.801680+00:00",
   "items": [
     {
       "published_at": "2026-08-09T13:10:10+00:00",
@@ -45,7 +45,7 @@
       "category": [
         "Transfer"
       ],
-      "status": "Confirmed",
+      "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
       "club": "manchester-united",
@@ -54,6 +54,10 @@
         {
           "name": "BBC Sport",
           "url": "https://www.bbc.co.uk/sport/football/articles/c5y4qpjqd7qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
@@ -61,35 +65,40 @@
         "name": "BBC Sport",
         "url": "https://www.bbc.co.uk/sport/football/articles/c5y4qpjqd7qo?at_medium=RSS&at_campaign=rss"
       },
-      "confirmed_by": [],
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
       "id": "man-utd-working-on-deal-to-sign-leicester-teenager-page"
     },
     {
-      "published_at": "2026-08-09T09:36:25+00:00",
-      "updated_at": "2026-08-09T09:36:25+00:00",
-      "title": "Family 'overwhelmed' after Arbroath FC hold silence for Minnie Merriman",
-      "summary": "Minnie Merriman, nine, from West Yorkshire died at Ninewells Hospital after being found seriously injured",
+      "published_at": "2026-08-09T14:20:04+00:00",
+      "updated_at": "2026-08-09T14:20:04+00:00",
+      "title": "Hearts agree £1.7m deal to sell winger Kyziridis",
+      "summary": "Heart of Midlothian agree a deal to sell Greece winger Alexandros Kyziridis to a Turkish club for a fee of around £1.7m",
       "category": [
-        "Football"
+        "Transfer"
       ],
       "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/101e/live/90167790-90c3-11f1-b2ab-0dd01740f9f6.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/24c6/live/dc46a380-93fa-11f1-a10f-45ed743c6e4b.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/news/articles/cz97q39ev45o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5yevd5wxl1o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/news/articles/cz97q39ev45o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5yevd5wxl1o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "family-overwhelmed-after-arbroath-fc-hold-silence-for-minnie-merriman"
+      "id": "hearts-agree-1-7m-deal-to-sell-winger-kyziridis"
     },
     {
       "published_at": "2026-08-09T08:00:15+00:00",
@@ -229,33 +238,6 @@
       "id": "arsenal-sign-guimaraes-from-newcastle-in-75m-deal"
     },
     {
-      "published_at": "2026-08-08T10:18:53+00:00",
-      "updated_at": "2026-08-08T10:18:53+00:00",
-      "title": "Aberdeen buy versatile Belgian forward Ntelo",
-      "summary": "Aberdeen sign Mitchy Ntelo from Swiss side Yverdon-Sport for an undisclosed fee, with manager Stephen Robinson saying the Belgian forward's \"versatility was one of the biggest attractions\"",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3679/live/2d411390-9312-11f1-a52f-31e1c3a4e20b.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/articles/cd0xy9dlgnjo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/articles/cd0xy9dlgnjo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "aberdeen-buy-versatile-belgian-forward-ntelo"
-    },
-    {
       "published_at": "2026-08-08T06:00:37+00:00",
       "updated_at": "2026-08-08T06:00:37+00:00",
       "title": "Man City agree deal to sign Marseille keeper Rulli",
@@ -284,59 +266,31 @@
       "id": "man-city-agree-deal-to-sign-marseille-keeper-rulli"
     },
     {
-      "published_at": "2026-08-08T23:15:00+00:00",
-      "updated_at": "2026-08-08T23:15:00+00:00",
-      "title": "Papers: Romero open to joining Arsenal but Spurs resist",
-      "summary": "Latest transfer news and headlines as Arsenal target Spurs captain Cristian Romero, and eye up move for Juventus winger Kenan Yildiz after seeing Vinicius Jr bid fail; Everton and Crystal Palace discuss swap deal for Dwight McNeil and Brennan Johnson; Barcelona confident of signing Rodri",
+      "published_at": "2026-08-08T05:50:20+00:00",
+      "updated_at": "2026-08-08T05:50:20+00:00",
+      "title": "Inside Newcastle 2.0 - how the project is changing",
+      "summary": "Matthias Jaissle will take charge of his first friendly as Newcastle United head coach against Valencia as a new era begins",
       "category": [
         "Premier League"
       ],
-      "status": "Reported",
+      "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/26/07/1600x900/skysports-paper-talk-sky-sports-news_7311195.png?20260731134338",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c98a/live/662c2c80-9286-11f1-9985-cdf6a137096d.jpg",
       "sources": [
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13571259/cristian-romero-open-to-joining-arsenal-but-tottenham-adamant-their-defender-will-not-cross-the-north-london-divide-paper-talk"
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cd7lzdpjlg2o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13571259/cristian-romero-open-to-joining-arsenal-but-tottenham-adamant-their-defender-will-not-cross-the-north-london-divide-paper-talk"
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cd7lzdpjlg2o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "papers-romero-open-to-joining-arsenal-but-spurs-resist"
-    },
-    {
-      "published_at": "2026-08-08T18:00:00+00:00",
-      "updated_at": "2026-08-08T18:00:00+00:00",
-      "title": "'Good signs' for Man Utd as Mbeumo scores in encouraging draw with PSG",
-      "summary": "Bryan Mbeumo earned Man Utd a 1-1 draw with Paris St-Germain in Gothenburg, a pre-season friendly which left boss Michael Carrick encouraged by the \"good signs\" from his side",
-      "category": [
-        "Ligue 1",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-mbeumo-united-manchester_7316888.jpg?20260808164039",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/paris-saint-germain-vs-manchester-united/report/555766"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/paris-saint-germain-vs-manchester-united/report/555766"
-      },
-      "confirmed_by": [],
-      "id": "good-signs-for-man-utd-as-mbeumo-scores-in-encouraging-draw-with-psg"
+      "id": "inside-newcastle-2-0-how-the-project-is-changing"
     },
     {
       "published_at": "2026-08-07T08:00:00+00:00",
@@ -452,33 +406,6 @@
     {
       "published_at": "2026-08-08T19:00:05+00:00",
       "updated_at": "2026-08-08T19:00:05+00:00",
-      "title": "Versatile Bruno Guimarães gives Mikel Arteta options to shuffle midfield pack | Ed Aarons",
-      "summary": "While able to play deeper, the onus will also be on Arsenal’s £75m signing to provide creativity in an attack that has struggled to break down the low block Data shows deal could be another set-piece masterstroke If there was one of his many assets Newcastle supporters grew to love above all about Bruno Guimarães then it was best summed up by the man himself after being unveiled as Arsenal’s new £75m signing . “That’s a tough one,” said the Brazil midfielder when asked what fans in north London can expect from him. “I would say I can pass the ball, run a lot and play like a warrior.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "mikel-arteta",
-      "entity_type": "coaches",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/1fdfc60a03b78e56469ec838b6b0a2446f6bf50b/388_0_5772_4617/master/5772.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1345cd3f678c1abd8dd239554dbe594f",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/08/bruno-guimaraes-mikel-arteta-arsenal-options-midfield"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/08/bruno-guimaraes-mikel-arteta-arsenal-options-midfield"
-      },
-      "confirmed_by": [],
-      "id": "versatile-bruno-guimar-es-gives-mikel-arteta-options-to-shuffle-midfield-pack-ed-aarons"
-    },
-    {
-      "published_at": "2026-08-08T19:00:05+00:00",
-      "updated_at": "2026-08-08T19:00:05+00:00",
       "title": "Premier League managers have never been less English, title-winning or secure in their jobs",
       "summary": "Huge turnover between seasons means 11 clubs start 2026-27 led by people with under a year in their dugout Nine of the 20 Premier League clubs will begin the 2026-27 season with a different man in the dugout than the one who ended the last campaign. Opta recently revealed that the only other seasons which started with so many men making their managerial debut for top flight clubs were 1888-89 and 1946-47; the inaugural season of league football and the first following the second world war. Neither occurred under normal circumstances yet the level of turnover this summer does not feel unusual.",
       "category": [
@@ -503,6 +430,33 @@
       },
       "confirmed_by": [],
       "id": "premier-league-managers-have-never-been-less-english-title-winning-or-secure-in-their-jobs"
+    },
+    {
+      "published_at": "2026-08-08T19:00:05+00:00",
+      "updated_at": "2026-08-08T19:00:05+00:00",
+      "title": "Versatile Bruno Guimarães gives Mikel Arteta options to shuffle midfield pack | Ed Aarons",
+      "summary": "While able to play deeper, the onus will also be on Arsenal’s £75m signing to provide creativity in an attack that has struggled to break down the low block Data shows deal could be another set-piece masterstroke If there was one of his many assets Newcastle supporters grew to love above all about Bruno Guimarães then it was best summed up by the man himself after being unveiled as Arsenal’s new £75m signing . “That’s a tough one,” said the Brazil midfielder when asked what fans in north London can expect from him. “I would say I can pass the ball, run a lot and play like a warrior.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "mikel-arteta",
+      "entity_type": "coaches",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/1fdfc60a03b78e56469ec838b6b0a2446f6bf50b/388_0_5772_4617/master/5772.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1345cd3f678c1abd8dd239554dbe594f",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/08/bruno-guimaraes-mikel-arteta-arsenal-options-midfield"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/08/bruno-guimaraes-mikel-arteta-arsenal-options-midfield"
+      },
+      "confirmed_by": [],
+      "id": "versatile-bruno-guimar-es-gives-mikel-arteta-options-to-shuffle-midfield-pack-ed-aarons"
     },
     {
       "published_at": "2026-08-08T18:37:44+00:00",
@@ -722,33 +676,6 @@
       "id": "rebro-v-rnamo-1-3-1-0"
     },
     {
-      "published_at": "2026-08-02T18:06:00+00:00",
-      "updated_at": "2026-08-02T18:06:00+00:00",
-      "title": "Klart: Colin Rösler lämnar Malmö FF",
-      "summary": "MFF:s norska mittback saknades i dagens trupp mott Brommapojkarna. Nu bekräftar klubben att Colin Rösler lämnar.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/3HZhvD91ELrEneVVbInErjOjn047uMeRPgvARiAj.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/klart-colin-rosler-lamnar-malmo-ff-698721"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/klart-colin-rosler-lamnar-malmo-ff-698721"
-      },
-      "confirmed_by": [],
-      "id": "klart-colin-r-sler-l-mnar-malm-ff"
-    },
-    {
       "published_at": "2026-08-09T12:35:21+00:00",
       "updated_at": "2026-08-09T12:35:21+00:00",
       "title": "Ny succé för Viktor Svensk – knäcker norrmannen igen",
@@ -779,7 +706,7 @@
       "published_at": "2026-08-09T12:24:05+00:00",
       "updated_at": "2026-08-09T12:24:05+00:00",
       "title": "Dijan Vukojevic slog till med drömmål mot MFF: ”Det är världsklass!”",
-      "summary": "Det är mycket möjligt att Degerfors Dijan Vukojevic stod för det borta mot Malmö. – Jag ser att han är långt ute och då är det bara att köra, säger han till TV4",
+      "summary": "Det är mycket möjligt att Degerfors Dijan Vukojevic stod för det i 2–1-segern borta mot Malmö. – Jag ser att han är långt ute och då är det bara att köra, säger han till TV4",
       "category": [
         "Sverige"
       ],
@@ -1047,58 +974,31 @@
       "id": "chelsea-latest-jorgensen-set-for-strasbourg-loan-move"
     },
     {
-      "published_at": "2026-08-09T09:19:00+00:00",
-      "updated_at": "2026-08-09T09:19:00+00:00",
-      "title": "Man Utd latest: Carrick gives Mount injury update as Rashford returns",
-      "summary": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Injury"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/26/02/1600x900/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "man-utd-latest-carrick-gives-mount-injury-update-as-rashford-returns"
-    },
-    {
-      "published_at": "2026-08-09T09:08:00+00:00",
-      "updated_at": "2026-08-09T09:08:00+00:00",
-      "title": "Man City latest: 'Barca looking to finalise Rodri deal'",
-      "summary": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "published_at": "2026-08-09T10:15:00+00:00",
+      "updated_at": "2026-08-09T10:15:00+00:00",
+      "title": "Coventry latest: Sky Blues agree deal to re-sign Hamer",
+      "summary": "Coventry transfers, latest news, rumours and gossip: Live updates, goals and highlights",
       "category": [
         "Transfer"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://e0.365dm.com/26/06/1600x900/skysports-enzo-maresca-man-city_7285824.jpg?20260629153129",
+      "club": "",
+      "image": "https://e0.365dm.com/26/05/1600x900/skysports-premier-league-club-rumours_7242342.jpg?20260508093716",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "url": "https://www.skysports.com/football/live-blog/11095/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "url": "https://www.skysports.com/football/live-blog/11095/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
       },
       "confirmed_by": [],
-      "id": "man-city-latest-barca-looking-to-finalise-rodri-deal"
+      "id": "coventry-latest-sky-blues-agree-deal-to-re-sign-hamer"
     },
     {
       "published_at": "2026-08-09T14:11:00+00:00",
@@ -1180,6 +1080,33 @@
       },
       "confirmed_by": [],
       "id": "marmoush-tucks-in-double-as-semenyo-stars-in-man-city-win-over-atletico-madrid"
+    },
+    {
+      "published_at": "2026-08-09T13:58:00+00:00",
+      "updated_at": "2026-08-09T13:58:00+00:00",
+      "title": "Fem Snabba efter Malmö FF - Degerfors IF 1-2",
+      "summary": "Värmländska Degerfors IF kommer på besök i slutet av en händelserik vecka som har sett tre guldvinnare tackat för sig i MFF",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/xinqbKx0NjGHahb7QcBoWANDbTkyt9JmLaHCVjgx.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/fem-snabba-efter-malmo-ff-degerfors-if-698980"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/fem-snabba-efter-malmo-ff-degerfors-if-698980"
+      },
+      "confirmed_by": [],
+      "id": "fem-snabba-efter-malm-ff-degerfors-if-1-2"
     },
     {
       "published_at": "2026-08-09T12:09:00+00:00",
@@ -1344,6 +1271,33 @@
       "id": "allsvenskan-inf-r-ifk-g-teborg-borta"
     },
     {
+      "published_at": "2026-08-09T14:50:00+00:00",
+      "updated_at": "2026-08-09T14:50:00+00:00",
+      "title": "Newcastle latest: Palhinha added to list of midfield targets",
+      "summary": "Newcastle transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-premier-league-matthias-jaissle_7312588.jpg?20260803082043",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "newcastle-latest-palhinha-added-to-list-of-midfield-targets"
+    },
+    {
       "published_at": "2026-08-09T13:51:00+00:00",
       "updated_at": "2026-08-09T13:51:00+00:00",
       "title": "Forest latest: Diomande travelling to UK to complete Forest move",
@@ -1369,6 +1323,62 @@
       },
       "confirmed_by": [],
       "id": "forest-latest-diomande-travelling-to-uk-to-complete-forest-move"
+    },
+    {
+      "published_at": "2026-08-09T13:23:00+00:00",
+      "updated_at": "2026-08-09T13:23:00+00:00",
+      "title": "Isak and Wirtz on target as Liverpool lead Monaco LIVE!",
+      "summary": "Friendly Match match Liverpool vs Monaco 09.08.2026. Preview and stats followed by live commentary, video highlights and match report",
+      "category": [
+        "Premier League",
+        "Ligue 1"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/liverpool-vs-monaco/live/556109"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/liverpool-vs-monaco/live/556109"
+      },
+      "confirmed_by": [],
+      "id": "isak-and-wirtz-on-target-as-liverpool-lead-monaco-live"
+    },
+    {
+      "published_at": "2026-08-09T12:30:00+00:00",
+      "updated_at": "2026-08-09T12:30:00+00:00",
+      "title": "Tzolis impressing as Arsenal pull another goal back vs Dortmund LIVE!",
+      "summary": "Arsenal vs Borussia Dortmund LIVE! Pre-season friendly team news, preview, score updates and live blog",
+      "category": [
+        "Premier League",
+        "Bundesliga"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-arsenal-tzolis_7317611.jpg?20260809152927",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13571163/arsenal-vs-borussia-dortmund-live-pre-season-friendly-team-news-preview-score-updates-and-live-blog"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13571163/arsenal-vs-borussia-dortmund-live-pre-season-friendly-team-news-preview-score-updates-and-live-blog"
+      },
+      "confirmed_by": [],
+      "id": "tzolis-impressing-as-arsenal-pull-another-goal-back-vs-dortmund-live"
     }
   ]
 }
