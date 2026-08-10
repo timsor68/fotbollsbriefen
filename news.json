@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T19:56:51.954978+00:00",
+  "updated_at": "2026-08-10T20:50:14.776077+00:00",
   "items": [
     {
       "published_at": "2026-08-10T13:16:51+00:00",
@@ -126,6 +126,42 @@
         }
       ],
       "id": "why-has-araujo-joined-liverpool-and-where-did-it-go-wrong-at-barcelona"
+    },
+    {
+      "published_at": "2026-08-10T16:51:34+00:00",
+      "updated_at": "2026-08-10T16:51:34+00:00",
+      "title": "Derby 'off market' as takeover deal collapses",
+      "summary": "Saudi Arabia government official Turki Alalshikh abandons his proposed takeover of Championship club Derby County",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3144/live/4f65b840-94d4-11f1-8a9a-13c674e4e5fe.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm2gk7l7yl7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm2gk7l7yl7o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two"
+        }
+      ],
+      "id": "derby-off-market-as-takeover-deal-collapses"
     },
     {
       "published_at": "2026-08-09T17:55:36+00:00",
@@ -278,6 +314,34 @@
       "id": "ibrahim-mbaye-liverpool-explore-deal-for-paris-saint-germain-winger"
     },
     {
+      "published_at": "2026-08-10T20:32:37+00:00",
+      "updated_at": "2026-08-10T20:32:37+00:00",
+      "title": "Who could Arsenal sign after missing out on Vinicius Jr?",
+      "summary": "One big signing missed, but one big signing through the doors - it's been a mixed transfer window for Arsenal",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8218/live/cc148430-94c9-11f1-a7ab-8b30adf0800a.png",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c9d84pxqdgno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c9d84pxqdgno?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "who-could-arsenal-sign-after-missing-out-on-vinicius-jr"
+    },
+    {
       "published_at": "2026-08-10T18:56:56+00:00",
       "updated_at": "2026-08-10T18:56:56+00:00",
       "title": "West Ham sign winger Solomon from Tottenham",
@@ -306,33 +370,6 @@
       "id": "west-ham-sign-winger-solomon-from-tottenham"
     },
     {
-      "published_at": "2026-08-10T16:51:34+00:00",
-      "updated_at": "2026-08-10T16:51:34+00:00",
-      "title": "Derby 'off market' as takeover deal collapses",
-      "summary": "Saudi Arabia government official Turki Alalshikh abandons his proposed takeover of Championship club Derby County",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3144/live/4f65b840-94d4-11f1-8a9a-13c674e4e5fe.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm2gk7l7yl7o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm2gk7l7yl7o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "derby-off-market-as-takeover-deal-collapses"
-    },
-    {
       "published_at": "2026-08-10T15:40:18+00:00",
       "updated_at": "2026-08-10T15:40:18+00:00",
       "title": "Villa in talks to sign Bayern's Palhinha",
@@ -359,33 +396,6 @@
       },
       "confirmed_by": [],
       "id": "villa-in-talks-to-sign-bayern-s-palhinha"
-    },
-    {
-      "published_at": "2026-08-10T12:45:17+00:00",
-      "updated_at": "2026-08-10T12:45:17+00:00",
-      "title": "Palace close to signing Khalaili from Union SG",
-      "summary": "Crystal Palace poised to sign 21-year-old midfielder Anan Khalaili from Belgian side Union Saint-Gilloise",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3e60/live/34f7ea10-94b5-11f1-afe9-fb1a837ec5d9.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c4g36zdrq2lo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c4g36zdrq2lo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "palace-close-to-signing-khalaili-from-union-sg"
     },
     {
       "published_at": "2026-08-10T18:55:19+00:00",
@@ -487,58 +497,40 @@
       "id": "klart-elliot-stroud-l-mnar-mj-llby-flyttar-till-premier-league"
     },
     {
-      "published_at": "2026-08-08T07:15:34+00:00",
-      "updated_at": "2026-08-08T07:15:34+00:00",
-      "title": "What Pep Chavarria would bring to Chelsea: Tenacious energy from an extremely ‘busy’ left-back",
-      "summary": "Read the full report at The Athletic.",
+      "published_at": "2026-08-09T07:00:09+00:00",
+      "updated_at": "2026-08-09T07:00:09+00:00",
+      "title": "How Trabzonspor shocked Turkish rivals to make Mohamed Salah their Black Sea saviour",
+      "summary": "Never before has a big name rejected Istanbul for Trabzon, but former Liverpool striker was offered more than riches It began with a text sent during the World Cup. Ertugrul Dogan, the president of Trabzonspor, was watching Egypt when he picked up his phone and messaged his manager, Fatih Tekke. “Do you want Mohamed Salah?” Tekke’s response was immediate enthusiasm, though Trabzonspor’s initial push for Salah went under the radar with Besiktas looking most likely to land the former Liverpool striker.",
       "category": [
-        "Premier League"
+        "Football"
       ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "what-pep-chavarria-would-bring-to-chelsea-tenacious-energy-from-an-extremely-busy-left-bac"
-    },
-    {
-      "published_at": "2026-08-04T07:00:00+00:00",
-      "updated_at": "2026-08-04T07:00:00+00:00",
-      "title": "Rennes sign Toulouse’s Charlie Cresswell in transfer worth up to €28m",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Highly credible",
+      "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
       "club": "",
       "image": "",
       "sources": [
         {
-          "name": "The Athletic",
+          "name": "Fotbollskanalen",
           "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/09/mohamed-salah-trabzonspor-turkish-rivals-istanbul"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "The Athletic",
+        "name": "Fotbollskanalen",
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
-      "confirmed_by": [],
-      "id": "rennes-sign-toulouse-s-charlie-cresswell-in-transfer-worth-up-to-28m"
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/09/mohamed-salah-trabzonspor-turkish-rivals-istanbul"
+        }
+      ],
+      "id": "how-trabzonspor-shocked-turkish-rivals-to-make-mohamed-salah-their-black-sea-saviour"
     },
     {
       "published_at": "2026-08-10T17:39:00+00:00",
@@ -596,8 +588,8 @@
       "id": "uefa-signs-joint-letter-slamming-deception-as-infantino-fallout-continues"
     },
     {
-      "published_at": "2026-08-06T15:38:39+00:00",
-      "updated_at": "2026-08-06T15:38:39+00:00",
+      "published_at": "2026-08-06T15:38:46+00:00",
+      "updated_at": "2026-08-06T15:38:46+00:00",
       "title": "La Liga: Yan Diomande signs with Real Madrid for £120m",
       "summary": "Read the full report at Sky Sports.",
       "category": [
@@ -1044,34 +1036,6 @@
       "id": "jos-mourinho-reveals-he-signed-contract-to-succeed-alex-ferguson-at-manchester-united-in-2"
     },
     {
-      "published_at": "2026-08-09T21:14:00+00:00",
-      "updated_at": "2026-08-09T21:14:00+00:00",
-      "title": "Transfer roundup: Digne returns to PSG from Villa, Fulham agree £30m deal for Charles",
-      "summary": "Read the full report at The Guardian.",
-      "category": [
-        "Ligue 1",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "psg",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "transfer-roundup-digne-returns-to-psg-from-villa-fulham-agree-30m-deal-for-charles"
-    },
-    {
       "published_at": "2026-08-09T08:00:10+00:00",
       "updated_at": "2026-08-09T08:00:10+00:00",
       "title": "Alexia Putellas: ‘I’m hungry to win, to fight with my teammates for victory’",
@@ -1097,6 +1061,33 @@
       },
       "confirmed_by": [],
       "id": "alexia-putellas-i-m-hungry-to-win-to-fight-with-my-teammates-for-victory"
+    },
+    {
+      "published_at": "2026-08-08T19:00:05+00:00",
+      "updated_at": "2026-08-08T19:00:05+00:00",
+      "title": "Versatile Bruno Guimarães gives Mikel Arteta options to shuffle midfield pack | Ed Aarons",
+      "summary": "While able to play deeper, the onus will also be on Arsenal’s £75m signing to provide creativity in an attack that has struggled to break down the low block Data shows deal could be another set-piece masterstroke If there was one of his many assets Newcastle supporters grew to love above all about Bruno Guimarães then it was best summed up by the man himself after being unveiled as Arsenal’s new £75m signing . “That’s a tough one,” said the Brazil midfielder when asked what fans in north London can expect from him. “I would say I can pass the ball, run a lot and play like a warrior.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "mikel-arteta",
+      "entity_type": "coaches",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/1fdfc60a03b78e56469ec838b6b0a2446f6bf50b/388_0_5772_4617/master/5772.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1345cd3f678c1abd8dd239554dbe594f",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/08/bruno-guimaraes-mikel-arteta-arsenal-options-midfield"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/08/bruno-guimaraes-mikel-arteta-arsenal-options-midfield"
+      },
+      "confirmed_by": [],
+      "id": "versatile-bruno-guimar-es-gives-mikel-arteta-options-to-shuffle-midfield-pack-ed-aarons"
     },
     {
       "published_at": "2026-08-10T16:03:00+00:00",
@@ -1292,6 +1283,34 @@
       "id": "milan-agreement-to-loan-athekame-to-olympique-lyonnais"
     },
     {
+      "published_at": "2026-08-09T13:06:23+00:00",
+      "updated_at": "2026-08-09T13:06:23+00:00",
+      "title": "Lukaku, Fenerbahce and Napoli confident of agreement within 48 hours",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "lukaku-fenerbahce-and-napoli-confident-of-agreement-within-48-hours"
+    },
+    {
       "published_at": "2026-08-09T10:57:51+00:00",
       "updated_at": "2026-08-09T10:57:51+00:00",
       "title": "Maldini reveals who he wanted as Italy head coach after Guardiola, Ancelotti and Pirlo",
@@ -1458,34 +1477,6 @@
       "id": "report-psg-could-buy-suzuki-and-then-loan-him-to-juventus"
     },
     {
-      "published_at": "2026-08-10T19:08:09+00:00",
-      "updated_at": "2026-08-10T19:08:09+00:00",
-      "title": "Endrick set to stay at Real Madrid despite interest from European clubs",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "La Liga",
-        "Serie A"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "endrick-set-to-stay-at-real-madrid-despite-interest-from-european-clubs"
-    },
-    {
       "published_at": "2026-08-10T08:46:24+00:00",
       "updated_at": "2026-08-10T08:46:24+00:00",
       "title": "Förbunden anklagar Gianni Infantino för bedrägeri i öppet brev",
@@ -1648,113 +1639,32 @@
       "id": "dijan-vukojevic-slog-till-med-dr-mm-l-mot-mff-det-r-v-rldsklass"
     },
     {
-      "published_at": "2026-08-07T16:00:13+00:00",
-      "updated_at": "2026-08-07T16:00:13+00:00",
-      "title": "Marco Palestra interview: Being Italy’s fastest player, following Zola and Chelsea ambitions",
-      "summary": "Read the full report at The Athletic.",
+      "published_at": "2026-08-10T17:57:00+00:00",
+      "updated_at": "2026-08-10T17:57:00+00:00",
+      "title": "Tottenham latest: Van de Ven signs new deal but Romero nears exit",
+      "summary": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
         "Premier League",
-        "Serie A"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "marco-palestra-interview-being-italy-s-fastest-player-following-zola-and-chelsea-ambitions"
-    },
-    {
-      "published_at": "2026-08-04T12:33:55+00:00",
-      "updated_at": "2026-08-04T12:33:55+00:00",
-      "title": "Barcelona at St George’s Park: What did Hansi Flick’s team learn from week in England?",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "La Liga"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "barcelona",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "barcelona-at-st-george-s-park-what-did-hansi-flick-s-team-learn-from-week-in-england"
-    },
-    {
-      "published_at": "2026-08-10T16:30:00+00:00",
-      "updated_at": "2026-08-10T16:30:00+00:00",
-      "title": "Scot Prem latest: Rangers agree deal to sign Driouech",
-      "summary": "Scottish Premiership news, transfers, rumours, gossip and more",
-      "category": [
         "Transfer"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-couhaib-driouech_7314913.jpg?20260805203103",
+      "club": "tottenham",
+      "image": "https://e0.365dm.com/26/04/1600x900/skysports-spurs-roberto-de-zerbi_7216074.jpg?20260410141222",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more"
+          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more"
+        "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "scot-prem-latest-rangers-agree-deal-to-sign-driouech"
-    },
-    {
-      "published_at": "2026-08-10T15:00:00+00:00",
-      "updated_at": "2026-08-10T15:00:00+00:00",
-      "title": "Rangers meeting Q&A: McInnes-Klopp compared, club failure admission & new signings update",
-      "summary": "Rangers chairman Andrew Cavanagh believes the Ibrox side have become used to finishing second or worse over the last 15 years, and admits that failure had begun to \"seep through\" every corner of the club",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "jurgen-klopp",
-      "entity_type": "coaches",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-cavenagh-rangers_7318311.jpg?20260810150346",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13571632/rangers-meeting-qa-derek-mcinnes-jurgen-klopp-comparison-club-became-used-to-finishing-second-admission-and-new-signings-update"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13571632/rangers-meeting-qa-derek-mcinnes-jurgen-klopp-comparison-club-became-used-to-finishing-second-admission-and-new-signings-update"
-      },
-      "confirmed_by": [],
-      "id": "rangers-meeting-q-a-mcinnes-klopp-compared-club-failure-admission-new-signings-update"
+      "id": "tottenham-latest-van-de-ven-signs-new-deal-but-romero-nears-exit"
     },
     {
       "published_at": "2026-08-10T14:29:00+00:00",
@@ -1812,38 +1722,10 @@
       "id": "bayern-munich-2-1-aston-villa-min-jae-kim-and-luis-diaz-score-as-bundesliga-champions-beat"
     },
     {
-      "published_at": "2026-08-10T18:05:12+00:00",
-      "updated_at": "2026-08-10T18:05:12+00:00",
-      "title": "LIVE Done Deals Tracker: Latest Serie A transfer agreements",
-      "summary": "Check the latest done deals and official transfers completed in Serie A, as the summer window goes into its final month of activity",
-      "category": [
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://icdn.football-italia.net/wp-content/uploads/2024/08/Transfer-Liveblog.jpg",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://football-italia.net/live-done-deal-tracker-latest-serie-a-transfer/"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://football-italia.net/live-done-deal-tracker-latest-serie-a-transfer/"
-      },
-      "confirmed_by": [],
-      "id": "live-done-deals-tracker-latest-serie-a-transfer-agreements"
-    },
-    {
-      "published_at": "2026-08-10T17:00:00+00:00",
-      "updated_at": "2026-08-10T17:00:00+00:00",
-      "title": "VSK:s sportchef om Ladefoged: \"Inte uttagningsbar\"",
-      "summary": "VSK:s sportchef om Ladefoged: \"Inte uttagningsbar\" Fotbollskanalen",
+      "published_at": "2026-08-10T17:11:00+00:00",
+      "updated_at": "2026-08-10T17:11:00+00:00",
+      "title": "Manneh ytterst nära att lämna Mjällby",
+      "summary": "Manneh ytterst nära att lämna Mjällby Fotbollskanalen",
       "category": [
         "Sverige"
       ],
@@ -1864,7 +1746,34 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "vsk-s-sportchef-om-ladefoged-inte-uttagningsbar"
+      "id": "manneh-ytterst-n-ra-att-l-mna-mj-llby"
+    },
+    {
+      "published_at": "2026-08-10T10:56:06+00:00",
+      "updated_at": "2026-08-10T10:56:06+00:00",
+      "title": "Rydström och Gustafsson rök ihop - Axén: \"Som en juniormatch\"",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "rydstr-m-och-gustafsson-r-k-ihop-ax-n-som-en-juniormatch"
     },
     {
       "published_at": "2026-08-10T05:44:00+00:00",
@@ -1893,60 +1802,6 @@
       },
       "confirmed_by": [],
       "id": "uppgifter-torino-vill-l-na-cajuste-napoli-vill-s-lja"
-    },
-    {
-      "published_at": "2026-08-10T05:40:08+00:00",
-      "updated_at": "2026-08-10T05:40:08+00:00",
-      "title": "Rydström och Gustafsson rök ihop - Axén: \"Som en juniormatch\"",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "rydstr-m-och-gustafsson-r-k-ihop-ax-n-som-en-juniormatch"
-    },
-    {
-      "published_at": "2026-08-10T05:28:00+00:00",
-      "updated_at": "2026-08-10T05:28:00+00:00",
-      "title": "Hyllningarna till Renecke: \"Han var bäst\"",
-      "summary": "Hyllningarna till Renecke: \"Han var bäst\" Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "hyllningarna-till-renecke-han-var-b-st"
     },
     {
       "published_at": "2026-08-10T19:46:55+00:00",
@@ -2139,32 +1994,86 @@
       "id": "ruben-amorim-faces-man-united-reunion-amid-rocky-ac-milan-start"
     },
     {
-      "published_at": "2026-08-10T17:57:00+00:00",
-      "updated_at": "2026-08-10T17:57:00+00:00",
-      "title": "Tottenham latest: Atletico Madrid close in on Romero",
-      "summary": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "published_at": "2026-08-10T14:00:00+00:00",
+      "updated_at": "2026-08-10T14:00:00+00:00",
+      "title": "Man Utd latest: Rashford back with Carrick's squad - what's next? Have your say!",
+      "summary": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
-        "Premier League",
-        "La Liga"
+        "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://e0.365dm.com/26/04/1600x900/skysports-spurs-roberto-de-zerbi_7216074.jpg?20260410141222",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/02/1600x900/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "tottenham-latest-atletico-madrid-close-in-on-romero"
+      "id": "man-utd-latest-rashford-back-with-carrick-s-squad-what-s-next-have-your-say"
+    },
+    {
+      "published_at": "2026-08-10T14:00:00+00:00",
+      "updated_at": "2026-08-10T14:00:00+00:00",
+      "title": "Crystal Palace latest: Everton keen on Munoz",
+      "summary": "Crystal Palace transfers, latest news, rumours and gossip: Live updates, goals and highlights",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "everton",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-premier-league-crystal-palace_7274807.jpg?20260616120117",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+      },
+      "confirmed_by": [],
+      "id": "crystal-palace-latest-everton-keen-on-munoz"
+    },
+    {
+      "published_at": "2026-08-10T12:52:00+00:00",
+      "updated_at": "2026-08-10T12:52:00+00:00",
+      "title": "West Ham latest: Solomon completes £7m move from Spurs",
+      "summary": "West Ham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://e0.365dm.com/25/10/1600x900/skysports-west-ham-news-club_7039266.jpg?20251002160718",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13210475/west-ham-latest-news"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13210475/west-ham-latest-news"
+      },
+      "confirmed_by": [],
+      "id": "west-ham-latest-solomon-completes-7m-move-from-spurs"
     }
   ]
 }
