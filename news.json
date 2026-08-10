@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T05:38:20.614557+00:00",
+  "updated_at": "2026-08-10T07:42:51.598981+00:00",
   "items": [
     {
       "published_at": "2026-08-09T17:12:56+00:00",
@@ -77,6 +77,10 @@
         {
           "name": "Sky Sports",
           "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        },
+        {
+          "name": "Chelsea",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNEc4emxHME9PRi12d2NHLThfcmNzM3dnbDNmdlN6S1JRS1M5eWpHdmkyaUZ5MS1XY3VENzVRNEpybXpYSU5NTmZDdF9CN3haY082UU9ZZEk0UTBJX21MREFwbk9Cb0wwNWliSnhrNWsxNHgzV3V0SFRKOENGblBibXk1NE1sR3RD?oc=5"
         }
       ],
       "language": "en",
@@ -88,9 +92,49 @@
         {
           "name": "Sky Sports",
           "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        },
+        {
+          "name": "Chelsea",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNEc4emxHME9PRi12d2NHLThfcmNzM3dnbDNmdlN6S1JRS1M5eWpHdmkyaUZ5MS1XY3VENzVRNEpybXpYSU5NTmZDdF9CN3haY082UU9ZZEk0UTBJX21MREFwbk9Cb0wwNWliSnhrNWsxNHgzV3V0SFRKOENGblBibXk1NE1sR3RD?oc=5"
         }
       ],
       "id": "como-sign-defender-chalobah-from-chelsea"
+    },
+    {
+      "published_at": "2026-08-09T19:41:04+00:00",
+      "updated_at": "2026-08-09T19:41:04+00:00",
+      "title": "Mudryk's emotional return and 'leader' Palmer - inside Chelsea's pre-season",
+      "summary": "Chelsea's pre-season campaign was all about new manager Xabi Alonso, so what have we learned about his side?",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b4b3/live/199ae2a0-9261-11f1-b9ff-37ae3aba3894.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5y62r3x213o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13564293/premier-league-pre-season-friendlies-2026-latest-news-goals-and-highlights"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5y62r3x213o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13564293/premier-league-pre-season-friendlies-2026-latest-news-goals-and-highlights"
+        }
+      ],
+      "id": "mudryk-s-emotional-return-and-leader-palmer-inside-chelsea-s-pre-season"
     },
     {
       "published_at": "2026-08-09T13:10:10+00:00",
@@ -127,42 +171,6 @@
         }
       ],
       "id": "fulham-agree-30m-fee-for-southampton-s-charles"
-    },
-    {
-      "published_at": "2026-08-09T12:13:59+00:00",
-      "updated_at": "2026-08-09T12:13:59+00:00",
-      "title": "Man Utd working on deal to sign Leicester teenager Page",
-      "summary": "Manchester United are working on a deal to sign Leicester teenager Louis Page",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4986/live/c759ac60-93e6-11f1-8231-7d4e2048054e.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5y4qpjqd7qo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5y4qpjqd7qo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "id": "man-utd-working-on-deal-to-sign-leicester-teenager-page"
     },
     {
       "published_at": "2026-08-07T22:54:13+00:00",
@@ -277,47 +285,10 @@
       "id": "klart-elliot-stroud-l-mnar-mj-llby-flyttar-till-premier-league"
     },
     {
-      "published_at": "2026-08-06T15:38:46+00:00",
-      "updated_at": "2026-08-06T15:38:46+00:00",
-      "title": "La Liga: Yan Diomande signs with Real Madrid for £120m",
-      "summary": "Officiellt: Real Madrid värvar Diomande Fotbollskanalen",
-      "category": [
-        "La Liga",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORVhaLXRLRWVkc2hleGRjVXRaSXZudGwtYUFUaWpSYUlfSDdHVGdWWjFXYlIwX0ZnY0hMcGhzcS1FbnljTmN4ZUdFYWJwdi10YVRXMFVsczd6Vy10V0VVYndaMGxQVF96dXZLTTdsVjdWTFZjT2h6c3F2Z0RDVDJNcjJzbnV5SFNzWDZETS1STQ?oc=5"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORVhaLXRLRWVkc2hleGRjVXRaSXZudGwtYUFUaWpSYUlfSDdHVGdWWjFXYlIwX0ZnY0hMcGhzcS1FbnljTmN4ZUdFYWJwdi10YVRXMFVsczd6Vy10V0VVYndaMGxQVF96dXZLTTdsVjdWTFZjT2h6c3F2Z0RDVDJNcjJzbnV5SFNzWDZETS1STQ?oc=5"
-        }
-      ],
-      "id": "la-liga-yan-diomande-signs-with-real-madrid-for-120m"
-    },
-    {
       "published_at": "2026-08-06T04:26:06+00:00",
       "updated_at": "2026-08-06T04:26:06+00:00",
       "title": "Ibrahim Mbaye: Liverpool explore deal for Paris Saint-Germain winger",
-      "summary": "Officiellt: Digne klar för Paris Saint-Germain Fotbollskanalen",
+      "summary": "Read the full report at Reuters.",
       "category": [
         "Premier League",
         "Ligue 1",
@@ -330,23 +301,23 @@
       "image": "",
       "sources": [
         {
-          "name": "Sky Sports",
+          "name": "Reuters",
           "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         },
         {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNHkwUWNFSjJNektxaXlwc0FIdmRVSGVWbmh1RVgtQ1FqZk1kTnFKbEtncXJWMmtLeVBVWW50TWhET0lEUWhLbDZGN0hNLVAtZENzeGtHeTV5UUI0Xy1IYjJZNjNVQ0dvNU1IOXQzbHVjMVZjZmlPV3JkQXJvVVRsS1l6SzNGMzB4S0M1bVdEQi1DNDNvRFZBbA?oc=5"
+          "name": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQel9aRDdkcXdweGRidGJoZDNFTjlzaHFhNXVwNFJEOThab0FOWG1ZUmtKdnJLWUxrcW5zckVwQzAzVUI5VVgzTlE5WWJJbERMMmEtU00yN1NobEpwWHV5OWJ4SGJRdjQwNEcwTFk1YnRES2ptOWRGQUxGTHdTTkFxNkNmTVdZZl9GWW1lSklETEhVN2JrTndJY0p1SU5pSTAzZWtNVG5iV2x4MTdNaWdfZzJMdkFtaUpmQWZnM1pLQQ?oc=5"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Sky Sports",
+        "name": "Reuters",
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNHkwUWNFSjJNektxaXlwc0FIdmRVSGVWbmh1RVgtQ1FqZk1kTnFKbEtncXJWMmtLeVBVWW50TWhET0lEUWhLbDZGN0hNLVAtZENzeGtHeTV5UUI0Xy1IYjJZNjNVQ0dvNU1IOXQzbHVjMVZjZmlPV3JkQXJvVVRsS1l6SzNGMzB4S0M1bVdEQi1DNDNvRFZBbA?oc=5"
+          "name": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQel9aRDdkcXdweGRidGJoZDNFTjlzaHFhNXVwNFJEOThab0FOWG1ZUmtKdnJLWUxrcW5zckVwQzAzVUI5VVgzTlE5WWJJbERMMmEtU00yN1NobEpwWHV5OWJ4SGJRdjQwNEcwTFk1YnRES2ptOWRGQUxGTHdTTkFxNkNmTVdZZl9GWW1lSklETEhVN2JrTndJY0p1SU5pSTAzZWtNVG5iV2x4MTdNaWdfZzJMdkFtaUpmQWZnM1pLQQ?oc=5"
         }
       ],
       "id": "ibrahim-mbaye-liverpool-explore-deal-for-paris-saint-germain-winger"
@@ -487,6 +458,33 @@
       "id": "experten-om-rytting-kaneryds-sv-ra-skada-r-kna-med-ett-r"
     },
     {
+      "published_at": "2026-08-08T07:15:34+00:00",
+      "updated_at": "2026-08-08T07:15:34+00:00",
+      "title": "What Pep Chavarria would bring to Chelsea: Tenacious energy from an extremely ‘busy’ left-back",
+      "summary": "Read the full report at The Athletic.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "what-pep-chavarria-would-bring-to-chelsea-tenacious-energy-from-an-extremely-busy-left-bac"
+    },
+    {
       "published_at": "2026-08-04T07:00:00+00:00",
       "updated_at": "2026-08-04T07:00:00+00:00",
       "title": "Rennes sign Toulouse’s Charlie Cresswell in transfer worth up to €28m",
@@ -512,6 +510,79 @@
       },
       "confirmed_by": [],
       "id": "rennes-sign-toulouse-s-charlie-cresswell-in-transfer-worth-up-to-28m"
+    },
+    {
+      "published_at": "2026-08-09T23:24:04+00:00",
+      "updated_at": "2026-08-09T23:24:04+00:00",
+      "title": "José Mourinho reveals he signed contract to succeed Alex Ferguson at Manchester United in 2013",
+      "summary": "Mourinho: I reneged on deal and returned to Chelsea Ferguson confirms story in new Netflix documentary José Mourinho has revealed he signed a contract to succeed Sir Alex Ferguson as Manchester United manager in 2013 only to tearfully renege on the deal and return to Chelsea. The football world was rocked when the Scottish great announced he was retiring having overseen a 13th Premier League title triumph during a spell of unrivalled dominance at Old Trafford.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/02/1600x900/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/10/jose-mourinho-signed-contract-succeed-alex-ferguson-manchester-united-2013-netflix"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/10/jose-mourinho-signed-contract-succeed-alex-ferguson-manchester-united-2013-netflix"
+        }
+      ],
+      "id": "jos-mourinho-reveals-he-signed-contract-to-succeed-alex-ferguson-at-manchester-united-in-2"
+    },
+    {
+      "published_at": "2026-08-09T17:55:02+00:00",
+      "updated_at": "2026-08-09T17:55:02+00:00",
+      "title": "Iraola says Liverpool have work to do as familiar frailties in defence prove costly",
+      "summary": "Head coach frustrated by ‘tired’ performance Monaco come from two down to win 3-2 at Anfield Andoni Iraola told his Liverpool team they have work to do after ­squandering a 2-0 lead against Monaco to lose a second successive pre-season friendly. The former Bournemouth coach last managed a game at Anfield almost exactly a year ago in the memorable opener to the 2025-26 Premier League season, a game the Cherries were unfortunate to lose 4-2 . Now on his debut in the home dugout, Iraola saw his team produce a similarly open display and lose again.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-liverpool-club-blog_7266198.jpg?20260605143916",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/09/andoni-iraola-liverpool-monaco-preseason-friendly-anfield"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/09/andoni-iraola-liverpool-monaco-preseason-friendly-anfield"
+        }
+      ],
+      "id": "iraola-says-liverpool-have-work-to-do-as-familiar-frailties-in-defence-prove-costly"
     },
     {
       "published_at": "2026-08-08T19:00:05+00:00",
@@ -548,6 +619,33 @@
         }
       ],
       "id": "versatile-bruno-guimar-es-gives-mikel-arteta-options-to-shuffle-midfield-pack-ed-aarons"
+    },
+    {
+      "published_at": "2026-08-03T18:15:00+00:00",
+      "updated_at": "2026-08-03T18:15:00+00:00",
+      "title": "Genesis Antwi joins Strasbourg on loan",
+      "summary": "Genesis Antwi joins Strasbourg on loan | News | Official Site Chelsea Football Club",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Official",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Chelsea",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Chelsea",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "genesis-antwi-joins-strasbourg-on-loan"
     },
     {
       "published_at": "2026-08-09T23:00:00+00:00",
@@ -631,68 +729,13 @@
       "id": "motherwell-held-to-goalless-draw-at-home-to-falkirk"
     },
     {
-      "published_at": "2026-08-09T15:42:00+00:00",
-      "updated_at": "2026-08-09T15:42:00+00:00",
-      "title": "Uppgifter: Gais detaljer från Gravius-värvning",
-      "summary": "Uppgifter: Gais detaljer från Gravius-värvning Fotbollskanalen",
+      "published_at": "2026-08-06T15:38:46+00:00",
+      "updated_at": "2026-08-06T15:38:46+00:00",
+      "title": "La Liga: Yan Diomande signs with Real Madrid for £120m",
+      "summary": "Read the full report at Sky Sports.",
       "category": [
-        "Sverige",
+        "La Liga",
         "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-gais-detaljer-fr-n-gravius-v-rvning"
-    },
-    {
-      "published_at": "2026-08-08T18:16:00+00:00",
-      "updated_at": "2026-08-08T18:16:00+00:00",
-      "title": "Klart: Haglind Sangré förlänger med Wisla Plock",
-      "summary": "Klart: Haglind Sangré förlänger med Wisla Plock Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "klart-haglind-sangr-f-rl-nger-med-wisla-plock"
-    },
-    {
-      "published_at": "2026-08-06T18:02:00+00:00",
-      "updated_at": "2026-08-06T18:02:00+00:00",
-      "title": "Klart: Vinicius Junior förlänger med Real Madrid",
-      "summary": "Klart: Vinicius Junior förlänger med Real Madrid Fotbollskanalen",
-      "category": [
-        "Sverige",
-        "La Liga"
       ],
       "status": "Reported",
       "entity": "",
@@ -701,218 +744,44 @@
       "image": "",
       "sources": [
         {
-          "name": "Fotbollskanalen",
+          "name": "Sky Sports",
           "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
+        "name": "Sky Sports",
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "klart-vinicius-junior-f-rl-nger-med-real-madrid"
+      "id": "la-liga-yan-diomande-signs-with-real-madrid-for-120m"
     },
     {
-      "published_at": "2026-08-06T11:00:00+00:00",
-      "updated_at": "2026-08-06T11:00:00+00:00",
-      "title": "Frejs kontrakt löper ut: \"Gått lite trögt senaste tiden\"",
-      "summary": "Read the full report at Fotbollskanalen.",
+      "published_at": "2026-08-10T06:15:36+00:00",
+      "updated_at": "2026-08-10T06:15:36+00:00",
+      "title": "Football transfer rumours: Endrick set for Villa loan? De Jong offered in Rodri deal?",
+      "summary": "Today’s fluff is counting the pennies A sense of excitement is what Aston Villa need at the moment after selling off key players. What better way to create it than signing a prodigious talent from Real Madrid? The Villans have inquired about the Brazilian Endrick , who impressed on loan at Lyon last season, and may make a similar temporary move to the Premier League.",
       "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "frejs-kontrakt-l-per-ut-g-tt-lite-tr-gt-senaste-tiden"
-    },
-    {
-      "published_at": "2026-08-06T06:59:00+00:00",
-      "updated_at": "2026-08-06T06:59:00+00:00",
-      "title": "Uppgifter: Paananen klar för Kalmar",
-      "summary": "Uppgifter: Paananen klar för Kalmar Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-paananen-klar-f-r-kalmar"
-    },
-    {
-      "published_at": "2026-08-05T12:23:00+00:00",
-      "updated_at": "2026-08-05T12:23:00+00:00",
-      "title": "Ellingsens bakslag - skadad igen",
-      "summary": "Ellingsens bakslag - skadad igen Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "ellingsens-bakslag-skadad-igen"
-    },
-    {
-      "published_at": "2026-08-03T10:52:00+00:00",
-      "updated_at": "2026-08-03T10:52:00+00:00",
-      "title": "Officiellt: Karetsas klar för Dortmund",
-      "summary": "Officiellt: Karetsas klar för Dortmund Fotbollskanalen",
-      "category": [
-        "Sverige",
-        "Bundesliga"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "borussia-dortmund",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "officiellt-karetsas-klar-f-r-dortmund"
-    },
-    {
-      "published_at": "2026-08-10T04:18:25+00:00",
-      "updated_at": "2026-08-10T04:18:25+00:00",
-      "title": "Arsenal-stjärnan inspirerade till Kalmar-flytten: ”Det är bäst för dig”",
-      "summary": "Charles Sagoe Jr väntade fortfarande på chansen i Arsenal. Efter ett snack med en viss stjärna blev han övertygad om att testa på äventyret i Kalmar. – Jag är jättetacksam över det rådet, så att jag vågade ta steget, säger Charles Sagoe Jr till SVT Sport",
-      "category": [
-        "Sverige",
-        "Premier League"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.67/0.37/011bf750edd87a103ce47e1157d207dfcbec5da02c208c1f3836bd640b73378b",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/arsenal-stjarnan-inspirerade-till-kalmar-flytten-det-ar-bast-for-dig"
-        },
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOVJHX2hGTkljTlNZYXk0UkpMRVdEeDVaeWo4VW1mNFdxQ2Q3Vi1IWXVZblJuS05DSkhVRFRfT1JKZnhFdWdmWWY4dnhJZ1BlRENqNmVVWTJrYlFaWk5LZ1NPN2ZZbnZFU2ZkU3hzX2xOZnl5YlBEdVM1aF9tcDg5eGlOS0x2RzRRMUVvT0VQd2FEOXNwRHhEc1RhV3VTdlFwdUlOUXBaemhpZw?oc=5"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/arsenal-stjarnan-inspirerade-till-kalmar-flytten-det-ar-bast-for-dig"
-      },
-      "confirmed_by": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOVJHX2hGTkljTlNZYXk0UkpMRVdEeDVaeWo4VW1mNFdxQ2Q3Vi1IWXVZblJuS05DSkhVRFRfT1JKZnhFdWdmWWY4dnhJZ1BlRENqNmVVWTJrYlFaWk5LZ1NPN2ZZbnZFU2ZkU3hzX2xOZnl5YlBEdVM1aF9tcDg5eGlOS0x2RzRRMUVvT0VQd2FEOXNwRHhEc1RhV3VTdlFwdUlOUXBaemhpZw?oc=5"
-        }
-      ],
-      "id": "arsenal-stj-rnan-inspirerade-till-kalmar-flytten-det-r-b-st-f-r-dig"
-    },
-    {
-      "published_at": "2026-08-09T23:24:04+00:00",
-      "updated_at": "2026-08-09T23:24:04+00:00",
-      "title": "José Mourinho reveals he signed contract to succeed Alex Ferguson at Manchester United in 2013",
-      "summary": "Mourinho: I reneged on deal and returned to Chelsea Ferguson confirms story in new Netflix documentary José Mourinho has revealed he signed a contract to succeed Sir Alex Ferguson as Manchester United manager in 2013 only to tearfully renege on the deal and return to Chelsea. The football world was rocked when the Scottish great announced he was retiring having overseen a 13th Premier League title triumph during a spell of unrivalled dominance at Old Trafford.",
-      "category": [
-        "Premier League",
         "Transfer"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://i.guim.co.uk/img/media/9e289acf091705702606c5dd2f5b6ca670d86726/0_1665_3601_2881/master/3601.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd8b9d0a4dd8bd8443c219b95c55d190",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/c07fbab77e833c9d767b1b9adfbc26d877a96e4a/0_14_1190_951/master/1190.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ce7f527ac3329179de7fdf207dc71a09",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/10/jose-mourinho-signed-contract-succeed-alex-ferguson-manchester-united-2013-netflix"
+          "url": "https://www.theguardian.com/football/2026/aug/10/football-transfer-rumours-aston-villa-endrick-manchester-city-barcelona-rodri-frenkie-de-jong"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/10/jose-mourinho-signed-contract-succeed-alex-ferguson-manchester-united-2013-netflix"
+        "url": "https://www.theguardian.com/football/2026/aug/10/football-transfer-rumours-aston-villa-endrick-manchester-city-barcelona-rodri-frenkie-de-jong"
       },
       "confirmed_by": [],
-      "id": "jos-mourinho-reveals-he-signed-contract-to-succeed-alex-ferguson-at-manchester-united-in-2"
-    },
-    {
-      "published_at": "2026-08-09T17:55:02+00:00",
-      "updated_at": "2026-08-09T17:55:02+00:00",
-      "title": "Iraola says Liverpool have work to do as familiar frailties in defence prove costly",
-      "summary": "Head coach frustrated by ‘tired’ performance Monaco come from two down to win 3-2 at Anfield Andoni Iraola told his Liverpool team they have work to do after ­squandering a 2-0 lead against Monaco to lose a second successive pre-season friendly. The former Bournemouth coach last managed a game at Anfield almost exactly a year ago in the memorable opener to the 2025-26 Premier League season, a game the Cherries were unfortunate to lose 4-2 . Now on his debut in the home dugout, Iraola saw his team produce a similarly open display and lose again.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://i.guim.co.uk/img/media/28ef07f280d8a369c180bda3117e65fd081fdeeb/119_0_2101_1680/master/2101.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=139005300566146b0d40bdddd3bd333f",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/09/andoni-iraola-liverpool-monaco-preseason-friendly-anfield"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/09/andoni-iraola-liverpool-monaco-preseason-friendly-anfield"
-      },
-      "confirmed_by": [],
-      "id": "iraola-says-liverpool-have-work-to-do-as-familiar-frailties-in-defence-prove-costly"
+      "id": "football-transfer-rumours-endrick-set-for-villa-loan-de-jong-offered-in-rodri-deal"
     },
     {
       "published_at": "2026-08-09T08:00:10+00:00",
@@ -1132,6 +1001,33 @@
       "id": "h-ctor-beller-n-when-you-leave-a-club-like-arsenal-it-s-scary-it-hurts"
     },
     {
+      "published_at": "2026-08-04T12:03:15+00:00",
+      "updated_at": "2026-08-04T12:03:15+00:00",
+      "title": "David Squires on … Gianni Infantino clinging to power as his Fifa empire crumbles",
+      "summary": "Our resident cartoon imagines some of the crisis talks at Fifa as its president scrambles for support after a botched World Cup plan Continue reading",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/9cefb0fc0b79d7f7df91f75570b4c1c586aa38fd/1002_903_927_742/master/927.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=875b8d9195071d7ffba6256ad1ff9b91",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/picture/2026/aug/04/david-squires-gianni-infantino-clinging-to-power-as-his-fifa-empire-crumbles-cartoon"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/picture/2026/aug/04/david-squires-gianni-infantino-clinging-to-power-as-his-fifa-empire-crumbles-cartoon"
+      },
+      "confirmed_by": [],
+      "id": "david-squires-on-gianni-infantino-clinging-to-power-as-his-fifa-empire-crumbles"
+    },
+    {
       "published_at": "2026-08-07T18:39:00+00:00",
       "updated_at": "2026-08-07T18:39:00+00:00",
       "title": "Möt Falkenbergs senaste nyförvärv",
@@ -1242,34 +1138,6 @@
       "id": "milan-agreement-to-loan-athekame-to-olympique-lyonnais"
     },
     {
-      "published_at": "2026-08-09T13:06:23+00:00",
-      "updated_at": "2026-08-09T13:06:23+00:00",
-      "title": "Lukaku, Fenerbahce and Napoli confident of agreement within 48 hours",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "lukaku-fenerbahce-and-napoli-confident-of-agreement-within-48-hours"
-    },
-    {
       "published_at": "2026-08-09T10:57:51+00:00",
       "updated_at": "2026-08-09T10:57:51+00:00",
       "title": "Maldini reveals who he wanted as Italy head coach after Guardiola, Ancelotti and Pirlo",
@@ -1322,6 +1190,35 @@
       },
       "confirmed_by": [],
       "id": "cuadrado-i-did-not-betray-juventus-they-broke-promise-so-i-joined-inter"
+    },
+    {
+      "published_at": "2026-08-08T12:00:00+00:00",
+      "updated_at": "2026-08-08T12:00:00+00:00",
+      "title": "PSG ready to up Suzuki bid as Juventus hopes hang in balance",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A",
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "psg",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "psg-ready-to-up-suzuki-bid-as-juventus-hopes-hang-in-balance"
     },
     {
       "published_at": "2026-08-08T11:30:00+00:00",
@@ -1436,40 +1333,31 @@
       "id": "report-psg-could-buy-suzuki-and-then-loan-him-to-juventus"
     },
     {
-      "published_at": "2026-08-03T12:52:00+00:00",
-      "updated_at": "2026-08-03T12:52:00+00:00",
-      "title": "Yaya Touré till Strandvallen: \"Spännande för publiken\"",
-      "summary": "Slovan Bratislava tog med sig en 2–1-seger från det första mötet med Mjällby i Champions League-kvalets tredje omgång. Efter slutsignalen lyfte huvudtränaren Yaya Touré fram både motståndet och atmosfären på Strandvallen",
+      "published_at": "2026-08-10T05:57:36+00:00",
+      "updated_at": "2026-08-10T05:57:36+00:00",
+      "title": "Udda scenerna: Jacy dök ner i avgrunden och försvann",
+      "summary": "Den brasilianske fotbollsspelaren Jacy lär nog tänka en gång extra innan han firar sitt mål med att hoppa över en reklamskylt igen. Och bättre blev det inte av att målet senare dömdes bort",
       "category": [
         "Sverige"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.72/0.46/cd9994cd497715aa46487045df34973c15b4a34c0eb528f3ee317ae3a13c7d8d",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/yaya-toure-hyllar-strandvallen-en-riktig-fotbollsarena-698836"
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/udda-scenerna-jacy-dok-ner-i-avgrunden-och-forsvann"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/udda-scenerna-jacy-dok-ner-i-avgrunden-och-forsvann"
       },
-      "confirmed_by": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/yaya-toure-hyllar-strandvallen-en-riktig-fotbollsarena-698836"
-        }
-      ],
-      "id": "yaya-tour-till-strandvallen-sp-nnande-f-r-publiken"
+      "confirmed_by": [],
+      "id": "udda-scenerna-jacy-d-k-ner-i-avgrunden-och-f-rsvann"
     },
     {
       "published_at": "2026-08-10T04:20:11+00:00",
@@ -1497,6 +1385,34 @@
       },
       "confirmed_by": [],
       "id": "s-lockar-kalmar-meriterade-namn-ville-testa-n-got-nytt"
+    },
+    {
+      "published_at": "2026-08-10T04:18:25+00:00",
+      "updated_at": "2026-08-10T04:18:25+00:00",
+      "title": "Arsenal-stjärnan inspirerade till Kalmar-flytten: ”Det är bäst för dig”",
+      "summary": "Charles Sagoe Jr väntade fortfarande på chansen i Arsenal. Efter ett snack med en viss stjärna blev han övertygad om att testa på äventyret i Kalmar. – Jag är jättetacksam över det rådet, så att jag vågade ta steget, säger Charles Sagoe Jr till SVT Sport",
+      "category": [
+        "Sverige",
+        "Premier League"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.67/0.37/011bf750edd87a103ce47e1157d207dfcbec5da02c208c1f3836bd640b73378b",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/arsenal-stjarnan-inspirerade-till-kalmar-flytten-det-ar-bast-for-dig"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/arsenal-stjarnan-inspirerade-till-kalmar-flytten-det-ar-bast-for-dig"
+      },
+      "confirmed_by": [],
+      "id": "arsenal-stj-rnan-inspirerade-till-kalmar-flytten-det-r-b-st-f-r-dig"
     },
     {
       "published_at": "2026-08-09T18:23:37+00:00",
@@ -1632,33 +1548,6 @@
       },
       "confirmed_by": [],
       "id": "m-lvakten-kritiseras-efter-hammarbys-cl-f-rlust-svagt"
-    },
-    {
-      "published_at": "2026-08-08T18:54:23+00:00",
-      "updated_at": "2026-08-08T18:54:23+00:00",
-      "title": "Malmö FF ute ur Champions League",
-      "summary": "Eintracht Frankfurts Laura Freigang, 28, sänkte Malmö FF. MFF är utslaget ur Champions League efter en 2–0-förlust. – Det är en besvikelse blandat med att det finns bra grejer att ta med från matchen, säger Mia Persson till SVT Sport",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.76/0.2/944e12ac68179fab1e4ad51ed2ef1eed477949857bc215ebccd3c4bdd8487cce",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/malmo-ff-ute-ur-champions-league"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/malmo-ff-ute-ur-champions-league"
-      },
-      "confirmed_by": [],
-      "id": "malm-ff-ute-ur-champions-league"
     },
     {
       "published_at": "2026-08-07T16:00:13+00:00",
@@ -1797,38 +1686,10 @@
       "id": "liverpool-throw-away-another-2-0-lead-as-iraola-loses-first-anfield-game"
     },
     {
-      "published_at": "2026-08-09T15:58:00+00:00",
-      "updated_at": "2026-08-09T15:58:00+00:00",
-      "title": "Arsenal concede 'poor goals' as Dortmund win Emirates Cup",
-      "summary": "Arsenal produced more comical defending in pre-season as Borussia Dortmund won 3-2 in north London to win the Emirates Cup",
-      "category": [
-        "Premier League",
-        "Bundesliga"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-arsenal-borussia-dortmund_7317671.jpg?20260809163256",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13571075/arsenal-2-3-borussia-dortmund-mikel-artetas-side-defend-poorly-but-christos-tzolis-shines-as-gunners-lose-emirates-cup"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13571075/arsenal-2-3-borussia-dortmund-mikel-artetas-side-defend-poorly-but-christos-tzolis-shines-as-gunners-lose-emirates-cup"
-      },
-      "confirmed_by": [],
-      "id": "arsenal-concede-poor-goals-as-dortmund-win-emirates-cup"
-    },
-    {
-      "published_at": "2026-08-09T23:50:15+00:00",
-      "updated_at": "2026-08-09T23:50:15+00:00",
-      "title": "Alaves - Getafe, 15 augusti kl. 19:30",
-      "summary": "Ranheim - Strømsgodset IF, 15 augusti kl. 16:00 Fotbollskanalen",
+      "published_at": "2026-08-10T05:00:00+00:00",
+      "updated_at": "2026-08-10T05:00:00+00:00",
+      "title": "Måndag morgon: Gilla läget",
+      "summary": "Malmöspelarna och vi supportrar måste nog lära oss var i näringskedjan vi befinner oss",
       "category": [
         "Sverige"
       ],
@@ -1836,47 +1697,20 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/127252.jpg",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/mandag-morgon-gilla-laget-698993"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/mandag-morgon-gilla-laget-698993"
       },
       "confirmed_by": [],
-      "id": "alaves-getafe-15-augusti-kl-19-30"
-    },
-    {
-      "published_at": "2026-08-09T20:48:00+00:00",
-      "updated_at": "2026-08-09T20:48:00+00:00",
-      "title": "Uppgifter: Rashford får nytt tröjnummer - integreras i United",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-rashford-f-r-nytt-tr-jnummer-integreras-i-united"
+      "id": "m-ndag-morgon-gilla-l-get"
     },
     {
       "published_at": "2026-08-10T05:00:00+00:00",
@@ -1904,33 +1738,6 @@
       },
       "confirmed_by": [],
       "id": "krusnell-inf-r-bp-h-ller-vi-nollan-r-chansen-att-vinna-v-ldigt-stor"
-    },
-    {
-      "published_at": "2026-08-10T05:00:00+00:00",
-      "updated_at": "2026-08-10T05:00:00+00:00",
-      "title": "Måndag morgon: Gilla läget",
-      "summary": "Malmöspelarna och vi supportrar måste nog lära oss var i näringskedjan vi befinner oss",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/127252.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/mandag-morgon-gilla-laget-698993"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/mandag-morgon-gilla-laget-698993"
-      },
-      "confirmed_by": [],
-      "id": "m-ndag-morgon-gilla-l-get"
     },
     {
       "published_at": "2026-08-09T20:28:00+00:00",
