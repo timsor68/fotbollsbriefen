@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T07:08:49.067482+00:00",
+  "updated_at": "2026-08-11T08:57:35.347636+00:00",
   "items": [
     {
       "published_at": "2026-08-10T13:16:51+00:00",
@@ -45,43 +45,6 @@
         }
       ],
       "id": "consortium-including-bezos-advances-talks-for-liverpool-stake"
-    },
-    {
-      "published_at": "2026-08-10T18:11:48+00:00",
-      "updated_at": "2026-08-10T18:11:48+00:00",
-      "title": "Why has Araujo joined Liverpool and where did it go wrong at Barcelona?",
-      "summary": "Ronald Araujo has joined Liverpool on loan from Barcelona. We explain why Liverpool moved for the Uruguay defender and what went wrong at Barcelona",
-      "category": [
-        "Premier League",
-        "La Liga"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6dd0/live/be0d78c0-94c8-11f1-870d-5d08c49babb2.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c4gx5w7egvwo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13570899/ronald-araujo-transfer-news-liverpool-complete-deal-to-sign-barcelona-defender-on-loan-with-option-to-buy"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c4gx5w7egvwo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13570899/ronald-araujo-transfer-news-liverpool-complete-deal-to-sign-barcelona-defender-on-loan-with-option-to-buy"
-        }
-      ],
-      "id": "why-has-araujo-joined-liverpool-and-where-did-it-go-wrong-at-barcelona"
     },
     {
       "published_at": "2026-08-10T08:09:16+00:00",
@@ -419,6 +382,34 @@
       "id": "west-ham-sign-winger-solomon-from-tottenham"
     },
     {
+      "published_at": "2026-08-10T18:11:48+00:00",
+      "updated_at": "2026-08-10T18:11:48+00:00",
+      "title": "Why has Araujo joined Liverpool and where did it go wrong at Barcelona?",
+      "summary": "Ronald Araujo has joined Liverpool on loan from Barcelona. We explain why Liverpool moved for the Uruguay defender and what went wrong at Barcelona",
+      "category": [
+        "Premier League",
+        "La Liga"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6dd0/live/be0d78c0-94c8-11f1-870d-5d08c49babb2.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c4gx5w7egvwo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c4gx5w7egvwo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "why-has-araujo-joined-liverpool-and-where-did-it-go-wrong-at-barcelona"
+    },
+    {
       "published_at": "2026-08-10T16:51:34+00:00",
       "updated_at": "2026-08-10T16:51:34+00:00",
       "title": "Derby 'off market' as takeover deal collapses",
@@ -572,6 +563,61 @@
       "id": "what-pep-chavarria-would-bring-to-chelsea-tenacious-energy-from-an-extremely-busy-left-bac"
     },
     {
+      "published_at": "2026-08-11T07:30:00+00:00",
+      "updated_at": "2026-08-11T07:30:00+00:00",
+      "title": "Filip Jorgensen completes loan switch",
+      "summary": "Filip Jorgensen completes loan switch | News | Official Site Chelsea Football Club",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Official",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Chelsea",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Chelsea",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "filip-jorgensen-completes-loan-switch"
+    },
+    {
+      "published_at": "2026-08-10T18:30:00+00:00",
+      "updated_at": "2026-08-10T18:30:00+00:00",
+      "title": "How Liverpool signed Araujo - and why the deal works",
+      "summary": "Liverpool have confirmed the signing of defender Ronald Araujo from Barcelona",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-ronald-araujo-liverpool_7318505.jpg?20260810190526",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13570899/ronald-araujo-transfer-news-liverpool-complete-deal-to-sign-barcelona-defender-on-loan-with-option-to-buy"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13570899/ronald-araujo-transfer-news-liverpool-complete-deal-to-sign-barcelona-defender-on-loan-with-option-to-buy"
+      },
+      "confirmed_by": [],
+      "id": "how-liverpool-signed-araujo-and-why-the-deal-works"
+    },
+    {
       "published_at": "2026-08-10T17:39:00+00:00",
       "updated_at": "2026-08-10T17:39:00+00:00",
       "title": "Man City in Bouaddi talks with Chelsea's Fernandez also an option",
@@ -598,6 +644,61 @@
       },
       "confirmed_by": [],
       "id": "man-city-in-bouaddi-talks-with-chelsea-s-fernandez-also-an-option"
+    },
+    {
+      "published_at": "2026-08-11T08:30:00+00:00",
+      "updated_at": "2026-08-11T08:30:00+00:00",
+      "title": "FC Hermannstadt på väg att gå under - Simba har brutit sitt kontrakt",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "fc-hermannstadt-p-v-g-att-g-under-simba-har-brutit-sitt-kontrakt"
+    },
+    {
+      "published_at": "2026-08-10T20:35:00+00:00",
+      "updated_at": "2026-08-10T20:35:00+00:00",
+      "title": "Klart: van de Ven förlänger med Tottenham",
+      "summary": "Klart: Vinicius Junior förlänger med Real Madrid Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "klart-van-de-ven-f-rl-nger-med-tottenham"
     },
     {
       "published_at": "2026-08-09T15:42:00+00:00",
@@ -744,6 +845,33 @@
         }
       ],
       "id": "arsenal-stj-rnan-inspirerade-till-kalmar-flytten-det-r-b-st-f-r-dig"
+    },
+    {
+      "published_at": "2026-08-11T07:32:35+00:00",
+      "updated_at": "2026-08-11T07:32:35+00:00",
+      "title": "Australia falls into line with AFC stance but stops short of calling for Infantino’s head",
+      "summary": "Football Australia issues statement in support of Asian federation Calls for ‘clear and credible action’ in response to Fifa crisis Football Australia has joined a growing chorus placing pressure on Fifa president Gianni Infantino by calling for “clear and credible action” in response to the crisis engulfing world football. It stopped short of calling for the Infantino’s resignation, however, in a three-paragraph statement issued on Tuesday, instead backing the Asian Football Confederation hours after its more strident attacks on the Fifa president.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/169d8a40f66255bac26154d4bae440b28b84961f/261_0_3530_2825/master/3530.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=543d06ff424855c921ff86904e0bd554",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/sport/2026/aug/11/football-australia-backs-afc-stance-fifa-crisis-gianni-infantino"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/sport/2026/aug/11/football-australia-backs-afc-stance-fifa-crisis-gianni-infantino"
+      },
+      "confirmed_by": [],
+      "id": "australia-falls-into-line-with-afc-stance-but-stops-short-of-calling-for-infantino-s-head"
     },
     {
       "published_at": "2026-08-10T18:16:49+00:00",
@@ -989,33 +1117,6 @@
       },
       "confirmed_by": [],
       "id": "how-trabzonspor-shocked-turkish-rivals-to-make-mohamed-salah-their-black-sea-saviour"
-    },
-    {
-      "published_at": "2026-08-08T19:00:05+00:00",
-      "updated_at": "2026-08-08T19:00:05+00:00",
-      "title": "Versatile Bruno Guimarães gives Mikel Arteta options to shuffle midfield pack | Ed Aarons",
-      "summary": "While able to play deeper, the onus will also be on Arsenal’s £75m signing to provide creativity in an attack that has struggled to break down the low block Data shows deal could be another set-piece masterstroke If there was one of his many assets Newcastle supporters grew to love above all about Bruno Guimarães then it was best summed up by the man himself after being unveiled as Arsenal’s new £75m signing . “That’s a tough one,” said the Brazil midfielder when asked what fans in north London can expect from him. “I would say I can pass the ball, run a lot and play like a warrior.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "mikel-arteta",
-      "entity_type": "coaches",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/1fdfc60a03b78e56469ec838b6b0a2446f6bf50b/388_0_5772_4617/master/5772.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1345cd3f678c1abd8dd239554dbe594f",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/08/bruno-guimaraes-mikel-arteta-arsenal-options-midfield"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/08/bruno-guimaraes-mikel-arteta-arsenal-options-midfield"
-      },
-      "confirmed_by": [],
-      "id": "versatile-bruno-guimar-es-gives-mikel-arteta-options-to-shuffle-midfield-pack-ed-aarons"
     },
     {
       "published_at": "2026-08-10T16:03:00+00:00",
@@ -1631,33 +1732,6 @@
       "id": "marco-palestra-interview-being-italy-s-fastest-player-following-zola-and-chelsea-ambitions"
     },
     {
-      "published_at": "2026-08-07T04:07:32+00:00",
-      "updated_at": "2026-08-07T04:07:32+00:00",
-      "title": "Brian Madjo: The talented 17-year-old striker Aston Villa can now unleash on the Premier League",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "brian-madjo-the-talented-17-year-old-striker-aston-villa-can-now-unleash-on-the-premier-le"
-    },
-    {
       "published_at": "2026-08-04T12:33:55+00:00",
       "updated_at": "2026-08-04T12:33:55+00:00",
       "title": "Barcelona at St George’s Park: What did Hansi Flick’s team learn from week in England?",
@@ -1683,6 +1757,33 @@
       },
       "confirmed_by": [],
       "id": "barcelona-at-st-george-s-park-what-did-hansi-flick-s-team-learn-from-week-in-england"
+    },
+    {
+      "published_at": "2026-08-11T08:09:00+00:00",
+      "updated_at": "2026-08-11T08:09:00+00:00",
+      "title": "Scot Prem latest: Celtic agree deal for winger",
+      "summary": "Scottish Premiership news, transfers, rumours, gossip and more",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-haissem-hassan-celtic_7315476.jpg?20260806160830",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more"
+      },
+      "confirmed_by": [],
+      "id": "scot-prem-latest-celtic-agree-deal-for-winger"
     },
     {
       "published_at": "2026-08-10T17:57:00+00:00",
@@ -1767,34 +1868,6 @@
       "id": "has-arsenal-s-indifferent-pre-season-revealed-a-surprise-weakness"
     },
     {
-      "published_at": "2026-08-08T22:37:58+00:00",
-      "updated_at": "2026-08-08T22:37:58+00:00",
-      "title": "Chelsea 3-0 AC Milan: Joao Pedro nets double as much-improved Blues bounce back to beat Ruben Amorim's side",
-      "summary": "Read the full report at Sky Sports.",
-      "category": [
-        "Premier League",
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "chelsea-3-0-ac-milan-joao-pedro-nets-double-as-much-improved-blues-bounce-back-to-beat-rub"
-    },
-    {
       "published_at": "2026-08-07T07:00:00+00:00",
       "updated_at": "2026-08-07T07:00:00+00:00",
       "title": "Bayern Munich 2-1 Aston Villa: Min-Jae Kim and Luis Diaz score as Bundesliga champions beat Unai Emery's side",
@@ -1823,6 +1896,61 @@
       "id": "bayern-munich-2-1-aston-villa-min-jae-kim-and-luis-diaz-score-as-bundesliga-champions-beat"
     },
     {
+      "published_at": "2026-08-11T07:35:00+00:00",
+      "updated_at": "2026-08-11T07:35:00+00:00",
+      "title": "Klart: Jörgensen lånas ut till Strasbourg",
+      "summary": "Klart: Jörgensen lånas ut till Strasbourg Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "klart-j-rgensen-l-nas-ut-till-strasbourg"
+    },
+    {
+      "published_at": "2026-08-11T05:43:00+00:00",
+      "updated_at": "2026-08-11T05:43:00+00:00",
+      "title": "Uppgifter: Real Madrid gör nytt försök på Zubimendi",
+      "summary": "Uppgifter: Real Madrid och Vinicius Junior överens Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "La Liga"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "real-madrid",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-real-madrid-g-r-nytt-f-rs-k-p-zubimendi"
+    },
+    {
       "published_at": "2026-08-11T05:18:00+00:00",
       "updated_at": "2026-08-11T05:18:00+00:00",
       "title": "Uppgifter: Roma i samtal om Udogie",
@@ -1849,114 +1977,6 @@
       },
       "confirmed_by": [],
       "id": "uppgifter-roma-i-samtal-om-udogie"
-    },
-    {
-      "published_at": "2026-08-10T21:05:00+00:00",
-      "updated_at": "2026-08-10T21:05:00+00:00",
-      "title": "Larsson fick motta burop: \"Ger mig extra energi\"",
-      "summary": "Larsson fick motta burop: \"Ger mig extra energi\" Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "larsson-fick-motta-burop-ger-mig-extra-energi"
-    },
-    {
-      "published_at": "2026-08-10T21:00:00+00:00",
-      "updated_at": "2026-08-10T21:00:00+00:00",
-      "title": "Rikard Norling: \"Vill de att jag kör vidare gör jag det med glädje\"",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "rikard-norling-vill-de-att-jag-k-r-vidare-g-r-jag-det-med-gl-dje"
-    },
-    {
-      "published_at": "2026-08-10T17:00:00+00:00",
-      "updated_at": "2026-08-10T17:00:00+00:00",
-      "title": "VSK:s sportchef om Ladefoged: \"Inte uttagningsbar\"",
-      "summary": "VSK:s sportchef om Ladefoged: \"Inte uttagningsbar\" Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "vsk-s-sportchef-om-ladefoged-inte-uttagningsbar"
-    },
-    {
-      "published_at": "2026-08-10T13:03:00+00:00",
-      "updated_at": "2026-08-10T13:03:00+00:00",
-      "title": "Uppgifter: Gif Sundsvall stänger av Ion Doros - efter \"incident\" med kollega",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-gif-sundsvall-st-nger-av-ion-doros-efter-incident-med-kollega"
     },
     {
       "published_at": "2026-08-11T06:00:00+00:00",
@@ -2043,7 +2063,7 @@
       "published_at": "2026-08-10T19:12:00+00:00",
       "updated_at": "2026-08-10T19:12:00+00:00",
       "title": "Norrby IF - Örebro SK 3-1: Låt oss säga att det är över",
-      "summary": "ÖSK förlorade ännu en ödesmatch och nu är avståndet till kval fyra poäng och med tanke på lagets icke-form så kommer de förmodligen inte komma ikapp - det är över",
+      "summary": "ÖSK förlorade ännu en ödesmatch och även om avståndet till säker mark bara är fem poäng så känns det kört med tanke på lagets icke-form - det är över",
       "category": [
         "Sverige"
       ],
@@ -2120,33 +2140,6 @@
       },
       "confirmed_by": [],
       "id": "sommarens-b-sta-v-rvningar-otrolig-klass"
-    },
-    {
-      "published_at": "2026-08-10T14:00:00+00:00",
-      "updated_at": "2026-08-10T14:00:00+00:00",
-      "title": "Man Utd latest: Rashford back with squad - what's next? Your views!",
-      "summary": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/26/02/1600x900/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "man-utd-latest-rashford-back-with-squad-what-s-next-your-views"
     }
   ]
 }
