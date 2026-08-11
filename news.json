@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T10:05:43.173588+00:00",
+  "updated_at": "2026-08-11T11:43:46.704961+00:00",
   "items": [
     {
       "published_at": "2026-08-11T09:00:30+00:00",
@@ -46,10 +46,55 @@
       "id": "everton-and-palace-complete-mcneil-johnson-swap"
     },
     {
-      "published_at": "2026-08-11T09:01:18+00:00",
-      "updated_at": "2026-08-11T09:01:18+00:00",
-      "title": "Fulham sign Charles from Southampton for £30m",
-      "summary": "Fulham confirm the signing of Southampton midfielder Shea Charles in a deal worth up to £30m",
+      "published_at": "2026-08-10T13:16:51+00:00",
+      "updated_at": "2026-08-10T13:16:51+00:00",
+      "title": "Consortium including Bezos advances talks for Liverpool stake",
+      "summary": "Group including Amazon founder has held talks with FSG Bhatia and Facebook co-founder Saverin also involved A consortium including the Amazon founder, Jeff Bezos, is close to completing a deal for a 30% stake in Liverpool after months of talks with Fenway Sports Group. The investors are led by Amit Bhatia, the son-in-law of the Indian billionaire Lakshmi Mittal and who previously was a shareholder and director at Queens Park Rangers. The Facebook co-founder Eduardo Saverin is another member of the group who will pay in the region of £1.35bn.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bf9e/live/650f8d00-94b7-11f1-a7ab-8b30adf0800a.png",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13571596/liverpool-amazon-founder-jeff-bezos-nears-deal-to-buy-stake-with-consortium-led-by-amit-bhatia"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/10/liverpool-sale-stake-consortium-jeff-bezos-amazon-fenway-sports-group"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13571596/liverpool-amazon-founder-jeff-bezos-nears-deal-to-buy-stake-with-consortium-led-by-amit-bhatia"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/10/liverpool-sale-stake-consortium-jeff-bezos-amazon-fenway-sports-group"
+        }
+      ],
+      "id": "consortium-including-bezos-advances-talks-for-liverpool-stake"
+    },
+    {
+      "published_at": "2026-08-11T11:05:55+00:00",
+      "updated_at": "2026-08-11T11:05:55+00:00",
+      "title": "Forest sign Sporting's Ivory Coast defender Diomande",
+      "summary": "Nottingham Forest sign Ivory Coast defender Ousmane Diomande from Portuguese club Sporting for a reported £34m",
       "category": [
         "Transfer"
       ],
@@ -57,29 +102,29 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ecd6/live/0c64c710-9566-11f1-bfc0-f9e1bae5b9d9.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0624/live/143d79d0-8b4a-11f1-8139-b39d1c7486b2.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ce3qgzv43d3o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c70g5539dygo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+          "url": "https://www.skysports.com/football/news/11095/13571913/ousmane-diomande-nottingham-forest-sign-sporting-defender-for-34-3m-on-four-year-deal"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ce3qgzv43d3o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/c70g5539dygo?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+          "url": "https://www.skysports.com/football/news/11095/13571913/ousmane-diomande-nottingham-forest-sign-sporting-defender-for-34-3m-on-four-year-deal"
         }
       ],
-      "id": "fulham-sign-charles-from-southampton-for-30m"
+      "id": "forest-sign-sporting-s-ivory-coast-defender-diomande"
     },
     {
       "published_at": "2026-08-10T18:11:48+00:00",
@@ -119,78 +164,42 @@
       "id": "why-has-araujo-joined-liverpool-and-where-did-it-go-wrong-at-barcelona"
     },
     {
-      "published_at": "2026-08-10T13:16:51+00:00",
-      "updated_at": "2026-08-10T13:16:51+00:00",
-      "title": "Consortium including Bezos advances talks for Liverpool stake",
-      "summary": "Group including Amazon founder has held talks with FSG Bhatia and Facebook co-founder Saverin also involved A consortium including the Amazon founder, Jeff Bezos, is close to completing a deal for a 30% stake in Liverpool after months of talks with Fenway Sports Group. The investors are led by Amit Bhatia, the son-in-law of the Indian billionaire Lakshmi Mittal and who previously was a shareholder and director at Queens Park Rangers. The Facebook co-founder Eduardo Saverin is another member of the group who will pay in the region of £1.35bn.",
+      "published_at": "2026-08-11T11:00:24+00:00",
+      "updated_at": "2026-08-11T11:00:24+00:00",
+      "title": "The full story of Vinicius Jr’s Real Madrid contract saga. How close did Arsenal get?",
+      "summary": "Uppgifter: Real Madrid och Vinicius Junior överens Fotbollskanalen",
       "category": [
         "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bf9e/live/650f8d00-94b7-11f1-a7ab-8b30adf0800a.png",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/10/liverpool-sale-stake-consortium-jeff-bezos-amazon-fenway-sports-group"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/10/liverpool-sale-stake-consortium-jeff-bezos-amazon-fenway-sports-group"
-        }
-      ],
-      "id": "consortium-including-bezos-advances-talks-for-liverpool-stake"
-    },
-    {
-      "published_at": "2026-08-07T12:00:11+00:00",
-      "updated_at": "2026-08-07T12:00:11+00:00",
-      "title": "Man City reject Barcelona's £38.5m bid for Rodri",
-      "summary": "Read the full report at BBC Sport.",
-      "category": [
         "La Liga",
         "Transfer"
       ],
       "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
-      "club": "manchester-city",
+      "club": "arsenal",
       "image": "",
       "sources": [
         {
-          "name": "BBC Sport",
+          "name": "The Athletic",
           "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         },
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2VXOEszZmd3YUhHbkFCV0FoOWM5eTd5UG9rR1EtWW9aTDJTNW1wNExONV9PQnhRS2dnQXdfdE5YR0NiRlNlR0lGaHFtcUl4ZGlaMF9yY3BrZGdLQVZIMWNYclpnTGhwa0lsUDVCX2pnQzNKRDl1RExrSHdmaDI3RzByUXlWZk9ZZXNPeENFc3dEc0twZ05LaUFEZ3lLQS1r?oc=5"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "BBC Sport",
+        "name": "The Athletic",
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2VXOEszZmd3YUhHbkFCV0FoOWM5eTd5UG9rR1EtWW9aTDJTNW1wNExONV9PQnhRS2dnQXdfdE5YR0NiRlNlR0lGaHFtcUl4ZGlaMF9yY3BrZGdLQVZIMWNYclpnTGhwa0lsUDVCX2pnQzNKRDl1RExrSHdmaDI3RzByUXlWZk9ZZXNPeENFc3dEc0twZ05LaUFEZ3lLQS1r?oc=5"
         }
       ],
-      "id": "man-city-reject-barcelona-s-38-5m-bid-for-rodri"
+      "id": "the-full-story-of-vinicius-jr-s-real-madrid-contract-saga-how-close-did-arsenal-get"
     },
     {
       "published_at": "2026-08-11T09:34:23+00:00",
@@ -382,6 +391,89 @@
       "id": "ibrahim-mbaye-liverpool-explore-deal-for-paris-saint-germain-winger"
     },
     {
+      "published_at": "2026-08-11T10:10:43+00:00",
+      "updated_at": "2026-08-11T10:10:43+00:00",
+      "title": "Chelsea give Mudryk go-ahead for loan move",
+      "summary": "Chelsea explore potential loan moves for Mykhailo Mudryk as he looks to rebuild his fitness after 20 months out of football",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4177/live/53191220-956a-11f1-8b14-5d44448d174a.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqlx7geg6leo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqlx7geg6leo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "chelsea-give-mudryk-go-ahead-for-loan-move"
+    },
+    {
+      "published_at": "2026-08-11T09:42:20+00:00",
+      "updated_at": "2026-08-11T09:42:20+00:00",
+      "title": "Striker snubbed by Scotland for World Cup signs for Sevilla",
+      "summary": "Sevilla announce £5.5m move, rising to potential £7.6m, for former Scotland youth international striker Robbie Ure to join from Swedish club IK Sirius",
+      "category": [
+        "La Liga",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b214/live/00ae7ab0-956b-11f1-8b14-5d44448d174a.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c7vgj826nnjo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c7vgj826nnjo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "striker-snubbed-by-scotland-for-world-cup-signs-for-sevilla"
+    },
+    {
+      "published_at": "2026-08-11T09:01:18+00:00",
+      "updated_at": "2026-08-11T09:01:18+00:00",
+      "title": "Fulham sign Charles from Southampton for £30m",
+      "summary": "Fulham confirm the signing of Southampton midfielder Shea Charles in a deal worth up to £30m",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ecd6/live/0c64c710-9566-11f1-bfc0-f9e1bae5b9d9.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ce3qgzv43d3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ce3qgzv43d3o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "fulham-sign-charles-from-southampton-for-30m"
+    },
+    {
       "published_at": "2026-08-11T06:00:41+00:00",
       "updated_at": "2026-08-11T06:00:41+00:00",
       "title": "Following Guardiola and captaincy dilemma - Maresca on life at Man City",
@@ -462,61 +554,6 @@
       },
       "confirmed_by": [],
       "id": "who-could-arsenal-sign-after-missing-out-on-vinicius-jr"
-    },
-    {
-      "published_at": "2026-08-10T18:56:56+00:00",
-      "updated_at": "2026-08-10T18:56:56+00:00",
-      "title": "West Ham sign winger Solomon from Tottenham",
-      "summary": "West Ham United sign winger Manor Solomon from Tottenham on a three-year contract",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4b89/live/0f2144e0-94eb-11f1-851e-d7ee390acd9c.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cpq8x2ggdnno?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cpq8x2ggdnno?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "west-ham-sign-winger-solomon-from-tottenham"
-    },
-    {
-      "published_at": "2026-08-10T16:51:34+00:00",
-      "updated_at": "2026-08-10T16:51:34+00:00",
-      "title": "Derby 'off market' as takeover deal collapses",
-      "summary": "Saudi Arabia government official Turki Alalshikh abandons his proposed takeover of Championship club Derby County",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3144/live/4f65b840-94d4-11f1-8a9a-13c674e4e5fe.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm2gk7l7yl7o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm2gk7l7yl7o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "derby-off-market-as-takeover-deal-collapses"
     },
     {
       "published_at": "2026-08-10T18:55:19+00:00",
@@ -701,6 +738,35 @@
       "id": "man-city-in-bouaddi-talks-with-chelsea-s-fernandez-also-an-option"
     },
     {
+      "published_at": "2026-08-11T09:59:00+00:00",
+      "updated_at": "2026-08-11T09:59:00+00:00",
+      "title": "Uppgifter: Inter nära Spence-värvning",
+      "summary": "Uppgifter: Inter nära Spence-värvning Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-inter-n-ra-spence-v-rvning"
+    },
+    {
       "published_at": "2026-08-11T08:30:00+00:00",
       "updated_at": "2026-08-11T08:30:00+00:00",
       "title": "FC Hermannstadt på väg att gå under - Simba har brutit sitt kontrakt",
@@ -728,62 +794,6 @@
       "id": "fc-hermannstadt-p-v-g-att-g-under-simba-har-brutit-sitt-kontrakt"
     },
     {
-      "published_at": "2026-08-09T15:42:00+00:00",
-      "updated_at": "2026-08-09T15:42:00+00:00",
-      "title": "Uppgifter: Gais detaljer från Gravius-värvning",
-      "summary": "Uppgifter: Gais detaljer från Gravius-värvning Fotbollskanalen",
-      "category": [
-        "Sverige",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-gais-detaljer-fr-n-gravius-v-rvning"
-    },
-    {
-      "published_at": "2026-08-06T18:02:00+00:00",
-      "updated_at": "2026-08-06T18:02:00+00:00",
-      "title": "Klart: Vinicius Junior förlänger med Real Madrid",
-      "summary": "Uppgifter: Real Madrid och Vinicius Junior överens Fotbollskanalen",
-      "category": [
-        "Sverige",
-        "La Liga"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "klart-vinicius-junior-f-rl-nger-med-real-madrid"
-    },
-    {
       "published_at": "2026-08-06T11:00:00+00:00",
       "updated_at": "2026-08-06T11:00:00+00:00",
       "title": "Frejs kontrakt löper ut: \"Gått lite trögt senaste tiden\"",
@@ -809,33 +819,6 @@
       },
       "confirmed_by": [],
       "id": "frejs-kontrakt-l-per-ut-g-tt-lite-tr-gt-senaste-tiden"
-    },
-    {
-      "published_at": "2026-08-06T06:59:00+00:00",
-      "updated_at": "2026-08-06T06:59:00+00:00",
-      "title": "Uppgifter: Paananen klar för Kalmar",
-      "summary": "Uppgifter: Paananen klar för Kalmar Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-paananen-klar-f-r-kalmar"
     },
     {
       "published_at": "2026-08-05T12:23:00+00:00",
@@ -984,33 +967,6 @@
       "id": "are-manchester-united-returning-to-relevance-under-michael-carrick-jonathan-wilson"
     },
     {
-      "published_at": "2026-08-10T14:40:46+00:00",
-      "updated_at": "2026-08-10T14:40:46+00:00",
-      "title": "Somali referee Omar Artan grateful for Super Cup chance after World Cup exclusion",
-      "summary": "Referee was refused entry to US in June Will take charge of PSG v Aston Villa on Wednesday The Somali referee Omar Artan, who was refused entry to the US to officiate at the World Cup, has spoken publicly for the first time about the decision and detailed his pride as he prepares to take charge of the Super Cup match between Paris Saint‑Germain and Aston Villa on Wednesday. Uefa awarded the 34-year-old Artan the game a few days after he was prevented from working at the tournament. Artan will make history in Salzburg as the first non-European official to take charge of Uefa’s annual competition between the respective winners of the Champions League and the Europa League.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/96884f755132be1f8145d699dcace17ee1e7643a/8_0_4255_3404/master/4255.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=44b0a53ab4b2fbd9c1e69d1114697fa8",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/10/somali-referee-omar-artan-super-cup-psg-aston-villa-world-cup-exclusion"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/10/somali-referee-omar-artan-super-cup-psg-aston-villa-world-cup-exclusion"
-      },
-      "confirmed_by": [],
-      "id": "somali-referee-omar-artan-grateful-for-super-cup-chance-after-world-cup-exclusion"
-    },
-    {
       "published_at": "2026-08-10T13:39:45+00:00",
       "updated_at": "2026-08-10T13:39:45+00:00",
       "title": "Football Daily | Self-aggrandisement, backslapping and news from the past: it’s José time",
@@ -1090,6 +1046,34 @@
       },
       "confirmed_by": [],
       "id": "arsenal-step-up-push-for-defensive-cover-with-timber-and-saliba-sidelined"
+    },
+    {
+      "published_at": "2026-08-09T21:14:00+00:00",
+      "updated_at": "2026-08-09T21:14:00+00:00",
+      "title": "Transfer roundup: Digne returns to PSG from Villa, Fulham agree £30m deal for Charles",
+      "summary": "Read the full report at The Guardian.",
+      "category": [
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "psg",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "transfer-roundup-digne-returns-to-psg-from-villa-fulham-agree-30m-deal-for-charles"
     },
     {
       "published_at": "2026-08-09T08:00:10+00:00",
@@ -1280,6 +1264,62 @@
       },
       "confirmed_by": [],
       "id": "rebro-v-rnamo-1-3-1-0"
+    },
+    {
+      "published_at": "2026-08-11T09:51:55+00:00",
+      "updated_at": "2026-08-11T09:51:55+00:00",
+      "title": "PSG reach Suzuki agreement with Parma and could involve Juventus",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A",
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "psg",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "psg-reach-suzuki-agreement-with-parma-and-could-involve-juventus"
+    },
+    {
+      "published_at": "2026-08-11T09:08:15+00:00",
+      "updated_at": "2026-08-11T09:08:15+00:00",
+      "title": "Juventus vs. Palermo: Confirmed pre-season friendly line-ups",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "juventus-vs-palermo-confirmed-pre-season-friendly-line-ups"
     },
     {
       "published_at": "2026-08-10T16:45:00+00:00",
@@ -1503,63 +1543,6 @@
       "id": "juventus-agree-personal-terms-with-lucum-as-bologna-talks-continue"
     },
     {
-      "published_at": "2026-08-06T13:30:33+00:00",
-      "updated_at": "2026-08-06T13:30:33+00:00",
-      "title": "Transfer latest: Are Inter the only Serie A title contenders? Will Leao stay at Milan?",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "transfer-latest-are-inter-the-only-serie-a-title-contenders-will-leao-stay-at-milan"
-    },
-    {
-      "published_at": "2026-08-04T12:13:14+00:00",
-      "updated_at": "2026-08-04T12:13:14+00:00",
-      "title": "Report PSG could buy Suzuki and then loan him to Juventus",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A",
-        "Ligue 1",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "psg",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "report-psg-could-buy-suzuki-and-then-loan-him-to-juventus"
-    },
-    {
       "published_at": "2026-08-11T05:13:22+00:00",
       "updated_at": "2026-08-11T05:13:22+00:00",
       "title": "Trump: ”Misstag” att byta ut Infantino",
@@ -1750,36 +1733,9 @@
       "id": "barcelona-at-st-george-s-park-what-did-hansi-flick-s-team-learn-from-week-in-england"
     },
     {
-      "published_at": "2026-08-11T08:09:00+00:00",
-      "updated_at": "2026-08-11T08:09:00+00:00",
-      "title": "Scot Prem latest: Celtic agree deal for winger",
-      "summary": "Scottish Premiership news, transfers, rumours, gossip and more",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-haissem-hassan-celtic_7315476.jpg?20260806160830",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more"
-      },
-      "confirmed_by": [],
-      "id": "scot-prem-latest-celtic-agree-deal-for-winger"
-    },
-    {
-      "published_at": "2026-08-10T17:57:00+00:00",
-      "updated_at": "2026-08-10T17:57:00+00:00",
-      "title": "Tottenham latest: Van de Ven signs new deal but Romero nears exit",
+      "published_at": "2026-08-11T12:14:00+00:00",
+      "updated_at": "2026-08-11T12:14:00+00:00",
+      "title": "Tottenham latest: Spurs not finished in the transfer window, says De Zerbi",
       "summary": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
         "Premier League",
@@ -1802,7 +1758,62 @@
         "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "tottenham-latest-van-de-ven-signs-new-deal-but-romero-nears-exit"
+      "id": "tottenham-latest-spurs-not-finished-in-the-transfer-window-says-de-zerbi"
+    },
+    {
+      "published_at": "2026-08-11T11:55:00+00:00",
+      "updated_at": "2026-08-11T11:55:00+00:00",
+      "title": "Arsenal latest: 'PL rivals offered chance to sign Lewis-Skelly'",
+      "summary": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://e0.365dm.com/25/10/1600x900/skysports-arsenal-news-club_7039237.jpg?20251002155710",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "arsenal-latest-pl-rivals-offered-chance-to-sign-lewis-skelly"
+    },
+    {
+      "published_at": "2026-08-11T08:09:00+00:00",
+      "updated_at": "2026-08-11T08:09:00+00:00",
+      "title": "Scot Prem: Celtic agree deal for Egypt winger as Rangers close in on Driouech",
+      "summary": "Scottish Premiership news, transfers, rumours, gossip and more",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-haissem-hassan-celtic_7315476.jpg?20260806160830",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more"
+      },
+      "confirmed_by": [],
+      "id": "scot-prem-celtic-agree-deal-for-egypt-winger-as-rangers-close-in-on-driouech"
     },
     {
       "published_at": "2026-08-11T08:00:00+00:00",
@@ -1832,33 +1843,6 @@
       "id": "rashford-set-for-reintegration-at-man-utd-but-is-it-a-good-idea"
     },
     {
-      "published_at": "2026-08-10T14:29:00+00:00",
-      "updated_at": "2026-08-10T14:29:00+00:00",
-      "title": "Has Arsenal's indifferent pre-season revealed a surprise weakness?",
-      "summary": "Arsenal have been conceding goals at an alarming rate in pre-season. Has their greatest strength, one that contributed hugely to their Premier League title success last season, become a surprise source of frailty on the eve of the next?",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-arsenal-borussia-dortmund_7317671.jpg?20260809163256",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13571668/arsenal-have-looked-defensively-weak-in-pre-season-can-they-cope-without-william-saliba-as-premier-league-campaign-nears"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13571668/arsenal-have-looked-defensively-weak-in-pre-season-can-they-cope-without-william-saliba-as-premier-league-campaign-nears"
-      },
-      "confirmed_by": [],
-      "id": "has-arsenal-s-indifferent-pre-season-revealed-a-surprise-weakness"
-    },
-    {
       "published_at": "2026-08-07T07:00:00+00:00",
       "updated_at": "2026-08-07T07:00:00+00:00",
       "title": "Bayern Munich 2-1 Aston Villa: Min-Jae Kim and Luis Diaz score as Bundesliga champions beat Unai Emery's side",
@@ -1885,6 +1869,87 @@
       },
       "confirmed_by": [],
       "id": "bayern-munich-2-1-aston-villa-min-jae-kim-and-luis-diaz-score-as-bundesliga-champions-beat"
+    },
+    {
+      "published_at": "2026-08-11T11:21:00+00:00",
+      "updated_at": "2026-08-11T11:21:00+00:00",
+      "title": "Klart: Nottingham värvar Diomande",
+      "summary": "Klart: West Ham värvar Veltman Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "klart-nottingham-v-rvar-diomande"
+    },
+    {
+      "published_at": "2026-08-11T11:01:00+00:00",
+      "updated_at": "2026-08-11T11:01:00+00:00",
+      "title": "Blom om kontraktssituationen - kan bli permanent i BP: \"Får se\"",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "blom-om-kontraktssituationen-kan-bli-permanent-i-bp-f-r-se"
+    },
+    {
+      "published_at": "2026-08-11T10:25:00+00:00",
+      "updated_at": "2026-08-11T10:25:00+00:00",
+      "title": "Klart: Johnson och McNeil byter klubb",
+      "summary": "Klart: Johnson och McNeil byter klubb Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "klart-johnson-och-mcneil-byter-klubb"
     },
     {
       "published_at": "2026-08-11T09:28:00+00:00",
@@ -1917,7 +1982,7 @@
       "published_at": "2026-08-11T08:55:00+00:00",
       "updated_at": "2026-08-11T08:55:00+00:00",
       "title": "Uppgifter: Fenerbahce värvar Lukaku",
-      "summary": "Uppgifter: Fulham värvar Charles Fotbollskanalen",
+      "summary": "Uppgifter: Montreal värvar Sanchez Fotbollskanalen",
       "category": [
         "Sverige"
       ],
@@ -1939,33 +2004,6 @@
       },
       "confirmed_by": [],
       "id": "uppgifter-fenerbahce-v-rvar-lukaku"
-    },
-    {
-      "published_at": "2026-08-11T07:35:00+00:00",
-      "updated_at": "2026-08-11T07:35:00+00:00",
-      "title": "Klart: Jörgensen lånas ut till Strasbourg",
-      "summary": "Klart: Jörgensen lånas ut till Strasbourg Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "klart-j-rgensen-l-nas-ut-till-strasbourg"
     },
     {
       "published_at": "2026-08-11T05:43:00+00:00",
@@ -1994,6 +2032,33 @@
       },
       "confirmed_by": [],
       "id": "uppgifter-real-madrid-g-r-nytt-f-rs-k-p-zubimendi"
+    },
+    {
+      "published_at": "2026-08-11T11:00:00+00:00",
+      "updated_at": "2026-08-11T11:00:00+00:00",
+      "title": "TV-guide: Här kan du se Helsingborg – IFK Värnamo",
+      "summary": "Under tisdagen spelas en match i Superettan mellan Helsingborgs IF och IFK Värnamo. Här är allt om hur du kan se matchen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/6kzqXbijdtO9ii7Ievve43nVQqpmehHcuO4QifTO.png",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/tv-guide-har-kan-du-se-helsingborg-ifk-varnamo-699048"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/tv-guide-har-kan-du-se-helsingborg-ifk-varnamo-699048"
+      },
+      "confirmed_by": [],
+      "id": "tv-guide-h-r-kan-du-se-helsingborg-ifk-v-rnamo"
     },
     {
       "published_at": "2026-08-11T06:00:00+00:00",
@@ -2129,61 +2194,6 @@
       },
       "confirmed_by": [],
       "id": "rebro-f-ll-i-bottenm-tet-vi-ker-ur"
-    },
-    {
-      "published_at": "2026-08-10T17:52:00+00:00",
-      "updated_at": "2026-08-10T17:52:00+00:00",
-      "title": "Sommarens bästa värvningar: ”Otrolig klass”",
-      "summary": "Det svenska sommarfönstret har bjudit på många heta värvningar till och från Allsvenskan. SvenskaFans redaktör Arvid Larsson listar de fem allsvenska nyförvärv som är allra bäst",
-      "category": [
-        "Sverige",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/hrgcM8lSoB5SFjVlxPuQz5IO9bTNTATO141z2uVj.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/sommarens-basta-varvningar-otrolig-klass-699027"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/sommarens-basta-varvningar-otrolig-klass-699027"
-      },
-      "confirmed_by": [],
-      "id": "sommarens-b-sta-v-rvningar-otrolig-klass"
-    },
-    {
-      "published_at": "2026-08-07T00:12:12+00:00",
-      "updated_at": "2026-08-07T00:12:12+00:00",
-      "title": "Le Mans vs. Le Havre AC (15 Aug, 2026) Live Score",
-      "summary": "Read the full report at ESPN.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "ESPN",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "ESPN",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "le-mans-vs-le-havre-ac-15-aug-2026-live-score"
     }
   ]
 }
