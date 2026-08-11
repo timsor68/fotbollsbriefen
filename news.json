@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-08-11T21:49:24.305338+00:00",
+  "updated_at": "2026-08-11T22:42:44.378731+00:00",
   "items": [
+    {
+      "published_at": "2026-08-11T16:57:05+00:00",
+      "updated_at": "2026-08-11T16:57:05+00:00",
+      "title": "Sheff Utd re-sign Man City's Phillips on loan",
+      "summary": "Sheffield United re-sign Manchester City midfielder Kalvin Phillips on a season-long loan deal",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/23a0/live/4f055240-95a4-11f1-8315-25a75e37f071.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c0m7j79j873o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c0m7j79j873o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "id": "sheff-utd-re-sign-man-city-s-phillips-on-loan"
+    },
     {
       "published_at": "2026-08-11T11:05:55+00:00",
       "updated_at": "2026-08-11T11:05:55+00:00",
@@ -109,44 +145,6 @@
         }
       ],
       "id": "why-has-araujo-joined-liverpool-and-where-did-it-go-wrong-at-barcelona"
-    },
-    {
-      "published_at": "2026-08-09T17:12:56+00:00",
-      "updated_at": "2026-08-09T17:12:56+00:00",
-      "title": "Lucas Digne: PSG sign Aston Villa defender in £8.5m deal",
-      "summary": "Read the full report at BBC Sport.",
-      "category": [
-        "Premier League",
-        "Ligue 1",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "psg",
-      "image": "",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd1ZCeWRCM0E5akZNaUZodWZ2TG9lam5FcVQ5Z1NwZnBEbzVWTzhRYUlUN2RCbjVZeFB2clI3QWlfTFh2alRBbW5DOGdVeW5RTG5tX1p6RkVXc3c1T3hVYnlnQUtYQWRtOVB3NnIta3ltUm9URmtpNGFrcmhRTXhSWE96ZHdxckNCZzRUdjlaOUdhblZWQWlQaEd0ekEwdmhGbERFTWFKQ1pyWnJDOE5vTldVSDI?oc=5"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd1ZCeWRCM0E5akZNaUZodWZ2TG9lam5FcVQ5Z1NwZnBEbzVWTzhRYUlUN2RCbjVZeFB2clI3QWlfTFh2alRBbW5DOGdVeW5RTG5tX1p6RkVXc3c1T3hVYnlnQUtYQWRtOVB3NnIta3ltUm9URmtpNGFrcmhRTXhSWE96ZHdxckNCZzRUdjlaOUdhblZWQWlQaEd0ekEwdmhGbERFTWFKQ1pyWnJDOE5vTldVSDI?oc=5"
-        }
-      ],
-      "id": "lucas-digne-psg-sign-aston-villa-defender-in-8-5m-deal"
     },
     {
       "published_at": "2026-08-11T09:34:23+00:00",
@@ -262,6 +260,61 @@
       "id": "ibrahim-mbaye-liverpool-explore-deal-for-paris-saint-germain-winger"
     },
     {
+      "published_at": "2026-08-11T22:18:07+00:00",
+      "updated_at": "2026-08-11T22:18:07+00:00",
+      "title": "Hamer rejoins Coventry City on 'long-term' deal",
+      "summary": "Coventry City re-sign midfielder Gustavo Hamer from Sheffield United on a \"long-term\" contract for an undisclosed fee",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cea6/live/aa768920-95cf-11f1-ab15-735761c39e28.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c629lp48ykwo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c629lp48ykwo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "hamer-rejoins-coventry-city-on-long-term-deal"
+    },
+    {
+      "published_at": "2026-08-11T21:59:39+00:00",
+      "updated_at": "2026-08-11T21:59:39+00:00",
+      "title": "Pogba expected to have Monaco contract terminated",
+      "summary": "Paul Pogba is expected to leave Monaco amid talks over a possible contract termination",
+      "category": [
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4a56/live/fbf54150-95cb-11f1-9a25-d961708b1702.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c74gvp29jyxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c74gvp29jyxo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "pogba-expected-to-have-monaco-contract-terminated"
+    },
+    {
       "published_at": "2026-08-11T20:04:00+00:00",
       "updated_at": "2026-08-11T20:04:00+00:00",
       "title": "Football Daily",
@@ -371,60 +424,6 @@
       "id": "west-bromwich-albion-sign-strasbourg-midfielder-rabby-nzingoula"
     },
     {
-      "published_at": "2026-08-11T14:54:32+00:00",
-      "updated_at": "2026-08-11T14:54:32+00:00",
-      "title": "Why do teams choose not to disclose transfer fees?",
-      "summary": "Our Ask Me Anything team explain why some player transfer fees are undisclosed, plus more of your transfer window questions",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e41c/live/29f9e160-958f-11f1-a7ab-8b30adf0800a.png",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cy0j1284e47o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cy0j1284e47o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "why-do-teams-choose-not-to-disclose-transfer-fees"
-    },
-    {
-      "published_at": "2026-08-11T12:22:08+00:00",
-      "updated_at": "2026-08-11T12:22:08+00:00",
-      "title": "Rangers' Chermiti out for 'significant period' with knee injury",
-      "summary": "Youssef Chermiti faces a long recovery from anterior cruciate ligament damage sustained shortly after Rangers turned down an offer for the striker",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/315d/live/c0c401f0-9433-11f1-ad46-afcadea0bd12.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwyrkkk1kzqo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwyrkkk1kzqo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "rangers-chermiti-out-for-significant-period-with-knee-injury"
-    },
-    {
       "published_at": "2026-08-06T18:02:00+00:00",
       "updated_at": "2026-08-06T18:02:00+00:00",
       "title": "Klart: Vinicius Junior förlänger med Real Madrid",
@@ -460,34 +459,6 @@
         }
       ],
       "id": "klart-vinicius-junior-f-rl-nger-med-real-madrid"
-    },
-    {
-      "published_at": "2026-08-11T20:16:23+00:00",
-      "updated_at": "2026-08-11T20:16:23+00:00",
-      "title": "Monaco and Paul Pogba in talks to terminate contract after six appearances",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "Ligue 1",
-        "Transfer"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "monaco-and-paul-pogba-in-talks-to-terminate-contract-after-six-appearances"
     },
     {
       "published_at": "2026-08-10T18:55:19+00:00",
@@ -854,33 +825,6 @@
       },
       "confirmed_by": [],
       "id": "fc-hermannstadt-p-v-g-att-g-under-simba-har-brutit-sitt-kontrakt"
-    },
-    {
-      "published_at": "2026-08-06T11:00:00+00:00",
-      "updated_at": "2026-08-06T11:00:00+00:00",
-      "title": "Frejs kontrakt löper ut: \"Gått lite trögt senaste tiden\"",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "frejs-kontrakt-l-per-ut-g-tt-lite-tr-gt-senaste-tiden"
     },
     {
       "published_at": "2026-08-06T06:59:00+00:00",
@@ -1576,33 +1520,6 @@
       "id": "milan-agreement-to-loan-athekame-to-olympique-lyonnais"
     },
     {
-      "published_at": "2026-08-09T10:57:51+00:00",
-      "updated_at": "2026-08-09T10:57:51+00:00",
-      "title": "Maldini reveals who he wanted as Italy head coach after Guardiola, Ancelotti and Pirlo",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Coach"
-      ],
-      "status": "Reported",
-      "entity": "pep-guardiola",
-      "entity_type": "coaches",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "maldini-reveals-who-he-wanted-as-italy-head-coach-after-guardiola-ancelotti-and-pirlo"
-    },
-    {
       "published_at": "2026-08-08T16:45:43+00:00",
       "updated_at": "2026-08-08T16:45:43+00:00",
       "title": "Cuadrado: ‘I did not betray Juventus, they broke promise, so I joined Inter’",
@@ -1628,6 +1545,69 @@
       },
       "confirmed_by": [],
       "id": "cuadrado-i-did-not-betray-juventus-they-broke-promise-so-i-joined-inter"
+    },
+    {
+      "published_at": "2026-08-08T11:30:00+00:00",
+      "updated_at": "2026-08-08T11:30:00+00:00",
+      "title": "Torino ready to offer Serie A second chance to Brighton outcast Ferguson",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "brighton",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "torino-ready-to-offer-serie-a-second-chance-to-brighton-outcast-ferguson"
+    },
+    {
+      "published_at": "2026-08-08T13:00:00+00:00",
+      "updated_at": "2026-08-08T13:00:00+00:00",
+      "title": "Kryss i Falkenberg - Nordic United kvitterade sent",
+      "summary": "FFF spelade 1-1 mot Nordic United efter mål av Elias Mohammad. Gulvitt hade superlägen att avgöra via Lion Beqiri och Gabriel Johansson i slutet",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/kryss-mot-nordic-united-698970"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/kryss-mot-nordic-united-698970"
+        }
+      ],
+      "id": "kryss-i-falkenberg-nordic-united-kvitterade-sent"
     },
     {
       "published_at": "2026-08-11T14:12:30+00:00",
@@ -1821,33 +1801,6 @@
       "id": "coventry-latest-he-s-back-hamer-return-confirmed"
     },
     {
-      "published_at": "2026-08-11T17:24:00+00:00",
-      "updated_at": "2026-08-11T17:24:00+00:00",
-      "title": "Man City latest: Forgotten man Phillips moves to Championship club on loan",
-      "summary": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://e0.365dm.com/26/06/1600x900/skysports-enzo-maresca-man-city_7285824.jpg?20260629153129",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "man-city-latest-forgotten-man-phillips-moves-to-championship-club-on-loan"
-    },
-    {
       "published_at": "2026-08-11T21:09:00+00:00",
       "updated_at": "2026-08-11T21:09:00+00:00",
       "title": "Ronaldo marries long-time girlfriend",
@@ -1902,6 +1855,33 @@
       "id": "how-concerned-should-liverpool-be-after-another-pre-season-collapse"
     },
     {
+      "published_at": "2026-08-11T08:00:00+00:00",
+      "updated_at": "2026-08-11T08:00:00+00:00",
+      "title": "Rashford set for reintegration at Man Utd - but is it a good idea?",
+      "summary": "Marcus Rashford will be fully reintegrated into the Manchester United squad after his loan at Barcelona came to an end earlier this summer; Rashford last appeared for United in December 2024; United face Leeds at Dublins Croke Park on Wednesday",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-graphic-marcus-rashford_7318380.jpg?20260810162026",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13571617/marcus-rashford-what-are-manchester-uniteds-plans-to-reintegrate-the-england-forward-after-two-loan-spells"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13571617/marcus-rashford-what-are-manchester-uniteds-plans-to-reintegrate-the-england-forward-after-two-loan-spells"
+      },
+      "confirmed_by": [],
+      "id": "rashford-set-for-reintegration-at-man-utd-but-is-it-a-good-idea"
+    },
+    {
       "published_at": "2026-08-11T19:34:00+00:00",
       "updated_at": "2026-08-11T19:34:00+00:00",
       "title": "Bulat uppges petas mot Hammarby",
@@ -1929,8 +1909,8 @@
       "id": "bulat-uppges-petas-mot-hammarby"
     },
     {
-      "published_at": "2026-08-11T18:23:00+00:00",
-      "updated_at": "2026-08-11T18:23:00+00:00",
+      "published_at": "2026-08-11T18:32:00+00:00",
+      "updated_at": "2026-08-11T18:32:00+00:00",
       "title": "Uppgifter: Besiktas värvar Dusan Vlahovic",
       "summary": "Uppgifter: Besiktas värvar Dusan Vlahovic Fotbollskanalen",
       "category": [
@@ -1954,34 +1934,6 @@
       },
       "confirmed_by": [],
       "id": "uppgifter-besiktas-v-rvar-dusan-vlahovic"
-    },
-    {
-      "published_at": "2026-08-11T18:05:49+00:00",
-      "updated_at": "2026-08-11T18:05:49+00:00",
-      "title": "\"Släkten är värst - CL-mästarna PSG lever farligt\"",
-      "summary": "\"Släkten är värst - CL-mästarna PSG lever farligt\" Fotbollskanalen",
-      "category": [
-        "Sverige",
-        "Ligue 1"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "psg",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "sl-kten-r-v-rst-cl-m-starna-psg-lever-farligt"
     },
     {
       "published_at": "2026-08-11T16:23:00+00:00",
@@ -2036,6 +1988,33 @@
       },
       "confirmed_by": [],
       "id": "uppgifter-elfsborg-v-rvar-esenga-fr-n-fulham"
+    },
+    {
+      "published_at": "2026-08-11T14:02:00+00:00",
+      "updated_at": "2026-08-11T14:02:00+00:00",
+      "title": "Beskedet: Bardghji korsbandsskadad",
+      "summary": "Beskedet: Bardghji korsbandsskadad Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "beskedet-bardghji-korsbandsskadad"
     },
     {
       "published_at": "2026-08-11T20:27:31+00:00",
