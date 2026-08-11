@@ -1,6 +1,43 @@
 {
-  "updated_at": "2026-08-11T22:42:44.378731+00:00",
+  "updated_at": "2026-08-11T23:40:59.802403+00:00",
   "items": [
+    {
+      "published_at": "2026-08-11T21:59:39+00:00",
+      "updated_at": "2026-08-11T21:59:39+00:00",
+      "title": "Pogba expected to have Monaco contract terminated",
+      "summary": "Paul Pogba is expected to leave Monaco amid talks over a possible contract termination",
+      "category": [
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4a56/live/fbf54150-95cb-11f1-9a25-d961708b1702.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c74gvp29jyxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV0pRVTNWd19KbkFkbE5fYjl3TlprV09IRFJyZjY4R1A4ZDV6SFpSdDZiZ3pCLWlYb1o1TmNxN3pxQkxkTzVUYnQwaS1QYnlLOGNOTXlTVjl0elFLZXlMd1M3ejB1MHdFVzdFTHN1aVBET3RJdnppeEZIYkJiQjEwU2dHc05LamhqcUxoM3V5VnRPZw?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c74gvp29jyxo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV0pRVTNWd19KbkFkbE5fYjl3TlprV09IRFJyZjY4R1A4ZDV6SFpSdDZiZ3pCLWlYb1o1TmNxN3pxQkxkTzVUYnQwaS1QYnlLOGNOTXlTVjl0elFLZXlMd1M3ejB1MHdFVzdFTHN1aVBET3RJdnppeEZIYkJiQjEwU2dHc05LamhqcUxoM3V5VnRPZw?oc=5"
+        }
+      ],
+      "id": "pogba-expected-to-have-monaco-contract-terminated"
+    },
     {
       "published_at": "2026-08-11T16:57:05+00:00",
       "updated_at": "2026-08-11T16:57:05+00:00",
@@ -147,43 +184,6 @@
       "id": "why-has-araujo-joined-liverpool-and-where-did-it-go-wrong-at-barcelona"
     },
     {
-      "published_at": "2026-08-11T09:34:23+00:00",
-      "updated_at": "2026-08-11T09:34:23+00:00",
-      "title": "Strasbourg sign Chelsea goalkeeper Filip Jorgensen on loan",
-      "summary": "Filip Jorgensen completes loan switch | News | Official Site Chelsea Football Club",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "Chelsea",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSDNTTWlpNm5oMWtQdTFGTVJLV3JBT0ZMakdKWEM3UjJQazRLY1BqXy1pZHY3YXhlb05KQy1kTUdSc0doSTVNUTVZbDdWMkJmVVZ5RTBRRGE1Zy02aEpWaGU2ZWdLMHlYcVhfSzlEdVlMNTJISHUxbmxDZlhzaGhxYktnYURicXRUQmVMY3RzMkM?oc=5"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [
-        {
-          "name": "Chelsea",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSDNTTWlpNm5oMWtQdTFGTVJLV3JBT0ZMakdKWEM3UjJQazRLY1BqXy1pZHY3YXhlb05KQy1kTUdSc0doSTVNUTVZbDdWMkJmVVZ5RTBRRGE1Zy02aEpWaGU2ZWdLMHlYcVhfSzlEdVlMNTJISHUxbmxDZlhzaGhxYktnYURicXRUQmVMY3RzMkM?oc=5"
-        }
-      ],
-      "id": "strasbourg-sign-chelsea-goalkeeper-filip-jorgensen-on-loan"
-    },
-    {
       "published_at": "2026-08-11T09:05:54+00:00",
       "updated_at": "2026-08-11T09:05:54+00:00",
       "title": "Klart: Robbie Ure klar för Sevilla i rekordövergång",
@@ -287,34 +287,6 @@
       "id": "hamer-rejoins-coventry-city-on-long-term-deal"
     },
     {
-      "published_at": "2026-08-11T21:59:39+00:00",
-      "updated_at": "2026-08-11T21:59:39+00:00",
-      "title": "Pogba expected to have Monaco contract terminated",
-      "summary": "Paul Pogba is expected to leave Monaco amid talks over a possible contract termination",
-      "category": [
-        "Ligue 1",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4a56/live/fbf54150-95cb-11f1-9a25-d961708b1702.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c74gvp29jyxo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c74gvp29jyxo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "pogba-expected-to-have-monaco-contract-terminated"
-    },
-    {
       "published_at": "2026-08-11T20:04:00+00:00",
       "updated_at": "2026-08-11T20:04:00+00:00",
       "title": "Football Daily",
@@ -397,10 +369,10 @@
       "id": "wrexham-sign-sunderland-goalkeeper-patterson"
     },
     {
-      "published_at": "2026-08-11T14:55:56+00:00",
-      "updated_at": "2026-08-11T14:55:56+00:00",
-      "title": "West Bromwich Albion sign Strasbourg midfielder Rabby Nzingoula",
-      "summary": "Read the full report at BBC Sport.",
+      "published_at": "2026-08-11T14:54:32+00:00",
+      "updated_at": "2026-08-11T14:54:32+00:00",
+      "title": "Why do teams choose not to disclose transfer fees?",
+      "summary": "Our Ask Me Anything team explain why some player transfer fees are undisclosed, plus more of your transfer window questions",
       "category": [
         "Transfer"
       ],
@@ -408,20 +380,20 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e41c/live/29f9e160-958f-11f1-a7ab-8b30adf0800a.png",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cy0j1284e47o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cy0j1284e47o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "west-bromwich-albion-sign-strasbourg-midfielder-rabby-nzingoula"
+      "id": "why-do-teams-choose-not-to-disclose-transfer-fees"
     },
     {
       "published_at": "2026-08-06T18:02:00+00:00",
@@ -459,6 +431,34 @@
         }
       ],
       "id": "klart-vinicius-junior-f-rl-nger-med-real-madrid"
+    },
+    {
+      "published_at": "2026-08-11T09:34:23+00:00",
+      "updated_at": "2026-08-11T09:34:23+00:00",
+      "title": "Strasbourg sign Chelsea goalkeeper Filip Jorgensen on loan",
+      "summary": "Strasbourg sign Chelsea goalkeeper Filip Jorgensen on loan The New York Times",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "strasbourg-sign-chelsea-goalkeeper-filip-jorgensen-on-loan"
     },
     {
       "published_at": "2026-08-10T18:55:19+00:00",
@@ -825,33 +825,6 @@
       },
       "confirmed_by": [],
       "id": "fc-hermannstadt-p-v-g-att-g-under-simba-har-brutit-sitt-kontrakt"
-    },
-    {
-      "published_at": "2026-08-06T06:59:00+00:00",
-      "updated_at": "2026-08-06T06:59:00+00:00",
-      "title": "Uppgifter: Paananen klar för Kalmar",
-      "summary": "Uppgifter: Paananen klar för Kalmar Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-paananen-klar-f-r-kalmar"
     },
     {
       "published_at": "2026-08-05T12:23:00+00:00",
@@ -1324,34 +1297,6 @@
       "id": "banda-saga-intensifies-as-figc-refuse-swahly-sc-transfer-due-to-lecce-contract"
     },
     {
-      "published_at": "2026-08-11T14:07:36+00:00",
-      "updated_at": "2026-08-11T14:07:36+00:00",
-      "title": "Official: Lazio forced to terminate sponsorship deal with Polymarket",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "official-lazio-forced-to-terminate-sponsorship-deal-with-polymarket"
-    },
-    {
       "published_at": "2026-08-11T12:31:40+00:00",
       "updated_at": "2026-08-11T12:31:40+00:00",
       "title": "Done Deal: Kristensen ready for Atalanta at €22m plus bonus",
@@ -1491,18 +1436,16 @@
       "id": "lazio-ask-for-miretti-on-loan-but-juventus-want-a-permanent-sale"
     },
     {
-      "published_at": "2026-08-09T18:53:51+00:00",
-      "updated_at": "2026-08-09T18:53:51+00:00",
-      "title": "Milan agreement to loan Athekame to Olympique Lyonnais",
+      "published_at": "2026-08-09T10:57:51+00:00",
+      "updated_at": "2026-08-09T10:57:51+00:00",
+      "title": "Maldini reveals who he wanted as Italy head coach after Guardiola, Ancelotti and Pirlo",
       "summary": "Read the full report at Football Italia.",
       "category": [
-        "Serie A",
-        "Ligue 1",
-        "Transfer"
+        "Coach"
       ],
       "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
+      "entity": "pep-guardiola",
+      "entity_type": "coaches",
       "club": "",
       "image": "",
       "sources": [
@@ -1517,7 +1460,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "milan-agreement-to-loan-athekame-to-olympique-lyonnais"
+      "id": "maldini-reveals-who-he-wanted-as-italy-head-coach-after-guardiola-ancelotti-and-pirlo"
     },
     {
       "published_at": "2026-08-08T16:45:43+00:00",
@@ -1574,40 +1517,32 @@
       "id": "torino-ready-to-offer-serie-a-second-chance-to-brighton-outcast-ferguson"
     },
     {
-      "published_at": "2026-08-08T13:00:00+00:00",
-      "updated_at": "2026-08-08T13:00:00+00:00",
-      "title": "Kryss i Falkenberg - Nordic United kvitterade sent",
-      "summary": "FFF spelade 1-1 mot Nordic United efter mål av Elias Mohammad. Gulvitt hade superlägen att avgöra via Lion Beqiri och Gabriel Johansson i slutet",
+      "published_at": "2026-08-07T11:25:00+00:00",
+      "updated_at": "2026-08-07T11:25:00+00:00",
+      "title": "Juventus agree personal terms with Lucumí as Bologna talks continue",
+      "summary": "Read the full report at Football Italia.",
       "category": [
-        "Sverige"
+        "Serie A",
+        "Transfer"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
       "image": "",
       "sources": [
         {
-          "name": "Fotbollskanalen",
+          "name": "Football Italia",
           "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/kryss-mot-nordic-united-698970"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
+        "name": "Football Italia",
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
-      "confirmed_by": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/kryss-mot-nordic-united-698970"
-        }
-      ],
-      "id": "kryss-i-falkenberg-nordic-united-kvitterade-sent"
+      "confirmed_by": [],
+      "id": "juventus-agree-personal-terms-with-lucum-as-bologna-talks-continue"
     },
     {
       "published_at": "2026-08-11T14:12:30+00:00",
@@ -1882,6 +1817,61 @@
       "id": "rashford-set-for-reintegration-at-man-utd-but-is-it-a-good-idea"
     },
     {
+      "published_at": "2026-08-11T21:45:00+00:00",
+      "updated_at": "2026-08-11T21:45:00+00:00",
+      "title": "Uppgifter: PSG och Barça överens om Torres",
+      "summary": "Uppgifter: PSG och Barça överens om Torres Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "Ligue 1"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "psg",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-psg-och-bar-a-verens-om-torres"
+    },
+    {
+      "published_at": "2026-08-11T20:43:00+00:00",
+      "updated_at": "2026-08-11T20:43:00+00:00",
+      "title": "Beskedet: Bardghji korsbandsskadad",
+      "summary": "Beskedet: Bardghji korsbandsskadad Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "beskedet-bardghji-korsbandsskadad"
+    },
+    {
       "published_at": "2026-08-11T19:34:00+00:00",
       "updated_at": "2026-08-11T19:34:00+00:00",
       "title": "Bulat uppges petas mot Hammarby",
@@ -1907,6 +1897,34 @@
       },
       "confirmed_by": [],
       "id": "bulat-uppges-petas-mot-hammarby"
+    },
+    {
+      "published_at": "2026-08-11T19:28:00+00:00",
+      "updated_at": "2026-08-11T19:28:00+00:00",
+      "title": "Uppgifter: Monaco vill bryta med Pogba",
+      "summary": "Uppgifter: Monaco vill bryta med Pogba Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "Ligue 1"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-monaco-vill-bryta-med-pogba"
     },
     {
       "published_at": "2026-08-11T18:32:00+00:00",
@@ -1936,10 +1954,38 @@
       "id": "uppgifter-besiktas-v-rvar-dusan-vlahovic"
     },
     {
-      "published_at": "2026-08-11T16:23:00+00:00",
-      "updated_at": "2026-08-11T16:23:00+00:00",
-      "title": "Uppgifter: Svensk dragkamp om Wilson",
-      "summary": "Uppgifter: Svensk dragkamp om Wilson Fotbollskanalen",
+      "published_at": "2026-08-11T18:05:49+00:00",
+      "updated_at": "2026-08-11T18:05:49+00:00",
+      "title": "\"Släkten är värst - CL-mästarna PSG lever farligt\"",
+      "summary": "\"Släkten är värst - CL-mästarna PSG lever farligt\" Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "Ligue 1"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "psg",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "sl-kten-r-v-rst-cl-m-starna-psg-lever-farligt"
+    },
+    {
+      "published_at": "2026-08-11T17:25:00+00:00",
+      "updated_at": "2026-08-11T17:25:00+00:00",
+      "title": "Nederländsk media: Ahmedhodzic kan säljas",
+      "summary": "Nederländsk media: Ahmedhodzic kan säljas Fotbollskanalen",
       "category": [
         "Sverige"
       ],
@@ -1960,65 +2006,11 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "uppgifter-svensk-dragkamp-om-wilson"
+      "id": "nederl-ndsk-media-ahmedhodzic-kan-s-ljas"
     },
     {
-      "published_at": "2026-08-11T14:38:00+00:00",
-      "updated_at": "2026-08-11T14:38:00+00:00",
-      "title": "Uppgifter: Elfsborg värvar Esenga från Fulham",
-      "summary": "Uppgifter: Fulham värvar Charles Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-elfsborg-v-rvar-esenga-fr-n-fulham"
-    },
-    {
-      "published_at": "2026-08-11T14:02:00+00:00",
-      "updated_at": "2026-08-11T14:02:00+00:00",
-      "title": "Beskedet: Bardghji korsbandsskadad",
-      "summary": "Beskedet: Bardghji korsbandsskadad Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "beskedet-bardghji-korsbandsskadad"
-    },
-    {
-      "published_at": "2026-08-11T20:27:31+00:00",
-      "updated_at": "2026-08-11T20:27:31+00:00",
+      "published_at": "2026-08-11T20:27:00+00:00",
+      "updated_at": "2026-08-11T20:27:00+00:00",
       "title": "Thörn: En stilla önskan om rationalitet",
       "summary": "\"Det går snabbt att titta ner, säga att saker är för dåliga och lägga den rödhåriga skottens huvud i giljotinen. Bredvid sitter redan bleka, livlösa huvuden från Mellberg, Ljung och Baxter. Ovan sitter människor och handfallet ser på.\"",
       "category": [
