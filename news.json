@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T14:57:41.771332+00:00",
+  "updated_at": "2026-08-12T16:03:37.923955+00:00",
   "items": [
     {
       "published_at": "2026-08-12T08:29:22+00:00",
@@ -126,6 +126,43 @@
         }
       ],
       "id": "matteo-ruggeri-transfer-news-aston-villa-close-in-on-atletico-defender"
+    },
+    {
+      "published_at": "2026-08-12T13:43:30+00:00",
+      "updated_at": "2026-08-12T13:43:30+00:00",
+      "title": "Inter in advanced talks for Spurs full-back Spence",
+      "summary": "Inter Milan are in advanced talks to sign Tottenham and England full-back Djed Spence in a deal worth a minimum of £25.6m",
+      "category": [
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8147/live/d8725e40-9650-11f1-bcb3-97b92581837a.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cvgxz9xd95zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvgxz9xd95zo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "id": "inter-in-advanced-talks-for-spurs-full-back-spence"
     },
     {
       "published_at": "2026-08-12T08:56:17+00:00",
@@ -351,6 +388,71 @@
       "id": "klart-elliot-stroud-l-mnar-mj-llby-flyttar-till-premier-league"
     },
     {
+      "published_at": "2026-08-06T04:26:06+00:00",
+      "updated_at": "2026-08-06T04:26:06+00:00",
+      "title": "Ibrahim Mbaye: Liverpool explore deal for Paris Saint-Germain winger",
+      "summary": "Officiellt: Digne klar för Paris Saint-Germain Fotbollskanalen",
+      "category": [
+        "Premier League",
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNHkwUWNFSjJNektxaXlwc0FIdmRVSGVWbmh1RVgtQ1FqZk1kTnFKbEtncXJWMmtLeVBVWW50TWhET0lEUWhLbDZGN0hNLVAtZENzeGtHeTV5UUI0Xy1IYjJZNjNVQ0dvNU1IOXQzbHVjMVZjZmlPV3JkQXJvVVRsS1l6SzNGMzB4S0M1bVdEQi1DNDNvRFZBbA?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNHkwUWNFSjJNektxaXlwc0FIdmRVSGVWbmh1RVgtQ1FqZk1kTnFKbEtncXJWMmtLeVBVWW50TWhET0lEUWhLbDZGN0hNLVAtZENzeGtHeTV5UUI0Xy1IYjJZNjNVQ0dvNU1IOXQzbHVjMVZjZmlPV3JkQXJvVVRsS1l6SzNGMzB4S0M1bVdEQi1DNDNvRFZBbA?oc=5"
+        }
+      ],
+      "id": "ibrahim-mbaye-liverpool-explore-deal-for-paris-saint-germain-winger"
+    },
+    {
+      "published_at": "2026-08-12T15:03:40+00:00",
+      "updated_at": "2026-08-12T15:03:40+00:00",
+      "title": "Rangers seek striker & are 'playing with fire' in defence",
+      "summary": "Rangers are being \"proactive\" in seeking a new striker after Youssef Chermiti was ruled out long term, says manager Derek McInnes, who warns defensive injuries leave the club \"playing with fire\"",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c572/live/79feccf0-965e-11f1-b61b-4bcfe1167bd9.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/clyjp8d122do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/clyjp8d122do?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "rangers-seek-striker-are-playing-with-fire-in-defence"
+    },
+    {
       "published_at": "2026-08-12T14:20:21+00:00",
       "updated_at": "2026-08-12T14:20:21+00:00",
       "title": "Palace bid for Monaco midfielder Camara rejected",
@@ -379,34 +481,6 @@
       "id": "palace-bid-for-monaco-midfielder-camara-rejected"
     },
     {
-      "published_at": "2026-08-12T13:43:30+00:00",
-      "updated_at": "2026-08-12T13:43:30+00:00",
-      "title": "Inter in advanced talks for Spurs full-back Spence",
-      "summary": "Inter Milan are in advanced talks to sign Tottenham and England full-back Djed Spence, in a deal worth a minimum of £25.6m (30m euros)",
-      "category": [
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8147/live/d8725e40-9650-11f1-bcb3-97b92581837a.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cvgxz9xd95zo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvgxz9xd95zo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "inter-in-advanced-talks-for-spurs-full-back-spence"
-    },
-    {
       "published_at": "2026-08-12T11:24:16+00:00",
       "updated_at": "2026-08-12T11:24:16+00:00",
       "title": "McClean remains Derry City player - Connolly",
@@ -432,34 +506,6 @@
       },
       "confirmed_by": [],
       "id": "mcclean-remains-derry-city-player-connolly"
-    },
-    {
-      "published_at": "2026-08-12T10:27:22+00:00",
-      "updated_at": "2026-08-12T10:27:22+00:00",
-      "title": "Man City sign goalkeeper Rulli from Marseille",
-      "summary": "Manchester City complete the signing of Argentina goalkeeper Geronimo Rulli from Marseille",
-      "category": [
-        "Ligue 1",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/66ad/live/3bd9dcd0-9636-11f1-acde-358da1a6646b.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cvgwz829l04o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvgwz829l04o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "man-city-sign-goalkeeper-rulli-from-marseille"
     },
     {
       "published_at": "2026-08-12T12:00:02+00:00",
@@ -516,6 +562,50 @@
       "id": "lucas-gourna-douath-undergoing-hull-city-medical-ahead-of-transfer-from-red-bull-salzburg"
     },
     {
+      "published_at": "2026-08-10T18:55:19+00:00",
+      "updated_at": "2026-08-10T18:55:19+00:00",
+      "title": "Västerås tog revansch på Djurgården",
+      "summary": "Djurgården krossade västmanlänningarna med hela 6-0 i den första av de två back-to-back mötena. Nu är det dags för \"returen\" på bortaplan och det är ett huvudstadslag med fin form som åker till Västerås för att bärga ytterligare tre poäng. Med 13 inspelade poäng på de fem spelade matcherna efter uppehållet blir det viktigt att fortsätta leverera på planen för att vara kvar i toppskiktet av tabellen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.6/0.34/d1bbbf2995d8b5cd794684a781158a08495d75ceb0c24433231163c0da68fc06",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/vasteras-tog-revansch-pa-djurgarden"
+        },
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNGFkd056dVB6UUY1WVJEekJwX09SZ280MFl6Mkg3UlQxWHR6aV9OMUQybXcxUnhRZFZUT19KT2ZBM3VKMXhEYmlqOEJuVkpyamhPWGdEcGVRZklMbE42NTB0UHp0Vm9FVzdNa1NLNl9EblZRdWJfR0J1bENydGp4ajMzVldfU09NcmpGWjZOeDFHNm5tVzkzUGhB?oc=5"
+        },
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/infor-vasteras-sk-djurgardens-if-698959"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/vasteras-tog-revansch-pa-djurgarden"
+      },
+      "confirmed_by": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNGFkd056dVB6UUY1WVJEekJwX09SZ280MFl6Mkg3UlQxWHR6aV9OMUQybXcxUnhRZFZUT19KT2ZBM3VKMXhEYmlqOEJuVkpyamhPWGdEcGVRZklMbE42NTB0UHp0Vm9FVzdNa1NLNl9EblZRdWJfR0J1bENydGp4ajMzVldfU09NcmpGWjZOeDFHNm5tVzkzUGhB?oc=5"
+        },
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/infor-vasteras-sk-djurgardens-if-698959"
+        }
+      ],
+      "id": "v-ster-s-tog-revansch-p-djurg-rden"
+    },
+    {
       "published_at": "2026-08-10T18:55:15+00:00",
       "updated_at": "2026-08-10T18:55:15+00:00",
       "title": "Sirius tappade 2–0 mot BP – efter mardrömsminuter",
@@ -543,8 +633,46 @@
       "id": "sirius-tappade-2-0-mot-bp-efter-mardr-msminuter"
     },
     {
-      "published_at": "2026-08-12T10:00:00+00:00",
-      "updated_at": "2026-08-12T10:00:00+00:00",
+      "published_at": "2026-08-11T16:22:46+00:00",
+      "updated_at": "2026-08-11T16:22:46+00:00",
+      "title": "Djed Spence nears Tottenham exit with Inter in talks over £25.6m move",
+      "summary": "England defender keen on move to Italian champions Udogie and Porro set to be Spurs’ first-choice full-backs Tottenham are prepared to allow Djed Spence to join Inter, with the England defender expected to cost around €30m (£25.6m). Spence – who started four games at the World Cup, including the semi-final against Argentina – has fallen further down the pecking order at Spurs after the arrival of Andy Robertson from Liverpool. He signed a new four‑year contract in north London at the start of last season but is believed to be keen on joining the Italian champions, with Destiny Udogie and Pedro Porro expected to be Roberto De Zerbi’s preferred full‑backs this season.",
+      "category": [
+        "Premier League",
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://i.guim.co.uk/img/media/6dc5450b4b95614793c2baea932b07322cbca8e6/77_0_3105_2484/master/3105.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8750c232b0407f81d94325e04d2b0e2f",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/11/djed-spence-nears-tottenham-exit-inter-in-talks-over-move"
+        },
+        {
+          "name": "Football Italia",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSThmVDhLYUkzeU9zVzRZRUxpcnpncEkzUHlTU01WUWFsTFY3cEYxMzBYSkxyOE5oZjlFcjc4QlU1WXNvTGlCT0hBNGxXU0J5bGFwWlh0VXVCRDBlTVVpcnpfTE9YbkpuR1hrSXBCZ3I2LWZKVG5HQ2hJR29XdW1tTFRKWdIBgwFBVV95cUxPSThmVDhLYUkzeU9zVzRZRUxpcnpncEkzUHlTU01WUWFsTFY3cEYxMzBYSkxyOE5oZjlFcjc4QlU1WXNvTGlCT0hBNGxXU0J5bGFwWlh0VXVCRDBlTVVpcnpfTE9YbkpuR1hrSXBCZ3I2LWZKVG5HQ2hJR29XdW1tTFRKWQ?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/11/djed-spence-nears-tottenham-exit-inter-in-talks-over-move"
+      },
+      "confirmed_by": [
+        {
+          "name": "Football Italia",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSThmVDhLYUkzeU9zVzRZRUxpcnpncEkzUHlTU01WUWFsTFY3cEYxMzBYSkxyOE5oZjlFcjc4QlU1WXNvTGlCT0hBNGxXU0J5bGFwWlh0VXVCRDBlTVVpcnpfTE9YbkpuR1hrSXBCZ3I2LWZKVG5HQ2hJR29XdW1tTFRKWdIBgwFBVV95cUxPSThmVDhLYUkzeU9zVzRZRUxpcnpncEkzUHlTU01WUWFsTFY3cEYxMzBYSkxyOE5oZjlFcjc4QlU1WXNvTGlCT0hBNGxXU0J5bGFwWlh0VXVCRDBlTVVpcnpfTE9YbkpuR1hrSXBCZ3I2LWZKVG5HQ2hJR29XdW1tTFRKWQ?oc=5"
+        }
+      ],
+      "id": "djed-spence-nears-tottenham-exit-with-inter-in-talks-over-25-6m-move"
+    },
+    {
+      "published_at": "2026-08-12T10:01:14+00:00",
+      "updated_at": "2026-08-12T10:01:14+00:00",
       "title": "Career in pictures: Pep Chavarria",
       "summary": "Career in pictures: Pep Chavarria | News | Official Site Chelsea Football Club",
       "category": [
@@ -597,18 +725,17 @@
       "id": "pep-chavarria-the-sacrifice-journey-and-dream-that-brought-him-to-chelsea"
     },
     {
-      "published_at": "2026-08-12T08:00:00+00:00",
-      "updated_at": "2026-08-12T08:00:00+00:00",
-      "title": "Pep Chavarria signs for Chelsea!",
-      "summary": "Pep Chavarria signs for Chelsea! | News | Official Site Chelsea Football Club",
+      "published_at": "2026-08-12T08:49:35+00:00",
+      "updated_at": "2026-08-12T08:49:35+00:00",
+      "title": "Pep Chavarria | Profile",
+      "summary": "Pep Chavarria | Profile | Official Site Chelsea Football Club",
       "category": [
-        "Premier League",
-        "Transfer"
+        "Football"
       ],
       "status": "Official",
       "entity": "",
       "entity_type": "players",
-      "club": "chelsea",
+      "club": "",
       "image": "",
       "sources": [
         {
@@ -622,7 +749,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "pep-chavarria-signs-for-chelsea"
+      "id": "pep-chavarria-profile"
     },
     {
       "published_at": "2026-08-06T15:38:39+00:00",
@@ -653,33 +780,141 @@
       "id": "la-liga-yan-diomande-signs-with-real-madrid-for-120m"
     },
     {
-      "published_at": "2026-08-06T04:26:06+00:00",
-      "updated_at": "2026-08-06T04:26:06+00:00",
-      "title": "Ibrahim Mbaye: Liverpool explore deal for Paris Saint-Germain winger",
-      "summary": "Read the full report at Sky Sports.",
+      "published_at": "2026-08-12T10:56:00+00:00",
+      "updated_at": "2026-08-12T10:56:00+00:00",
+      "title": "Sade Heinrichs klar för Djurgården",
+      "summary": "Sade Heinrichs klar för Djurgården Fotbollskanalen",
       "category": [
-        "Premier League",
-        "Ligue 1",
-        "Transfer"
+        "Sverige"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "liverpool",
+      "club": "",
       "image": "",
       "sources": [
         {
-          "name": "Sky Sports",
+          "name": "Fotbollskanalen",
           "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Sky Sports",
+        "name": "Fotbollskanalen",
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "ibrahim-mbaye-liverpool-explore-deal-for-paris-saint-germain-winger"
+      "id": "sade-heinrichs-klar-f-r-djurg-rden"
+    },
+    {
+      "published_at": "2026-08-11T09:59:00+00:00",
+      "updated_at": "2026-08-11T09:59:00+00:00",
+      "title": "Uppgifter: Inter nära Spence-värvning",
+      "summary": "Uppgifter: Manneh nära Club Brugge Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-inter-n-ra-spence-v-rvning"
+    },
+    {
+      "published_at": "2026-08-11T08:30:00+00:00",
+      "updated_at": "2026-08-11T08:30:00+00:00",
+      "title": "FC Hermannstadt på väg att gå under - Simba har brutit sitt kontrakt",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "fc-hermannstadt-p-v-g-att-g-under-simba-har-brutit-sitt-kontrakt"
+    },
+    {
+      "published_at": "2026-08-09T18:40:00+00:00",
+      "updated_at": "2026-08-09T18:40:00+00:00",
+      "title": "Mardröm för Kalmar - Gustafsson skadad: \"Vår bästa spelare\"",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "mardr-m-f-r-kalmar-gustafsson-skadad-v-r-b-sta-spelare"
+    },
+    {
+      "published_at": "2026-08-06T11:00:00+00:00",
+      "updated_at": "2026-08-06T11:00:00+00:00",
+      "title": "Frejs kontrakt löper ut: \"Gått lite trögt senaste tiden\"",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "frejs-kontrakt-l-per-ut-g-tt-lite-tr-gt-senaste-tiden"
     },
     {
       "published_at": "2026-08-11T20:03:29+00:00",
@@ -718,40 +953,31 @@
       "id": "slovan-bratislava-slog-ut-mj-llby-i-champions-league-kvalet"
     },
     {
-      "published_at": "2026-08-10T18:55:19+00:00",
-      "updated_at": "2026-08-10T18:55:19+00:00",
-      "title": "Västerås tog revansch på Djurgården",
-      "summary": "Djurgården krossade västmanlänningarna med hela 6-0 i den första av de två back-to-back mötena. Nu är det dags för \"returen\" på bortaplan och det är ett huvudstadslag med fin form som åker till Västerås för att bärga ytterligare tre poäng. Med 13 inspelade poäng på de fem spelade matcherna efter uppehållet blir det viktigt att fortsätta leverera på planen för att vara kvar i toppskiktet av tabellen.",
+      "published_at": "2026-08-12T15:00:34+00:00",
+      "updated_at": "2026-08-12T15:00:34+00:00",
+      "title": "Australia’s brightest young talents are on the move and it bodes well for the Socceroos | Jack Snape",
+      "summary": "Headlined by Nestory Irankunda and Lucas Herrington, almost a third of the World Cup squad are changing clubs with January’s Asian Cup looming From Socceroos to soccer-moves, the World Cup has launched Australia’s top footballers into the transfer vortex, highlighted by this week’s expected signings of Nestory Irankunda and Lucas Herrington at major European clubs. At just 18, Herrington is set to confirm a move to Premier League returnees Hull City from Colorado Rapids in a deal that could eclipse the transfer record for an Australian. The current mark is $38.3m, paid by Leicester to Stoke for Harry Souttar in 2023.",
       "category": [
-        "Sverige"
+        "Transfer"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.6/0.34/d1bbbf2995d8b5cd794684a781158a08495d75ceb0c24433231163c0da68fc06",
+      "image": "https://i.guim.co.uk/img/media/e62fdc02a8366d537b873d7fb6b9b212ff0c4df6/1443_325_3665_2934/master/3665.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b399aeb394def6100440a1addc9714bd",
       "sources": [
         {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/vasteras-tog-revansch-pa-djurgarden"
-        },
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/infor-vasteras-sk-djurgardens-if-698959"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/12/australia-football-talent-socceroos-lucas-herrington-nestory-irankunda-transfers-premier-league"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/vasteras-tog-revansch-pa-djurgarden"
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/12/australia-football-talent-socceroos-lucas-herrington-nestory-irankunda-transfers-premier-league"
       },
-      "confirmed_by": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/infor-vasteras-sk-djurgardens-if-698959"
-        }
-      ],
-      "id": "v-ster-s-tog-revansch-p-djurg-rden"
+      "confirmed_by": [],
+      "id": "australia-s-brightest-young-talents-are-on-the-move-and-it-bodes-well-for-the-socceroos-ja"
     },
     {
       "published_at": "2026-08-12T08:30:27+00:00",
@@ -813,7 +1039,7 @@
       "published_at": "2026-08-11T19:15:09+00:00",
       "updated_at": "2026-08-11T19:15:09+00:00",
       "title": "‘I am quite optimistic’: Newcastle’s Jaissle on leading club after turbulent summer",
-      "summary": "The former Al-Ahli head coach, chosen by the Saudi owners to replace Eddie Howe, admits ‘vacuum’ after sale of three key players Matthias Jaissle has been described as “fire” and a “rockstar”, but his formal “unveiling” as Newcastle’s manager revealed a rather more considered and conservative character than advertised. At the precise moment the clock struck 3pm on Tuesday the 38‑year‑old German walked into a packed media suite at St James’ Park. Before taking his seat on the stage Jaissle, wearing a smartly understated open-necked suit complete with a silk pocket square, took a deep breath and jumped down into audience, making a point of shaking everyone’s hand.",
+      "summary": "The former Al-Ahli head coach, chosen by the Saudi owners to replace Eddie Howe, admits ‘vacuum’ after sale of three key players Matthias Jaissle has been described as “fire” and a “rockstar”, but his formal unveiling as Newcastle’s manager revealed a rather more considered and conservative character than advertised. At the precise moment the clock struck 3pm on Tuesday the 38‑year‑old German walked into a packed media suite at St James’ Park. Before taking his seat on the stage Jaissle, wearing a smartly understated open-necked suit complete with a silk pocket square, took a deep breath and jumped down into audience, making a point of shaking everyone’s hand.",
       "category": [
         "Premier League"
       ],
@@ -835,33 +1061,6 @@
       },
       "confirmed_by": [],
       "id": "i-am-quite-optimistic-newcastle-s-jaissle-on-leading-club-after-turbulent-summer"
-    },
-    {
-      "published_at": "2026-08-11T11:47:24+00:00",
-      "updated_at": "2026-08-11T11:47:24+00:00",
-      "title": "Transfer roundup: Nottingham Forest seal £34m deal for Sporting’s Diomande",
-      "summary": "Fulham sign Shea Charles from Saints for £30m Chelsea’s Filip Jorgensen moves to Strasbourg on loan Nottingham Forest have signed Côte d’Ivoire defender Ousmane Diomande from Sporting for an undisclosed fee, reported to be £34.2m. The 22-year-old centre-half, who featured in the Côte d’Ivoire’s World Cup squad, has agreed a four-year deal with Forest, who have an option for a further year.",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/7f19829162ea9e3f8ef573e8a41a86bc57ae3212/197_0_1620_1296/master/1620.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4761b749b716f0fbc7b908c84860e049",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/11/transfer-roundup-nottingham-forest-ousmane-diomande-fulham-shea-charles"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/11/transfer-roundup-nottingham-forest-ousmane-diomande-fulham-shea-charles"
-      },
-      "confirmed_by": [],
-      "id": "transfer-roundup-nottingham-forest-seal-34m-deal-for-sporting-s-diomande"
     },
     {
       "published_at": "2026-08-11T07:32:35+00:00",
@@ -916,33 +1115,6 @@
       },
       "confirmed_by": [],
       "id": "are-manchester-united-returning-to-relevance-under-michael-carrick-jonathan-wilson"
-    },
-    {
-      "published_at": "2026-08-10T13:39:45+00:00",
-      "updated_at": "2026-08-10T13:39:45+00:00",
-      "title": "Football Daily | Self-aggrandisement, backslapping and news from the past: it’s José time",
-      "summary": "“You don’t do a documentary with a guy who wins nothing,” parps José Mourinho during the trailer for his shiny, new Netflix film, although since 2017, his sole piece of silverware is the 2021-22 Tin Pot with Roma. And while his failure to win anything with Tottenham, Fenerbahce or Benfica didn’t exactly – on paper, at least – make him the most obvious candidate as the author of that opening quote, neither does he immediately feel like the best man to put Florentino Pérez’s Death Star back on course in Madrid. Having boycotted the Geopolitics World Cup due to my dislike of Fifa, Infantino, Trump, etc and therefore having nothing to write about, I’m now ready to pick up my quill and parchment once more.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/94a676c7aa1dc0e2202397503e2114fe37cc82b5/177_98_2662_2130/master/2662.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=234ed76a78357efcbbb7a8e96dbaf581",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/10/football-daily-email-jose-mourinho-manchester-united"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/10/football-daily-email-jose-mourinho-manchester-united"
-      },
-      "confirmed_by": [],
-      "id": "football-daily-self-aggrandisement-backslapping-and-news-from-the-past-it-s-jos-time"
     },
     {
       "published_at": "2026-08-09T08:00:10+00:00",
@@ -1160,62 +1332,6 @@
       },
       "confirmed_by": [],
       "id": "rebro-v-rnamo-1-3-1-0"
-    },
-    {
-      "published_at": "2026-08-12T12:54:26+00:00",
-      "updated_at": "2026-08-12T12:54:26+00:00",
-      "title": "Piccoli agreement with Bologna at €18m plus bonus sparks Serie A domino effect",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "piccoli-agreement-with-bologna-at-18m-plus-bonus-sparks-serie-a-domino-effect"
-    },
-    {
-      "published_at": "2026-08-11T15:29:24+00:00",
-      "updated_at": "2026-08-11T15:29:24+00:00",
-      "title": "Spence eager for Inter as Tottenham consider €30m plus bonus offer",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Premier League",
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "spence-eager-for-inter-as-tottenham-consider-30m-plus-bonus-offer"
     },
     {
       "published_at": "2026-08-11T14:57:02+00:00",
@@ -1439,8 +1555,162 @@
       "id": "cuadrado-i-did-not-betray-juventus-they-broke-promise-so-i-joined-inter"
     },
     {
-      "published_at": "2026-08-12T12:07:09+00:00",
-      "updated_at": "2026-08-12T12:07:09+00:00",
+      "published_at": "2026-08-08T11:30:00+00:00",
+      "updated_at": "2026-08-08T11:30:00+00:00",
+      "title": "Torino ready to offer Serie A second chance to Brighton outcast Ferguson",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "brighton",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "torino-ready-to-offer-serie-a-second-chance-to-brighton-outcast-ferguson"
+    },
+    {
+      "published_at": "2026-08-07T11:25:00+00:00",
+      "updated_at": "2026-08-07T11:25:00+00:00",
+      "title": "Juventus agree personal terms with Lucumí as Bologna talks continue",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "juventus-agree-personal-terms-with-lucum-as-bologna-talks-continue"
+    },
+    {
+      "published_at": "2026-08-11T16:05:00+00:00",
+      "updated_at": "2026-08-11T16:05:00+00:00",
+      "title": "Chelsea make enquiry for Arsenal's Lewis-Skelly",
+      "summary": "Chelsea have made a new enquiry about signing Arsenal's Myles Lewis-Skelly",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://e0.365dm.com/26/05/1600x900/skysports-myles-lewis-skelly_7239246.jpg?20260504202528",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13571919/myles-lewis-skelly-transfer-news-chelsea-make-enquiry-for-arsenal-teenager-amid-long-term-interest-from-blues-and-man-utd"
+        },
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOFBWWEdQOGIxT3FmbE0xckhfQkpZUUxLc1l4bkFhcTJMcktEaUc2blBqM3plNkZpcHJYMC14cERWU2luVVY0SnlHeXQycmRRX3hnaHdzelM3Umc4Z195Qmh4QzlyMFkxTm52eDVkbm9EbVUxbG9GSU9IVE1lUDliR2pYSGdKN2lyaTdYNHN1NzR5ZW9Kb1ZLcnpnUWZTeEt1d0Y3c05CY3l2TkhnUl9tZk9pQQ?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13571919/myles-lewis-skelly-transfer-news-chelsea-make-enquiry-for-arsenal-teenager-amid-long-term-interest-from-blues-and-man-utd"
+      },
+      "confirmed_by": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOFBWWEdQOGIxT3FmbE0xckhfQkpZUUxLc1l4bkFhcTJMcktEaUc2blBqM3plNkZpcHJYMC14cERWU2luVVY0SnlHeXQycmRRX3hnaHdzelM3Umc4Z195Qmh4QzlyMFkxTm52eDVkbm9EbVUxbG9GSU9IVE1lUDliR2pYSGdKN2lyaTdYNHN1NzR5ZW9Kb1ZLcnpnUWZTeEt1d0Y3c05CY3l2TkhnUl9tZk9pQQ?oc=5"
+        }
+      ],
+      "id": "chelsea-make-enquiry-for-arsenal-s-lewis-skelly"
+    },
+    {
+      "published_at": "2026-08-11T16:08:00+00:00",
+      "updated_at": "2026-08-11T16:08:00+00:00",
+      "title": "Avslöjar: Ladefoged träningsvägrar - vill lämna VSK",
+      "summary": "Mikkel Ladefoged vill lämna VSK och vägrar träna, enligt Fotbollskanalen. Det får Västerås-skribenten Stefan Fredriksson att rasa. – Släpper man på det tror jag att man gräver sig en grav för framtiden, säger han",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/ladefoged-traningsvagrar-borde-tvinga-honom-699094"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/ladefoged-traningsvagrar-borde-tvinga-honom-699094"
+        }
+      ],
+      "id": "avsl-jar-ladefoged-tr-ningsv-grar-vill-l-mna-vsk"
+    },
+    {
+      "published_at": "2026-08-12T15:00:57+00:00",
+      "updated_at": "2026-08-12T15:00:57+00:00",
+      "title": "Mjällbyfansen efter förlusten i CL-kvalet: ”Kommer stötta”",
+      "summary": "Mjällby AIF:s dröm om Champions League är över och slovakerna gick som vinnare ur tisdagens kvalmatch. Men hemma bland supportrarna fortsätter stöttningen och kärleken till laget",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.69/0.45/01bec7649f0d444c7995807272d069733cfc96e0470b31cae39405e5969e7c57",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/nyheter/lokalt/blekinge/mjallbyfansen-efter-forlusten-i-cl-kvalet-kommer-stotta"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/nyheter/lokalt/blekinge/mjallbyfansen-efter-forlusten-i-cl-kvalet-kommer-stotta"
+      },
+      "confirmed_by": [],
+      "id": "mj-llbyfansen-efter-f-rlusten-i-cl-kvalet-kommer-st-tta"
+    },
+    {
+      "published_at": "2026-08-12T14:23:24+00:00",
+      "updated_at": "2026-08-12T14:23:24+00:00",
       "title": "What next for Barcelona’s striker search with Torres on his way out and Alvarez pessimism?",
       "summary": "Read the full report at The Athletic.",
       "category": [
@@ -1464,34 +1734,6 @@
       },
       "confirmed_by": [],
       "id": "what-next-for-barcelona-s-striker-search-with-torres-on-his-way-out-and-alvarez-pessimism"
-    },
-    {
-      "published_at": "2026-08-11T15:00:15+00:00",
-      "updated_at": "2026-08-11T15:00:15+00:00",
-      "title": "Vinicius Jr wanted a renewal bonus from Real Madrid – are these a new thing?",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "La Liga",
-        "Transfer"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "vinicius-jr-wanted-a-renewal-bonus-from-real-madrid-are-these-a-new-thing"
     },
     {
       "published_at": "2026-08-11T14:12:30+00:00",
@@ -1533,7 +1775,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.35/0.27/fa98982d32a683346dfa3df815924f0365e62e978b0140fb11d3a94d418997d2",
       "sources": [
         {
           "name": "SVT Sport",
@@ -1603,33 +1845,6 @@
       "id": "bjerkebo-om-nya-ure-rollen-k-nner-mig-bekv-m"
     },
     {
-      "published_at": "2026-08-10T08:46:24+00:00",
-      "updated_at": "2026-08-10T08:46:24+00:00",
-      "title": "Förbunden anklagar Gianni Infantino för bedrägeri i öppet brev",
-      "summary": "Upproret mot Fifa och Gianni Infantino fortsätter. I ett öppet brev anklagar nu Uefas, Concacafs och AFC:s presidenter honom för bedrägeri. ”Det här handlar inte om pengar”, skriver de",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.24/0.43/fbe20467950cc4aa9b30b01c8e04a0be09a43162ff4c63126d173bd36cb116c3",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/forbunden-anklagar-gianni-infantino-for-bedrageri-i-oppet-brev"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/forbunden-anklagar-gianni-infantino-for-bedrageri-i-oppet-brev"
-      },
-      "confirmed_by": [],
-      "id": "f-rbunden-anklagar-gianni-infantino-f-r-bedr-geri-i-ppet-brev"
-    },
-    {
       "published_at": "2026-08-07T16:00:13+00:00",
       "updated_at": "2026-08-07T16:00:13+00:00",
       "title": "Marco Palestra interview: Being Italy’s fastest player, following Zola and Chelsea ambitions",
@@ -1656,35 +1871,6 @@
       },
       "confirmed_by": [],
       "id": "marco-palestra-interview-being-italy-s-fastest-player-following-zola-and-chelsea-ambitions"
-    },
-    {
-      "published_at": "2026-08-12T14:17:00+00:00",
-      "updated_at": "2026-08-12T14:17:00+00:00",
-      "title": "Talks progressing over Wolves deal to sign Wales international James",
-      "summary": "Championship news, transfer latest and gossip plus EFL updates from League One and League Two",
-      "category": [
-        "Premier League",
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/02/1600x900/skysports-zan-vipotnik-swansea_7170892.jpg?20260221141912",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two"
-      },
-      "confirmed_by": [],
-      "id": "talks-progressing-over-wolves-deal-to-sign-wales-international-james"
     },
     {
       "published_at": "2026-08-12T13:45:00+00:00",
@@ -1798,60 +1984,6 @@
       "id": "reminder-that-kvaratskhelia-was-the-best-player-in-europe-last-season"
     },
     {
-      "published_at": "2026-08-11T16:05:00+00:00",
-      "updated_at": "2026-08-11T16:05:00+00:00",
-      "title": "Chelsea make enquiry for Arsenal's Lewis-Skelly",
-      "summary": "Chelsea have made a new enquiry about signing Arsenal's Myles Lewis-Skelly",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/26/05/1600x900/skysports-myles-lewis-skelly_7239246.jpg?20260504202528",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13571919/myles-lewis-skelly-transfer-news-chelsea-make-enquiry-for-arsenal-teenager-amid-long-term-interest-from-blues-and-man-utd"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13571919/myles-lewis-skelly-transfer-news-chelsea-make-enquiry-for-arsenal-teenager-amid-long-term-interest-from-blues-and-man-utd"
-      },
-      "confirmed_by": [],
-      "id": "chelsea-make-enquiry-for-arsenal-s-lewis-skelly"
-    },
-    {
-      "published_at": "2026-08-11T13:00:00+00:00",
-      "updated_at": "2026-08-11T13:00:00+00:00",
-      "title": "Ready for the new EFL season? EVERY GAME LIVE this weekend!",
-      "summary": "Every opening game across the Championship, League One and League is live on Sky Sports this weekend",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/06/1600x900/skysports-efl-efl-fixtures_7277457.jpg?20260619075719",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13550693/live-efl-2026-27-fixtures-on-sky-sports-championship-league-one-league-two-games-dates-kick-off-times"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13550693/live-efl-2026-27-fixtures-on-sky-sports-championship-league-one-league-two-games-dates-kick-off-times"
-      },
-      "confirmed_by": [],
-      "id": "ready-for-the-new-efl-season-every-game-live-this-weekend"
-    },
-    {
       "published_at": "2026-08-11T09:22:00+00:00",
       "updated_at": "2026-08-11T09:22:00+00:00",
       "title": "PSG meet Villa again - what has changed since their last epic match?",
@@ -1879,6 +2011,198 @@
       "id": "psg-meet-villa-again-what-has-changed-since-their-last-epic-match"
     },
     {
+      "published_at": "2026-08-11T08:00:00+00:00",
+      "updated_at": "2026-08-11T08:00:00+00:00",
+      "title": "Rashford set for reintegration at Man Utd - but is it a good idea?",
+      "summary": "Marcus Rashford will be fully reintegrated into the Manchester United squad after his loan at Barcelona came to an end earlier this summer; Rashford last appeared for United in December 2024; United face Leeds at Dublins Croke Park on Wednesday",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-graphic-marcus-rashford_7318380.jpg?20260810162026",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13571617/marcus-rashford-what-are-manchester-uniteds-plans-to-reintegrate-the-england-forward-after-two-loan-spells"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13571617/marcus-rashford-what-are-manchester-uniteds-plans-to-reintegrate-the-england-forward-after-two-loan-spells"
+      },
+      "confirmed_by": [],
+      "id": "rashford-set-for-reintegration-at-man-utd-but-is-it-a-good-idea"
+    },
+    {
+      "published_at": "2026-08-07T07:00:00+00:00",
+      "updated_at": "2026-08-07T07:00:00+00:00",
+      "title": "Bayern Munich 2-1 Aston Villa: Min-Jae Kim and Luis Diaz score as Bundesliga champions beat Unai Emery's side",
+      "summary": "Read the full report at Sky Sports.",
+      "category": [
+        "Premier League",
+        "Bundesliga"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "bayern-munich",
+      "image": "",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "bayern-munich-2-1-aston-villa-min-jae-kim-and-luis-diaz-score-as-bundesliga-champions-beat"
+    },
+    {
+      "published_at": "2026-08-12T14:49:00+00:00",
+      "updated_at": "2026-08-12T14:49:00+00:00",
+      "title": "Uppgifter: Tottenham säljer Spence",
+      "summary": "Uppgifter: Tottenham säljer Spence Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-tottenham-s-ljer-spence"
+    },
+    {
+      "published_at": "2026-08-12T14:38:00+00:00",
+      "updated_at": "2026-08-12T14:38:00+00:00",
+      "title": "Messi överväger att sluta: \"Tvivlar\"",
+      "summary": "Messi överväger att sluta: \"Tvivlar\" Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "lionel-messi",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "messi-verv-ger-att-sluta-tvivlar"
+    },
+    {
+      "published_at": "2026-08-12T13:24:00+00:00",
+      "updated_at": "2026-08-12T13:24:00+00:00",
+      "title": "Uppgifter: Xavi i kontakt med KNVB",
+      "summary": "Uppgifter: Sirius i kontakt med Moses Ogbu Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-xavi-i-kontakt-med-knvb"
+    },
+    {
+      "published_at": "2026-08-12T13:22:00+00:00",
+      "updated_at": "2026-08-12T13:22:00+00:00",
+      "title": "Uppgifter: Aston Villa blickar mot Wan-Bissaka",
+      "summary": "Uppgifter: Aston Villa blickar mot Wan-Bissaka Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-aston-villa-blickar-mot-wan-bissaka"
+    },
+    {
+      "published_at": "2026-08-12T15:30:00+00:00",
+      "updated_at": "2026-08-12T15:30:00+00:00",
+      "title": "Sex och jävligt offside: Några ljusglimtar i misären",
+      "summary": "Malmö FF föll mot Degerfors i söndags. Här är veckans Sex och jävligt offside",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/6oD0IQAlVRjH5gnh9bKMRGzk3wD4Gi9Om194Ys8y.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/sex-och-javligt-offside-nagra-ljusglimtar-i-misaren-699100"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/sex-och-javligt-offside-nagra-ljusglimtar-i-misaren-699100"
+      },
+      "confirmed_by": [],
+      "id": "sex-och-j-vligt-offside-n-gra-ljusglimtar-i-mis-ren"
+    },
+    {
       "published_at": "2026-08-12T14:53:46+00:00",
       "updated_at": "2026-08-12T14:53:46+00:00",
       "title": "Geflepodden #512 Många frågetecken",
@@ -1904,142 +2228,6 @@
       },
       "confirmed_by": [],
       "id": "geflepodden-512-m-nga-fr-getecken"
-    },
-    {
-      "published_at": "2026-08-12T13:58:56+00:00",
-      "updated_at": "2026-08-12T13:58:56+00:00",
-      "title": "Intervjuer inför derbyt - Honkavaara om nya spelaren: \"En väldigt bra avslutare\"",
-      "summary": "Djurgården spelar hemma mot AIK i ett stekhett derby på söndag. Forum 1891 bevakade den öppna träningen där nyförvärvet Sander Ringberg stod för flera fina aktioner. - Framför allt i sista tredjedelen är han väldigt imponerande, säger Jani Honkavaara",
-      "category": [
-        "Sverige",
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2089189.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/intervjuer-infor-derbyt-honkavaara-om-nya-spelaren-en-valdigt-bra-avslutare-699095"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/intervjuer-infor-derbyt-honkavaara-om-nya-spelaren-en-valdigt-bra-avslutare-699095"
-      },
-      "confirmed_by": [],
-      "id": "intervjuer-inf-r-derbyt-honkavaara-om-nya-spelaren-en-v-ldigt-bra-avslutare"
-    },
-    {
-      "published_at": "2026-08-12T13:43:17+00:00",
-      "updated_at": "2026-08-12T13:43:17+00:00",
-      "title": "Ladefoged träningsvägrar: ”Borde tvinga honom”",
-      "summary": "Mikkel Ladefoged vill lämna VSK och vägrar träna, enligt Fotbollskanalen. Det får Västerås-skribenten Stefan Fredriksson att rasa. – Släpper man på det tror jag att man gräver sig en grav för framtiden, säger han",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/h7LIhNrLvopjfayYOiz9EfEAcHiVi6GD1CHXxq4X.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/ladefoged-traningsvagrar-borde-tvinga-honom-699094"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/ladefoged-traningsvagrar-borde-tvinga-honom-699094"
-      },
-      "confirmed_by": [],
-      "id": "ladefoged-tr-ningsv-grar-borde-tvinga-honom"
-    },
-    {
-      "published_at": "2026-08-12T13:39:00+00:00",
-      "updated_at": "2026-08-12T13:39:00+00:00",
-      "title": "Inför KAA Gent – IFK Göteborg",
-      "summary": "Efter söndagens seger mot Kalmar FF är det dags för returen mot KAA Gent på torsdag 20:30. Blåvitt behöver vända 1–0-underläget från den första matchen för att gå vidare till nästa omgång. Där väntar vinnaren mellan Hibernian och KF Shkendija",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/7UT972knnEEOSAwbKU6OaGidVmgKT833c9tjA6O1.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/infor-ifk-goteborg-kaa-gent-699013"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/infor-ifk-goteborg-kaa-gent-699013"
-      },
-      "confirmed_by": [],
-      "id": "inf-r-kaa-gent-ifk-g-teborg"
-    },
-    {
-      "published_at": "2026-08-12T13:09:41+00:00",
-      "updated_at": "2026-08-12T13:09:41+00:00",
-      "title": "Honkavaaras derby-utspel: Inget mer Sturehof",
-      "summary": "Djurgården firade vårens derbyseger mot AIK på Sturehof. Men så kommer det inte bli vid en eventuell seger på söndag. – Det räcker, säger Djurgårds-tränaren till Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/4VdlVlu0lJsZ6edAAaAVFHBczauZHdS4F23QiSXy.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/honkavaaras-derby-utspel-inget-mer-sturehof-699091"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/honkavaaras-derby-utspel-inget-mer-sturehof-699091"
-      },
-      "confirmed_by": [],
-      "id": "honkavaaras-derby-utspel-inget-mer-sturehof"
-    },
-    {
-      "published_at": "2026-08-07T00:12:12+00:00",
-      "updated_at": "2026-08-07T00:12:12+00:00",
-      "title": "Le Mans vs. Le Havre AC (15 Aug, 2026) Live Score",
-      "summary": "Read the full report at ESPN.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "ESPN",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "ESPN",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "le-mans-vs-le-havre-ac-15-aug-2026-live-score"
     }
   ]
 }
