@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T17:57:36.468029+00:00",
+  "updated_at": "2026-08-13T19:13:07.809168+00:00",
   "items": [
     {
       "published_at": "2026-08-07T12:00:11+00:00",
@@ -58,7 +58,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/70a8/live/c5ff88a0-971d-11f1-870d-5d08c49babb2.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6bc7/live/e2c4de90-9740-11f1-870d-5d08c49babb2.jpg",
       "sources": [
         {
           "name": "BBC Sport",
@@ -176,7 +176,7 @@
         },
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/12/atletico-madrid-agree-deal-tottenham-cristian-romero"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYWJYZnMzMlREbDVOazhELXpQTXFicm5CdThLUTFIWjFYTVl0S0xQaGxNT0VESWFMN3BiUjB0bVFyNGVhSjFSNEltTDA4LUtudlU0X3gwaV9tM1FGYXE0WDJWSGtmUWFteUc1UFBQZG5fYVkyTDRRV2dNdlNjQnhYMDZ5bWsxSkpiS3lIalBWZi1zWXJLYXdhT0FnVFFGb0NoVUZJ?oc=5"
         }
       ],
       "language": "en",
@@ -187,19 +187,56 @@
       "confirmed_by": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/12/atletico-madrid-agree-deal-tottenham-cristian-romero"
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYWJYZnMzMlREbDVOazhELXpQTXFicm5CdThLUTFIWjFYTVl0S0xQaGxNT0VESWFMN3BiUjB0bVFyNGVhSjFSNEltTDA4LUtudlU0X3gwaV9tM1FGYXE0WDJWSGtmUWFteUc1UFBQZG5fYVkyTDRRV2dNdlNjQnhYMDZ5bWsxSkpiS3lIalBWZi1zWXJLYXdhT0FnVFFGb0NoVUZJ?oc=5"
         }
       ],
       "id": "atletico-agree-34m-deal-for-tottenham-s-romero"
     },
     {
-      "published_at": "2026-08-11T08:17:28+00:00",
-      "updated_at": "2026-08-11T08:17:28+00:00",
-      "title": "Chelsea news: Filip Jorgensen joins Strasbourg on loan",
-      "summary": "Filip Jorgensen completes loan switch | News | Official Site Chelsea Football Club",
+      "published_at": "2026-08-12T13:56:24+00:00",
+      "updated_at": "2026-08-12T13:56:24+00:00",
+      "title": "Matteo Ruggeri transfer news: Aston Villa close in on Atletico defender",
+      "summary": "Read the full report at BBC Sport.",
       "category": [
         "Premier League",
+        "La Liga",
         "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTmoyNmZHUjdfdjJlSlJ4U2YybmhMNmlWbXRhWm5KTXF1bjNwdjRFYl9ubWJqR0xVMjNfOHVsU0tKb20tUjRfbGFMMlpuYVJGY285RE5KYThZSHMxUzUtWGtWbzhkUkF5NVFNY0RNMEJvVFQ4ZHpMN2FmaEZXZ3kyNHc1REkwS0UwMGFRNFZlSXpfUQ?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTmoyNmZHUjdfdjJlSlJ4U2YybmhMNmlWbXRhWm5KTXF1bjNwdjRFYl9ubWJqR0xVMjNfOHVsU0tKb20tUjRfbGFMMlpuYVJGY285RE5KYThZSHMxUzUtWGtWbzhkUkF5NVFNY0RNMEJvVFQ4ZHpMN2FmaEZXZ3kyNHc1REkwS0UwMGFRNFZlSXpfUQ?oc=5"
+        }
+      ],
+      "id": "matteo-ruggeri-transfer-news-aston-villa-close-in-on-atletico-defender"
+    },
+    {
+      "published_at": "2026-08-12T08:29:22+00:00",
+      "updated_at": "2026-08-12T08:29:22+00:00",
+      "title": "Pep Chavarria: The late bloomer left-back joining Chelsea",
+      "summary": "Read the full report at BBC Sport.",
+      "category": [
+        "Premier League"
       ],
       "status": "Confirmed by multiple sources",
       "entity": "",
@@ -212,8 +249,8 @@
           "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         },
         {
-          "name": "Chelsea",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSDNTTWlpNm5oMWtQdTFGTVJLV3JBT0ZMakdKWEM3UjJQazRLY1BqXy1pZHY3YXhlb05KQy1kTUdSc0doSTVNUTVZbDdWMkJmVVZ5RTBRRGE1Zy02aEpWaGU2ZWdLMHlYcVhfSzlEdVlMNTJISHUxbmxDZlhzaGhxYktnYURicXRUQmVMY3RzMkM?oc=5"
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUVpxc3g4UW1BZjRUVlZPWWZvWjhnVkRjQnFkR3lkMEdONzluM2JjM1lQWjBXdV9iVWxxZnFCUHJ5U0lfZFNuWXVtWGZ6c2pGVW5QNFFIRDhabWhuZ2E4VHlHNjkweFRsck9ZakxXbm9CR2hEejZpbmoyLXczU3VHNnJBWFFYRlg5SExTVUphU3VGdw?oc=5"
         }
       ],
       "language": "en",
@@ -223,11 +260,86 @@
       },
       "confirmed_by": [
         {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUVpxc3g4UW1BZjRUVlZPWWZvWjhnVkRjQnFkR3lkMEdONzluM2JjM1lQWjBXdV9iVWxxZnFCUHJ5U0lfZFNuWXVtWGZ6c2pGVW5QNFFIRDhabWhuZ2E4VHlHNjkweFRsck9ZakxXbm9CR2hEejZpbmoyLXczU3VHNnJBWFFYRlg5SExTVUphU3VGdw?oc=5"
+        }
+      ],
+      "id": "pep-chavarria-the-late-bloomer-left-back-joining-chelsea"
+    },
+    {
+      "published_at": "2026-08-13T18:58:04+00:00",
+      "updated_at": "2026-08-13T18:58:04+00:00",
+      "title": "Paris Saint-Germain agree deal in region of €50m to sign Barcelona forward Ferran Torres",
+      "summary": "Officiellt: Digne klar för Paris Saint-Germain Fotbollskanalen",
+      "category": [
+        "La Liga",
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "barcelona",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNHkwUWNFSjJNektxaXlwc0FIdmRVSGVWbmh1RVgtQ1FqZk1kTnFKbEtncXJWMmtLeVBVWW50TWhET0lEUWhLbDZGN0hNLVAtZENzeGtHeTV5UUI0Xy1IYjJZNjNVQ0dvNU1IOXQzbHVjMVZjZmlPV3JkQXJvVVRsS1l6SzNGMzB4S0M1bVdEQi1DNDNvRFZBbA?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNHkwUWNFSjJNektxaXlwc0FIdmRVSGVWbmh1RVgtQ1FqZk1kTnFKbEtncXJWMmtLeVBVWW50TWhET0lEUWhLbDZGN0hNLVAtZENzeGtHeTV5UUI0Xy1IYjJZNjNVQ0dvNU1IOXQzbHVjMVZjZmlPV3JkQXJvVVRsS1l6SzNGMzB4S0M1bVdEQi1DNDNvRFZBbA?oc=5"
+        }
+      ],
+      "id": "paris-saint-germain-agree-deal-in-region-of-50m-to-sign-barcelona-forward-ferran-torres"
+    },
+    {
+      "published_at": "2026-08-11T09:34:23+00:00",
+      "updated_at": "2026-08-11T09:34:23+00:00",
+      "title": "Strasbourg sign Chelsea goalkeeper Filip Jorgensen on loan",
+      "summary": "Filip Jorgensen completes loan switch | News | Official Site Chelsea Football Club",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
           "name": "Chelsea",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSDNTTWlpNm5oMWtQdTFGTVJLV3JBT0ZMakdKWEM3UjJQazRLY1BqXy1pZHY3YXhlb05KQy1kTUdSc0doSTVNUTVZbDdWMkJmVVZ5RTBRRGE1Zy02aEpWaGU2ZWdLMHlYcVhfSzlEdVlMNTJISHUxbmxDZlhzaGhxYktnYURicXRUQmVMY3RzMkM?oc=5"
         }
       ],
-      "id": "chelsea-news-filip-jorgensen-joins-strasbourg-on-loan"
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "Chelsea",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSDNTTWlpNm5oMWtQdTFGTVJLV3JBT0ZMakdKWEM3UjJQazRLY1BqXy1pZHY3YXhlb05KQy1kTUdSc0doSTVNUTVZbDdWMkJmVVZ5RTBRRGE1Zy02aEpWaGU2ZWdLMHlYcVhfSzlEdVlMNTJISHUxbmxDZlhzaGhxYktnYURicXRUQmVMY3RzMkM?oc=5"
+        }
+      ],
+      "id": "strasbourg-sign-chelsea-goalkeeper-filip-jorgensen-on-loan"
     },
     {
       "published_at": "2026-08-11T09:05:54+00:00",
@@ -343,59 +455,31 @@
       "id": "chelsea-set-man-city-deadline-to-bid-for-fernandez"
     },
     {
-      "published_at": "2026-08-13T17:49:02+00:00",
-      "updated_at": "2026-08-13T17:49:02+00:00",
-      "title": "Arsenal invite offers for Martinelli and Nwaneri",
-      "summary": "Arsenal hold talks with Galatasaray over the prospect of selling various squad members as the Gunners invite offers for Gabriel Martinelli and Ethan Nwaneri",
+      "published_at": "2026-08-13T18:41:31+00:00",
+      "updated_at": "2026-08-13T18:41:31+00:00",
+      "title": "PSV winger Driouech at Ibrox before expected Rangers move",
+      "summary": "PSV Eindhoven winger Couhaib Driouech is at Ibrox to watch Rangers face Jagiellonia Bialystok pending a transfer to the Scottish Premiership club",
       "category": [
-        "Premier League"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3e84/live/424ccc70-973b-11f1-bbb3-ebc49f706d46.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwy42yqwk30o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwy42yqwk30o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "arsenal-invite-offers-for-martinelli-and-nwaneri"
-    },
-    {
-      "published_at": "2026-08-13T15:47:45+00:00",
-      "updated_at": "2026-08-13T15:47:45+00:00",
-      "title": "Fresh talks over Arsenal move for Aston Villa's Konsa",
-      "summary": "Aston Villa's central defender Ezri Konsa is thought to be Arsenal's preferred option in their search for a new central defender",
-      "category": [
-        "Premier League",
         "Transfer"
       ],
       "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5561/live/cf599bf0-965c-11f1-a654-971f565de941.jpg",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/deb0/live/87da8140-9620-11f1-adec-3f90c109009f.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cx2v175j40zo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwyl368n7p3o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx2v175j40zo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwyl368n7p3o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "fresh-talks-over-arsenal-move-for-aston-villa-s-konsa"
+      "id": "psv-winger-driouech-at-ibrox-before-expected-rangers-move"
     },
     {
       "published_at": "2026-08-10T18:55:19+00:00",
@@ -806,34 +890,6 @@
       "id": "mardr-m-f-r-kalmar-gustafsson-skadad-v-r-b-sta-spelare"
     },
     {
-      "published_at": "2026-08-09T19:22:00+00:00",
-      "updated_at": "2026-08-09T19:22:00+00:00",
-      "title": "Officiellt: Digne klar för Paris Saint-Germain",
-      "summary": "Officiellt: Digne klar för Paris Saint-Germain Fotbollskanalen",
-      "category": [
-        "Sverige",
-        "Ligue 1"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "psg",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "officiellt-digne-klar-f-r-paris-saint-germain"
-    },
-    {
       "published_at": "2026-08-09T15:42:00+00:00",
       "updated_at": "2026-08-09T15:42:00+00:00",
       "title": "Uppgifter: Gais detaljer från Gravius-värvning",
@@ -860,6 +916,42 @@
       },
       "confirmed_by": [],
       "id": "uppgifter-gais-detaljer-fr-n-gravius-v-rvning"
+    },
+    {
+      "published_at": "2026-08-13T12:00:32+00:00",
+      "updated_at": "2026-08-13T12:00:32+00:00",
+      "title": "Brian Madjo: Meet Aston Villa’s 17-year-old striker ready to take on the Premier League",
+      "summary": "Read the full report at The Athletic.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZWxsUEM2end5RVFVX2RqNlhXYTNQRHpYb0JMYk1PREl6OUo5cVNQeE45dnhSdUtITjRERmlobnY2cTFBQXdvUkp5Z2Y5djJXd1NCYWtJMDZ1RmZOTVVzSzdwWW13WGlYX00wakdUR3dwc0FzLVFTQzloVXNyc09GQVJ3bVk3VGhzeXRORHBiazE?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZWxsUEM2end5RVFVX2RqNlhXYTNQRHpYb0JMYk1PREl6OUo5cVNQeE45dnhSdUtITjRERmlobnY2cTFBQXdvUkp5Z2Y5djJXd1NCYWtJMDZ1RmZOTVVzSzdwWW13WGlYX00wakdUR3dwc0FzLVFTQzloVXNyc09GQVJ3bVk3VGhzeXRORHBiazE?oc=5"
+        }
+      ],
+      "id": "brian-madjo-meet-aston-villa-s-17-year-old-striker-ready-to-take-on-the-premier-league"
     },
     {
       "published_at": "2026-08-11T20:03:29+00:00",
@@ -1281,6 +1373,33 @@
       "id": "presentation-av-claesson-motaraghebjafarpour-mella"
     },
     {
+      "published_at": "2026-08-13T16:49:07+00:00",
+      "updated_at": "2026-08-13T16:49:07+00:00",
+      "title": "Monza lose captain Pessina ‘for a while’ after serious knee injury, confirms Juric",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "monza-lose-captain-pessina-for-a-while-after-serious-knee-injury-confirms-juric"
+    },
+    {
       "published_at": "2026-08-13T16:21:55+00:00",
       "updated_at": "2026-08-13T16:21:55+00:00",
       "title": "Vlahovic goodbye to Juventus after signing new Besiktas contract",
@@ -1307,6 +1426,33 @@
       },
       "confirmed_by": [],
       "id": "vlahovic-goodbye-to-juventus-after-signing-new-besiktas-contract"
+    },
+    {
+      "published_at": "2026-08-13T16:05:24+00:00",
+      "updated_at": "2026-08-13T16:05:24+00:00",
+      "title": "Esposito new medical certificate extends Cagliari feud to 25 days",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "esposito-new-medical-certificate-extends-cagliari-feud-to-25-days"
     },
     {
       "published_at": "2026-08-13T11:42:55+00:00",
@@ -1363,34 +1509,6 @@
       },
       "confirmed_by": [],
       "id": "piccoli-agreement-with-bologna-at-18m-plus-bonus-sparks-serie-a-domino-effect"
-    },
-    {
-      "published_at": "2026-08-11T15:29:24+00:00",
-      "updated_at": "2026-08-11T15:29:24+00:00",
-      "title": "Spence eager for Inter as Tottenham consider €30m plus bonus offer",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Premier League",
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "spence-eager-for-inter-as-tottenham-consider-30m-plus-bonus-offer"
     },
     {
       "published_at": "2026-08-11T14:57:02+00:00",
@@ -1530,34 +1648,6 @@
       "id": "torino-ready-to-offer-serie-a-second-chance-to-brighton-outcast-ferguson"
     },
     {
-      "published_at": "2026-08-07T11:25:00+00:00",
-      "updated_at": "2026-08-07T11:25:00+00:00",
-      "title": "Juventus agree personal terms with Lucumí as Bologna talks continue",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "juventus-agree-personal-terms-with-lucum-as-bologna-talks-continue"
-    },
-    {
       "published_at": "2026-08-11T13:31:03+00:00",
       "updated_at": "2026-08-11T13:31:03+00:00",
       "title": "Mourinho's return adds extra spice to LaLiga title race",
@@ -1585,6 +1675,33 @@
       "id": "mourinho-s-return-adds-extra-spice-to-laliga-title-race"
     },
     {
+      "published_at": "2026-08-13T18:55:33+00:00",
+      "updated_at": "2026-08-13T18:55:33+00:00",
+      "title": "Hammarby missar Europaspel – Amin Boudri utvisad i returen mot Raków",
+      "summary": "Hammarby är utslaget ur Conference League-kvalet och missar därmed Europaspel. Hemma mot Raków Częstochowa föll man med 0–1 – efter att Amin Boudri dragit på sig ett rött kort. – Jag är jävligt arg och frustrerad, säger Paulos Abraham i Aftonbladets sändning",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.84/0.44/799843a01c7011ab1c6ef0ec35fd82e45dc19e412ed85b2fe9947d82539223b5",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/hammarby-missar-europaspel-amin-boudri-utvisad-i-returen-mot-rakow"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/hammarby-missar-europaspel-amin-boudri-utvisad-i-returen-mot-rakow"
+      },
+      "confirmed_by": [],
+      "id": "hammarby-missar-europaspel-amin-boudri-utvisad-i-returen-mot-rak-w"
+    },
+    {
       "published_at": "2026-08-13T13:02:58+00:00",
       "updated_at": "2026-08-13T13:02:58+00:00",
       "title": "Michaely Bihinas supermatch i afrikanska mästerskapen: Räddade fyra straffar",
@@ -1610,6 +1727,33 @@
       },
       "confirmed_by": [],
       "id": "michaely-bihinas-supermatch-i-afrikanska-m-sterskapen-r-ddade-fyra-straffar"
+    },
+    {
+      "published_at": "2026-08-13T11:50:45+00:00",
+      "updated_at": "2026-08-13T11:50:45+00:00",
+      "title": "Supercopa de Espana moves to Istanbul from Saudi Arabia for 2027",
+      "summary": "Read the full report at The Athletic.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "supercopa-de-espana-moves-to-istanbul-from-saudi-arabia-for-2027"
     },
     {
       "published_at": "2026-08-13T08:41:22+00:00",
@@ -1664,6 +1808,34 @@
       },
       "confirmed_by": [],
       "id": "superfanet-britt-63-lever-f-r-vsk-bytte-efternamn-till-klubbens-f-rger"
+    },
+    {
+      "published_at": "2026-08-12T21:35:14+00:00",
+      "updated_at": "2026-08-12T21:35:14+00:00",
+      "title": "PSG 2-1 Aston Villa: Is Kvaratskhelia the most talented player in the world? Has a new star been born for Villa?",
+      "summary": "Read the full report at The Athletic.",
+      "category": [
+        "Premier League",
+        "Ligue 1"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "psg",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "psg-2-1-aston-villa-is-kvaratskhelia-the-most-talented-player-in-the-world-has-a-new-star-"
     },
     {
       "published_at": "2026-08-12T15:00:57+00:00",
@@ -1721,60 +1893,6 @@
       "id": "barcelona-bekr-ftar-roony-bardghji-korsbandsskadad-ska-opereras"
     },
     {
-      "published_at": "2026-08-11T05:13:22+00:00",
-      "updated_at": "2026-08-11T05:13:22+00:00",
-      "title": "Trump: ”Misstag” att byta ut Infantino",
-      "summary": "Fifas ordförande Gianni Infantino har fått omfattande kritik de senaste veckorna. Nu kommer USA:s president Donald Trump till hans försvar. ”Han är fantastisk”, skriver presidenten",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.35/0.27/fa98982d32a683346dfa3df815924f0365e62e978b0140fb11d3a94d418997d2",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/trump-misstag-att-byta-ut-infantino"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/trump-misstag-att-byta-ut-infantino"
-      },
-      "confirmed_by": [],
-      "id": "trump-misstag-att-byta-ut-infantino"
-    },
-    {
-      "published_at": "2026-08-13T18:50:00+00:00",
-      "updated_at": "2026-08-13T18:50:00+00:00",
-      "title": "FREE STREAM: The Transfer Show on Sky Sports News",
-      "summary": "FREE STREAM: The Transfer Show on Sky Sports News - Latest football transfer news, updates and rumours",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-transfers-transfer_7312982.jpg?20260803150957",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13569345/free-stream-the-transfer-show-on-sky-sports-news-latest-football-transfer-news-updates-and-rumours"
-      },
-      "confirmed_by": [],
-      "id": "free-stream-the-transfer-show-on-sky-sports-news"
-    },
-    {
       "published_at": "2026-08-12T09:31:00+00:00",
       "updated_at": "2026-08-12T09:31:00+00:00",
       "title": "Klart: Manneh lämnar Mjällby – på lån",
@@ -1811,6 +1929,33 @@
       "id": "klart-manneh-l-mnar-mj-llby-p-l-n"
     },
     {
+      "published_at": "2026-08-13T17:45:00+00:00",
+      "updated_at": "2026-08-13T17:45:00+00:00",
+      "title": "Former ref Taylor on abuse, conspiracies and future of VAR",
+      "summary": "England's most senior referee says fans, the media, players and former referees need to \"look at themselves\" and stop the ritualistic abuse of match officials which is too often \"unacceptable\", warning it could cause the trickle of talent for the future to dry up",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/04/1600x900/skysports-premier-league-arsenal_7224504.jpg?20260813181534",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13572684/anthony-taylor-interview-former-premier-league-referee-on-impact-of-abuse-and-future-of-var"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13572684/anthony-taylor-interview-former-premier-league-referee-on-impact-of-abuse-and-future-of-var"
+      },
+      "confirmed_by": [],
+      "id": "former-ref-taylor-on-abuse-conspiracies-and-future-of-var"
+    },
+    {
       "published_at": "2026-08-13T06:30:00+00:00",
       "updated_at": "2026-08-13T06:30:00+00:00",
       "title": "Marauding Madjo! How 'new' Villa showed their teeth against PSG",
@@ -1836,6 +1981,33 @@
       },
       "confirmed_by": [],
       "id": "marauding-madjo-how-new-villa-showed-their-teeth-against-psg"
+    },
+    {
+      "published_at": "2026-08-13T18:10:00+00:00",
+      "updated_at": "2026-08-13T18:10:00+00:00",
+      "title": "Uppgifter: Norrköping lånar ut Tamba till TPS",
+      "summary": "Uppgifter: Norrköping lånar ut Tamba till TPS Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-norrk-ping-l-nar-ut-tamba-till-tps"
     },
     {
       "published_at": "2026-08-13T17:18:00+00:00",
@@ -1876,7 +2048,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/9OWqffDIdYfswVZMofzX4AJFATFkDJ2nLqxYNS7x.jpg",
+      "image": "",
       "sources": [
         {
           "name": "SvenskaFans",
@@ -1903,7 +2075,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/qMQW0YywjOwtPCKkPMot8ty7jCFrZqZTe5hcgmKw.jpg",
+      "image": "",
       "sources": [
         {
           "name": "SvenskaFans",
@@ -1930,7 +2102,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/M9aq1GkD6WKQ1Ow95m56m7SU7lbjRls1zVKgK5dh.jpg",
+      "image": "",
       "sources": [
         {
           "name": "SvenskaFans",
@@ -2011,7 +2183,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/74CKpa3afW6BRQUcOjVSRV6sYS9iHQi48edDRRH3.jpg",
+      "image": "",
       "sources": [
         {
           "name": "SvenskaFans",
@@ -2052,141 +2224,6 @@
       },
       "confirmed_by": [],
       "id": "barcelona-vs-deportivo-14-mar-2027-live-score"
-    },
-    {
-      "published_at": "2026-08-13T18:00:00+00:00",
-      "updated_at": "2026-08-13T18:00:00+00:00",
-      "title": "Championship predictions & best bets: Wolves to fall flat on opening night",
-      "summary": "The 2026/27 Sky Bet EFL season is here! every game from the Championship, League One and League Two is live on Sky Sports this weekend | Football betting expert Jones Knows picks out his top bets and angles with Sky Bet",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-efl-championship_7320352.jpg?20260813093238",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13572484/efl-2026-27-season-kick-off-championship-predictions-and-best-bets"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13572484/efl-2026-27-season-kick-off-championship-predictions-and-best-bets"
-      },
-      "confirmed_by": [],
-      "id": "championship-predictions-best-bets-wolves-to-fall-flat-on-opening-night"
-    },
-    {
-      "published_at": "2026-08-13T18:00:00+00:00",
-      "updated_at": "2026-08-13T18:00:00+00:00",
-      "title": "FIVE changes for Rangers vs Jagiellonia Bialystok LIVE!",
-      "summary": "Europa League Qualifying match Rangers vs J Bialystok 13.08.2026. Preview and stats followed by live commentary, video highlights and match report",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/rangers-vs-jagiellonia-bialystok/live/571444"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/rangers-vs-jagiellonia-bialystok/live/571444"
-      },
-      "confirmed_by": [],
-      "id": "five-changes-for-rangers-vs-jagiellonia-bialystok-live"
-    },
-    {
-      "published_at": "2026-08-13T08:30:00+00:00",
-      "updated_at": "2026-08-13T08:30:00+00:00",
-      "title": "Man Utd latest: Would you start, bench or sell Rashford? VOTE NOW!",
-      "summary": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/26/02/1600x900/skysports-michael-carrick-man-utd_7153593.jpg?20260202171649",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "man-utd-latest-would-you-start-bench-or-sell-rashford-vote-now"
-    },
-    {
-      "published_at": "2026-08-13T08:00:00+00:00",
-      "updated_at": "2026-08-13T08:00:00+00:00",
-      "title": "Chelsea latest: VOTE! Can Blues afford to let Fernandez leave this summer?",
-      "summary": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://e0.365dm.com/26/06/1600x900/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "chelsea-latest-vote-can-blues-afford-to-let-fernandez-leave-this-summer"
-    },
-    {
-      "published_at": "2026-08-12T23:15:00+00:00",
-      "updated_at": "2026-08-12T23:15:00+00:00",
-      "title": "Arsenal latest: 'Exceptional' Salmon shows star potential",
-      "summary": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/25/10/1600x900/skysports-arsenal-news-club_7039237.jpg?20251002155710",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "arsenal-latest-exceptional-salmon-shows-star-potential"
     }
   ]
 }
