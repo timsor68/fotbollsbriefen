@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T21:21:23.008612+00:00",
+  "updated_at": "2026-08-15T22:21:47.559030+00:00",
   "items": [
     {
       "published_at": "2026-08-14T19:47:25+00:00",
@@ -1078,6 +1078,35 @@
       "id": "report-leao-and-milan-in-fresh-galatasaray-talks-after-50m-price-dropped"
     },
     {
+      "published_at": "2026-08-14T16:26:08+00:00",
+      "updated_at": "2026-08-14T16:26:08+00:00",
+      "title": "Official: Milan loan Athekame to Olympique Lyonnais",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A",
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "official-milan-loan-athekame-to-olympique-lyonnais"
+    },
+    {
       "published_at": "2026-08-14T13:52:09+00:00",
       "updated_at": "2026-08-14T13:52:09+00:00",
       "title": "Gabbia joins growing list of Milan absentees for Manchester United test",
@@ -1869,32 +1898,31 @@
       "id": "gladbach-2-1-aston-villa-15-aug-2026-team-stats"
     },
     {
-      "published_at": "2026-08-15T14:59:33+00:00",
-      "updated_at": "2026-08-15T14:59:33+00:00",
-      "title": "Suzuki abandoned by PSG, furious at agent demands, fresh Juventus chance",
-      "summary": "Read the full report at Football Italia.",
+      "published_at": "2026-08-15T22:30:00+00:00",
+      "updated_at": "2026-08-15T22:30:00+00:00",
+      "title": "Man City latest: Maresca confirms club captains 'for now'",
+      "summary": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
-        "Serie A",
-        "Ligue 1"
+        "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "psg",
-      "image": "",
+      "club": "manchester-city",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-enzo-maresca-man-city_7285824.jpg?20260629153129",
       "sources": [
         {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "suzuki-abandoned-by-psg-furious-at-agent-demands-fresh-juventus-chance"
+      "id": "man-city-latest-maresca-confirms-club-captains-for-now"
     },
     {
       "published_at": "2026-08-15T16:15:00+00:00",
@@ -1976,33 +2004,6 @@
       },
       "confirmed_by": [],
       "id": "tottenham-latest-spence-sends-farewell-message-to-spurs"
-    },
-    {
-      "published_at": "2026-08-14T19:50:00+00:00",
-      "updated_at": "2026-08-14T19:50:00+00:00",
-      "title": "Salah makes Trabzonspor debut - but how did he get on?",
-      "summary": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-salah-trabzonspor_7322814.jpg?20260815200918",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "salah-makes-trabzonspor-debut-but-how-did-he-get-on"
     }
   ]
 }
