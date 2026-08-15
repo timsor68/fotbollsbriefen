@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T05:25:23.124199+00:00",
+  "updated_at": "2026-08-15T06:39:00.472019+00:00",
   "items": [
     {
       "published_at": "2026-08-14T21:30:21+00:00",
@@ -66,7 +66,7 @@
         },
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13573040/liverpool-fsg-sell-minority-stake-to-amazon-founder-jeff-bezos-backed-consortium-led-by-amit-bhatia"
+          "url": "https://www.skysports.com/football/news/11095/13566630/liverpool-key-questions-answered-as-jeff-bezos-and-amit-bhatia-close-in-on-purchasing-strategic-minority-stake"
         },
         {
           "name": "The Guardian",
@@ -81,7 +81,7 @@
       "confirmed_by": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13573040/liverpool-fsg-sell-minority-stake-to-amazon-founder-jeff-bezos-backed-consortium-led-by-amit-bhatia"
+          "url": "https://www.skysports.com/football/news/11095/13566630/liverpool-key-questions-answered-as-jeff-bezos-and-amit-bhatia-close-in-on-purchasing-strategic-minority-stake"
         },
         {
           "name": "The Guardian",
@@ -312,6 +312,33 @@
       "id": "bundesliga-s-50-1-ownership-rule-permissible-under-antitrust-laws-competition-authority-sa"
     },
     {
+      "published_at": "2026-08-15T06:19:19+00:00",
+      "updated_at": "2026-08-15T06:19:19+00:00",
+      "title": "'This is the right one' - Rohl on leaving Rangers for Salzburg",
+      "summary": "Danny Rohl explains why he left Rangers for Red Bull Salzburg - where he hopes to win trophies and help develop young players",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cab7/live/0e7a72c0-97fa-11f1-9577-b1309b6ea3af.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cj9dpvwl1nmo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cj9dpvwl1nmo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "this-is-the-right-one-rohl-on-leaving-rangers-for-salzburg"
+    },
+    {
       "published_at": "2026-08-14T19:49:11+00:00",
       "updated_at": "2026-08-14T19:49:11+00:00",
       "title": "Burnley sign Chelsea's Satpayev on loan",
@@ -422,33 +449,6 @@
       },
       "confirmed_by": [],
       "id": "liverpool-s-lundgaard-joins-eintracht-frankfurt"
-    },
-    {
-      "published_at": "2026-08-14T06:34:57+00:00",
-      "updated_at": "2026-08-14T06:34:57+00:00",
-      "title": "The key stats as Chelsea look to go from 10th to the title again",
-      "summary": "With a new manager at the helm in Xabi Alonso, can Chelsea go from 10th to the Premier League title like they did a decade ago?",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7f4d/live/30b45970-97d5-11f1-b1e0-bbc28f2688df.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwyr2zez9q2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwyr2zez9q2o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "the-key-stats-as-chelsea-look-to-go-from-10th-to-the-title-again"
     },
     {
       "published_at": "2026-08-11T09:34:23+00:00",
@@ -613,6 +613,33 @@
       },
       "confirmed_by": [],
       "id": "liverpool-to-submit-bid-for-42m-psg-star-after-manchester-united-approach"
+    },
+    {
+      "published_at": "2026-08-13T12:30:00+00:00",
+      "updated_at": "2026-08-13T12:30:00+00:00",
+      "title": "How Real Sociedad shaped Xabi Alonso’s career",
+      "summary": "How Real Sociedad shaped Xabi Alonso’s career | News | Official Site Chelsea Football Club",
+      "category": [
+        "Football"
+      ],
+      "status": "Official",
+      "entity": "xabi-alonso",
+      "entity_type": "coaches",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Chelsea",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Chelsea",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "how-real-sociedad-shaped-xabi-alonso-s-career"
     },
     {
       "published_at": "2026-08-13T08:51:46+00:00",
@@ -1890,35 +1917,8 @@
       "id": "jimenez-salvages-dramatic-point-for-wolves-on-molineux-return"
     },
     {
-      "published_at": "2026-08-14T10:00:00+00:00",
-      "updated_at": "2026-08-14T10:00:00+00:00",
-      "title": "Bowen: As long as West Ham get back to the PL, I don't care how we do it",
-      "summary": "When West Ham were relegated from the Premier League after 15 years back in May, it seemed inevitable Jarrod Bowen would not be there to join them as they returned to the Sky Bet Championship",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-efl-championship_7318795.jpg?20260811105633",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13572527/jarrod-bowen-exclusive-west-ham-captain"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13572527/jarrod-bowen-exclusive-west-ham-captain"
-      },
-      "confirmed_by": [],
-      "id": "bowen-as-long-as-west-ham-get-back-to-the-pl-i-don-t-care-how-we-do-it"
-    },
-    {
-      "published_at": "2026-08-15T00:01:58+00:00",
-      "updated_at": "2026-08-15T00:01:58+00:00",
+      "published_at": "2026-08-15T03:03:03+00:00",
+      "updated_at": "2026-08-15T03:03:03+00:00",
       "title": "\"Klasskillnad - mardrömmen fortsätter för Malmö FF\"",
       "summary": "\"Klasskillnad - mardrömmen fortsätter för Malmö FF\" Fotbollskanalen",
       "category": [
