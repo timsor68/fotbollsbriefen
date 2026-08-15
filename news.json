@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-15T14:22:46.847753+00:00",
+  "updated_at": "2026-08-15T15:20:32.542784+00:00",
   "items": [
     {
-      "published_at": "2026-08-12T21:18:21+00:00",
-      "updated_at": "2026-08-12T21:18:21+00:00",
-      "title": "Tottenham transfer news: Atletico Madrid agree deal for Tottenham's Cristian Romero",
+      "published_at": "2026-08-14T19:47:25+00:00",
+      "updated_at": "2026-08-14T19:47:25+00:00",
+      "title": "Tottenham: Cristian Romero says 'I wasn't perfect' as Atletico Madrid move confirmed",
       "summary": "Tottenham captain Cristian Romero has completed his £34.2m move to Atletico Madrid",
       "category": [
         "Premier League",
@@ -45,7 +45,7 @@
           "url": "https://www.skysports.com/football/news/11095/13573213/cristian-romero-tottenham-captain-completes-move-to-atletico-madrid"
         }
       ],
-      "id": "tottenham-transfer-news-atletico-madrid-agree-deal-for-tottenham-s-cristian-romero"
+      "id": "tottenham-cristian-romero-says-i-wasn-t-perfect-as-atletico-madrid-move-confirmed"
     },
     {
       "published_at": "2026-08-15T13:58:42+00:00",
@@ -87,7 +87,7 @@
       "published_at": "2026-08-15T13:54:09+00:00",
       "updated_at": "2026-08-15T13:54:09+00:00",
       "title": "Newcastle progressing with move for Benfica defender Dedic",
-      "summary": "Newcastle United are in advanced talks with Benfica regarding a deal for defender Amar Dedic",
+      "summary": "Newcastle United are in advanced talks as they aim to bring in defender Amar Dedic from Benfica",
       "category": [
         "Premier League",
         "Transfer"
@@ -119,44 +119,6 @@
         }
       ],
       "id": "newcastle-progressing-with-move-for-benfica-defender-dedic"
-    },
-    {
-      "published_at": "2026-08-15T09:37:31+00:00",
-      "updated_at": "2026-08-15T09:37:31+00:00",
-      "title": "PSG sign World Cup winner Torres from Barcelona",
-      "summary": "Ferran Torres, who scored the winning goal for Spain at the World Cup, has joined European champions Paris St-Germain from Barcelona",
-      "category": [
-        "La Liga",
-        "Ligue 1",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "barcelona",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6f12/live/1e272b10-974f-11f1-9c09-a729ba578a81.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c20jyxjl8yko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13573232/ferran-torres-psg-sign-world-cup-final-hero-from-barcelona-for-42-7m"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c20jyxjl8yko?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13573232/ferran-torres-psg-sign-world-cup-final-hero-from-barcelona-for-42-7m"
-        }
-      ],
-      "id": "psg-sign-world-cup-winner-torres-from-barcelona"
     },
     {
       "published_at": "2026-08-15T09:37:31+00:00",
@@ -380,34 +342,6 @@
       "id": "klart-robbie-ure-klar-f-r-sevilla-i-rekord-verg-ng"
     },
     {
-      "published_at": "2026-08-12T15:27:43+00:00",
-      "updated_at": "2026-08-12T15:27:43+00:00",
-      "title": "Bundesliga's 50+1 ownership rule permissible under antitrust laws, competition authority says",
-      "summary": "Read the full report at Reuters.",
-      "category": [
-        "Bundesliga",
-        "Club management"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Reuters",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "bundesliga-s-50-1-ownership-rule-permissible-under-antitrust-laws-competition-authority-sa"
-    },
-    {
       "published_at": "2026-08-15T12:03:16+00:00",
       "updated_at": "2026-08-15T12:03:16+00:00",
       "title": "Hull sign Gelhardt and Gourna-Douath",
@@ -433,6 +367,62 @@
       },
       "confirmed_by": [],
       "id": "hull-sign-gelhardt-and-gourna-douath"
+    },
+    {
+      "published_at": "2026-08-15T09:37:31+00:00",
+      "updated_at": "2026-08-15T09:37:31+00:00",
+      "title": "PSG sign World Cup winner Torres from Barcelona",
+      "summary": "Ferran Torres, who scored the winning goal for Spain at the World Cup, has joined European champions Paris St-Germain from Barcelona",
+      "category": [
+        "La Liga",
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "barcelona",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6f12/live/1e272b10-974f-11f1-9c09-a729ba578a81.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c20jyxjl8yko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c20jyxjl8yko?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "psg-sign-world-cup-winner-torres-from-barcelona"
+    },
+    {
+      "published_at": "2026-08-15T14:53:47+00:00",
+      "updated_at": "2026-08-15T14:53:47+00:00",
+      "title": "Otso Liimatta tvåmålsskytt – utbytt efter 26 minuter när Sirius kollapsade",
+      "summary": "Otso Liimatta gjorde sin första match från start för Sirius som ska försöka greja SM-guldet utan proffsflyktade Robbie Ure. Ersättaren tackade för förtroendet med att göra två mål men utgick skadad redan efter 26 minuter när sedan Sirius tappade 3–0 till kollapsförlust 3–4 – den första på hela säsongen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.79/0.26/ec96fb0dfcdc4f79c0b1c2b44acb10c1a1468dced6ee468d38c9d0ecd6e20ede",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/otso-liimatta-tvamalsskytt-utbytt-efter-26-minuter-nar-sirius-kollapsade"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/otso-liimatta-tvamalsskytt-utbytt-efter-26-minuter-nar-sirius-kollapsade"
+      },
+      "confirmed_by": [],
+      "id": "otso-liimatta-tv-m-lsskytt-utbytt-efter-26-minuter-n-r-sirius-kollapsade"
     },
     {
       "published_at": "2026-08-11T09:34:23+00:00",
@@ -461,6 +451,285 @@
       },
       "confirmed_by": [],
       "id": "strasbourg-sign-chelsea-goalkeeper-filip-jorgensen-on-loan"
+    },
+    {
+      "published_at": "2026-08-14T19:29:33+00:00",
+      "updated_at": "2026-08-14T19:29:33+00:00",
+      "title": "Liverpool to submit bid for £42m PSG star after Manchester United approach",
+      "summary": "Official update from Liverpool — full announcement at the source.",
+      "category": [
+        "Premier League",
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Official",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "",
+      "sources": [
+        {
+          "name": "Liverpool",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Liverpool",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "liverpool-to-submit-bid-for-42m-psg-star-after-manchester-united-approach"
+    },
+    {
+      "published_at": "2026-08-13T08:51:46+00:00",
+      "updated_at": "2026-08-13T08:51:46+00:00",
+      "title": "PSG send clear message to Liverpool and Arsenal over Bradley Barcola transfer",
+      "summary": "Official update from Liverpool — full announcement at the source.",
+      "category": [
+        "Premier League",
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Official",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "",
+      "sources": [
+        {
+          "name": "Liverpool",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Liverpool",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "psg-send-clear-message-to-liverpool-and-arsenal-over-bradley-barcola-transfer"
+    },
+    {
+      "published_at": "2026-08-15T16:00:00+00:00",
+      "updated_at": "2026-08-15T16:00:00+00:00",
+      "title": "Rogers' debut, 3-4-3 and Fernandez's reception - Alonso's mixed Chelsea display",
+      "summary": "Chelsea ended pre-season with a mixed 3-1 victory over Real Sociedad as manager Xabi Alonso offered more clues about the formation his side could play ahead of their Premier League opener against Fulham",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "xabi-alonso",
+      "entity_type": "coaches",
+      "club": "chelsea",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-morgan-rogers-chelsea_7322414.jpg?20260815141604",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/chelsea-vs-real-sociedad/report/575209"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/chelsea-vs-real-sociedad/report/575209"
+      },
+      "confirmed_by": [],
+      "id": "rogers-debut-3-4-3-and-fernandez-s-reception-alonso-s-mixed-chelsea-display"
+    },
+    {
+      "published_at": "2026-08-15T07:26:05+00:00",
+      "updated_at": "2026-08-15T07:26:05+00:00",
+      "title": "Uppgifter: Arsenal i samtal med Leverkusen om Quansah-värvning",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige",
+        "Premier League",
+        "Bundesliga",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-arsenal-i-samtal-med-leverkusen-om-quansah-v-rvning"
+    },
+    {
+      "published_at": "2026-08-13T08:00:00+00:00",
+      "updated_at": "2026-08-13T08:00:00+00:00",
+      "title": "Karabeljovs otäcka skada: \"Fyra frakturer\"",
+      "summary": "Karabeljovs otäcka skada: \"Fyra frakturer\" Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "karabeljovs-ot-cka-skada-fyra-frakturer"
+    },
+    {
+      "published_at": "2026-08-12T10:56:00+00:00",
+      "updated_at": "2026-08-12T10:56:00+00:00",
+      "title": "Sade Heinrichs klar för Djurgården",
+      "summary": "Sade Heinrichs klar för Djurgården Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "sade-heinrichs-klar-f-r-djurg-rden"
+    },
+    {
+      "published_at": "2026-08-11T08:30:00+00:00",
+      "updated_at": "2026-08-11T08:30:00+00:00",
+      "title": "FC Hermannstadt på väg att gå under - Simba har brutit sitt kontrakt",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "fc-hermannstadt-p-v-g-att-g-under-simba-har-brutit-sitt-kontrakt"
+    },
+    {
+      "published_at": "2026-08-09T19:22:00+00:00",
+      "updated_at": "2026-08-09T19:22:00+00:00",
+      "title": "Officiellt: Digne klar för Paris Saint-Germain",
+      "summary": "Officiellt: Digne klar för Paris Saint-Germain Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "Ligue 1"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "psg",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "officiellt-digne-klar-f-r-paris-saint-germain"
+    },
+    {
+      "published_at": "2026-08-09T15:42:00+00:00",
+      "updated_at": "2026-08-09T15:42:00+00:00",
+      "title": "Uppgifter: Gais detaljer från Gravius-värvning",
+      "summary": "Uppgifter: Gais detaljer från Gravius-värvning Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-gais-detaljer-fr-n-gravius-v-rvning"
+    },
+    {
+      "published_at": "2026-08-08T18:16:00+00:00",
+      "updated_at": "2026-08-08T18:16:00+00:00",
+      "title": "Klart: Haglind Sangré förlänger med Wisla Plock",
+      "summary": "Klart: Haglind Sangré förlänger med Wisla Plock Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "klart-haglind-sangr-f-rl-nger-med-wisla-plock"
     },
     {
       "published_at": "2026-08-11T20:03:29+00:00",
@@ -497,42 +766,6 @@
         }
       ],
       "id": "slovan-bratislava-slog-ut-mj-llby-i-champions-league-kvalet"
-    },
-    {
-      "published_at": "2026-08-10T18:55:19+00:00",
-      "updated_at": "2026-08-10T18:55:19+00:00",
-      "title": "Västerås tog revansch på Djurgården",
-      "summary": "Djurgården krossade västmanlänningarna med hela 6-0 i den första av de två back-to-back mötena. Nu är det dags för \"returen\" på bortaplan och det är ett huvudstadslag med fin form som åker till Västerås för att bärga ytterligare tre poäng. Med 13 inspelade poäng på de fem spelade matcherna efter uppehållet blir det viktigt att fortsätta leverera på planen för att vara kvar i toppskiktet av tabellen.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.6/0.34/d1bbbf2995d8b5cd794684a781158a08495d75ceb0c24433231163c0da68fc06",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/vasteras-tog-revansch-pa-djurgarden"
-        },
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/infor-vasteras-sk-djurgardens-if-698959"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/vasteras-tog-revansch-pa-djurgarden"
-      },
-      "confirmed_by": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/infor-vasteras-sk-djurgardens-if-698959"
-        }
-      ],
-      "id": "v-ster-s-tog-revansch-p-djurg-rden"
     },
     {
       "published_at": "2026-08-15T13:09:59+00:00",
@@ -753,31 +986,31 @@
       "id": "are-manchester-united-returning-to-relevance-under-michael-carrick-jonathan-wilson"
     },
     {
-      "published_at": "2026-08-08T14:49:29+00:00",
-      "updated_at": "2026-08-08T14:49:29+00:00",
-      "title": "Jorge Messi, father and agent of Argentina great, dies aged 68",
-      "summary": "Messi family report death at medical clinic in Rosario Inter Miami are due to play Monterrey on Saturday night Lionel Messi’s father and agent, Jorge, has died aged 68 at a medical clinic in the ⁠Argentinian city of ⁠Rosario after ​a long illness, the family have announced. Jorge Messi spent his final months ⁠alternating between a medical centre in Rosario and his home, accompanied by his wife, Celia, and his ⁠children Rodrigo, Matías and María Sol. Lionel Messi ​spent time with his ‌father after the World ‌Cup before rejoining his club, Inter Miami, for whom he ‌returned to action a week ago.",
+      "published_at": "2026-08-15T14:30:00+00:00",
+      "updated_at": "2026-08-15T14:30:00+00:00",
+      "title": "Inför GAIS - Malmö FF",
+      "summary": "Hemmamötet den 12 april mot GAIS slutade med 3-1 till MFF och känslan var att resan tillbaka mot toppen precis hade börjat. Fyra månader senare står vi med en ny tränare igen, som trots sin injektion av tro och optimism inte än har lyckats väcka klubben till liv",
       "category": [
-        "Football"
+        "Sverige"
       ],
       "status": "Reported",
-      "entity": "lionel-messi",
+      "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://i.guim.co.uk/img/media/601bb63d891dc1708b023bc11b6ec5027cf1d495/868_180_2626_2101/master/2626.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1f512e8d73b7426c5a229990fd01aaf6",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/C24QPrL6GFeZkKvd7GqpKplHbqGBAHbBWQzdVbWb.jpg",
       "sources": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/08/jorge-messi-dies-father-agent-lionel-messi-argentina-inter-miami"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/infor-gais-malmo-ff-699107"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/08/jorge-messi-dies-father-agent-lionel-messi-argentina-inter-miami"
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/infor-gais-malmo-ff-699107"
       },
       "confirmed_by": [],
-      "id": "jorge-messi-father-and-agent-of-argentina-great-dies-aged-68"
+      "id": "inf-r-gais-malm-ff"
     },
     {
       "published_at": "2026-08-11T14:49:50+00:00",
@@ -1003,6 +1236,33 @@
       "id": "vlahovic-goodbye-to-juventus-after-signing-new-besiktas-contract"
     },
     {
+      "published_at": "2026-08-13T16:05:24+00:00",
+      "updated_at": "2026-08-13T16:05:24+00:00",
+      "title": "Esposito new medical certificate extends Cagliari feud to 25 days",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "esposito-new-medical-certificate-extends-cagliari-feud-to-25-days"
+    },
+    {
       "published_at": "2026-08-12T12:54:26+00:00",
       "updated_at": "2026-08-12T12:54:26+00:00",
       "title": "Piccoli agreement with Bologna at €18m plus bonus sparks Serie A domino effect",
@@ -1086,58 +1346,40 @@
       "id": "fenerbahce-strike-lukaku-agreement-with-napoli-details-revealed"
     },
     {
-      "published_at": "2026-08-08T16:45:43+00:00",
-      "updated_at": "2026-08-08T16:45:43+00:00",
-      "title": "Cuadrado: ‘I did not betray Juventus, they broke promise, so I joined Inter’",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "cuadrado-i-did-not-betray-juventus-they-broke-promise-so-i-joined-inter"
-    },
-    {
-      "published_at": "2026-08-11T13:31:03+00:00",
-      "updated_at": "2026-08-11T13:31:03+00:00",
-      "title": "Mourinho's return adds extra spice to LaLiga title race",
-      "summary": "Read the full report at Reuters.",
+      "published_at": "2026-08-15T14:30:00+00:00",
+      "updated_at": "2026-08-15T14:30:00+00:00",
+      "title": "Bolton beat Preston for first Championship win since 2019",
+      "summary": "Dalby and Gale fire promoted Bolton to 2-1 win Kodua pounces at death as Luton beat Reading 4-3 Sam Dalby and Thierry Gale scored first-half goals as Bolton beat Preston 2-1 to record their first Championship win since March 2019. Last season’s League One playoff final winners have been predicted to struggle on their return to the second tier after seven years away. But in front of a sellout 26,262 crowd at the Toughsheet Community Stadium, Steven Schumacher’s side dominated the longstanding members of this division.",
       "category": [
         "Football"
       ],
-      "status": "Confirmed",
+      "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-sam-dalby-bolton-wanderers_7322451.jpg?20260815143140",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/bolton-wanderers-vs-preston-north-end/report/560499"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/15/championship-efl-bolton-preston-middlesbrough-lincoln-sheffield-united-birmingham"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Reuters",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/bolton-wanderers-vs-preston-north-end/report/560499"
       },
-      "confirmed_by": [],
-      "id": "mourinho-s-return-adds-extra-spice-to-laliga-title-race"
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/15/championship-efl-bolton-preston-middlesbrough-lincoln-sheffield-united-birmingham"
+        }
+      ],
+      "id": "bolton-beat-preston-for-first-championship-win-since-2019"
     },
     {
       "published_at": "2026-08-15T13:15:41+00:00",
@@ -1248,8 +1490,8 @@
       "id": "se-uppsala-malm-i-damallsvenskan"
     },
     {
-      "published_at": "2026-08-15T04:16:00+00:00",
-      "updated_at": "2026-08-15T04:16:00+00:00",
+      "published_at": "2026-08-15T04:16:49+00:00",
+      "updated_at": "2026-08-15T04:16:49+00:00",
       "title": "Why are Barcelona and Real Madrid not playing in La Liga’s opening weekend?",
       "summary": "Read the full report at The Athletic.",
       "category": [
@@ -1438,34 +1680,6 @@
       "id": "leeds-latest-club-agree-fee-to-sign-elvedi"
     },
     {
-      "published_at": "2026-08-15T14:40:00+00:00",
-      "updated_at": "2026-08-15T14:40:00+00:00",
-      "title": "Tottenham latest: Phillips joins Boro in deal worth up to £20m",
-      "summary": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://e0.365dm.com/26/04/1600x900/skysports-spurs-roberto-de-zerbi_7216074.jpg?20260410141222",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "tottenham-latest-phillips-joins-boro-in-deal-worth-up-to-20m"
-    },
-    {
       "published_at": "2026-08-15T12:50:00+00:00",
       "updated_at": "2026-08-15T12:50:00+00:00",
       "title": "EFL latest: Irankunda joins Sporting who insert £68.5m release clause",
@@ -1491,33 +1705,6 @@
       },
       "confirmed_by": [],
       "id": "efl-latest-irankunda-joins-sporting-who-insert-68-5m-release-clause"
-    },
-    {
-      "published_at": "2026-08-15T14:30:00+00:00",
-      "updated_at": "2026-08-15T14:30:00+00:00",
-      "title": "Bolton beat Preston for first Championship win since 2019",
-      "summary": "Sam Dalby and Thierry Gale scored first-half goals as Bolton beat Preston 2-1 to record their first Sky Bet Championship win since March 2019",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-sam-dalby-bolton-wanderers_7322451.jpg?20260815143140",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/bolton-wanderers-vs-preston-north-end/report/560499"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/bolton-wanderers-vs-preston-north-end/report/560499"
-      },
-      "confirmed_by": [],
-      "id": "bolton-beat-preston-for-first-championship-win-since-2019"
     },
     {
       "published_at": "2026-08-14T22:00:00+00:00",
@@ -1574,6 +1761,87 @@
       "id": "carrick-vs-amorim-what-big-changes-have-been-made-at-man-utd"
     },
     {
+      "published_at": "2026-08-15T14:16:00+00:00",
+      "updated_at": "2026-08-15T14:16:00+00:00",
+      "title": "Tvåmålsskytten Liimatta tvingades utgå",
+      "summary": "Tvåmålsskytten Liimatta tvingades utgå Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "tv-m-lsskytten-liimatta-tvingades-utg"
+    },
+    {
+      "published_at": "2026-08-15T13:46:00+00:00",
+      "updated_at": "2026-08-15T13:46:00+00:00",
+      "title": "Klart: Middlesbrough plockar in Ashley Phillips",
+      "summary": "Klart: Middlesbrough plockar in Ashley Phillips Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "klart-middlesbrough-plockar-in-ashley-phillips"
+    },
+    {
+      "published_at": "2026-08-15T11:16:00+00:00",
+      "updated_at": "2026-08-15T11:16:00+00:00",
+      "title": "Uppgifter: Hajduk Split värvar Hadžikadunić",
+      "summary": "Uppgifter: Hajduk Split värvar Hadžikadunić Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-hajduk-split-v-rvar-had-ikaduni"
+    },
+    {
       "published_at": "2026-08-15T07:00:50+00:00",
       "updated_at": "2026-08-15T07:00:50+00:00",
       "title": "Farewell Cristian Romero, you actually always were ‘that type of player’ | Max Rushden",
@@ -1599,6 +1867,33 @@
       },
       "confirmed_by": [],
       "id": "farewell-cristian-romero-you-actually-always-were-that-type-of-player-max-rushden"
+    },
+    {
+      "published_at": "2026-08-14T18:00:34+00:00",
+      "updated_at": "2026-08-14T18:00:34+00:00",
+      "title": "Europe’s top clubs threatened Club World Cup boycott before Fifa plan collapsed",
+      "summary": "Ultimatum issued hours before plan was scrapped European Football Clubs demanded Infantino back down Europe’s leading clubs threatened not to participate in future Club World Cups unless Gianni Infantino withdrew his Fifa Forward Enterprise scheme, issuing their ultimatum hours before the plan was scrapped. In a letter to the Fifa secretary general, Mattias Grafström, the influential European Football Clubs (EFC) group warned that its cooperation with future tournaments would hinge on Infantino backing down. It said the threat would hold unless a joint venture between EFC and Fifa – a framework for which has already been agreed – is completed before television rights can be sold for the 2028 Women’s Club World Cup.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/0073d06176f69062323f7b27fd6862ecb297e26b/1032_173_2511_2009/master/2511.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c05d849f83d5e2e0e2273a8b66aff7e2",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/14/europe-top-clubs-threatened-club-world-cup-boycott-fifa-plan-collapsed"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/14/europe-top-clubs-threatened-club-world-cup-boycott-fifa-plan-collapsed"
+      },
+      "confirmed_by": [],
+      "id": "europe-s-top-clubs-threatened-club-world-cup-boycott-before-fifa-plan-collapsed"
     },
     {
       "published_at": "2026-08-15T10:54:59+00:00",
@@ -1712,7 +2007,7 @@
       "published_at": "2026-08-14T16:53:00+00:00",
       "updated_at": "2026-08-14T16:53:00+00:00",
       "title": "Inför Djurgårdens IF - AIK",
-      "summary": "Efter fem raka allsvenska matcher utan förlust tog sviten slut mot Västerås. Nu väntar AIK på ett utsålt 3Arena och Djurgården får chansen att direkt svara på förra helgens nederlag",
+      "summary": "Djurgården krossade västmanlänningarna med hela 6-0 i den första av de två back-to-back mötena. Nu är det dags för \"returen\" på bortaplan och det är ett huvudstadslag med fin form som åker till Västerås för att bärga ytterligare tre poäng. Med 13 inspelade poäng på de fem spelade matcherna efter uppehållet blir det viktigt att fortsätta leverera på planen för att vara kvar i toppskiktet av tabellen.",
       "category": [
         "Sverige"
       ],
@@ -1790,31 +2085,31 @@
       "id": "tv-guide-h-r-kan-du-se-matchen-mellan-elfsborg-och-v-ster-s-sk"
     },
     {
-      "published_at": "2026-08-14T10:01:00+00:00",
-      "updated_at": "2026-08-14T10:01:00+00:00",
-      "title": "Friday I'm in love: Alla de där matcherna vi har glömt",
-      "summary": "Vi minns gulden, Europakvällarna och de stora målen. Men ett liv med Malmö FF består mest av alla de andra matcherna. De vi går på, lever oss igenom – och sedan glömmer.",
+      "published_at": "2026-08-15T16:15:00+00:00",
+      "updated_at": "2026-08-15T16:15:00+00:00",
+      "title": "Chelsea latest: Fernandez booed - and cheered - in first pre-season appearance",
+      "summary": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
-        "Sverige"
+        "Premier League"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/531688.jpg",
+      "club": "chelsea",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
       "sources": [
         {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/friday-im-in-love-699157"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/friday-im-in-love-699157"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "friday-i-m-in-love-alla-de-d-r-matcherna-vi-har-gl-mt"
+      "id": "chelsea-latest-fernandez-booed-and-cheered-in-first-pre-season-appearance"
     },
     {
       "published_at": "2026-08-15T14:58:00+00:00",
@@ -1844,85 +2139,33 @@
       "id": "man-utd-latest-rashford-gets-high-profile-squad-number-vs-milan"
     },
     {
-      "published_at": "2026-08-15T14:15:00+00:00",
-      "updated_at": "2026-08-15T14:15:00+00:00",
-      "title": "Rashford on Man Utd bench vs Amorim's AC Milan LIVE!",
-      "summary": "Friendly Match match Man Utd vs AC Milan 15.08.2026. Preview and stats followed by live commentary, video highlights and match report",
+      "published_at": "2026-08-15T14:40:00+00:00",
+      "updated_at": "2026-08-15T14:40:00+00:00",
+      "title": "Tottenham latest: Spence pens Spurs goodbye ahead of Inter move",
+      "summary": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
-        "Serie A"
+        "Premier League",
+        "Serie A",
+        "Transfer"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "manchester-united",
-      "image": "",
+      "club": "tottenham",
+      "image": "https://e0.365dm.com/26/04/1600x900/skysports-spurs-roberto-de-zerbi_7216074.jpg?20260410141222",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/manchester-united-vs-ac-milan/live/556661"
+          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/manchester-united-vs-ac-milan/live/556661"
+        "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "rashford-on-man-utd-bench-vs-amorim-s-ac-milan-live"
-    },
-    {
-      "published_at": "2026-08-15T13:25:00+00:00",
-      "updated_at": "2026-08-15T13:25:00+00:00",
-      "title": "Chelsea latest: Jackson and Delap absent from pre-season friendly",
-      "summary": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://e0.365dm.com/26/06/1600x900/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "chelsea-latest-jackson-and-delap-absent-from-pre-season-friendly"
-    },
-    {
-      "published_at": "2026-08-15T11:30:00+00:00",
-      "updated_at": "2026-08-15T11:30:00+00:00",
-      "title": "Stoke lead Swans; Lincoln ahead at Boro - EFL opening day LIVE!",
-      "summary": "Championship LIVE! Scores, match updates and free highlights plus EFL latest from League One and League Two",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-charlton-derby_7322498.jpg?20260815151132",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13573022/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13573022/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two"
-      },
-      "confirmed_by": [],
-      "id": "stoke-lead-swans-lincoln-ahead-at-boro-efl-opening-day-live"
+      "id": "tottenham-latest-spence-pens-spurs-goodbye-ahead-of-inter-move"
     }
   ]
 }
