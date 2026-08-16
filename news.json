@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T21:20:39.009404+00:00",
+  "updated_at": "2026-08-16T22:21:15.342812+00:00",
   "items": [
     {
       "published_at": "2026-08-16T18:28:09+00:00",
@@ -179,43 +179,6 @@
         }
       ],
       "id": "paris-saint-germain-sign-mika-godts-from-ajax-in-deal-worth-up-to-55million"
-    },
-    {
-      "published_at": "2026-08-15T13:54:09+00:00",
-      "updated_at": "2026-08-15T13:54:09+00:00",
-      "title": "Newcastle progressing with move for Benfica defender Dedic",
-      "summary": "Newcastle United are in advanced talks as they aim to bring in defender Amar Dedic from Benfica",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/370b/live/6449d010-98a9-11f1-9dd3-79dbb17f6bca.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c70gg3dp61lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13573640/newcastle-transfer-news-club-agree-deal-to-sign-defender-amar-dedic-from-benfica"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c70gg3dp61lo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13573640/newcastle-transfer-news-club-agree-deal-to-sign-defender-amar-dedic-from-benfica"
-        }
-      ],
-      "id": "newcastle-progressing-with-move-for-benfica-defender-dedic"
     },
     {
       "published_at": "2026-08-12T15:27:43+00:00",
@@ -438,6 +401,34 @@
       "id": "inter-sign-england-full-back-spence-from-tottenham"
     },
     {
+      "published_at": "2026-08-15T13:54:09+00:00",
+      "updated_at": "2026-08-15T13:54:09+00:00",
+      "title": "Newcastle progressing with move for Benfica defender Dedic",
+      "summary": "Newcastle United are in advanced talks as they aim to bring in defender Amar Dedic from Benfica",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/370b/live/6449d010-98a9-11f1-9dd3-79dbb17f6bca.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c70gg3dp61lo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c70gg3dp61lo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "newcastle-progressing-with-move-for-benfica-defender-dedic"
+    },
+    {
       "published_at": "2026-08-16T20:21:36+00:00",
       "updated_at": "2026-08-16T20:21:36+00:00",
       "title": "Barcelona’s Tommy Marques, 19, to join Braga in €10m transfer",
@@ -548,6 +539,42 @@
       "id": "strasbourg-sign-chelsea-goalkeeper-filip-jorgensen-on-loan"
     },
     {
+      "published_at": "2026-08-16T19:37:19+00:00",
+      "updated_at": "2026-08-16T19:37:19+00:00",
+      "title": "‘That’s the standard’: Mikel Arteta hails Arsenal’s desire on blue day for Maresca",
+      "summary": "Champions delight manager by ‘winning the first trophy’ Maresca wants Manchester City signings to arrive soon Mikel Arteta said his Arsenal players demonstrated their hunger to defend the Premier League title in their Community Shield triumph over Manchester City. Arsenal, who ended their 22-year wait last season and are seeking to win back-to-back top-flight titles for the first time since 1934-35, beat City 3-0 at the Principality Stadium in Cardiff in Enzo Maresca’s first significant match in charge. Riccardo Calafiori opened the scoring after 24 seconds, the fastest goal in the competition since Bobby Owen’s strike for City in 1968, before Kai Havertz doubled Arsenal’s lead and their captain, Martin Ødegaard, completed the scoring on 48 minutes.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "mikel-arteta",
+      "entity_type": "coaches",
+      "club": "arsenal",
+      "image": "https://e0.365dm.com/25/10/1600x900/skysports-arsenal-news-club_7039237.jpg?20251002155710",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/16/mikel-arteta-arsenal-desire-enzo-maresca-community-shield"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/16/mikel-arteta-arsenal-desire-enzo-maresca-community-shield"
+        }
+      ],
+      "id": "that-s-the-standard-mikel-arteta-hails-arsenal-s-desire-on-blue-day-for-maresca"
+    },
+    {
       "published_at": "2026-08-16T14:44:07+00:00",
       "updated_at": "2026-08-16T14:44:07+00:00",
       "title": "Nabizada stunner edges Watford past Southampton as ‘Spygate’ still looms large",
@@ -640,6 +667,34 @@
       },
       "confirmed_by": [],
       "id": "psg-send-clear-message-to-liverpool-and-arsenal-over-bradley-barcola-transfer"
+    },
+    {
+      "published_at": "2026-08-16T22:30:00+00:00",
+      "updated_at": "2026-08-16T22:30:00+00:00",
+      "title": "Papers: Delap & Neto move closer to Chelsea exit",
+      "summary": "Latest transfer news and headlines as Chrstian Kofanes agent Eric Depolo says Arsenal are monitoring the Bayer Leverkusen forward; Manchester United are stepping up their efforts to cash in on their academy",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13573816/chelsea-transfer-news-liam-delap-and-pedro-neto-move-closer-to-exit-door-paper-talk"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13573816/chelsea-transfer-news-liam-delap-and-pedro-neto-move-closer-to-exit-door-paper-talk"
+      },
+      "confirmed_by": [],
+      "id": "papers-delap-neto-move-closer-to-chelsea-exit"
     },
     {
       "published_at": "2026-08-15T18:45:00+00:00",
@@ -909,8 +964,8 @@
       "id": "dijan-vukojevic-matchvinnare-igen-f-r-degerfors-k-rde-ver-ifk-g-teborg"
     },
     {
-      "published_at": "2026-08-15T04:16:00+00:00",
-      "updated_at": "2026-08-15T04:16:00+00:00",
+      "published_at": "2026-08-15T04:16:49+00:00",
+      "updated_at": "2026-08-15T04:16:49+00:00",
       "title": "Why are Barcelona and Real Madrid not playing in La Liga’s opening weekend?",
       "summary": "Read the full report at The Athletic.",
       "category": [
@@ -1357,34 +1412,6 @@
       },
       "confirmed_by": [],
       "id": "inter-could-change-summer-transfer-strategy-if-luis-henrique-is-sold"
-    },
-    {
-      "published_at": "2026-08-15T16:50:09+00:00",
-      "updated_at": "2026-08-15T16:50:09+00:00",
-      "title": "LIVE Done Deals Tracker: Latest Serie A transfer agreements for summer 2026",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "live-done-deals-tracker-latest-serie-a-transfer-agreements-for-summer-2026"
     },
     {
       "published_at": "2026-08-14T17:43:18+00:00",
@@ -1918,32 +1945,31 @@
       "id": "vinicius-jr-wanted-a-renewal-bonus-from-real-madrid-are-these-a-new-thing"
     },
     {
-      "published_at": "2026-08-16T20:16:00+00:00",
-      "updated_at": "2026-08-16T20:16:00+00:00",
-      "title": "Newcastle latest: Dedic arrives for medical",
-      "summary": "Newcastle transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "published_at": "2026-08-16T16:00:00+00:00",
+      "updated_at": "2026-08-16T16:00:00+00:00",
+      "title": "Barcola left out as PSG beaten by Lens in French Champions Trophy",
+      "summary": "Read the full report at Sky Sports.",
       "category": [
-        "Premier League",
-        "Transfer"
+        "Ligue 1"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-premier-league-matthias-jaissle_7312588.jpg?20260803082043",
+      "club": "psg",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-bradley-barcola-psg_7316231.jpg?20260807175615",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
       },
       "confirmed_by": [],
-      "id": "newcastle-latest-dedic-arrives-for-medical"
+      "id": "barcola-left-out-as-psg-beaten-by-lens-in-french-champions-trophy"
     },
     {
       "published_at": "2026-08-16T14:00:00+00:00",
@@ -2136,58 +2162,31 @@
       "id": "bj-rklunds-v-rvnings-nskan-ska-inte-vara-n-gon-mellanmj-lk"
     },
     {
-      "published_at": "2026-08-16T18:32:08+00:00",
-      "updated_at": "2026-08-16T18:32:08+00:00",
-      "title": "Arsenal send out early warning to City and title rivals with ominous victory | Ed Aarons",
-      "summary": "Additions of Guimarães and Tzolis, plus re-emergence of Ødegaard, mean champions start clear favourites after Community Shield win If this was a glimpse of the Premier League’s new order then the rest had better watch out. By the time Martin Ødegaard sat Gianluigi Donnarumma down to make it 3-0 to the champions , the Arsenal party was in full swing. “Can we play you every week?” their supporters gleefully taunted their counterparts in sky blue.",
+      "published_at": "2026-08-15T16:37:44+00:00",
+      "updated_at": "2026-08-15T16:37:44+00:00",
+      "title": "Championship roundup: Middlesbrough seal comeback win; West Brom beat Norwich",
+      "summary": "Lankshear ends Lincoln’s nine-month unbeaten run Millwall start with 2-0 win over 10-man Bristol City Will Lankshear scored a second-half double on his debut as Middlesbrough fought back to kick off their Championship campaign with a hard-fought 2-1 victory, ending promoted Lincoln’s remarkable nine-month unbeaten run. The Imps – playing their first second-tier match in 65 years – made a strong start and opened the scoring in the 12th minute through Adam Reach. But the former Tottenham forward Lankshear marked his first league appearance since his move to the Riverside by equalising just after the hour and then stabbing in a stoppage-time winner.",
       "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://i.guim.co.uk/img/media/e50b2b463f1a38c779db11f3544de56b9e706617/314_0_3138_2510/master/3138.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1dca1678687ef9e864532caeebcc087a",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-premier-league"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-premier-league"
-      },
-      "confirmed_by": [],
-      "id": "arsenal-send-out-early-warning-to-city-and-title-rivals-with-ominous-victory-ed-aarons"
-    },
-    {
-      "published_at": "2026-08-16T19:39:58+00:00",
-      "updated_at": "2026-08-16T19:39:58+00:00",
-      "title": "Bajen hakar på Sirius: krossade Kalmar på bortaplan",
-      "summary": "Efter uttåget mot Rakow Czestochowa i torsdags fick Hammarby snabbt ställa om och rikta fokus på Allsvenskan. Denna söndagskväll kom en rejäl revansch när Bajen körde över Kalmar med hela 4-0 och samtidigt satte press på serieledarna Sirius",
-      "category": [
-        "Sverige"
+        "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/NKcvIU4SXEnCAyC2RaUp97cN8H4pS9n4y4TKx3pJ.jpg",
+      "image": "https://i.guim.co.uk/img/media/f766d07c25c130028da04fac973497349e59b542/160_0_3684_2947/master/3684.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9a19b80fdea6325fafcda72481ba10a6",
       "sources": [
         {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/bajen-hakar-pa-sirius-krossade-kalmar-pa-bortaplan-699269"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/15/championship-efl-bolton-preston-middlesbrough-lincoln-sheffield-united-birmingham"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/bajen-hakar-pa-sirius-krossade-kalmar-pa-bortaplan-699269"
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/15/championship-efl-bolton-preston-middlesbrough-lincoln-sheffield-united-birmingham"
       },
       "confirmed_by": [],
-      "id": "bajen-hakar-p-sirius-krossade-kalmar-p-bortaplan"
+      "id": "championship-roundup-middlesbrough-seal-comeback-win-west-brom-beat-norwich"
     }
   ]
 }
