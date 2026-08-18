@@ -1,11 +1,55 @@
 {
-  "updated_at": "2026-08-18T14:34:13.677273+00:00",
+  "updated_at": "2026-08-18T15:32:20.478400+00:00",
   "items": [
+    {
+      "published_at": "2026-08-18T14:38:57+00:00",
+      "updated_at": "2026-08-18T14:38:57+00:00",
+      "title": "Vieira named new Senegal head coach",
+      "summary": "Former Arsenal captain succeeds Pape Thiaw Senegal reached last 32 of this summer’s World Cup Patrick Vieira has been appointed as the head coach of Senegal. The Senegal-born former Arsenal captain has been out of work since leaving his post as manager of the Serie A side Genoa last November and replaces Pape Thiaw, who was dismissed after Senegal’s defeat by Belgium in the last 32 at this summer’s World Cup. “Mr Patrick Vieira is the new coach of the Senegalese national A team,” read a statement.",
+      "category": [
+        "Coach"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2d27/live/f7afa6c0-9b0d-11f1-bb80-c1b1e1adeea5.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cr49v9dn431o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/18/patrick-vieira-appointed-as-senegal-head-coach"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr49v9dn431o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/18/patrick-vieira-appointed-as-senegal-head-coach"
+        }
+      ],
+      "id": "vieira-named-new-senegal-head-coach"
+    },
     {
       "published_at": "2026-08-18T08:33:04+00:00",
       "updated_at": "2026-08-18T08:33:04+00:00",
       "title": "Newcastle complete £30m move for Benfica's Dedic",
-      "summary": "Right-back worked with Matthias Jaissle at RB Salzburg Sunderland to announce signing of Dayann Methalie The chance to be reunited with Matthias Jaissle convinced Amar Dedic to swap Benfica for Newcastle in a £29.5m transfer. Dedic becomes Newcastle’s sixth signing of a turbulent summer on Tyneside and the 24-year-old Bosnia and Herzegovina international is likely to start at right-back at home to Liverpool on Sunday. “Working with Matthias again was a big factor for me,” said Dedic, who previously played for Newcastle’s new manager at RB Salzburg.",
+      "summary": "Newcastle United have signed Bosnia and Herzegovina international Amar Dedic from Benfica on a five-year deal",
       "category": [
         "Premier League",
         "Transfer"
@@ -23,10 +67,6 @@
         {
           "name": "Sky Sports",
           "url": "https://www.skysports.com/football/news/11095/13574258/newcastle-transfer-news-amar-dedic-completes-29-5m-move-to-st-james-park-from-benfica"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/18/newcastle-sign-amar-dedic-benfica-transfer-window"
         }
       ],
       "language": "en",
@@ -38,10 +78,6 @@
         {
           "name": "Sky Sports",
           "url": "https://www.skysports.com/football/news/11095/13574258/newcastle-transfer-news-amar-dedic-completes-29-5m-move-to-st-james-park-from-benfica"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/18/newcastle-sign-amar-dedic-benfica-transfer-window"
         }
       ],
       "id": "newcastle-complete-30m-move-for-benfica-s-dedic"
@@ -269,7 +305,7 @@
       "published_at": "2026-08-18T15:22:00+00:00",
       "updated_at": "2026-08-18T15:22:00+00:00",
       "title": "Juventus sign Vicario on loan from Spurs after deciding against Martinez move",
-      "summary": "Vicario has lost No 1 slot at Spurs to Antonin Kinsky Coventry and Ipswich also busy in the market Juventus have agreed a deal with Tottenham for Guglielmo Vicario to join on an initial loan after the Italian side decided against a move for Aston Villa’s Emiliano Martínez. Vicario is set to leave Spurs having lost his place as Roberto De Zerbi’s No 1 to Antonin Kinsky, with the agreement with Juventus containing an option to make the Italy goalkeeper’s move permanent next year for £8.6m. Martínez had been linked with the Turin club after Villa agreed a deal to sign Parma’s Zion Suzuki for around £30m but Juventus saw a €10m offer rejected over the weekend and decided to switch their attention elsewhere.",
+      "summary": "Juventus have signed Guglielmo Vicario on an initial season-long loan from Tottenham",
       "category": [
         "Serie A",
         "Transfer"
@@ -285,8 +321,8 @@
           "url": "https://www.skysports.com/football/news/11095/13574407/guglielmo-vicario-transfer-news-juventus-sign-spurs-goalkeeper-on-loan-as-emi-martinez-alternative"
         },
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/17/tottenham-guglielmo-vicario-spurs-juventus-loan-deal-transfer-window"
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWlJISWJBNENYdEJxMjdoQ3VSZjZ3M0VPZ2hiZ3ZtTHZ3dzFSdTVSMjlFeE5lNFlEcVRyMVpJcGExOGdGYVYyNWJqb0QxeGdqakRmanpneEpBc3ZGTFBGTU13MnBnbkJXWFU1SExjYkttcDBaTV9kandYWDFzZWNwdERJbWhyVHNjNi1qdGVRcVRfUFRMc0NhOGJKYjBLRlhLd3hHb1dxbHpmRFlvS2VSVkQ5ZVhPNDA3?oc=5"
         }
       ],
       "language": "en",
@@ -296,8 +332,8 @@
       },
       "confirmed_by": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/17/tottenham-guglielmo-vicario-spurs-juventus-loan-deal-transfer-window"
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWlJISWJBNENYdEJxMjdoQ3VSZjZ3M0VPZ2hiZ3ZtTHZ3dzFSdTVSMjlFeE5lNFlEcVRyMVpJcGExOGdGYVYyNWJqb0QxeGdqakRmanpneEpBc3ZGTFBGTU13MnBnbkJXWFU1SExjYkttcDBaTV9kandYWDFzZWNwdERJbWhyVHNjNi1qdGVRcVRfUFRMc0NhOGJKYjBLRlhLd3hHb1dxbHpmRFlvS2VSVkQ5ZVhPNDA3?oc=5"
         }
       ],
       "id": "juventus-sign-vicario-on-loan-from-spurs-after-deciding-against-martinez-move"
@@ -442,33 +478,6 @@
       "id": "why-fernandez-uncertainty-has-echoes-of-isak-saga"
     },
     {
-      "published_at": "2026-08-18T10:30:07+00:00",
-      "updated_at": "2026-08-18T10:30:07+00:00",
-      "title": "Middleton-Patel joins Watford on loan from Man Utd",
-      "summary": "Wales goalkeeper Safia Middleton-Patel has secured a return to Watford having rejoined the Hornets on a season-long loan deal from Manchester United",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cfaf/live/c7854cb0-9aeb-11f1-930b-57cfba7235f9.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5y479ez74zo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5y479ez74zo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "middleton-patel-joins-watford-on-loan-from-man-utd"
-    },
-    {
       "published_at": "2026-08-15T14:53:47+00:00",
       "updated_at": "2026-08-15T14:53:47+00:00",
       "title": "Otso Liimatta tvåmålsskytt – utbytt efter 26 minuter när Sirius kollapsade",
@@ -494,6 +503,64 @@
       },
       "confirmed_by": [],
       "id": "otso-liimatta-tv-m-lsskytt-utbytt-efter-26-minuter-n-r-sirius-kollapsade"
+    },
+    {
+      "published_at": "2026-08-14T20:01:01+00:00",
+      "updated_at": "2026-08-14T20:01:01+00:00",
+      "title": "Liverpool to submit bid for £42m PSG star after Manchester United approach",
+      "summary": "Official update from Liverpool — full announcement at the source.",
+      "category": [
+        "Premier League",
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Official",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "",
+      "sources": [
+        {
+          "name": "Liverpool",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Liverpool",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "liverpool-to-submit-bid-for-42m-psg-star-after-manchester-united-approach"
+    },
+    {
+      "published_at": "2026-08-13T08:51:46+00:00",
+      "updated_at": "2026-08-13T08:51:46+00:00",
+      "title": "PSG send clear message to Liverpool and Arsenal over Bradley Barcola transfer",
+      "summary": "Official update from Liverpool — full announcement at the source.",
+      "category": [
+        "Premier League",
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Official",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "",
+      "sources": [
+        {
+          "name": "Liverpool",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Liverpool",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "psg-send-clear-message-to-liverpool-and-arsenal-over-bradley-barcola-transfer"
     },
     {
       "published_at": "2026-08-17T21:42:00+00:00",
@@ -773,31 +840,33 @@
       "id": "dijan-vukojevic-matchvinnare-igen-f-r-degerfors-k-rde-ver-ifk-g-teborg"
     },
     {
-      "published_at": "2026-08-18T07:00:17+00:00",
-      "updated_at": "2026-08-18T07:00:17+00:00",
-      "title": "From Fenerbahce to Drita: six European ties to check out this week",
-      "summary": "There will be some familiar faces involved in this week’s European qualifiers as a number of smaller clubs have a chance to make their mark Fenerbahce v Lyon, Tuesday 8pm Romelu Lukaku is the latest familiar face to rock up at Fenerbahce. The 33-year-old striker is, however, unlikely to be fit for Lyon’s visit to Istanbul on Tuesday – he sat out Saturday’s 2-1 defeat to Genclerbirligi, the club his father played for in the 1990s. “This beautiful country is a second home to me,” Lukaku, who spent part of his childhood in Turkey, said last week.",
+      "published_at": "2026-08-18T14:44:44+00:00",
+      "updated_at": "2026-08-18T14:44:44+00:00",
+      "title": "Transfer roundup: Dedic completes £29.5m Newcastle move, Vicario joins Juventus",
+      "summary": "Right-back worked with Matthias Jaissle at RB Salzburg Sunderland to announce signing of Dayann Methalie The chance to be reunited with Matthias Jaissle convinced Amar Dedic to swap Benfica for Newcastle in a £29.5m transfer. Dedic becomes Newcastle’s sixth signing of a turbulent summer on Tyneside and the 24-year-old Bosnia and Herzegovina international is likely to start at right-back at home to Liverpool on Sunday. “Working with Matthias again was a big factor for me,” said Dedic, who previously played for Newcastle’s new manager at RB Salzburg.",
       "category": [
-        "Football"
+        "Premier League",
+        "Serie A",
+        "Transfer"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://i.guim.co.uk/img/media/f514fe492b8bdaa1e5397c1aa0fd8859b3e3d50a/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fcd0f6e4d6e369fa2f3eacc9ca374ae5",
+      "image": "https://i.guim.co.uk/img/media/95cca22cf76abd5f53d85e3c5b8b38a546ddf32b/160_0_1434_1147/master/1434.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1ec6399f7c22cc67eefd3c0d2ff20de7",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/18/from-fenerbahce-to-drita-celtic-brighton-six-european-ties-to-check-out-this-week"
+          "url": "https://www.theguardian.com/football/2026/aug/18/newcastle-sign-amar-dedic-benfica-transfer-window"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/18/from-fenerbahce-to-drita-celtic-brighton-six-european-ties-to-check-out-this-week"
+        "url": "https://www.theguardian.com/football/2026/aug/18/newcastle-sign-amar-dedic-benfica-transfer-window"
       },
       "confirmed_by": [],
-      "id": "from-fenerbahce-to-drita-six-european-ties-to-check-out-this-week"
+      "id": "transfer-roundup-dedic-completes-29-5m-newcastle-move-vicario-joins-juventus"
     },
     {
       "published_at": "2026-08-18T07:00:17+00:00",
@@ -826,6 +895,33 @@
       },
       "confirmed_by": [],
       "id": "interviewing-jos-mourinho-ego-charisma-talent-and-his-rucksack-of-pain"
+    },
+    {
+      "published_at": "2026-08-18T07:00:17+00:00",
+      "updated_at": "2026-08-18T07:00:17+00:00",
+      "title": "From Fenerbahce to Drita: six European ties to check out this week",
+      "summary": "There will be some familiar faces involved in this week’s European qualifiers as a number of smaller clubs have a chance to make their mark Fenerbahce v Lyon, Tuesday 8pm Romelu Lukaku is the latest familiar face to rock up at Fenerbahce. The 33-year-old striker is, however, unlikely to be fit for Lyon’s visit to Istanbul on Tuesday – he sat out Saturday’s 2-1 defeat to Genclerbirligi, the club his father played for in the 1990s. “This beautiful country is a second home to me,” Lukaku, who spent part of his childhood in Turkey, said last week.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/f514fe492b8bdaa1e5397c1aa0fd8859b3e3d50a/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fcd0f6e4d6e369fa2f3eacc9ca374ae5",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/18/from-fenerbahce-to-drita-celtic-brighton-six-european-ties-to-check-out-this-week"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/18/from-fenerbahce-to-drita-celtic-brighton-six-european-ties-to-check-out-this-week"
+      },
+      "confirmed_by": [],
+      "id": "from-fenerbahce-to-drita-six-european-ties-to-check-out-this-week"
     },
     {
       "published_at": "2026-08-17T07:42:16+00:00",
@@ -991,33 +1087,6 @@
       "id": "inf-r-gais-malm-ff"
     },
     {
-      "published_at": "2026-08-11T14:49:50+00:00",
-      "updated_at": "2026-08-11T14:49:50+00:00",
-      "title": "Roony Bardghji tvingas till operation",
-      "summary": "En korsbandsskada kommer tvinga vårt blågula löfte till operation och sannolikt lång tid för rehabilitering",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/0aVb1Gl1TUCrD0ORMzOxyA6iD4oSmh0hsTyETSWw.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/roony-bardghji-tvingas-till-operation-699057"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/roony-bardghji-tvingas-till-operation-699057"
-      },
-      "confirmed_by": [],
-      "id": "roony-bardghji-tvingas-till-operation"
-    },
-    {
       "published_at": "2026-08-15T23:14:00+00:00",
       "updated_at": "2026-08-15T23:14:00+00:00",
       "title": "PSG sign Belgium winger Mika Godts from Ajax for €55m",
@@ -1073,76 +1142,253 @@
       "id": "today-s-papers-big-milan-surprise-juventus-welcome-vicario"
     },
     {
-      "published_at": "2026-08-17T22:00:00+00:00",
-      "updated_at": "2026-08-17T22:00:00+00:00",
-      "title": "Colwill hits last-second stunner as Cardiff fight back to deny Wrexham",
-      "summary": "Rubin Colwill scored a ferocious equaliser with almost the final kick of the match to earn Cardiff a 1-1 Championship draw with Wrexham. Wrexham appeared to have the Welsh derby bragging rights sewn up as the contest ticked into the eighth minute of added time at Cardiff City Stadium.",
+      "published_at": "2026-08-17T20:06:02+00:00",
+      "updated_at": "2026-08-17T20:06:02+00:00",
+      "title": "LIVE Done Deals Tracker: Latest Serie A transfer agreements for summer 2026",
+      "summary": "Read the full report at Football Italia.",
       "category": [
-        "Football"
+        "Serie A",
+        "Transfer"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-rubin-colwill-cardiff_7324435.jpg?20260817220931",
+      "image": "",
       "sources": [
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/cardiff-city-vs-wrexham/report/560509"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/17/wrexham-cardiff-championship-match-report"
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/cardiff-city-vs-wrexham/report/560509"
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/17/wrexham-cardiff-championship-match-report"
-        }
-      ],
-      "id": "colwill-hits-last-second-stunner-as-cardiff-fight-back-to-deny-wrexham"
+      "confirmed_by": [],
+      "id": "live-done-deals-tracker-latest-serie-a-transfer-agreements-for-summer-2026"
     },
     {
-      "published_at": "2026-08-17T12:50:00+00:00",
-      "updated_at": "2026-08-17T12:50:00+00:00",
-      "title": "Maresca's Man City problems are more than a missing midfield",
-      "summary": "Additions of Guimarães and Tzolis, plus re-emergence of Ødegaard, mean champions start clear favourites after Community Shield win If this was a glimpse of the Premier League’s new order then the rest had better watch out. By the time Martin Ødegaard sat Gianluigi Donnarumma down to make it 3-0 to the champions , the Arsenal party was in full swing. “Can we play you every week?” their supporters gleefully taunted their counterparts in sky blue.",
+      "published_at": "2026-08-17T18:53:24+00:00",
+      "updated_at": "2026-08-17T18:53:24+00:00",
+      "title": "Genoa pushing for Ferguson loan from Brighton after Roma struggle",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "brighton",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "genoa-pushing-for-ferguson-loan-from-brighton-after-roma-struggle"
+    },
+    {
+      "published_at": "2026-08-17T18:27:11+00:00",
+      "updated_at": "2026-08-17T18:27:11+00:00",
+      "title": "Official: Inter loan Berenbruch to Avellino, option and counter option",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "official-inter-loan-berenbruch-to-avellino-option-and-counter-option"
+    },
+    {
+      "published_at": "2026-08-16T11:49:12+00:00",
+      "updated_at": "2026-08-16T11:49:12+00:00",
+      "title": "Inter could change summer transfer strategy if Luis Henrique is sold",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "inter-could-change-summer-transfer-strategy-if-luis-henrique-is-sold"
+    },
+    {
+      "published_at": "2026-08-13T16:49:07+00:00",
+      "updated_at": "2026-08-13T16:49:07+00:00",
+      "title": "Monza lose captain Pessina ‘for a while’ after serious knee injury, confirms Juric",
+      "summary": "Read the full report at Football Italia.",
       "category": [
         "Football"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-elliot-anderson-manchester-city_7323369.jpg?20260816165512",
+      "club": "",
+      "image": "",
       "sources": [
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13573985/man-citys-community-shield-defeat-to-arsenal-revealed-the-scale-of-the-job-facing-enzo-maresca-on-eve-of-new-premier-league-season"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-premier-league"
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13573985/man-citys-community-shield-defeat-to-arsenal-revealed-the-scale-of-the-job-facing-enzo-maresca-on-eve-of-new-premier-league-season"
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
-      "confirmed_by": [
+      "confirmed_by": [],
+      "id": "monza-lose-captain-pessina-for-a-while-after-serious-knee-injury-confirms-juric"
+    },
+    {
+      "published_at": "2026-08-13T16:21:55+00:00",
+      "updated_at": "2026-08-13T16:21:55+00:00",
+      "title": "Vlahovic goodbye to Juventus after signing new Besiktas contract",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-premier-league"
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
-      "id": "maresca-s-man-city-problems-are-more-than-a-missing-midfield"
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "vlahovic-goodbye-to-juventus-after-signing-new-besiktas-contract"
+    },
+    {
+      "published_at": "2026-08-12T12:54:26+00:00",
+      "updated_at": "2026-08-12T12:54:26+00:00",
+      "title": "Piccoli agreement with Bologna at €18m plus bonus sparks Serie A domino effect",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "piccoli-agreement-with-bologna-at-18m-plus-bonus-sparks-serie-a-domino-effect"
+    },
+    {
+      "published_at": "2026-08-18T10:07:46+00:00",
+      "updated_at": "2026-08-18T10:07:46+00:00",
+      "title": "Inter favourites to retain Serie A title with rivals under new management",
+      "summary": "Read the full report at Reuters.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Reuters",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "inter-favourites-to-retain-serie-a-title-with-rivals-under-new-management"
+    },
+    {
+      "published_at": "2026-08-18T08:03:14+00:00",
+      "updated_at": "2026-08-18T08:03:14+00:00",
+      "title": "The making of Jeremy Jacquet: The teenage ‘force of nature’ who was ‘exceptional’ with the ball",
+      "summary": "Read the full report at The Athletic.",
+      "category": [
+        "Football"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "the-making-of-jeremy-jacquet-the-teenage-force-of-nature-who-was-exceptional-with-the-ball"
     },
     {
       "published_at": "2026-08-18T05:35:02+00:00",
@@ -1391,37 +1637,10 @@
       "id": "psg-2-1-aston-villa-is-kvaratskhelia-the-most-talented-player-in-the-world-has-a-new-star-"
     },
     {
-      "published_at": "2026-08-18T14:30:00+00:00",
-      "updated_at": "2026-08-18T14:30:00+00:00",
-      "title": "Vieira named Senegal head coach",
-      "summary": "Read the full report at Sky Sports.",
-      "category": [
-        "Coach"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-vieira-senegal_7324922.jpg?20260818143449",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
-      },
-      "confirmed_by": [],
-      "id": "vieira-named-senegal-head-coach"
-    },
-    {
       "published_at": "2026-08-18T10:30:00+00:00",
       "updated_at": "2026-08-18T10:30:00+00:00",
       "title": "The Premier League is back! All 20 clubs assessed",
-      "summary": "Football hasn't stopped this summer, so to make sure you're up to speed with how every Premier League is shaping up ahead of the new season we've taken a look at their preparations for the new campaign",
+      "summary": "Football hasn't stopped this summer, so to make sure you're up to speed with how every Premier League team is shaping up ahead of the new season we've taken a look at their preparations for the new campaign",
       "category": [
         "Premier League"
       ],
@@ -1429,7 +1648,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-premier-league-manchester-united_7323862.jpg?20260817100219",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-premier-league-season_7324958.jpg?20260818160955",
       "sources": [
         {
           "name": "Sky Sports",
@@ -1526,6 +1745,33 @@
       "id": "do-chelsea-have-the-best-front-three-in-the-premier-league"
     },
     {
+      "published_at": "2026-08-17T16:01:00+00:00",
+      "updated_at": "2026-08-17T16:01:00+00:00",
+      "title": "Man Utd captain Fernandes not for sale despite Galatasaray interest",
+      "summary": "Manchester United captain Bruno Fernandes is not for sale at any price despite interest from Galatasaray",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/05/1600x900/skysports-bruno-fernandes-manchester-united_7257272.jpg?20260524172043",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13574095/bruno-fernandes-transfer-news-manchester-united-captain-not-for-sale-at-any-price-despite-galatasaray-interest"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13574095/bruno-fernandes-transfer-news-manchester-united-captain-not-for-sale-at-any-price-despite-galatasaray-interest"
+      },
+      "confirmed_by": [],
+      "id": "man-utd-captain-fernandes-not-for-sale-despite-galatasaray-interest"
+    },
+    {
       "published_at": "2026-08-17T15:15:00+00:00",
       "updated_at": "2026-08-17T15:15:00+00:00",
       "title": "How are Man Utd shaping up ahead of the new season?",
@@ -1551,6 +1797,60 @@
       },
       "confirmed_by": [],
       "id": "how-are-man-utd-shaping-up-ahead-of-the-new-season"
+    },
+    {
+      "published_at": "2026-08-17T12:50:00+00:00",
+      "updated_at": "2026-08-17T12:50:00+00:00",
+      "title": "Maresca's Man City problems are more than a missing midfield",
+      "summary": "Enzo Maresca spoke of his desire to \"close the gap\" between Manchester City and Arsenal before watching his side suffer a painful 3-0 defeat in the Community Shield on Sunday. Perhaps the gaping holes through the spine of his team should be more of an immediate area of focus",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-elliot-anderson-manchester-city_7323369.jpg?20260816165512",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13573985/man-citys-community-shield-defeat-to-arsenal-revealed-the-scale-of-the-job-facing-enzo-maresca-on-eve-of-new-premier-league-season"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13573985/man-citys-community-shield-defeat-to-arsenal-revealed-the-scale-of-the-job-facing-enzo-maresca-on-eve-of-new-premier-league-season"
+      },
+      "confirmed_by": [],
+      "id": "maresca-s-man-city-problems-are-more-than-a-missing-midfield"
+    },
+    {
+      "published_at": "2026-08-18T14:57:00+00:00",
+      "updated_at": "2026-08-18T14:57:00+00:00",
+      "title": "Klart: Moonga Simba till Velez Mostar",
+      "summary": "Klart: Moonga Simba till Velez Mostar Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "klart-moonga-simba-till-velez-mostar"
     },
     {
       "published_at": "2026-08-18T13:46:00+00:00",
@@ -1635,33 +1935,6 @@
       "id": "officiellt-dortmund-v-rvar-veerman"
     },
     {
-      "published_at": "2026-08-18T09:38:00+00:00",
-      "updated_at": "2026-08-18T09:38:00+00:00",
-      "title": "Uppgifter: Prislappen på Soumah avskräcker",
-      "summary": "Uppgifter: Prislappen på Soumah avskräcker Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-prislappen-p-soumah-avskr-cker"
-    },
-    {
       "published_at": "2026-08-18T10:38:02+00:00",
       "updated_at": "2026-08-18T10:38:02+00:00",
       "title": "David Squires on … new managers causing a stir before Premier League’s return",
@@ -1690,6 +1963,33 @@
       "id": "david-squires-on-new-managers-causing-a-stir-before-premier-league-s-return"
     },
     {
+      "published_at": "2026-08-17T21:32:53+00:00",
+      "updated_at": "2026-08-17T21:32:53+00:00",
+      "title": "Rubin Colwill’s last-gasp free-kick earns Cardiff dramatic point against Wrexham",
+      "summary": "Rubin Colwill scored a ferocious equaliser with almost the final kick of the match to earn Cardiff a 1-1 Championship draw with Wrexham. Wrexham appeared to have the Welsh derby bragging rights sewn up as the contest ticked into the eighth minute of added time at Cardiff City Stadium.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/fecc5b21105bc55d506b053f11cdd6a6606a53e4/408_0_2984_2388/master/2984.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5c84ec3d1c1085426d961f0f050ff2b0",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/17/wrexham-cardiff-championship-match-report"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/17/wrexham-cardiff-championship-match-report"
+      },
+      "confirmed_by": [],
+      "id": "rubin-colwill-s-last-gasp-free-kick-earns-cardiff-dramatic-point-against-wrexham"
+    },
+    {
       "published_at": "2026-08-17T19:36:00+00:00",
       "updated_at": "2026-08-17T19:36:00+00:00",
       "title": "Sergio’s stunner lights up El Sardinero on Racing Santander’s emotional La Liga return | Sid Lowe",
@@ -1715,60 +2015,6 @@
       },
       "confirmed_by": [],
       "id": "sergio-s-stunner-lights-up-el-sardinero-on-racing-santander-s-emotional-la-liga-return-sid"
-    },
-    {
-      "published_at": "2026-08-17T14:00:56+00:00",
-      "updated_at": "2026-08-17T14:00:56+00:00",
-      "title": "‘I’ll remember it for the rest of my life’: the footballers whose biggest games come before their league begins",
-      "summary": "Larne defender Dan Bent has played in two European competitions this summer and now faces a former team in a Conference League tie that could earn his club vital funds By Playing in the Shadows Premier League footballers are gearing up for the start of the season, but some of their fellow professionals in smaller leagues across Europe have been going all summer – even those who play a winter campaign. Some played the biggest games of their lives when the rest of us were watching the World Cup. The Champions League qualifiers began when the World Cup was at the last-16 stage, with some clubs already knocked out of Europe by the time England were beaten by Argentina in Atlanta.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/f787a36f939069b6a24b90380f1ae612337bf66b/1496_432_2197_1757/master/2197.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=604045b94d311b184a2e70892780ed53",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/17/footballers-games-champions-league-europa-conference-prize-money"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/17/footballers-games-champions-league-europa-conference-prize-money"
-      },
-      "confirmed_by": [],
-      "id": "i-ll-remember-it-for-the-rest-of-my-life-the-footballers-whose-biggest-games-come-before-t"
-    },
-    {
-      "published_at": "2026-08-16T17:18:51+00:00",
-      "updated_at": "2026-08-16T17:18:51+00:00",
-      "title": "Flemming’s dramatic Burnley double pegs back West Ham on Championship return",
-      "summary": "There are many good reasons why Burnley and West Ham are performing as Premier League tribute acts, slumming it in the Championship with the hope of a shot at the limelight once more. They are two flawed teams, relegated because of chronic defects, and plenty were on show as West Ham blew a two-goal lead to start life on the second-tier circuit with an entertaining draw. Zian Flemming’s late double secured a thoroughly deserved point for the hosts, who showed promise going forward but took far too long to find a clinical finish.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/e67c8f11f546880eb0b26cd8065ea9a5faef4418/682_417_2153_1723/master/2153.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6df83ec8b854728e6b5b465d4a492c54",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/16/burnley-west-ham-championship-match-report"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/16/burnley-west-ham-championship-match-report"
-      },
-      "confirmed_by": [],
-      "id": "flemming-s-dramatic-burnley-double-pegs-back-west-ham-on-championship-return"
     },
     {
       "published_at": "2026-08-18T13:40:00+00:00",
@@ -1931,115 +2177,6 @@
       },
       "confirmed_by": [],
       "id": "geflepodden-513-fr-gorna-kvarst-r"
-    },
-    {
-      "published_at": "2026-08-17T12:16:56+00:00",
-      "updated_at": "2026-08-17T12:16:56+00:00",
-      "title": "FFF spelar om en plats i Svenska Cupens gruppspel",
-      "summary": "IFK Skövde borta under tisdagskvällen i Svenska Cupens andra omgång är Gulvitts nästa uppgift. Vid vinst väntar ett nytt gruppspel på försäsongen 2027",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2085450.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/fff-spelar-om-en-plats-i-svenska-cupens-gruppspel-699287"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/fff-spelar-om-en-plats-i-svenska-cupens-gruppspel-699287"
-      },
-      "confirmed_by": [],
-      "id": "fff-spelar-om-en-plats-i-svenska-cupens-gruppspel"
-    },
-    {
-      "published_at": "2026-08-18T11:00:00+00:00",
-      "updated_at": "2026-08-18T11:00:00+00:00",
-      "title": "2026 FC 100: Where do Rice, Vitinha rank among best central midfielders in men's soccer?",
-      "summary": "Read the full report at ESPN.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "ESPN",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "ESPN",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "2026-fc-100-where-do-rice-vitinha-rank-among-best-central-midfielders-in-men-s-soccer"
-    },
-    {
-      "published_at": "2026-08-18T13:00:00+00:00",
-      "updated_at": "2026-08-18T13:00:00+00:00",
-      "title": "Liverpool 2026/27 season Q&A - your questions answered!",
-      "summary": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://e0.365dm.com/26/06/1600x900/skysports-liverpool-club-blog_7266198.jpg?20260605143916",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "liverpool-2026-27-season-q-a-your-questions-answered"
-    },
-    {
-      "published_at": "2026-08-18T13:30:12+00:00",
-      "updated_at": "2026-08-18T13:30:12+00:00",
-      "title": "LIVE Done Deals Tracker: New signings arrive for Milan and Roma",
-      "summary": "Check the latest done deals and official transfers completed in Serie A, as the summer window goes into its final month of activity",
-      "category": [
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://icdn.football-italia.net/wp-content/uploads/2024/08/Transfer-Liveblog.jpg",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://football-italia.net/live-done-deal-tracker-latest-serie-a-transfer/"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://football-italia.net/live-done-deal-tracker-latest-serie-a-transfer/"
-      },
-      "confirmed_by": [],
-      "id": "live-done-deals-tracker-new-signings-arrive-for-milan-and-roma"
     }
   ]
 }
