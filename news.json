@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T21:25:14.287744+00:00",
+  "updated_at": "2026-08-18T22:23:57.907532+00:00",
   "items": [
     {
       "published_at": "2026-08-18T20:43:01+00:00",
@@ -185,6 +185,42 @@
       "id": "chelsea-co-owners-boehly-walter-explore-selling-stakes"
     },
     {
+      "published_at": "2026-08-17T11:06:51+00:00",
+      "updated_at": "2026-08-17T11:06:51+00:00",
+      "title": "Man City news: Bouaddi deal nears as Rodri set for exit - have your say",
+      "summary": "Those who followed Morocco's recent World Cup campaign will recognise the name Ayyoub Bouaddi. Perhaps those who only took a passing glance will remember him, too.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13571912/ayyoub-bouaddi-transfer-why-do-man-city-want-to-spend-big-on-another-midfielder-after-signing-elliot-anderson"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13571912/ayyoub-bouaddi-transfer-why-do-man-city-want-to-spend-big-on-another-midfielder-after-signing-elliot-anderson"
+        }
+      ],
+      "id": "man-city-news-bouaddi-deal-nears-as-rodri-set-for-exit-have-your-say"
+    },
+    {
       "published_at": "2026-08-16T17:56:55+00:00",
       "updated_at": "2026-08-16T17:56:55+00:00",
       "title": "Anders Christiansen om framtiden: ”De får bära mig ut”",
@@ -219,6 +255,33 @@
         }
       ],
       "id": "anders-christiansen-om-framtiden-de-f-r-b-ra-mig-ut"
+    },
+    {
+      "published_at": "2026-08-18T21:26:12+00:00",
+      "updated_at": "2026-08-18T21:26:12+00:00",
+      "title": "Palace sign United States prospect Gozo",
+      "summary": "Crystal Palace sign forward Zavier Gozo from Real Salt Lake for a reported $15m (£11.08m)",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4e59/live/869e1160-9b49-11f1-a98d-2d938d056219.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cpq80q88dyqo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cpq80q88dyqo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "palace-sign-united-states-prospect-gozo"
     },
     {
       "published_at": "2026-08-18T19:25:40+00:00",
@@ -259,7 +322,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8159/live/543b3a30-9b2c-11f1-9a2c-6d6ac3827d20.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5d2a/live/cae6f730-9b4c-11f1-a4d5-27953a73ef84.jpg",
       "sources": [
         {
           "name": "BBC Sport",
@@ -300,62 +363,6 @@
       },
       "confirmed_by": [],
       "id": "new-celtic-signings-unlikely-before-lask-tie-o-neill"
-    },
-    {
-      "published_at": "2026-08-18T14:28:36+00:00",
-      "updated_at": "2026-08-18T14:28:36+00:00",
-      "title": "Kane set to begin talks over new Bayern contract",
-      "summary": "Harry Kane says he is ready to begin discussions with Bayern Munich over extending his contract with the Bundesliga champions",
-      "category": [
-        "Bundesliga",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "bayern-munich",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7361/live/1f01f500-9b10-11f1-9341-0383083a41e3.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c07rlr0yzkvo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c07rlr0yzkvo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "kane-set-to-begin-talks-over-new-bayern-contract"
-    },
-    {
-      "published_at": "2026-08-18T12:53:47+00:00",
-      "updated_at": "2026-08-18T12:53:47+00:00",
-      "title": "Chelsea news: Strasbourg hold talks for striker Deivid Washington",
-      "summary": "Read the full report at BBC Sport.",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "chelsea-news-strasbourg-hold-talks-for-striker-deivid-washington"
     },
     {
       "published_at": "2026-08-18T17:32:21+00:00",
@@ -471,31 +478,31 @@
       "id": "psg-send-clear-message-to-liverpool-and-arsenal-over-bradley-barcola-transfer"
     },
     {
-      "published_at": "2026-08-18T10:00:00+00:00",
-      "updated_at": "2026-08-18T10:00:00+00:00",
-      "title": "Man City have signed Anderson - why do they also want Bouaddi?",
-      "summary": "Those who followed Morocco's recent World Cup campaign will recognise the name Ayyoub Bouaddi. Perhaps those who only took a passing glance will remember him, too.",
+      "published_at": "2026-08-18T22:40:00+00:00",
+      "updated_at": "2026-08-18T22:40:00+00:00",
+      "title": "Papers: Barca midfielder rejects chance to join Man Utd",
+      "summary": "Latest transfer news and headlines as Crystal Palace star Adam Wharton emerges as a Man City midfield target; Saudi side Al Hilal have submitted a £38.5m bid for Aston Villa striker Ollie Watkins; Harry Kane is ready to snub Saudi millions and commit his future to Bayern Munich",
       "category": [
-        "Transfer"
+        "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-ayyoub-bouaddi-man-city_7318898.jpg?20260811125558",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13571912/ayyoub-bouaddi-transfer-why-do-man-city-want-to-spend-big-on-another-midfielder-after-signing-elliot-anderson"
+          "url": "https://www.skysports.com/football/news/11095/13574535/man-utd-transfer-news-barcelona-midfielder-gavi-rejects-chance-to-join-old-trafford-paper-talk"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13571912/ayyoub-bouaddi-transfer-why-do-man-city-want-to-spend-big-on-another-midfielder-after-signing-elliot-anderson"
+        "url": "https://www.skysports.com/football/news/11095/13574535/man-utd-transfer-news-barcelona-midfielder-gavi-rejects-chance-to-join-old-trafford-paper-talk"
       },
       "confirmed_by": [],
-      "id": "man-city-have-signed-anderson-why-do-they-also-want-bouaddi"
+      "id": "papers-barca-midfielder-rejects-chance-to-join-man-utd"
     },
     {
       "published_at": "2026-08-17T21:42:00+00:00",
@@ -956,6 +963,33 @@
       },
       "confirmed_by": [],
       "id": "australia-s-brightest-young-talents-are-on-the-move-and-it-bodes-well-for-the-socceroos-ja"
+    },
+    {
+      "published_at": "2026-08-18T21:51:39+00:00",
+      "updated_at": "2026-08-18T21:51:39+00:00",
+      "title": "Beskedet: ”JKR” har opererats",
+      "summary": "Johanna Rytting Kaneryd är korsbandsskadad igen. Men nu har hon genomgått en operation. ”Tack för all kärlek och styrka”, skriver stjärnan på Instagram",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2096407.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/beskedet-jkr-har-opererats-699348"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/beskedet-jkr-har-opererats-699348"
+      },
+      "confirmed_by": [],
+      "id": "beskedet-jkr-har-opererats"
     },
     {
       "published_at": "2026-08-18T16:43:00+00:00",
@@ -1888,10 +1922,10 @@
       "id": "uppgifter-soumah-n-ra-panaitolikos"
     },
     {
-      "published_at": "2026-08-18T18:28:00+00:00",
-      "updated_at": "2026-08-18T18:28:00+00:00",
-      "title": "Karlberg med cupskräll - slog ut Brage",
-      "summary": "Karlberg med cupskräll - slog ut Brage Fotbollskanalen",
+      "published_at": "2026-08-18T17:55:00+00:00",
+      "updated_at": "2026-08-18T17:55:00+00:00",
+      "title": "Uppgifter: AIK säljer Victor Andersson",
+      "summary": "Uppgifter: AIK säljer Victor Andersson Fotbollskanalen",
       "category": [
         "Sverige"
       ],
@@ -1912,7 +1946,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "karlberg-med-cupskr-ll-slog-ut-brage"
+      "id": "uppgifter-aik-s-ljer-victor-andersson"
     },
     {
       "published_at": "2026-08-18T10:38:02+00:00",
@@ -2103,33 +2137,6 @@
       },
       "confirmed_by": [],
       "id": "elfsborg-gick-enkelt-vidare-i-svenska-cupen"
-    },
-    {
-      "published_at": "2026-08-18T17:00:00+00:00",
-      "updated_at": "2026-08-18T17:00:00+00:00",
-      "title": "Reflektioner efter överkörningen mot Kalmar",
-      "summary": "Ett uttryck som sällan varit så sant som nu. Efter uttåget och misären mot Raków följde herrarna upp med en av de mest övertygande insatserna jag sett på länge. En total utskåpning av Kalmar, där det stundtals såg ut som att Barcelona hade rest till Småland för att visa upp sig.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/cgssk6me5tXjQQ8vXR4IU3f2tUzBZBxCnwCFq5jx.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/reflektioner-efter-overkorningen-mot-kalmar-699323"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/reflektioner-efter-overkorningen-mot-kalmar-699323"
-      },
-      "confirmed_by": [],
-      "id": "reflektioner-efter-verk-rningen-mot-kalmar"
     }
   ]
 }
