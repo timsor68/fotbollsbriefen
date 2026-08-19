@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T16:32:18.058867+00:00",
+  "updated_at": "2026-08-19T17:27:15.080579+00:00",
   "items": [
     {
       "published_at": "2026-08-19T14:23:20+00:00",
@@ -247,43 +247,6 @@
       "id": "pogba-leaves-monaco-after-contract-termination"
     },
     {
-      "published_at": "2026-08-16T19:37:45+00:00",
-      "updated_at": "2026-08-16T19:37:45+00:00",
-      "title": "Rodri transfer news: Spain captain agrees deal to join Barcelona from Man City",
-      "summary": "Barcelona have confirmed the signing of Rodri from Manchester City in a deal worth £65.4m",
-      "category": [
-        "La Liga",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13574286/rodri-transfer-news-barcelona-complete-65-4m-signing-of-spain-midfielder-from-man-city"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13574286/rodri-transfer-news-barcelona-complete-65-4m-signing-of-spain-midfielder-from-man-city"
-        }
-      ],
-      "id": "rodri-transfer-news-spain-captain-agrees-deal-to-join-barcelona-from-man-city"
-    },
-    {
       "published_at": "2026-08-16T17:56:55+00:00",
       "updated_at": "2026-08-16T17:56:55+00:00",
       "title": "Anders Christiansen om framtiden: ”De får bära mig ut”",
@@ -320,9 +283,72 @@
       "id": "anders-christiansen-om-framtiden-de-f-r-b-ra-mig-ut"
     },
     {
+      "published_at": "2026-08-19T17:55:00+00:00",
+      "updated_at": "2026-08-19T17:55:00+00:00",
+      "title": "Masters, Webb criticise FIFA over Balogun red card controversy",
+      "summary": "USA striker missed no matches after sending-off ‘Far too often now decisions are viewed as corrupt’ Howard Webb was “really troubled” by the decision of Fifa’s disciplinary committee to suspend Folarin Balogun’s ban for a red card during the World Cup, warning of a growing belief in refereeing conspiracies among supporters. Webb, English football’s chief refereeing officer, was speaking before the new Premier League season, where, among a series of new measures, independent assessments of key refereeing decisions are to be made public for the first time. “I was really troubled by it,” Webb said of the reprieve for the USA striker Balogun, which followed a direct appeal from the US president, Donald Trump .",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "folarin-balogun",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/07/1600x900/skysports-balogun-usa_7287725.jpg?20260702023831",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13574783/richard-masters-and-howard-webb-criticise-fifa-over-folarin-baloguns-red-card-controversy-at-2026-world-cup"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/19/referees-chief-howard-webb-really-troubled-by-folarin-balogun-escaping-world-cup-ban"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13574783/richard-masters-and-howard-webb-criticise-fifa-over-folarin-baloguns-red-card-controversy-at-2026-world-cup"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/19/referees-chief-howard-webb-really-troubled-by-folarin-balogun-escaping-world-cup-ban"
+        }
+      ],
+      "id": "masters-webb-criticise-fifa-over-balogun-red-card-controversy"
+    },
+    {
+      "published_at": "2026-08-19T16:26:06+00:00",
+      "updated_at": "2026-08-19T16:26:06+00:00",
+      "title": "Questions remain over Vieira deal amid Senegal uncertainty",
+      "summary": "Questions remain over the appointment of Patrick Vieira as Senegal's new head coach, with the country's football federation riven by off-field issues",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2738/live/63786550-9bd5-11f1-bb4d-1147ef2e78e5.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cddjvjqd5mro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cddjvjqd5mro?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "questions-remain-over-vieira-deal-amid-senegal-uncertainty"
+    },
+    {
       "published_at": "2026-08-19T16:01:19+00:00",
       "updated_at": "2026-08-19T16:01:19+00:00",
-      "title": "Burnley: Clarets sign French goalkeeper Coudert from Brest",
+      "title": "Burnley sign French goalkeeper Coudert from Brest",
       "summary": "Read the full report at BBC Sport.",
       "category": [
         "Transfer"
@@ -344,7 +370,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "burnley-clarets-sign-french-goalkeeper-coudert-from-brest"
+      "id": "burnley-sign-french-goalkeeper-coudert-from-brest"
     },
     {
       "published_at": "2026-08-19T15:52:49+00:00",
@@ -705,42 +731,6 @@
       "id": "karabeljovs-ot-cka-skada-fyra-frakturer"
     },
     {
-      "published_at": "2026-08-17T20:06:23+00:00",
-      "updated_at": "2026-08-17T20:06:23+00:00",
-      "title": "Isak Bjerkebo har nobbat bud: ”Var väldigt tydlig”",
-      "summary": "Intresset för Isak Bjerkebo, 23, är stort – och ett bud har nått stjärnan. – Det var ingenting som passade mig, säger han i SVT:s Fotbollsstudion",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.68/0.32/0727a55e91b38dad48bef1b22e51abc0d82f06eb2e819c84d023a74818776703",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/isak-bjerkebo-har-nobbat-bud-var-valdigt-tydlig"
-        },
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVXc4UXdnZEZTc3A0S201S0ZXVjNlcVRlTDQwTmZpVVpTY0lyTC1YdE9pU3RQbGN4VzBIVXg5ekpmZFRJV1VNcmpLeGNvc1pSQnR3WTNXbTNPcnhWSktWRHBIQTJfV0ZSR2xQakVnU2tMVG1MZnpvcm1FTTY5bHB6NWtGQmFDWlE3R2FKVkJxWmo?oc=5"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/isak-bjerkebo-har-nobbat-bud-var-valdigt-tydlig"
-      },
-      "confirmed_by": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVXc4UXdnZEZTc3A0S201S0ZXVjNlcVRlTDQwTmZpVVpTY0lyTC1YdE9pU3RQbGN4VzBIVXg5ekpmZFRJV1VNcmpLeGNvc1pSQnR3WTNXbTNPcnhWSktWRHBIQTJfV0ZSR2xQakVnU2tMVG1MZnpvcm1FTTY5bHB6NWtGQmFDWlE3R2FKVkJxWmo?oc=5"
-        }
-      ],
-      "id": "isak-bjerkebo-har-nobbat-bud-var-v-ldigt-tydlig"
-    },
-    {
       "published_at": "2026-08-16T15:17:33+00:00",
       "updated_at": "2026-08-16T15:17:33+00:00",
       "title": "Jani Honkavaara: ”Jag gillade inte domaren”",
@@ -811,33 +801,6 @@
         }
       ],
       "id": "why-are-barcelona-and-real-madrid-not-playing-in-la-liga-s-opening-weekend"
-    },
-    {
-      "published_at": "2026-08-19T16:05:18+00:00",
-      "updated_at": "2026-08-19T16:05:18+00:00",
-      "title": "Referees’ chief Howard Webb ‘really troubled’ by Folarin Balogun escaping World Cup ban",
-      "summary": "USA striker missed no matches after sending-off ‘Far too often now decisions are viewed as corrupt’ Howard Webb was “really troubled” by the decision of Fifa’s disciplinary committee to suspend Folarin Balogun’s ban for a red card during the World Cup, warning of a growing belief in refereeing conspiracies among supporters. Webb, English football’s chief refereeing officer, was speaking before the new Premier League season, where, among a series of new measures, independent assessments of key refereeing decisions are to be made public for the first time. “I was really troubled by it,” Webb said of the reprieve for the USA striker Balogun, which followed a direct appeal from the US president, Donald Trump .",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "folarin-balogun",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/342bc703db301440e0f8ea4bebf312b521b6339b/365_0_1847_1477/master/1847.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a7dd41b0b6deab91e3bcee423506a385",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/19/referees-chief-howard-webb-really-troubled-by-folarin-balogun-escaping-world-cup-ban"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/19/referees-chief-howard-webb-really-troubled-by-folarin-balogun-escaping-world-cup-ban"
-      },
-      "confirmed_by": [],
-      "id": "referees-chief-howard-webb-really-troubled-by-folarin-balogun-escaping-world-cup-ban"
     },
     {
       "published_at": "2026-08-19T14:23:22+00:00",
@@ -1083,6 +1046,33 @@
       "id": "israel-withdraws-support-for-embattled-fifa-president-gianni-infantino"
     },
     {
+      "published_at": "2026-08-18T16:53:13+00:00",
+      "updated_at": "2026-08-18T16:53:13+00:00",
+      "title": "Chelsea’s boardroom rift: if Boehly goes who will Clearlake have left to blame? | Sam Cunningham",
+      "summary": "Despite another reset with a new manager and fresh strategy, the boardroom drama persists at Stamford Bridge Perhaps, in hindsight, it was always going to end this way. As some of the world’s wealthiest investors scrambled to find funds after Vladimir Putin’s invasion of Ukraine set a series of dominoes toppling that forced Roman Abramovich to sell Chelsea , it threw together some unexpected allies. Todd Boehly became the public face of the winning bid, convincing the US sports mogul Mark Walter and the Swiss businessman Hansjörg Wyss to join as 12.8% minority investors.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://i.guim.co.uk/img/media/4ead7116325e70109d51e315765412e81f237b5e/187_0_2241_1793/master/2241.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a3986b1a7248ba64f03419673607bab",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/18/chelsea-todd-boehly-mark-walter-clearlake-capital-ownership"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/18/chelsea-todd-boehly-mark-walter-clearlake-capital-ownership"
+      },
+      "confirmed_by": [],
+      "id": "chelsea-s-boardroom-rift-if-boehly-goes-who-will-clearlake-have-left-to-blame-sam-cunningh"
+    },
+    {
       "published_at": "2026-08-19T08:37:00+00:00",
       "updated_at": "2026-08-19T08:37:00+00:00",
       "title": "Sirius-tränaren kastar om pressen: ”Skämmigt om Hammarby inte vinner”",
@@ -1275,34 +1265,6 @@
       "id": "juventus-could-still-sign-another-goalkeeper-on-top-of-vicario"
     },
     {
-      "published_at": "2026-08-19T09:45:12+00:00",
-      "updated_at": "2026-08-19T09:45:12+00:00",
-      "title": "LIVE Done Deals Tracker: Latest Serie A transfer agreements for summer 2026",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "live-done-deals-tracker-latest-serie-a-transfer-agreements-for-summer-2026"
-    },
-    {
       "published_at": "2026-08-18T15:10:00+00:00",
       "updated_at": "2026-08-18T15:10:00+00:00",
       "title": "Ferguson close to Genoa switch as Brighton accept loan proposal",
@@ -1328,6 +1290,34 @@
       },
       "confirmed_by": [],
       "id": "ferguson-close-to-genoa-switch-as-brighton-accept-loan-proposal"
+    },
+    {
+      "published_at": "2026-08-17T18:27:11+00:00",
+      "updated_at": "2026-08-17T18:27:11+00:00",
+      "title": "Official: Inter loan Berenbruch to Avellino, option and counter option",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "official-inter-loan-berenbruch-to-avellino-option-and-counter-option"
     },
     {
       "published_at": "2026-08-16T11:49:12+00:00",
@@ -1575,6 +1565,33 @@
       "id": "dean-huijsen-was-real-madrid-s-marquee-signing-a-year-ago-why-could-he-still-be-this-seaso"
     },
     {
+      "published_at": "2026-08-17T20:06:23+00:00",
+      "updated_at": "2026-08-17T20:06:23+00:00",
+      "title": "Isak Bjerkebo har nobbat bud: ”Var väldigt tydlig”",
+      "summary": "Intresset för Isak Bjerkebo, 23, är stort – och ett bud har nått stjärnan. – Det var ingenting som passade mig, säger han i SVT:s Fotbollsstudion",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.68/0.32/0727a55e91b38dad48bef1b22e51abc0d82f06eb2e819c84d023a74818776703",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/isak-bjerkebo-har-nobbat-bud-var-valdigt-tydlig"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/isak-bjerkebo-har-nobbat-bud-var-valdigt-tydlig"
+      },
+      "confirmed_by": [],
+      "id": "isak-bjerkebo-har-nobbat-bud-var-v-ldigt-tydlig"
+    },
+    {
       "published_at": "2026-08-17T20:03:57+00:00",
       "updated_at": "2026-08-17T20:03:57+00:00",
       "title": "Anledningarna bakom Halmstads kris: ”Där saknar vi kvalitet”",
@@ -1684,33 +1701,6 @@
       "id": "why-van-hecke-holds-the-key-to-unlocking-de-zerbi-ball-at-spurs"
     },
     {
-      "published_at": "2026-08-18T19:52:00+00:00",
-      "updated_at": "2026-08-18T19:52:00+00:00",
-      "title": "Arteta: We want to be the best club in the world",
-      "summary": "Mikel Arteta is excited to keep building Arsenal after their Premier League win, vowing to make them \"the best club in the world\"",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "mikel-arteta",
-      "entity_type": "coaches",
-      "club": "",
-      "image": "https://e0.365dm.com/26/05/1600x900/skysports-mikel-arteta-arsenal_7258629.jpg?20260526085536",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13574486/mikel-arteta-arsenal-manager-says-we-want-to-make-gunners-the-best-club-in-the-world"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13574486/mikel-arteta-arsenal-manager-says-we-want-to-make-gunners-the-best-club-in-the-world"
-      },
-      "confirmed_by": [],
-      "id": "arteta-we-want-to-be-the-best-club-in-the-world"
-    },
-    {
       "published_at": "2026-08-18T10:30:00+00:00",
       "updated_at": "2026-08-18T10:30:00+00:00",
       "title": "The Premier League is back! All 20 clubs assessed",
@@ -1765,10 +1755,37 @@
       "id": "isak-s-newcastle-reunion-is-a-chance-to-start-rewriting-his-liverpool-story"
     },
     {
+      "published_at": "2026-08-19T16:30:00+00:00",
+      "updated_at": "2026-08-19T16:30:00+00:00",
+      "title": "Uppgifter: AIK på väg att värva Okpala",
+      "summary": "Uppgifter: AIK ser ut att värva Egboh Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-aik-p-v-g-att-v-rva-okpala"
+    },
+    {
       "published_at": "2026-08-19T15:16:00+00:00",
       "updated_at": "2026-08-19T15:16:00+00:00",
       "title": "Uppgifter: Motherwell försöker värva Kanga",
-      "summary": "Uppgifter: Arsenal värvar Konsa Fotbollskanalen",
+      "summary": "Uppgifter: Motherwell försöker värva Kanga Fotbollskanalen",
       "category": [
         "Sverige"
       ],
@@ -1847,32 +1864,31 @@
       "id": "upplagt-f-r-succ-carricks-perfekta-pusselbit-i-offensiven"
     },
     {
-      "published_at": "2026-08-19T08:04:00+00:00",
-      "updated_at": "2026-08-19T08:04:00+00:00",
-      "title": "Uppgifter: Kane öppnar för Saudiarabien - efter Bayern München",
-      "summary": "Read the full report at Fotbollskanalen.",
+      "published_at": "2026-08-19T16:34:00+00:00",
+      "updated_at": "2026-08-19T16:34:00+00:00",
+      "title": "Sirius-redaktören: ”Stor chock - något måste ha varit oerhört dysfunktionellt på kontoret”",
+      "summary": "Beskedet att Sirius klubbdirektör Martin Malmberg lämnar klubben med omedelbar verkan kom som en chock även för Sirius-redaktören Tobias Wessman",
       "category": [
-        "Sverige",
-        "Bundesliga"
+        "Sverige"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "bayern-munich",
-      "image": "",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/MYTt3lpUq3r4m8VWXkweW7NH4xY3QL1GDkrmOd4A.jpg",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/sirius-redaktoren-stor-chock-nagot-maste-ha-varit-oerhort-dysfunktionellt-pa-kontoret-699375"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/sirius-redaktoren-stor-chock-nagot-maste-ha-varit-oerhort-dysfunktionellt-pa-kontoret-699375"
       },
       "confirmed_by": [],
-      "id": "uppgifter-kane-ppnar-f-r-saudiarabien-efter-bayern-m-nchen"
+      "id": "sirius-redakt-ren-stor-chock-n-got-m-ste-ha-varit-oerh-rt-dysfunktionellt-p-kontoret"
     },
     {
       "published_at": "2026-08-19T12:46:00+00:00",
@@ -1981,62 +1997,6 @@
       },
       "confirmed_by": [],
       "id": "pl-spelare-p-provspel-hos-allsvenska-jumbon"
-    },
-    {
-      "published_at": "2026-08-18T19:55:40+00:00",
-      "updated_at": "2026-08-18T19:55:40+00:00",
-      "title": "FFF utslaget ur cupen efter straffdrama",
-      "summary": "FFF hade ledningen två gånger om men föll mot IFK Skövde efter ett drama som innehöll såväl förlängning som straffar. FFF spelar därmed inte gruppspel till vintern",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2093970.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/fff-utslaget-ur-cupen-efter-straffdrama-699340"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/fff-utslaget-ur-cupen-efter-straffdrama-699340"
-      },
-      "confirmed_by": [],
-      "id": "fff-utslaget-ur-cupen-efter-straffdrama"
-    },
-    {
-      "published_at": "2026-08-19T08:15:00+00:00",
-      "updated_at": "2026-08-19T08:15:00+00:00",
-      "title": "Aston Villa complete signing of Matteo Ruggeri from Atlético Madrid",
-      "summary": "Read the full report at ESPN.",
-      "category": [
-        "Premier League",
-        "La Liga",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "ESPN",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "ESPN",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "aston-villa-complete-signing-of-matteo-ruggeri-from-atl-tico-madrid"
     },
     {
       "published_at": "2026-08-19T14:04:45+00:00",
@@ -2176,6 +2136,33 @@
       },
       "confirmed_by": [],
       "id": "serie-a-chiefs-meet-over-new-rules-designed-to-increase-effective-playing-time-of-matches"
+    },
+    {
+      "published_at": "2026-08-18T18:20:00+00:00",
+      "updated_at": "2026-08-18T18:20:00+00:00",
+      "title": "Ajax and Galatasaray join queue for Napoli outcast Lang",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "ajax-and-galatasaray-join-queue-for-napoli-outcast-lang"
     }
   ]
 }
