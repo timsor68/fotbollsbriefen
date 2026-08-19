@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T05:31:12.310535+00:00",
+  "updated_at": "2026-08-19T06:44:39.823574+00:00",
   "items": [
     {
       "published_at": "2026-08-18T21:26:12+00:00",
@@ -75,6 +75,43 @@
       "id": "aston-villa-agree-deal-for-west-ham-s-wan-bissaka"
     },
     {
+      "published_at": "2026-08-18T16:57:18+00:00",
+      "updated_at": "2026-08-18T16:57:18+00:00",
+      "title": "Rodri joins Barcelona from Man City in £65m deal",
+      "summary": "Barcelona have confirmed the signing of Rodri from Manchester City in a deal worth £65.4m",
+      "category": [
+        "La Liga",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13574286/rodri-transfer-news-barcelona-complete-65-4m-signing-of-spain-midfielder-from-man-city"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13574286/rodri-transfer-news-barcelona-complete-65-4m-signing-of-spain-midfielder-from-man-city"
+        }
+      ],
+      "id": "rodri-joins-barcelona-from-man-city-in-65m-deal"
+    },
+    {
       "published_at": "2026-08-18T14:38:57+00:00",
       "updated_at": "2026-08-18T14:38:57+00:00",
       "title": "Vieira named new Senegal head coach",
@@ -111,10 +148,10 @@
       "id": "vieira-named-new-senegal-head-coach"
     },
     {
-      "published_at": "2026-08-16T19:37:45+00:00",
-      "updated_at": "2026-08-16T19:37:45+00:00",
-      "title": "Rodri transfer news: Spain captain agrees deal to join Barcelona from Man City",
-      "summary": "Barcelona have confirmed the signing of Rodri from Manchester City in a deal worth £65.4m",
+      "published_at": "2026-08-18T16:42:00+00:00",
+      "updated_at": "2026-08-18T16:42:00+00:00",
+      "title": "How Barcelona beat Real Madrid to €76.5m Rodri transfer that started with a wedding",
+      "summary": "Read the full report at The Athletic.",
       "category": [
         "La Liga",
         "Transfer"
@@ -122,66 +159,57 @@
       "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
-      "club": "manchester-city",
+      "club": "real-madrid",
       "image": "",
       "sources": [
         {
-          "name": "BBC Sport",
+          "name": "The Athletic",
           "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         },
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13574286/rodri-transfer-news-barcelona-complete-65-4m-signing-of-spain-midfielder-from-man-city"
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83amRFV2pSQ1Y5WFAtbzFRS0JNV2xtek5RV2tBSk1JVDRleHdWbXZ0NzVLaE1NWVU2RXltZi1hLW5SUGtZbnRPay1ERzgzcV9kNXFwN1NfMHVXTF84YTdBdkxEM0FYdjE3eThF?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83amRFV2pSQ1Y5WFAtbzFRS0JNV2xtek5RV2tBSk1JVDRleHdWbXZ0NzVLaE1NWVU2RXltZi1hLW5SUGtZbnRPay1ERzgzcV9kNXFwN1NfMHVXTF84YTdBdkxEM0FYdjE3eThF?oc=5"
+        }
+      ],
+      "id": "how-barcelona-beat-real-madrid-to-76-5m-rodri-transfer-that-started-with-a-wedding"
+    },
+    {
+      "published_at": "2026-08-19T06:01:44+00:00",
+      "updated_at": "2026-08-19T06:01:44+00:00",
+      "title": "Wrexham's Moore aiming to stay the distance",
+      "summary": "The striker has revealed he has taken \"measures\" to avoid the injury issues that hit his Wales and Wrexham hopes last season",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/131c/live/a6297380-9b1c-11f1-a8a4-83462463c9fa.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cx2mzz1zd67o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2mzz1zd67o?at_medium=RSS&at_campaign=rss"
       },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13574286/rodri-transfer-news-barcelona-complete-65-4m-signing-of-spain-midfielder-from-man-city"
-        }
-      ],
-      "id": "rodri-transfer-news-spain-captain-agrees-deal-to-join-barcelona-from-man-city"
-    },
-    {
-      "published_at": "2026-08-16T17:56:55+00:00",
-      "updated_at": "2026-08-16T17:56:55+00:00",
-      "title": "Anders Christiansen om framtiden: ”De får bära mig ut”",
-      "summary": "Anders Christiansen, 36, spelade sina första allsvenska minuter sedan april mot Gais. Efteråt var Malmö FF:s danske lagkapten, som har utgående kontrakt, tydlig om framtiden. – De får bära mig ut härifrån, säger Christiansen till SVT Sport",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.18/0.4/0aef37c89e5ce39a579f263296afabf11d5d92ee214888a96538dd5ce3024871",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/anders-christiansen-om-framtiden-de-far-bara-mig-ut"
-        },
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeUdqa0RZcExmYWxSdllIQ0YxekFfT2xkTjFNZFR0eWpTdjFrUWdyQVAzOHdQUDc0blpRT0Z2YnV4UWcxcnVQamlIdHliNU9SaVlteUxtSVZqSHlTdS1TVlFIcm0wbEFjUmVTWGUtcVZlam5oWGhUOXl2QVVDaWs5YURGLUxwX0xnZ0NMQ3RJbXFGb2tsUW16eFVxODJaS1ZkQlRyVW5IVWQ5SGs?oc=5"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/anders-christiansen-om-framtiden-de-far-bara-mig-ut"
-      },
-      "confirmed_by": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeUdqa0RZcExmYWxSdllIQ0YxekFfT2xkTjFNZFR0eWpTdjFrUWdyQVAzOHdQUDc0blpRT0Z2YnV4UWcxcnVQamlIdHliNU9SaVlteUxtSVZqSHlTdS1TVlFIcm0wbEFjUmVTWGUtcVZlam5oWGhUOXl2QVVDaWs5YURGLUxwX0xnZ0NMQ3RJbXFGb2tsUW16eFVxODJaS1ZkQlRyVW5IVWQ5SGs?oc=5"
-        }
-      ],
-      "id": "anders-christiansen-om-framtiden-de-f-r-b-ra-mig-ut"
+      "confirmed_by": [],
+      "id": "wrexham-s-moore-aiming-to-stay-the-distance"
     },
     {
       "published_at": "2026-08-18T20:43:01+00:00",
@@ -320,60 +348,31 @@
       "id": "kane-set-to-begin-talks-over-new-bayern-contract"
     },
     {
-      "published_at": "2026-08-18T12:53:47+00:00",
-      "updated_at": "2026-08-18T12:53:47+00:00",
-      "title": "Chelsea news: Strasbourg hold talks for striker Deivid Washington",
-      "summary": "Read the full report at BBC Sport.",
+      "published_at": "2026-08-16T17:56:55+00:00",
+      "updated_at": "2026-08-16T17:56:55+00:00",
+      "title": "Anders Christiansen om framtiden: ”De får bära mig ut”",
+      "summary": "Anders Christiansen, 36, spelade sina första allsvenska minuter sedan april mot Gais. Efteråt var Malmö FF:s danske lagkapten, som har utgående kontrakt, tydlig om framtiden. – De får bära mig ut härifrån, säger Christiansen till SVT Sport",
       "category": [
-        "Premier League",
-        "Transfer"
+        "Sverige"
       ],
       "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
-      "club": "chelsea",
-      "image": "",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.18/0.4/0aef37c89e5ce39a579f263296afabf11d5d92ee214888a96538dd5ce3024871",
       "sources": [
         {
-          "name": "BBC Sport",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/anders-christiansen-om-framtiden-de-far-bara-mig-ut"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "BBC Sport",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/anders-christiansen-om-framtiden-de-far-bara-mig-ut"
       },
       "confirmed_by": [],
-      "id": "chelsea-news-strasbourg-hold-talks-for-striker-deivid-washington"
-    },
-    {
-      "published_at": "2026-08-18T16:42:00+00:00",
-      "updated_at": "2026-08-18T16:42:00+00:00",
-      "title": "How Barcelona beat Real Madrid to €76.5m Rodri transfer that started with a wedding",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "La Liga",
-        "Transfer"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "how-barcelona-beat-real-madrid-to-76-5m-rodri-transfer-that-started-with-a-wedding"
+      "id": "anders-christiansen-om-framtiden-de-f-r-b-ra-mig-ut"
     },
     {
       "published_at": "2026-08-15T14:53:47+00:00",
@@ -459,201 +458,6 @@
       "id": "papers-barca-midfielder-rejects-chance-to-join-man-utd"
     },
     {
-      "published_at": "2026-08-17T21:42:00+00:00",
-      "updated_at": "2026-08-17T21:42:00+00:00",
-      "title": "Officiellt: Eliasson klar för Internacional",
-      "summary": "Officiellt: Eliasson klar för Internacional Fotbollskanalen",
-      "category": [
-        "Sverige",
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "officiellt-eliasson-klar-f-r-internacional"
-    },
-    {
-      "published_at": "2026-08-16T18:31:00+00:00",
-      "updated_at": "2026-08-16T18:31:00+00:00",
-      "title": "Uppgifter: Rodri klar för Barcelona",
-      "summary": "Uppgifter: Rodri klar för Barcelona Fotbollskanalen",
-      "category": [
-        "Sverige",
-        "La Liga"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "barcelona",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-rodri-klar-f-r-barcelona"
-    },
-    {
-      "published_at": "2026-08-14T09:38:00+00:00",
-      "updated_at": "2026-08-14T09:38:00+00:00",
-      "title": "Uppgifter: Arsenal i samtal med Leverkusen om Quansah-värvning",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige",
-        "Premier League",
-        "Bundesliga",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-arsenal-i-samtal-med-leverkusen-om-quansah-v-rvning"
-    },
-    {
-      "published_at": "2026-08-13T13:21:00+00:00",
-      "updated_at": "2026-08-13T13:21:00+00:00",
-      "title": "Klart: Mitkovska lämnar MFF - klar för Zaragoza",
-      "summary": "Klart: Mitkovska lämnar MFF - klar för Zaragoza Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "klart-mitkovska-l-mnar-mff-klar-f-r-zaragoza"
-    },
-    {
-      "published_at": "2026-08-13T08:31:00+00:00",
-      "updated_at": "2026-08-13T08:31:00+00:00",
-      "title": "Uppgifter: Al Qadsiah nära Reijnders-värvning",
-      "summary": "Uppgifter: Al Qadsiah nära Reijnders-värvning Fotbollskanalen",
-      "category": [
-        "Sverige",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-al-qadsiah-n-ra-reijnders-v-rvning"
-    },
-    {
-      "published_at": "2026-08-13T08:00:00+00:00",
-      "updated_at": "2026-08-13T08:00:00+00:00",
-      "title": "Karabeljovs otäcka skada: \"Fyra frakturer\"",
-      "summary": "Karabeljovs otäcka skada: \"Fyra frakturer\" Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "karabeljovs-ot-cka-skada-fyra-frakturer"
-    },
-    {
-      "published_at": "2026-08-12T10:56:00+00:00",
-      "updated_at": "2026-08-12T10:56:00+00:00",
-      "title": "Sade Heinrichs klar för Djurgården",
-      "summary": "Sade Heinrichs klar för Djurgården Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "sade-heinrichs-klar-f-r-djurg-rden"
-    },
-    {
       "published_at": "2026-08-16T15:17:33+00:00",
       "updated_at": "2026-08-16T15:17:33+00:00",
       "title": "Jani Honkavaara: ”Jag gillade inte domaren”",
@@ -688,42 +492,6 @@
         }
       ],
       "id": "jani-honkavaara-jag-gillade-inte-domaren"
-    },
-    {
-      "published_at": "2026-08-16T13:48:46+00:00",
-      "updated_at": "2026-08-16T13:48:46+00:00",
-      "title": "Dijan Vukojevic matchvinnare igen för Degerfors – körde över IFK Göteborg",
-      "summary": "Under säsongens 15 första matcher gjorde Dijan Vukojevic inte ett enda mål. Nu har han helt plötsligt gjort fyra på två matcher. De två sista ledde Degerfors till seger mot bottenkonkurrenten IFK Göteborg.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.38/0.21/0e30f2886fdbe4cf33ccbb2bddadfffc566cc4fc92d586b9a8de96d460920c05",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/dijan-vukojevic-matchvinnare-igen-for-degerfors-korde-over-ifk-goteborg"
-        },
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWHRNcnFHTks3T0VWZ01XUGxBTWF2bm9QZ0hhdDZWSkZlcjFLdC01MlVJRnJBUE92SmdVMVdpYW04NW1KWmV2R21uSTNCQzAyQVFzN2t4NWNseF9fMzNFN1ZJWVpVZ3BxNURrOXlMdWt2YWxsZk1HNWxBT1V4VTA3b1VXUk9oVzhYMi00UkhYWk5WXzFPVHotMUx1SW8?oc=5"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/dijan-vukojevic-matchvinnare-igen-for-degerfors-korde-over-ifk-goteborg"
-      },
-      "confirmed_by": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWHRNcnFHTks3T0VWZ01XUGxBTWF2bm9QZ0hhdDZWSkZlcjFLdC01MlVJRnJBUE92SmdVMVdpYW04NW1KWmV2R21uSTNCQzAyQVFzN2t4NWNseF9fMzNFN1ZJWVpVZ3BxNURrOXlMdWt2YWxsZk1HNWxBT1V4VTA3b1VXUk9oVzhYMi00UkhYWk5WXzFPVHotMUx1SW8?oc=5"
-        }
-      ],
-      "id": "dijan-vukojevic-matchvinnare-igen-f-r-degerfors-k-rde-ver-ifk-g-teborg"
     },
     {
       "published_at": "2026-08-18T19:00:53+00:00",
@@ -863,33 +631,6 @@
       "id": "interviewing-jos-mourinho-ego-charisma-talent-and-his-rucksack-of-pain"
     },
     {
-      "published_at": "2026-08-17T10:34:47+00:00",
-      "updated_at": "2026-08-17T10:34:47+00:00",
-      "title": "Baller League to no longer be shown live on Sky Sports from next season",
-      "summary": "Season 4 of tournament will still be on YouTube KSI’s Prime FC won Season 3 final at the O 2 Arena in May Sky Sports will not broadcast next season’s Baller League, the celebrity six-a-side competition backed by the influencer KSI, the actor Idris Elba and former players including Ian Wright and Alan Shearer. KSI’s Prime FC won last season’s Baller League final at a sold-out O 2 Arena in an event broadcast live on Sky. But the Guardian has learned the broadcaster has opted not to renew the contract next season.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/4c7c2ca24df248f155e2efd02a4318a4a23265ba/87_0_4828_3862/master/4828.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c977fd75a36196ea6b2c24f9da2b772c",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/17/baller-league-live-sky-sports-season-ksi-prime-fc"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/17/baller-league-live-sky-sports-season-ksi-prime-fc"
-      },
-      "confirmed_by": [],
-      "id": "baller-league-to-no-longer-be-shown-live-on-sky-sports-from-next-season"
-    },
-    {
       "published_at": "2026-08-17T07:00:48+00:00",
       "updated_at": "2026-08-17T07:00:48+00:00",
       "title": "Brighton’s Emilie Joramo: ‘I feel like I’m now in the place I want to be’",
@@ -996,6 +737,33 @@
       },
       "confirmed_by": [],
       "id": "high-flying-sirius-chase-shock-allsvenskan-title-despite-losing-best-player-in-league"
+    },
+    {
+      "published_at": "2026-08-13T07:00:53+00:00",
+      "updated_at": "2026-08-13T07:00:53+00:00",
+      "title": "We have been staring at Phil Foden for close to a decade – how well do we actually know him? | Jonathan Liew",
+      "summary": "About to start his ninth season, his first under a club manager who isn’t Pep Guardiola, this could be the year we finally find out who the City enigma is Phil Foden says he is excited about working under Enzo Maresca, his new manager at Manchester City . We should call this exactly what it is: a very obvious barefaced lie. No doubt Foden is excited about playing football again, about challenging for trophies with his boyhood club, the new Premier League season, his new contract , a fresh start, etc, etc.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/dced17a145286956b6d4d117f3e97c3c5f81f97c/468_0_4680_3744/master/4680.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=31e0e96a9eb16ffa12fb234a9dd357b8",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/13/we-have-been-staring-at-phil-foden-for-close-to-a-decade-how-well-do-we-actually-know-him"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/13/we-have-been-staring-at-phil-foden-for-close-to-a-decade-how-well-do-we-actually-know-him"
+      },
+      "confirmed_by": [],
+      "id": "we-have-been-staring-at-phil-foden-for-close-to-a-decade-how-well-do-we-actually-know-him-"
     },
     {
       "published_at": "2026-08-18T21:51:39+00:00",
@@ -1602,6 +1370,34 @@
       "id": "uppgifter-serie-a-talang-i-drunkningsolycka"
     },
     {
+      "published_at": "2026-08-17T07:40:05+00:00",
+      "updated_at": "2026-08-17T07:40:05+00:00",
+      "title": "Derbyhjälten Linus Carlstrand avslöjar dealen: ”Har tjatat på honom”",
+      "summary": "AIK:s anfallare Linus Carlstrand gav lagkamraten Adrian Helm ett saftigt erbjudande. Bjud på en assist – och du får någonting i gengäld. – Nu blir det så, säger tvåmålsskytten efter derbysegern mot Djurgården",
+      "category": [
+        "Sverige",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.72/0.34/a79ddcb982de5c1db49c3e681e643867ca19d33d297307d92f10d3afdba00bc2",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/derbyhjalten-linus-carlstrand-avslojar-dealen-har-tjatat-pa-honom"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/derbyhjalten-linus-carlstrand-avslojar-dealen-har-tjatat-pa-honom"
+      },
+      "confirmed_by": [],
+      "id": "derbyhj-lten-linus-carlstrand-avsl-jar-dealen-har-tjatat-p-honom"
+    },
+    {
       "published_at": "2026-08-13T11:50:45+00:00",
       "updated_at": "2026-08-13T11:50:45+00:00",
       "title": "Supercopa de Espana moves to Istanbul from Saudi Arabia for 2027",
@@ -1655,33 +1451,6 @@
       },
       "confirmed_by": [],
       "id": "newcastle-latest-exploratory-talks-held-for-man-city-midfielder-gonzalez"
-    },
-    {
-      "published_at": "2026-08-18T11:14:16+00:00",
-      "updated_at": "2026-08-18T11:14:16+00:00",
-      "title": "Strannegård klar för FC Thun",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "stranneg-rd-klar-f-r-fc-thun"
     },
     {
       "published_at": "2026-08-18T20:39:00+00:00",
@@ -1873,10 +1642,10 @@
       "id": "isak-s-newcastle-reunion-is-a-chance-to-start-rewriting-his-liverpool-story"
     },
     {
-      "published_at": "2026-08-18T20:19:00+00:00",
-      "updated_at": "2026-08-18T20:19:00+00:00",
-      "title": "Halmstad testar PL-meriterad mittfältare: \"Outstanding cv\"",
-      "summary": "Read the full report at Fotbollskanalen.",
+      "published_at": "2026-08-19T06:14:01+00:00",
+      "updated_at": "2026-08-19T06:14:01+00:00",
+      "title": "Vinst mot Helsingborg och oavgjort mot Östersund",
+      "summary": "IFK Värnamo har lämnat direktnedflyttningen, men kampen för överlevnad i Superettan är långt ifrån över. I de två senaste omgångarna har laget tagit fyra poäng mot Helsingborg och Östersund, samtidigt som spelidén blivit allt tydligare. Här följer en närmare analys av Värnamos försvars- och anfallsspel, Bergstrands laguttagningar",
       "category": [
         "Sverige"
       ],
@@ -1884,47 +1653,20 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/6kzqXbijdtO9ii7Ievve43nVQqpmehHcuO4QifTO.png",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/vinst-mot-helsingborg-och-oavgjort-mot-ostersund-699353"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/vinst-mot-helsingborg-och-oavgjort-mot-ostersund-699353"
       },
       "confirmed_by": [],
-      "id": "halmstad-testar-pl-meriterad-mittf-ltare-outstanding-cv"
-    },
-    {
-      "published_at": "2026-08-18T19:52:54+00:00",
-      "updated_at": "2026-08-18T19:52:54+00:00",
-      "title": "Uppgifter: Soumah nära Panaitolikos",
-      "summary": "Uppgifter: Soumah nära Panaitolikos Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-soumah-n-ra-panaitolikos"
+      "id": "vinst-mot-helsingborg-och-oavgjort-mot-stersund"
     },
     {
       "published_at": "2026-08-18T20:35:31+00:00",
@@ -2062,33 +1804,6 @@
       "id": "elfsborg-gick-enkelt-vidare-i-svenska-cupen"
     },
     {
-      "published_at": "2026-08-18T17:00:00+00:00",
-      "updated_at": "2026-08-18T17:00:00+00:00",
-      "title": "Reflektioner efter överkörningen mot Kalmar",
-      "summary": "Ett uttryck som sällan varit så sant som nu. Efter uttåget och misären mot Raków följde herrarna upp med en av de mest övertygande insatserna jag sett på länge. En total utskåpning av Kalmar, där det stundtals såg ut som att Barcelona hade rest till Småland för att visa upp sig.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/cgssk6me5tXjQQ8vXR4IU3f2tUzBZBxCnwCFq5jx.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/reflektioner-efter-overkorningen-mot-kalmar-699323"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/reflektioner-efter-overkorningen-mot-kalmar-699323"
-      },
-      "confirmed_by": [],
-      "id": "reflektioner-efter-verk-rningen-mot-kalmar"
-    },
-    {
       "published_at": "2026-08-18T19:00:00+00:00",
       "updated_at": "2026-08-18T19:00:00+00:00",
       "title": "Serie A chiefs meet over new rules designed to ‘increase effective playing time of matches",
@@ -2115,6 +1830,88 @@
       },
       "confirmed_by": [],
       "id": "serie-a-chiefs-meet-over-new-rules-designed-to-increase-effective-playing-time-of-matches"
+    },
+    {
+      "published_at": "2026-08-18T18:20:00+00:00",
+      "updated_at": "2026-08-18T18:20:00+00:00",
+      "title": "Ajax and Galatasaray join queue for Napoli outcast Lang",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "ajax-and-galatasaray-join-queue-for-napoli-outcast-lang"
+    },
+    {
+      "published_at": "2026-08-18T17:20:00+00:00",
+      "updated_at": "2026-08-18T17:20:00+00:00",
+      "title": "Como push for Ricci as Milan hold firm on permanent sale",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "como-push-for-ricci-as-milan-hold-firm-on-permanent-sale"
+    },
+    {
+      "published_at": "2026-08-18T22:50:00+00:00",
+      "updated_at": "2026-08-18T22:50:00+00:00",
+      "title": "Chelsea latest: Napoli make enquiry for Aston Villa target Jackson",
+      "summary": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Premier League",
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "chelsea-latest-napoli-make-enquiry-for-aston-villa-target-jackson"
     }
   ]
 }
