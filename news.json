@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T10:29:38.981903+00:00",
+  "updated_at": "2026-08-19T11:25:58.913023+00:00",
   "items": [
     {
       "published_at": "2026-08-19T08:41:07+00:00",
@@ -46,6 +46,43 @@
       "id": "villa-sign-goalkeeper-suzuki-and-left-back-ruggeri"
     },
     {
+      "published_at": "2026-08-19T11:06:20+00:00",
+      "updated_at": "2026-08-19T11:06:20+00:00",
+      "title": "Arsenal pushing on with deal to sign Villa's Konsa",
+      "summary": "Arsenal refocus their efforts on negotiating a deal with Aston Villa to sign defender Ezri Konsa",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ae9d/live/ad505a30-9bbb-11f1-ae8a-8d57110c5ba6.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13574665/ezri-konsa-transfer-news-arsenal-in-advanced-talks-to-sign-aston-villa-and-england-defender"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13574665/ezri-konsa-transfer-news-arsenal-in-advanced-talks-to-sign-aston-villa-and-england-defender"
+        }
+      ],
+      "id": "arsenal-pushing-on-with-deal-to-sign-villa-s-konsa"
+    },
+    {
       "published_at": "2026-08-19T09:50:55+00:00",
       "updated_at": "2026-08-19T09:50:55+00:00",
       "title": "Man Utd close on deal for Brighton's Baleba",
@@ -80,79 +117,6 @@
         }
       ],
       "id": "man-utd-close-on-deal-for-brighton-s-baleba"
-    },
-    {
-      "published_at": "2026-08-18T21:26:12+00:00",
-      "updated_at": "2026-08-18T21:26:12+00:00",
-      "title": "Palace sign United States prospect Gozo",
-      "summary": "The 19-year-old US youth international has turned heads in MLS this year, and is on the cusp of a USMNT breakthrough For much of the past year, the story of American starlet Zavier Gozo has been one of realizing potential – even in failure. Speaking with the Guardian the day after he and Real Salt Lake teammate Diego Luna learned they wouldn’t be on Mauricio Pochettino’s squad for this summer’s World Cup, the 19-year-old Gozo admitted the rejection made him realize how close he’d gotten to earning a spot. “I thought I would be less disappointed than I was,” Gozo said in May .",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4e59/live/869e1160-9b49-11f1-a98d-2d938d056219.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cpq80q88dyqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/18/zavier-gozo-crystal-palace-mls-real-salt-lake-transfer"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cpq80q88dyqo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/18/zavier-gozo-crystal-palace-mls-real-salt-lake-transfer"
-        }
-      ],
-      "id": "palace-sign-united-states-prospect-gozo"
-    },
-    {
-      "published_at": "2026-08-18T17:56:13+00:00",
-      "updated_at": "2026-08-18T17:56:13+00:00",
-      "title": "Aston Villa agree deal for West Ham's Wan-Bissaka",
-      "summary": "Aston Villa agree to sign West Ham defender Aaron Wan-Bissaka on an initial loan deal with an obligation to buy at the end of the season",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8aec/live/1293ff20-9b1a-11f1-a8a4-83462463c9fa.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cgr7vvpkw0eo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVlVReVlFMWJfejd2Vk1TS21tcG0xY08tdGRkVjRmbERTUWJBd2N5VzZHbzhZZzZhUGIxWEZBY05md0NjZTcxYmQ2WXY0eUx6R1ZqdkpnS0g4OHpFTWJVbUZkU2VHVzc3NkJwQXAzRTh4OTlRcGpGUzBPWkI1TXRCZE9jY0JiaEtXX0MwMk8zbUg4cmpiSlQzX2R3alB1YzQ?oc=5"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cgr7vvpkw0eo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVlVReVlFMWJfejd2Vk1TS21tcG0xY08tdGRkVjRmbERTUWJBd2N5VzZHbzhZZzZhUGIxWEZBY05md0NjZTcxYmQ2WXY0eUx6R1ZqdkpnS0g4OHpFTWJVbUZkU2VHVzc3NkJwQXAzRTh4OTlRcGpGUzBPWkI1TXRCZE9jY0JiaEtXX0MwMk8zbUg4cmpiSlQzX2R3alB1YzQ?oc=5"
-        }
-      ],
-      "id": "aston-villa-agree-deal-for-west-ham-s-wan-bissaka"
     },
     {
       "published_at": "2026-08-18T14:38:57+00:00",
@@ -191,43 +155,6 @@
       "id": "vieira-named-new-senegal-head-coach"
     },
     {
-      "published_at": "2026-08-19T04:58:00+00:00",
-      "updated_at": "2026-08-19T04:58:00+00:00",
-      "title": "How Barcelona beat Real Madrid to €76.5m Rodri transfer that started with a wedding",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "La Liga",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83amRFV2pSQ1Y5WFAtbzFRS0JNV2xtek5RV2tBSk1JVDRleHdWbXZ0NzVLaE1NWVU2RXltZi1hLW5SUGtZbnRPay1ERzgzcV9kNXFwN1NfMHVXTF84YTdBdkxEM0FYdjE3eThF?oc=5"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83amRFV2pSQ1Y5WFAtbzFRS0JNV2xtek5RV2tBSk1JVDRleHdWbXZ0NzVLaE1NWVU2RXltZi1hLW5SUGtZbnRPay1ERzgzcV9kNXFwN1NfMHVXTF84YTdBdkxEM0FYdjE3eThF?oc=5"
-        }
-      ],
-      "id": "how-barcelona-beat-real-madrid-to-76-5m-rodri-transfer-that-started-with-a-wedding"
-    },
-    {
       "published_at": "2026-08-16T17:56:55+00:00",
       "updated_at": "2026-08-16T17:56:55+00:00",
       "title": "Anders Christiansen om framtiden: ”De får bära mig ut”",
@@ -262,6 +189,97 @@
         }
       ],
       "id": "anders-christiansen-om-framtiden-de-f-r-b-ra-mig-ut"
+    },
+    {
+      "published_at": "2026-08-19T08:27:00+00:00",
+      "updated_at": "2026-08-19T08:27:00+00:00",
+      "title": "Watkins keen on move to Al Hilal as talks ongoing with Villa",
+      "summary": "Offer of almost £40m rejected for England striker Watkins has two years left on his contract Aston Villa are braced for another bid from Al Hilal for Ollie Watkins, after rejecting an offer worth almost £40m for the striker. Al Hilal are pursuing a move for Villa’s all-time Premier League goalscorer, who has reached double figures in the top flight in his six seasons at the club after joining from Brentford. If Villa sell Watkins, who has two years remaining on his contract, they would seek to replace the 30-year-old England striker and Unai Emery is a big admirer of Nicolas Jackson, but Chelsea’s valuation of £65m is thought to be prohibitive to any deal.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-ollie-watkins-england_7270420.jpg?20260611000809",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13574587/ollie-watkins-transfer-aston-villa-in-talks-with-saudi-club-al-hilal-over-england-striker"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/19/aston-villa-al-hilal-ollie-watkins"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13574587/ollie-watkins-transfer-aston-villa-in-talks-with-saudi-club-al-hilal-over-england-striker"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/19/aston-villa-al-hilal-ollie-watkins"
+        }
+      ],
+      "id": "watkins-keen-on-move-to-al-hilal-as-talks-ongoing-with-villa"
+    },
+    {
+      "published_at": "2026-08-19T11:10:51+00:00",
+      "updated_at": "2026-08-19T11:10:51+00:00",
+      "title": "Leeds sign Elvedi from Borussia Monchengladbach",
+      "summary": "Leeds United complete the signing of defender Nico Elvedi from Borussia Monchengladbach in an £8.5m deal",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c55e/live/7bc58d50-9bbb-11f1-ae8a-8d57110c5ba6.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckgd5732mexo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckgd5732mexo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "leeds-sign-elvedi-from-borussia-monchengladbach"
+    },
+    {
+      "published_at": "2026-08-19T10:54:36+00:00",
+      "updated_at": "2026-08-19T10:54:36+00:00",
+      "title": "Real Madrid manager Jose Mourinho told Vinicius Jr it was not worth leaving Spanish club",
+      "summary": "Jose Mourinho explains how he successfully persuaded Vinicius Jr to remain the Spanish club",
+      "category": [
+        "La Liga",
+        "Coach"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "real-madrid",
+      "image": "",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "real-madrid-manager-jose-mourinho-told-vinicius-jr-it-was-not-worth-leaving-spanish-club"
     },
     {
       "published_at": "2026-08-19T10:24:11+00:00",
@@ -376,33 +394,6 @@
       "id": "pogba-leaves-monaco-after-contract-termination"
     },
     {
-      "published_at": "2026-08-19T07:10:48+00:00",
-      "updated_at": "2026-08-19T07:10:48+00:00",
-      "title": "Northern Ireland keeper Burns on plans for life after football",
-      "summary": "Northern Ireland goalkeeper Jackie Burns is the number one for her country and has just signed for Burnley - but she is already thinking about her next steps",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dbfd/live/f69499b0-9a24-11f1-bf12-b5882ef8968b.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c4gvj23rexvo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c4gvj23rexvo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "northern-ireland-keeper-burns-on-plans-for-life-after-football"
-    },
-    {
       "published_at": "2026-08-14T20:01:01+00:00",
       "updated_at": "2026-08-14T20:01:01+00:00",
       "title": "Liverpool to submit bid for £42m PSG star after Manchester United approach",
@@ -430,33 +421,6 @@
       },
       "confirmed_by": [],
       "id": "liverpool-to-submit-bid-for-42m-psg-star-after-manchester-united-approach"
-    },
-    {
-      "published_at": "2026-08-19T08:27:00+00:00",
-      "updated_at": "2026-08-19T08:27:00+00:00",
-      "title": "Watkins keen on move to Al Hilal as talks ongoing with Villa",
-      "summary": "Al Hilal are in talks with Aston Villa over a deal to sign striker Ollie Watkins, who is keen on the move",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/06/1600x900/skysports-ollie-watkins-england_7270420.jpg?20260611000809",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13574587/ollie-watkins-transfer-aston-villa-in-talks-with-saudi-club-al-hilal-over-england-striker"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13574587/ollie-watkins-transfer-aston-villa-in-talks-with-saudi-club-al-hilal-over-england-striker"
-      },
-      "confirmed_by": [],
-      "id": "watkins-keen-on-move-to-al-hilal-as-talks-ongoing-with-villa"
     },
     {
       "published_at": "2026-08-19T08:00:00+00:00",
@@ -736,33 +700,6 @@
       "id": "karabeljovs-ot-cka-skada-fyra-frakturer"
     },
     {
-      "published_at": "2026-08-12T10:56:00+00:00",
-      "updated_at": "2026-08-12T10:56:00+00:00",
-      "title": "Sade Heinrichs klar för Djurgården",
-      "summary": "Sade Heinrichs klar för Djurgården Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "sade-heinrichs-klar-f-r-djurg-rden"
-    },
-    {
       "published_at": "2026-08-16T15:17:33+00:00",
       "updated_at": "2026-08-16T15:17:33+00:00",
       "title": "Jani Honkavaara: ”Jag gillade inte domaren”",
@@ -907,6 +844,33 @@
       "id": "this-isn-t-normal-in-football-xisco-malaysia-and-the-new-invincibles"
     },
     {
+      "published_at": "2026-08-18T21:32:42+00:00",
+      "updated_at": "2026-08-18T21:32:42+00:00",
+      "title": "In Zavier Gozo, Crystal Palace land a US prospect living up to the hype",
+      "summary": "The 19-year-old US youth international has turned heads in MLS this year, and is on the cusp of a USMNT breakthrough For much of the past year, the story of American starlet Zavier Gozo has been one of realizing potential – even in failure. Speaking with the Guardian the day after he and Real Salt Lake teammate Diego Luna learned they wouldn’t be on Mauricio Pochettino’s squad for this summer’s World Cup, the 19-year-old Gozo admitted the rejection made him realize how close he’d gotten to earning a spot. “I thought I would be less disappointed than I was,” Gozo said in May .",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/4fef751d146d32ad3e895a07a65e3860b7223122/443_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=57af47560228c2bd8c991e87988ab430",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/18/zavier-gozo-crystal-palace-mls-real-salt-lake-transfer"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/18/zavier-gozo-crystal-palace-mls-real-salt-lake-transfer"
+      },
+      "confirmed_by": [],
+      "id": "in-zavier-gozo-crystal-palace-land-a-us-prospect-living-up-to-the-hype"
+    },
+    {
       "published_at": "2026-08-18T19:00:53+00:00",
       "updated_at": "2026-08-18T19:00:53+00:00",
       "title": "Pep’s final act of passion: Amazon’s revealing Guardiola series pulls no punches",
@@ -937,7 +901,7 @@
       "published_at": "2026-08-18T18:03:57+00:00",
       "updated_at": "2026-08-18T18:03:57+00:00",
       "title": "Israel withdraws support for embattled Fifa president Gianni Infantino",
-      "summary": "IFA points to ‘unprecedented crisis of confidence’ Premier League chief says Infantino ‘hit self-destruct’ Gianni Infantino’s decision to sack his chief operating officer, Kevin Lamour, after the Frenchman’s criticism of the World Cup sell-off plan has hardened some opposition to the Fifa president, with the efforts to force him out expected to intensify over the next few days. On Tuesday Israel became the latest Fifa member to officially withdraw their support for Infantino’s re-election in a letter sent by the head of the Israel Football Association (IFA), Moshe Zuares.",
+      "summary": "IFA points to ‘unprecedented crisis of confidence’ Premier League chief says Infantino ‘hit self-destruct’ Gianni Infantino’s decision to sack his chief operating officer , Kevin Lamour, after the Frenchman’s criticism of the World Cup sell-off plan has hardened some opposition to the Fifa president, with the efforts to force him out expected to intensify over the next few days. On Tuesday Israel became the latest Fifa member to officially withdraw their support for Infantino’s re-election in a letter sent by the head of the Israel Football Association (IFA), Moshe Zuares.",
       "category": [
         "Football"
       ],
@@ -1041,33 +1005,6 @@
       },
       "confirmed_by": [],
       "id": "cristiano-ronaldo-says-this-year-is-probably-his-last-as-a-footballer"
-    },
-    {
-      "published_at": "2026-08-14T07:00:21+00:00",
-      "updated_at": "2026-08-14T07:00:21+00:00",
-      "title": "High-flying Sirius chase shock Allsvenskan title despite losing ‘best player in league’",
-      "summary": "They may have sold Robbie Ure, their top scorer, to Sevilla, but the team from Uppsala have good reason to believe they can finish the job For most teams, losing a forward with 15 goals in 15 games midway through the season, amid a historic title chase, might be cause for panic. Sirius, the runaway Allsvenskan leaders, are not most teams. “I’m actually really confident,” says Henrik Castegren, the club captain, when asked about the team’s ability to adapt after Robbie Ure’s move to Sevilla for a club-record fee, reported to be £5.6m plus add-ons.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/7382bc0caeffb02bcb7ce5e73b2234c9bd116a00/40_0_3032_2426/master/3032.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ebc7f4ac08ab92dfd42961f473dac3d0",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/14/sirius-allsvenskan-title-robbie-ure-sevilla-transfer"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/14/sirius-allsvenskan-title-robbie-ure-sevilla-transfer"
-      },
-      "confirmed_by": [],
-      "id": "high-flying-sirius-chase-shock-allsvenskan-title-despite-losing-best-player-in-league"
     },
     {
       "published_at": "2026-08-19T08:37:00+00:00",
@@ -1400,33 +1337,6 @@
       "id": "piccoli-agreement-with-bologna-at-18m-plus-bonus-sparks-serie-a-domino-effect"
     },
     {
-      "published_at": "2026-08-19T09:30:10+00:00",
-      "updated_at": "2026-08-19T09:30:10+00:00",
-      "title": "Pogba and Monaco part ways after one season",
-      "summary": "Read the full report at Reuters.",
-      "category": [
-        "Ligue 1"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Reuters",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "pogba-and-monaco-part-ways-after-one-season"
-    },
-    {
       "published_at": "2026-08-18T10:07:46+00:00",
       "updated_at": "2026-08-18T10:07:46+00:00",
       "title": "Inter favourites to retain Serie A title with rivals under new management",
@@ -1508,33 +1418,6 @@
       "id": "expertens-hyllning-b-sta-vi-haft-h-r-p-v-ldigt-m-nga-r"
     },
     {
-      "published_at": "2026-08-19T04:20:02+00:00",
-      "updated_at": "2026-08-19T04:20:02+00:00",
-      "title": "How Ferran Torres’ quixotic World Cup-winning summer led to his Barcelona exit",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "La Liga"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "barcelona",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "how-ferran-torres-quixotic-world-cup-winning-summer-led-to-his-barcelona-exit"
-    },
-    {
       "published_at": "2026-08-18T19:43:24+00:00",
       "updated_at": "2026-08-18T19:43:24+00:00",
       "title": "Damallsvenskan tappar tunga sponsorer: ”Svår situation”",
@@ -1614,34 +1497,6 @@
       },
       "confirmed_by": [],
       "id": "h-r-mexikanska-m-lvr-let-fr-n-allsvenskan-goooool"
-    },
-    {
-      "published_at": "2026-08-18T04:10:34+00:00",
-      "updated_at": "2026-08-18T04:10:34+00:00",
-      "title": "Dean Huijsen was Real Madrid’s marquee signing a year ago. Why could he still be this season’s breakout star?",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "La Liga",
-        "Transfer"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "dean-huijsen-was-real-madrid-s-marquee-signing-a-year-ago-why-could-he-still-be-this-seaso"
     },
     {
       "published_at": "2026-08-17T20:06:23+00:00",
@@ -1726,89 +1581,6 @@
       "id": "uppgifter-serie-a-talang-i-drunkningsolycka"
     },
     {
-      "published_at": "2026-08-13T11:50:45+00:00",
-      "updated_at": "2026-08-13T11:50:45+00:00",
-      "title": "Supercopa de Espana moves to Istanbul from Saudi Arabia for 2027",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "supercopa-de-espana-moves-to-istanbul-from-saudi-arabia-for-2027"
-    },
-    {
-      "published_at": "2026-08-19T09:20:00+00:00",
-      "updated_at": "2026-08-19T09:20:00+00:00",
-      "title": "Ipswich latest: Tractor Boys in talks to sign Palacios from Leverkusen",
-      "summary": "Ipswich transfers, latest news, rumours and gossip: Live updates, goals and highlights",
-      "category": [
-        "Bundesliga",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/06/1600x900/skysports-ipswich-town-news_7281011.jpg?20260623154649",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-      },
-      "confirmed_by": [],
-      "id": "ipswich-latest-tractor-boys-in-talks-to-sign-palacios-from-leverkusen"
-    },
-    {
-      "published_at": "2026-08-18T18:27:00+00:00",
-      "updated_at": "2026-08-18T18:27:00+00:00",
-      "title": "Newcastle latest: Exploratory talks held for Man City midfielder Gonzalez",
-      "summary": "Newcastle transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-premier-league-matthias-jaissle_7312588.jpg?20260803082043",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "newcastle-latest-exploratory-talks-held-for-man-city-midfielder-gonzalez"
-    },
-    {
       "published_at": "2026-08-19T10:00:00+00:00",
       "updated_at": "2026-08-19T10:00:00+00:00",
       "title": "Why Van Hecke holds the key to unlocking De Zerbi ball at Spurs",
@@ -1863,33 +1635,6 @@
       "id": "arteta-we-want-to-be-the-best-club-in-the-world"
     },
     {
-      "published_at": "2026-08-18T16:30:00+00:00",
-      "updated_at": "2026-08-18T16:30:00+00:00",
-      "title": "PL chief Masters: Man City charges verdict 'has taken longer than expected'",
-      "summary": "Premier League chief executive Richard Masters says a verdict on the alleged charges against Manchester City \"has taken longer than expected\"",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://e0.365dm.com/24/01/1600x900/skysports-man-city-premier-league_6423479.jpg?20240116130948",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13574259/manchester-city-charges-premier-league-chief-executive-richard-masters-says-verdict-has-taken-longer-than-expected"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13574259/manchester-city-charges-premier-league-chief-executive-richard-masters-says-verdict-has-taken-longer-than-expected"
-      },
-      "confirmed_by": [],
-      "id": "pl-chief-masters-man-city-charges-verdict-has-taken-longer-than-expected"
-    },
-    {
       "published_at": "2026-08-18T10:30:00+00:00",
       "updated_at": "2026-08-18T10:30:00+00:00",
       "title": "The Premier League is back! All 20 clubs assessed",
@@ -1915,6 +1660,33 @@
       },
       "confirmed_by": [],
       "id": "the-premier-league-is-back-all-20-clubs-assessed"
+    },
+    {
+      "published_at": "2026-08-18T09:30:00+00:00",
+      "updated_at": "2026-08-18T09:30:00+00:00",
+      "title": "Isak's Newcastle reunion is a chance to start rewriting his Liverpool story",
+      "summary": "There are reunions for players to cherish. Alexander Isak's return to St James' Park on Sunday will not be that. The Newcastle supporters will make their feelings known.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-alexander-isak-liverpool_7324573.jpg?20260818083103",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13569643/alexander-isak-returns-to-newcastle-liverpool-striker-faces-st-james-park-reunion-still-waiting-to-reignite-his-career"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13569643/alexander-isak-returns-to-newcastle-liverpool-striker-faces-st-james-park-reunion-still-waiting-to-reignite-his-career"
+      },
+      "confirmed_by": [],
+      "id": "isak-s-newcastle-reunion-is-a-chance-to-start-rewriting-his-liverpool-story"
     },
     {
       "published_at": "2026-08-19T09:23:00+00:00",
@@ -1947,8 +1719,8 @@
     {
       "published_at": "2026-08-19T08:45:00+00:00",
       "updated_at": "2026-08-19T08:45:00+00:00",
-      "title": "Samuel Parts ny Premier League-bloggare på Fotbollskanalen",
-      "summary": "Read the full report at Fotbollskanalen.",
+      "title": "Fotbollskanalen startar Premier League-podd",
+      "summary": "Fotbollskanalen startar Premier League-podd Fotbollskanalen",
       "category": [
         "Sverige",
         "Premier League"
@@ -1970,7 +1742,34 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "samuel-parts-ny-premier-league-bloggare-p-fotbollskanalen"
+      "id": "fotbollskanalen-startar-premier-league-podd"
+    },
+    {
+      "published_at": "2026-08-19T08:17:00+00:00",
+      "updated_at": "2026-08-19T08:17:00+00:00",
+      "title": "\"Upplagt för succé - Carricks perfekta pusselbit i offensiven\"",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "upplagt-f-r-succ-carricks-perfekta-pusselbit-i-offensiven"
     },
     {
       "published_at": "2026-08-19T10:00:00+00:00",
@@ -1984,7 +1783,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/60hHkzQ6UQESLQAkhzOlB85aIY34ZLHaHIE6D0md.jpg",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/shpwvZnWY7pVWDIk3occqmt47PiYyjganiCIZmCg.png",
       "sources": [
         {
           "name": "SvenskaFans",
@@ -2108,6 +1907,33 @@
       "id": "falkenbergs-superfiasko-missar-svenska-cupen-2027"
     },
     {
+      "published_at": "2026-08-18T23:42:00+00:00",
+      "updated_at": "2026-08-18T23:42:00+00:00",
+      "title": "Where to watch Barcelona, Real Madrid LaLiga openers",
+      "summary": "Read the full report at ESPN.",
+      "category": [
+        "La Liga"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "real-madrid",
+      "image": "",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "ESPN",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "where-to-watch-barcelona-real-madrid-laliga-openers"
+    },
+    {
       "published_at": "2026-08-19T09:41:45+00:00",
       "updated_at": "2026-08-19T09:41:45+00:00",
       "title": "The most exciting young Italian talent in Serie A for 2026-27? We All Agree!",
@@ -2133,6 +1959,142 @@
       },
       "confirmed_by": [],
       "id": "the-most-exciting-young-italian-talent-in-serie-a-for-2026-27-we-all-agree"
+    },
+    {
+      "published_at": "2026-08-18T19:00:00+00:00",
+      "updated_at": "2026-08-18T19:00:00+00:00",
+      "title": "Serie A chiefs meet over new rules designed to ‘increase effective playing time of matches",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "serie-a-chiefs-meet-over-new-rules-designed-to-increase-effective-playing-time-of-matches"
+    },
+    {
+      "published_at": "2026-08-18T18:20:00+00:00",
+      "updated_at": "2026-08-18T18:20:00+00:00",
+      "title": "Ajax and Galatasaray join queue for Napoli outcast Lang",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "ajax-and-galatasaray-join-queue-for-napoli-outcast-lang"
+    },
+    {
+      "published_at": "2026-08-18T17:20:00+00:00",
+      "updated_at": "2026-08-18T17:20:00+00:00",
+      "title": "Como push for Ricci as Milan hold firm on permanent sale",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "como-push-for-ricci-as-milan-hold-firm-on-permanent-sale"
+    },
+    {
+      "published_at": "2026-08-19T07:00:00+00:00",
+      "updated_at": "2026-08-19T07:00:00+00:00",
+      "title": "Premier League build-up: Webb outlines new 'light-touch' approach to VAR",
+      "summary": "Premier League 2026/27 preview, team news, analysis, injury latest, suspensions and Fantasy Football",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/05/1600x900/skysports-football-ref-var_7262517.jpg?20260531213834",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13574293/premier-league-2026-27-preview-team-news-analysis-injury-latest-suspensions-and-fantasy-football"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13574293/premier-league-2026-27-preview-team-news-analysis-injury-latest-suspensions-and-fantasy-football"
+      },
+      "confirmed_by": [],
+      "id": "premier-league-build-up-webb-outlines-new-light-touch-approach-to-var"
+    },
+    {
+      "published_at": "2026-08-18T13:00:00+00:00",
+      "updated_at": "2026-08-18T13:00:00+00:00",
+      "title": "Liverpool 2026/27 season Q&A - your questions answered!",
+      "summary": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-liverpool-club-blog_7266198.jpg?20260605143916",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "liverpool-2026-27-season-q-a-your-questions-answered"
     }
   ]
 }
