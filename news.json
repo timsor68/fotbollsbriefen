@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T14:36:40.475908+00:00",
+  "updated_at": "2026-08-20T15:34:27.096900+00:00",
   "items": [
     {
       "published_at": "2026-08-19T10:54:36+00:00",
@@ -47,18 +47,54 @@
       "id": "real-madrid-manager-jose-mourinho-told-vinicius-jr-it-was-not-worth-leaving-spanish-club"
     },
     {
-      "published_at": "2026-08-19T09:12:22+00:00",
-      "updated_at": "2026-08-19T09:12:22+00:00",
-      "title": "Paul Pogba leaves Monaco after contract termination",
+      "published_at": "2026-08-20T14:39:54+00:00",
+      "updated_at": "2026-08-20T14:39:54+00:00",
+      "title": "Chelsea happy with Fernandez, says Alonso",
+      "summary": "Enzo Fernandez has shown a \"really good attitude\" since his return to Chelsea, says head coach Xabi Alonso, as speculation over the midfielder's future continues",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "xabi-alonso",
+      "entity_type": "coaches",
+      "club": "chelsea",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6078/live/eb6ec620-9c9d-11f1-a5a0-114ca9d4a1bc.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cpq8gq5llp9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cpq8gq5llp9o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "id": "chelsea-happy-with-fernandez-says-alonso"
+    },
+    {
+      "published_at": "2026-08-20T14:39:19+00:00",
+      "updated_at": "2026-08-20T14:39:19+00:00",
+      "title": "Barcelona: Joao Cancelo joins on three-year deal after leaving Al-Hilal",
       "summary": "Read the full report at BBC Sport.",
       "category": [
-        "Ligue 1",
+        "La Liga",
         "Transfer"
       ],
       "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
-      "club": "",
+      "club": "barcelona",
       "image": "",
       "sources": [
         {
@@ -67,11 +103,7 @@
         },
         {
           "name": "The Athletic",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV1UzTU92dC1Bc2pMUzhGZVhVWUVETVh4RVBXbGdKWDRtSnR0SmlFalR2Tlg5N0hfVUFqT2VhbndBWVVINWxoRTBtdlZQMHFFNnBpR0dTbXZrSkFWZVZQbHlaSG80dW1sbXhrRTZNS010Qmd2YVRUcU1wajRUdWFKTUNST0tURXZKSy1FVjNKUQ?oc=5"
-        },
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcGd0ODI1c2ZZc0cwLWZfT21sN0dpSzhyNk5ibXNPWGdmVWRaaTdCS19OeC10R2YtckZLMXE2RThYLWdZcC1VeVA1aTJfcDhZQ2ZhZ1k0aU1fUnZqbWstaWhCVFJzS1Q2dFFaQjZwVHlySklWZ0FybzlpWWZwU3VlQmdmMG5pWUJ3OUpwVWkzbUJrTWttV2VwcnI5ZjFxTExzdXM4TnZOakY?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNFRJWFB4UmhJNEx3MWs2eTNPZmt6VmNIVzB0VFNoTTZEUk5mdTZGZWVWaVlTYU9EVUpoSFhRM18xeWRJanFydHZBd2xSbk9Cc2FldnNnaDdRczNpLWs1RW1wcS04elhucW1FNUwtZ2NGWEZzUDlvMlVFdWlIZDU3VHE4WVR1WElYck4wUFZhV0NUV1JselpBOA?oc=5"
         }
       ],
       "language": "en",
@@ -82,59 +114,10 @@
       "confirmed_by": [
         {
           "name": "The Athletic",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV1UzTU92dC1Bc2pMUzhGZVhVWUVETVh4RVBXbGdKWDRtSnR0SmlFalR2Tlg5N0hfVUFqT2VhbndBWVVINWxoRTBtdlZQMHFFNnBpR0dTbXZrSkFWZVZQbHlaSG80dW1sbXhrRTZNS010Qmd2YVRUcU1wajRUdWFKTUNST0tURXZKSy1FVjNKUQ?oc=5"
-        },
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcGd0ODI1c2ZZc0cwLWZfT21sN0dpSzhyNk5ibXNPWGdmVWRaaTdCS19OeC10R2YtckZLMXE2RThYLWdZcC1VeVA1aTJfcDhZQ2ZhZ1k0aU1fUnZqbWstaWhCVFJzS1Q2dFFaQjZwVHlySklWZ0FybzlpWWZwU3VlQmdmMG5pWUJ3OUpwVWkzbUJrTWttV2VwcnI5ZjFxTExzdXM4TnZOakY?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNFRJWFB4UmhJNEx3MWs2eTNPZmt6VmNIVzB0VFNoTTZEUk5mdTZGZWVWaVlTYU9EVUpoSFhRM18xeWRJanFydHZBd2xSbk9Cc2FldnNnaDdRczNpLWs1RW1wcS04elhucW1FNUwtZ2NGWEZzUDlvMlVFdWlIZDU3VHE4WVR1WElYck4wUFZhV0NUV1JselpBOA?oc=5"
         }
       ],
-      "id": "paul-pogba-leaves-monaco-after-contract-termination"
-    },
-    {
-      "published_at": "2026-08-20T13:00:00+00:00",
-      "updated_at": "2026-08-20T13:00:00+00:00",
-      "title": "Premier League reset: Record manager upheaval leaves 2026/27 wide open",
-      "summary": "We ask 26 BBC Sport football pundits to predict who will win the 2026-27 Premier League title, and which clubs will finish in the top four",
-      "category": [
-        "Premier League",
-        "Coach"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/86f1/live/4444d1b0-9bb6-11f1-b109-879e35c24276.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cp8edryd7plo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13574814/premier-league-managers-2026-27-record-new-bosses-manager-changes-and-tenure"
-        },
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYUI2eDJkUF9aTzNnTTVfVE5Yd1p5cUNCRFFKQWgtY2p4Y1pGa05jSEt3SUZ1Q1RMeDZpdGJtYkhGY2s2dERLbnVKYXB5eUtJcGI5MUJJZkZ5eEFDeGRfbWhGRm5GNTl2aHpBMEdLMHJxTlplaEpNNFhvT0VHcEpncTZFQmx1UnNtRE5tZk0tUnVaMEhLTmtTWmhQMkdfSG44TDdEa2MtRWFaYzNKUjc1TWtXS2hfTkRpUDhjNGQybmNlSlBLdDBZaDJyN3lVUFpad1JSWnVpTVN2Y3dWc2VlNHlCYw?oc=5"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cp8edryd7plo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13574814/premier-league-managers-2026-27-record-new-bosses-manager-changes-and-tenure"
-        },
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYUI2eDJkUF9aTzNnTTVfVE5Yd1p5cUNCRFFKQWgtY2p4Y1pGa05jSEt3SUZ1Q1RMeDZpdGJtYkhGY2s2dERLbnVKYXB5eUtJcGI5MUJJZkZ5eEFDeGRfbWhGRm5GNTl2aHpBMEdLMHJxTlplaEpNNFhvT0VHcEpncTZFQmx1UnNtRE5tZk0tUnVaMEhLTmtTWmhQMkdfSG44TDdEa2MtRWFaYzNKUjc1TWtXS2hfTkRpUDhjNGQybmNlSlBLdDBZaDJyN3lVUFpad1JSWnVpTVN2Y3dWc2VlNHlCYw?oc=5"
-        }
-      ],
-      "id": "premier-league-reset-record-manager-upheaval-leaves-2026-27-wide-open"
+      "id": "barcelona-joao-cancelo-joins-on-three-year-deal-after-leaving-al-hilal"
     },
     {
       "published_at": "2026-08-20T09:01:26+00:00",
@@ -211,6 +194,43 @@
       "id": "inter-agree-30m-deal-for-liverpool-s-jones"
     },
     {
+      "published_at": "2026-08-19T09:12:22+00:00",
+      "updated_at": "2026-08-19T09:12:22+00:00",
+      "title": "Paul Pogba leaves Monaco after contract termination",
+      "summary": "Read the full report at BBC Sport.",
+      "category": [
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV1UzTU92dC1Bc2pMUzhGZVhVWUVETVh4RVBXbGdKWDRtSnR0SmlFalR2Tlg5N0hfVUFqT2VhbndBWVVINWxoRTBtdlZQMHFFNnBpR0dTbXZrSkFWZVZQbHlaSG80dW1sbXhrRTZNS010Qmd2YVRUcU1wajRUdWFKTUNST0tURXZKSy1FVjNKUQ?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV1UzTU92dC1Bc2pMUzhGZVhVWUVETVh4RVBXbGdKWDRtSnR0SmlFalR2Tlg5N0hfVUFqT2VhbndBWVVINWxoRTBtdlZQMHFFNnBpR0dTbXZrSkFWZVZQbHlaSG80dW1sbXhrRTZNS010Qmd2YVRUcU1wajRUdWFKTUNST0tURXZKSy1FVjNKUQ?oc=5"
+        }
+      ],
+      "id": "paul-pogba-leaves-monaco-after-contract-termination"
+    },
+    {
       "published_at": "2026-08-16T17:56:55+00:00",
       "updated_at": "2026-08-16T17:56:55+00:00",
       "title": "Anders Christiansen om framtiden: ”De får bära mig ut”",
@@ -245,6 +265,106 @@
         }
       ],
       "id": "anders-christiansen-om-framtiden-de-f-r-b-ra-mig-ut"
+    },
+    {
+      "published_at": "2026-08-20T14:04:00+00:00",
+      "updated_at": "2026-08-20T14:04:00+00:00",
+      "title": "'100 per cent' - Arteta confident Lewis-Skelly stays at Arsenal",
+      "summary": "Champions’ manager says team ready for long marathon Arteta 100% confident Lewis-Skelly will remain at club Mikel Arteta has called on Arsenal to prove they have the desire to defend their Premier League title on the eve of the new season and insisted Myles Lewis-Skelly would not be leaving in this transfer window. Arsenal face Coventry in their opening match on Friday night as they attempt to retain the championship for the first time since the 1930s. Arteta’s side have won 17 of their last 18 matches against promoted teams and have not been beaten at the Emirates by one since November 2010 – a run of 45 matches.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "mikel-arteta",
+      "entity_type": "coaches",
+      "club": "arsenal",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-myles-lewis-skelly_7320052.jpg?20260812201414",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13575044/myles-lewis-skelly-transfer-news-mikel-arteta-100-per-cent-confident-arsenal-will-keep-teenage-midfielder-this-summer"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/20/arteta-desire-ambition-title-defence-myles-lewis-skelly-will-stay-arsenal"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13575044/myles-lewis-skelly-transfer-news-mikel-arteta-100-per-cent-confident-arsenal-will-keep-teenage-midfielder-this-summer"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/20/arteta-desire-ambition-title-defence-myles-lewis-skelly-will-stay-arsenal"
+        }
+      ],
+      "id": "100-per-cent-arteta-confident-lewis-skelly-stays-at-arsenal"
+    },
+    {
+      "published_at": "2026-08-20T13:00:00+00:00",
+      "updated_at": "2026-08-20T13:00:00+00:00",
+      "title": "Record manager upheaval leaves new Premier League season wide open",
+      "summary": "Newcastle, Arsenal, Brentford, Everton, Leeds, Coventry, Aston Villa, Hull and Ipswich have all brought in exciting players By Opta Analyst Anthony Gordon will be a difficult act to follow at Newcastle, but Touré could be a shrewd replacement. Blessed with electric pace, the 20-year-old is a bit more of an old-fashioned winger in that he predominantly plays from the left and is left-footed. As a result, he was more of a creator than a goalscorer for Hoffenheim last season.",
+      "category": [
+        "Premier League",
+        "Coach"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-graphic-premier-league_7326453.jpg?20260820124934",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13574814/premier-league-managers-2026-27-record-new-bosses-manager-changes-and-tenure"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/20/premier-league-newcomers-newcastle-arsenal-brentford-everton-leeds-villa-coventry-hull-ipswich-transfer-window"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13574814/premier-league-managers-2026-27-record-new-bosses-manager-changes-and-tenure"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/20/premier-league-newcomers-newcastle-arsenal-brentford-everton-leeds-villa-coventry-hull-ipswich-transfer-window"
+        }
+      ],
+      "id": "record-manager-upheaval-leaves-new-premier-league-season-wide-open"
+    },
+    {
+      "published_at": "2026-08-20T14:39:19+00:00",
+      "updated_at": "2026-08-20T14:39:19+00:00",
+      "title": "Cancelo makes 'dream' Barca move after Al-Hilal exit",
+      "summary": "Portugal full-back Joao Cancelo rejoins Barcelona on a permanent deal after his contract with Al-Hilal was mutually terminated",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2c52/live/367bd970-9ca1-11f1-a5a0-114ca9d4a1bc.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c20j30vnxkmo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c20j30vnxkmo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "cancelo-makes-dream-barca-move-after-al-hilal-exit"
     },
     {
       "published_at": "2026-08-20T11:29:18+00:00",
@@ -329,89 +449,6 @@
       "id": "trippier-suffers-knee-injury-on-wolves-league-debut"
     },
     {
-      "published_at": "2026-08-20T07:03:28+00:00",
-      "updated_at": "2026-08-20T07:03:28+00:00",
-      "title": "Minority investment or takeover - what does Bezos' Liverpool deal mean?",
-      "summary": "What does Liverpool’s future hold following the sale of stakes to 1892 Holdings, and how involved will Amazon founder Jeff Bezos be?",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ba77/live/a282ad60-9bf2-11f1-8470-d18257d2d589.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c4g31egre74o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c4g31egre74o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "minority-investment-or-takeover-what-does-bezos-liverpool-deal-mean"
-    },
-    {
-      "published_at": "2026-08-19T16:01:32+00:00",
-      "updated_at": "2026-08-19T16:01:32+00:00",
-      "title": "Reijnders leaves Man City for Al-Qadsiah in £52m deal",
-      "summary": "Netherlands midfielder Tijjani Reijnders completes a £52m move to Saudi Arabian side Al-Qadsiah from Manchester City",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/83d9/live/7a887240-9be3-11f1-ba30-ddd78081057f.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c0m7el3zr2eo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c0m7el3zr2eo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "reijnders-leaves-man-city-for-al-qadsiah-in-52m-deal"
-    },
-    {
-      "published_at": "2026-08-20T12:58:28+00:00",
-      "updated_at": "2026-08-20T12:58:28+00:00",
-      "title": "Joao Cancelo rejoins Barcelona on deal to 2029 after Al Hilal contract termination",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "La Liga",
-        "Transfer"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "barcelona",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "joao-cancelo-rejoins-barcelona-on-deal-to-2029-after-al-hilal-contract-termination"
-    },
-    {
       "published_at": "2026-08-15T04:16:49+00:00",
       "updated_at": "2026-08-15T04:16:49+00:00",
       "title": "Why are Barcelona and Real Madrid not playing in La Liga’s opening weekend?",
@@ -490,33 +527,6 @@
         }
       ],
       "id": "beskedet-jkr-har-opererats"
-    },
-    {
-      "published_at": "2026-08-20T14:04:00+00:00",
-      "updated_at": "2026-08-20T14:04:00+00:00",
-      "title": "'100 per cent' - Arteta confident Lewis-Skelly stays at Arsenal",
-      "summary": "When Mikel Arteta arrived at Arsenal, he presented a five-step plan to go from crisis club to glory. Welcome to step five: create a dynasty",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "mikel-arteta",
-      "entity_type": "coaches",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-myles-lewis-skelly_7320052.jpg?20260812201414",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13575044/myles-lewis-skelly-transfer-news-mikel-arteta-100-per-cent-confident-arsenal-will-keep-teenage-midfielder-this-summer"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13575044/myles-lewis-skelly-transfer-news-mikel-arteta-100-per-cent-confident-arsenal-will-keep-teenage-midfielder-this-summer"
-      },
-      "confirmed_by": [],
-      "id": "100-per-cent-arteta-confident-lewis-skelly-stays-at-arsenal"
     },
     {
       "published_at": "2026-08-20T10:00:00+00:00",
@@ -836,7 +846,7 @@
       "published_at": "2026-08-20T11:13:15+00:00",
       "updated_at": "2026-08-20T11:13:15+00:00",
       "title": "‘He must resign’: Fans’ petition calls for Infantino to quit as Fifa president",
-      "summary": "Fans say Infantino has ‘lost the right to lead’ Statement also calls for Fifa to be reformed Fans’ groups worldwide have launched a petition calling for the resignation of Gianni Infantino as Fifa president and for wholesale reform of the organisation. Infantino is under mounting pressure after being forced to abandon plans to seek private investment to run Fifa tournaments, including the men’s and women’s World Cups.",
+      "summary": "Fans say Infantino has ‘lost the right to lead’ Statement also calls for Fifa to be reformed Fans’ groups worldwide have launched a petition calling for the resignation of Gianni Infantino as Fifa president and for wholesale reform of the organisation. Infantino is under mounting pressure after being forced to abandon plans to seek private investment to run Fifa tournaments, including the men’s and women’s World Cups. Three continental confederations accused Infantino of “deception” in an open letter last week over the manner the plan was devised and presented, and Uefa, European football’s governing body, is intent on boycotting Fifa events having “lost confidence” in his leadership.",
       "category": [
         "Transfer"
       ],
@@ -915,31 +925,58 @@
       "id": "frugal-or-foolish-manchester-united-may-regret-not-backing-carrick"
     },
     {
-      "published_at": "2026-08-20T07:00:46+00:00",
-      "updated_at": "2026-08-20T07:00:46+00:00",
-      "title": "Premier League: nine newcomers to watch in the top flight this season",
-      "summary": "Newcastle, Arsenal, Brentford, Everton, Leeds, Coventry, Aston Villa, Hull and Ipswich have all brought in exciting players By Opta Analyst Anthony Gordon will be a difficult act to follow at Newcastle, but Touré could be a shrewd replacement. Blessed with electric pace, the 20-year-old is a bit more of an old-fashioned winger in that he predominantly plays from the left and is left-footed. As a result, he was more of a creator than a goalscorer for Hoffenheim last season.",
+      "published_at": "2026-08-19T23:58:35+00:00",
+      "updated_at": "2026-08-19T23:58:35+00:00",
+      "title": "‘A huge honour’: Socceroos World Cup star Alessandro Circati seals move to Benfica",
+      "summary": "Defender completes transfer for reported fee of 20m euros ($33m) Ten Australian players have now made post-World Cup moves Young Socceroo Alessandro Circati has become the latest Australian international to be snapped up in a money-spinning European transfer, as he hailed his move from Parma to Benfica as a “privilege”. Following Lucas Herrington’s move from the MLS to become Australia’s only Premier League player at Hull City, and Nestory Irankunda joining Benfica’s great rivals Sporting from Watford, Circati has been signed by the Portuguese giants for a reported 20m euros ($33m).",
       "category": [
-        "Premier League"
+        "Transfer"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://i.guim.co.uk/img/media/8157f004cf9633a790ccc2cca6e595ed01d229c5/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=229b15eecf3a6b30f03004f157ee3af7",
+      "image": "https://i.guim.co.uk/img/media/56acdea2fd08881bf83336d3824bb586a69691fa/0_31_2667_2133/master/2667.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=59e6b7dcd4062c402c0a2b5dcde98fed",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/20/premier-league-newcomers-newcastle-arsenal-brentford-everton-leeds-villa-coventry-hull-ipswich-transfer-window"
+          "url": "https://www.theguardian.com/football/2026/aug/20/alessandro-circati-benfica-portugal-primeira-liga-transfer-news-move"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/20/premier-league-newcomers-newcastle-arsenal-brentford-everton-leeds-villa-coventry-hull-ipswich-transfer-window"
+        "url": "https://www.theguardian.com/football/2026/aug/20/alessandro-circati-benfica-portugal-primeira-liga-transfer-news-move"
       },
       "confirmed_by": [],
-      "id": "premier-league-nine-newcomers-to-watch-in-the-top-flight-this-season"
+      "id": "a-huge-honour-socceroos-world-cup-star-alessandro-circati-seals-move-to-benfica"
+    },
+    {
+      "published_at": "2026-08-19T14:23:22+00:00",
+      "updated_at": "2026-08-19T14:23:22+00:00",
+      "title": "Not just big in Japan: Zion Suzuki has what it takes to follow Emiliano Martínez",
+      "summary": "He is replacing a World Cup winner and is his country’s first Premier League keeper, but Villa’s new signing has already dealt with harder challenges In November 2001, the first Japanese goalkeeper to play English league football conceded a goal within the first minute of his debut. Yoshikatsu Kawaguchi may have struggled for second-tier Portsmouth, conceding 21 times in his 12 league games after being spotted by the then director of football, Harry Redknapp, but he also produced some world-class saves and had glowing things to say about the Royal Mail. Replaced by a 42-year-old Dave Beasant, Kawaguchi nevertheless remains a cult hero on the south coast , as a standing ovation in his final game demonstrated.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/23eb6c026250e71446db354e33713c6872051035/1191_508_3215_2573/master/3215.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd034fd4be8df4ab4ffa252104432dba",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/19/aston-villa-transfer-not-just-big-in-japan-zion-suzuki-has-what-it-takes-to-follow-emiliano-martinez"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/19/aston-villa-transfer-not-just-big-in-japan-zion-suzuki-has-what-it-takes-to-follow-emiliano-martinez"
+      },
+      "confirmed_by": [],
+      "id": "not-just-big-in-japan-zion-suzuki-has-what-it-takes-to-follow-emiliano-mart-nez"
     },
     {
       "published_at": "2026-08-19T10:00:12+00:00",
@@ -967,33 +1004,6 @@
       },
       "confirmed_by": [],
       "id": "is-turkey-home-to-savvy-signings-or-a-new-retirement-league-we-ll-soon-find-out"
-    },
-    {
-      "published_at": "2026-08-19T08:41:10+00:00",
-      "updated_at": "2026-08-19T08:41:10+00:00",
-      "title": "Football transfer rumours: Al-Hilal eye moves for Harry Kane and Ollie Watkins?",
-      "summary": "Today’s gossip is still on the beach It seems the possibility of winning the Ballon d’Or is not the only thing the England captain, Harry Kane , has been talking about recently. Well, his representatives at least. It is thought Bayern Munich have been in talks with the Saudi Pro League’s Al-Hilal with Kane reportedly open to a future move.",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/9875b878c7968ebee7277b14a0e5dabe42447744/1148_601_1929_1543/master/1929.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a559787d2127af1bc4325836f93e5439",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/19/football-transfer-rumours-al-hilal-eye-moves-for-harry-kane-and-ollie-watkins"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/19/football-transfer-rumours-al-hilal-eye-moves-for-harry-kane-and-ollie-watkins"
-      },
-      "confirmed_by": [],
-      "id": "football-transfer-rumours-al-hilal-eye-moves-for-harry-kane-and-ollie-watkins"
     },
     {
       "published_at": "2026-08-19T07:15:09+00:00",
@@ -1050,58 +1060,58 @@
       "id": "this-isn-t-normal-in-football-xisco-malaysia-and-the-new-invincibles"
     },
     {
-      "published_at": "2026-08-16T16:46:36+00:00",
-      "updated_at": "2026-08-16T16:46:36+00:00",
-      "title": "Cristiano Ronaldo says this year is ‘probably’ his last as a footballer",
-      "summary": "Al-Nassr and Portugal forward expects to retire soon Ronaldo has more than 950 goals for club and country Cristiano Ronaldo believes this year is “probably” his last as a professional footballer, the 41-year-old Portugal captain said in an interview with Vogue magazine published on Sunday. Ronaldo, who has established his place among football’s all-time greats with more than 950 goals for club and country, had previously spoken of retiring “soon” or within “one or two years”.",
+      "published_at": "2026-08-18T16:53:13+00:00",
+      "updated_at": "2026-08-18T16:53:13+00:00",
+      "title": "Chelsea’s boardroom rift: if Boehly goes who will Clearlake have left to blame? | Sam Cunningham",
+      "summary": "Despite another reset with a new manager and fresh strategy, the boardroom drama persists at Stamford Bridge Perhaps, in hindsight, it was always going to end this way. As some of the world’s wealthiest investors scrambled to find funds after Vladimir Putin’s invasion of Ukraine set a series of dominoes toppling that forced Roman Abramovich to sell Chelsea , it threw together some unexpected allies. Todd Boehly became the public face of the winning bid, convincing the US sports mogul Mark Walter and the Swiss businessman Hansjörg Wyss to join as 12.8% minority investors.",
       "category": [
-        "Football"
+        "Premier League"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/e56d19b715473bc3ed8e26ab3215bd731d853ffa/93_0_1880_1504/master/1880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b1fdc2b33dc64f595560729abae2bbff",
+      "club": "chelsea",
+      "image": "https://i.guim.co.uk/img/media/4ead7116325e70109d51e315765412e81f237b5e/187_0_2241_1793/master/2241.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a3986b1a7248ba64f03419673607bab",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/16/cristiano-ronaldo-says-this-year-is-probably-his-last-as-a-footballer"
+          "url": "https://www.theguardian.com/football/2026/aug/18/chelsea-todd-boehly-mark-walter-clearlake-capital-ownership"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/16/cristiano-ronaldo-says-this-year-is-probably-his-last-as-a-footballer"
+        "url": "https://www.theguardian.com/football/2026/aug/18/chelsea-todd-boehly-mark-walter-clearlake-capital-ownership"
       },
       "confirmed_by": [],
-      "id": "cristiano-ronaldo-says-this-year-is-probably-his-last-as-a-footballer"
+      "id": "chelsea-s-boardroom-rift-if-boehly-goes-who-will-clearlake-have-left-to-blame-sam-cunningh"
     },
     {
-      "published_at": "2026-08-14T07:00:21+00:00",
-      "updated_at": "2026-08-14T07:00:21+00:00",
-      "title": "High-flying Sirius chase shock Allsvenskan title despite losing ‘best player in league’",
-      "summary": "They may have sold Robbie Ure, their top scorer, to Sevilla, but the team from Uppsala have good reason to believe they can finish the job For most teams, losing a forward with 15 goals in 15 games midway through the season, amid a historic title chase, might be cause for panic. Sirius, the runaway Allsvenskan leaders, are not most teams. “I’m actually really confident,” says Henrik Castegren, the club captain, when asked about the team’s ability to adapt after Robbie Ure’s move to Sevilla for a club-record fee, reported to be £5.6m plus add-ons.",
+      "published_at": "2026-08-18T14:48:30+00:00",
+      "updated_at": "2026-08-18T14:48:30+00:00",
+      "title": "Patrick Vieira appointed as head coach of Senegal, the country of his birth",
+      "summary": "Former Arsenal captain succeeds Pape Thiaw Senegal reached last 32 of this summer’s World Cup Senegal have appointed France’s 1998 World Cup winner Patrick Vieira as head coach, the country’s football federation announced, succeeding Pape Thiaw, who was dismissed in the wake of their World Cup exit. The appointment of Vieira, who was born in Senegal, is a “strategic move”, the federation said in a social media post, aiming to “establish a high-level technical staff, in line with our country’s sporting ambitions”.",
       "category": [
-        "Football"
+        "Coach"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://i.guim.co.uk/img/media/7382bc0caeffb02bcb7ce5e73b2234c9bd116a00/40_0_3032_2426/master/3032.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ebc7f4ac08ab92dfd42961f473dac3d0",
+      "image": "https://i.guim.co.uk/img/media/652169143719dae14b433f81ab3606ade46987e1/369_0_4026_3220/master/4026.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e98479e295b6989aee8cc86cb0d525d4",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/14/sirius-allsvenskan-title-robbie-ure-sevilla-transfer"
+          "url": "https://www.theguardian.com/football/2026/aug/18/patrick-vieira-appointed-as-senegal-head-coach"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/14/sirius-allsvenskan-title-robbie-ure-sevilla-transfer"
+        "url": "https://www.theguardian.com/football/2026/aug/18/patrick-vieira-appointed-as-senegal-head-coach"
       },
       "confirmed_by": [],
-      "id": "high-flying-sirius-chase-shock-allsvenskan-title-despite-losing-best-player-in-league"
+      "id": "patrick-vieira-appointed-as-head-coach-of-senegal-the-country-of-his-birth"
     },
     {
       "published_at": "2026-08-20T11:30:00+00:00",
@@ -1900,10 +1910,10 @@
       "id": "isak-s-newcastle-reunion-is-a-chance-to-start-rewriting-his-liverpool-story"
     },
     {
-      "published_at": "2026-08-20T13:18:00+00:00",
-      "updated_at": "2026-08-20T13:18:00+00:00",
-      "title": "Grozdanic bekräftar - flyttar till Spanien: \"Äntligen\"",
-      "summary": "Grozdanic bekräftar - flyttar till Spanien: \"Äntligen\" Fotbollskanalen",
+      "published_at": "2026-08-20T15:22:00+00:00",
+      "updated_at": "2026-08-20T15:22:00+00:00",
+      "title": "Uppgifter: HBK plockar in Trybull",
+      "summary": "Uppgifter: HBK plockar in Trybull Fotbollskanalen",
       "category": [
         "Sverige"
       ],
@@ -1924,7 +1934,34 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "grozdanic-bekr-ftar-flyttar-till-spanien-ntligen"
+      "id": "uppgifter-hbk-plockar-in-trybull"
+    },
+    {
+      "published_at": "2026-08-20T14:57:58+00:00",
+      "updated_at": "2026-08-20T14:57:58+00:00",
+      "title": "Uefa:s dom mot IFK Göteborg — riskerar tomma läktare",
+      "summary": "Under kvalmatchen borta mot FCI Levadia Tallin orsakade IFK Göteborg-supportrar skadegörelse. Nu har Uefa kommit med sitt straff mot Blåvitt. Det blir en villkorlig dom samt ett sexsiffrigt bötesbelopp",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/WpHNoOv5P5CqESJssTteMzlwUO06BKgcMiciVWPd.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/uefas-dom-mot-ifk-goteborg-riskerar-tomma-laktare-699415"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/uefas-dom-mot-ifk-goteborg-riskerar-tomma-laktare-699415"
+      },
+      "confirmed_by": [],
+      "id": "uefa-s-dom-mot-ifk-g-teborg-riskerar-tomma-l-ktare"
     },
     {
       "published_at": "2026-08-20T14:02:16+00:00",
@@ -2033,33 +2070,6 @@
       },
       "confirmed_by": [],
       "id": "elfsborg-blev-lottade-mot-alings-s-if-i-svenska-cupen"
-    },
-    {
-      "published_at": "2026-08-19T16:34:00+00:00",
-      "updated_at": "2026-08-19T16:34:00+00:00",
-      "title": "Sirius-redaktören: ”Stor chock - något måste ha varit oerhört dysfunktionellt på kontoret”",
-      "summary": "Beskedet att Sirius klubbdirektör Martin Malmberg lämnar klubben med omedelbar verkan kom som en chock även för Sirius-redaktören Tobias Wessman",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/MYTt3lpUq3r4m8VWXkweW7NH4xY3QL1GDkrmOd4A.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/sirius-redaktoren-stor-chock-nagot-maste-ha-varit-oerhort-dysfunktionellt-pa-kontoret-699375"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/sirius-redaktoren-stor-chock-nagot-maste-ha-varit-oerhort-dysfunktionellt-pa-kontoret-699375"
-      },
-      "confirmed_by": [],
-      "id": "sirius-redakt-ren-stor-chock-n-got-m-ste-ha-varit-oerh-rt-dysfunktionellt-p-kontoret"
     },
     {
       "published_at": "2026-08-19T14:04:45+00:00",
