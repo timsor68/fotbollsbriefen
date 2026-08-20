@@ -1,11 +1,56 @@
 {
-  "updated_at": "2026-08-20T16:35:44.777384+00:00",
+  "updated_at": "2026-08-20T17:29:48.949810+00:00",
   "items": [
+    {
+      "published_at": "2026-08-20T17:06:34+00:00",
+      "updated_at": "2026-08-20T17:06:34+00:00",
+      "title": "Liverpool have £50m bid rejected for Brighton's Minteh",
+      "summary": "Minteh targeted as replacement for Mohamed Salah Winger sidelined after recovering from leg surgery Liverpool have had a £50m bid for Yankuba Minteh rejected by Brighton. The club are looking to add two wide forwards to Andoni Iraola’s squad before the transfer deadline with their pursuit of Paris Saint-Germain’s Bradley Barcola ongoing. Liverpool’s short-list of targets also includes former Minteh but Brighton, who have lost Danny Welbeck to Chelsea and have Kaoru Mitoma out injured, have rebuffed the approach for the 22-year-old.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4457/live/9f853380-9cb0-11f1-84cf-fd4cfd9d6c84.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c4gknq7d8d5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/20/liverpool-see-50m-bid-for-yankuba-minteh-rejected-by-brighton"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c4gknq7d8d5o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/20/liverpool-see-50m-bid-for-yankuba-minteh-rejected-by-brighton"
+        }
+      ],
+      "id": "liverpool-have-50m-bid-rejected-for-brighton-s-minteh"
+    },
     {
       "published_at": "2026-08-20T14:39:54+00:00",
       "updated_at": "2026-08-20T14:39:54+00:00",
       "title": "Chelsea happy with Fernandez, says Alonso",
-      "summary": "Midfielder linked with £120m move to Manchester City Chelsea still interested in Bournemouth’s Alex Scott Xabi Alonso has refused to offer any guarantee that Chelsea will hold firm if Manchester City try to sign Enzo Fernández. Fernández’s future remains up in the air and the prospect of him leaving Stamford Bridge has not gone away, even though Chelsea’s unofficial deadline for clubs to make written bids of £120m for the 25-year-old Argentina midfielder has already passed. City, who are also tracking Roma’s Manu Koné , have targeted Fernández as part of their midfield rebuild following Rodri’s move to Barcelona and are weighing up whether to make a move before the transfer window shuts.",
+      "summary": "Midfielder linked with £120m move to Manchester City Chelsea still interested in Bournemouth’s Alex Scott Xabi Alonso has refused to offer any guarantee that Chelsea will hold firm if Manchester City try to sign Enzo Fernández. Fernández’s future remains up in the air and the prospect of him leaving Stamford Bridge has not gone away, even though Chelsea’s unofficial deadline for clubs to make written bids of £120m for the 25-year-old Argentina midfielder has already passed. City, who are also tracking Roma’s Manu Koné , have targeted Fernández as part of their midfield rebuild after Rodri’s move to Barcelona and are weighing up whether to make a move before the transfer window shuts.",
       "category": [
         "Premier League"
       ],
@@ -46,6 +91,42 @@
       "id": "chelsea-happy-with-fernandez-says-alonso"
     },
     {
+      "published_at": "2026-08-20T16:30:29+00:00",
+      "updated_at": "2026-08-20T16:30:29+00:00",
+      "title": "Carrick dismisses 'ridiculous' Man Utd easy start talk",
+      "summary": "United face promoted sides Hull and Ipswich ‘A newly promoted team away is a tough game’ Michael Carrick has dismissed as “ridiculous” suggestions that Manchester United’s opening two games against Hull and Ipswich represent a favourable start to the season. United travel to Hull for Saturday’s opening match of the season before hosting Ipswich a week on Sunday, with both sides having been promoted from the Championship. Yet Carrick is adamant neither game will prove easy.",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4b32/live/93503380-9cb0-11f1-b109-879e35c24276.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cy5dx427yw7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/20/michael-carrick-rejects-talk-of-easy-start-to-season-for-manchester-united"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cy5dx427yw7o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/20/michael-carrick-rejects-talk-of-easy-start-to-season-for-manchester-united"
+        }
+      ],
+      "id": "carrick-dismisses-ridiculous-man-utd-easy-start-talk"
+    },
+    {
       "published_at": "2026-08-20T14:39:19+00:00",
       "updated_at": "2026-08-20T14:39:19+00:00",
       "title": "Barcelona: Joao Cancelo joins on three-year deal after leaving Al-Hilal",
@@ -81,42 +162,6 @@
         }
       ],
       "id": "barcelona-joao-cancelo-joins-on-three-year-deal-after-leaving-al-hilal"
-    },
-    {
-      "published_at": "2026-08-20T09:01:26+00:00",
-      "updated_at": "2026-08-20T09:01:26+00:00",
-      "title": "Spurs in talks to sign Man City's Savinho and Marmoush",
-      "summary": "Tottenham are in talks with Manchester City over a potential double deal for Savinho and Omar Marmoush",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a624/live/8092d520-9c71-11f1-b109-879e35c24276.png",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cz645z0w3ypo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13574823/tottenham-transfer-news-spurs-target-man-city-duo-savinho-and-marmoush-as-search-for-three-new-forwards-gathers-pace"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cz645z0w3ypo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13574823/tottenham-transfer-news-spurs-target-man-city-duo-savinho-and-marmoush-as-search-for-three-new-forwards-gathers-pace"
-        }
-      ],
-      "id": "spurs-in-talks-to-sign-man-city-s-savinho-and-marmoush"
     },
     {
       "published_at": "2026-08-20T07:57:12+00:00",
@@ -267,42 +312,6 @@
       "id": "anders-christiansen-om-framtiden-de-f-r-b-ra-mig-ut"
     },
     {
-      "published_at": "2026-08-20T14:04:00+00:00",
-      "updated_at": "2026-08-20T14:04:00+00:00",
-      "title": "'100 per cent' - Arteta confident Lewis-Skelly stays at Arsenal",
-      "summary": "Champions’ manager says team ready for long marathon Arteta 100% confident Lewis-Skelly will remain at club Mikel Arteta has called on Arsenal to prove they have the desire to defend their Premier League title on the eve of the new season and insisted Myles Lewis-Skelly would not be leaving in this transfer window. Arsenal face Coventry in their opening match on Friday night as they attempt to retain the championship for the first time since the 1930s. Arteta’s side have won 17 of their last 18 matches against promoted teams and have not been beaten at the Emirates by one since November 2010 – a run of 45 matches.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "mikel-arteta",
-      "entity_type": "coaches",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-myles-lewis-skelly_7320052.jpg?20260812201414",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13575044/myles-lewis-skelly-transfer-news-mikel-arteta-100-per-cent-confident-arsenal-will-keep-teenage-midfielder-this-summer"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/20/arteta-desire-ambition-title-defence-myles-lewis-skelly-will-stay-arsenal"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13575044/myles-lewis-skelly-transfer-news-mikel-arteta-100-per-cent-confident-arsenal-will-keep-teenage-midfielder-this-summer"
-      },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/20/arteta-desire-ambition-title-defence-myles-lewis-skelly-will-stay-arsenal"
-        }
-      ],
-      "id": "100-per-cent-arteta-confident-lewis-skelly-stays-at-arsenal"
-    },
-    {
       "published_at": "2026-08-20T13:00:00+00:00",
       "updated_at": "2026-08-20T13:00:00+00:00",
       "title": "Record manager upheaval leaves new Premier League season wide open",
@@ -338,61 +347,6 @@
         }
       ],
       "id": "record-manager-upheaval-leaves-new-premier-league-season-wide-open"
-    },
-    {
-      "published_at": "2026-08-20T16:30:29+00:00",
-      "updated_at": "2026-08-20T16:30:29+00:00",
-      "title": "Carrick dismisses 'ridiculous' Man Utd easy start talk",
-      "summary": "Manchester United head coach Michael Carrick says it is \"ridiculous\" to say his side has an easy start to the Premier League season because they play two promoted teams",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4b32/live/93503380-9cb0-11f1-b109-879e35c24276.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cy5dx427yw7o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cy5dx427yw7o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "carrick-dismisses-ridiculous-man-utd-easy-start-talk"
-    },
-    {
-      "published_at": "2026-08-20T16:26:57+00:00",
-      "updated_at": "2026-08-20T16:26:57+00:00",
-      "title": "Liverpool interested in Brighton winger Minteh",
-      "summary": "Liverpool make an approach to Brighton to sign winger Yankuba Minteh",
-      "category": [
-        "Premier League",
-        "Serie A"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4457/live/9f853380-9cb0-11f1-84cf-fd4cfd9d6c84.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c4gknq7d8d5o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c4gknq7d8d5o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "liverpool-interested-in-brighton-winger-minteh"
     },
     {
       "published_at": "2026-08-20T15:32:38+00:00",
@@ -449,6 +403,33 @@
       "id": "cancelo-makes-dream-barca-move-after-al-hilal-exit"
     },
     {
+      "published_at": "2026-08-20T11:29:18+00:00",
+      "updated_at": "2026-08-20T11:29:18+00:00",
+      "title": "Jaissle on pain which set him on path to Newcastle and speaking with Howe",
+      "summary": "New Newcastle United boss Matthias Jaissle says having his playing career ended by injury at the age of 25 showed him that adversity can lead to opportunity",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8380/live/d6fbafd0-9c0e-11f1-bab6-dd87b521d67e.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c171k9kd94zo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c171k9kd94zo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "jaissle-on-pain-which-set-him-on-path-to-newcastle-and-speaking-with-howe"
+    },
+    {
       "published_at": "2026-08-15T04:16:49+00:00",
       "updated_at": "2026-08-15T04:16:49+00:00",
       "title": "Why are Barcelona and Real Madrid not playing in La Liga’s opening weekend?",
@@ -493,6 +474,96 @@
       "id": "why-are-barcelona-and-real-madrid-not-playing-in-la-liga-s-opening-weekend"
     },
     {
+      "published_at": "2026-08-18T21:51:39+00:00",
+      "updated_at": "2026-08-18T21:51:39+00:00",
+      "title": "Beskedet: ”JKR” har opererats",
+      "summary": "Johanna Rytting Kaneryd är korsbandsskadad igen. Men nu har hon genomgått en operation. ”Tack för all kärlek och styrka”, skriver stjärnan på Instagram",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/beskedet-jkr-har-opererats-699348"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/beskedet-jkr-har-opererats-699348"
+        }
+      ],
+      "id": "beskedet-jkr-har-opererats"
+    },
+    {
+      "published_at": "2026-08-20T18:00:00+00:00",
+      "updated_at": "2026-08-20T18:00:00+00:00",
+      "title": "Glasner's plan for 'stability with success' at Nottingham Forest",
+      "summary": "Oliver Glasner is not necessarily known for being a disciplinarian. But not a coach who rains down rules. At Nottingham Forest that might have to change",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-oliver-glasner-nottingham-forest_7326482.jpg?20260820130932",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13574953/oliver-glasner-has-a-plan-for-premier-league-stability-and-success-at-nottingham-forest-but-it-comes-with-a-warning"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13574953/oliver-glasner-has-a-plan-for-premier-league-stability-and-success-at-nottingham-forest-but-it-comes-with-a-warning"
+      },
+      "confirmed_by": [],
+      "id": "glasner-s-plan-for-stability-with-success-at-nottingham-forest"
+    },
+    {
+      "published_at": "2026-08-20T14:04:00+00:00",
+      "updated_at": "2026-08-20T14:04:00+00:00",
+      "title": "'100 per cent' - Arteta confident Lewis-Skelly stays at Arsenal",
+      "summary": "When Mikel Arteta arrived at Arsenal, he presented a five-step plan to go from crisis club to glory. Welcome to step five: create a dynasty",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "mikel-arteta",
+      "entity_type": "coaches",
+      "club": "arsenal",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-myles-lewis-skelly_7320052.jpg?20260812201414",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13575044/myles-lewis-skelly-transfer-news-mikel-arteta-100-per-cent-confident-arsenal-will-keep-teenage-midfielder-this-summer"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13575044/myles-lewis-skelly-transfer-news-mikel-arteta-100-per-cent-confident-arsenal-will-keep-teenage-midfielder-this-summer"
+      },
+      "confirmed_by": [],
+      "id": "100-per-cent-arteta-confident-lewis-skelly-stays-at-arsenal"
+    },
+    {
       "published_at": "2026-08-20T10:00:00+00:00",
       "updated_at": "2026-08-20T10:00:00+00:00",
       "title": "Meet Coventry’s new midfield powerhouse tipped to thrive by Essien",
@@ -518,34 +589,6 @@
       },
       "confirmed_by": [],
       "id": "meet-coventry-s-new-midfield-powerhouse-tipped-to-thrive-by-essien"
-    },
-    {
-      "published_at": "2026-08-20T08:08:00+00:00",
-      "updated_at": "2026-08-20T08:08:00+00:00",
-      "title": "Why Liverpool are ready to put their faith in the 'real deal' Jacquet",
-      "summary": "Liverpool have big hopes for Jeremy Jacquet having invested £60m to bring the highly regarded young central defender to Anfield this summer. An injury disrupted his pre-season, but the Frenchman looks worth the wait",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-premier-league-jeremy-jacquet_7314615.jpg?20260805142824",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13570137/jeremy-jacquet-why-liverpool-are-ready-to-put-their-faith-in-60m-france-centre-back"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13570137/jeremy-jacquet-why-liverpool-are-ready-to-put-their-faith-in-60m-france-centre-back"
-      },
-      "confirmed_by": [],
-      "id": "why-liverpool-are-ready-to-put-their-faith-in-the-real-deal-jacquet"
     },
     {
       "published_at": "2026-08-20T13:16:00+00:00",
@@ -769,6 +812,33 @@
       },
       "confirmed_by": [],
       "id": "uppgifter-arsenal-i-samtal-med-leverkusen-om-quansah-v-rvning"
+    },
+    {
+      "published_at": "2026-08-20T16:28:25+00:00",
+      "updated_at": "2026-08-20T16:28:25+00:00",
+      "title": "Terry Dyson, only Spurs player to score north London derby hat-trick, dies at 91",
+      "summary": "Tottenham salute ‘key part’ of 1960-61 Double side Winger also won Cup Winners’ Cup in 1963 Tottenham’s 1961 Double-winner Terry Dyson has died at the age of 91. The Premier League club confirmed Dyson’s death on Thursday and paid tribute to their former winger, who made 209 appearances and scored 55 goals for Spurs in a 10-year spell. Dyson was part of Bill Nicholson’s 1960-61 side, the first English team in the 20th century to achieve a First Division and FA Cup Double, but one of his finest moments occurred two years later when he scored twice a 5-1 victory over Atlético Madrid to secure the European Cup Winners’ Cup.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://i.guim.co.uk/img/media/c5628a4d9cbbe14726808ed441c37cf68ab492d4/0_732_4724_3779/master/4724.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=af1bb140ce99768f0d7076210a79c8ad",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/20/terry-dyson-tottenham-dies-aged-91"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/20/terry-dyson-tottenham-dies-aged-91"
+      },
+      "confirmed_by": [],
+      "id": "terry-dyson-only-spurs-player-to-score-north-london-derby-hat-trick-dies-at-91"
     },
     {
       "published_at": "2026-08-20T11:13:15+00:00",
@@ -1015,31 +1085,140 @@
       "id": "chelsea-s-boardroom-rift-if-boehly-goes-who-will-clearlake-have-left-to-blame-sam-cunningh"
     },
     {
-      "published_at": "2026-08-18T14:48:30+00:00",
-      "updated_at": "2026-08-18T14:48:30+00:00",
-      "title": "Patrick Vieira appointed as head coach of Senegal, the country of his birth",
-      "summary": "Former Arsenal captain succeeds Pape Thiaw Senegal reached last 32 of this summer’s World Cup Senegal have appointed France’s 1998 World Cup winner Patrick Vieira as head coach, the country’s football federation announced, succeeding Pape Thiaw, who was dismissed in the wake of their World Cup exit. The appointment of Vieira, who was born in Senegal, is a “strategic move”, the federation said in a social media post, aiming to “establish a high-level technical staff, in line with our country’s sporting ambitions”.",
+      "published_at": "2026-08-20T11:30:00+00:00",
+      "updated_at": "2026-08-20T11:30:00+00:00",
+      "title": "Ingen Voi-skada för Tomas – 260 gnagare på plats i Piteå",
+      "summary": "AIK:s nyförvärv Diogo Tomas skadade sig och missar torsdagens cupmatch borta mot Piteå. Nu sätter klubben stopp för spekulationerna om en olycka på elsparkcykel – samtidigt som hundratals AIK-supportrar laddar för match i Norrbotten",
       "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/n2mj525uE3pVTkURrB2KYW5Qn5QUhty1Be2Cm3h8.png",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/ingen-voi-skada-for-tomas-260-gnagare-pa-plats-i-pitea-699405"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/ingen-voi-skada-for-tomas-260-gnagare-pa-plats-i-pitea-699405"
+      },
+      "confirmed_by": [],
+      "id": "ingen-voi-skada-f-r-tomas-260-gnagare-p-plats-i-pite"
+    },
+    {
+      "published_at": "2026-08-19T08:37:00+00:00",
+      "updated_at": "2026-08-19T08:37:00+00:00",
+      "title": "Sirius-tränaren kastar om pressen: ”Skämmigt om Hammarby inte vinner”",
+      "summary": "Trots en ledning på nio poäng i Allsvenskan väljer Sirius tränare Andreas Engelmark att lägga all guldpress på jagande Hammarby. I supporterpodden ”Stjärnan lyser” skickar han en rejäl passning till Stockholmsklubben",
+      "category": [
+        "Sverige",
         "Coach"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://i.guim.co.uk/img/media/652169143719dae14b433f81ab3606ade46987e1/369_0_4026_3220/master/4026.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e98479e295b6989aee8cc86cb0d525d4",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/s78QtCTYjnxgNLpNsGWoIwZpZPeV8db67z6bp8Eu.png",
       "sources": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/18/patrick-vieira-appointed-as-senegal-head-coach"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/sirius-tranaren-kastar-om-pressen-skammigt-om-hammarby-inte-vinner-699361"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/18/patrick-vieira-appointed-as-senegal-head-coach"
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/sirius-tranaren-kastar-om-pressen-skammigt-om-hammarby-inte-vinner-699361"
       },
       "confirmed_by": [],
-      "id": "patrick-vieira-appointed-as-head-coach-of-senegal-the-country-of-his-birth"
+      "id": "sirius-tr-naren-kastar-om-pressen-sk-mmigt-om-hammarby-inte-vinner"
+    },
+    {
+      "published_at": "2026-08-18T16:43:00+00:00",
+      "updated_at": "2026-08-18T16:43:00+00:00",
+      "title": "Sirius bekräftar mardröm: Liimatta blir borta",
+      "summary": "Otso Liimatta svarade för dubbla mål senast mot Mjällby. Men han blev också utbytt med en skada. Nu bekräftar Sirius-tränaren Andreas Engelmark att finländaren blir borta, enligt UNT",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/AuQaYAAMaow1kkrIl9WMdg5hv1r3hUMx3bEvJysK.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/sirius-bekraftar-mardrom-liimatta-blir-borta-699322"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/sirius-bekraftar-mardrom-liimatta-blir-borta-699322"
+      },
+      "confirmed_by": [],
+      "id": "sirius-bekr-ftar-mardr-m-liimatta-blir-borta"
+    },
+    {
+      "published_at": "2026-08-16T06:35:00+00:00",
+      "updated_at": "2026-08-16T06:35:00+00:00",
+      "title": "Skadesmäll för AIK – Thychosen missar derbyt",
+      "summary": "Mads Thychosen missar derbyt mot Djurgården. Dansken är skadad, meddelar AIK",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/v0sJ1AU4G2GQqQJrTaICcn5zZfQ8NRCC1avH5ZtN.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/skadesmall-for-aik-thychosen-missar-derbyt-699226"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/skadesmall-for-aik-thychosen-missar-derbyt-699226"
+      },
+      "confirmed_by": [],
+      "id": "skadesm-ll-f-r-aik-thychosen-missar-derbyt"
+    },
+    {
+      "published_at": "2026-08-15T14:30:00+00:00",
+      "updated_at": "2026-08-15T14:30:00+00:00",
+      "title": "Inför GAIS - Malmö FF",
+      "summary": "Hemmamötet den 12 april mot GAIS slutade med 3-1 till MFF och känslan var att resan tillbaka mot toppen precis hade börjat. Fyra månader senare står vi med en ny tränare igen, som trots sin injektion av tro och optimism inte än har lyckats väcka klubben till liv",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/C24QPrL6GFeZkKvd7GqpKplHbqGBAHbBWQzdVbWb.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/infor-gais-malmo-ff-699107"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/infor-gais-malmo-ff-699107"
+      },
+      "confirmed_by": [],
+      "id": "inf-r-gais-malm-ff"
     },
     {
       "published_at": "2026-08-19T12:16:23+00:00",
@@ -1211,34 +1390,6 @@
       "id": "official-inter-loan-berenbruch-to-avellino-option-and-counter-option"
     },
     {
-      "published_at": "2026-08-16T11:49:12+00:00",
-      "updated_at": "2026-08-16T11:49:12+00:00",
-      "title": "Inter could change summer transfer strategy if Luis Henrique is sold",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "inter-could-change-summer-transfer-strategy-if-luis-henrique-is-sold"
-    },
-    {
       "published_at": "2026-08-20T09:15:43+00:00",
       "updated_at": "2026-08-20T09:15:43+00:00",
       "title": "PSG heavily fancied to win sixth successive Ligue 1 title",
@@ -1264,6 +1415,69 @@
       },
       "confirmed_by": [],
       "id": "psg-heavily-fancied-to-win-sixth-successive-ligue-1-title"
+    },
+    {
+      "published_at": "2026-08-16T10:27:00+00:00",
+      "updated_at": "2026-08-16T10:27:00+00:00",
+      "title": "Uppgifter: Njie överens med Salzburg",
+      "summary": "AIK är på väg att slå transferrekord. Enligt Expressens uppgifter är de överens med Lucas Assadi om de personliga villkoren och bara detaljer återstår mellan AIK och Universidad de Chile om 22-åringens övergång",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/uppgifter-aik-overens-med-lucas-assadi-blir-rekordvarvning-699418"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/uppgifter-aik-overens-med-lucas-assadi-blir-rekordvarvning-699418"
+        }
+      ],
+      "id": "uppgifter-njie-verens-med-salzburg"
+    },
+    {
+      "published_at": "2026-08-20T17:00:38+00:00",
+      "updated_at": "2026-08-20T17:00:38+00:00",
+      "title": "Så många miljoner går EFD miste om när avtalen går ut: ”Det är kaos”",
+      "summary": "Avtalen med två av Elitfotboll Dams största sponsorer löper ut. Nu kan SVT Sport avslöja att det handlar om 24 miljoner kronor – om man inte lyckas hitta nya sponsorer. – Det är fullständigt kaos, säger en person med god insyn",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.67/0.29/0970d3e06d105955fb5118384ee968adee635450168d21934ec7151a53744d8b",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/sa-manga-miljoner-gar-efd-miste-om-nar-avtalen-gar-ut-det-ar-kaos"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/sa-manga-miljoner-gar-efd-miste-om-nar-avtalen-gar-ut-det-ar-kaos"
+      },
+      "confirmed_by": [],
+      "id": "s-m-nga-miljoner-g-r-efd-miste-om-n-r-avtalen-g-r-ut-det-r-kaos"
     },
     {
       "published_at": "2026-08-20T12:40:09+00:00",
@@ -1566,32 +1780,31 @@
       "id": "anledningarna-bakom-halmstads-kris-d-r-saknar-vi-kvalitet"
     },
     {
-      "published_at": "2026-08-17T13:36:07+00:00",
-      "updated_at": "2026-08-17T13:36:07+00:00",
-      "title": "Uppgifter: Serie A-talang i drunkningsolycka",
-      "summary": "Cagliari-spelaren Yael Trepy, 20, uppges vara försatt i medicinsk koma efter en badolycka i helgen",
+      "published_at": "2026-08-20T17:09:00+00:00",
+      "updated_at": "2026-08-20T17:09:00+00:00",
+      "title": "One to watch? Hot take?! Sky Sports writers give their PL predictions!",
+      "summary": "Sky Sports writers have given their Premier League predictions ahead of the new season, including their hot take and one to watch!",
       "category": [
-        "Sverige",
-        "Serie A"
+        "Football"
       ],
-      "status": "Confirmed",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.42/0.22/887f5b7b47a92fdf2c64f0c1a91a0bc172079534c9498f56b61d072cb276660f",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-football-premier-league_7326756.jpg?20260820172536",
       "sources": [
         {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/uppgifter-serie-a-talang-i-drunkningsolycka"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/watch/video/13575127/sky-sports-writers-give-their-premier-league-predictions-ahead-of-new-season"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/uppgifter-serie-a-talang-i-drunkningsolycka"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/watch/video/13575127/sky-sports-writers-give-their-premier-league-predictions-ahead-of-new-season"
       },
       "confirmed_by": [],
-      "id": "uppgifter-serie-a-talang-i-drunkningsolycka"
+      "id": "one-to-watch-hot-take-sky-sports-writers-give-their-pl-predictions"
     },
     {
       "published_at": "2026-08-20T14:00:00+00:00",
@@ -1702,10 +1915,10 @@
       "id": "isak-s-newcastle-reunion-is-a-chance-to-start-rewriting-his-liverpool-story"
     },
     {
-      "published_at": "2026-08-20T15:22:00+00:00",
-      "updated_at": "2026-08-20T15:22:00+00:00",
-      "title": "Uppgifter: HBK plockar in Trybull",
-      "summary": "Uppgifter: HBK plockar in Trybull Fotbollskanalen",
+      "published_at": "2026-08-20T14:57:58+00:00",
+      "updated_at": "2026-08-20T14:57:58+00:00",
+      "title": "Uefa:s dom mot IFK Göteborg — riskerar tomma läktare",
+      "summary": "Under kvalmatchen borta mot FCI Levadia Tallin orsakade IFK Göteborg-supportrar skadegörelse. Nu har Uefa kommit med sitt straff mot Blåvitt. Det blir en villkorlig dom samt ett sexsiffrigt bötesbelopp",
       "category": [
         "Sverige"
       ],
@@ -1713,26 +1926,26 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/WpHNoOv5P5CqESJssTteMzlwUO06BKgcMiciVWPd.jpg",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/uefas-dom-mot-ifk-goteborg-riskerar-tomma-laktare-699415"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/uefas-dom-mot-ifk-goteborg-riskerar-tomma-laktare-699415"
       },
       "confirmed_by": [],
-      "id": "uppgifter-hbk-plockar-in-trybull"
+      "id": "uefa-s-dom-mot-ifk-g-teborg-riskerar-tomma-l-ktare"
     },
     {
-      "published_at": "2026-08-20T13:18:00+00:00",
-      "updated_at": "2026-08-20T13:18:00+00:00",
-      "title": "Grozdanic bekräftar - flyttar till Spanien: \"Äntligen\"",
-      "summary": "Grozdanic bekräftar - flyttar till Spanien: \"Äntligen\" Fotbollskanalen",
+      "published_at": "2026-08-20T14:02:16+00:00",
+      "updated_at": "2026-08-20T14:02:16+00:00",
+      "title": "Inför IF Elfsborg - KIF Örebro: Fortsätter Elfsborg med att vinna?",
+      "summary": "Det har gått riktigt bra för IF Elfsborgs damer i Elitettan i år och de jagar en uppflyttning till Damallsvenskan som verkligen kan bli realistiskt. Seriefyran KIF Örebro på besök till Borås Arena",
       "category": [
         "Sverige"
       ],
@@ -1740,20 +1953,101 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/yvDPIzWnxfdC2SCrBMEGNwBatdGfPdeIe0mIZOKb.jpg",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/infor-if-elfsborg-kif-orebro-fortsatter-elfsborg-med-att-vinna-699411"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/infor-if-elfsborg-kif-orebro-fortsatter-elfsborg-med-att-vinna-699411"
       },
       "confirmed_by": [],
-      "id": "grozdanic-bekr-ftar-flyttar-till-spanien-ntligen"
+      "id": "inf-r-if-elfsborg-kif-rebro-forts-tter-elfsborg-med-att-vinna"
+    },
+    {
+      "published_at": "2026-08-20T13:00:00+00:00",
+      "updated_at": "2026-08-20T13:00:00+00:00",
+      "title": "VSK-Silly: Kommer Ladefoged ersättas?",
+      "summary": "Endast en och en halv vecka återstår av sommarens transferfönster. Västerås SK har hittills värvat två spelare, lånat ut två, släppt en och sålt en. Nu är man på jakt efter en anfallare.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/sNELCmWnBontaKxFwkFmSs3BT6cFgp457HyfEqKK.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/vsk-silly-699397"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/vsk-silly-699397"
+      },
+      "confirmed_by": [],
+      "id": "vsk-silly-kommer-ladefoged-ers-ttas"
+    },
+    {
+      "published_at": "2026-08-20T06:00:00+00:00",
+      "updated_at": "2026-08-20T06:00:00+00:00",
+      "title": "Mjällbys playoff-motstånd hatas av en hel fotbollsvärld",
+      "summary": "Mjällby har fortfarande chans att nå ligafasen i Europa League. Men då måste österrikiska Red Bull Salzburg besegras. Här är historien om ett av Europas mest hatade fotbollslag",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/khwLdfSfcM0I27q2jvkg2Dou8yUlv0Xmv116dISk.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/mjallbys-playoff-motstand-hatas-av-en-hel-fotbollsvarld-699330"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/mjallbys-playoff-motstand-hatas-av-en-hel-fotbollsvarld-699330"
+      },
+      "confirmed_by": [],
+      "id": "mj-llbys-playoff-motst-nd-hatas-av-en-hel-fotbollsv-rld"
+    },
+    {
+      "published_at": "2026-08-20T00:41:00+00:00",
+      "updated_at": "2026-08-20T00:41:00+00:00",
+      "title": "Elfsborg blev lottade mot Alingsås IF i Svenska Cupen",
+      "summary": "IF Elfsborgs damer har fått sin lottning i Svenska Cupen och undviker motstånd från Damallsvenskan. Istället så fick tjejerna en drömlottning i en konkurrent, Alingsås IF",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2091773.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/elfsborg-blev-lottade-mot-alingsas-if-i-svenska-cupen-699391"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/elfsborg-blev-lottade-mot-alingsas-if-i-svenska-cupen-699391"
+      },
+      "confirmed_by": [],
+      "id": "elfsborg-blev-lottade-mot-alings-s-if-i-svenska-cupen"
     },
     {
       "published_at": "2026-08-19T14:04:45+00:00",
@@ -1840,58 +2134,58 @@
       "id": "lukaku-the-worst-year-of-my-life-not-true-when-napoli-said-i-was-unfit"
     },
     {
-      "published_at": "2026-08-20T17:30:00+00:00",
-      "updated_at": "2026-08-20T17:30:00+00:00",
-      "title": "Man Utd latest: Carrick 'delighted' with Rashford as work continues on signings",
-      "summary": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "published_at": "2026-08-19T09:41:45+00:00",
+      "updated_at": "2026-08-19T09:41:45+00:00",
+      "title": "The most exciting young Italian talent in Serie A for 2026-27? We All Agree!",
+      "summary": "Read the full report at Football Italia.",
       "category": [
-        "Transfer"
+        "Serie A"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-man-utd-club-blog_7326703.jpg?20260820165515",
+      "club": "",
+      "image": "",
       "sources": [
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "man-utd-latest-carrick-delighted-with-rashford-as-work-continues-on-signings"
+      "id": "the-most-exciting-young-italian-talent-in-serie-a-for-2026-27-we-all-agree"
     },
     {
-      "published_at": "2026-08-20T10:00:00+00:00",
-      "updated_at": "2026-08-20T10:00:00+00:00",
-      "title": "Liverpool latest: How will Jones exit affect Iraola's midfield options?",
-      "summary": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "published_at": "2026-08-20T18:15:00+00:00",
+      "updated_at": "2026-08-20T18:15:00+00:00",
+      "title": "Rangers push for European football continues vs Jablonec LIVE!",
+      "summary": "UEFA Conference League Qualifying match Rangers vs FK Jablonec 20.08.2026. Preview and stats followed by live commentary, video highlights and match report",
       "category": [
-        "Premier League"
+        "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-liverpool-club-blog_7326701.jpg?20260820165421",
+      "club": "",
+      "image": "",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "url": "https://www.skysports.com/football/rangers-vs-fk-jablonec/live/577502"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "url": "https://www.skysports.com/football/rangers-vs-fk-jablonec/live/577502"
       },
       "confirmed_by": [],
-      "id": "liverpool-latest-how-will-jones-exit-affect-iraola-s-midfield-options"
+      "id": "rangers-push-for-european-football-continues-vs-jablonec-live"
     }
   ]
 }
