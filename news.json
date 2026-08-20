@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T10:31:00.850468+00:00",
+  "updated_at": "2026-08-20T11:26:40.660330+00:00",
   "items": [
     {
       "published_at": "2026-08-20T07:57:12+00:00",
@@ -241,7 +241,7 @@
     {
       "published_at": "2026-08-20T10:25:40+00:00",
       "updated_at": "2026-08-20T10:25:40+00:00",
-      "title": "Konsa set for Arsenal medical ahead of £50m-plus move",
+      "title": "Konsa set for Arsenal medical before £50m-plus move",
       "summary": "Arsenal agree a deal worth more than £50m to sign Aston Villa and England defender Ezri Konsa",
       "category": [
         "Premier League",
@@ -264,7 +264,7 @@
         "url": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "konsa-set-for-arsenal-medical-ahead-of-50m-plus-move"
+      "id": "konsa-set-for-arsenal-medical-before-50m-plus-move"
     },
     {
       "published_at": "2026-08-20T09:58:50+00:00",
@@ -403,35 +403,6 @@
       "id": "burnley-sign-french-goalkeeper-coudert-from-brest"
     },
     {
-      "published_at": "2026-08-15T07:15:22+00:00",
-      "updated_at": "2026-08-15T07:15:22+00:00",
-      "title": "Atletico Madrid sign Cristian Romero from Tottenham",
-      "summary": "Atletico Madrid sign Cristian Romero from Tottenham The New York Times",
-      "category": [
-        "Premier League",
-        "La Liga",
-        "Transfer"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "atletico-madrid-sign-cristian-romero-from-tottenham"
-    },
-    {
       "published_at": "2026-08-15T04:16:49+00:00",
       "updated_at": "2026-08-15T04:16:49+00:00",
       "title": "Why are Barcelona and Real Madrid not playing in La Liga’s opening weekend?",
@@ -474,6 +445,43 @@
         }
       ],
       "id": "why-are-barcelona-and-real-madrid-not-playing-in-la-liga-s-opening-weekend"
+    },
+    {
+      "published_at": "2026-08-19T08:37:00+00:00",
+      "updated_at": "2026-08-19T08:37:00+00:00",
+      "title": "Sirius-tränaren kastar om pressen: ”Skämmigt om Hammarby inte vinner”",
+      "summary": "Trots en ledning på nio poäng i Allsvenskan väljer Sirius tränare Andreas Engelmark att lägga all guldpress på jagande Hammarby. I supporterpodden ”Stjärnan lyser” skickar han en rejäl passning till Stockholmsklubben",
+      "category": [
+        "Sverige",
+        "Coach"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/sirius-tranaren-kastar-om-pressen-skammigt-om-hammarby-inte-vinner-699361"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/sirius-tranaren-kastar-om-pressen-skammigt-om-hammarby-inte-vinner-699361"
+        }
+      ],
+      "id": "sirius-tr-naren-kastar-om-pressen-sk-mmigt-om-hammarby-inte-vinner"
     },
     {
       "published_at": "2026-08-18T21:51:39+00:00",
@@ -650,6 +658,61 @@
       "id": "uppgifter-rodri-klar-f-r-barcelona"
     },
     {
+      "published_at": "2026-08-15T19:26:00+00:00",
+      "updated_at": "2026-08-15T19:26:00+00:00",
+      "title": "Officiellt: Fred klar för Atlético Mineiro",
+      "summary": "Officiellt: Fred klar för Atlético Mineiro Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "La Liga"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "officiellt-fred-klar-f-r-atl-tico-mineiro"
+    },
+    {
+      "published_at": "2026-08-14T20:10:45+00:00",
+      "updated_at": "2026-08-14T20:10:45+00:00",
+      "title": "Karabeljovs otäcka skada: \"Fyra frakturer\"",
+      "summary": "Karabeljovs otäcka skada: \"Fyra frakturer\" Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "karabeljovs-ot-cka-skada-fyra-frakturer"
+    },
+    {
       "published_at": "2026-08-14T09:38:00+00:00",
       "updated_at": "2026-08-14T09:38:00+00:00",
       "title": "Uppgifter: Arsenal i samtal med Leverkusen om Quansah-värvning",
@@ -796,33 +859,6 @@
       },
       "confirmed_by": [],
       "id": "frugal-or-foolish-manchester-united-may-regret-not-backing-carrick"
-    },
-    {
-      "published_at": "2026-08-19T17:59:24+00:00",
-      "updated_at": "2026-08-19T17:59:24+00:00",
-      "title": "Sheffield United co-chair could be disqualified after dispute over £35m debt from club purchase",
-      "summary": "Steven Rosen’s company liquidated after high court hearing Previous owner claims it is owed fees from 2024 sale The Sheffield United co-chair, Steven Rosen, is facing disqualification as a director by the English Football League after the company through which he bought the club two years ago, COH Sports Bidco Limited, was liquidated. The winding-up order issued by the high court in London is the result of a dispute between United’s owners and their predecessor, Prince Abdullah’s United World, which claims it is owed £35m by Rosen and his business partner Helmy Eltoukhy in unpaid fees resulting from the £110m sale of the Championship club in December 2024.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/d860bbabaf8a0cf4fe1d7789866262b0867b26ab/473_0_4733_3787/master/4733.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b3a5e24c7bc7721e4b17396072643e5c",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/19/sheffield-united-chair-could-be-disqualified-dispute-35m-debt-club-purchase"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/19/sheffield-united-chair-could-be-disqualified-dispute-35m-debt-club-purchase"
-      },
-      "confirmed_by": [],
-      "id": "sheffield-united-co-chair-could-be-disqualified-after-dispute-over-35m-debt-from-club-purc"
     },
     {
       "published_at": "2026-08-19T14:23:22+00:00",
@@ -1014,34 +1050,6 @@
       "id": "high-flying-sirius-chase-shock-allsvenskan-title-despite-losing-best-player-in-league"
     },
     {
-      "published_at": "2026-08-19T08:37:00+00:00",
-      "updated_at": "2026-08-19T08:37:00+00:00",
-      "title": "Sirius-tränaren kastar om pressen: ”Skämmigt om Hammarby inte vinner”",
-      "summary": "Trots en ledning på nio poäng i Allsvenskan väljer Sirius tränare Andreas Engelmark att lägga all guldpress på jagande Hammarby. I supporterpodden ”Stjärnan lyser” skickar han en rejäl passning till Stockholmsklubben",
-      "category": [
-        "Sverige",
-        "Coach"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/s78QtCTYjnxgNLpNsGWoIwZpZPeV8db67z6bp8Eu.png",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/sirius-tranaren-kastar-om-pressen-skammigt-om-hammarby-inte-vinner-699361"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/sirius-tranaren-kastar-om-pressen-skammigt-om-hammarby-inte-vinner-699361"
-      },
-      "confirmed_by": [],
-      "id": "sirius-tr-naren-kastar-om-pressen-sk-mmigt-om-hammarby-inte-vinner"
-    },
-    {
       "published_at": "2026-08-18T16:43:00+00:00",
       "updated_at": "2026-08-18T16:43:00+00:00",
       "title": "Sirius bekräftar mardröm: Liimatta blir borta",
@@ -1178,6 +1186,33 @@
       },
       "confirmed_by": [],
       "id": "official-ruggeri-joins-aston-villa-from-atletico-madrid"
+    },
+    {
+      "published_at": "2026-08-18T19:40:00+00:00",
+      "updated_at": "2026-08-18T19:40:00+00:00",
+      "title": "Circati to leave Parma for Benfica in €20m deal",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "circati-to-leave-parma-for-benfica-in-20m-deal"
     },
     {
       "published_at": "2026-08-18T15:35:00+00:00",
@@ -1319,33 +1354,6 @@
       },
       "confirmed_by": [],
       "id": "vlahovic-goodbye-to-juventus-after-signing-new-besiktas-contract"
-    },
-    {
-      "published_at": "2026-08-19T09:30:10+00:00",
-      "updated_at": "2026-08-19T09:30:10+00:00",
-      "title": "Pogba and Monaco part ways after one season",
-      "summary": "Read the full report at Reuters.",
-      "category": [
-        "Ligue 1"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Reuters",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "pogba-and-monaco-part-ways-after-one-season"
     },
     {
       "published_at": "2026-08-20T04:04:46+00:00",
@@ -1840,10 +1848,10 @@
       "id": "isak-s-newcastle-reunion-is-a-chance-to-start-rewriting-his-liverpool-story"
     },
     {
-      "published_at": "2026-08-20T10:01:00+00:00",
-      "updated_at": "2026-08-20T10:01:00+00:00",
-      "title": "Sebastian Eriksson öppnar för Blåvitt-roll - så svarar klubben",
-      "summary": "Read the full report at Fotbollskanalen.",
+      "published_at": "2026-08-20T11:02:00+00:00",
+      "updated_at": "2026-08-20T11:02:00+00:00",
+      "title": "Uppgifter: Martinelli på Al-Hilals önskelista",
+      "summary": "Uppgifter: Martinelli nobbar Galatasaray Fotbollskanalen",
       "category": [
         "Sverige"
       ],
@@ -1864,15 +1872,16 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "sebastian-eriksson-ppnar-f-r-bl-vitt-roll-s-svarar-klubben"
+      "id": "uppgifter-martinelli-p-al-hilals-nskelista"
     },
     {
-      "published_at": "2026-08-20T09:38:00+00:00",
-      "updated_at": "2026-08-20T09:38:00+00:00",
-      "title": "Uppgifter: Allsvenskt intresse för Laturnus - Öis vill ha tolv miljoner",
-      "summary": "Read the full report at Fotbollskanalen.",
+      "published_at": "2026-08-20T11:02:00+00:00",
+      "updated_at": "2026-08-20T11:02:00+00:00",
+      "title": "Can a managerial merry-go-round in Serie A stop Inter’s dominance?",
+      "summary": "Read the full report at The Guardian.",
       "category": [
-        "Sverige"
+        "Serie A",
+        "Coach"
       ],
       "status": "Reported",
       "entity": "",
@@ -1881,71 +1890,17 @@
       "image": "",
       "sources": [
         {
-          "name": "Fotbollskanalen",
+          "name": "The Guardian",
           "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
+        "name": "The Guardian",
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "uppgifter-allsvenskt-intresse-f-r-laturnus-is-vill-ha-tolv-miljoner"
-    },
-    {
-      "published_at": "2026-08-20T08:03:00+00:00",
-      "updated_at": "2026-08-20T08:03:00+00:00",
-      "title": "Här skadar sig AIK:s Tomas på träning",
-      "summary": "Här skadar sig AIK:s Tomas på träning Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "h-r-skadar-sig-aik-s-tomas-p-tr-ning"
-    },
-    {
-      "published_at": "2026-08-20T07:47:00+00:00",
-      "updated_at": "2026-08-20T07:47:00+00:00",
-      "title": "Uppgifter: Derby nobbar bud på \"JWZ\"",
-      "summary": "Uppgifter: Derby nobbar bud på \"JWZ\" Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-derby-nobbar-bud-p-jwz"
+      "id": "can-a-managerial-merry-go-round-in-serie-a-stop-inter-s-dominance"
     },
     {
       "published_at": "2026-08-20T06:00:00+00:00",
@@ -2110,6 +2065,33 @@
       "id": "vinst-mot-helsingborg-och-oavgjort-mot-stersund"
     },
     {
+      "published_at": "2026-08-18T20:35:31+00:00",
+      "updated_at": "2026-08-18T20:35:31+00:00",
+      "title": "PL-spelare på provspel hos allsvenska jumbon",
+      "summary": "Halmstads BK försöker rädda sitt eget skinn. Den allsvenska jumbon plockar in Tom Trybull på provspel. Den tyske mittfältaren har meriter från både Premier League och Bundesliga",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2023059.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/pl-spelare-pa-provspel-hos-allsvenska-jumbon-699343"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/pl-spelare-pa-provspel-hos-allsvenska-jumbon-699343"
+      },
+      "confirmed_by": [],
+      "id": "pl-spelare-p-provspel-hos-allsvenska-jumbon"
+    },
+    {
       "published_at": "2026-08-19T14:04:45+00:00",
       "updated_at": "2026-08-19T14:04:45+00:00",
       "title": "Ederson: ‘I honestly don’t know about Manchester United, but Atalanta wanted me’",
@@ -2165,6 +2147,33 @@
       },
       "confirmed_by": [],
       "id": "serie-a-2026-27-which-new-signings-are-set-to-start-who-are-the-new-coaches"
+    },
+    {
+      "published_at": "2026-08-20T10:00:00+00:00",
+      "updated_at": "2026-08-20T10:00:00+00:00",
+      "title": "Liverpool latest: How will Jones exit affect Iraola's midfield options?",
+      "summary": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-liverpool-club-blog_7266198.jpg?20260605143916",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "liverpool-latest-how-will-jones-exit-affect-iraola-s-midfield-options"
     }
   ]
 }
