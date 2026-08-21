@@ -1,49 +1,77 @@
 {
-  "updated_at": "2026-08-21T06:48:17.064373+00:00",
+  "updated_at": "2026-08-21T07:42:34.349678+00:00",
   "items": [
     {
-      "published_at": "2026-08-20T14:39:54+00:00",
-      "updated_at": "2026-08-20T14:39:54+00:00",
-      "title": "Chelsea happy with Fernandez, says Alonso",
-      "summary": "Midfielder linked with £120m move to Manchester City Chelsea still interested in Bournemouth’s Alex Scott Xabi Alonso has refused to offer any guarantee that Chelsea will hold firm if Manchester City try to sign Enzo Fernández. Fernández’s future remains up in the air and the prospect of him leaving Stamford Bridge has not gone away, even though Chelsea’s unofficial deadline for clubs to make written bids of £120m for the 25-year-old Argentina midfielder has already passed. City, who are also tracking Roma’s Manu Koné , have targeted Fernández as part of their midfield rebuild after Rodri’s move to Barcelona and are weighing up whether to make a move before the transfer window shuts.",
+      "published_at": "2026-08-21T06:30:48+00:00",
+      "updated_at": "2026-08-21T06:30:48+00:00",
+      "title": "Spurs agree £75m deal to sign Man City's Savinho",
+      "summary": "Tottenham agree a deal to sign Manchester City winger Savinho for £75m, with a further £10m in potential add-ons",
       "category": [
-        "Premier League"
+        "Transfer"
       ],
       "status": "Confirmed by multiple sources",
-      "entity": "xabi-alonso",
-      "entity_type": "coaches",
-      "club": "chelsea",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6078/live/eb6ec620-9c9d-11f1-a5a0-114ca9d4a1bc.jpg",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/030e/live/790b26f0-9d29-11f1-ba3e-c323fd3033f4.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cpq8gq5llp9o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwyl0r8g4lwo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/20/enzo-fernandez-chelsea-xabi-alonso-manchester-city-transfer"
+          "url": "https://www.skysports.com/football/news/11095/13575264/savinho-transfer-spurs-agree-85m-deal-to-sign-brazi-forward-from-manchester-city"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cpq8gq5llp9o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwyl0r8g4lwo?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/20/enzo-fernandez-chelsea-xabi-alonso-manchester-city-transfer"
+          "url": "https://www.skysports.com/football/news/11095/13575264/savinho-transfer-spurs-agree-85m-deal-to-sign-brazi-forward-from-manchester-city"
         }
       ],
-      "id": "chelsea-happy-with-fernandez-says-alonso"
+      "id": "spurs-agree-75m-deal-to-sign-man-city-s-savinho"
+    },
+    {
+      "published_at": "2026-08-20T19:14:08+00:00",
+      "updated_at": "2026-08-20T19:14:08+00:00",
+      "title": "Villa £18m bid for Harwood-Bellis rejected by Southampton",
+      "summary": "Aston Villa have bid worth around £18m plus add-ons rejected by Southampton for defender Taylor Harwood-Bellis",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1d4b/live/e3926de0-9cc9-11f1-a5cd-a14170183a2c.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cx27w8kv9lvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRmlsTWl2WmtYdEtaNDlIaWpJcms4dXdjZWpDaHJNdEJNcHRFcl9Ld2JHTS1pWU14dlhRRU9wYzh3NlBHd3Z0OTRjaEQtN2lQdjFjM3puamxhd0Y0ZTg4LTJtVXRKeFFNRy1TUnc3cU9RLV9DUE9KOW9xTjY1OTlIbTNrSTJSLTNjVXQ0cDZHQjcwWFdqTG5WVWgxS1l4X1VLYjBSTQ?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx27w8kv9lvo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRmlsTWl2WmtYdEtaNDlIaWpJcms4dXdjZWpDaHJNdEJNcHRFcl9Ld2JHTS1pWU14dlhRRU9wYzh3NlBHd3Z0OTRjaEQtN2lQdjFjM3puamxhd0Y0ZTg4LTJtVXRKeFFNRy1TUnc3cU9RLV9DUE9KOW9xTjY1OTlIbTNrSTJSLTNjVXQ0cDZHQjcwWFdqTG5WVWgxS1l4X1VLYjBSTQ?oc=5"
+        }
+      ],
+      "id": "villa-18m-bid-for-harwood-bellis-rejected-by-southampton"
     },
     {
       "published_at": "2026-08-20T17:06:34+00:00",
@@ -159,7 +187,7 @@
       "published_at": "2026-08-20T13:00:00+00:00",
       "updated_at": "2026-08-20T13:00:00+00:00",
       "title": "Record manager upheaval leaves new Premier League season wide open",
-      "summary": "Manchester United’s new-look midfield, Ipswich’s ambition is tested and Kevin Keegan tributes at Newcastle While Myles Lewis-Skelly looks likely to remain at the Emirates , the same can’t be said for Ethan Nwaneri. The 19-year-old was outstanding in his breakthrough season for Arsenal in 2024-25 but barely featured last season and was sent on loan to Marseille. That didn’t really work out and Arsenal are now exploring another temporary move to ensure Nwaneri gets regular football this season.",
+      "summary": "A crackdown on time wasting, a record number of new people in charge, and some new faces on Match of the Day The 2026-27 Premier League season kicks off on Friday and while the familiar rivalries return, the English top flight has some alterations this campaign. From evolved rules to new faces and broadcast changes, there is plenty to catch up on before a ball is kicked. Marco Rose – Bournemouth Xabi Alonso – Chelsea Pierre Sage – Crystal Palace Álvaro Arbeloa – Fulham Gary O’Neil - Ipswich Town Andoni Iraola – Liverpool Enzo Maresca- Manchester City Matthias Jaissle – Newcastle Oliver Glasner – Nottingham Forest Continue reading",
       "category": [
         "Premier League",
         "Coach"
@@ -193,31 +221,31 @@
       "id": "record-manager-upheaval-leaves-new-premier-league-season-wide-open"
     },
     {
-      "published_at": "2026-08-21T06:30:48+00:00",
-      "updated_at": "2026-08-21T06:30:48+00:00",
-      "title": "Spurs agree £75m deal to sign Man City's Savinho",
-      "summary": "Tottenham agree a deal to sign Manchester City winger Savinho for £75m, with a further £10m in potential add-ons",
+      "published_at": "2026-08-21T07:04:54+00:00",
+      "updated_at": "2026-08-21T07:04:54+00:00",
+      "title": "Would Marmoush joining Tottenham be a masterstroke or risk?",
+      "summary": "Tottenham are working on a deal for Omar Marmoush, but what could the Man City forward bring to the north London team?",
       "category": [
-        "Transfer"
+        "Premier League"
       ],
       "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/030e/live/790b26f0-9d29-11f1-ba3e-c323fd3033f4.jpg",
+      "club": "tottenham",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bfb7/live/c875f7e0-9ca4-11f1-a5a0-114ca9d4a1bc.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwyl0r8g4lwo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cr49yypz01eo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwyl0r8g4lwo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr49yypz01eo?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "spurs-agree-75m-deal-to-sign-man-city-s-savinho"
+      "id": "would-marmoush-joining-tottenham-be-a-masterstroke-or-risk"
     },
     {
       "published_at": "2026-08-21T05:28:59+00:00",
@@ -247,36 +275,9 @@
       "id": "break-up-of-villa-s-europa-heroes-leaves-cracks-for-emery-to-fill"
     },
     {
-      "published_at": "2026-08-20T19:14:08+00:00",
-      "updated_at": "2026-08-20T19:14:08+00:00",
-      "title": "Villa £18m bid for Harwood-Bellis rejected by Southampton",
-      "summary": "Aston Villa have bid worth around £18m plus add-ons rejected by Southampton for defender Taylor Harwood-Bellis",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1d4b/live/e3926de0-9cc9-11f1-a5cd-a14170183a2c.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cx27w8kv9lvo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx27w8kv9lvo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "villa-18m-bid-for-harwood-bellis-rejected-by-southampton"
-    },
-    {
       "published_at": "2026-08-20T19:06:34+00:00",
       "updated_at": "2026-08-20T19:06:34+00:00",
-      "title": "Joao Pedro set to extend Chelsea deal to 2032",
+      "title": "Joao Pedro set to sign new Chelsea deal until 2032",
       "summary": "Chelsea are set to renew striker Joao Pedro's contract until 2032 before the start of the Premier League season",
       "category": [
         "Premier League",
@@ -299,7 +300,7 @@
         "url": "https://www.bbc.co.uk/sport/football/articles/c79g2z11r81o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "joao-pedro-set-to-extend-chelsea-deal-to-2032"
+      "id": "joao-pedro-set-to-sign-new-chelsea-deal-until-2032"
     },
     {
       "published_at": "2026-08-20T14:39:19+00:00",
@@ -382,6 +383,42 @@
       },
       "confirmed_by": [],
       "id": "konsa-set-for-arsenal-medical-before-50m-plus-move"
+    },
+    {
+      "published_at": "2026-08-20T15:50:12+00:00",
+      "updated_at": "2026-08-20T15:50:12+00:00",
+      "title": "‘Enzo is a Chelsea player,’ says Alonso but doesn’t guarantee Fernández’s future",
+      "summary": "Midfielder linked with £120m move to Manchester City Chelsea still interested in Bournemouth’s Alex Scott Xabi Alonso has refused to offer any guarantee that Chelsea will hold firm if Manchester City try to sign Enzo Fernández. Fernández’s future remains up in the air and the prospect of him leaving Stamford Bridge has not gone away, even though Chelsea’s unofficial deadline for clubs to make written bids of £120m for the 25-year-old Argentina midfielder has already passed. City, who are also tracking Roma’s Manu Koné , have targeted Fernández as part of their midfield rebuild after Rodri’s move to Barcelona and are weighing up whether to make a move before the transfer window shuts.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "xabi-alonso",
+      "entity_type": "coaches",
+      "club": "chelsea",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/20/enzo-fernandez-chelsea-xabi-alonso-manchester-city-transfer"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/20/enzo-fernandez-chelsea-xabi-alonso-manchester-city-transfer"
+        }
+      ],
+      "id": "enzo-is-a-chelsea-player-says-alonso-but-doesn-t-guarantee-fern-ndez-s-future"
     },
     {
       "published_at": "2026-08-18T21:51:39+00:00",
@@ -612,34 +649,6 @@
       "id": "uppgifter-rodri-klar-f-r-barcelona"
     },
     {
-      "published_at": "2026-08-15T19:26:00+00:00",
-      "updated_at": "2026-08-15T19:26:00+00:00",
-      "title": "Officiellt: Fred klar för Atlético Mineiro",
-      "summary": "Officiellt: Fred klar för Atlético Mineiro Fotbollskanalen",
-      "category": [
-        "Sverige",
-        "La Liga"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "officiellt-fred-klar-f-r-atl-tico-mineiro"
-    },
-    {
       "published_at": "2026-08-14T20:10:45+00:00",
       "updated_at": "2026-08-14T20:10:45+00:00",
       "title": "Karabeljovs otäcka skada: \"Fyra frakturer\"",
@@ -731,6 +740,61 @@
         }
       ],
       "id": "why-are-barcelona-and-real-madrid-not-playing-in-la-liga-s-opening-weekend"
+    },
+    {
+      "published_at": "2026-08-21T07:30:42+00:00",
+      "updated_at": "2026-08-21T07:30:42+00:00",
+      "title": "Tottenham close on deals for Manchester City’s Savinho and Omar Marmoush",
+      "summary": "Separate deals worth a combined £160m Summer spending on De Zerbi’s squad nears £400m Manchester City are close to agreeing the transfer of Savinho to Tottenham for £85m, with a separate deal of around £75m for the arrival of Omar Marmoush from the FA Cup-winners to the north London club also being worked on. Savinho signed for the City Football Group in summer 2022 for 40m euros (£30.8m), first joining Troyes, so the prospective sale of the 22-year-old for £85m represents a near £55m profit for City’s owners. After loans at PSV and Girona, the Brazilian joined City two years ago but the winger failed to establish himself as a first-choice under Pep Guardiola, the former manager.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://i.guim.co.uk/img/media/6f19dbd251269d9d8f6caec2f724ae9f340caea7/582_0_5823_4661/master/5823.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dad2ea9d5ae322cf16a34eec0c7cc116",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/21/tottenham-hotspur-close-on-deals-for-manchester-city-savinho-omar-marmoush"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/21/tottenham-hotspur-close-on-deals-for-manchester-city-savinho-omar-marmoush"
+      },
+      "confirmed_by": [],
+      "id": "tottenham-close-on-deals-for-manchester-city-s-savinho-and-omar-marmoush"
+    },
+    {
+      "published_at": "2026-08-21T07:00:28+00:00",
+      "updated_at": "2026-08-21T07:00:28+00:00",
+      "title": "PSG are the best team in Europe. The rest of Ligue 1 are just trying to survive",
+      "summary": "Success for most French clubs is staying afloat financially and developing players for buyers in the Premier League By Get French Football News On the eve of a new Ligue 1 season, many clubs seem a little distracted. Even those accustomed to competing at the top have concerns that transcend the pitch. In a league that contains the greatest team on the continent, the focus of the majority of clubs has shifted to surviving and providing, rather than competing.",
+      "category": [
+        "Ligue 1"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "psg",
+      "image": "https://i.guim.co.uk/img/media/6d5b253ec325d5fe404c44f5a8a00df461df1ce3/406_0_3500_2800/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ee01fb27598231a75cf0148845bcfcf",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/21/psg-team-europe-ligue-1-survive-france-premier-league"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/21/psg-team-europe-ligue-1-survive-france-premier-league"
+      },
+      "confirmed_by": [],
+      "id": "psg-are-the-best-team-in-europe-the-rest-of-ligue-1-are-just-trying-to-survive"
     },
     {
       "published_at": "2026-08-20T22:54:49+00:00",
@@ -950,60 +1014,6 @@
       "id": "is-turkey-home-to-savvy-signings-or-a-new-retirement-league-we-ll-soon-find-out"
     },
     {
-      "published_at": "2026-08-19T07:00:08+00:00",
-      "updated_at": "2026-08-19T07:00:08+00:00",
-      "title": "‘This isn’t normal in football’: Xisco, Malaysia and the new Invincibles",
-      "summary": "Royal family-backed Johor Darul Ta’zim are on the verge of a world-record 109 league games unbeaten and their former Watford manager is aiming higher Many Watford fans felt Xisco Muñoz was dismissed too soon after leading them into the Premier League as Championship runners-up in 2021, only to be ousted less than two months into the new season. He is remembered fondly at Vicarage Road, an emblem of the churn-and-burn of the Gino Pozzo era. But unless you continued to follow the Spaniard’s career closely, you would struggle to guess where he manages now.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/f9c960028fa4cd2f70009250de214544263ae7e9/430_0_3743_2995/master/3743.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0a3c47d4b9dc8af54bdbe5d788ffd7e7",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/19/xisco-malaysia-new-invincibles-football-johor-darul-tazim"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/19/xisco-malaysia-new-invincibles-football-johor-darul-tazim"
-      },
-      "confirmed_by": [],
-      "id": "this-isn-t-normal-in-football-xisco-malaysia-and-the-new-invincibles"
-    },
-    {
-      "published_at": "2026-08-18T16:53:13+00:00",
-      "updated_at": "2026-08-18T16:53:13+00:00",
-      "title": "Chelsea’s boardroom rift: if Boehly goes who will Clearlake have left to blame? | Sam Cunningham",
-      "summary": "Despite another reset with a new manager and fresh strategy, the boardroom drama persists at Stamford Bridge Perhaps, in hindsight, it was always going to end this way. As some of the world’s wealthiest investors scrambled to find funds after Vladimir Putin’s invasion of Ukraine set a series of dominoes toppling that forced Roman Abramovich to sell Chelsea , it threw together some unexpected allies. Todd Boehly became the public face of the winning bid, convincing the US sports mogul Mark Walter and the Swiss businessman Hansjörg Wyss to join as 12.8% minority investors.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://i.guim.co.uk/img/media/4ead7116325e70109d51e315765412e81f237b5e/187_0_2241_1793/master/2241.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a3986b1a7248ba64f03419673607bab",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/18/chelsea-todd-boehly-mark-walter-clearlake-capital-ownership"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/18/chelsea-todd-boehly-mark-walter-clearlake-capital-ownership"
-      },
-      "confirmed_by": [],
-      "id": "chelsea-s-boardroom-rift-if-boehly-goes-who-will-clearlake-have-left-to-blame-sam-cunningh"
-    },
-    {
       "published_at": "2026-08-20T11:30:00+00:00",
       "updated_at": "2026-08-20T11:30:00+00:00",
       "title": "Ingen Voi-skada för Tomas – 260 gnagare på plats i Piteå",
@@ -1138,6 +1148,34 @@
       },
       "confirmed_by": [],
       "id": "inf-r-gais-malm-ff"
+    },
+    {
+      "published_at": "2026-08-21T07:27:12+00:00",
+      "updated_at": "2026-08-21T07:27:12+00:00",
+      "title": "Today’s Papers – More new Juventus signings, Napoli step forward for Gabriel Jesus",
+      "summary": "La Gazzetta dello Sport Juve, space for the new ones The Old Lady won’t stop Kessié and Zirkzee in a hurry. Arthur out; the push for Koopmeiners and David’s loan exits increases. Inter extralarge: they have two top teams Milan: There’s Cardinale, charges Amorim and studies Leao Atalanta: No Sarri breakthrough; the Conference League begins uphill.",
+      "category": [
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://icdn.football-italia.net/wp-content/uploads/2026/08/Immagine-2026-08-21-092341.jpg",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://football-italia.net/todays-papers-juventus-new-signings-napoli/"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://football-italia.net/todays-papers-juventus-new-signings-napoli/"
+      },
+      "confirmed_by": [],
+      "id": "today-s-papers-more-new-juventus-signings-napoli-step-forward-for-gabriel-jesus"
     },
     {
       "published_at": "2026-08-20T19:56:00+00:00",
@@ -1833,10 +1871,38 @@
       "id": "the-premier-league-is-back-all-20-clubs-assessed"
     },
     {
+      "published_at": "2026-08-21T06:04:00+00:00",
+      "updated_at": "2026-08-21T06:04:00+00:00",
+      "title": "Uppgifter: Arsenal redo med bud på Álvarez - Gyökeres inkluderad",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige",
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-arsenal-redo-med-bud-p-lvarez-gy-keres-inkluderad"
+    },
+    {
       "published_at": "2026-08-21T05:32:00+00:00",
       "updated_at": "2026-08-21T05:32:00+00:00",
       "title": "Uppgifter: Arsenal överväger Yildiz",
-      "summary": "Uppgifter: Torino överväger Skoglund Fotbollskanalen",
+      "summary": "Uppgifter: Arsenal värvar Konsa Fotbollskanalen",
       "category": [
         "Sverige",
         "Premier League"
@@ -2023,9 +2089,9 @@
       "id": "rennes-vs-psg-23-aug-2026-live-score"
     },
     {
-      "published_at": "2026-08-19T14:04:45+00:00",
-      "updated_at": "2026-08-19T14:04:45+00:00",
-      "title": "Ederson: ‘I honestly don’t know about Manchester United, but Atalanta wanted me’",
+      "published_at": "2026-08-20T18:30:00+00:00",
+      "updated_at": "2026-08-20T18:30:00+00:00",
+      "title": "Zirkzee still a Juventus and Napoli target as Manchester United star’s future hinges on sales",
       "summary": "Read the full report at Football Italia.",
       "category": [
         "Premier League",
@@ -2048,68 +2114,12 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "ederson-i-honestly-don-t-know-about-manchester-united-but-atalanta-wanted-me"
+      "id": "zirkzee-still-a-juventus-and-napoli-target-as-manchester-united-star-s-future-hinges-on-sa"
     },
     {
-      "published_at": "2026-08-19T13:30:00+00:00",
-      "updated_at": "2026-08-19T13:30:00+00:00",
-      "title": "Serie A 2026-27: Which new signings are set to start? Who are the new coaches?",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A",
-        "Transfer",
-        "Coach"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "serie-a-2026-27-which-new-signings-are-set-to-start-who-are-the-new-coaches"
-    },
-    {
-      "published_at": "2026-08-19T09:41:45+00:00",
-      "updated_at": "2026-08-19T09:41:45+00:00",
-      "title": "The most exciting young Italian talent in Serie A for 2026-27? We All Agree!",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "the-most-exciting-young-italian-talent-in-serie-a-for-2026-27-we-all-agree"
-    },
-    {
-      "published_at": "2026-08-18T19:00:00+00:00",
-      "updated_at": "2026-08-18T19:00:00+00:00",
-      "title": "Serie A chiefs meet over new rules designed to ‘increase effective playing time of matches",
+      "published_at": "2026-08-20T15:15:00+00:00",
+      "updated_at": "2026-08-20T15:15:00+00:00",
+      "title": "Lazio push for Hull target Pinamonti after Dieng move collapsed",
       "summary": "Read the full report at Football Italia.",
       "category": [
         "Serie A",
@@ -2132,7 +2142,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "serie-a-chiefs-meet-over-new-rules-designed-to-increase-effective-playing-time-of-matches"
+      "id": "lazio-push-for-hull-target-pinamonti-after-dieng-move-collapsed"
     }
   ]
 }
