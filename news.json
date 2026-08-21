@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T15:33:51.323781+00:00",
+  "updated_at": "2026-08-21T16:35:23.577709+00:00",
   "items": [
     {
       "published_at": "2026-08-21T01:45:56+00:00",
@@ -47,40 +47,41 @@
       "id": "transfer-tracker-2026-summer-window-updates-deals-talks-and-more-from-the-premier-league-a"
     },
     {
-      "published_at": "2026-08-21T13:47:42+00:00",
-      "updated_at": "2026-08-21T13:47:42+00:00",
-      "title": "Watkins could leave Villa before transfer deadline - Emery",
-      "summary": "Aston Villa boss Unai Emery says striker Ollie Watkins could follow several star players out of the door this summer",
+      "published_at": "2026-08-21T15:22:37+00:00",
+      "updated_at": "2026-08-21T15:22:37+00:00",
+      "title": "Chelsea reject initial Leeds loan bid for Mudryk",
+      "summary": "Chelsea reject an initial season-long loan offer from Leeds United for winger Mykhailo Mudryk",
       "category": [
+        "Premier League",
         "Transfer"
       ],
       "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6af9/live/3cef6b50-9d64-11f1-a07c-85afe5c51b6f.jpg",
+      "club": "chelsea",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6737/live/d3936e50-9aec-11f1-930b-57cfba7235f9.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c9v4wj07e8eo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c4gjv4xq2l8o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "url": "https://www.skysports.com/football/live-blog/11095/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c9v4wj07e8eo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/c4gjv4xq2l8o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "url": "https://www.skysports.com/football/live-blog/11095/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
-      "id": "watkins-could-leave-villa-before-transfer-deadline-emery"
+      "id": "chelsea-reject-initial-leeds-loan-bid-for-mudryk"
     },
     {
       "published_at": "2026-08-21T06:30:48+00:00",
@@ -155,6 +156,69 @@
       "id": "anders-christiansen-om-framtiden-de-f-r-b-ra-mig-ut"
     },
     {
+      "published_at": "2026-08-21T16:30:00+00:00",
+      "updated_at": "2026-08-21T16:30:00+00:00",
+      "title": "Chelsea to host Shakhtar's Champions League home games amid ongoing exile",
+      "summary": "Shakhtar Donetsk will play their Champions League home games at Stamford Bridge this season after coming to an agreement with Chelsea to host their European matches while they remain in exile from their Donbas Arena home",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/360c/live/c5f213b0-97e4-11f1-a76b-f1c27c51f3da.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cpw9e1dz9kko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13575487/why-are-shakhtar-playing-at-chelsea-stamford-bridge-to-host-exiled-ukrainian-sides-champions-league-home-games"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cpw9e1dz9kko?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13575487/why-are-shakhtar-playing-at-chelsea-stamford-bridge-to-host-exiled-ukrainian-sides-champions-league-home-games"
+        }
+      ],
+      "id": "chelsea-to-host-shakhtar-s-champions-league-home-games-amid-ongoing-exile"
+    },
+    {
+      "published_at": "2026-08-21T15:45:19+00:00",
+      "updated_at": "2026-08-21T15:45:19+00:00",
+      "title": "What does Heggebo's deception ban mean for football?",
+      "summary": "BBC Sport explores the fallout from the decision to ban West Brom striker Aune Heggebo for two matches for \"successfully deceiving a match official\"",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0560/live/46d3d580-9d6d-11f1-a2d1-59489fee904d.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c05q3946r6ro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c05q3946r6ro?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "what-does-heggebo-s-deception-ban-mean-for-football"
+    },
+    {
       "published_at": "2026-08-21T15:26:05+00:00",
       "updated_at": "2026-08-21T15:26:05+00:00",
       "title": "Argentina's Paredes banned for 10 games after World Cup clashes",
@@ -182,38 +246,10 @@
       "id": "argentina-s-paredes-banned-for-10-games-after-world-cup-clashes"
     },
     {
-      "published_at": "2026-08-21T15:22:37+00:00",
-      "updated_at": "2026-08-21T15:22:37+00:00",
-      "title": "Chelsea reject initial Leeds loan bid for Mudryk",
-      "summary": "Chelsea reject an initial season-long loan offer from Leeds United for winger Mykhailo Mudryk",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6737/live/d3936e50-9aec-11f1-930b-57cfba7235f9.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c4gjv4xq2l8o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c4gjv4xq2l8o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "chelsea-reject-initial-leeds-loan-bid-for-mudryk"
-    },
-    {
       "published_at": "2026-08-21T15:20:45+00:00",
       "updated_at": "2026-08-21T15:20:45+00:00",
-      "title": "'Hungry to win' - Villa's Konsa joins Arsenal in £51m deal",
-      "summary": "Arsenal complete the £50m-plus signing of England defender Ezri Konsa from Aston Villa",
+      "title": "'Hungry to win' - Villa's Konsa joins Arsenal in £55m deal",
+      "summary": "Arsenal complete the £55m signing of England defender Ezri Konsa from Aston Villa",
       "category": [
         "Premier League",
         "Transfer"
@@ -222,7 +258,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "arsenal",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/88bc/live/7cf21cc0-9d37-11f1-bc05-aff3aa1f91c7.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3d64/live/46e0da90-9d7d-11f1-8bc3-150f4c5f088b.jpg",
       "sources": [
         {
           "name": "BBC Sport",
@@ -235,7 +271,7 @@
         "url": "https://www.bbc.co.uk/sport/football/articles/ckg97jpkkego?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "hungry-to-win-villa-s-konsa-joins-arsenal-in-51m-deal"
+      "id": "hungry-to-win-villa-s-konsa-joins-arsenal-in-55m-deal"
     },
     {
       "published_at": "2026-08-21T15:17:27+00:00",
@@ -292,60 +328,31 @@
       "id": "partey-signs-for-al-shabab-in-saudi-pro-league"
     },
     {
-      "published_at": "2026-08-21T10:24:16+00:00",
-      "updated_at": "2026-08-21T10:24:16+00:00",
-      "title": "West Ham's Wan‑Bissaka joins Aston Villa on loan",
-      "summary": "DR Congo right-back Aaron Wan‑Bissaka arrives at Villa Park on an initial loan deal with a \"conditional obligation to buy\"",
+      "published_at": "2026-08-21T13:47:42+00:00",
+      "updated_at": "2026-08-21T13:47:42+00:00",
+      "title": "Watkins could leave Villa before transfer deadline - Emery",
+      "summary": "Aston Villa boss Unai Emery says striker Ollie Watkins could follow several star players out of the door this summer",
       "category": [
-        "Premier League",
         "Transfer"
       ],
       "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7e0a/live/f11c0460-9ca8-11f1-a5a0-114ca9d4a1bc.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6af9/live/3cef6b50-9d64-11f1-a07c-85afe5c51b6f.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c629pr7lwd1o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c9v4wj07e8eo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c629pr7lwd1o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/c9v4wj07e8eo?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "west-ham-s-wan-bissaka-joins-aston-villa-on-loan"
-    },
-    {
-      "published_at": "2026-08-21T10:03:59+00:00",
-      "updated_at": "2026-08-21T10:03:59+00:00",
-      "title": "Joao Pedro set to sign new Chelsea deal",
-      "summary": "Chelsea striker Joao Pedro is set to sign a new contract with the club until 2032, with the option of two further years",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/479e/live/7c70f030-9cc6-11f1-a5cd-a14170183a2c.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c79g2z11r81o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c79g2z11r81o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "joao-pedro-set-to-sign-new-chelsea-deal"
+      "id": "watkins-could-leave-villa-before-transfer-deadline-emery"
     },
     {
       "published_at": "2026-08-15T10:01:03+00:00",
@@ -390,43 +397,6 @@
         }
       ],
       "id": "why-are-barcelona-and-real-madrid-not-playing-in-la-liga-s-opening-weekend"
-    },
-    {
-      "published_at": "2026-08-21T12:02:37+00:00",
-      "updated_at": "2026-08-21T12:02:37+00:00",
-      "title": "Crystal Palace agree Disasi loan and tell Manchester City that Wharton is not for sale",
-      "summary": "Centre-back to join from Chelsea after Acheampong snub Wharton has three years left on current deal at Palace Crystal Palace have agreed a deal with Chelsea to sign Axel Disasi on loan and are expecting further interest in some of their key players in the final week of the transfer window, having informed Manchester City that Adam Wharton is not for sale. Palace have been searching for a replacement for Maxence Lacroix after selling the France defender to Chelsea and are also understood to have approached Xabi Alonso’s side over a potential move for Josh Acheampong. But with Chelsea not willing to allow the England Under-21s international to leave Stamford Bridge, Palace have opted to bring in Disasi instead.",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-crystal-palace-club_7326697.jpg?20260820165235",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/21/crystal-palace-axel-disasi-loan-chelsea-manchester-city-adam-wharton-transfer-window-premier-league"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-      },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/21/crystal-palace-axel-disasi-loan-chelsea-manchester-city-adam-wharton-transfer-window-premier-league"
-        }
-      ],
-      "id": "crystal-palace-agree-disasi-loan-and-tell-manchester-city-that-wharton-is-not-for-sale"
     },
     {
       "published_at": "2026-08-18T21:51:39+00:00",
@@ -658,31 +628,32 @@
       "id": "uppgifter-rodri-klar-f-r-barcelona"
     },
     {
-      "published_at": "2026-08-14T20:10:45+00:00",
-      "updated_at": "2026-08-14T20:10:45+00:00",
-      "title": "Karabeljovs otäcka skada: \"Fyra frakturer\"",
-      "summary": "Karabeljovs otäcka skada: \"Fyra frakturer\" Fotbollskanalen",
+      "published_at": "2026-08-21T12:02:37+00:00",
+      "updated_at": "2026-08-21T12:02:37+00:00",
+      "title": "Crystal Palace agree Disasi loan and tell Manchester City that Wharton is not for sale",
+      "summary": "Centre-back to join from Chelsea after Acheampong snub Wharton has three years left on current deal at Palace Crystal Palace have agreed a deal with Chelsea to sign Axel Disasi on loan and are expecting further interest in some of their key players in the final week of the transfer window, having informed Manchester City that Adam Wharton is not for sale. Palace have been searching for a replacement for Maxence Lacroix after selling the France defender to Chelsea and are also understood to have approached Xabi Alonso’s side over a potential move for Josh Acheampong. But with Chelsea not willing to allow the England Under-21s international to leave Stamford Bridge, Palace have opted to bring in Disasi instead.",
       "category": [
-        "Sverige"
+        "Premier League",
+        "Transfer"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "",
+      "club": "manchester-city",
+      "image": "https://i.guim.co.uk/img/media/d5fb47b4c53f0c3e34661850d9287c7d0428ba91/730_174_1666_1332/master/1666.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d20427d2e6c48528b581496bb31acd0c",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/21/crystal-palace-axel-disasi-loan-chelsea-manchester-city-adam-wharton-transfer-window-premier-league"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/21/crystal-palace-axel-disasi-loan-chelsea-manchester-city-adam-wharton-transfer-window-premier-league"
       },
       "confirmed_by": [],
-      "id": "karabeljovs-ot-cka-skada-fyra-frakturer"
+      "id": "crystal-palace-agree-disasi-loan-and-tell-manchester-city-that-wharton-is-not-for-sale"
     },
     {
       "published_at": "2026-08-21T11:41:38+00:00",
@@ -929,33 +900,6 @@
       "id": "football-transfer-rumours-newcastle-to-sign-manchester-city-s-nico-gonz-lez"
     },
     {
-      "published_at": "2026-08-19T23:58:35+00:00",
-      "updated_at": "2026-08-19T23:58:35+00:00",
-      "title": "‘A huge honour’: Socceroos World Cup star Alessandro Circati seals move to Benfica",
-      "summary": "Defender completes transfer for reported fee of 20m euros ($33m) Ten Australian players have now made post-World Cup moves Young Socceroo Alessandro Circati has become the latest Australian international to be snapped up in a money-spinning European transfer, as he hailed his move from Parma to Benfica as a “privilege”. Following Lucas Herrington’s move from the MLS to become Australia’s only Premier League player at Hull City, and Nestory Irankunda joining Benfica’s great rivals Sporting from Watford, Circati has been signed by the Portuguese giants for a reported 20m euros ($33m).",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/56acdea2fd08881bf83336d3824bb586a69691fa/0_31_2667_2133/master/2667.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=59e6b7dcd4062c402c0a2b5dcde98fed",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/20/alessandro-circati-benfica-portugal-primeira-liga-transfer-news-move"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/20/alessandro-circati-benfica-portugal-primeira-liga-transfer-news-move"
-      },
-      "confirmed_by": [],
-      "id": "a-huge-honour-socceroos-world-cup-star-alessandro-circati-seals-move-to-benfica"
-    },
-    {
       "published_at": "2026-08-20T11:30:00+00:00",
       "updated_at": "2026-08-20T11:30:00+00:00",
       "title": "Ingen Voi-skada för Tomas – 260 gnagare på plats i Piteå",
@@ -1147,34 +1091,6 @@
       "id": "david-and-fortini-double-hull-city-transfer-blow-with-official-transfer-for-italian-defend"
     },
     {
-      "published_at": "2026-08-21T07:27:12+00:00",
-      "updated_at": "2026-08-21T07:27:12+00:00",
-      "title": "Today’s Papers – More new Juventus signings, Napoli step forward for Gabriel Jesus",
-      "summary": "La Gazzetta dello Sport Juve, space for the new ones The Old Lady won’t stop Kessié and Zirkzee in a hurry. Arthur out; the push for Koopmeiners and David’s loan exits increases. Inter extralarge: they have two top teams Milan: There’s Cardinale, charges Amorim and studies Leao Atalanta: No Sarri breakthrough; the Conference League begins uphill.",
-      "category": [
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://icdn.football-italia.net/wp-content/uploads/2026/08/Immagine-2026-08-21-092341.jpg",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://football-italia.net/todays-papers-juventus-new-signings-napoli/"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://football-italia.net/todays-papers-juventus-new-signings-napoli/"
-      },
-      "confirmed_by": [],
-      "id": "today-s-papers-more-new-juventus-signings-napoli-step-forward-for-gabriel-jesus"
-    },
-    {
       "published_at": "2026-08-20T19:56:00+00:00",
       "updated_at": "2026-08-20T19:56:00+00:00",
       "title": "Atalanta vs Hapoel Tel Aviv – Scalvini forced off with early injured",
@@ -1255,36 +1171,6 @@
       },
       "confirmed_by": [],
       "id": "circati-to-leave-parma-for-benfica-in-20m-deal"
-    },
-    {
-      "published_at": "2026-08-18T15:35:00+00:00",
-      "updated_at": "2026-08-18T15:35:00+00:00",
-      "title": "Galatasaray open talks with Milan’s Nkunku amid Newcastle and Leipzig rumours",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Premier League",
-        "Serie A",
-        "Bundesliga",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "galatasaray-open-talks-with-milan-s-nkunku-amid-newcastle-and-leipzig-rumours"
     },
     {
       "published_at": "2026-08-17T18:53:24+00:00",
@@ -1731,6 +1617,34 @@
       "id": "dean-huijsen-was-real-madrid-s-marquee-signing-a-year-ago-why-could-he-still-be-this-seaso"
     },
     {
+      "published_at": "2026-08-21T17:22:00+00:00",
+      "updated_at": "2026-08-21T17:22:00+00:00",
+      "title": "Bournemouth latest: Cherries in talks to sign Juventus goalkeeper",
+      "summary": "Bournemouth transfers, latest news, rumours and gossip: Live updates, goals and highlights",
+      "category": [
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-bournemouth-club_7326690.jpg?20260820165020",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+      },
+      "confirmed_by": [],
+      "id": "bournemouth-latest-cherries-in-talks-to-sign-juventus-goalkeeper"
+    },
+    {
       "published_at": "2026-08-21T16:06:00+00:00",
       "updated_at": "2026-08-21T16:06:00+00:00",
       "title": "Sunderland latest: Defender Methalie joins with deal agreed for midfielder",
@@ -1867,6 +1781,60 @@
       "id": "how-does-arteta-deliver-step-five-of-his-arsenal-plan"
     },
     {
+      "published_at": "2026-08-21T16:05:00+00:00",
+      "updated_at": "2026-08-21T16:05:00+00:00",
+      "title": "Klart: Mjällby värvar Sandberg",
+      "summary": "Uppgifter: Mjällby värvar Sandberg Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "klart-mj-llby-v-rvar-sandberg"
+    },
+    {
+      "published_at": "2026-08-21T13:50:00+00:00",
+      "updated_at": "2026-08-21T13:50:00+00:00",
+      "title": "Diogo Tomas ord om skadan: \"Kände enorm smärta direkt\"",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "diogo-tomas-ord-om-skadan-k-nde-enorm-sm-rta-direkt"
+    },
+    {
       "published_at": "2026-08-21T13:19:00+00:00",
       "updated_at": "2026-08-21T13:19:00+00:00",
       "title": "Klart: Thomas Partey till Al Shabab",
@@ -1892,33 +1860,6 @@
       },
       "confirmed_by": [],
       "id": "klart-thomas-partey-till-al-shabab"
-    },
-    {
-      "published_at": "2026-08-21T11:57:00+00:00",
-      "updated_at": "2026-08-21T11:57:00+00:00",
-      "title": "Klart: Coventry tar in Bentley - osäker framtid för Dovin",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "klart-coventry-tar-in-bentley-os-ker-framtid-f-r-dovin"
     },
     {
       "published_at": "2026-08-21T11:30:12+00:00",
@@ -2137,6 +2078,61 @@
       },
       "confirmed_by": [],
       "id": "lazio-push-for-hull-target-pinamonti-after-dieng-move-collapsed"
+    },
+    {
+      "published_at": "2026-08-20T14:45:00+00:00",
+      "updated_at": "2026-08-20T14:45:00+00:00",
+      "title": "Fabregas coy on Kean rumours ahead of Como season opener: ‘We can’t get distracted’",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "fabregas-coy-on-kean-rumours-ahead-of-como-season-opener-we-can-t-get-distracted"
+    },
+    {
+      "published_at": "2026-08-19T14:04:45+00:00",
+      "updated_at": "2026-08-19T14:04:45+00:00",
+      "title": "Ederson: ‘I honestly don’t know about Manchester United, but Atalanta wanted me’",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Premier League",
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "ederson-i-honestly-don-t-know-about-manchester-united-but-atalanta-wanted-me"
     }
   ]
 }
