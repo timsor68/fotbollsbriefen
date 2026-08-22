@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T16:24:41.728594+00:00",
+  "updated_at": "2026-08-22T17:20:36.658465+00:00",
   "items": [
     {
       "published_at": "2026-08-21T18:48:15+00:00",
@@ -76,8 +76,8 @@
       "id": "argentina-s-paredes-banned-for-10-games-after-world-cup-clashes"
     },
     {
-      "published_at": "2026-08-21T22:56:35+00:00",
-      "updated_at": "2026-08-21T22:56:35+00:00",
+      "published_at": "2026-08-22T16:22:01+00:00",
+      "updated_at": "2026-08-22T16:22:01+00:00",
       "title": "Transfer Tracker 2026: Summer window updates, deals, talks and more from the Premier League and beyond",
       "summary": "Read the full report at The Athletic.",
       "category": [
@@ -155,6 +155,106 @@
         }
       ],
       "id": "ajayi-and-mendy-give-hull-dream-start-against-misfiring-manchester-united"
+    },
+    {
+      "published_at": "2026-08-22T09:50:53+00:00",
+      "updated_at": "2026-08-22T09:50:53+00:00",
+      "title": "Lionel Messi fined for slapping opposition player in MLS game",
+      "summary": "Incident happened when Inter Miami met Philadelphia Union Argentinian lashed out at Quinn Sullivan in 2-2 draw Lionel Messi has been fined for slapping an opponent during a Major League Soccer game. The 39-year-old Inter Miami forward lashed out at Quinn Sullivan of Philadelphia Union during their match on Wednesday, catching the midfielder around the back of the head. The Argentinian appeared to be angry Sullivan had elbowed him after he had played the ball, with the referee intervening before the situation could escalate.",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "lionel-messi",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/979c/live/ca9f36a0-9dfb-11f1-898b-91bf436c749f.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cz05k0j72p5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/lionel-messi-botfalls-efter-tilltaget-i-hetsiga-matchen"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/22/lionel-messi-fine-slapping-opposition-player-quinn-sullivanmls-soccer-football"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cz05k0j72p5o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/lionel-messi-botfalls-efter-tilltaget-i-hetsiga-matchen"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/22/lionel-messi-fine-slapping-opposition-player-quinn-sullivanmls-soccer-football"
+        }
+      ],
+      "id": "lionel-messi-fined-for-slapping-opposition-player-in-mls-game"
+    },
+    {
+      "published_at": "2026-08-22T16:55:35+00:00",
+      "updated_at": "2026-08-22T16:55:35+00:00",
+      "title": "'I'm very happy and have many compliments for my players' - Farke",
+      "summary": "Leeds United manager Daniel Farke reacts to his side's 1–0 win against Nottingham Forest, sealed by Anton Stach's free‑kick in the opening game of their 2026-27 Premier League season",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0592/live/9cfd2b20-9e47-11f1-b109-879e35c24276.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cn5n57dwewko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cn5n57dwewko?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "i-m-very-happy-and-have-many-compliments-for-my-players-farke"
+    },
+    {
+      "published_at": "2026-08-22T16:40:45+00:00",
+      "updated_at": "2026-08-22T16:40:45+00:00",
+      "title": "Chelsea news: Badiashile joins Napoli on season-long loan",
+      "summary": "Read the full report at BBC Sport.",
+      "category": [
+        "Premier League",
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "chelsea-news-badiashile-joins-napoli-on-season-long-loan"
     },
     {
       "published_at": "2026-08-22T16:17:18+00:00",
@@ -292,91 +392,10 @@
       "id": "joao-pedro-extends-chelsea-stay-until-2034"
     },
     {
-      "published_at": "2026-08-22T06:19:35+00:00",
-      "updated_at": "2026-08-22T06:19:35+00:00",
-      "title": "'I'm not ashamed' - Ellison on mental health and playing at 47",
-      "summary": "Striker Kevin Ellison, who once signed for Premier League Leicester City, opens up about playing at 47 - and why it's important to talk about mental health",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e92f/live/da127440-9be3-11f1-ba30-ddd78081057f.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c2k78nk1n34o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c2k78nk1n34o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "i-m-not-ashamed-ellison-on-mental-health-and-playing-at-47"
-    },
-    {
-      "published_at": "2026-08-22T05:28:50+00:00",
-      "updated_at": "2026-08-22T05:28:50+00:00",
-      "title": "Second set of twins a good distraction from injury - Maddison",
-      "summary": "Tottenham midfielder James Maddison says having five children aged four and under - including a second set of twins - helpfully distracted him from his ACL injury last season",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a155/live/9df36a60-9c78-11f1-aed2-8d6da8d75094.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c20j3vx6ne4o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c20j3vx6ne4o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "second-set-of-twins-a-good-distraction-from-injury-maddison"
-    },
-    {
-      "published_at": "2026-08-22T05:20:29+00:00",
-      "updated_at": "2026-08-22T05:20:29+00:00",
-      "title": "My family got me through injury - Maddison",
-      "summary": "Tottenham midfielder James Maddison discusses life under boss Roberto de Zerbi and how the distraction of having five children under five at home kept him busy while he was out with a long-term injury",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/6172/live/46491350-966a-11f1-a7ab-8b30adf0800a.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c4g30ewkx75o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c4g30ewkx75o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "my-family-got-me-through-injury-maddison"
-    },
-    {
-      "published_at": "2026-08-22T07:00:57+00:00",
-      "updated_at": "2026-08-22T07:00:57+00:00",
-      "title": "Alexander Isak braces himself for daunting reunion with Newcastle",
-      "summary": "Striker must win over new head coach after tough first season at Liverpool – starting on Sunday at an inhospitable St James’ Park When Liverpool’s team bus turns a tight corner and inches down the narrow, covered, access road behind Newcastle’s Milburn Stand on Sunday, Alexander Isak will know there are no hiding places. After that coach pulls up, its occupants must navigate a set of painted steps before reaching the glass-doored sanctuary of the players’ entrance at St James’ Park. It is a short climb but only a handful of portable metal barriers separate visiting sides from congregated Newcastle fans.",
+      "published_at": "2026-08-22T16:36:43+00:00",
+      "updated_at": "2026-08-22T16:36:43+00:00",
+      "title": "Championship roundup: Nuno feels the heat after West Ham beaten by Charlton",
+      "summary": "Wolves sink teeth into Preston; Blackburn stun Boro Southampton’s late show leaves Stoke pointless Charlton maintained their perfect start to the Championship season with a 2-1 victory at West Ham in a pulsating London derby to pile more pressure on the Hammers manager Nuno Espírito Santo. Lloyd Jones and Tyreece Campbell put Charlton 2-0 ahead before Joel Piroe, signed on loan from Leeds, marked his first appearance for the east Londoners with a goal that set up a frantic finish. Taty Castellanos then missed a stoppage-time penalty for the hosts that would have salvaged a point.",
       "category": [
         "Premier League"
       ],
@@ -384,102 +403,29 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-alexander-isak-liverpool_7324573.jpg?20260818083103",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-west-ham-charlton_7328304.jpg?20260822162051",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13569643/alexander-isak-returns-to-newcastle-liverpool-striker-faces-st-james-park-reunion-still-waiting-to-reignite-his-career"
+          "url": "https://www.skysports.com/football/west-ham-united-vs-charlton-athletic/report/560520"
         },
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/22/alexander-isak-braces-furious-newcastle-reunion-liverpool"
+          "url": "https://www.theguardian.com/football/2026/aug/22/championship-roundup-millwall-norwich-west-ham-norwich-charlton"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13569643/alexander-isak-returns-to-newcastle-liverpool-striker-faces-st-james-park-reunion-still-waiting-to-reignite-his-career"
+        "url": "https://www.skysports.com/football/west-ham-united-vs-charlton-athletic/report/560520"
       },
       "confirmed_by": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/22/alexander-isak-braces-furious-newcastle-reunion-liverpool"
+          "url": "https://www.theguardian.com/football/2026/aug/22/championship-roundup-millwall-norwich-west-ham-norwich-charlton"
         }
       ],
-      "id": "alexander-isak-braces-himself-for-daunting-reunion-with-newcastle"
-    },
-    {
-      "published_at": "2026-08-21T21:30:45+00:00",
-      "updated_at": "2026-08-21T21:30:45+00:00",
-      "title": "Manchester United agree £65m deal for Carlos Baleba in midfield rebuild",
-      "summary": "Signings of Tielemans and Santos have addressed an area that has been problematic since the manager himself stopped playing Ed Woodward to MUTV in July 2015: “When people see Bastian Schweinsteiger on the team sheet, that’s going to send some shivers down the spine.” This prediction by Manchester United’s then executive vice-president, about Louis van Gaal’s new midfield signing, proved to be badly off‑target as the World Cup-winner’s career at the club proved to be a disappointment. Two years after Woodward’s bullish statement, Schweinsteiger departed for Chicago Fire with a paltry 35 appearances and two goals for United on his CV, having been forced to train for a while with the youngsters by José Mourinho, Van Gaal’s successor. Here, in microcosm, is the story of virtually all midfield recruits by United for a generation.",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/21/manchester-united-continue-midfield-regeneration-with-carlos-baleba-deal"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/21/manchester-united-continue-midfield-regeneration-with-carlos-baleba-deal"
-        }
-      ],
-      "id": "manchester-united-agree-65m-deal-for-carlos-baleba-in-midfield-rebuild"
-    },
-    {
-      "published_at": "2026-08-20T23:01:18+00:00",
-      "updated_at": "2026-08-20T23:01:18+00:00",
-      "title": "Premier League: 10 things to look out for as the new season kicks off",
-      "summary": "Manchester United’s new-look midfield, Ipswich’s ambition is tested and Kevin Keegan tributes at Newcastle While Myles Lewis-Skelly looks likely to remain at the Emirates , the same can’t be said for Ethan Nwaneri. The 19-year-old was outstanding in his breakthrough season for Arsenal in 2024-25 but barely featured last season and was sent on loan to Marseille. That didn’t really work out and Arsenal are now exploring another temporary move to ensure Nwaneri gets regular football this season.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/21/premier-league-10-things-to-look-out-for-as-new-season-kicks-off"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/21/premier-league-10-things-to-look-out-for-as-new-season-kicks-off"
-        }
-      ],
-      "id": "premier-league-10-things-to-look-out-for-as-the-new-season-kicks-off"
+      "id": "championship-roundup-nuno-feels-the-heat-after-west-ham-beaten-by-charlton"
     },
     {
       "published_at": "2026-08-22T06:00:00+00:00",
@@ -609,64 +555,10 @@
       "id": "mauled-by-the-tigers-lacklustre-man-utd-stunned-by-brilliant-hull"
     },
     {
-      "published_at": "2026-08-21T23:06:00+00:00",
-      "updated_at": "2026-08-21T23:06:00+00:00",
-      "title": "'A massive 10 days' - Neville tells Arsenal to get Alvarez before deadline",
-      "summary": "Defending Premier League champions Arsenal would become Champions League winners if they land Julian Alvarez in the final days of the transfer window, says Gary Neville",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/26/03/1600x900/skysports-julian-alvarez-atletico-madrid_7188256.jpg?20260310204429",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13575645/arsenal-transfer-news-julian-alvarez-would-add-magic-to-gunners-frontline-says-gary-neville-as-he-urges-them-to-sign-atletico-madrid-striker"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13575645/arsenal-transfer-news-julian-alvarez-would-add-magic-to-gunners-frontline-says-gary-neville-as-he-urges-them-to-sign-atletico-madrid-striker"
-      },
-      "confirmed_by": [],
-      "id": "a-massive-10-days-neville-tells-arsenal-to-get-alvarez-before-deadline"
-    },
-    {
-      "published_at": "2026-08-19T19:45:00+00:00",
-      "updated_at": "2026-08-19T19:45:00+00:00",
-      "title": "Jaissle: Club aligned on Newcastle squad needing adjustments",
-      "summary": "Newcastle head coach Matthias Jaissle says the club are aligned on the need for \"adjustments\" to the squad in the final few weeks of the summer transfer window",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-matthias-jaissle_7325976.png?20260819193728",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13574826/matthias-jaissle-newcastle-head-coach-says-squad-needs-adjustments-in-transfer-window-and-previews-liverpool-game"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13574826/matthias-jaissle-newcastle-head-coach-says-squad-needs-adjustments-in-transfer-window-and-previews-liverpool-game"
-      },
-      "confirmed_by": [],
-      "id": "jaissle-club-aligned-on-newcastle-squad-needing-adjustments"
-    },
-    {
-      "published_at": "2026-08-22T13:35:00+00:00",
-      "updated_at": "2026-08-22T13:35:00+00:00",
-      "title": "Doku skadad - missar premiären",
-      "summary": "Doku skadad - missar premiären Fotbollskanalen",
+      "published_at": "2026-08-22T10:46:00+00:00",
+      "updated_at": "2026-08-22T10:46:00+00:00",
+      "title": "Smäll för Man United - Diallo skadad",
+      "summary": "Smäll för Man United - Diallo skadad Fotbollskanalen",
       "category": [
         "Sverige"
       ],
@@ -687,7 +579,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "doku-skadad-missar-premi-ren"
+      "id": "sm-ll-f-r-man-united-diallo-skadad"
     },
     {
       "published_at": "2026-08-22T08:20:00+00:00",
@@ -829,67 +721,31 @@
       "id": "uppgifter-rodri-klar-f-r-barcelona"
     },
     {
-      "published_at": "2026-08-22T06:26:19+00:00",
-      "updated_at": "2026-08-22T06:26:19+00:00",
-      "title": "Lionel Messi bötfälls efter tilltaget i hetsiga matchen",
-      "summary": "Det blev hetsigt när Inter Miami mötte Philadelphia Union. Nu bötfälls Lionel Messi efter ett tilltag på planen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "lionel-messi",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.51/0.12/a049a8432dd6ddf6c39ff98af457bddf7292d6bd0695d1655160f76634f3375d",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/lionel-messi-botfalls-efter-tilltaget-i-hetsiga-matchen"
-        },
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTXNqMGVjYXk2XzdWdlFOcHpsMVRIRUVCejBjZGRmeElhRWRWYmlNb1JETmlKd0M0WTVWU05GY2hyc0lvWjc1V09NTDA3OFlldWxHSk1rOTdTX0E0NngyWF9yUFVPYVdYcEEzQ1dZclp4RnVLby1uZHRRUl84d2hkcEpiVEZZV2Z6RDIydjNXd3ZFNGd0Q25oTVRvZEk?oc=5"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/lionel-messi-botfalls-efter-tilltaget-i-hetsiga-matchen"
-      },
-      "confirmed_by": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTXNqMGVjYXk2XzdWdlFOcHpsMVRIRUVCejBjZGRmeElhRWRWYmlNb1JETmlKd0M0WTVWU05GY2hyc0lvWjc1V09NTDA3OFlldWxHSk1rOTdTX0E0NngyWF9yUFVPYVdYcEEzQ1dZclp4RnVLby1uZHRRUl84d2hkcEpiVEZZV2Z6RDIydjNXd3ZFNGd0Q25oTVRvZEk?oc=5"
-        }
-      ],
-      "id": "lionel-messi-b-tf-lls-efter-tilltaget-i-hetsiga-matchen"
-    },
-    {
-      "published_at": "2026-08-22T16:12:46+00:00",
-      "updated_at": "2026-08-22T16:12:46+00:00",
-      "title": "Burnham’s boys enjoy visit from Palace as Everton end opening day hoodoo",
-      "summary": "Andy Burnham was in the posh seats at Hill Dickinson Stadium to witness how his beloved Everton would fare without the key additions to David Moyes’s team that even the Prime Minister had voiced an opinion on. No right-back, no new centre-forward, no problem: Everton capitalised on a wasteful Crystal Palace display to start their season with an ultimately convincing victory. Kiernan Dewsbury-Hall swept away lingering resentment over last season’s finale with an outstanding finish before Thierno Barry, a man under pressure should a new striker arrive before the deadline, sealed the win with a second half header.",
+      "published_at": "2026-08-22T07:00:57+00:00",
+      "updated_at": "2026-08-22T07:00:57+00:00",
+      "title": "Alexander Isak braces himself for daunting reunion with Newcastle",
+      "summary": "Striker must win over new head coach after tough first season at Liverpool – starting on Sunday at an inhospitable St James’ Park When Liverpool’s team bus turns a tight corner and inches down the narrow, covered, access road behind Newcastle’s Milburn Stand on Sunday, Alexander Isak will know there are no hiding places. After that coach pulls up, its occupants must navigate a set of painted steps before reaching the glass-doored sanctuary of the players’ entrance at St James’ Park. It is a short climb but only a handful of portable metal barriers separate visiting sides from congregated Newcastle fans.",
       "category": [
         "Premier League"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "everton",
-      "image": "https://i.guim.co.uk/img/media/99b664da334c7d704d0669003136b4820f37d26a/686_0_2643_2115/master/2643.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a5d00bfd782fee73e9b23082afeb3533",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/a191342a659377a68666f22a06ede54c9ad3bd50/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1d5122b84d23fa96e4332391aeff0daa",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/22/everton-crystal-palace-premier-league-match-report"
+          "url": "https://www.theguardian.com/football/2026/aug/22/alexander-isak-braces-furious-newcastle-reunion-liverpool"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/22/everton-crystal-palace-premier-league-match-report"
+        "url": "https://www.theguardian.com/football/2026/aug/22/alexander-isak-braces-furious-newcastle-reunion-liverpool"
       },
       "confirmed_by": [],
-      "id": "burnham-s-boys-enjoy-visit-from-palace-as-everton-end-opening-day-hoodoo"
+      "id": "alexander-isak-braces-himself-for-daunting-reunion-with-newcastle"
     },
     {
       "published_at": "2026-08-22T07:00:57+00:00",
@@ -917,33 +773,6 @@
       },
       "confirmed_by": [],
       "id": "fifa-general-secretary-mattias-grafstr-m-sounded-out-about-standing-against-infantino"
-    },
-    {
-      "published_at": "2026-08-21T21:30:45+00:00",
-      "updated_at": "2026-08-21T21:30:45+00:00",
-      "title": "De Zerbi defends Spurs transfer spree and claims every club ‘wanted to kill us’",
-      "summary": "Spurs’ outlay expected to pass £300m this summer ‘People don’t love if Tottenham becomes better’ Roberto De Zerbi has claimed every club “wanted to kill” Tottenham last season and has been reminding his players of that throughout the summer as he also defended their heavy spending in the transfer market. Tottenham’s outlay is expected to pass £300m after bringing in a series of high-profile signings, including Sandro Tonali for £92.5m , Mateus Fernandes for £85m, and Jan Paul van Hecke for £52m. Savinho and Omar Marmoush are poised to also arrive from Manchester City for £85m and £75m respectively .",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://i.guim.co.uk/img/media/7d41eaaebb0b44777e6c8b83444aede2a51e810b/234_46_2337_1870/master/2337.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9c31133ce451d172c77827808daeb212",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/21/roberto-de-zerbi-tottenham-transfer-spree-brentford-premier-league"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/21/roberto-de-zerbi-tottenham-transfer-spree-brentford-premier-league"
-      },
-      "confirmed_by": [],
-      "id": "de-zerbi-defends-spurs-transfer-spree-and-claims-every-club-wanted-to-kill-us"
     },
     {
       "published_at": "2026-08-21T07:41:43+00:00",
@@ -999,6 +828,33 @@
       },
       "confirmed_by": [],
       "id": "psg-are-the-best-team-in-europe-the-rest-of-ligue-1-are-just-trying-to-survive"
+    },
+    {
+      "published_at": "2026-08-20T23:01:18+00:00",
+      "updated_at": "2026-08-20T23:01:18+00:00",
+      "title": "Premier League: 10 things to look out for as the new season kicks off",
+      "summary": "Manchester United’s new-look midfield, Ipswich’s ambition is tested and Kevin Keegan tributes at Newcastle While Myles Lewis-Skelly looks likely to remain at the Emirates , the same can’t be said for Ethan Nwaneri. The 19-year-old was outstanding in his breakthrough season for Arsenal in 2024-25 but barely featured last season and was sent on loan to Marseille. That didn’t really work out and Arsenal are now exploring another temporary move to ensure Nwaneri gets regular football this season.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/9582f87c8db86570ee73d59bec8f3afaa67d3ffe/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=32a137e7c0c240cb01f2ee2fa70a961b",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/21/premier-league-10-things-to-look-out-for-as-new-season-kicks-off"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/21/premier-league-10-things-to-look-out-for-as-new-season-kicks-off"
+      },
+      "confirmed_by": [],
+      "id": "premier-league-10-things-to-look-out-for-as-the-new-season-kicks-off"
     },
     {
       "published_at": "2026-08-20T21:27:01+00:00",
@@ -1582,36 +1438,90 @@
       "id": "st-rsta-matchen-i-mj-llbys-historia-hundratals-tomma-stolar"
     },
     {
-      "published_at": "2026-08-19T04:20:02+00:00",
-      "updated_at": "2026-08-19T04:20:02+00:00",
-      "title": "How Ferran Torres’ quixotic World Cup-winning summer led to his Barcelona exit",
-      "summary": "Read the full report at The Athletic.",
+      "published_at": "2026-08-19T08:36:44+00:00",
+      "updated_at": "2026-08-19T08:36:44+00:00",
+      "title": "Drömmål i EM för blinda: ”Är han en människa!?”",
+      "summary": "Då bjöd Frankrikes Frédéric Villeroux publiken på ett riktigt drömmål mot England.",
       "category": [
-        "La Liga"
+        "Sverige"
       ],
-      "status": "Highly credible",
+      "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
-      "club": "barcelona",
-      "image": "",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.71/0.28/2b76ab33cdfab766d70d26ee76dd3db6f1449ccdbcb8dfe36bc89be39574c50f",
       "sources": [
         {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/parasport/drommal-i-em-for-blinda-ar-han-en-manniska"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/parasport/drommal-i-em-for-blinda-ar-han-en-manniska"
       },
       "confirmed_by": [],
-      "id": "how-ferran-torres-quixotic-world-cup-winning-summer-led-to-his-barcelona-exit"
+      "id": "dr-mm-l-i-em-f-r-blinda-r-han-en-m-nniska"
+    },
+    {
+      "published_at": "2026-08-22T18:08:00+00:00",
+      "updated_at": "2026-08-22T18:08:00+00:00",
+      "title": "Janelt doubles Brentford's lead as Spurs struggle",
+      "summary": "Vitaly Janelt makes it two for the home side as Brentford lead Spurs 2-0 in the first half",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-football-premier-league_7328537.jpg?20260822181956",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/watch/video/13576037/goal-v-janelt-33-brentford-2-0-tottenham-hotspur"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/watch/video/13576037/goal-v-janelt-33-brentford-2-0-tottenham-hotspur"
+      },
+      "confirmed_by": [],
+      "id": "janelt-doubles-brentford-s-lead-as-spurs-struggle"
+    },
+    {
+      "published_at": "2026-08-22T17:48:00+00:00",
+      "updated_at": "2026-08-22T17:48:00+00:00",
+      "title": "'This is brilliant!' | Lewis-Potter puts Brentford ahead vs Spurs",
+      "summary": "A perfect pass from Mamadou Sangare sees Keane Lewis-Potter's strike put Brentford 1-0 up against Spurs",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-football-premier-league_7328476.jpg?20260822174934",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/watch/video/13576021/goal-k-lewis-potter-12-brentford-1-0-tottenham-hotspur"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/watch/video/13576021/goal-k-lewis-potter-12-brentford-1-0-tottenham-hotspur"
+      },
+      "confirmed_by": [],
+      "id": "this-is-brilliant-lewis-potter-puts-brentford-ahead-vs-spurs"
     },
     {
       "published_at": "2026-08-22T17:05:00+00:00",
       "updated_at": "2026-08-22T17:05:00+00:00",
-      "title": "Everton outclass Palace in Premier League opener",
+      "title": "Everton outclass wasteful Palace in Premier League opener",
       "summary": "Everton made a winning start to the new Premier League campaign by beating Crystal Palace 2-0 thanks to classy goals from Kiernan Dewsbury-Hall and Thierno Barry",
       "category": [
         "Premier League"
@@ -1633,7 +1543,7 @@
         "url": "https://www.skysports.com/football/everton-vs-crystal-palace/report/559446"
       },
       "confirmed_by": [],
-      "id": "everton-outclass-palace-in-premier-league-opener"
+      "id": "everton-outclass-wasteful-palace-in-premier-league-opener"
     },
     {
       "published_at": "2026-08-22T17:03:00+00:00",
@@ -1661,6 +1571,33 @@
       },
       "confirmed_by": [],
       "id": "three-things-we-ve-learned-from-man-utd-s-loss-at-hull"
+    },
+    {
+      "published_at": "2026-08-22T17:00:00+00:00",
+      "updated_at": "2026-08-22T17:00:00+00:00",
+      "title": "Leicester booed off after nightmare defeat to Burton",
+      "summary": "Burton Albion stunned Leicester City at the King Power Stadium, as the former Premier League champions were booed off after being beaten 2-1 by Gary Bowyer's side",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-efl-league-one-leicester_7328415.jpg?20260822170647",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/leicester-city-vs-burton-albion/report/561617"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/leicester-city-vs-burton-albion/report/561617"
+      },
+      "confirmed_by": [],
+      "id": "leicester-booed-off-after-nightmare-defeat-to-burton"
     },
     {
       "published_at": "2026-08-22T16:46:00+00:00",
@@ -1719,7 +1656,7 @@
     {
       "published_at": "2026-08-22T15:36:00+00:00",
       "updated_at": "2026-08-22T15:36:00+00:00",
-      "title": "Carrick defends dismal Man Utd loss: 'We did some good things'",
+      "title": "Carrick defends dismal Man Utd loss: 'It was never going to be perfect'",
       "summary": "Man Utd boss Michael Carrick focused on the \"good things\" his side had done despite a dismal 2-0 defeat at newly-promoted Hull City on the opening day of the new season",
       "category": [
         "Football"
@@ -1741,34 +1678,61 @@
         "url": "https://www.skysports.com/football/news/11095/13575881/michael-carrick-insists-man-utd-did-some-good-things-despite-dismal-hull-defeat-on-opening-premier-league-weekend"
       },
       "confirmed_by": [],
-      "id": "carrick-defends-dismal-man-utd-loss-we-did-some-good-things"
+      "id": "carrick-defends-dismal-man-utd-loss-it-was-never-going-to-be-perfect"
     },
     {
-      "published_at": "2026-08-22T10:50:12+00:00",
-      "updated_at": "2026-08-22T10:50:12+00:00",
-      "title": "LIVE Done Deals Tracker: Every confirmed transfer on August 22",
-      "summary": "Check the latest done deals and official transfers completed in Serie A, as the summer window goes into its final month of activity",
+      "published_at": "2026-08-22T15:43:00+00:00",
+      "updated_at": "2026-08-22T15:43:00+00:00",
+      "title": "Kryss i Skånederbyt - Rosengård kvar under strecket",
+      "summary": "Kryss i Skånederbyt - Rosengård kvar under strecket Fotbollskanalen",
       "category": [
-        "Transfer"
+        "Sverige"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://icdn.football-italia.net/wp-content/uploads/2024/08/Transfer-Liveblog.jpg",
+      "image": "",
       "sources": [
         {
-          "name": "Football Italia",
-          "url": "https://football-italia.net/live-done-deal-tracker-latest-serie-a-transfer/"
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Football Italia",
-        "url": "https://football-italia.net/live-done-deal-tracker-latest-serie-a-transfer/"
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "live-done-deals-tracker-every-confirmed-transfer-on-august-22"
+      "id": "kryss-i-sk-nederbyt-roseng-rd-kvar-under-strecket"
+    },
+    {
+      "published_at": "2026-08-22T16:41:33+00:00",
+      "updated_at": "2026-08-22T16:41:33+00:00",
+      "title": "Vi spelar andrafiolen, det ger inga poäng",
+      "summary": "24 sekunder senare ligger bollen i vårt mål. Vi kvitterar men släpps aldrig in i matchen på allvar. Kassaskåpssäker trepoängare för kvaljagande Hanviken trots ”bara” 3-1 på tavlan",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/BLurn7G5T9Yd6Jn25b146cgt8BE1yKgKVJdyuf8N.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/vi-spelar-andrafiolen-det-ger-inga-poang-699533"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/vi-spelar-andrafiolen-det-ger-inga-poang-699533"
+      },
+      "confirmed_by": [],
+      "id": "vi-spelar-andrafiolen-det-ger-inga-po-ng"
     },
     {
       "published_at": "2026-08-22T10:00:00+00:00",
@@ -1934,44 +1898,17 @@
       "id": "tv-guide-s-kan-du-se-arsenal-coventry"
     },
     {
-      "published_at": "2026-08-21T12:00:00+00:00",
-      "updated_at": "2026-08-21T12:00:00+00:00",
-      "title": "SFSU varnar – det krävs för att legalisera pyroteknik",
-      "summary": "Flera riksdagspartier har öppnat för att legalisera pyroteknik. Men Svenska Fotbollssupporterunionen höjer ett varningens finger ifall frågan skulle aktualiseras i riksdagen. – Man måste ha förståelse för vad som efterfrågas av supporterrörelsen, säger SFSU-ordföranden Oscar Pettersson till SvenskaFans",
+      "published_at": "2026-08-22T16:36:20+00:00",
+      "updated_at": "2026-08-22T16:36:20+00:00",
+      "title": "Udinese vs. Como (22 Aug, 2026) Live Score",
+      "summary": "Read the full report at ESPN.",
       "category": [
-        "Sverige"
+        "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/6igFGuPb0CaoB5wp3kocMhWuuo2CxuId1VCi6zLV.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/sfsu-varnar-det-kravs-for-att-legalisera-pyroteknik-699459"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/sfsu-varnar-det-kravs-for-att-legalisera-pyroteknik-699459"
-      },
-      "confirmed_by": [],
-      "id": "sfsu-varnar-det-kr-vs-f-r-att-legalisera-pyroteknik"
-    },
-    {
-      "published_at": "2026-08-20T13:12:06+00:00",
-      "updated_at": "2026-08-20T13:12:06+00:00",
-      "title": "Rennes vs. PSG (23 Aug, 2026) Live Score",
-      "summary": "Read the full report at ESPN.",
-      "category": [
-        "Ligue 1"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "psg",
       "image": "",
       "sources": [
         {
@@ -1985,7 +1922,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "rennes-vs-psg-23-aug-2026-live-score"
+      "id": "udinese-vs-como-22-aug-2026-live-score"
     },
     {
       "published_at": "2026-08-20T09:27:00+00:00",
@@ -2013,6 +1950,33 @@
       },
       "confirmed_by": [],
       "id": "big-questions-predictions-for-barcelona-real-madrid-as-laliga-campaigns-begin"
+    },
+    {
+      "published_at": "2026-08-22T16:20:49+00:00",
+      "updated_at": "2026-08-22T16:20:49+00:00",
+      "title": "Fabregas: ‘Champions League an unexpected gift, Liberali has fire in his eyes’",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "fabregas-champions-league-an-unexpected-gift-liberali-has-fire-in-his-eyes"
     },
     {
       "published_at": "2026-08-22T14:27:41+00:00",
@@ -2150,6 +2114,35 @@
       },
       "confirmed_by": [],
       "id": "ederson-i-honestly-don-t-know-about-manchester-united-but-atalanta-wanted-me"
+    },
+    {
+      "published_at": "2026-08-19T13:30:00+00:00",
+      "updated_at": "2026-08-19T13:30:00+00:00",
+      "title": "Serie A 2026-27: Which new signings are set to start? Who are the new coaches?",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A",
+        "Transfer",
+        "Coach"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "serie-a-2026-27-which-new-signings-are-set-to-start-who-are-the-new-coaches"
     }
   ]
 }
