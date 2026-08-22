@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T11:20:44.770087+00:00",
+  "updated_at": "2026-08-22T12:39:41.198248+00:00",
   "items": [
     {
       "published_at": "2026-08-21T22:56:35+00:00",
@@ -97,42 +97,6 @@
         }
       ],
       "id": "lionel-messi-fined-for-slapping-opposition-player-in-mls-game"
-    },
-    {
-      "published_at": "2026-08-22T10:07:37+00:00",
-      "updated_at": "2026-08-22T10:07:37+00:00",
-      "title": "Joao Pedro extends Chelsea stay until 2034",
-      "summary": "Chelsea striker Joao Pedro signs a new contract with the club until 2032, with the option of two further years",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/479e/live/7c70f030-9cc6-11f1-a5cd-a14170183a2c.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c79g2z11r81o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c79g2z11r81o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "id": "joao-pedro-extends-chelsea-stay-until-2034"
     },
     {
       "published_at": "2026-08-21T21:23:29+00:00",
@@ -246,6 +210,42 @@
       "id": "argentina-s-paredes-banned-for-10-games-after-world-cup-clashes"
     },
     {
+      "published_at": "2026-08-21T06:30:48+00:00",
+      "updated_at": "2026-08-21T06:30:48+00:00",
+      "title": "Spurs agree £75m deal for Savinho who 'wanted to leave' Man City",
+      "summary": "Enzo Maresca confirms Savinho asked to leave club Marmoush has not done so but also likely to depart City Enzo Maresca has revealed Savinho made clear his desire to leave Manchester City on “day one” of his tenure but that Omar Marmoush has not asked to depart the club as the pair move close to joining Tottenham for £85m and £75m respectively. Savinho signed for the City Football Group in the summer of 2022 for €40m (£30.8m), first joining Troyes, so the prospective sale of the 22-year-old for £85m represents a near £55m profit for City’s owners. Marmoush, meanwhile, was bought in January 2025 from Eintracht Frankfurt for about £59m but, as with Savinho, the Egypt forward was not a regular starter under Pep Guardiola, due to having to compete with Erling Haaland.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/030e/live/790b26f0-9d29-11f1-ba3e-c323fd3033f4.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwyl0r8g4lwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/21/tottenham-hotspur-close-on-deals-for-manchester-city-savinho-omar-marmoush"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwyl0r8g4lwo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/21/tottenham-hotspur-close-on-deals-for-manchester-city-savinho-omar-marmoush"
+        }
+      ],
+      "id": "spurs-agree-75m-deal-for-savinho-who-wanted-to-leave-man-city"
+    },
+    {
       "published_at": "2026-08-21T20:38:00+00:00",
       "updated_at": "2026-08-21T20:38:00+00:00",
       "title": "Man Utd agree £70m deal for Baleba",
@@ -280,6 +280,33 @@
         }
       ],
       "id": "man-utd-agree-70m-deal-for-baleba"
+    },
+    {
+      "published_at": "2026-08-22T10:07:37+00:00",
+      "updated_at": "2026-08-22T10:07:37+00:00",
+      "title": "Joao Pedro extends Chelsea stay until 2034",
+      "summary": "Chelsea striker Joao Pedro signs a new contract with the club until 2032, with the option of two further years",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/479e/live/7c70f030-9cc6-11f1-a5cd-a14170183a2c.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c79g2z11r81o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c79g2z11r81o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "joao-pedro-extends-chelsea-stay-until-2034"
     },
     {
       "published_at": "2026-08-22T06:19:35+00:00",
@@ -336,31 +363,68 @@
       "id": "second-set-of-twins-a-good-distraction-from-injury-maddison"
     },
     {
-      "published_at": "2026-08-22T05:20:29+00:00",
-      "updated_at": "2026-08-22T05:20:29+00:00",
-      "title": "My family got me through injury - Maddison",
-      "summary": "Tottenham midfielder James Maddison discusses life under boss Roberto de Zerbi and how the distraction of having five children under five at home kept him busy while he was out with a long-term injury",
+      "published_at": "2026-08-21T21:30:45+00:00",
+      "updated_at": "2026-08-21T21:30:45+00:00",
+      "title": "Manchester United agree deal for Carlos Baleba to continue midfield rebuild",
+      "summary": "Signings of Tielemans and Santos have addressed an area that has been problematic since the manager himself stopped playing Ed Woodward to MUTV in July 2015: “When people see Bastian Schweinsteiger on the team sheet, that’s going to send some shivers down the spine.” This prediction by Manchester United’s then executive vice-president, about Louis van Gaal’s new midfield signing, proved to be badly off‑target as the World Cup-winner’s career at the club proved to be a disappointment. Two years after Woodward’s bullish statement, Schweinsteiger departed for Chicago Fire with a paltry 35 appearances and two goals for United on his CV, having been forced to train for a while with the youngsters by José Mourinho, Van Gaal’s successor. Here, in microcosm, is the story of virtually all midfield recruits by United for a generation.",
       "category": [
-        "Football"
+        "Premier League",
+        "Transfer"
       ],
-      "status": "Confirmed",
+      "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/6172/live/46491350-966a-11f1-a7ab-8b30adf0800a.jpg",
+      "club": "manchester-united",
+      "image": "",
       "sources": [
         {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c4g30ewkx75o?at_medium=RSS&at_campaign=rss"
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/21/manchester-united-continue-midfield-regeneration-with-carlos-baleba-deal"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c4g30ewkx75o?at_medium=RSS&at_campaign=rss"
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/21/manchester-united-continue-midfield-regeneration-with-carlos-baleba-deal"
+        }
+      ],
+      "id": "manchester-united-agree-deal-for-carlos-baleba-to-continue-midfield-rebuild"
+    },
+    {
+      "published_at": "2026-08-22T06:02:33+00:00",
+      "updated_at": "2026-08-22T06:02:33+00:00",
+      "title": "Alonso on Palestra: 'He's something different'",
+      "summary": "Alonso on Palestra: 'He's something different' | News | Official Site Chelsea Football Club",
+      "category": [
+        "Football"
+      ],
+      "status": "Official",
+      "entity": "xabi-alonso",
+      "entity_type": "coaches",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Chelsea",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Chelsea",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "my-family-got-me-through-injury-maddison"
+      "id": "alonso-on-palestra-he-s-something-different"
     },
     {
       "published_at": "2026-08-19T08:37:00+00:00",
@@ -516,33 +580,6 @@
       },
       "confirmed_by": [],
       "id": "liverpool-s-best-xi-is-still-better-than-man-utd-s-carra-and-nev-clash-on-who-is-looking-b"
-    },
-    {
-      "published_at": "2026-08-19T08:00:00+00:00",
-      "updated_at": "2026-08-19T08:00:00+00:00",
-      "title": "Will Man Utd's opening weekend defence be the same as 2022?",
-      "summary": "Since the summer of 2022, Manchester United have signed eight defenders for a combined £219.7m - and yet, the starting back four could be the same that lined up on the opening day of the season four years ago",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-premier-league-manchester-united_7324694.jpg?20260818105736",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13574295/man-utd-could-start-2026-27-premier-league-season-with-same-back-four-as-2022-23-opening-game"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13574295/man-utd-could-start-2026-27-premier-league-season-with-same-back-four-as-2022-23-opening-game"
-      },
-      "confirmed_by": [],
-      "id": "will-man-utd-s-opening-weekend-defence-be-the-same-as-2022"
     },
     {
       "published_at": "2026-08-22T08:20:00+00:00",
@@ -765,34 +802,6 @@
       "id": "de-zerbi-defends-spurs-transfer-spree-and-claims-every-club-wanted-to-kill-us"
     },
     {
-      "published_at": "2026-08-21T21:30:45+00:00",
-      "updated_at": "2026-08-21T21:30:45+00:00",
-      "title": "Manchester United agree deal for Carlos Baleba to continue midfield rebuild",
-      "summary": "Signings of Tielemans and Santos have addressed an area that has been problematic since the manager himself stopped playing Ed Woodward to MUTV in July 2015: “When people see Bastian Schweinsteiger on the team sheet, that’s going to send some shivers down the spine.” This prediction by Manchester United’s then executive vice-president, about Louis van Gaal’s new midfield signing, proved to be badly off‑target as the World Cup-winner’s career at the club proved to be a disappointment. Two years after Woodward’s bullish statement, Schweinsteiger departed for Chicago Fire with a paltry 35 appearances and two goals for United on his CV, having been forced to train for a while with the youngsters by José Mourinho, Van Gaal’s successor. Here, in microcosm, is the story of virtually all midfield recruits by United for a generation.",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://i.guim.co.uk/img/media/973059bdc681cee7d513966afe1f97c86c733d3e/306_0_2993_2395/master/2993.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c2506b96199a6b0dd3c7e5a8fa4cc123",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/21/manchester-united-continue-midfield-regeneration-with-carlos-baleba-deal"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/21/manchester-united-continue-midfield-regeneration-with-carlos-baleba-deal"
-      },
-      "confirmed_by": [],
-      "id": "manchester-united-agree-deal-for-carlos-baleba-to-continue-midfield-rebuild"
-    },
-    {
       "published_at": "2026-08-21T10:49:53+00:00",
       "updated_at": "2026-08-21T10:49:53+00:00",
       "title": "Jovial Jakirovic determined to haul Hull over and beyond Coles’ relegation jibes",
@@ -846,33 +855,6 @@
       },
       "confirmed_by": [],
       "id": "football-transfer-rumours-endrick-to-liverpool-arsenal-to-swap-martinelli-for-yildiz"
-    },
-    {
-      "published_at": "2026-08-21T07:30:42+00:00",
-      "updated_at": "2026-08-21T07:30:42+00:00",
-      "title": "Manchester City set to sell Savinho and Omar Marmoush to Spurs for combined £160m",
-      "summary": "Enzo Maresca confirms Savinho asked to leave club Marmoush has not done so but also likely to depart City Enzo Maresca has revealed Savinho made clear his desire to leave Manchester City on “day one” of his tenure but that Omar Marmoush has not asked to depart the club as the pair move close to joining Tottenham for £85m and £75m respectively. Savinho signed for the City Football Group in the summer of 2022 for €40m (£30.8m), first joining Troyes, so the prospective sale of the 22-year-old for £85m represents a near £55m profit for City’s owners. Marmoush, meanwhile, was bought in January 2025 from Eintracht Frankfurt for about £59m but, as with Savinho, the Egypt forward was not a regular starter under Pep Guardiola, due to having to compete with Erling Haaland.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://i.guim.co.uk/img/media/ee5881ea0417b678803ee13ebff53f20950141a4/416_115_5219_4178/master/5219.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f555bd84349d62959f5e2f88867fffdb",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/21/tottenham-hotspur-close-on-deals-for-manchester-city-savinho-omar-marmoush"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/21/tottenham-hotspur-close-on-deals-for-manchester-city-savinho-omar-marmoush"
-      },
-      "confirmed_by": [],
-      "id": "manchester-city-set-to-sell-savinho-and-omar-marmoush-to-spurs-for-combined-160m"
     },
     {
       "published_at": "2026-08-21T07:00:28+00:00",
@@ -954,6 +936,60 @@
       },
       "confirmed_by": [],
       "id": "ronaldinho-46-on-mission-of-love-and-happiness-and-maybe-goals-at-serie-c-s-ravenna"
+    },
+    {
+      "published_at": "2026-08-20T07:00:46+00:00",
+      "updated_at": "2026-08-20T07:00:46+00:00",
+      "title": "Frugal or foolish? Manchester United may regret not backing Carrick",
+      "summary": "Another left-back has been a priority all summer, but there seems to be no sign of one coming to Old Trafford After signing Aaron Wan-Bissaka in 2019, Manchester United’s PR machine boasted they had scouted 804 right-backs before landing on the Crystal Palace player. At the time it felt like an unnecessary brag, designed to convince fans and journalists the club were doing their due diligence when it came to scouting and data. Now, as the search for a left-back to challenge Luke Shaw drags on with less than two weeks of the summer transfer window remaining, there seems to be a lack of credible targets.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://i.guim.co.uk/img/media/6a542e4126ae6a36e0e92f8262dfdc68bf9629ea/0_0_5200_4160/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=794a9382e092cbacad7a2cef93256f5c",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/20/manchester-united-may-regret-not-backing-michael-carrick"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/20/manchester-united-may-regret-not-backing-michael-carrick"
+      },
+      "confirmed_by": [],
+      "id": "frugal-or-foolish-manchester-united-may-regret-not-backing-carrick"
+    },
+    {
+      "published_at": "2026-08-19T23:58:35+00:00",
+      "updated_at": "2026-08-19T23:58:35+00:00",
+      "title": "‘A huge honour’: Socceroos World Cup star Alessandro Circati seals move to Benfica",
+      "summary": "Defender completes transfer for reported fee of 20m euros ($33m) Ten Australian players have now made post-World Cup moves Young Socceroo Alessandro Circati has become the latest Australian international to be snapped up in a money-spinning European transfer, as he hailed his move from Parma to Benfica as a “privilege”. Following Lucas Herrington’s move from the MLS to become Australia’s only Premier League player at Hull City, and Nestory Irankunda joining Benfica’s great rivals Sporting from Watford, Circati has been signed by the Portuguese giants for a reported 20m euros ($33m).",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/56acdea2fd08881bf83336d3824bb586a69691fa/0_31_2667_2133/master/2667.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=59e6b7dcd4062c402c0a2b5dcde98fed",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/20/alessandro-circati-benfica-portugal-primeira-liga-transfer-news-move"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/20/alessandro-circati-benfica-portugal-primeira-liga-transfer-news-move"
+      },
+      "confirmed_by": [],
+      "id": "a-huge-honour-socceroos-world-cup-star-alessandro-circati-seals-move-to-benfica"
     },
     {
       "published_at": "2026-08-20T11:30:00+00:00",
@@ -1092,34 +1128,6 @@
       "id": "transfer-fee-revealed-as-juventus-agree-to-send-di-gregorio-to-bournemouth"
     },
     {
-      "published_at": "2026-08-21T17:46:36+00:00",
-      "updated_at": "2026-08-21T17:46:36+00:00",
-      "title": "Report Nkunku preference for RB Leipzig, but Newcastle United have best offer",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Premier League",
-        "Bundesliga"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "report-nkunku-preference-for-rb-leipzig-but-newcastle-united-have-best-offer"
-    },
-    {
       "published_at": "2026-08-21T13:40:29+00:00",
       "updated_at": "2026-08-21T13:40:29+00:00",
       "title": "Report Perin on verge of Palermo move, can help Juventus sign Kessie",
@@ -1148,6 +1156,33 @@
       "id": "report-perin-on-verge-of-palermo-move-can-help-juventus-sign-kessie"
     },
     {
+      "published_at": "2026-08-21T12:27:26+00:00",
+      "updated_at": "2026-08-21T12:27:26+00:00",
+      "title": "David and Fortini: Double Hull City transfer blow with official transfer for Italian defender",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "david-and-fortini-double-hull-city-transfer-blow-with-official-transfer-for-italian-defend"
+    },
+    {
       "published_at": "2026-08-20T19:56:00+00:00",
       "updated_at": "2026-08-20T19:56:00+00:00",
       "title": "Atalanta vs Hapoel Tel Aviv – Scalvini forced off with early injured",
@@ -1173,62 +1208,6 @@
       },
       "confirmed_by": [],
       "id": "atalanta-vs-hapoel-tel-aviv-scalvini-forced-off-with-early-injured"
-    },
-    {
-      "published_at": "2026-08-19T12:16:23+00:00",
-      "updated_at": "2026-08-19T12:16:23+00:00",
-      "title": "Juventus could still sign another goalkeeper on top of Vicario",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "juventus-could-still-sign-another-goalkeeper-on-top-of-vicario"
-    },
-    {
-      "published_at": "2026-08-17T18:53:24+00:00",
-      "updated_at": "2026-08-17T18:53:24+00:00",
-      "title": "Genoa pushing for Ferguson loan from Brighton after Roma struggle",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "brighton",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "genoa-pushing-for-ferguson-loan-from-brighton-after-roma-struggle"
     },
     {
       "published_at": "2026-08-20T09:15:43+00:00",
@@ -1416,7 +1395,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "arsenal",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.38/0.14/b93708d423d6d2ec05080b0065a1513fd9cf95e9dab883af5d5c706103617ed6",
+      "image": "",
       "sources": [
         {
           "name": "SVT Sport",
@@ -1621,61 +1600,6 @@
       "id": "damallsvenskan-tappar-tunga-sponsorer-sv-r-situation"
     },
     {
-      "published_at": "2026-08-22T10:40:00+00:00",
-      "updated_at": "2026-08-22T10:40:00+00:00",
-      "title": "Man Utd latest: Rashford's squad number confirmed",
-      "summary": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-man-utd-club-blog_7326703.jpg?20260820165515",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "man-utd-latest-rashford-s-squad-number-confirmed"
-    },
-    {
-      "published_at": "2026-08-22T08:59:00+00:00",
-      "updated_at": "2026-08-22T08:59:00+00:00",
-      "title": "Aston Villa latest: Talks begin to sign free agent Goretzka",
-      "summary": "Aston Villa transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/02/1600x900/skysports-aston-villa-latest_7164113.jpg?20260213143027",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "aston-villa-latest-talks-begin-to-sign-free-agent-goretzka"
-    },
-    {
       "published_at": "2026-08-21T22:38:00+00:00",
       "updated_at": "2026-08-21T22:38:00+00:00",
       "title": "'Alvarez pushes Arsenal over CL line' - Nev insists Gunners need world-class attacker",
@@ -1703,13 +1627,12 @@
       "id": "alvarez-pushes-arsenal-over-cl-line-nev-insists-gunners-need-world-class-attacker"
     },
     {
-      "published_at": "2026-08-22T11:11:00+00:00",
-      "updated_at": "2026-08-22T11:11:00+00:00",
-      "title": "Arthur bryter kontraktet med Juventus",
-      "summary": "Arthur bryter kontraktet med Juventus Fotbollskanalen",
+      "published_at": "2026-08-22T12:06:00+00:00",
+      "updated_at": "2026-08-22T12:06:00+00:00",
+      "title": "AVSLÖJAR: Djurgården anmäler hot mot Honkavaara",
+      "summary": "AVSLÖJAR: Djurgården anmäler hot mot Honkavaara Fotbollskanalen",
       "category": [
-        "Sverige",
-        "Serie A"
+        "Sverige"
       ],
       "status": "Reported",
       "entity": "",
@@ -1728,7 +1651,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "arthur-bryter-kontraktet-med-juventus"
+      "id": "avsl-jar-djurg-rden-anm-ler-hot-mot-honkavaara"
     },
     {
       "published_at": "2026-08-22T10:50:12+00:00",
@@ -1756,34 +1679,6 @@
       },
       "confirmed_by": [],
       "id": "live-done-deals-tracker-every-confirmed-transfer-on-august-22"
-    },
-    {
-      "published_at": "2026-08-22T09:04:00+00:00",
-      "updated_at": "2026-08-22T09:04:00+00:00",
-      "title": "JUST NU: Stroud startar mot Manchester United",
-      "summary": "JUST NU: Stroud startar mot Manchester United Fotbollskanalen",
-      "category": [
-        "Sverige",
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "just-nu-stroud-startar-mot-manchester-united"
     },
     {
       "published_at": "2026-08-22T10:00:00+00:00",
@@ -2086,9 +1981,93 @@
       "id": "francisco-conceicao-back-on-chelsea-radar-juventus-want-40m-for-sale"
     },
     {
+      "published_at": "2026-08-19T14:04:45+00:00",
+      "updated_at": "2026-08-19T14:04:45+00:00",
+      "title": "Ederson: ‘I honestly don’t know about Manchester United, but Atalanta wanted me’",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Premier League",
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "ederson-i-honestly-don-t-know-about-manchester-united-but-atalanta-wanted-me"
+    },
+    {
+      "published_at": "2026-08-19T13:30:00+00:00",
+      "updated_at": "2026-08-19T13:30:00+00:00",
+      "title": "Serie A 2026-27: Which new signings are set to start? Who are the new coaches?",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A",
+        "Transfer",
+        "Coach"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "serie-a-2026-27-which-new-signings-are-set-to-start-who-are-the-new-coaches"
+    },
+    {
+      "published_at": "2026-08-22T13:00:00+00:00",
+      "updated_at": "2026-08-22T13:00:00+00:00",
+      "title": "Everton vs Crystal Palace LIVE!",
+      "summary": "Premier League match Everton vs C Palace 22.08.2026. Preview and stats followed by live commentary, video highlights and match report",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "everton",
+      "image": "",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/everton-vs-crystal-palace/live/559446"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/everton-vs-crystal-palace/live/559446"
+      },
+      "confirmed_by": [],
+      "id": "everton-vs-crystal-palace-live"
+    },
+    {
       "published_at": "2026-08-22T12:00:00+00:00",
       "updated_at": "2026-08-22T12:00:00+00:00",
-      "title": "Norwich, Birmingham & Pompey in action - EFL LIVE on Sky!",
+      "title": "Millwall, Pompey lead; Birmingham peg back Bristol City - EFL LIVE on Sky!",
       "summary": "Championship LIVE! Scores, match updates and free highlights plus EFL latest from League One and League Two",
       "category": [
         "Football"
@@ -2097,7 +2076,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-efl-championship_7325302.jpg?20260819073850",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-millwall-norwich_7328042.jpg?20260822125504",
       "sources": [
         {
           "name": "Sky Sports",
@@ -2110,7 +2089,34 @@
         "url": "https://www.skysports.com/football/live-blog/11095/13575067/championship-live-scores-match-updates-and-free-highlights-plus-efl-latest-from-league-one-and-league-two"
       },
       "confirmed_by": [],
-      "id": "norwich-birmingham-pompey-in-action-efl-live-on-sky"
+      "id": "millwall-pompey-lead-birmingham-peg-back-bristol-city-efl-live-on-sky"
+    },
+    {
+      "published_at": "2026-08-22T10:40:00+00:00",
+      "updated_at": "2026-08-22T10:40:00+00:00",
+      "title": "Man Utd latest: Amad absent from MKM trip due to niggle",
+      "summary": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-man-utd-club-blog_7326703.jpg?20260820165515",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "man-utd-latest-amad-absent-from-mkm-trip-due-to-niggle"
     },
     {
       "published_at": "2026-08-21T23:00:00+00:00",
