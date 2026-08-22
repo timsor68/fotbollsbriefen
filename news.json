@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T02:54:13.723097+00:00",
+  "updated_at": "2026-08-22T03:41:58.603695+00:00",
   "items": [
     {
       "published_at": "2026-08-21T21:23:29+00:00",
@@ -331,7 +331,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0560/live/46d3d580-9d6d-11f1-a2d1-59489fee904d.jpg",
       "sources": [
         {
           "name": "BBC Sport",
@@ -1504,7 +1504,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.24/0.52/2a45886afd9707bbd97ef85e2146e98dd19c79f5ca9e951570d1ee2add4f0788",
       "sources": [
         {
           "name": "SVT Sport",
@@ -1558,7 +1558,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.79/0.33/61d7ef8738e64ddbb4c1b5c8866c533d69f88d519d206a7df04e9755a686d81a",
       "sources": [
         {
           "name": "SVT Sport",
@@ -1626,34 +1626,6 @@
       },
       "confirmed_by": [],
       "id": "damallsvenskan-tappar-tunga-sponsorer-sv-r-situation"
-    },
-    {
-      "published_at": "2026-08-18T04:10:34+00:00",
-      "updated_at": "2026-08-18T04:10:34+00:00",
-      "title": "Dean Huijsen was Real Madrid’s marquee signing a year ago. Why could he still be this season’s breakout star?",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "La Liga",
-        "Transfer"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "dean-huijsen-was-real-madrid-s-marquee-signing-a-year-ago-why-could-he-still-be-this-seaso"
     },
     {
       "published_at": "2026-08-21T22:38:00+00:00",
@@ -1846,6 +1818,33 @@
       "id": "klart-mj-llby-v-rvar-sandberg"
     },
     {
+      "published_at": "2026-08-21T13:30:00+00:00",
+      "updated_at": "2026-08-21T13:30:00+00:00",
+      "title": "Klart: Oddevold värvar Rudi Vikström",
+      "summary": "Klart: Oddevold värvar Rudi Vikström Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "klart-oddevold-v-rvar-rudi-vikstr-m"
+    },
+    {
       "published_at": "2026-08-21T13:19:00+00:00",
       "updated_at": "2026-08-21T13:19:00+00:00",
       "title": "Klart: Thomas Partey till Al Shabab",
@@ -1871,33 +1870,6 @@
       },
       "confirmed_by": [],
       "id": "klart-thomas-partey-till-al-shabab"
-    },
-    {
-      "published_at": "2026-08-21T13:01:44+00:00",
-      "updated_at": "2026-08-21T13:01:44+00:00",
-      "title": "Var går gränsen för \"bomb squads\"?",
-      "summary": "Var går gränsen för \"bomb squads\"? Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "var-g-r-gr-nsen-f-r-bomb-squads"
     },
     {
       "published_at": "2026-08-21T19:24:47+00:00",
@@ -2144,6 +2116,34 @@
       },
       "confirmed_by": [],
       "id": "fabregas-coy-on-kean-rumours-ahead-of-como-season-opener-we-can-t-get-distracted"
+    },
+    {
+      "published_at": "2026-08-19T14:04:45+00:00",
+      "updated_at": "2026-08-19T14:04:45+00:00",
+      "title": "Ederson: ‘I honestly don’t know about Manchester United, but Atalanta wanted me’",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Premier League",
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "ederson-i-honestly-don-t-know-about-manchester-united-but-atalanta-wanted-me"
     }
   ]
 }
