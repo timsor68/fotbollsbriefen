@@ -1,41 +1,49 @@
 {
-  "updated_at": "2026-08-22T21:22:14.619380+00:00",
+  "updated_at": "2026-08-22T22:22:21.527842+00:00",
   "items": [
     {
-      "published_at": "2026-08-22T19:23:56+00:00",
-      "updated_at": "2026-08-22T19:23:56+00:00",
-      "title": "Spurs 'didn't fight in the right way' - De Zerbi",
-      "summary": "Tottenham Hotspur head coach Roberto Di Zerbi believes his side \"didn't fight in the right way\" in their 3-0 loss to Brentford in the opening match of the 2026-27 Premier League season",
+      "published_at": "2026-08-22T21:30:32+00:00",
+      "updated_at": "2026-08-22T21:30:32+00:00",
+      "title": "Man City will 'try to find the new Rodri' - Maresca",
+      "summary": "Maresca: ‘You need to be good at recruiting the next one’ City face Bournemouth after Community Shield defeat Enzo Maresca has brushed off the loss of Rodri to Barcelona for £65m by stating Manchester City will search for the “new Rodri” in the same way Sergio Agüero was replaced by Erling Haaland. Rodri’s departure is a sizable blow to the club’s new manager as he embarks on a first season in charge. Yet the Italian is not fazed by the absence of a player considered one of the world’s best No 6s.",
       "category": [
         "Football"
       ],
       "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/999e/live/04701f00-9e5d-11f1-a291-b542ee92de7c.jpg",
+      "club": "manchester-city",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9f2c/live/9d6c1dd0-9d7c-11f1-8bc3-150f4c5f088b.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cp8x8jl4yj2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cd9w1zkw7x8o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/22/enzo-maresca-new-rodri-barcelona-bournemouth-premier-league"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cp8x8jl4yj2o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cd9w1zkw7x8o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/22/enzo-maresca-new-rodri-barcelona-bournemouth-premier-league"
         }
       ],
-      "id": "spurs-didn-t-fight-in-the-right-way-de-zerbi"
+      "id": "man-city-will-try-to-find-the-new-rodri-maresca"
     },
     {
       "published_at": "2026-08-21T21:56:44+00:00",
@@ -291,6 +299,33 @@
       "id": "de-zerbi-learns-cash-alone-cannot-fix-spurs-losing-mentality"
     },
     {
+      "published_at": "2026-08-22T19:23:56+00:00",
+      "updated_at": "2026-08-22T19:23:56+00:00",
+      "title": "Spurs 'didn't fight in the right way' - De Zerbi",
+      "summary": "Tottenham Hotspur head coach Roberto Di Zerbi believes his side \"didn't fight in the right way\" in their 3-0 loss to Brentford in the opening match of the 2026-27 Premier League season",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/999e/live/04701f00-9e5d-11f1-a291-b542ee92de7c.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cp8x8jl4yj2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cp8x8jl4yj2o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "spurs-didn-t-fight-in-the-right-way-de-zerbi"
+    },
+    {
       "published_at": "2026-08-22T19:07:15+00:00",
       "updated_at": "2026-08-22T19:07:15+00:00",
       "title": "'Maybe people will stop sleeping on us' - Hull enjoy dream return",
@@ -372,33 +407,6 @@
       "id": "i-m-very-happy-and-have-many-compliments-for-my-players-farke"
     },
     {
-      "published_at": "2026-08-22T14:40:57+00:00",
-      "updated_at": "2026-08-22T14:40:57+00:00",
-      "title": "'We didn't click' - Carrick on Man Utd's loss",
-      "summary": "Manchester United head coach Michael Carrick says his side 'didn't click' as they suffered a 2-0 defeat at newly promoted Hull City in their first game of the 2026-27 Premier League season",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/790b/live/e40627e0-9e35-11f1-aed2-8d6da8d75094.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cr5956led9lo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cr5956led9lo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "we-didn-t-click-carrick-on-man-utd-s-loss"
-    },
-    {
       "published_at": "2026-08-22T07:00:57+00:00",
       "updated_at": "2026-08-22T07:00:57+00:00",
       "title": "Alexander Isak braces himself for daunting reunion with Newcastle",
@@ -435,8 +443,8 @@
       "id": "alexander-isak-braces-himself-for-daunting-reunion-with-newcastle"
     },
     {
-      "published_at": "2026-08-22T06:02:33+00:00",
-      "updated_at": "2026-08-22T06:02:33+00:00",
+      "published_at": "2026-08-22T06:00:00+00:00",
+      "updated_at": "2026-08-22T06:00:00+00:00",
       "title": "Alonso on Palestra: 'He's something different'",
       "summary": "Alonso on Palestra: 'He's something different' | News | Official Site Chelsea Football Club",
       "category": [
@@ -616,34 +624,6 @@
       "id": "sm-ll-f-r-man-united-diallo-skadad"
     },
     {
-      "published_at": "2026-08-22T09:25:00+00:00",
-      "updated_at": "2026-08-22T09:25:00+00:00",
-      "title": "Officiellt: João Pedro förlänger med Chelsea",
-      "summary": "Officiellt: João Pedro förlänger med Chelsea Fotbollskanalen",
-      "category": [
-        "Sverige",
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "officiellt-jo-o-pedro-f-rl-nger-med-chelsea"
-    },
-    {
       "published_at": "2026-08-22T08:20:00+00:00",
       "updated_at": "2026-08-22T08:20:00+00:00",
       "title": "Arteta om Alvarez-värvning: \"Nöjd med truppen jag har\"",
@@ -698,34 +678,6 @@
       },
       "confirmed_by": [],
       "id": "maximilian-hahn-en-premier-league-scout-r-klar-f-r-djurg-rden"
-    },
-    {
-      "published_at": "2026-08-19T05:45:00+00:00",
-      "updated_at": "2026-08-19T05:45:00+00:00",
-      "title": "Uppgifter: AIK-tränare i samtal med Assadi - första bud nobbat",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige",
-        "Coach"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-aik-tr-nare-i-samtal-med-assadi-f-rsta-bud-nobbat"
     },
     {
       "published_at": "2026-08-18T08:03:00+00:00",
@@ -783,43 +735,6 @@
       "id": "uppgifter-rodri-klar-f-r-barcelona"
     },
     {
-      "published_at": "2026-08-22T10:37:34+00:00",
-      "updated_at": "2026-08-22T10:37:34+00:00",
-      "title": "Barcelona register all four summer signings with La Liga: How did they do it?",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "La Liga",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "barcelona",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjhLUDRFV3Vtb2pRXzlNeVVNTXNGS1RzaHhIWkxxT056Y2xoLXJ0TElDNjUyNlFOWXhZX3FUTHFraURLNFJ0YlhYejJMN1dCaVMybGJ6Q1pJOG82dmRacjdtSF9TT3VnOWU3ZU4tNDlfMEVsbW1OR25URng3SW5HeXYtdVZYMTRKX284Q1FVaW5tcEVRSmVlY0g1VHdFZWI5NlBPQUtSMXJyTVQ2cTFILUNHeGFzazh1Rzdz?oc=5"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjhLUDRFV3Vtb2pRXzlNeVVNTXNGS1RzaHhIWkxxT056Y2xoLXJ0TElDNjUyNlFOWXhZX3FUTHFraURLNFJ0YlhYejJMN1dCaVMybGJ6Q1pJOG82dmRacjdtSF9TT3VnOWU3ZU4tNDlfMEVsbW1OR25URng3SW5HeXYtdVZYMTRKX284Q1FVaW5tcEVRSmVlY0g1VHdFZWI5NlBPQUtSMXJyTVQ2cTFILUNHeGFzazh1Rzdz?oc=5"
-        }
-      ],
-      "id": "barcelona-register-all-four-summer-signings-with-la-liga-how-did-they-do-it"
-    },
-    {
       "published_at": "2026-08-22T18:40:35+00:00",
       "updated_at": "2026-08-22T18:40:35+00:00",
       "title": "Kayode seals emphatic Brentford victory in wake-up call for sorry Spurs",
@@ -845,60 +760,6 @@
       },
       "confirmed_by": [],
       "id": "kayode-seals-emphatic-brentford-victory-in-wake-up-call-for-sorry-spurs"
-    },
-    {
-      "published_at": "2026-08-22T07:00:57+00:00",
-      "updated_at": "2026-08-22T07:00:57+00:00",
-      "title": "Fifa general secretary Mattias Grafström sounded out about standing against Infantino",
-      "summary": "African federations sound out Swede over role ‘They think he can group all the continents’ Senior figures in African football have held talks with Fifa’s general secretary, Mattias Grafström, to sound out his interest in standing against Gianni Infantino, the Guardian can reveal. As many as 15 federations in Africa are also said to be ready to turn their backs on Infantino when he seeks re-election as Fifa president next year, despite the Confederation of Africa Football (Caf) claiming that its executive committee (exco) had “unanimously reconfirmed” its support for the under-fire 56-year-old.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/ec19544e6319161fb4ae4ae514bfbf859bd0c96b/175_0_1750_1400/master/1750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1e8fa0961eb0e4af818f05c79e3a096b",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/22/fifa-general-secretary-mattias-grafstrom-could-stand-against-infantino-in-election"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/22/fifa-general-secretary-mattias-grafstrom-could-stand-against-infantino-in-election"
-      },
-      "confirmed_by": [],
-      "id": "fifa-general-secretary-mattias-grafstr-m-sounded-out-about-standing-against-infantino"
-    },
-    {
-      "published_at": "2026-08-21T16:14:16+00:00",
-      "updated_at": "2026-08-21T16:14:16+00:00",
-      "title": "Leandro Paredes receives 10-match ban as Argentina punished for World Cup final brawl",
-      "summary": "Nahuel Molina, Thiago Almada and Gavi also suspended Fifa issue $321,000 fine for Falkland Islands banner Three Argentina players have been banned for their part in a brawl at the end of last month’s World Cup final against Spain , but they have only been fined for displaying a Falkland Islands banner after the semi-final win over England. Leandro Paredes has been given a 10-match ban and a $90,000 (£66,000) fine by Fifa’s disciplinary committee, while Nahuel Molina was given a seven-match suspension and fined the same amount.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/c6a8af535072c441882aba756824c37f917c5862/419_39_3032_2426/master/3032.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=081d60159093c82300858fe6a6d143d2",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/21/fifa-leandro-paredes-argentina-spain-world-cup-final-brawl"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/21/fifa-leandro-paredes-argentina-spain-world-cup-final-brawl"
-      },
-      "confirmed_by": [],
-      "id": "leandro-paredes-receives-10-match-ban-as-argentina-punished-for-world-cup-final-brawl"
     },
     {
       "published_at": "2026-08-21T07:41:43+00:00",
@@ -959,7 +820,7 @@
       "published_at": "2026-08-20T23:01:18+00:00",
       "updated_at": "2026-08-20T23:01:18+00:00",
       "title": "Premier League: 10 things to look out for as the new season kicks off",
-      "summary": "Manchester United’s new-look midfield, Ipswich’s ambition is tested and Kevin Keegan tributes at Newcastle While Myles Lewis-Skelly looks likely to remain at the Emirates , the same can’t be said for Ethan Nwaneri. The 19-year-old was outstanding in his breakthrough season for Arsenal in 2024-25 but barely featured last season and was sent on loan to Marseille. That didn’t really work out and Arsenal are now exploring another temporary move to ensure Nwaneri gets regular football this season.",
+      "summary": "A crackdown on time wasting, a record number of new people in charge, and some new faces on Match of the Day The 2026-27 Premier League season kicks off on Friday and while the familiar rivalries return, the English top flight has some alterations this campaign. From evolved rules to new faces and broadcast changes, there is plenty to catch up on before a ball is kicked. Marco Rose – Bournemouth Xabi Alonso – Chelsea Pierre Sage – Crystal Palace Álvaro Arbeloa – Fulham Gary O’Neil - Ipswich Town Andoni Iraola – Liverpool Enzo Maresca- Manchester City Matthias Jaissle – Newcastle Oliver Glasner – Nottingham Forest Continue reading",
       "category": [
         "Premier League"
       ],
@@ -1037,33 +898,6 @@
       "id": "a-huge-honour-socceroos-world-cup-star-alessandro-circati-seals-move-to-benfica"
     },
     {
-      "published_at": "2026-08-19T14:23:22+00:00",
-      "updated_at": "2026-08-19T14:23:22+00:00",
-      "title": "Not just big in Japan: Zion Suzuki has what it takes to follow Emiliano Martínez",
-      "summary": "He is replacing a World Cup winner and is his country’s first Premier League keeper, but Villa’s new signing has already dealt with harder challenges In November 2001, the first Japanese goalkeeper to play English league football conceded a goal within the first minute of his debut. Yoshikatsu Kawaguchi may have struggled for second-tier Portsmouth, conceding 21 times in his 12 league games after being spotted by the then director of football, Harry Redknapp, but he also produced some world-class saves and had glowing things to say about the Royal Mail. Replaced by a 42-year-old Dave Beasant, Kawaguchi nevertheless remains a cult hero on the south coast , as a standing ovation in his final game demonstrated.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/23eb6c026250e71446db354e33713c6872051035/1191_508_3215_2573/master/3215.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd034fd4be8df4ab4ffa252104432dba",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/19/aston-villa-transfer-not-just-big-in-japan-zion-suzuki-has-what-it-takes-to-follow-emiliano-martinez"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/19/aston-villa-transfer-not-just-big-in-japan-zion-suzuki-has-what-it-takes-to-follow-emiliano-martinez"
-      },
-      "confirmed_by": [],
-      "id": "not-just-big-in-japan-zion-suzuki-has-what-it-takes-to-follow-emiliano-mart-nez"
-    },
-    {
       "published_at": "2026-08-19T07:00:08+00:00",
       "updated_at": "2026-08-19T07:00:08+00:00",
       "title": "‘This isn’t normal in football’: Xisco, Malaysia and the new Invincibles",
@@ -1089,6 +923,61 @@
       },
       "confirmed_by": [],
       "id": "this-isn-t-normal-in-football-xisco-malaysia-and-the-new-invincibles"
+    },
+    {
+      "published_at": "2026-08-18T19:00:53+00:00",
+      "updated_at": "2026-08-18T19:00:53+00:00",
+      "title": "Pep’s final act of passion: Amazon’s revealing Guardiola series pulls no punches",
+      "summary": "From the manager’s divorce to tension with the club hierarchy, new documentary is an honest portrayal of his difficult last two seasons Having occupied a front-row seat for the final two seasons of Pep Guardiola’s gilded Manchester City tenure, the subject of Amazon’s A Beautiful Obsession, the surprise to me is how unfiltered the four-part series is. Particularly, the telling of the torrid 2024-25 campaign when the wheels came clattering off in the bleakest of mid-winter plunges that featured nine defeats and one victory in 13 aura-shattering games.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "pep-guardiola",
+      "entity_type": "coaches",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/cdd47b26519a2bd905511168140c3fda8af80de2/576_52_6358_5087/master/6358.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e50df22be3a5446e023b0e74d47fec3a",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/18/peps-final-act-of-passion-amazons-revealing-guardiola-series-pulls-no-punches"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/18/peps-final-act-of-passion-amazons-revealing-guardiola-series-pulls-no-punches"
+      },
+      "confirmed_by": [],
+      "id": "pep-s-final-act-of-passion-amazon-s-revealing-guardiola-series-pulls-no-punches"
+    },
+    {
+      "published_at": "2026-08-18T07:00:17+00:00",
+      "updated_at": "2026-08-18T07:00:17+00:00",
+      "title": "Interviewing José Mourinho: ego, charisma, talent and his ‘rucksack of pain’",
+      "summary": "Director Joe Pearlman says he expected Real Madrid manager to ‘try to manipulate us’ in making of Netflix series Even in the hyperreal world of football, there are few characters more compelling, more polarising, or more everything than José Mourinho, the best and worst of public him on full display in a new three-part Netflix series . “It reminded me how good he was,” says Joe Pearlman, who directed Mourinho, and the actual Mourinho is, believe it or not, keen to communicate the same. As he puts it in the show: “I look, you look, I see more than you.” Making documentaries, though, is often about taking people to the places they’re most skilled at avoiding.",
+      "category": [
+        "Serie A",
+        "Coach"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/303f3737e63d4c4416691d1e0cd4e7b5cdf3df74/2734_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a9a0556fd31d89819dcc63d48e80b7fe",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/18/jose-mourinho-netflix-series-director-interview-joe-pearlman"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/18/jose-mourinho-netflix-series-director-interview-joe-pearlman"
+      },
+      "confirmed_by": [],
+      "id": "interviewing-jos-mourinho-ego-charisma-talent-and-his-rucksack-of-pain"
     },
     {
       "published_at": "2026-08-22T19:48:00+00:00",
@@ -1199,6 +1088,33 @@
       "id": "skadesm-ll-f-r-aik-thychosen-missar-derbyt"
     },
     {
+      "published_at": "2026-08-22T15:33:04+00:00",
+      "updated_at": "2026-08-22T15:33:04+00:00",
+      "title": "Serie A official line-ups: Inter vs. Monza",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "serie-a-official-line-ups-inter-vs-monza"
+    },
+    {
       "published_at": "2026-08-22T08:05:25+00:00",
       "updated_at": "2026-08-22T08:05:25+00:00",
       "title": "Transfer fee revealed as Juventus agree to send Di Gregorio to Bournemouth",
@@ -1253,33 +1169,6 @@
       },
       "confirmed_by": [],
       "id": "report-perin-on-verge-of-palermo-move-can-help-juventus-sign-kessie"
-    },
-    {
-      "published_at": "2026-08-20T19:56:00+00:00",
-      "updated_at": "2026-08-20T19:56:00+00:00",
-      "title": "Atalanta vs Hapoel Tel Aviv – Scalvini forced off with early injured",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "atalanta-vs-hapoel-tel-aviv-scalvini-forced-off-with-early-injured"
     },
     {
       "published_at": "2026-08-22T18:39:43+00:00",
@@ -1346,6 +1235,42 @@
       },
       "confirmed_by": [],
       "id": "psg-heavily-fancied-to-win-sixth-successive-ligue-1-title"
+    },
+    {
+      "published_at": "2026-08-16T10:27:00+00:00",
+      "updated_at": "2026-08-16T10:27:00+00:00",
+      "title": "Uppgifter: Njie överens med Salzburg",
+      "summary": "AIK är på väg att slå transferrekord. Enligt Expressens uppgifter är de överens med Lucas Assadi om de personliga villkoren och bara detaljer återstår mellan AIK och Universidad de Chile om 22-åringens övergång",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/uppgifter-aik-overens-med-lucas-assadi-blir-rekordvarvning-699418"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/uppgifter-aik-overens-med-lucas-assadi-blir-rekordvarvning-699418"
+        }
+      ],
+      "id": "uppgifter-njie-verens-med-salzburg"
     },
     {
       "published_at": "2026-08-22T18:22:41+00:00",
@@ -1428,6 +1353,34 @@
       },
       "confirmed_by": [],
       "id": "tv-f-rlorare-i-bottenm-tet-p-gr-nsen-till-sj-lvmordsf-rs-k"
+    },
+    {
+      "published_at": "2026-08-22T10:37:34+00:00",
+      "updated_at": "2026-08-22T10:37:34+00:00",
+      "title": "Barcelona register all four summer signings with La Liga: How did they do it?",
+      "summary": "Read the full report at The Athletic.",
+      "category": [
+        "La Liga",
+        "Transfer"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "barcelona",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "barcelona-register-all-four-summer-signings-with-la-liga-how-did-they-do-it"
     },
     {
       "published_at": "2026-08-21T21:19:05+00:00",
@@ -1594,6 +1547,33 @@
       "id": "st-rsta-matchen-i-mj-llbys-historia-hundratals-tomma-stolar"
     },
     {
+      "published_at": "2026-08-22T22:20:00+00:00",
+      "updated_at": "2026-08-22T22:20:00+00:00",
+      "title": "De Zerbi admits 'we're not a team yet' as Redknapp labels Spurs 'strangers'",
+      "summary": "Tottenham boss Roberto De Zerbi believes their dismal 3-0 opening-season defeat at Brentford shows his new-look side are \"not a team yet\" after a big summer of spending",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-tottenham-spurs-sandro-tonali_7328773.jpg?20260822221504",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13575888/roberto-de-zerbi-tottenham-boss-admits-were-not-a-team-yet-after-new-look-side-suffer-dismal-brentford-loss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13575888/roberto-de-zerbi-tottenham-boss-admits-were-not-a-team-yet-after-new-look-side-suffer-dismal-brentford-loss"
+      },
+      "confirmed_by": [],
+      "id": "de-zerbi-admits-we-re-not-a-team-yet-as-redknapp-labels-spurs-strangers"
+    },
+    {
       "published_at": "2026-08-22T21:40:00+00:00",
       "updated_at": "2026-08-22T21:40:00+00:00",
       "title": "Olise stars as Bayern beat Dortmund to win Supercup",
@@ -1646,33 +1626,6 @@
       },
       "confirmed_by": [],
       "id": "woeful-spurs-easily-beaten-at-brentford-despite-big-spending-summer"
-    },
-    {
-      "published_at": "2026-08-22T17:03:00+00:00",
-      "updated_at": "2026-08-22T17:03:00+00:00",
-      "title": "Three things we've learned from Man Utd's loss at Hull",
-      "summary": "Danyal Khan gives us his three things to take away from Manchester United's loss to Hull City on the opening day of the season",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-football-manchester-united_7328418.jpg?20260822170700",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/watch/video/13575951/hull-city-vs-manchester-united-three-things-weve-learned-from-man-utd-vs-hull"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/watch/video/13575951/hull-city-vs-manchester-united-three-things-weve-learned-from-man-utd-vs-hull"
-      },
-      "confirmed_by": [],
-      "id": "three-things-we-ve-learned-from-man-utd-s-loss-at-hull"
     },
     {
       "published_at": "2026-08-22T16:46:00+00:00",
@@ -1754,6 +1707,115 @@
       },
       "confirmed_by": [],
       "id": "carrick-defends-dismal-man-utd-loss-it-was-never-going-to-be-perfect"
+    },
+    {
+      "published_at": "2026-08-17T12:50:00+00:00",
+      "updated_at": "2026-08-17T12:50:00+00:00",
+      "title": "Maresca's Man City problems are more than a missing midfield",
+      "summary": "Enzo Maresca spoke of his desire to \"close the gap\" between Manchester City and Arsenal before watching his side suffer a painful 3-0 defeat in the Community Shield last weekend. Perhaps the gaping holes through the spine of his team should be more of an immediate area of focus",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-elliot-anderson-manchester-city_7323369.jpg?20260816165512",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13573985/man-citys-community-shield-defeat-to-arsenal-revealed-the-scale-of-the-job-facing-enzo-maresca-on-eve-of-new-premier-league-season"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13573985/man-citys-community-shield-defeat-to-arsenal-revealed-the-scale-of-the-job-facing-enzo-maresca-on-eve-of-new-premier-league-season"
+      },
+      "confirmed_by": [],
+      "id": "maresca-s-man-city-problems-are-more-than-a-missing-midfield"
+    },
+    {
+      "published_at": "2026-08-22T21:28:00+00:00",
+      "updated_at": "2026-08-22T21:28:00+00:00",
+      "title": "Espí räddade tre poäng till Real Madrid i premiären",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige",
+        "La Liga"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "real-madrid",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "esp-r-ddade-tre-po-ng-till-real-madrid-i-premi-ren"
+    },
+    {
+      "published_at": "2026-08-22T19:00:11+00:00",
+      "updated_at": "2026-08-22T19:00:11+00:00",
+      "title": "Aston Villa upheaval is a risk but Emery can release v2.0 and reap rewards | Jonathan Wilson",
+      "summary": "After exodus of key players, youthful arrivals over the summer amount to a fresh beginning with plenty to get excited about Last season was the greatest Aston Villa have enjoyed since they won the European Cup in 1982. They claimed their second European trophy by lifting the Europa League , but even without that would have secured Champions League qualification by finishing fourth in the Premier League. Despite a miserable start during which they failed to win any of their first five league games, there was even a spell around Christmas when it looked as though Villa might be challengers for the title.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/de055917085217749a0ebceacb679e993b19c049/496_0_6094_4876/master/6094.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=da8a183b43772924ce148d3e81d9e372",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/23/aston-villa-upheaval-unai-emery-exodus-key-players-youthful-arrivals"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/23/aston-villa-upheaval-unai-emery-exodus-key-players-youthful-arrivals"
+      },
+      "confirmed_by": [],
+      "id": "aston-villa-upheaval-is-a-risk-but-emery-can-release-v2-0-and-reap-rewards-jonathan-wilson"
+    },
+    {
+      "published_at": "2026-08-22T21:29:16+00:00",
+      "updated_at": "2026-08-22T21:29:16+00:00",
+      "title": "Allsvenskan: Inför Västerås away",
+      "summary": "Efter en förlust mot Hammarby med 0-3 och en seger mot Ängelholm med 0-7 är det dags för de rödvita att ta sig an en av årets stora överraskningar",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/XUFF9j5Qz776BAAPB3zKeU9GxiKFzAIh47yCG8kZ.png",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/allsvenskan-infor-vasteras-away-699551"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/allsvenskan-infor-vasteras-away-699551"
+      },
+      "confirmed_by": [],
+      "id": "allsvenskan-inf-r-v-ster-s-away"
     },
     {
       "published_at": "2026-08-22T19:16:00+00:00",
@@ -1891,31 +1953,58 @@
       "id": "vi-spelar-andrafiolen-det-ger-inga-po-ng"
     },
     {
-      "published_at": "2026-08-22T10:00:00+00:00",
-      "updated_at": "2026-08-22T10:00:00+00:00",
-      "title": "Inför: Västerås SK - Kalmar FF",
-      "summary": "En seger och två förluster har det blivit för Västerås SK på de tre senaste matcherna i Allsvenskan. Senast förlorade man med klara 3-0 borta mot IF Elfsborg, efter en svag spelmässig insats. Imorgon, söndag, väntar ett mycket viktigt nykomlingsmöte, när VSK tar emot Kalmar FF på Hitachi Energy Arena.",
+      "published_at": "2026-08-22T20:41:50+00:00",
+      "updated_at": "2026-08-22T20:41:50+00:00",
+      "title": "Serie A | Genoa 0-2 Napoli: De Bruyne can inspire victory",
+      "summary": "Read the full report at Football Italia.",
       "category": [
-        "Sverige"
+        "Serie A"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/Sia09OzBQWQmHuBS9r69Rs9KZnnvz2KJXu6E6zHB.jpg",
+      "image": "",
       "sources": [
         {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/infor-vasteras-sk-kalmar-ff-699502"
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/infor-vasteras-sk-kalmar-ff-699502"
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "inf-r-v-ster-s-sk-kalmar-ff"
+      "id": "serie-a-genoa-0-2-napoli-de-bruyne-can-inspire-victory"
+    },
+    {
+      "published_at": "2026-08-22T18:34:07+00:00",
+      "updated_at": "2026-08-22T18:34:07+00:00",
+      "title": "Serie A | Udinese 1-1 Como: Fabregas held to disappointing draw",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "serie-a-udinese-1-1-como-fabregas-held-to-disappointing-draw"
     },
     {
       "published_at": "2026-08-22T16:20:49+00:00",
@@ -2052,88 +2141,6 @@
       },
       "confirmed_by": [],
       "id": "francisco-conceicao-back-on-chelsea-radar-juventus-want-40m-for-sale"
-    },
-    {
-      "published_at": "2026-08-19T15:55:05+00:00",
-      "updated_at": "2026-08-19T15:55:05+00:00",
-      "title": "BBC to air 38 Serie A games in the 2026/27 season, as England and Scotland talent flocks to Italy",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "bbc-to-air-38-serie-a-games-in-the-2026-27-season-as-england-and-scotland-talent-flocks-to"
-    },
-    {
-      "published_at": "2026-08-19T14:04:45+00:00",
-      "updated_at": "2026-08-19T14:04:45+00:00",
-      "title": "Ederson: ‘I honestly don’t know about Manchester United, but Atalanta wanted me’",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Premier League",
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "ederson-i-honestly-don-t-know-about-manchester-united-but-atalanta-wanted-me"
-    },
-    {
-      "published_at": "2026-08-22T20:20:00+00:00",
-      "updated_at": "2026-08-22T20:20:00+00:00",
-      "title": "Hits and misses: Man Utd lack guts and fight, but can Leeds dare to dream?",
-      "summary": "Sky Sports football writers analyse Saturdays action as Manchester United and Tottenham suffer damaging defeats on the opening weekend; Arsenal look like the team to beat while Leeds, Everton and Ipswich Town pick up vital wins",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-premier-league-hits-and-misses_7328560.jpg?20260822183501",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13575708/man-utd-lack-guts-and-fight-leeds-have-a-right-to-dream-and-arsenal-have-rejuvenated-attack-premier-league-hits-and-misses"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13575708/man-utd-lack-guts-and-fight-leeds-have-a-right-to-dream-and-arsenal-have-rejuvenated-attack-premier-league-hits-and-misses"
-      },
-      "confirmed_by": [],
-      "id": "hits-and-misses-man-utd-lack-guts-and-fight-but-can-leeds-dare-to-dream"
     }
   ]
 }
