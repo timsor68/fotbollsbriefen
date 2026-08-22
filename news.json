@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T03:41:58.603695+00:00",
+  "updated_at": "2026-08-22T04:33:25.846479+00:00",
   "items": [
     {
       "published_at": "2026-08-21T21:23:29+00:00",
@@ -59,7 +59,7 @@
       "entity": "mikel-arteta",
       "entity_type": "coaches",
       "club": "arsenal",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/3669/live/490c4210-9da9-11f1-aed2-8d6da8d75094.jpg",
+      "image": "",
       "sources": [
         {
           "name": "BBC Sport",
@@ -277,7 +277,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "arsenal",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/6841/live/317c58f0-9daa-11f1-b109-879e35c24276.jpg",
+      "image": "",
       "sources": [
         {
           "name": "BBC Sport",
@@ -1818,33 +1818,6 @@
       "id": "klart-mj-llby-v-rvar-sandberg"
     },
     {
-      "published_at": "2026-08-21T13:30:00+00:00",
-      "updated_at": "2026-08-21T13:30:00+00:00",
-      "title": "Klart: Oddevold värvar Rudi Vikström",
-      "summary": "Klart: Oddevold värvar Rudi Vikström Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "klart-oddevold-v-rvar-rudi-vikstr-m"
-    },
-    {
       "published_at": "2026-08-21T13:19:00+00:00",
       "updated_at": "2026-08-21T13:19:00+00:00",
       "title": "Klart: Thomas Partey till Al Shabab",
@@ -1870,6 +1843,33 @@
       },
       "confirmed_by": [],
       "id": "klart-thomas-partey-till-al-shabab"
+    },
+    {
+      "published_at": "2026-08-21T13:01:44+00:00",
+      "updated_at": "2026-08-21T13:01:44+00:00",
+      "title": "Var går gränsen för \"bomb squads\"?",
+      "summary": "Var går gränsen för \"bomb squads\"? Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "var-g-r-gr-nsen-f-r-bomb-squads"
     },
     {
       "published_at": "2026-08-21T19:24:47+00:00",
