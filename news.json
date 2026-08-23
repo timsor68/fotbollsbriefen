@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T07:33:23.089430+00:00",
+  "updated_at": "2026-08-23T08:30:39.773577+00:00",
   "items": [
     {
       "published_at": "2026-08-22T21:30:32+00:00",
@@ -616,6 +616,34 @@
       "id": "depay-f-rl-nger-med-corinthians-allt-r-klart"
     },
     {
+      "published_at": "2026-08-16T18:31:00+00:00",
+      "updated_at": "2026-08-16T18:31:00+00:00",
+      "title": "Uppgifter: Rodri klar för Barcelona",
+      "summary": "Uppgifter: Rodri klar för Barcelona Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "La Liga"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "barcelona",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-rodri-klar-f-r-barcelona"
+    },
+    {
       "published_at": "2026-08-22T18:40:35+00:00",
       "updated_at": "2026-08-22T18:40:35+00:00",
       "title": "Kayode seals emphatic Brentford victory in wake-up call for sorry Spurs",
@@ -1091,6 +1119,33 @@
       "id": "european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-mo"
     },
     {
+      "published_at": "2026-08-21T21:15:46+00:00",
+      "updated_at": "2026-08-21T21:15:46+00:00",
+      "title": "Marseille secure 4-0 win over Strasbourg as Ligue 1 gets under way",
+      "summary": "Read the full report at Reuters.",
+      "category": [
+        "Ligue 1"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Reuters",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "marseille-secure-4-0-win-over-strasbourg-as-ligue-1-gets-under-way"
+    },
+    {
       "published_at": "2026-08-20T09:15:43+00:00",
       "updated_at": "2026-08-20T09:15:43+00:00",
       "title": "PSG heavily fancied to win sixth successive Ligue 1 title",
@@ -1116,42 +1171,6 @@
       },
       "confirmed_by": [],
       "id": "psg-heavily-fancied-to-win-sixth-successive-ligue-1-title"
-    },
-    {
-      "published_at": "2026-08-16T10:27:00+00:00",
-      "updated_at": "2026-08-16T10:27:00+00:00",
-      "title": "Uppgifter: Njie överens med Salzburg",
-      "summary": "AIK är på väg att slå transferrekord. Enligt Expressens uppgifter är de överens med Lucas Assadi om de personliga villkoren och bara detaljer återstår mellan AIK och Universidad de Chile om 22-åringens övergång",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/uppgifter-aik-overens-med-lucas-assadi-blir-rekordvarvning-699418"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/uppgifter-aik-overens-med-lucas-assadi-blir-rekordvarvning-699418"
-        }
-      ],
-      "id": "uppgifter-njie-verens-med-salzburg"
     },
     {
       "published_at": "2026-08-23T06:56:00+00:00",
@@ -1494,7 +1513,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "tottenham",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-tottenham-spurs-sandro-tonali_7328773.jpg?20260822221504",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-tottenham-brentford_7328911.jpg?20260823085335",
       "sources": [
         {
           "name": "Sky Sports",
@@ -1591,12 +1610,13 @@
       "id": "early-goal-of-season-contender-ballard-s-backheel-screamer"
     },
     {
-      "published_at": "2026-08-23T01:25:16+00:00",
-      "updated_at": "2026-08-23T01:25:16+00:00",
-      "title": "Shonan Bellmare - Kawasaki Frontale, 23 september kl. 12:00",
-      "summary": "Tokyo Verdy - Kawasaki Frontale, 9 augusti kl. 11:00 Fotbollskanalen",
+      "published_at": "2026-08-22T21:45:00+00:00",
+      "updated_at": "2026-08-22T21:45:00+00:00",
+      "title": "Uppgifter: Mateta i kontraktstvist med Crystal Palace",
+      "summary": "Read the full report at Fotbollskanalen.",
       "category": [
-        "Sverige"
+        "Sverige",
+        "Premier League"
       ],
       "status": "Reported",
       "entity": "",
@@ -1615,7 +1635,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "shonan-bellmare-kawasaki-frontale-23-september-kl-12-00"
+      "id": "uppgifter-mateta-i-kontraktstvist-med-crystal-palace"
     },
     {
       "published_at": "2026-08-22T21:28:00+00:00",
@@ -1673,6 +1693,33 @@
       "id": "bergvall-f-r-l-ga-omd-men-de-zerbi-visste-att-han-kunde-bli-lidande"
     },
     {
+      "published_at": "2026-08-22T19:08:00+00:00",
+      "updated_at": "2026-08-22T19:08:00+00:00",
+      "title": "Uppgifter: IFK Göteborgs Braut-affär blir inte av",
+      "summary": "Uppgifter: IFK Göteborgs Braut-affär blir inte av Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-ifk-g-teborgs-braut-aff-r-blir-inte-av"
+    },
+    {
       "published_at": "2026-08-22T17:44:00+00:00",
       "updated_at": "2026-08-22T17:44:00+00:00",
       "title": "Uppgifter: Hull vill låna Essugo",
@@ -1700,33 +1747,6 @@
       "id": "uppgifter-hull-vill-l-na-essugo"
     },
     {
-      "published_at": "2026-08-22T15:43:00+00:00",
-      "updated_at": "2026-08-22T15:43:00+00:00",
-      "title": "Kryss i Skånederbyt - Rosengård kvar under strecket",
-      "summary": "Kryss i Skånederbyt - Rosengård kvar under strecket Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "kryss-i-sk-nederbyt-roseng-rd-kvar-under-strecket"
-    },
-    {
       "published_at": "2026-08-23T07:00:26+00:00",
       "updated_at": "2026-08-23T07:00:26+00:00",
       "title": "Lincoln spirits soar despite defeat on second-tier return 65 years in the making",
@@ -1752,6 +1772,33 @@
       },
       "confirmed_by": [],
       "id": "lincoln-spirits-soar-despite-defeat-on-second-tier-return-65-years-in-the-making"
+    },
+    {
+      "published_at": "2026-08-23T08:19:39+00:00",
+      "updated_at": "2026-08-23T08:19:39+00:00",
+      "title": "Inför El Västico",
+      "summary": "Två lag på olika delar av tabellen, men placeringar spelar sällan roll i El Västico, en stenhård kamp är att vänta",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2052913.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/infor-el-vastico-699559"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/infor-el-vastico-699559"
+      },
+      "confirmed_by": [],
+      "id": "inf-r-el-v-stico"
     },
     {
       "published_at": "2026-08-23T06:00:00+00:00",
@@ -1914,33 +1961,6 @@
       },
       "confirmed_by": [],
       "id": "kritiken-mot-bergvall-och-spurs-k-mpa-tminstone"
-    },
-    {
-      "published_at": "2026-08-22T16:41:33+00:00",
-      "updated_at": "2026-08-22T16:41:33+00:00",
-      "title": "Vi spelar andrafiolen, det ger inga poäng",
-      "summary": "24 sekunder senare ligger bollen i vårt mål. Vi kvitterar men släpps aldrig in i matchen på allvar. Kassaskåpssäker trepoängare för kvaljagande Hanviken trots ”bara” 3-1 på tavlan",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/BLurn7G5T9Yd6Jn25b146cgt8BE1yKgKVJdyuf8N.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/vi-spelar-andrafiolen-det-ger-inga-poang-699533"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/vi-spelar-andrafiolen-det-ger-inga-poang-699533"
-      },
-      "confirmed_by": [],
-      "id": "vi-spelar-andrafiolen-det-ger-inga-po-ng"
     },
     {
       "published_at": "2026-08-22T20:46:21+00:00",
