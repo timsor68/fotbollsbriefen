@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T20:30:46.495949+00:00",
+  "updated_at": "2026-08-24T21:29:48.028306+00:00",
   "items": [
     {
       "published_at": "2026-08-24T19:27:47+00:00",
@@ -64,10 +64,6 @@
           "url": "https://www.bbc.co.uk/sport/football/videos/c78g8y8vxpmo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        },
-        {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/football/2026/aug/23/unai-emery-feels-ollie-watkins-should-explain-absence-from-aston-villa-loss-brighton"
         }
@@ -78,10 +74,6 @@
         "url": "https://www.bbc.co.uk/sport/football/videos/c78g8y8vxpmo?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        },
         {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/football/2026/aug/23/unai-emery-feels-ollie-watkins-should-explain-absence-from-aston-villa-loss-brighton"
@@ -383,6 +375,42 @@
       "id": "i-m-quicker-stronger-after-loan-spell-lopez"
     },
     {
+      "published_at": "2026-08-24T21:05:48+00:00",
+      "updated_at": "2026-08-24T21:05:48+00:00",
+      "title": "Chelsea’s front three dazzle as they edge out Fulham in derby thriller",
+      "summary": "This was a crash course for Xabi Alonso in life at Chelsea. His new side thrilled in possession at Craven Cottage. The front three of João Pedro, Cole Palmer and Morgan Rogers combined to devastating effect and there was even an assist for the new £52m centre-back, Maxence Lacroix.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-cole-palmer-morgan-rogers_7330427.jpg?20260824220513",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/fulham-vs-chelsea/report/559453"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/24/fulham-chelsea-premier-league-match-report"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/fulham-vs-chelsea/report/559453"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/24/fulham-chelsea-premier-league-match-report"
+        }
+      ],
+      "id": "chelsea-s-front-three-dazzle-as-they-edge-out-fulham-in-derby-thriller"
+    },
+    {
       "published_at": "2026-08-24T21:00:00+00:00",
       "updated_at": "2026-08-24T21:00:00+00:00",
       "title": "Wirtz and a worst-ever transfer window? Carra's damning Liverpool verdict",
@@ -438,32 +466,40 @@
       "id": "don-t-see-where-he-fits-in-carra-calls-for-wirtz-midfield-replacement"
     },
     {
-      "published_at": "2026-08-23T16:46:00+00:00",
-      "updated_at": "2026-08-23T16:46:00+00:00",
-      "title": "'Ask him' - Emery cryptic on Watkins amid transfer interest",
-      "summary": "Unai Emery gave a coy and cryptic response to questions about Ollie Watkins' absence from Aston Villa's squad for their Premier League defeat at Brighton",
+      "published_at": "2026-08-21T21:15:46+00:00",
+      "updated_at": "2026-08-21T21:15:46+00:00",
+      "title": "Marseille secure 4-0 win over Strasbourg as Ligue 1 gets under way",
+      "summary": "Read the full report at Reuters.",
       "category": [
-        "Serie A",
-        "Transfer"
+        "Ligue 1"
       ],
-      "status": "Reported",
+      "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-emery-watkins-aston_7329317.jpg?20260823165701",
+      "image": "",
       "sources": [
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13576353/ollie-watkins-transfer-news-aston-villa-boss-unai-emery-gives-cryptic-answer-when-asked-about-striker-amid-al-hilal-interest"
+          "name": "Reuters",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "BBC Sport",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ya2ZzOVhsWHdhWjhWT24wMXVoWjdmNXZULVYwT2ZvbVY5VEZjMVBhWU1KUXpHZUFRU2VxZjFhczgyOHk3WXZkRTAxNHNBbnJqRHZaV3pRODdfWVJURUxCYnU1MVNiUQ?oc=5"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13576353/ollie-watkins-transfer-news-aston-villa-boss-unai-emery-gives-cryptic-answer-when-asked-about-striker-amid-al-hilal-interest"
+        "name": "Reuters",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
-      "confirmed_by": [],
-      "id": "ask-him-emery-cryptic-on-watkins-amid-transfer-interest"
+      "confirmed_by": [
+        {
+          "name": "BBC Sport",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ya2ZzOVhsWHdhWjhWT24wMXVoWjdmNXZULVYwT2ZvbVY5VEZjMVBhWU1KUXpHZUFRU2VxZjFhczgyOHk3WXZkRTAxNHNBbnJqRHZaV3pRODdfWVJURUxCYnU1MVNiUQ?oc=5"
+        }
+      ],
+      "id": "marseille-secure-4-0-win-over-strasbourg-as-ligue-1-gets-under-way"
     },
     {
       "published_at": "2026-08-24T15:50:00+00:00",
@@ -1111,6 +1147,33 @@
       "id": "simonelli-serie-a-clubs-wanted-conte-as-italy-coach-but-will-support-mancini"
     },
     {
+      "published_at": "2026-08-22T17:51:50+00:00",
+      "updated_at": "2026-08-22T17:51:50+00:00",
+      "title": "Genoa vs. Napoli: Serie A official Week 1 line-ups",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "genoa-vs-napoli-serie-a-official-week-1-line-ups"
+    },
+    {
       "published_at": "2026-08-21T13:40:29+00:00",
       "updated_at": "2026-08-21T13:40:29+00:00",
       "title": "Report Perin on verge of Palermo move, can help Juventus sign Kessie",
@@ -1176,33 +1239,6 @@
         }
       ],
       "id": "european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-mo"
-    },
-    {
-      "published_at": "2026-08-21T21:15:46+00:00",
-      "updated_at": "2026-08-21T21:15:46+00:00",
-      "title": "Marseille secure 4-0 win over Strasbourg as Ligue 1 gets under way",
-      "summary": "Read the full report at Reuters.",
-      "category": [
-        "Ligue 1"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Reuters",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "marseille-secure-4-0-win-over-strasbourg-as-ligue-1-gets-under-way"
     },
     {
       "published_at": "2026-08-24T20:07:29+00:00",
@@ -1559,59 +1595,31 @@
       "id": "liverpool-latest-carragher-and-neville-on-essential-transfer-signing"
     },
     {
-      "published_at": "2026-08-24T12:37:00+00:00",
-      "updated_at": "2026-08-24T12:37:00+00:00",
-      "title": "Newcastle latest: Injured Burn out until international break",
-      "summary": "Newcastle transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "published_at": "2026-08-24T21:50:00+00:00",
+      "updated_at": "2026-08-24T21:50:00+00:00",
+      "title": "Man City interested in Gakpo",
+      "summary": "Manchester City are interested in signing Tottenham target Cody Gakpo from Liverpool",
       "category": [
-        "Premier League",
         "Serie A"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-premier-league-matthias-jaissle_7312588.jpg?20260803082043",
+      "club": "manchester-city",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-cody-gakpo-liverpool_7330422.jpg?20260824214554",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "url": "https://www.skysports.com/football/news/11095/13576800/cody-gakpo-transfer-news-man-city-interested-in-signing-tottenham-target-from-liverpool-but-reds-dont-want-to-sell"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "url": "https://www.skysports.com/football/news/11095/13576800/cody-gakpo-transfer-news-man-city-interested-in-signing-tottenham-target-from-liverpool-but-reds-dont-want-to-sell"
       },
       "confirmed_by": [],
-      "id": "newcastle-latest-injured-burn-out-until-international-break"
-    },
-    {
-      "published_at": "2026-08-24T16:00:00+00:00",
-      "updated_at": "2026-08-24T16:00:00+00:00",
-      "title": "When are the Europa and Conference League draws and how do they work?",
-      "summary": "The Europa League and Conference League league phase draws will see British clubs - including Bournemouth, Sunderland, Crystal Palace - discover their opponents",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-europa-league-draw_7330158.jpg?20260824160756",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13576627/europa-league-and-conference-league-group-stage-draws-british-clubs-including-bournemouth-sunderland-crystal-palace-to-discover-opponents"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13576627/europa-league-and-conference-league-group-stage-draws-british-clubs-including-bournemouth-sunderland-crystal-palace-to-discover-opponents"
-      },
-      "confirmed_by": [],
-      "id": "when-are-the-europa-and-conference-league-draws-and-how-do-they-work"
+      "id": "man-city-interested-in-gakpo"
     },
     {
       "published_at": "2026-08-24T15:28:00+00:00",
@@ -1639,6 +1647,33 @@
       },
       "confirmed_by": [],
       "id": "don-t-panic-why-man-utd-and-carrick-get-a-pass-after-flat-hull-defeat"
+    },
+    {
+      "published_at": "2026-08-24T07:00:00+00:00",
+      "updated_at": "2026-08-24T07:00:00+00:00",
+      "title": "Nev on title race: Liverpool, Man City nowhere near levels required",
+      "summary": "Liverpool and Manchester City are well below the level required to win the Premier League title this season, says Sky Sports pundit Gary Neville",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-virgil-van-dijk-erling-haaland_7329835.jpg?20260824093834",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13576438/premier-league-title-race-liverpool-and-man-city-nowhere-near-arsenals-level-says-gary-neville"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13576438/premier-league-title-race-liverpool-and-man-city-nowhere-near-arsenals-level-says-gary-neville"
+      },
+      "confirmed_by": [],
+      "id": "nev-on-title-race-liverpool-man-city-nowhere-near-levels-required"
     },
     {
       "published_at": "2026-08-24T17:19:39+00:00",
@@ -1752,8 +1787,8 @@
       "id": "uppgifter-newcastle-jagar-matias-fernandez-pardo"
     },
     {
-      "published_at": "2026-08-24T14:12:00+00:00",
-      "updated_at": "2026-08-24T14:12:00+00:00",
+      "published_at": "2026-08-24T14:13:50+00:00",
+      "updated_at": "2026-08-24T14:13:50+00:00",
       "title": "Beskedet: Gavi tillbaka snart",
       "summary": "Beskedet: Gavi tillbaka snart Fotbollskanalen",
       "category": [
@@ -1996,33 +2031,6 @@
       "id": "granada-vs-mallorca-24-aug-2026-live-score"
     },
     {
-      "published_at": "2026-08-24T14:28:11+00:00",
-      "updated_at": "2026-08-24T14:28:11+00:00",
-      "title": "Top 10 Serie A performers in Week 1 so far: Milan, Inter and Napoli stars lead the way",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "top-10-serie-a-performers-in-week-1-so-far-milan-inter-and-napoli-stars-lead-the-way"
-    },
-    {
       "published_at": "2026-08-24T14:00:15+00:00",
       "updated_at": "2026-08-24T14:00:15+00:00",
       "title": "Top 10 Italy players in Serie A Week 1 so far: Vergara, Esposito and Cisse star",
@@ -2104,9 +2112,9 @@
       "id": "serie-a-atalanta-2-1-sassuolo-dea-get-first-success-under-sarri"
     },
     {
-      "published_at": "2026-08-23T18:29:22+00:00",
-      "updated_at": "2026-08-23T18:29:22+00:00",
-      "title": "Serie A | Venezia 0-2 Lecce: Early upset in relegation battle",
+      "published_at": "2026-08-23T18:34:26+00:00",
+      "updated_at": "2026-08-23T18:34:26+00:00",
+      "title": "Serie A | Frosinone 0-1 Juventus: Bremer and woodwork secure victory",
       "summary": "Read the full report at Football Italia.",
       "category": [
         "Serie A"
@@ -2128,7 +2136,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "serie-a-venezia-0-2-lecce-early-upset-in-relegation-battle"
+      "id": "serie-a-frosinone-0-1-juventus-bremer-and-woodwork-secure-victory"
     }
   ]
 }
