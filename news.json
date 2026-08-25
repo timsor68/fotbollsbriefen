@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-08-25T13:51:05.531941+00:00",
+  "updated_at": "2026-08-25T14:46:30.874417+00:00",
   "items": [
+    {
+      "published_at": "2026-08-25T13:57:46+00:00",
+      "updated_at": "2026-08-25T13:57:46+00:00",
+      "title": "All the best Savinho - welcome Savio... new club, new name for Spurs signing",
+      "summary": "Tottenham sign Brazil winger Savinho from Manchester City for an initial £75m - and he reverts to being called Savio",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f37b/live/af288520-a067-11f1-ab4b-e3f95ee34b2e.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cy7z637nj8jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13575398/savio-transfer-news-tottenham-sign-winger-from-manchester-city-in-85m-deal"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cy7z637nj8jo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13575398/savio-transfer-news-tottenham-sign-winger-from-manchester-city-in-85m-deal"
+        }
+      ],
+      "id": "all-the-best-savinho-welcome-savio-new-club-new-name-for-spurs-signing"
+    },
     {
       "published_at": "2026-08-25T08:40:20+00:00",
       "updated_at": "2026-08-25T08:40:20+00:00",
@@ -174,34 +210,6 @@
       },
       "confirmed_by": [],
       "id": "i-felt-the-club-s-desire-to-have-me-here-di-gregorio-joins-cherries-on-loan"
-    },
-    {
-      "published_at": "2026-08-25T09:14:39+00:00",
-      "updated_at": "2026-08-25T09:14:39+00:00",
-      "title": "Tottenham sign Savinho from Man City for £75m",
-      "summary": "Tottenham sign Brazil winger Savinho from Manchester City for an initial £75m",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f37b/live/af288520-a067-11f1-ab4b-e3f95ee34b2e.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cy7z637nj8jo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cy7z637nj8jo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "tottenham-sign-savinho-from-man-city-for-75m"
     },
     {
       "published_at": "2026-08-24T22:27:20+00:00",
@@ -383,33 +391,6 @@
         }
       ],
       "id": "juventus-lose-yildiz-to-injury-after-first-serie-a-run-out-of-2026-27-surgery-risk"
-    },
-    {
-      "published_at": "2026-08-25T10:06:00+00:00",
-      "updated_at": "2026-08-25T10:06:00+00:00",
-      "title": "Savinho changes name to Savio as he joins Spurs for £85m",
-      "summary": "Tottenham have confirmed the signing of winger Savio from Manchester City in an £85m deal",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-savio-transfer-premier-league_7330658.jpg?20260825102114",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13575398/savio-transfer-news-tottenham-sign-winger-from-manchester-city-in-85m-deal"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13575398/savio-transfer-news-tottenham-sign-winger-from-manchester-city-in-85m-deal"
-      },
-      "confirmed_by": [],
-      "id": "savinho-changes-name-to-savio-as-he-joins-spurs-for-85m"
     },
     {
       "published_at": "2026-08-24T21:00:00+00:00",
@@ -1514,6 +1495,33 @@
       "id": "bp-f-llde-formstarka-degerfors-efter-sena-m-l"
     },
     {
+      "published_at": "2026-08-19T04:20:02+00:00",
+      "updated_at": "2026-08-19T04:20:02+00:00",
+      "title": "How Ferran Torres’ quixotic World Cup-winning summer led to his Barcelona exit",
+      "summary": "Read the full report at The Athletic.",
+      "category": [
+        "La Liga"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "barcelona",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "how-ferran-torres-quixotic-world-cup-winning-summer-led-to-his-barcelona-exit"
+    },
+    {
       "published_at": "2026-08-25T14:29:00+00:00",
       "updated_at": "2026-08-25T14:29:00+00:00",
       "title": "What is the reality of Villa's finances ahead of Deadline Day?",
@@ -1676,6 +1684,60 @@
       "id": "champions-relegated-one-to-watch-carra-and-neville-s-season-predictions"
     },
     {
+      "published_at": "2026-08-24T22:43:00+00:00",
+      "updated_at": "2026-08-24T22:43:00+00:00",
+      "title": "Palmer's back, an electric attack - but Chelsea's goalkeeper problem remains",
+      "summary": "Cole Palmer looked like Cole Palmer again but Chelsea's progress this season will be hampered by sticking with Robert Sanchez in goal, argued Jamie Carragher",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-cole-palmer-morgan-rogers_7330474.jpg?20260824231240",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13576819/cole-palmers-back-an-electric-chelsea-attack-but-goalkeeper-problem-remains-after-opening-premier-league-win-at-fulham"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13576819/cole-palmers-back-an-electric-chelsea-attack-but-goalkeeper-problem-remains-after-opening-premier-league-win-at-fulham"
+      },
+      "confirmed_by": [],
+      "id": "palmer-s-back-an-electric-attack-but-chelsea-s-goalkeeper-problem-remains"
+    },
+    {
+      "published_at": "2026-08-25T14:07:00+00:00",
+      "updated_at": "2026-08-25T14:07:00+00:00",
+      "title": "Uppgifter: Brentford nära att värva Diouf",
+      "summary": "Uppgifter: Landskrona nära att värva Arabaci Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-brentford-n-ra-att-v-rva-diouf"
+    },
+    {
       "published_at": "2026-08-25T12:06:00+00:00",
       "updated_at": "2026-08-25T12:06:00+00:00",
       "title": "Uppgifter: Villa har fått Mateta-bud nobbat",
@@ -1701,6 +1763,33 @@
       },
       "confirmed_by": [],
       "id": "uppgifter-villa-har-f-tt-mateta-bud-nobbat"
+    },
+    {
+      "published_at": "2026-08-25T11:36:54+00:00",
+      "updated_at": "2026-08-25T11:36:54+00:00",
+      "title": "Huesca - Granada, 21 februari kl. 18:30",
+      "summary": "Sporting Gijón - Granada, 19 mars kl. 18:30 Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "huesca-granada-21-februari-kl-18-30"
     },
     {
       "published_at": "2026-08-25T10:00:12+00:00",
@@ -1785,60 +1874,31 @@
       "id": "uppgifter-is-har-nobbat-flera-laturnus-bud"
     },
     {
-      "published_at": "2026-08-25T05:52:00+00:00",
-      "updated_at": "2026-08-25T05:52:00+00:00",
-      "title": "Uppgifter: Premier League-intresse för Sanches",
-      "summary": "Uppgifter: Franskt intresse för Cajuste Fotbollskanalen",
+      "published_at": "2026-08-25T14:33:22+00:00",
+      "updated_at": "2026-08-25T14:33:22+00:00",
+      "title": "AIK:s Q2-rapport 2026: Vindarna har vänt",
+      "summary": "Avgående VD Fredrik Söderberg kunde äntligen få presentera glädjande siffror för AIK. Zadok Yohanna är en stor del av förklaringen - men det finns anledningar att hålla fötterna på jorden",
       "category": [
-        "Sverige",
-        "Premier League"
+        "Sverige"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/znudWKG2qQ49thgEB12DCwRasJcLmFqI3gKbuatd.jpg",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/aiks-q2-rapport-2026-vindarna-har-vant-699673"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/aiks-q2-rapport-2026-vindarna-har-vant-699673"
       },
       "confirmed_by": [],
-      "id": "uppgifter-premier-league-intresse-f-r-sanches"
-    },
-    {
-      "published_at": "2026-08-25T05:19:00+00:00",
-      "updated_at": "2026-08-25T05:19:00+00:00",
-      "title": "Uppgifter: Arsenals prislapp på Lewis-Skelly",
-      "summary": "Uppgifter: Arsenals prislapp på Lewis-Skelly Fotbollskanalen",
-      "category": [
-        "Sverige",
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-arsenals-prislapp-p-lewis-skelly"
+      "id": "aik-s-q2-rapport-2026-vindarna-har-v-nt"
     },
     {
       "published_at": "2026-08-25T13:27:53+00:00",
@@ -1866,33 +1926,6 @@
       },
       "confirmed_by": [],
       "id": "bilder-fr-n-djurg-rdsmatchen-peter"
-    },
-    {
-      "published_at": "2026-08-25T13:05:00+00:00",
-      "updated_at": "2026-08-25T13:05:00+00:00",
-      "title": "Bildspecial efter förlusten mot Djurgården",
-      "summary": "Malmö FF förlorade mot Djurgården under måndagen. Här kommer en bildspecial ifrån matchen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/dswDoWx1CToqX5afFZZ8dyfmROgs3mYlHDT5Hz5V.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/bildspecial-efter-forlusten-mot-djurgarden-699666"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/bildspecial-efter-forlusten-mot-djurgarden-699666"
-      },
-      "confirmed_by": [],
-      "id": "bildspecial-efter-f-rlusten-mot-djurg-rden"
     },
     {
       "published_at": "2026-08-20T08:11:17+00:00",
