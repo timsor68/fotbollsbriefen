@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T21:28:59.799694+00:00",
+  "updated_at": "2026-08-25T22:27:59.276271+00:00",
   "items": [
     {
       "published_at": "2026-08-25T18:06:53+00:00",
@@ -82,6 +82,43 @@
         }
       ],
       "id": "what-does-your-premier-league-club-still-need-in-the-transfer-window"
+    },
+    {
+      "published_at": "2026-08-25T19:00:00+00:00",
+      "updated_at": "2026-08-25T19:00:00+00:00",
+      "title": "Alvarez left with two options: Atletico or Arsenal",
+      "summary": "Julian Alvarez must take one of two paths before the transfer deadline: stay at Atletico Madrid and try to rebuild his connection with the fans or get his head around a potential move to Arsenal",
+      "category": [
+        "Premier League",
+        "La Liga"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13576975/julian-alvarez-transfer-latest-atletico-standing-firm-on-barcelona-as-arsenal-become-only-get-out-for-argentine-striker"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13576975/julian-alvarez-transfer-latest-atletico-standing-firm-on-barcelona-as-arsenal-become-only-get-out-for-argentine-striker"
+        }
+      ],
+      "id": "alvarez-left-with-two-options-atletico-or-arsenal"
     },
     {
       "published_at": "2026-08-25T16:18:23+00:00",
@@ -301,41 +338,69 @@
       "id": "al-hilal-in-advanced-talks-to-sign-arsenal-s-martinelli"
     },
     {
-      "published_at": "2026-08-25T15:58:29+00:00",
-      "updated_at": "2026-08-25T15:58:29+00:00",
-      "title": "Manchester United confirm Carlos Baleba signing as midfield spend nears £150m",
-      "summary": "Cameroon international joins from Brighton He says United are the ‘club of my dreams’ Manchester United have completed the signing of the Brighton midfielder Carlos Baleba in a deal worth up to £70m. The Cameroon international is the third midfielder to join this summer, after Andrey Santos and Youri Tielemans. Baleba has signed a five-year contract with the option to extend for 12 months after United agreed a £65m deal plus £5m in add-ons and a sell-on with Brighton.",
+      "published_at": "2026-08-25T21:59:40+00:00",
+      "updated_at": "2026-08-25T21:59:40+00:00",
+      "title": "Adama Traore finalising free transfer to La Liga side Deportivo A Coruna after West Ham exit",
+      "summary": "Read the full report at The Athletic.",
       "category": [
         "Premier League",
+        "La Liga",
         "Transfer"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Highly credible",
       "entity": "",
       "entity_type": "players",
-      "club": "manchester-united",
+      "club": "",
       "image": "",
       "sources": [
         {
-          "name": "Fotbollskanalen",
+          "name": "The Athletic",
           "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/25/manchester-united-sign-carlos-baleba-brighton"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
+        "name": "The Athletic",
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "adama-traore-finalising-free-transfer-to-la-liga-side-deportivo-a-coruna-after-west-ham-ex"
+    },
+    {
+      "published_at": "2026-08-25T20:59:03+00:00",
+      "updated_at": "2026-08-25T20:59:03+00:00",
+      "title": "Victor Torp seals Coventry’s Carabao Cup win at Plymouth in six-goal thriller",
+      "summary": "A midweek trip to Devon always had the makings of a tricky trip for a Coventry team focused on Premier League survival. Such feelings quickly evaporated when Frank Lampard’s side raced into a two-goal lead with just four minutes and six seconds on the clock, Taiwo Awoniyi opening his account for his new club before Jack Rudoni doubled Coventry’s advantage. But, ultimately, Coventry were made to toil before chalking up a welcome first victory of the season.",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-coventry-city_7331340.jpg?20260825220736",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/plymouth-argyle-vs-coventry-city/report/577439"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/25/plymouth-coventry-carabao-cup-match-report"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/plymouth-argyle-vs-coventry-city/report/577439"
       },
       "confirmed_by": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/25/manchester-united-sign-carlos-baleba-brighton"
+          "url": "https://www.theguardian.com/football/2026/aug/25/plymouth-coventry-carabao-cup-match-report"
         }
       ],
-      "id": "manchester-united-confirm-carlos-baleba-signing-as-midfield-spend-nears-150m"
+      "id": "victor-torp-seals-coventry-s-carabao-cup-win-at-plymouth-in-six-goal-thriller"
     },
     {
       "published_at": "2026-08-24T17:46:00+00:00",
@@ -375,32 +440,69 @@
       "id": "juli-n-lvarez-walks-alone-at-atl-tico-in-transfer-saga-with-no-end-and-no-winners-sid-lowe"
     },
     {
-      "published_at": "2026-08-25T19:00:00+00:00",
-      "updated_at": "2026-08-25T19:00:00+00:00",
-      "title": "Alvarez left with two options: Atletico or Arsenal",
-      "summary": "Julian Alvarez must take one of two paths before the transfer deadline: stay at Atletico Madrid and try to rebuild his connection with the fans or get his head around a potential move to Arsenal",
+      "published_at": "2026-08-23T13:48:00+00:00",
+      "updated_at": "2026-08-23T13:48:00+00:00",
+      "title": "Manchester City agree deal worth up to €100m for Lille’s Ayyoub Bouaddi",
+      "summary": "Uppgifter: Manchester City värvar Bouaddi Fotbollskanalen",
       "category": [
         "Premier League",
-        "La Liga"
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRzFIQjFYZWJhM0hQSHNPUVZyQUlqUUNvLUQzN0J2dHRYbjdkMGRVZWp0TkRtVC1TWVpGZ29zUzhaMWlWNXlXRHNXeFpIODhEV2R2U2t2WlY0WHcyakI4bVdxMk5rWllhdzBWWGRnOC1mMUhERjFLdFNfNktfMVpmblRWcV9xR1RBdWZMNkRuTmRtUi1iXzBSYWo2eTcwcHZ4Z1VWdVZxTl8?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRzFIQjFYZWJhM0hQSHNPUVZyQUlqUUNvLUQzN0J2dHRYbjdkMGRVZWp0TkRtVC1TWVpGZ29zUzhaMWlWNXlXRHNXeFpIODhEV2R2U2t2WlY0WHcyakI4bVdxMk5rWllhdzBWWGRnOC1mMUhERjFLdFNfNktfMVpmblRWcV9xR1RBdWZMNkRuTmRtUi1iXzBSYWo2eTcwcHZ4Z1VWdVZxTl8?oc=5"
+        }
+      ],
+      "id": "manchester-city-agree-deal-worth-up-to-100m-for-lille-s-ayyoub-bouaddi"
+    },
+    {
+      "published_at": "2026-08-25T22:51:00+00:00",
+      "updated_at": "2026-08-25T22:51:00+00:00",
+      "title": "Papers: Man City set for late Fernandez move as Chelsea replacement emerges",
+      "summary": "Latest transfer news and headlines include: Aston Villa indicate a willingness to offer Chelsea a £65m package for striker Nicolas Jackson; Ollie Watkins could earn an annual salary of £12m at Al Hilal; Newcastle launch a £35m bid for Lille winger Matias Fernandez-Pardo",
+      "category": [
+        "Premier League",
+        "Transfer"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/26/05/1600x900/skysports-julian-alvarez-atletico-madrid_7261294.jpg?20260529191506",
+      "club": "manchester-city",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13576975/julian-alvarez-transfer-latest-atletico-standing-firm-on-barcelona-as-arsenal-become-only-get-out-for-argentine-striker"
+          "url": "https://www.skysports.com/football/news/11095/13577214/enzo-fernandez-transfer-news-manchester-city-to-make-late-move-for-chelsea-midfielder-paper-talk"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13576975/julian-alvarez-transfer-latest-atletico-standing-firm-on-barcelona-as-arsenal-become-only-get-out-for-argentine-striker"
+        "url": "https://www.skysports.com/football/news/11095/13577214/enzo-fernandez-transfer-news-manchester-city-to-make-late-move-for-chelsea-midfielder-paper-talk"
       },
       "confirmed_by": [],
-      "id": "alvarez-left-with-two-options-atletico-or-arsenal"
+      "id": "papers-man-city-set-for-late-fernandez-move-as-chelsea-replacement-emerges"
     },
     {
       "published_at": "2026-08-25T18:20:00+00:00",
@@ -670,6 +772,34 @@
       "id": "elliot-stroud-fr-n-start-n-r-hull-skr-llde-mot-manchester-united"
     },
     {
+      "published_at": "2026-08-25T15:58:29+00:00",
+      "updated_at": "2026-08-25T15:58:29+00:00",
+      "title": "Manchester United confirm Carlos Baleba signing as midfield spend nears £150m",
+      "summary": "Cameroon international joins from Brighton He says United are the ‘club of my dreams’ Manchester United have completed the signing of the Brighton midfielder Carlos Baleba in a deal worth up to £70m. The Cameroon international is the third midfielder to join this summer, after Andrey Santos and Youri Tielemans. Baleba has signed a five-year contract with the option to extend for 12 months after United agreed a £65m deal plus £5m in add-ons and a sell-on with Brighton.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://i.guim.co.uk/img/media/36a6be20621e4f2e824fd657d00dcec56b14e9b6/643_0_6433_5146/master/6433.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=65cdd73015f231510db2c146c2331f16",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/25/manchester-united-sign-carlos-baleba-brighton"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/25/manchester-united-sign-carlos-baleba-brighton"
+      },
+      "confirmed_by": [],
+      "id": "manchester-united-confirm-carlos-baleba-signing-as-midfield-spend-nears-150m"
+    },
+    {
       "published_at": "2026-08-24T22:33:20+00:00",
       "updated_at": "2026-08-24T22:33:20+00:00",
       "title": "Glaring weakness in goal remains but early signs Xabi Alonso’s Chelsea should be fun | Jonathan Wilson",
@@ -696,33 +826,6 @@
       },
       "confirmed_by": [],
       "id": "glaring-weakness-in-goal-remains-but-early-signs-xabi-alonso-s-chelsea-should-be-fun-jonat"
-    },
-    {
-      "published_at": "2026-08-24T19:30:15+00:00",
-      "updated_at": "2026-08-24T19:30:15+00:00",
-      "title": "Post-Pep Premier League era begins with blast of hyper-managed shock and awe | Barney Ronay",
-      "summary": "Possession numbers, the intense physicality and the pure rhythm of games all felt noticeably new as the season began There has been something oddly narcotic and moreish about the drip‑drip of fresh Pep Guardiola content either side of the start of the new Premier League season. Everything dies, baby, that’s a fact. But four‑part Amazon Prime documentaries make angels of us all.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/38b2aa56f87e9978238263678190165eba62024a/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=736fd53e0f1647d89caf00fd294fe45b",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/24/post-pep-premier-league-era-begins-with-blast-of-hyper-managed-shock-and-awe"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/24/post-pep-premier-league-era-begins-with-blast-of-hyper-managed-shock-and-awe"
-      },
-      "confirmed_by": [],
-      "id": "post-pep-premier-league-era-begins-with-blast-of-hyper-managed-shock-and-awe-barney-ronay"
     },
     {
       "published_at": "2026-08-24T18:19:01+00:00",
@@ -834,34 +937,6 @@
       "id": "ceferin-brands-infantino-s-failed-world-cup-plan-as-even-worse-than-the-super-league"
     },
     {
-      "published_at": "2026-08-23T13:48:00+00:00",
-      "updated_at": "2026-08-23T13:48:00+00:00",
-      "title": "Manchester City agree deal worth up to €100m for Lille’s Ayyoub Bouaddi",
-      "summary": "Read the full report at The Guardian.",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "manchester-city-agree-deal-worth-up-to-100m-for-lille-s-ayyoub-bouaddi"
-    },
-    {
       "published_at": "2026-08-20T07:00:46+00:00",
       "updated_at": "2026-08-20T07:00:46+00:00",
       "title": "Frugal or foolish? Manchester United may regret not backing Carrick",
@@ -914,6 +989,33 @@
       },
       "confirmed_by": [],
       "id": "a-huge-honour-socceroos-world-cup-star-alessandro-circati-seals-move-to-benfica"
+    },
+    {
+      "published_at": "2026-08-19T07:00:08+00:00",
+      "updated_at": "2026-08-19T07:00:08+00:00",
+      "title": "‘This isn’t normal in football’: Xisco, Malaysia and the new Invincibles",
+      "summary": "Royal family-backed Johor Darul Ta’zim are on the verge of a world-record 109 league games unbeaten and their former Watford manager is aiming higher Many Watford fans felt Xisco Muñoz was dismissed too soon after leading them into the Premier League as Championship runners-up in 2021, only to be ousted less than two months into the new season. He is remembered fondly at Vicarage Road, an emblem of the churn-and-burn of the Gino Pozzo era. But unless you continued to follow the Spaniard’s career closely, you would struggle to guess where he manages now.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/f9c960028fa4cd2f70009250de214544263ae7e9/430_0_3743_2995/master/3743.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0a3c47d4b9dc8af54bdbe5d788ffd7e7",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/19/xisco-malaysia-new-invincibles-football-johor-darul-tazim"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/19/xisco-malaysia-new-invincibles-football-johor-darul-tazim"
+      },
+      "confirmed_by": [],
+      "id": "this-isn-t-normal-in-football-xisco-malaysia-and-the-new-invincibles"
     },
     {
       "published_at": "2026-08-25T13:44:00+00:00",
@@ -1079,33 +1181,6 @@
       "id": "sirius-tr-naren-kastar-om-pressen-sk-mmigt-om-hammarby-inte-vinner"
     },
     {
-      "published_at": "2026-08-18T21:51:39+00:00",
-      "updated_at": "2026-08-18T21:51:39+00:00",
-      "title": "Beskedet: ”JKR” har opererats",
-      "summary": "Johanna Rytting Kaneryd är korsbandsskadad igen. Men nu har hon genomgått en operation. ”Tack för all kärlek och styrka”, skriver stjärnan på Instagram",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2096407.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/beskedet-jkr-har-opererats-699348"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/beskedet-jkr-har-opererats-699348"
-      },
-      "confirmed_by": [],
-      "id": "beskedet-jkr-har-opererats"
-    },
-    {
       "published_at": "2026-08-25T08:43:30+00:00",
       "updated_at": "2026-08-25T08:43:30+00:00",
       "title": "Best players of Serie A Round 1: Italy trio joins Dybala and Malen",
@@ -1215,42 +1290,6 @@
       },
       "confirmed_by": [],
       "id": "report-perin-on-verge-of-palermo-move-can-help-juventus-sign-kessie"
-    },
-    {
-      "published_at": "2026-08-25T21:35:00+00:00",
-      "updated_at": "2026-08-25T21:35:00+00:00",
-      "title": "Coventry survive Plymouth scare to progress in Carabao Cup",
-      "summary": "A midweek trip to Devon always had the makings of an awkward trip for a Coventry side focused on Premier League survival. Such feelings evaporated when Frank Lampard’s side raced into a two-goal lead inside five minutes, Taiwo Awoniyi opening his account for his new club before Jack Rudoni added Coventry’s second. But, ultimately, Coventry were made to toil before earning victory.",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-coventry-city_7331340.jpg?20260825220736",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/plymouth-argyle-vs-coventry-city/report/577439"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/25/plymouth-coventry-carabao-cup-match-report"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/plymouth-argyle-vs-coventry-city/report/577439"
-      },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/25/plymouth-coventry-carabao-cup-match-report"
-        }
-      ],
-      "id": "coventry-survive-plymouth-scare-to-progress-in-carabao-cup"
     },
     {
       "published_at": "2026-08-21T21:15:46+00:00",
@@ -1587,34 +1626,6 @@
       "id": "how-ferran-torres-quixotic-world-cup-winning-summer-led-to-his-barcelona-exit"
     },
     {
-      "published_at": "2026-08-25T21:53:00+00:00",
-      "updated_at": "2026-08-25T21:53:00+00:00",
-      "title": "Ipswich latest: Bid made for Leverkusen midfielder",
-      "summary": "Ipswich transfers, latest news, rumours and gossip: Live updates, goals and highlights",
-      "category": [
-        "Bundesliga",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/06/1600x900/skysports-ipswich-town-news_7281011.jpg?20260623154649",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-      },
-      "confirmed_by": [],
-      "id": "ipswich-latest-bid-made-for-leverkusen-midfielder"
-    },
-    {
       "published_at": "2026-08-25T17:21:00+00:00",
       "updated_at": "2026-08-25T17:21:00+00:00",
       "title": "Aston Villa latest: 'Talks begin with Chelsea over £65m Jackson deal'",
@@ -1643,32 +1654,31 @@
       "id": "aston-villa-latest-talks-begin-with-chelsea-over-65m-jackson-deal"
     },
     {
-      "published_at": "2026-08-25T16:15:00+00:00",
-      "updated_at": "2026-08-25T16:15:00+00:00",
-      "title": "Newcastle latest: Gonzalez travelling for medical ahead move from Man City",
-      "summary": "Newcastle transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "published_at": "2026-08-25T12:38:00+00:00",
+      "updated_at": "2026-08-25T12:38:00+00:00",
+      "title": "EFL latest: Birmingham captain & manager apologise to fans after Brentford hammering",
+      "summary": "Championship news, transfer latest and gossip plus EFL updates from League One and League Two",
       "category": [
-        "Premier League",
-        "Transfer"
+        "Coach"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-premier-league-matthias-jaissle_7312588.jpg?20260803082043",
+      "club": "",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-birmingham-city_7331373.jpg?20260825225438",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two"
       },
       "confirmed_by": [],
-      "id": "newcastle-latest-gonzalez-travelling-for-medical-ahead-move-from-man-city"
+      "id": "efl-latest-birmingham-captain-manager-apologise-to-fans-after-brentford-hammering"
     },
     {
       "published_at": "2026-08-25T22:00:00+00:00",
@@ -1727,6 +1737,33 @@
     {
       "published_at": "2026-08-25T21:35:00+00:00",
       "updated_at": "2026-08-25T21:35:00+00:00",
+      "title": "Nunez's halfway stunner helps Ipswich past Leicester",
+      "summary": "Marcelino Nunez scored a sensational goal from the halfway line to help Ipswich claim a hard-fought 3-1 win over Leicester in the Carabao Cup",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-marcelino-nunez_7331324.jpg?20260825220243",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/ipswich-town-vs-leicester-city/report/577431"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/ipswich-town-vs-leicester-city/report/577431"
+      },
+      "confirmed_by": [],
+      "id": "nunez-s-halfway-stunner-helps-ipswich-past-leicester"
+    },
+    {
+      "published_at": "2026-08-25T21:35:00+00:00",
+      "updated_at": "2026-08-25T21:35:00+00:00",
       "title": "Hull require penalties to overcome stubborn Stoke",
       "summary": "Premier League new boys Hull followed up their 2-0 win over Manchester United on Saturday by knocking Stoke out of the Carabao Cup on penalties after a 1-1 draw at the bet365 Stadium",
       "category": [
@@ -1750,6 +1787,60 @@
       },
       "confirmed_by": [],
       "id": "hull-require-penalties-to-overcome-stubborn-stoke"
+    },
+    {
+      "published_at": "2026-08-25T20:05:28+00:00",
+      "updated_at": "2026-08-25T20:05:28+00:00",
+      "title": "Albacete - Granada, 14 januari kl. 18:00",
+      "summary": "Huesca - Granada, 21 februari kl. 18:30 Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "albacete-granada-14-januari-kl-18-00"
+    },
+    {
+      "published_at": "2026-08-25T19:43:28+00:00",
+      "updated_at": "2026-08-25T19:43:28+00:00",
+      "title": "CSKA 1948 - Krumovgrad, 10 december kl. 11:30",
+      "summary": "CSKA 1948 - Krumovgrad, 10 december kl. 11:30 Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "cska-1948-krumovgrad-10-december-kl-11-30"
     },
     {
       "published_at": "2026-08-25T18:11:26+00:00",
@@ -1777,61 +1868,6 @@
       },
       "confirmed_by": [],
       "id": "kawasaki-frontale-jef-united-chiba-29-augusti-kl-12-00"
-    },
-    {
-      "published_at": "2026-08-25T18:02:00+00:00",
-      "updated_at": "2026-08-25T18:02:00+00:00",
-      "title": "Ljungskile sparkar Joakim Jensen",
-      "summary": "Ljungskile sparkar Joakim Jensen Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "ljungskile-sparkar-joakim-jensen"
-    },
-    {
-      "published_at": "2026-08-25T17:16:00+00:00",
-      "updated_at": "2026-08-25T17:16:00+00:00",
-      "title": "Uppgifter: Liam Delap till Nottingham - Chelsea gör vinst",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige",
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-liam-delap-till-nottingham-chelsea-g-r-vinst"
     },
     {
       "published_at": "2026-08-25T21:25:09+00:00",
@@ -1913,6 +1949,33 @@
       },
       "confirmed_by": [],
       "id": "aik-s-q2-rapport-2026-vindarna-har-v-nt"
+    },
+    {
+      "published_at": "2026-08-25T13:27:53+00:00",
+      "updated_at": "2026-08-25T13:27:53+00:00",
+      "title": "Bilder från Djurgårdsmatchen (Peter)",
+      "summary": "En ny hemmaförlust. Men det blev en del bilder ändå",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/6XCZj28rLgvvc48LWLGcmp9vGuBNE1L98KxFNRtN.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/bilder-fran-djurgardsmatchen-peter-699669"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/bilder-fran-djurgardsmatchen-peter-699669"
+      },
+      "confirmed_by": [],
+      "id": "bilder-fr-n-djurg-rdsmatchen-peter"
     },
     {
       "published_at": "2026-08-23T11:06:01+00:00",
@@ -2075,60 +2138,6 @@
       },
       "confirmed_by": [],
       "id": "serie-a-atalanta-2-1-sassuolo-dea-get-first-success-under-sarri"
-    },
-    {
-      "published_at": "2026-08-23T18:34:26+00:00",
-      "updated_at": "2026-08-23T18:34:26+00:00",
-      "title": "Serie A | Frosinone 0-1 Juventus: Bremer and woodwork secure victory",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "serie-a-frosinone-0-1-juventus-bremer-and-woodwork-secure-victory"
-    },
-    {
-      "published_at": "2026-08-22T20:46:21+00:00",
-      "updated_at": "2026-08-22T20:46:21+00:00",
-      "title": "Serie A | Parma 0-1 Cagliari: Romano scorcher to secure success",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "serie-a-parma-0-1-cagliari-romano-scorcher-to-secure-success"
     }
   ]
 }
