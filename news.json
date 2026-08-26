@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-08-26T16:18:12.995992+00:00",
+  "updated_at": "2026-08-26T19:04:06.170654+00:00",
   "items": [
     {
-      "published_at": "2026-08-26T13:45:56+00:00",
-      "updated_at": "2026-08-26T13:45:56+00:00",
-      "title": "Will a Premier League club break record for transfer sales in one window?",
-      "summary": "BBC Sport takes a look at what each of the Premier League clubs still need before the summer transfer window shuts in seven days",
+      "published_at": "2026-08-26T11:54:37+00:00",
+      "updated_at": "2026-08-26T11:54:37+00:00",
+      "title": "Manchester City sign Morocco midfielder Bouaddi from Lille",
+      "summary": "Manchester City complete the signing of Morocco midfielder Ayyoub Bouaddi from Lille in a £85.6m deal on a five-year contract",
       "category": [
         "Premier League",
         "Transfer"
@@ -13,30 +13,120 @@
       "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b41f/live/6abb1df0-a141-11f1-9311-09d4e1fc9016.png",
+      "club": "manchester-city",
+      "image": "",
       "sources": [
         {
+          "name": "Reuters",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ce9ejxvky8vo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8d3jej2lqlo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "The Athletic",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2VjM2IyejV4ZkQ3QXNXY3o0MGVvbnJOTkJLVFlrbm14LWpWMXlZY1dVaEVJaHBUSURMeWtWb3Bja1RvVHE2ZW0xOXNIaW9sYVExTWVmZEtWVG9GSU1SeEFDTFN2SjdrQmpaSW5MRUpuVTdYbmgtNUVZTW0zckpiSkFuUmdXeUtvU3R2SF9ESDZKV200YlJIRG4xSDdBZ0thMUZycQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMW1NRkVhaVYtbkRWeXY1SXM5QTdLZEE3TnZHV2t0Yy1pZ2J5eEtrd1hXSC1oUzl2c3k5WkZnbWw3UFNYLTE1TFdfcF9sM09PN2g2N09GaTJONHh4Smw2eTdsQnNwcDBQMmFKbzZJVUhTZVg1d3pXcUl0Z3lpMGs1cnlCU0t4aFlkOG12VWEtXzVmZw?oc=5"
+        },
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOHFQdS1TVFU5Z2ZsNHQwdFRNWnd4eXpkcWVjZXNkUk9JcExvcV8zZVh1RzAwUzBpVHFzR3NiNVpCOU9STkhLYXk3TUdLQWl4ODZOcTBBMmVKOC11Z25OYnR6VnQ5SkRqbzZOLTV6WXhTcUxVX1NILXNoa2gwdE1ZaXR4ckZlVzc3cVhBWVYwOWRYakh4ZmZoT0k2dw?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Reuters",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8d3jej2lqlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMW1NRkVhaVYtbkRWeXY1SXM5QTdLZEE3TnZHV2t0Yy1pZ2J5eEtrd1hXSC1oUzl2c3k5WkZnbWw3UFNYLTE1TFdfcF9sM09PN2g2N09GaTJONHh4Smw2eTdsQnNwcDBQMmFKbzZJVUhTZVg1d3pXcUl0Z3lpMGs1cnlCU0t4aFlkOG12VWEtXzVmZw?oc=5"
+        },
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOHFQdS1TVFU5Z2ZsNHQwdFRNWnd4eXpkcWVjZXNkUk9JcExvcV8zZVh1RzAwUzBpVHFzR3NiNVpCOU9STkhLYXk3TUdLQWl4ODZOcTBBMmVKOC11Z25OYnR6VnQ5SkRqbzZOLTV6WXhTcUxVX1NILXNoa2gwdE1ZaXR4ckZlVzc3cVhBWVYwOWRYakh4ZmZoT0k2dw?oc=5"
+        }
+      ],
+      "id": "manchester-city-sign-morocco-midfielder-bouaddi-from-lille"
+    },
+    {
+      "published_at": "2026-08-26T18:35:30+00:00",
+      "updated_at": "2026-08-26T18:35:30+00:00",
+      "title": "Newcastle sign Gonzalez from Man City for £52m",
+      "summary": "Newcastle United sign Manchester City midfielder Nico Gonzalez for a fee which could rise to £52m",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a4e9/live/c63e0d70-a17f-11f1-9619-edac4fa7937f.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cx2zlnpnk4zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13577494/x"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ce9ejxvky8vo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2zlnpnk4zo?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
-          "name": "The Athletic",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2VjM2IyejV4ZkQ3QXNXY3o0MGVvbnJOTkJLVFlrbm14LWpWMXlZY1dVaEVJaHBUSURMeWtWb3Bja1RvVHE2ZW0xOXNIaW9sYVExTWVmZEtWVG9GSU1SeEFDTFN2SjdrQmpaSW5MRUpuVTdYbmgtNUVZTW0zckpiSkFuUmdXeUtvU3R2SF9ESDZKV200YlJIRG4xSDdBZ0thMUZycQ?oc=5"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13577494/x"
         }
       ],
-      "id": "will-a-premier-league-club-break-record-for-transfer-sales-in-one-window"
+      "id": "newcastle-sign-gonzalez-from-man-city-for-52m"
+    },
+    {
+      "published_at": "2026-08-26T16:23:04+00:00",
+      "updated_at": "2026-08-26T16:23:04+00:00",
+      "title": "'0% chance' - Atletico hit back at Barca over Alvarez transfer row",
+      "summary": "The noise around Atletico Madrid forward Julian Alvarez refuses to go away - so where are things after a chaotic few days surrounding the in-demand Argentine?",
+      "category": [
+        "La Liga",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dd00/live/65b7e710-a151-11f1-92f3-2381193e5eb4.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c87v0y2x8wro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13577412/julian-alvarez-atletico-madrid-say-theres-zero-per-cent-chance-of-him-joining-barcelona-despite-clubs-plea-as-arsenal-wait-in-wings"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c87v0y2x8wro?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13577412/julian-alvarez-atletico-madrid-say-theres-zero-per-cent-chance-of-him-joining-barcelona-despite-clubs-plea-as-arsenal-wait-in-wings"
+        }
+      ],
+      "id": "0-chance-atletico-hit-back-at-barca-over-alvarez-transfer-row"
     },
     {
       "published_at": "2026-08-26T08:18:41+00:00",
@@ -113,41 +203,58 @@
       "id": "forest-agree-50m-deal-for-chelsea-striker-delap"
     },
     {
-      "published_at": "2026-08-25T19:00:00+00:00",
-      "updated_at": "2026-08-25T19:00:00+00:00",
-      "title": "Alvarez left with two options: Atletico or Arsenal",
-      "summary": "Julian Alvarez must take one of two paths before the transfer deadline: stay at Atletico Madrid and try to rebuild his connection with the fans or get his head around a potential move to Arsenal",
+      "published_at": "2026-08-26T17:16:28+00:00",
+      "updated_at": "2026-08-26T17:16:28+00:00",
+      "title": "Raskin nears exit as Rangers close in on Kim deal",
+      "summary": "Nicolas Raskin could be on his way out of Rangers, having not travelled to Jablonec for the club's Conference League play-off second leg, while the club are close to signing Kim Min-su from Girona",
       "category": [
-        "Premier League",
-        "La Liga"
+        "Transfer"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
-      "club": "arsenal",
-      "image": "",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0727/live/8d4e95b0-a171-11f1-87d4-e91caee13898.jpg",
       "sources": [
         {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13576975/julian-alvarez-transfer-latest-atletico-standing-firm-on-barcelona-as-arsenal-become-only-get-out-for-argentine-striker"
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqjkrg54wwko?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqjkrg54wwko?at_medium=RSS&at_campaign=rss"
       },
-      "confirmed_by": [
+      "confirmed_by": [],
+      "id": "raskin-nears-exit-as-rangers-close-in-on-kim-deal"
+    },
+    {
+      "published_at": "2026-08-26T16:15:50+00:00",
+      "updated_at": "2026-08-26T16:15:50+00:00",
+      "title": "Ebbsfleet's future in doubt as suspension is extended",
+      "summary": "Ebbsfleet United's suspension from the National League is extended, putting the club's future in serious doubt",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e39b/live/63a99b50-a163-11f1-81f3-a1eb67c44aaf.jpg",
+      "sources": [
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13576975/julian-alvarez-transfer-latest-atletico-standing-firm-on-barcelona-as-arsenal-become-only-get-out-for-argentine-striker"
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cd08z41yl39o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "id": "alvarez-left-with-two-options-atletico-or-arsenal"
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cd08z41yl39o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "ebbsfleet-s-future-in-doubt-as-suspension-is-extended"
     },
     {
       "published_at": "2026-08-26T15:42:13+00:00",
@@ -178,33 +285,6 @@
       "id": "liverpool-turn-attention-to-sarr-after-brighton-reject-minteh-bids"
     },
     {
-      "published_at": "2026-08-26T15:32:07+00:00",
-      "updated_at": "2026-08-26T15:32:07+00:00",
-      "title": "Newport sign Dibley-Dias on loan from Fulham",
-      "summary": "Newport County complete their 11th signing of the summer as midfielder Matt Dibley-Dias arrives on loan from Premier League Fulham",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b78f/live/114ecd40-a162-11f1-81f3-a1eb67c44aaf.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c4gr0xdlk8zo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c4gr0xdlk8zo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "newport-sign-dibley-dias-on-loan-from-fulham"
-    },
-    {
       "published_at": "2026-08-26T15:00:52+00:00",
       "updated_at": "2026-08-26T15:00:52+00:00",
       "title": "Coventry sign defender Pinnock from Brentford",
@@ -232,6 +312,34 @@
       "id": "coventry-sign-defender-pinnock-from-brentford"
     },
     {
+      "published_at": "2026-08-26T13:45:56+00:00",
+      "updated_at": "2026-08-26T13:45:56+00:00",
+      "title": "Will a Premier League club break record for transfer sales in one window?",
+      "summary": "BBC Sport takes a look at what each of the Premier League clubs still need before the summer transfer window shuts in seven days",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b41f/live/6abb1df0-a141-11f1-9311-09d4e1fc9016.png",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ce9ejxvky8vo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ce9ejxvky8vo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "will-a-premier-league-club-break-record-for-transfer-sales-in-one-window"
+    },
+    {
       "published_at": "2026-08-26T13:19:46+00:00",
       "updated_at": "2026-08-26T13:19:46+00:00",
       "title": "Nottingham Forest transfer news: Dilane Bakwa joins Lille on season-long loan",
@@ -257,87 +365,6 @@
       },
       "confirmed_by": [],
       "id": "nottingham-forest-transfer-news-dilane-bakwa-joins-lille-on-season-long-loan"
-    },
-    {
-      "published_at": "2026-08-26T12:25:08+00:00",
-      "updated_at": "2026-08-26T12:25:08+00:00",
-      "title": "Wrexham close in on Ekomie and Kabore deals",
-      "summary": "Manchester City's Issa Kabore is poised to seal a permanent switch to Championship club Wrexham, who are also close to signing left-back Jacques Ekomie from French side Angers",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/566b/live/e300f730-a146-11f1-aed2-8d6da8d75094.png",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cn5dr0vyd3ro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cn5dr0vyd3ro?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "wrexham-close-in-on-ekomie-and-kabore-deals"
-    },
-    {
-      "published_at": "2026-08-26T10:30:52+00:00",
-      "updated_at": "2026-08-26T10:30:52+00:00",
-      "title": "Man City complete £86m Bouaddi signing from Lille",
-      "summary": "Manchester City complete the signing of Morocco midfielder Ayyoub Bouaddi from Lille in a £85.6m deal on a five-year contract",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f8b4/live/8c35e240-a13b-11f1-9311-09d4e1fc9016.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c8d3jej2lqlo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c8d3jej2lqlo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "man-city-complete-86m-bouaddi-signing-from-lille"
-    },
-    {
-      "published_at": "2026-08-26T09:55:42+00:00",
-      "updated_at": "2026-08-26T09:55:42+00:00",
-      "title": "Man City to make offer for £120m-rated Fernandez",
-      "summary": "Manchester City are set to make an opening offer for priority midfield target Enzo Fernandez",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/532f/live/e79a2900-a133-11f1-8c37-3f30331ac537.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cgewvygeq8vo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cgewvygeq8vo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "man-city-to-make-offer-for-120m-rated-fernandez"
     },
     {
       "published_at": "2026-08-25T21:59:40+00:00",
@@ -514,6 +541,34 @@
       "id": "man-city-sign-bouaddi-in-record-breaking-deal"
     },
     {
+      "published_at": "2026-08-26T18:25:00+00:00",
+      "updated_at": "2026-08-26T18:25:00+00:00",
+      "title": "Uppgifter: Västerås nära värvning av Risbjerg",
+      "summary": "Uppgifter: Västerås nära värvning av Risbjerg Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-v-ster-s-n-ra-v-rvning-av-risbjerg"
+    },
+    {
       "published_at": "2026-08-25T07:39:00+00:00",
       "updated_at": "2026-08-25T07:39:00+00:00",
       "title": "Burnleys tränare: Möjligt att Ekdal lämnar",
@@ -596,33 +651,6 @@
       "id": "uppgifter-jakirovic-f-rl-nger-kontraktet"
     },
     {
-      "published_at": "2026-08-22T13:35:00+00:00",
-      "updated_at": "2026-08-22T13:35:00+00:00",
-      "title": "Doku skadad - missar premiären",
-      "summary": "Doku skadad - missar premiären Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "doku-skadad-missar-premi-ren"
-    },
-    {
       "published_at": "2026-08-22T08:20:00+00:00",
       "updated_at": "2026-08-22T08:20:00+00:00",
       "title": "Arteta om Alvarez-värvning: \"Nöjd med truppen jag har\"",
@@ -690,7 +718,7 @@
       "published_at": "2026-08-26T15:18:10+00:00",
       "updated_at": "2026-08-26T15:18:10+00:00",
       "title": "Chelsea in talks with Emiliano Martínez’s camp and braced for Enzo Fernández bid",
-      "summary": "Experienced goalkeeper wants to leave Aston Villa Manchester City expected to push for midfielder Chelsea have been offered Emiliano Martínez and are considering making a bid for the goalkeeper. The club are in talks with Martínez’s camp and are braced for a bid from Manchester City for the World Cup winner’s Argentina teammate Enzo Fernández. Martínez has told Aston Villa he wants to leave but a move to Juventus collapsed last week after Villa had signed his replacement, Zion Suzuki , from Parma for £30m.",
+      "summary": "Experienced goalkeeper wants to leave Aston Villa Manchester City expected to push for midfielder Chelsea have been offered Emiliano Martínez and are considering a bid for the goalkeeper. The club are in talks with Martínez’s camp, and are also braced for a bid from Manchester City for the World Cup winner’s Argentina teammate Enzo Fernández. Martínez has told Aston Villa he wants to leave but a move to Juventus collapsed last week after Villa had signed his replacement, Zion Suzuki , from Parma for £30m.",
       "category": [
         "Premier League",
         "Transfer"
@@ -851,34 +879,6 @@
       },
       "confirmed_by": [],
       "id": "liverpool-are-still-haunted-by-the-mess-of-last-summer-jonathan-wilson"
-    },
-    {
-      "published_at": "2026-08-24T11:19:32+00:00",
-      "updated_at": "2026-08-24T11:19:32+00:00",
-      "title": "Amorim’s Milan live up to billing as teenage star Cissè upstages signings | Nicky Bandini",
-      "summary": "Rossoneri overcome fascinating first challenge at Torino as teams across Serie A give homegrown talent a chance “I love Cissè. I love Cissè.” Ruben Amorim had not yet taken charge of his first competitive game as Milan head coach but already he was furnishing journalists with soundbites and supporters with memes, clippable moments that you just knew we were destined to revisit. Alphadjo Cissè is a 19-year-old attacking midfielder who signed for Milan from Verona in February but only joined up with them this summer, after completing the season-long loan he had already begun at Catanzaro in Serie B.",
-      "category": [
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/a9ffa8fc75813a0e547301ab489f26ac56cda988/152_0_4169_3336/master/4169.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9a745ef63a9ae8a72939bd0c3fceabf4",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/24/ruben-amorim-milan-live-up-to-billing-as-teenage-star-alphadjo-cisse-upstages-signings"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/24/ruben-amorim-milan-live-up-to-billing-as-teenage-star-alphadjo-cisse-upstages-signings"
-      },
-      "confirmed_by": [],
-      "id": "amorim-s-milan-live-up-to-billing-as-teenage-star-ciss-upstages-signings-nicky-bandini"
     },
     {
       "published_at": "2026-08-20T07:00:46+00:00",
@@ -1209,60 +1209,6 @@
       "id": "simonelli-serie-a-clubs-wanted-conte-as-italy-coach-but-will-support-mancini"
     },
     {
-      "published_at": "2026-08-22T21:38:09+00:00",
-      "updated_at": "2026-08-22T21:38:09+00:00",
-      "title": "Wins for Lens and Lyon on opening Ligue 1 weekend",
-      "summary": "Read the full report at Reuters.",
-      "category": [
-        "Ligue 1"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Reuters",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "wins-for-lens-and-lyon-on-opening-ligue-1-weekend"
-    },
-    {
-      "published_at": "2026-08-21T21:15:46+00:00",
-      "updated_at": "2026-08-21T21:15:46+00:00",
-      "title": "Marseille secure 4-0 win over Strasbourg as Ligue 1 gets under way",
-      "summary": "Read the full report at Reuters.",
-      "category": [
-        "Ligue 1"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Reuters",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "marseille-secure-4-0-win-over-strasbourg-as-ligue-1-gets-under-way"
-    },
-    {
       "published_at": "2026-08-21T10:22:34+00:00",
       "updated_at": "2026-08-21T10:22:34+00:00",
       "title": "Tyrhys Dolan interview: Espanyol winger scored against Levante in LaLiga opener and is ready to face Real Madrid next",
@@ -1298,6 +1244,33 @@
         }
       ],
       "id": "tyrhys-dolan-interview-espanyol-winger-scored-against-levante-in-laliga-opener-and-is-read"
+    },
+    {
+      "published_at": "2026-08-26T18:28:49+00:00",
+      "updated_at": "2026-08-26T18:28:49+00:00",
+      "title": "Felicia Schröder slår till med frisparksmål i CL-kvalet",
+      "summary": "Drömmål av Felicia Schröder, 19, i tävlingsdebuten. Svenskan satte en frispark för sitt Real Madrid i Champions League-kvalet",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.21/0.26/1f69436966b4c5714a2b6ac0909478259143cc01d06869f81198d72942d19687",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/felicia-schroder-slar-till-med-frisparksmal-i-cl-kvalet"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/felicia-schroder-slar-till-med-frisparksmal-i-cl-kvalet"
+      },
+      "confirmed_by": [],
+      "id": "felicia-schr-der-sl-r-till-med-frisparksm-l-i-cl-kvalet"
     },
     {
       "published_at": "2026-08-26T12:57:09+00:00",
@@ -1516,33 +1489,6 @@
       "id": "bo-hegland-hyllas-f-r-sina-avg-rande-framspelningar-b-st-i-allsvenskan"
     },
     {
-      "published_at": "2026-08-24T20:07:29+00:00",
-      "updated_at": "2026-08-24T20:07:29+00:00",
-      "title": "Experten slår fast: ”Malmö är ett mittenlag”",
-      "summary": "De himmelsblå är långt ifrån glansdagarna, menar SVT Sports expert. – Ett mittenlag, säger Magnus Eriksson i ”Fotbollsstudion”",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.14/0.11/149b1419e289127ae516c4e13e9e957aba01a9576c7add39b6d4ad123b77ad86",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/experten-slar-fast-malmo-ar-ett-mittenlag"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/experten-slar-fast-malmo-ar-ett-mittenlag"
-      },
-      "confirmed_by": [],
-      "id": "experten-sl-r-fast-malm-r-ett-mittenlag"
-    },
-    {
       "published_at": "2026-08-23T08:05:52+00:00",
       "updated_at": "2026-08-23T08:05:52+00:00",
       "title": "How John Stones helped get Inter’s ‘Three Lions’ era off to a winning start",
@@ -1568,6 +1514,42 @@
       },
       "confirmed_by": [],
       "id": "how-john-stones-helped-get-inter-s-three-lions-era-off-to-a-winning-start"
+    },
+    {
+      "published_at": "2026-08-26T18:31:17+00:00",
+      "updated_at": "2026-08-26T18:31:17+00:00",
+      "title": "Newcastle v West Brom, Tottenham v Charlton, Preston v Everton: Carabao Cup – live",
+      "summary": "Updates from Wednesday’s second-round matches Get in touch: email John and follow us on BlueSky Here’s the first part, for the teams in Europe , though not Brighton in the Europa Conference League. Essentially, it’s whether they are home and away. Crystal Palace v TBC Manchester United v TBC Manchester City v TBC Sunderland v TBC TBC v Arsenal TBC v Aston Villa Bournemouth v TBC Liverpool v TBC Continue reading",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/preston-north-end-vs-everton/live/577434"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/aug/26/newcastle-v-west-brom-tottenham-v-charlton-preston-v-everton-carabao-cup-live"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/preston-north-end-vs-everton/live/577434"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/aug/26/newcastle-v-west-brom-tottenham-v-charlton-preston-v-everton-carabao-cup-live"
+        }
+      ],
+      "id": "newcastle-v-west-brom-tottenham-v-charlton-preston-v-everton-carabao-cup-live"
     },
     {
       "published_at": "2026-08-26T13:45:00+00:00",
@@ -1598,88 +1580,31 @@
       "id": "arsenal-latest-barcelona-ask-atleti-to-accept-alvarez-offer"
     },
     {
-      "published_at": "2026-08-26T12:00:00+00:00",
-      "updated_at": "2026-08-26T12:00:00+00:00",
-      "title": "Palace latest: Disasi joins on loan from Chelsea",
-      "summary": "Crystal Palace transfers, latest news, rumours and gossip: Live updates, goals and highlights",
+      "published_at": "2026-08-23T22:45:00+00:00",
+      "updated_at": "2026-08-23T22:45:00+00:00",
+      "title": "Galatasaray pushing to sign Villa target Leao",
+      "summary": "Latest updates from La Liga, Serie A, Bundesliga and Ligue 1; Jude Bellingham secures Real Madrid win as Jose Mourinho hits out at Vinicius Jr bullying",
       "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-crystal-palace-club_7326697.jpg?20260820165235",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-      },
-      "confirmed_by": [],
-      "id": "palace-latest-disasi-joins-on-loan-from-chelsea"
-    },
-    {
-      "published_at": "2026-08-26T09:18:00+00:00",
-      "updated_at": "2026-08-26T09:18:00+00:00",
-      "title": "Newcastle latest: Gonzalez completes medical ahead of £50m move",
-      "summary": "Newcastle transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Premier League",
         "Transfer"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-newcastle-news-rumours_7331922.jpg?20260826153948",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-ac-milan-rafael-leao_7330602.jpg?20260825090131",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
       },
       "confirmed_by": [],
-      "id": "newcastle-latest-gonzalez-completes-medical-ahead-of-50m-move"
-    },
-    {
-      "published_at": "2026-08-25T22:19:00+00:00",
-      "updated_at": "2026-08-25T22:19:00+00:00",
-      "title": "Brentford latest: Deal agreed for West Ham's Diouf",
-      "summary": "Brentford transfers, latest news, rumours and gossip: Live updates, goals and highlights",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-brentford-club-blog_7326692.jpg?20260820165049",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-      },
-      "confirmed_by": [],
-      "id": "brentford-latest-deal-agreed-for-west-ham-s-diouf"
+      "id": "galatasaray-pushing-to-sign-villa-target-leao"
     },
     {
       "published_at": "2026-08-26T15:00:00+00:00",
@@ -1736,6 +1661,114 @@
       "id": "merson-if-watkins-refused-to-play-it-s-disgusting"
     },
     {
+      "published_at": "2026-08-26T09:02:25+00:00",
+      "updated_at": "2026-08-26T09:02:25+00:00",
+      "title": "How Borussia Dortmund are trying to recreate the exciting BVB of the past as they rebuild with youth under Niko Kovac",
+      "summary": "Read the full report at Sky Sports.",
+      "category": [
+        "Bundesliga"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "borussia-dortmund",
+      "image": "",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "how-borussia-dortmund-are-trying-to-recreate-the-exciting-bvb-of-the-past-as-they-rebuild-"
+    },
+    {
+      "published_at": "2026-08-26T16:35:12+00:00",
+      "updated_at": "2026-08-26T16:35:12+00:00",
+      "title": "LIVE Done Deals Tracker: Every confirmed transfer on August 25",
+      "summary": "Check the latest done deals and official transfers completed in Serie A, as the summer window goes into its final month of activity",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://icdn.football-italia.net/wp-content/uploads/2024/08/Transfer-Liveblog.jpg",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://football-italia.net/live-done-deal-tracker-latest-serie-a-transfer/"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://football-italia.net/live-done-deal-tracker-latest-serie-a-transfer/"
+      },
+      "confirmed_by": [],
+      "id": "live-done-deals-tracker-every-confirmed-transfer-on-august-25"
+    },
+    {
+      "published_at": "2026-08-26T16:16:00+00:00",
+      "updated_at": "2026-08-26T16:16:00+00:00",
+      "title": "Rinne tror på höst i Djurgården - trots Saudi-förfrågan: \"Trivs jättebra\"",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "rinne-tror-p-h-st-i-djurg-rden-trots-saudi-f-rfr-gan-trivs-j-ttebra"
+    },
+    {
+      "published_at": "2026-08-26T15:11:00+00:00",
+      "updated_at": "2026-08-26T15:11:00+00:00",
+      "title": "Uppgifter: Sunderland har lagt bud på Jack Grealish",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-sunderland-har-lagt-bud-p-jack-grealish"
+    },
+    {
       "published_at": "2026-08-26T14:45:00+00:00",
       "updated_at": "2026-08-26T14:45:00+00:00",
       "title": "Officiellt: Gif Sundsvall bryter med Doros",
@@ -1790,10 +1823,37 @@
       "id": "rgrytes-oro-derbyt-i-fara-f-r-stj-rnan-mitt-rliga-svar"
     },
     {
-      "published_at": "2026-08-26T11:09:00+00:00",
-      "updated_at": "2026-08-26T11:09:00+00:00",
-      "title": "Kean dök upp sent och vägrade träna",
-      "summary": "Kean dök upp sent och vägrade träna Fotbollskanalen",
+      "published_at": "2026-08-26T07:00:36+00:00",
+      "updated_at": "2026-08-26T07:00:36+00:00",
+      "title": "After Dom Ballard’s backheel, what is the earliest goal of the season? | The Knowledge",
+      "summary": "Plus: player-managers earning international caps, out-of-position goalkeepers sent off and footballers called up to jury service Mail us with your all of your questions and answers “After watching Dom Ballard’s backheel volley for Bristol City against Birmingham in game week two of the Championship, it begs the question: what’s the earliest in a season a goal has gone on to win goal of the season?” asks Ricardio Sentulio. There is no doubting Dom Ballard’s outrageous flick for Bristol City at Birmingham City should be a Puskás contender, especially with his finish kissing the crossbar on its way in, and has a very good chance of being the best goal scored in the 2026-27 Championship season, even though there is a long way to go.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/adeec5121bd8cb24bc4e09eb463a2540dee56178/691_358_2475_1981/master/2475.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8f205f1b87360c5b7129b78adf86e8a0",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/26/dom-ballard-backheel-what-is-the-earliest-goal-of-the-season-to-be-scored"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/26/dom-ballard-backheel-what-is-the-earliest-goal-of-the-season-to-be-scored"
+      },
+      "confirmed_by": [],
+      "id": "after-dom-ballard-s-backheel-what-is-the-earliest-goal-of-the-season-the-knowledge"
+    },
+    {
+      "published_at": "2026-08-26T18:59:00+00:00",
+      "updated_at": "2026-08-26T18:59:00+00:00",
+      "title": "Skrällfritt i Svenska Cupen",
+      "summary": "Fem matcher i Svenska Cupens tredje omgång, men helt fritt från överraskningar",
       "category": [
         "Sverige"
       ],
@@ -1801,74 +1861,74 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/dn5DzcinL67pNV2bMz0Kz16Ajp02l3BEBy2Lx5wu.jpg",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/skrallfritt-i-svenska-cupen-699741"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/skrallfritt-i-svenska-cupen-699741"
       },
       "confirmed_by": [],
-      "id": "kean-d-k-upp-sent-och-v-grade-tr-na"
+      "id": "skr-llfritt-i-svenska-cupen"
     },
     {
-      "published_at": "2026-08-26T09:00:12+00:00",
-      "updated_at": "2026-08-26T09:00:12+00:00",
-      "title": "LIVE Done Deals Tracker: Every confirmed transfer on August 25",
-      "summary": "Check the latest done deals and official transfers completed in Serie A, as the summer window goes into its final month of activity",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://icdn.football-italia.net/wp-content/uploads/2024/08/Transfer-Liveblog.jpg",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://football-italia.net/live-done-deal-tracker-latest-serie-a-transfer/"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://football-italia.net/live-done-deal-tracker-latest-serie-a-transfer/"
-      },
-      "confirmed_by": [],
-      "id": "live-done-deals-tracker-every-confirmed-transfer-on-august-25"
-    },
-    {
-      "published_at": "2026-08-26T05:25:00+00:00",
-      "updated_at": "2026-08-26T05:25:00+00:00",
-      "title": "Uppgifter: Enzo Fernandez överens med Man City",
-      "summary": "Uppgifter: Enzo Fernandez överens med Man City Fotbollskanalen",
+      "published_at": "2026-08-26T16:49:08+00:00",
+      "updated_at": "2026-08-26T16:49:08+00:00",
+      "title": "Inför Lindö FF - Malmö FF",
+      "summary": "Bara några dagar efter avklädningen hemma mot Djurgården är det dags för ny match. Malmö FF går in i Svenska Cupens tredje omgång mot Lindö FF",
       "category": [
         "Sverige"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "manchester-city",
-      "image": "",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/xWg79qnVHUGN7XMXmAv0ekKw5sKJEkKJyHBskk8d.jpg",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/infor-lindo-ff-malmo-ff-699736"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/infor-lindo-ff-malmo-ff-699736"
       },
       "confirmed_by": [],
-      "id": "uppgifter-enzo-fernandez-verens-med-man-city"
+      "id": "inf-r-lind-ff-malm-ff"
+    },
+    {
+      "published_at": "2026-08-26T16:37:00+00:00",
+      "updated_at": "2026-08-26T16:37:00+00:00",
+      "title": "Motståndarkoll: Östersunds FK",
+      "summary": "Superettan - Omgång 21 Landskrona BoIS - Östersunds FK Lördag 29/8 13.00, Landskrona IP",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/r37WWOSriZRE2XJ0hLQ0Gvv5Vrh5xTKVPwKPHrut.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/motstandarkoll-ostersunds-fk-699735"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/motstandarkoll-ostersunds-fk-699735"
+      },
+      "confirmed_by": [],
+      "id": "motst-ndarkoll-stersunds-fk"
     },
     {
       "published_at": "2026-08-26T10:30:00+00:00",
@@ -1952,85 +2012,31 @@
       "id": "stj-rnbetygen-f-r-sin-andra-guldstj-rna"
     },
     {
-      "published_at": "2026-08-26T08:21:00+00:00",
-      "updated_at": "2026-08-26T08:21:00+00:00",
-      "title": "Ja, Norge – vi är avundsjuka!",
-      "summary": "Norge gör succé i Europa och kan mycket väl ha två lag i Champions Leagues ligafas. Samtidigt misslyckas de svenska klubblagen återigen och vi halkar allt längre efter. Vad behöver svenska lag egentligen göra?",
+      "published_at": "2026-08-25T08:45:00+00:00",
+      "updated_at": "2026-08-25T08:45:00+00:00",
+      "title": "Lyon vs. Fenerbahce (26 Aug, 2026) Live Score",
+      "summary": "Read the full report at ESPN.",
       "category": [
-        "Sverige"
+        "Ligue 1"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/kQWUJlXCkOogmYSnZjyQTAmYURv4CAgD8xToxr2b.png",
+      "image": "",
       "sources": [
         {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/ja-norge-vi-ar-avundsjuka-699707"
+          "name": "ESPN",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/ja-norge-vi-ar-avundsjuka-699707"
+        "name": "ESPN",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "ja-norge-vi-r-avundsjuka"
-    },
-    {
-      "published_at": "2026-08-25T21:25:09+00:00",
-      "updated_at": "2026-08-25T21:25:09+00:00",
-      "title": "Elfsborg vidare i DM efter jämn match mot Kronäng",
-      "summary": "IF Elfsborgs damer är vidare i DM efter en jämn kvartsfinal mot Kronängs IF. Elfsborg vann med 2–1 efter mål av Märta Rhodin och Moa Parkhagen, samtidigt som Elna Angus fick göra sin debut för klubben",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2091410.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/elfsborg-vidare-i-dm-efter-jamn-match-mot-kronang-699699"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/elfsborg-vidare-i-dm-efter-jamn-match-mot-kronang-699699"
-      },
-      "confirmed_by": [],
-      "id": "elfsborg-vidare-i-dm-efter-j-mn-match-mot-kron-ng"
-    },
-    {
-      "published_at": "2026-08-25T14:45:00+00:00",
-      "updated_at": "2026-08-25T14:45:00+00:00",
-      "title": "Silly season sommaren 2026",
-      "summary": "Silly Season-bloggen är äntligen tillbaka! Under hela sommaren uppdaterar vi er med de ryktena kring Djurgårdens herrlag i fotboll",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/ofYhvWYgaCDk3y8OivcyGKqYYmb8Uq0YPZtW9mn5.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/silly-season-sommaren-2026-697593"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/silly-season-sommaren-2026-697593"
-      },
-      "confirmed_by": [],
-      "id": "silly-season-sommaren-2026"
+      "id": "lyon-vs-fenerbahce-26-aug-2026-live-score"
     },
     {
       "published_at": "2026-08-20T08:11:17+00:00",
@@ -2060,12 +2066,12 @@
       "id": "2026-27-european-soccer-predictions-premier-league-champions-league-laliga"
     },
     {
-      "published_at": "2026-08-26T14:00:53+00:00",
-      "updated_at": "2026-08-26T14:00:53+00:00",
-      "title": "Di Gregorio makes feelings towards Juventus clear after Bournemouth switch",
+      "published_at": "2026-08-26T17:35:00+00:00",
+      "updated_at": "2026-08-26T17:35:00+00:00",
+      "title": "Malago eyes Immobile for FIGC leadership team alongside Ranieri and Zola",
       "summary": "Read the full report at Football Italia.",
       "category": [
-        "Serie A"
+        "Football"
       ],
       "status": "Reported",
       "entity": "",
@@ -2084,12 +2090,39 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "di-gregorio-makes-feelings-towards-juventus-clear-after-bournemouth-switch"
+      "id": "malago-eyes-immobile-for-figc-leadership-team-alongside-ranieri-and-zola"
     },
     {
-      "published_at": "2026-08-26T13:06:02+00:00",
-      "updated_at": "2026-08-26T13:06:02+00:00",
-      "title": "Roma’s Scudetto hopes hinge on one big question",
+      "published_at": "2026-08-26T15:55:01+00:00",
+      "updated_at": "2026-08-26T15:55:01+00:00",
+      "title": "Lega chief Simonelli on Infantino decision: ‘I would have taken a bit more time’",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "lega-chief-simonelli-on-infantino-decision-i-would-have-taken-a-bit-more-time"
+    },
+    {
+      "published_at": "2026-08-26T15:00:00+00:00",
+      "updated_at": "2026-08-26T15:00:00+00:00",
+      "title": "Kean reports for individual training after Fiorentina stand-off",
       "summary": "Read the full report at Football Italia.",
       "category": [
         "Serie A"
@@ -2111,7 +2144,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "roma-s-scudetto-hopes-hinge-on-one-big-question"
+      "id": "kean-reports-for-individual-training-after-fiorentina-stand-off"
     }
   ]
 }
