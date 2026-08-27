@@ -1,43 +1,6 @@
 {
-  "updated_at": "2026-08-26T22:48:44.705830+00:00",
+  "updated_at": "2026-08-27T04:20:28.075331+00:00",
   "items": [
-    {
-      "published_at": "2026-08-26T18:35:30+00:00",
-      "updated_at": "2026-08-26T18:35:30+00:00",
-      "title": "Newcastle sign Gonzalez from Man City for £52m",
-      "summary": "Newcastle United sign Manchester City midfielder Nico Gonzalez for a fee which could rise to £52m",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a4e9/live/c63e0d70-a17f-11f1-9619-edac4fa7937f.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cx2zlnpnk4zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13577494/x"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx2zlnpnk4zo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13577494/x"
-        }
-      ],
-      "id": "newcastle-sign-gonzalez-from-man-city-for-52m"
-    },
     {
       "published_at": "2026-08-26T16:23:04+00:00",
       "updated_at": "2026-08-26T16:23:04+00:00",
@@ -74,6 +37,43 @@
         }
       ],
       "id": "0-chance-atletico-hit-back-at-barca-over-alvarez-transfer-row"
+    },
+    {
+      "published_at": "2026-08-26T13:45:56+00:00",
+      "updated_at": "2026-08-26T13:45:56+00:00",
+      "title": "Will a Premier League club break record for transfer sales in one window?",
+      "summary": "BBC Sport takes a look at what each of the Premier League clubs still need before the summer transfer window shuts in seven days",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b41f/live/6abb1df0-a141-11f1-9311-09d4e1fc9016.png",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ce9ejxvky8vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2VjM2IyejV4ZkQ3QXNXY3o0MGVvbnJOTkJLVFlrbm14LWpWMXlZY1dVaEVJaHBUSURMeWtWb3Bja1RvVHE2ZW0xOXNIaW9sYVExTWVmZEtWVG9GSU1SeEFDTFN2SjdrQmpaSW5MRUpuVTdYbmgtNUVZTW0zckpiSkFuUmdXeUtvU3R2SF9ESDZKV200YlJIRG4xSDdBZ0thMUZycQ?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ce9ejxvky8vo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2VjM2IyejV4ZkQ3QXNXY3o0MGVvbnJOTkJLVFlrbm14LWpWMXlZY1dVaEVJaHBUSURMeWtWb3Bja1RvVHE2ZW0xOXNIaW9sYVExTWVmZEtWVG9GSU1SeEFDTFN2SjdrQmpaSW5MRUpuVTdYbmgtNUVZTW0zckpiSkFuUmdXeUtvU3R2SF9ESDZKV200YlJIRG4xSDdBZ0thMUZycQ?oc=5"
+        }
+      ],
+      "id": "will-a-premier-league-club-break-record-for-transfer-sales-in-one-window"
     },
     {
       "published_at": "2026-08-26T20:54:28+00:00",
@@ -240,34 +240,6 @@
       "id": "coventry-sign-defender-pinnock-from-brentford"
     },
     {
-      "published_at": "2026-08-26T13:45:56+00:00",
-      "updated_at": "2026-08-26T13:45:56+00:00",
-      "title": "Will a Premier League club break record for transfer sales in one window?",
-      "summary": "BBC Sport takes a look at what each of the Premier League clubs still need before the summer transfer window shuts in seven days",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b41f/live/6abb1df0-a141-11f1-9311-09d4e1fc9016.png",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ce9ejxvky8vo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ce9ejxvky8vo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "will-a-premier-league-club-break-record-for-transfer-sales-in-one-window"
-    },
-    {
       "published_at": "2026-08-26T13:19:46+00:00",
       "updated_at": "2026-08-26T13:19:46+00:00",
       "title": "Nottingham Forest transfer news: Dilane Bakwa joins Lille on season-long loan",
@@ -293,6 +265,69 @@
       },
       "confirmed_by": [],
       "id": "nottingham-forest-transfer-news-dilane-bakwa-joins-lille-on-season-long-loan"
+    },
+    {
+      "published_at": "2026-08-26T12:25:08+00:00",
+      "updated_at": "2026-08-26T12:25:08+00:00",
+      "title": "Wrexham close in on Ekomie and Kabore deals",
+      "summary": "Manchester City's Issa Kabore is poised to seal a permanent switch to Championship club Wrexham, who are also close to signing left-back Jacques Ekomie from French side Angers",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/566b/live/e300f730-a146-11f1-aed2-8d6da8d75094.png",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cn5dr0vyd3ro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cn5dr0vyd3ro?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "wrexham-close-in-on-ekomie-and-kabore-deals"
+    },
+    {
+      "published_at": "2026-08-26T21:39:14+00:00",
+      "updated_at": "2026-08-26T21:39:14+00:00",
+      "title": "Mbappé hat-trick sinks Real Sociedad after Real Madrid jeered by home fans",
+      "summary": "Kylian Mbappé scored a hat-trick as Real Madrid beat Real Sociedad 4-1 at the Bernabéu on Wednesday ⁠in their first home match since the return of José Mourinho as head coach. Mbappé put Madrid ahead in the 40th minute before Luka Sucic levelled four minutes later, but the ⁠France forward restored the ⁠hosts’ lead on ​the hour. Vinícius Júnior added a third in the 68th minute before Mbappé completed his treble 10 minutes from time.",
+      "category": [
+        "La Liga"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "real-madrid",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-mbappe-bernardo-silva_7332282.jpg?20260826234916",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/26/real-madrid-real-sociedad-la-liga-match-report-jose-mourinho-kylian-mbappe"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/26/real-madrid-real-sociedad-la-liga-match-report-jose-mourinho-kylian-mbappe"
+        }
+      ],
+      "id": "mbapp-hat-trick-sinks-real-sociedad-after-real-madrid-jeered-by-home-fans"
     },
     {
       "published_at": "2026-08-26T20:54:31+00:00",
@@ -329,6 +364,42 @@
         }
       ],
       "id": "barnes-settles-stormer-to-hand-jaissle-first-newcastle-win-against-west-brom"
+    },
+    {
+      "published_at": "2026-08-22T23:21:58+00:00",
+      "updated_at": "2026-08-22T23:21:58+00:00",
+      "title": "José Mourinho marks Real Madrid return with late drama and touch of humility",
+      "summary": "The old master is back at Madrid as he begins with celebrations, frustrations and relief in a 2-1 win at Espanyol José Mourinho says he is calmer now so when the rest of the bench emptied, sprinting down the touchline to celebrate the 90th-minute goal that finally delivered victory on his first game in charge of Real Madrid in 4,380 days, he did not set off with them. Instead, he clenched his fists, got to his feet and walked down the touchline behind the subs, watching them head, shouting, towards Carlos Espí. As they piled on down in the corner, he pulled over his captain Fede Valverde for a word.",
+      "category": [
+        "La Liga"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "real-madrid",
+      "image": "https://i.guim.co.uk/img/media/7400e7eb89a87096ecaa31d294364a98d1091c2c/127_0_3542_2834/master/3542.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c6359698e143460e90f7594f406b1579",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/23/jose-mourinho-real-madrid-romance-espanyol-la-liga"
+        },
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNFJ6b1Jxa2JyaVg2RXdqQ0gxcXh2aVpfa1BSbElHeTZsRGxHNzg0eFhwWFF0TGxUWm5xRTVacUhjYllrZFliOVMxVl9FNndFaTIwbUZmUnFERzloZzJjWHI1TENLLWhFRkxQQzZzbXo1bmpwTXlwN1daVGtqT1d4RDhBYmhxd1doZjlkd3BZMjlBMks5NzliWlFxSVVjaUIxaHR0RmJNV051dlNFU2xaNzVBMFFFRjJ4Sk5vbEdlN2RZM3JkeC1JeGl5cTFVZWVFWUtOUVFZeHpkYzc1cGowN2MtR19Od1NaRWZFVHExc3ZmTEFLZXFYOXVqQ05oQQ?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/23/jose-mourinho-real-madrid-romance-espanyol-la-liga"
+      },
+      "confirmed_by": [
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNFJ6b1Jxa2JyaVg2RXdqQ0gxcXh2aVpfa1BSbElHeTZsRGxHNzg0eFhwWFF0TGxUWm5xRTVacUhjYllrZFliOVMxVl9FNndFaTIwbUZmUnFERzloZzJjWHI1TENLLWhFRkxQQzZzbXo1bmpwTXlwN1daVGtqT1d4RDhBYmhxd1doZjlkd3BZMjlBMks5NzliWlFxSVVjaUIxaHR0RmJNV051dlNFU2xaNzVBMFFFRjJ4Sk5vbEdlN2RZM3JkeC1JeGl5cTFVZWVFWUtOUVFZeHpkYzc1cGowN2MtR19Od1NaRWZFVHExc3ZmTEFLZXFYOXVqQ05oQQ?oc=5"
+        }
+      ],
+      "id": "jos-mourinho-marks-real-madrid-return-with-late-drama-and-touch-of-humility"
     },
     {
       "published_at": "2026-08-25T13:44:00+00:00",
@@ -392,6 +463,63 @@
       },
       "confirmed_by": [],
       "id": "omari-kellyman-joins-rc-strasbourg"
+    },
+    {
+      "published_at": "2026-08-26T23:00:00+00:00",
+      "updated_at": "2026-08-26T23:00:00+00:00",
+      "title": "Papers: Liverpool in fresh talks with PSG over Barcola",
+      "summary": "Latest transfer news and headlines include: Newcastle retain hope of signing Matias Fernandez-Pardo; Aston Villa enquire about West Ham defender Jean-Clair Todibo after losing Ezri Konsa to Arsenal; Liverpool yet to receive offers for Harvey Elliott or Federico Chiesa",
+      "category": [
+        "Premier League",
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13577609/bradley-barcola-transfer-news-liverpool-set-for-more-talks-with-psg-over-signing-winger-before-transfer-deadline"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13577609/bradley-barcola-transfer-news-liverpool-set-for-more-talks-with-psg-over-signing-winger-before-transfer-deadline"
+      },
+      "confirmed_by": [],
+      "id": "papers-liverpool-in-fresh-talks-with-psg-over-barcola"
+    },
+    {
+      "published_at": "2026-08-26T19:35:00+00:00",
+      "updated_at": "2026-08-26T19:35:00+00:00",
+      "title": "'He's the one we wanted': Newcastle sign Gonzalez from Man City",
+      "summary": "Nico Gonzalez joined Man City from Porto in February 2025 and played 59 times; the deal to take him to Newcastle is set to reach £50m after add-ons; the 24-year-old is Newcastles seventh signing of the summer",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-nico-gonzalez-manchester-city_7332096.jpg?20260826183154",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13577494/x"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13577494/x"
+      },
+      "confirmed_by": [],
+      "id": "he-s-the-one-we-wanted-newcastle-sign-gonzalez-from-man-city"
     },
     {
       "published_at": "2026-08-26T11:45:00+00:00",
@@ -477,35 +605,6 @@
       "id": "uppgifter-v-ster-s-n-ra-v-rvning-av-risbjerg"
     },
     {
-      "published_at": "2026-08-26T17:36:00+00:00",
-      "updated_at": "2026-08-26T17:36:00+00:00",
-      "title": "Uppgifter: Crystal Palace kapar Ordonez-värvning",
-      "summary": "Uppgifter: Crystal Palace kapar Ordonez-värvning Fotbollskanalen",
-      "category": [
-        "Sverige",
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-crystal-palace-kapar-ordonez-v-rvning"
-    },
-    {
       "published_at": "2026-08-25T07:39:00+00:00",
       "updated_at": "2026-08-25T07:39:00+00:00",
       "title": "Burnleys tränare: Möjligt att Ekdal lämnar",
@@ -561,17 +660,16 @@
       "id": "uppgifter-jakirovic-f-rl-nger-kontraktet"
     },
     {
-      "published_at": "2026-08-22T08:20:00+00:00",
-      "updated_at": "2026-08-22T08:20:00+00:00",
-      "title": "Arteta om Alvarez-värvning: \"Nöjd med truppen jag har\"",
-      "summary": "Read the full report at Fotbollskanalen.",
+      "published_at": "2026-08-22T13:35:00+00:00",
+      "updated_at": "2026-08-22T13:35:00+00:00",
+      "title": "Doku skadad - missar premiären",
+      "summary": "Doku skadad - missar premiären Fotbollskanalen",
       "category": [
-        "Sverige",
-        "Transfer"
+        "Sverige"
       ],
       "status": "Reported",
-      "entity": "mikel-arteta",
-      "entity_type": "coaches",
+      "entity": "",
+      "entity_type": "players",
       "club": "",
       "image": "",
       "sources": [
@@ -586,7 +684,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "arteta-om-alvarez-v-rvning-n-jd-med-truppen-jag-har"
+      "id": "doku-skadad-missar-premi-ren"
     },
     {
       "published_at": "2026-08-24T18:51:31+00:00",
@@ -623,33 +721,6 @@
         }
       ],
       "id": "djurg-rden-nollade-malm-p-bortaplan-det-r-f-r-d-ligt"
-    },
-    {
-      "published_at": "2026-08-26T21:39:14+00:00",
-      "updated_at": "2026-08-26T21:39:14+00:00",
-      "title": "Mbappé hat-trick sinks Real Sociedad after Real Madrid jeered by home fans",
-      "summary": "Kylian Mbappé scored a hat-trick as Real Madrid beat Real Sociedad 4-1 at the Bernabéu on Wednesday ⁠in their first home match since the return of José Mourinho as head coach. Mbappé put Madrid ahead in the 40th minute before Luka Sucic levelled four minutes later, but the ⁠France forward restored the ⁠hosts’ lead on ​the hour. Vinícius Júnior added a third in the 68th minute before Mbappé completed his treble 10 minutes from time.",
-      "category": [
-        "La Liga"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "https://i.guim.co.uk/img/media/fa36ed1af9af75e2f465642ec0e3290582bcb8a3/492_118_3186_2549/master/3186.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=902d6facf12c190c4216ef01872f3300",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/26/real-madrid-real-sociedad-la-liga-match-report-jose-mourinho-kylian-mbappe"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/26/real-madrid-real-sociedad-la-liga-match-report-jose-mourinho-kylian-mbappe"
-      },
-      "confirmed_by": [],
-      "id": "mbapp-hat-trick-sinks-real-sociedad-after-real-madrid-jeered-by-home-fans"
     },
     {
       "published_at": "2026-08-26T19:22:14+00:00",
@@ -764,31 +835,32 @@
       "id": "juli-n-lvarez-walks-alone-at-atl-tico-in-transfer-saga-with-no-end-and-no-winners-sid-lowe"
     },
     {
-      "published_at": "2026-08-24T15:42:44+00:00",
-      "updated_at": "2026-08-24T15:42:44+00:00",
-      "title": "Liverpool are still haunted by the mess of last summer | Jonathan Wilson",
-      "summary": "Sunday’s draw with Newcastle shows Andoni Iraola’s new ideas as manager will need to overcome the squad’s lack of balance Sign up for our free newsletter here The good news for Liverpool is that, Arsenal aside, every other team with vague title aspirations who played over the weekend looked undercooked, and that Andoni Iraola’s men did, in the end, come away from Newcastle with a point . But the vulnerability to the counter that undermined them so often last season has not gone away, and nor have they suddenly found a new creativity under Iraola. The main theme of the first three days of the new season was the value of stability.",
+      "published_at": "2026-08-24T11:19:32+00:00",
+      "updated_at": "2026-08-24T11:19:32+00:00",
+      "title": "Amorim’s Milan live up to billing as teenage star Cissè upstages signings | Nicky Bandini",
+      "summary": "Rossoneri overcome fascinating first challenge at Torino as teams across Serie A give homegrown talent a chance “I love Cissè. I love Cissè.” Ruben Amorim had not yet taken charge of his first competitive game as Milan head coach but already he was furnishing journalists with soundbites and supporters with memes, clippable moments that you just knew we were destined to revisit. Alphadjo Cissè is a 19-year-old attacking midfielder who signed for Milan from Verona in February but only joined up with them this summer, after completing the season-long loan he had already begun at Catanzaro in Serie B.",
       "category": [
-        "Premier League"
+        "Serie A",
+        "Transfer"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://i.guim.co.uk/img/media/d16b0d34724b1a04ed28cc886617350c1c8d38bb/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=de007579298a4b8981da3282dd1e5a14",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/a9ffa8fc75813a0e547301ab489f26ac56cda988/152_0_4169_3336/master/4169.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9a745ef63a9ae8a72939bd0c3fceabf4",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/24/liverpool-newcastle-united-premier-league-andoni-iraola"
+          "url": "https://www.theguardian.com/football/2026/aug/24/ruben-amorim-milan-live-up-to-billing-as-teenage-star-alphadjo-cisse-upstages-signings"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/24/liverpool-newcastle-united-premier-league-andoni-iraola"
+        "url": "https://www.theguardian.com/football/2026/aug/24/ruben-amorim-milan-live-up-to-billing-as-teenage-star-alphadjo-cisse-upstages-signings"
       },
       "confirmed_by": [],
-      "id": "liverpool-are-still-haunted-by-the-mess-of-last-summer-jonathan-wilson"
+      "id": "amorim-s-milan-live-up-to-billing-as-teenage-star-ciss-upstages-signings-nicky-bandini"
     },
     {
       "published_at": "2026-08-20T07:00:46+00:00",
@@ -821,7 +893,7 @@
       "published_at": "2026-08-20T07:00:46+00:00",
       "updated_at": "2026-08-20T07:00:46+00:00",
       "title": "Premier League: nine newcomers to watch in the top flight this season",
-      "summary": "A crackdown on time wasting, a record number of new people in charge, and some new faces on Match of the Day The 2026-27 Premier League season kicks off on Friday and while the familiar rivalries return, the English top flight has some alterations this campaign. From evolved rules to new faces and broadcast changes, there is plenty to catch up on before a ball is kicked. Marco Rose – Bournemouth Xabi Alonso – Chelsea Pierre Sage – Crystal Palace Álvaro Arbeloa – Fulham Gary O’Neil - Ipswich Town Andoni Iraola – Liverpool Enzo Maresca- Manchester City Matthias Jaissle – Newcastle Oliver Glasner – Nottingham Forest Continue reading",
+      "summary": "Newcastle, Arsenal, Brentford, Everton, Leeds, Coventry, Aston Villa, Hull and Ipswich have all brought in exciting players By Opta Analyst Anthony Gordon will be a difficult act to follow at Newcastle, but Touré could be a shrewd replacement. Blessed with electric pace, the 20-year-old is a bit more of an old-fashioned winger in that he predominantly plays from the left and is left-footed. As a result, he was more of a creator than a goalscorer for Hoffenheim last season.",
       "category": [
         "Premier League"
       ],
@@ -843,33 +915,6 @@
       },
       "confirmed_by": [],
       "id": "premier-league-nine-newcomers-to-watch-in-the-top-flight-this-season"
-    },
-    {
-      "published_at": "2026-08-19T23:58:35+00:00",
-      "updated_at": "2026-08-19T23:58:35+00:00",
-      "title": "‘A huge honour’: Socceroos World Cup star Alessandro Circati seals move to Benfica",
-      "summary": "Defender completes transfer for reported fee of 20m euros ($33m) Ten Australian players have now made post-World Cup moves Young Socceroo Alessandro Circati has become the latest Australian international to be snapped up in a money-spinning European transfer, as he hailed his move from Parma to Benfica as a “privilege”. Following Lucas Herrington’s move from the MLS to become Australia’s only Premier League player at Hull City, and Nestory Irankunda joining Benfica’s great rivals Sporting from Watford, Circati has been signed by the Portuguese giants for a reported 20m euros ($33m).",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/56acdea2fd08881bf83336d3824bb586a69691fa/0_31_2667_2133/master/2667.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=59e6b7dcd4062c402c0a2b5dcde98fed",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/20/alessandro-circati-benfica-portugal-primeira-liga-transfer-news-move"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/20/alessandro-circati-benfica-portugal-primeira-liga-transfer-news-move"
-      },
-      "confirmed_by": [],
-      "id": "a-huge-honour-socceroos-world-cup-star-alessandro-circati-seals-move-to-benfica"
     },
     {
       "published_at": "2026-08-25T04:04:00+00:00",
@@ -1119,81 +1164,6 @@
       "id": "simonelli-serie-a-clubs-wanted-conte-as-italy-coach-but-will-support-mancini"
     },
     {
-      "published_at": "2026-08-26T20:57:00+00:00",
-      "updated_at": "2026-08-26T20:57:00+00:00",
-      "title": "Reus is 10-man Hearts' spot-kick hero as Jambos qualify for Conference League",
-      "summary": "Playoff second leg: Rapid 2-2 Hearts (aet, 3-4 on pens) Kara 34, Cvetkovic 119; Kabore 79, Miller 100 Beau Reus made two penalty saves as heroic Hearts overcame Tomas Magnusson’s red card to pull off a stunning shootout victory away to Rapid Vienna, and book themselves a return to the Conference League’s main phase. Following a 2-2 draw in the first leg at Tynecastle, the Jambos’ European journey looked to be fizzling out when they were reduced to 10 men in the 75th minute of the playoff round second leg, while already trailing to Ercan Kara’s first-half goal.",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-beau-reus-hearts_7332180.jpg?20260826210629",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/sk-rapid-wien-vs-hearts/report/577490"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/26/conference-league-rapid-vienna-hearts-qualifying-playoff-match-report"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/sk-rapid-wien-vs-hearts/report/577490"
-      },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/26/conference-league-rapid-vienna-hearts-qualifying-playoff-match-report"
-        }
-      ],
-      "id": "reus-is-10-man-hearts-spot-kick-hero-as-jambos-qualify-for-conference-league"
-    },
-    {
-      "published_at": "2026-08-26T18:46:59+00:00",
-      "updated_at": "2026-08-26T18:46:59+00:00",
-      "title": "European football news and transfers: Barcelona, Real Madrid, PSG, Bayern Munich latest and more",
-      "summary": "Read the full report at Sky Sports.",
-      "category": [
-        "La Liga",
-        "Bundesliga",
-        "Ligue 1",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRng1SDlQYzQxREk0dmcwcFJWZjVJckx2WGN6ekRhSXVsaTF0b0RkaGZEbWpMZjU3aU1hQUU5bDdyM3JHLWU1enN0VGdKV1pZSHZhcmRPNC1YcV9BVzkwR3daYmJ1WTlfS01pdzQ5eG1GeWd3WDlkS05IWklOS3RZUW43SElyQVFqVTF1OUtMQlN5czVqVHFzUWNQQ1MzQjgtTkFuSDJMUGlKNHRGbXNGdmxJckdEdjAxVlE?oc=5"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRng1SDlQYzQxREk0dmcwcFJWZjVJckx2WGN6ekRhSXVsaTF0b0RkaGZEbWpMZjU3aU1hQUU5bDdyM3JHLWU1enN0VGdKV1pZSHZhcmRPNC1YcV9BVzkwR3daYmJ1WTlfS01pdzQ5eG1GeWd3WDlkS05IWklOS3RZUW43SElyQVFqVTF1OUtMQlN5czVqVHFzUWNQQ1MzQjgtTkFuSDJMUGlKNHRGbXNGdmxJckdEdjAxVlE?oc=5"
-        }
-      ],
-      "id": "european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-mo"
-    },
-    {
       "published_at": "2026-08-22T21:38:09+00:00",
       "updated_at": "2026-08-22T21:38:09+00:00",
       "title": "Wins for Lens and Lyon on opening Ligue 1 weekend",
@@ -1268,7 +1238,7 @@
         },
         {
           "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNFJ6b1Jxa2JyaVg2RXdqQ0gxcXh2aVpfa1BSbElHeTZsRGxHNzg0eFhwWFF0TGxUWm5xRTVacUhjYllrZFliOVMxVl9FNndFaTIwbUZmUnFERzloZzJjWHI1TENLLWhFRkxQQzZzbXo1bmpwTXlwN1daVGtqT1d4RDhBYmhxd1doZjlkd3BZMjlBMks5NzliWlFxSVVjaUIxaHR0RmJNV051dlNFU2xaNzVBMFFFRjJ4Sk5vbEdlN2RZM3JkeC1JeGl5cTFVZWVFWUtOUVFZeHpkYzc1cGowN2MtR19Od1NaRWZFVHExc3ZmTEFLZXFYOXVqQ05oQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRng1SDlQYzQxREk0dmcwcFJWZjVJckx2WGN6ekRhSXVsaTF0b0RkaGZEbWpMZjU3aU1hQUU5bDdyM3JHLWU1enN0VGdKV1pZSHZhcmRPNC1YcV9BVzkwR3daYmJ1WTlfS01pdzQ5eG1GeWd3WDlkS05IWklOS3RZUW43SElyQVFqVTF1OUtMQlN5czVqVHFzUWNQQ1MzQjgtTkFuSDJMUGlKNHRGbXNGdmxJckdEdjAxVlE?oc=5"
         }
       ],
       "language": "en",
@@ -1279,10 +1249,64 @@
       "confirmed_by": [
         {
           "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNFJ6b1Jxa2JyaVg2RXdqQ0gxcXh2aVpfa1BSbElHeTZsRGxHNzg0eFhwWFF0TGxUWm5xRTVacUhjYllrZFliOVMxVl9FNndFaTIwbUZmUnFERzloZzJjWHI1TENLLWhFRkxQQzZzbXo1bmpwTXlwN1daVGtqT1d4RDhBYmhxd1doZjlkd3BZMjlBMks5NzliWlFxSVVjaUIxaHR0RmJNV051dlNFU2xaNzVBMFFFRjJ4Sk5vbEdlN2RZM3JkeC1JeGl5cTFVZWVFWUtOUVFZeHpkYzc1cGowN2MtR19Od1NaRWZFVHExc3ZmTEFLZXFYOXVqQ05oQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRng1SDlQYzQxREk0dmcwcFJWZjVJckx2WGN6ekRhSXVsaTF0b0RkaGZEbWpMZjU3aU1hQUU5bDdyM3JHLWU1enN0VGdKV1pZSHZhcmRPNC1YcV9BVzkwR3daYmJ1WTlfS01pdzQ5eG1GeWd3WDlkS05IWklOS3RZUW43SElyQVFqVTF1OUtMQlN5czVqVHFzUWNQQ1MzQjgtTkFuSDJMUGlKNHRGbXNGdmxJckdEdjAxVlE?oc=5"
         }
       ],
       "id": "tyrhys-dolan-interview-espanyol-winger-scored-against-levante-in-laliga-opener-and-is-read"
+    },
+    {
+      "published_at": "2026-08-27T03:30:05+00:00",
+      "updated_at": "2026-08-27T03:30:05+00:00",
+      "title": "Nyförvärvet inför Mjällbys ödesmatch: ”Måste ge allt”",
+      "summary": "Efter att Mjällby förlorade hemmamötet mot RB Salzburg med 0-1, måste laget vinna med två mål för avancemang. Inför bortamötet laddar lagets nyförvärv",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.26/0.51/1614492021a9e63770d94930142f32bef58208fadffeb2ff4bd2e3ca6e40245c",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/nyheter/lokalt/blekinge/nyforvarvet-infor-mjallbys-odesmatch-maste-ge-allt"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/nyheter/lokalt/blekinge/nyforvarvet-infor-mjallbys-odesmatch-maste-ge-allt"
+      },
+      "confirmed_by": [],
+      "id": "nyf-rv-rvet-inf-r-mj-llbys-desmatch-m-ste-ge-allt"
+    },
+    {
+      "published_at": "2026-08-27T03:30:05+00:00",
+      "updated_at": "2026-08-27T03:30:05+00:00",
+      "title": "Så lär sig Mjällbys nyförvärv svenska: ”Beginner på Duolingo”",
+      "summary": "Mjällby har nyligen värvat fyra spelare från dansktalande länder. Just nu håller samtliga på att lära sig svenska – men metoderna skiljer sig åt",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.41/2662476e4164d8c690efb981498af2931202988a8088a2a9f6119cdc43f1aacf",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/nyheter/lokalt/blekinge/sa-lar-sig-mjallbys-nyforvarv-svenska-beginner-pa-duolingo"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/nyheter/lokalt/blekinge/sa-lar-sig-mjallbys-nyforvarv-svenska-beginner-pa-duolingo"
+      },
+      "confirmed_by": [],
+      "id": "s-l-r-sig-mj-llbys-nyf-rv-rv-svenska-beginner-p-duolingo"
     },
     {
       "published_at": "2026-08-26T18:28:49+00:00",
@@ -1474,60 +1498,6 @@
       "id": "henrik-rydstr-m-f-rklarar-besara-petningen-vi-tr-nar-annorlunda"
     },
     {
-      "published_at": "2026-08-24T21:46:35+00:00",
-      "updated_at": "2026-08-24T21:46:35+00:00",
-      "title": "Bo Hegland hyllas för sina avgörande framspelningar: ”Bäst i allsvenskan”",
-      "summary": "Bo Hegland låg bakom Djurgårdens två första mål i storsegern, 3-0, mot Malmö. Efteråt hyllades norrmannen för sina avgörande yttersidor med högern. – Jag har alltid tyckt att det är roligt, säger han till SVT Sport",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.67/0.24/16e146bdaf8a1b02b674496a047f9f592d8fbc5236bcc10243d1d6d59410f01d",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/bo-hegland-hyllas-for-sina-avgorande-framspelningar-bast-i-allsvenskan"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/bo-hegland-hyllas-for-sina-avgorande-framspelningar-bast-i-allsvenskan"
-      },
-      "confirmed_by": [],
-      "id": "bo-hegland-hyllas-f-r-sina-avg-rande-framspelningar-b-st-i-allsvenskan"
-    },
-    {
-      "published_at": "2026-08-24T20:07:29+00:00",
-      "updated_at": "2026-08-24T20:07:29+00:00",
-      "title": "Experten slår fast: ”Malmö är ett mittenlag”",
-      "summary": "De himmelsblå är långt ifrån glansdagarna, menar SVT Sports expert. – Ett mittenlag, säger Magnus Eriksson i ”Fotbollsstudion”",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.14/0.11/149b1419e289127ae516c4e13e9e957aba01a9576c7add39b6d4ad123b77ad86",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/experten-slar-fast-malmo-ar-ett-mittenlag"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/experten-slar-fast-malmo-ar-ett-mittenlag"
-      },
-      "confirmed_by": [],
-      "id": "experten-sl-r-fast-malm-r-ett-mittenlag"
-    },
-    {
       "published_at": "2026-08-23T08:05:52+00:00",
       "updated_at": "2026-08-23T08:05:52+00:00",
       "title": "How John Stones helped get Inter’s ‘Three Lions’ era off to a winning start",
@@ -1557,7 +1527,7 @@
     {
       "published_at": "2026-08-26T23:03:00+00:00",
       "updated_at": "2026-08-26T23:03:00+00:00",
-      "title": "Redknapp hails Savio impact as De Zerbi challenges new star after stunning debut",
+      "title": "Redknapp hails Savio debut but De Zerbi demands more",
       "summary": "Jamie Redknapp claimed that Savio 'lit up the place' on his Tottenham debut, but Roberto De Zerbi has challenged his latest signing to reach new heights after his stunning start to life at the club",
       "category": [
         "Football"
@@ -1579,7 +1549,7 @@
         "url": "https://www.skysports.com/football/news/11095/13577607/tottenham-5-1-charlton-jamie-redknapp-praises-savio-after-goalscoring-debut-as-roberto-de-zerbi-challenges-new-signing"
       },
       "confirmed_by": [],
-      "id": "redknapp-hails-savio-impact-as-de-zerbi-challenges-new-star-after-stunning-debut"
+      "id": "redknapp-hails-savio-debut-but-de-zerbi-demands-more"
     },
     {
       "published_at": "2026-08-26T22:00:00+00:00",
@@ -1636,37 +1606,38 @@
       "id": "barry-hat-trick-helps-everton-saunter-past-preston"
     },
     {
-      "published_at": "2026-08-26T09:02:25+00:00",
-      "updated_at": "2026-08-26T09:02:25+00:00",
-      "title": "How Borussia Dortmund are trying to recreate the exciting BVB of the past as they rebuild with youth under Niko Kovac",
-      "summary": "Read the full report at Sky Sports.",
+      "published_at": "2026-08-26T20:26:00+00:00",
+      "updated_at": "2026-08-26T20:26:00+00:00",
+      "title": "Uppgifter: Chelsea lägger bud på Ahanor",
+      "summary": "Uppgifter: Cagliari-bud på Madjed Fotbollskanalen",
       "category": [
-        "Bundesliga"
+        "Sverige",
+        "Premier League"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "borussia-dortmund",
+      "club": "chelsea",
       "image": "",
       "sources": [
         {
-          "name": "Sky Sports",
+          "name": "Fotbollskanalen",
           "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Sky Sports",
+        "name": "Fotbollskanalen",
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "how-borussia-dortmund-are-trying-to-recreate-the-exciting-bvb-of-the-past-as-they-rebuild-"
+      "id": "uppgifter-chelsea-l-gger-bud-p-ahanor"
     },
     {
-      "published_at": "2026-08-26T21:24:00+00:00",
-      "updated_at": "2026-08-26T21:24:00+00:00",
-      "title": "Uppgifter: MFF ute efter Håkans",
-      "summary": "Uppgifter: MFF ute efter Håkans Fotbollskanalen",
+      "published_at": "2026-08-26T18:45:00+00:00",
+      "updated_at": "2026-08-26T18:45:00+00:00",
+      "title": "Bradford - Burnley, 26 augusti kl. 20:45",
+      "summary": "Norwich - Burnley, 29 augusti kl. 16:00 Fotbollskanalen",
       "category": [
         "Sverige"
       ],
@@ -1687,7 +1658,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "uppgifter-mff-ute-efter-h-kans"
+      "id": "bradford-burnley-26-augusti-kl-20-45"
     },
     {
       "published_at": "2026-08-26T16:35:12+00:00",
@@ -1797,6 +1768,33 @@
       },
       "confirmed_by": [],
       "id": "fc-badalona-levante-ud-9-november-kl-12-00"
+    },
+    {
+      "published_at": "2026-08-26T20:16:04+00:00",
+      "updated_at": "2026-08-26T20:16:04+00:00",
+      "title": "Ten-man Hearts stun Rapid Vienna in shootout to reach Conference League",
+      "summary": "Playoff second leg: Rapid 2-2 Hearts (aet, 3-4 on pens) Kara 34, Cvetkovic 119; Kabore 79, Miller 100 Beau Reus made two penalty saves as heroic Hearts overcame Tomas Magnusson’s red card to pull off a stunning shootout victory away to Rapid Vienna, and book themselves a return to the Conference League’s main phase. Following a 2-2 draw in the first leg at Tynecastle, the Jambos’ European journey looked to be fizzling out when they were reduced to 10 men in the 75th minute of the playoff round second leg, while already trailing to Ercan Kara’s first-half goal.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/1da768379671e23495313b67c097bb938e89c914/340_0_4280_3422/master/4280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=488388860ae9ac7958d262966b8614b3",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/26/conference-league-rapid-vienna-hearts-qualifying-playoff-match-report"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/26/conference-league-rapid-vienna-hearts-qualifying-playoff-match-report"
+      },
+      "confirmed_by": [],
+      "id": "ten-man-hearts-stun-rapid-vienna-in-shootout-to-reach-conference-league"
     },
     {
       "published_at": "2026-08-26T07:00:36+00:00",
@@ -1988,12 +1986,13 @@
       "id": "stj-rnbetygen-f-r-sin-andra-guldstj-rna"
     },
     {
-      "published_at": "2026-08-20T08:11:17+00:00",
-      "updated_at": "2026-08-20T08:11:17+00:00",
-      "title": "2026-27 European soccer predictions: Premier League, Champions League, LaLiga",
-      "summary": "Read the full report at ESPN.",
+      "published_at": "2026-08-26T19:40:00+00:00",
+      "updated_at": "2026-08-26T19:40:00+00:00",
+      "title": "David pushes to stay at Juventus amid Hull, Atletico and Fiorentina links",
+      "summary": "Read the full report at Football Italia.",
       "category": [
-        "Premier League"
+        "La Liga",
+        "Serie A"
       ],
       "status": "Reported",
       "entity": "",
@@ -2002,17 +2001,17 @@
       "image": "",
       "sources": [
         {
-          "name": "ESPN",
+          "name": "Football Italia",
           "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "ESPN",
+        "name": "Football Italia",
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "2026-27-european-soccer-predictions-premier-league-champions-league-laliga"
+      "id": "david-pushes-to-stay-at-juventus-amid-hull-atletico-and-fiorentina-links"
     },
     {
       "published_at": "2026-08-26T18:15:00+00:00",
@@ -2094,33 +2093,6 @@
       },
       "confirmed_by": [],
       "id": "lega-chief-simonelli-on-infantino-decision-i-would-have-taken-a-bit-more-time"
-    },
-    {
-      "published_at": "2026-08-26T15:00:00+00:00",
-      "updated_at": "2026-08-26T15:00:00+00:00",
-      "title": "Kean reports for individual training after Fiorentina stand-off",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "kean-reports-for-individual-training-after-fiorentina-stand-off"
     }
   ]
 }
