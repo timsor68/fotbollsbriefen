@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T04:07:15.158378+00:00",
+  "updated_at": "2026-08-30T10:17:46.566649+00:00",
   "items": [
     {
       "published_at": "2026-08-29T19:12:20+00:00",
@@ -46,6 +46,43 @@
       "id": "iraola-awaits-first-win-as-liverpool-rescue-late-draw-against-forest"
     },
     {
+      "published_at": "2026-08-30T08:51:08+00:00",
+      "updated_at": "2026-08-30T08:51:08+00:00",
+      "title": "Martinez is eighth Chelsea-Villa deal in four years",
+      "summary": "After Emiliano Martinez's move, BBC Sport looks at why Aston Villa and Chelsea have become one of the Premier League’s busiest transfer partnerships since 2022",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5ad6/live/c0264060-a44f-11f1-a291-b542ee92de7c.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cvgy0qjl0xno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13578946/emi-martinez-transfer-news-chelsea-complete-signing-of-argentina-international-goalkeeper-from-aston-villa"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvgy0qjl0xno?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13578946/emi-martinez-transfer-news-chelsea-complete-signing-of-argentina-international-goalkeeper-from-aston-villa"
+        }
+      ],
+      "id": "martinez-is-eighth-chelsea-villa-deal-in-four-years"
+    },
+    {
       "published_at": "2026-08-29T20:17:18+00:00",
       "updated_at": "2026-08-29T20:17:18+00:00",
       "title": "Man City open talks with Liverpool over Gakpo",
@@ -83,80 +120,41 @@
       "id": "man-city-open-talks-with-liverpool-over-gakpo"
     },
     {
-      "published_at": "2026-08-29T08:03:53+00:00",
-      "updated_at": "2026-08-29T08:03:53+00:00",
-      "title": "Liverpool agree £123m deal for PSG's Barcola",
-      "summary": "Barcola will be club’s second-most expensive signing PSG player set for medical this weekend before move Liverpool have finalised a deal worth up to £123m for Bradley Barcola, with the Paris Saint-Germain winger to undergo a medical this weekend for his move to Anfield. Liverpool agreed the outline of a deal with the Champions League holders on Wednesday night, after lengthy talks over their main summer transfer target.",
+      "published_at": "2026-08-29T12:41:06+00:00",
+      "updated_at": "2026-08-29T12:41:06+00:00",
+      "title": "Forest to bid £40m for Everton teenager Armstrong",
+      "summary": "Nottingham Forest launch an ambitious bid to sign Everton's teenage midfielder Harrison Armstrong",
       "category": [
         "Premier League",
-        "Ligue 1",
         "Transfer"
       ],
       "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/999a/live/4e4ad390-a394-11f1-a291-b542ee92de7c.jpg",
+      "club": "everton",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/47a6/live/f7f3d800-a39a-11f1-b666-4bd8c8e39163.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5ywgjnnn74o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cy0znn7lg51o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/29/liverpool-finalise-deal-bradley-barcola-psg-medical-premier-league"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5ywgjnnn74o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cy0znn7lg51o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/29/liverpool-finalise-deal-bradley-barcola-psg-medical-premier-league"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
         }
       ],
-      "id": "liverpool-agree-123m-deal-for-psg-s-barcola"
-    },
-    {
-      "published_at": "2026-08-27T13:30:17+00:00",
-      "updated_at": "2026-08-27T13:30:17+00:00",
-      "title": "Fiorentina in talks with Manchester United for Joshua Zirkzee loan",
-      "summary": "Read the full report at BBC Sport.",
-      "category": [
-        "Premier League",
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "Football Italia",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmUzIxRXBDTzFIeTNvRnBHVVJYUXZ1VGI0VS1TaDliaS01Qm9kdUM2U3p2VTJua0l5Y3NxMjhickEtdTBzbm9RZGstcnN0Z2l3RFh3VU1TOHRmYWNvQ3ZIMERXV1J3eDBGaGZrbVJrekNxOFM1QlpFQnZ3ZjVIZ9IBgwFBVV95cUxOa0pxU1RjbW5VNG5RNTczTVNMbVBSMFU5Uk9Cb2tMQ0VoUy0wU1ViWnlEUUszUEx4ZVQ3VEZQYVM5MkV1dzdfOXpJSGhLd1Z3eXAyX2dMUkUwZk5VMkltYTdBdkhsU1ZHZmZXS0I5WEMwOHhRYUEwdlV3SXZwQVpJdG54SQ?oc=5"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [
-        {
-          "name": "Football Italia",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmUzIxRXBDTzFIeTNvRnBHVVJYUXZ1VGI0VS1TaDliaS01Qm9kdUM2U3p2VTJua0l5Y3NxMjhickEtdTBzbm9RZGstcnN0Z2l3RFh3VU1TOHRmYWNvQ3ZIMERXV1J3eDBGaGZrbVJrekNxOFM1QlpFQnZ3ZjVIZ9IBgwFBVV95cUxOa0pxU1RjbW5VNG5RNTczTVNMbVBSMFU5Uk9Cb2tMQ0VoUy0wU1ViWnlEUUszUEx4ZVQ3VEZQYVM5MkV1dzdfOXpJSGhLd1Z3eXAyX2dMUkUwZk5VMkltYTdBdkhsU1ZHZmZXS0I5WEMwOHhRYUEwdlV3SXZwQVpJdG54SQ?oc=5"
-        }
-      ],
-      "id": "fiorentina-in-talks-with-manchester-united-for-joshua-zirkzee-loan"
+      "id": "forest-to-bid-40m-for-everton-teenager-armstrong"
     },
     {
       "published_at": "2026-08-26T10:30:52+00:00",
@@ -196,119 +194,92 @@
       "id": "ayyoub-bouaddi-manchester-city-sign-morocco-midfielder-from-lille-in-86m-deal"
     },
     {
-      "published_at": "2026-08-29T22:34:12+00:00",
-      "updated_at": "2026-08-29T22:34:12+00:00",
-      "title": "Why Liverpool aren't getting the best out of Isak",
-      "summary": "BBC Sport pundit Joe Hart believes Alexander Isak dropping deep to receive the ball instead of staying forward is a sign the striker is low in confidence",
+      "published_at": "2026-08-30T09:21:53+00:00",
+      "updated_at": "2026-08-30T09:21:53+00:00",
+      "title": "Teenage Cardiff midfielder Donczew joins Arsenal",
+      "summary": "Cardiff City teenager Axel Donczew has joined Arsenal as part of the Premier League champions' first-year scholarship intake",
       "category": [
-        "Premier League"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/aac0/live/03e305b0-a3f9-11f1-a291-b542ee92de7c.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cx2zwrwg5d4o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cx2zwrwg5d4o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "why-liverpool-aren-t-getting-the-best-out-of-isak"
-    },
-    {
-      "published_at": "2026-08-29T22:24:56+00:00",
-      "updated_at": "2026-08-29T22:24:56+00:00",
-      "title": "Hull agree deal with Frankfurt for winger Bahoya",
-      "summary": "Hull City agree a deal with Eintracht Frankfurt to sign winger Jean-Matteo Bahoya",
-      "category": [
-        "Bundesliga",
+        "Premier League",
         "Transfer"
       ],
       "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d765/live/ffa7bda0-a453-11f1-94c9-7de5456f4d18.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cvgy6z3j04mo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvgy6z3j04mo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "teenage-cardiff-midfielder-donczew-joins-arsenal"
+    },
+    {
+      "published_at": "2026-08-30T09:19:27+00:00",
+      "updated_at": "2026-08-30T09:19:27+00:00",
+      "title": "Boreham Wood accept Vardy-beating record fee for Abdulmalik",
+      "summary": "Swedish club Djurgardens agree a National League record fee thought to be in excess of £1.5m to sign winger Abdul Abdulmalik from Boreham Wood",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ab46/live/d9c9c8e0-a3ee-11f1-863f-8dae62681d3a.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/73c5/live/24ac7df0-a44c-11f1-8d67-49b0f9330430.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cdj4g2zrdpjo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cx2zvw14e8zo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cdj4g2zrdpjo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2zvw14e8zo?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "hull-agree-deal-with-frankfurt-for-winger-bahoya"
+      "id": "boreham-wood-accept-vardy-beating-record-fee-for-abdulmalik"
     },
     {
-      "published_at": "2026-08-29T20:02:44+00:00",
-      "updated_at": "2026-08-29T20:02:44+00:00",
-      "title": "Newcastle showed 'full commitment' in Spurs win - Jaissle",
-      "summary": "Newcastle manager Matthias Jaissle says their 2-0 away win is \"well deserved\" and praises his side's decision making to secure three points against Tottenham in the Premier League",
+      "published_at": "2026-08-30T09:04:11+00:00",
+      "updated_at": "2026-08-30T09:04:11+00:00",
+      "title": "Richarlison, Danso and Sarr ask to leave Spurs",
+      "summary": "Tottenham manager Roberto De Zerbi says that Richarlison, Kevin Danso and Pape Matar Sarr have asked to leave the club",
       "category": [
-        "Premier League"
+        "Football"
       ],
       "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
       "club": "tottenham",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/889b/live/1cccdb80-a3e2-11f1-b109-879e35c24276.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9675/live/3fce2e70-a44d-11f1-b109-879e35c24276.png",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c3d7x1n93j2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/crl631pgxj7o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c3d7x1n93j2o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/crl631pgxj7o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "newcastle-showed-full-commitment-in-spurs-win-jaissle"
+      "id": "richarlison-danso-and-sarr-ask-to-leave-spurs"
     },
     {
-      "published_at": "2026-08-29T19:27:16+00:00",
-      "updated_at": "2026-08-29T19:27:16+00:00",
-      "title": "Jaissle claims first Premier League win at lacklustre Spurs",
-      "summary": "Second-half goals from Anthony Elanga and Yoanne Wissa give manager Matthias Jaissle his first Premier League victory, as Newcastle United win 2-0 at Tottenham Hotspur",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/6052/live/2bac82c0-a3da-11f1-b109-879e35c24276.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c1kxe87ye7ro?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c1kxe87ye7ro?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "jaissle-claims-first-premier-league-win-at-lacklustre-spurs"
-    },
-    {
-      "published_at": "2026-08-29T17:12:43+00:00",
-      "updated_at": "2026-08-29T17:12:43+00:00",
-      "title": "'Slapstick' - Rose laments late Everton equaliser",
-      "summary": "Bournemouth manager Marco Rose describes the injury-time goal his side conceded as \"slapstick\" as his side settle for a point in their 1-1 draw against Everton at the Vitality Stadium",
+      "published_at": "2026-08-30T08:58:28+00:00",
+      "updated_at": "2026-08-30T08:58:28+00:00",
+      "title": "Everton call off Armstrong sale after fan backlash",
+      "summary": "Everton have called off a proposed deal to sell midfielder Harrison Armstrong to Nottingham Forest following a backlash from the club's supporters",
       "category": [
         "Premier League"
       ],
@@ -316,20 +287,47 @@
       "entity": "",
       "entity_type": "players",
       "club": "everton",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/4d5a/live/4fd8dae0-a3c6-11f1-aed2-8d6da8d75094.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8023/live/d0699fe0-a453-11f1-94c9-7de5456f4d18.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c7806jq0x02o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c0lrge3dwklo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c7806jq0x02o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/c0lrge3dwklo?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "slapstick-rose-laments-late-everton-equaliser"
+      "id": "everton-call-off-armstrong-sale-after-fan-backlash"
+    },
+    {
+      "published_at": "2026-08-30T07:38:07+00:00",
+      "updated_at": "2026-08-30T07:38:07+00:00",
+      "title": "Barcola - the 'grasshopper' who has overcome setbacks",
+      "summary": "As Liverpool agree a £123m deal for Bradley Barcola, BBC Sport looks at how he has ridden triumphs and setbacks to reach the top with the help of his family",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c15d/live/7f46d0a0-9630-11f1-acde-358da1a6646b.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ceqewejnpr3o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ceqewejnpr3o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "barcola-the-grasshopper-who-has-overcome-setbacks"
     },
     {
       "published_at": "2026-08-28T12:34:15+00:00",
@@ -357,6 +355,42 @@
       },
       "confirmed_by": [],
       "id": "v-xj-dff-g-r-rekordf-rs-ljning-sportsliga-utmaningen-blir-mycket-st-rre"
+    },
+    {
+      "published_at": "2026-08-29T21:30:37+00:00",
+      "updated_at": "2026-08-29T21:30:37+00:00",
+      "title": "Carrick dismisses ‘lazy’ Manchester United criticism and defends Fernandes’ leadership",
+      "summary": "Manager says opening-day defeat just ‘one game’ United to be without Carlos Baleba against Ipswich Michael Carrick has said it was “lazy and easy” to say everything was wrong with Manchester United after the opening-day defeat at Hull. United lost 2-0 in a tame display and the manager was asked whether his captain, Bruno Fernandes, and Youri Tielemans, Belgium’s captain, had shown the leadership that might have affected the performance and result.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-man-utd-club-blog_7326703.jpg?20260820165515",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/29/manchester-united-michael-carrick-bruno-fernandes-lazy-criticism"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/29/manchester-united-michael-carrick-bruno-fernandes-lazy-criticism"
+        }
+      ],
+      "id": "carrick-dismisses-lazy-manchester-united-criticism-and-defends-fernandes-leadership"
     },
     {
       "published_at": "2026-08-26T21:39:14+00:00",
@@ -395,6 +429,34 @@
       "id": "mbapp-hat-trick-sinks-real-sociedad-after-real-madrid-jeered-by-home-fans"
     },
     {
+      "published_at": "2026-08-30T10:42:00+00:00",
+      "updated_at": "2026-08-30T10:42:00+00:00",
+      "title": "Spurs and Everton in advanced talks over Ndiaye and Richarlison",
+      "summary": "Tottenham and Everton are in advanced talks over two players - Iliman Ndiaye and Richarlison",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-iliman-ndiaye-richarlison_7335450.jpg?20260830103520",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13578971/iliman-ndiaye-and-richarlison-transfer-news-tottenham-and-everton-in-advanced-talks-over-separate-deals"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13578971/iliman-ndiaye-and-richarlison-transfer-news-tottenham-and-everton-in-advanced-talks-over-separate-deals"
+      },
+      "confirmed_by": [],
+      "id": "spurs-and-everton-in-advanced-talks-over-ndiaye-and-richarlison"
+    },
+    {
       "published_at": "2026-08-29T22:22:00+00:00",
       "updated_at": "2026-08-29T22:22:00+00:00",
       "title": "Papers: Liverpool continue talks to sign Crystal Palace winger Sarr",
@@ -421,6 +483,33 @@
       },
       "confirmed_by": [],
       "id": "papers-liverpool-continue-talks-to-sign-crystal-palace-winger-sarr"
+    },
+    {
+      "published_at": "2026-08-29T22:09:00+00:00",
+      "updated_at": "2026-08-29T22:09:00+00:00",
+      "title": "'We're back, we're huge!' | Spurs' announcer's claim before Newcastle loss goes viral",
+      "summary": "In this clip ahead of their defeat to Newcastle that leaves them bottom of the Premier League, Tottenham's public announcer made a bold claim",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-football-premier-league_7335300.jpg?20260829221738",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/watch/video/13578899/were-back-were-going-places-were-huge-spurs-announcer-pre-match-goes-viral"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/watch/video/13578899/were-back-were-going-places-were-huge-spurs-announcer-pre-match-goes-viral"
+      },
+      "confirmed_by": [],
+      "id": "we-re-back-we-re-huge-spurs-announcer-s-claim-before-newcastle-loss-goes-viral"
     },
     {
       "published_at": "2026-08-27T09:29:08+00:00",
@@ -453,13 +542,13 @@
       "id": "benjamin-weber-interview-augsburg-sporting-director-is-a-former-chelsea-analyst-overachiev"
     },
     {
-      "published_at": "2026-08-29T06:31:00+00:00",
-      "updated_at": "2026-08-29T06:31:00+00:00",
-      "title": "Uppgifter: Crystal Palace Ordonez-värvning spricker",
-      "summary": "Read the full report at Fotbollskanalen.",
+      "published_at": "2026-08-30T03:53:31+00:00",
+      "updated_at": "2026-08-30T03:53:31+00:00",
+      "title": "Uppgifter: Milan överens om Hutchinson-värvning",
+      "summary": "Uppgifter: Guiu överens med Napoli Fotbollskanalen",
       "category": [
         "Sverige",
-        "Premier League",
+        "Serie A",
         "Transfer"
       ],
       "status": "Reported",
@@ -479,7 +568,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "uppgifter-crystal-palace-ordonez-v-rvning-spricker"
+      "id": "uppgifter-milan-verens-om-hutchinson-v-rvning"
     },
     {
       "published_at": "2026-08-28T11:41:00+00:00",
@@ -510,35 +599,6 @@
       "id": "aik-ppnar-upp-f-r-ny-v-rvning-m-ste-diskutera-det"
     },
     {
-      "published_at": "2026-08-25T17:27:39+00:00",
-      "updated_at": "2026-08-25T17:27:39+00:00",
-      "title": "Uppgifter: Milan överens om Hutchinson-värvning",
-      "summary": "Uppgifter: Guiu överens med Napoli Fotbollskanalen",
-      "category": [
-        "Sverige",
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-milan-verens-om-hutchinson-v-rvning"
-    },
-    {
       "published_at": "2026-08-23T21:44:00+00:00",
       "updated_at": "2026-08-23T21:44:00+00:00",
       "title": "Uppgifter: Jakirovic förlänger kontraktet",
@@ -566,31 +626,31 @@
       "id": "uppgifter-jakirovic-f-rl-nger-kontraktet"
     },
     {
-      "published_at": "2026-08-29T21:30:37+00:00",
-      "updated_at": "2026-08-29T21:30:37+00:00",
-      "title": "Carrick dismisses ‘lazy’ Manchester United criticism and defends Fernandes’ leadership",
-      "summary": "Manager says opening-day defeat just ‘one game’ United to be without Carlos Baleba against Ipswich Michael Carrick has said it was “lazy and easy” to say everything was wrong with Manchester United after the opening-day defeat at Hull. United lost 2-0 in a tame display and the manager was asked whether his captain, Bruno Fernandes, and Youri Tielemans, Belgium’s captain, had shown the leadership that might have affected the performance and result.",
+      "published_at": "2026-08-30T07:00:50+00:00",
+      "updated_at": "2026-08-30T07:00:50+00:00",
+      "title": "‘I’ve had a very hectic career’: Mario Balotelli on Italian football’s troubles and his future",
+      "summary": "Striker talks life in the UAE, problems with the Azzurri and ‘special feeling’ of playing for Manchester City Whenever the name Mario Balotelli is brought up, particularly in Italy, the conversation is almost inevitably laced with a sense of regret. There is that lingering “What if?”, a collective sigh over a player who possessed the raw, undeniable potential to be one of the best in the world, if only things had been different. Yet being in front of him, with a smile on his face, it becomes clear the 36-year-old striker has reached an unexpected level of wisdom and maturity, traits that shine through in his lucid analysis of Italian football’s current struggles and the vanishing street culture of the sport.",
       "category": [
-        "Premier League"
+        "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://i.guim.co.uk/img/media/22944de22adab1f186cefd60908be34e93675083/294_144_1798_1438/master/1798.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=266e967b5d6e5ff390abf1dcf45e4013",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/adfd885ead35d655449d1f2c033c87b520ce561a/312_0_3260_2608/master/3260.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc7dfe6e113cf95afe7a884e1938fc4f",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/29/manchester-united-michael-carrick-bruno-fernandes-lazy-criticism"
+          "url": "https://www.theguardian.com/football/2026/aug/30/mario-balotelli-interview-italy-saudi-arabia-maturity"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/29/manchester-united-michael-carrick-bruno-fernandes-lazy-criticism"
+        "url": "https://www.theguardian.com/football/2026/aug/30/mario-balotelli-interview-italy-saudi-arabia-maturity"
       },
       "confirmed_by": [],
-      "id": "carrick-dismisses-lazy-manchester-united-criticism-and-defends-fernandes-leadership"
+      "id": "i-ve-had-a-very-hectic-career-mario-balotelli-on-italian-football-s-troubles-and-his-futur"
     },
     {
       "published_at": "2026-08-29T20:33:33+00:00",
@@ -1001,33 +1061,6 @@
       "id": "th-rn-kan-vi-inte-bara-vara-rliga-med-varandra"
     },
     {
-      "published_at": "2026-08-29T17:52:13+00:00",
-      "updated_at": "2026-08-29T17:52:13+00:00",
-      "title": "Serie A official line-ups: Juventus vs. Parma",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "serie-a-official-line-ups-juventus-vs-parma"
-    },
-    {
       "published_at": "2026-08-29T16:18:34+00:00",
       "updated_at": "2026-08-29T16:18:34+00:00",
       "title": "Official: Ricci joins Como from Milan, loan with option to buy for €23.5m plus bonus",
@@ -1083,9 +1116,9 @@
       "id": "orsolini-serie-a-clubs-called-me-before-bologna-extension-i-have-one-italy-hope"
     },
     {
-      "published_at": "2026-08-28T16:59:15+00:00",
-      "updated_at": "2026-08-28T16:59:15+00:00",
-      "title": "Official: Miretti to Besiktas on loan with option to buy from Juventus, total €15.1m deal",
+      "published_at": "2026-08-25T08:43:30+00:00",
+      "updated_at": "2026-08-25T08:43:30+00:00",
+      "title": "Best players of Serie A Round 1: Italy trio joins Dybala and Malen",
       "summary": "Read the full report at Football Italia.",
       "category": [
         "Serie A",
@@ -1108,89 +1141,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "official-miretti-to-besiktas-on-loan-with-option-to-buy-from-juventus-total-15-1m-deal"
-    },
-    {
-      "published_at": "2026-08-28T12:09:44+00:00",
-      "updated_at": "2026-08-28T12:09:44+00:00",
-      "title": "Confirmed: Atalanta learn Conference League opponents for 2026-27 league phase",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "confirmed-atalanta-learn-conference-league-opponents-for-2026-27-league-phase"
-    },
-    {
-      "published_at": "2026-08-28T10:07:38+00:00",
-      "updated_at": "2026-08-28T10:07:38+00:00",
-      "title": "Lazio eyeing potential deal for out-of-favour Juventus winger Zhegrova",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "lazio-eyeing-potential-deal-for-out-of-favour-juventus-winger-zhegrova"
-    },
-    {
-      "published_at": "2026-08-28T09:46:24+00:00",
-      "updated_at": "2026-08-28T09:46:24+00:00",
-      "title": "Roma prepared to offer more than Juventus for free agent Kessie",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "roma-prepared-to-offer-more-than-juventus-for-free-agent-kessie"
+      "id": "best-players-of-serie-a-round-1-italy-trio-joins-dybala-and-malen"
     },
     {
       "published_at": "2026-08-26T18:46:59+00:00",
@@ -1230,6 +1181,87 @@
         }
       ],
       "id": "european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-mo"
+    },
+    {
+      "published_at": "2026-08-30T07:33:23+00:00",
+      "updated_at": "2026-08-30T07:33:23+00:00",
+      "title": "Amin Boudri beredd att bli utbuad mot AIK: ”Bryr mig inte”",
+      "summary": "Men det stör inte Hammarbys Amin Boudri. – Om de vill dansa på läktaren, det spelar ingen roll. Jag kommer göra mitt, säger han inför helgens derby",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.23/0.23/3a9da3ee10a33ecd4c4ef694f2b567f794d774761c23c2aa0f93fc8e089dd6e0",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/amin-boudri-beredd-att-bli-utbuad-mot-aik-bryr-mig-inte"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/amin-boudri-beredd-att-bli-utbuad-mot-aik-bryr-mig-inte"
+      },
+      "confirmed_by": [],
+      "id": "amin-boudri-beredd-att-bli-utbuad-mot-aik-bryr-mig-inte"
+    },
+    {
+      "published_at": "2026-08-30T07:32:59+00:00",
+      "updated_at": "2026-08-30T07:32:59+00:00",
+      "title": "Succéspelaren jagar ny derbyträff mot Hammarby: ”Något alla vill göra”",
+      "summary": "Linus Carlstrand, 21, sänkte Djurgården senast. Nu vill AIK:s succéspelare återigen ta på sig hjälterollen – den här gången mot ett upphaussat Hammarby. – Vi var väl inte favoriter mot Djurgården heller, säger han till SVT Sport",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.27/0.38/6d38c38c20a615e183dd51ee50569d66b1c720aa36f85f14c18d740910f0fddd",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/succespelaren-jagar-ny-derbytraff-mot-hammarby-nagot-alla-vill-gora"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/succespelaren-jagar-ny-derbytraff-mot-hammarby-nagot-alla-vill-gora"
+      },
+      "confirmed_by": [],
+      "id": "succ-spelaren-jagar-ny-derbytr-ff-mot-hammarby-n-got-alla-vill-g-ra"
+    },
+    {
+      "published_at": "2026-08-30T06:25:23+00:00",
+      "updated_at": "2026-08-30T06:25:23+00:00",
+      "title": "Lionel Messis nya uppvisning – stod för fyra mål i Miamis kross",
+      "summary": "Lionel Messi var återigen på spelhumör i natt. 39-åringen stod för fyra mål i Inter Miamis 7–1-kross mot Montreal. – Vi måste njuta av de här ögonblicken, eftersom han är en person och en spelare som skriver historia, säger lagkamraten Casemiro till Apple TV",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.29/0.39/ee3873f25a0691eba64e45fc2a617b3b05a1348211d2cf176833141d14728bef",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/lionel-messis-nya-uppvisning-stod-for-fyra-mal-i-miamis-kross"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/lionel-messis-nya-uppvisning-stod-for-fyra-mal-i-miamis-kross"
+      },
+      "confirmed_by": [],
+      "id": "lionel-messis-nya-uppvisning-stod-f-r-fyra-m-l-i-miamis-kross"
     },
     {
       "published_at": "2026-08-29T17:24:54+00:00",
@@ -1396,194 +1428,60 @@
       "id": "montader-madjed-en-match-fr-n-l-ftet-till-fansen-det-r-lugnt"
     },
     {
-      "published_at": "2026-08-28T19:21:15+00:00",
-      "updated_at": "2026-08-28T19:21:15+00:00",
-      "title": "Eskilstuna krossade Uppsala – satte fem mål på 34 minuter",
-      "summary": "Topplaget Eskilstuna hade bara mäktat två mål de senaste fem matcherna i damallsvenskan. Men mot tabelljumbon Uppsala rasslade det till i nätet fem gånger i första halvlek",
+      "published_at": "2026-08-30T09:08:00+00:00",
+      "updated_at": "2026-08-30T09:08:00+00:00",
+      "title": "Liverpool latest: Barcola undergoing medical ahead of move from PSG",
+      "summary": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.75/0.31/16c0a052c1c4e26a123edd83c637d86233dcf757465e0b99136396601dfd9e4b",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/eskilstuna-krossade-uppsala-satte-fem-mal-pa-34-minuter"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/eskilstuna-krossade-uppsala-satte-fem-mal-pa-34-minuter"
-      },
-      "confirmed_by": [],
-      "id": "eskilstuna-krossade-uppsala-satte-fem-m-l-p-34-minuter"
-    },
-    {
-      "published_at": "2026-08-28T17:36:23+00:00",
-      "updated_at": "2026-08-28T17:36:23+00:00",
-      "title": "Klart: HIF sparkar tränaren – Mikael Stahre tar över",
-      "summary": "Helsingborg sladdar i superettan. Nu sparkar klubben tränaren Stevie Grieve. Mikael Stahre ersätter",
-      "category": [
-        "Sverige",
-        "Coach"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.52/0.47/c6e529dd6120644945822c985b31287fa968b15dd844e504076014a759c090c4",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/klart-hif-sparkar-tranaren-mikael-stahre-tar-over"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/klart-hif-sparkar-tranaren-mikael-stahre-tar-over"
-      },
-      "confirmed_by": [],
-      "id": "klart-hif-sparkar-tr-naren-mikael-stahre-tar-ver"
-    },
-    {
-      "published_at": "2026-08-28T15:18:03+00:00",
-      "updated_at": "2026-08-28T15:18:03+00:00",
-      "title": "Kolla in Eskilstunas nya fotbollssatsning: ”Stor elvamannaplan”",
-      "summary": "Nu har första spadtaget tagits för ett nytt idrottsområde i Balsta. Den nya konstgräsplanen gör det möjligt för föreningar att spela fotboll året runt",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.18/0.37/181150a6066e1e04c94f0bc55bc75d60452856cbcdc8b44b88d45dd15f4c1dec",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/nyheter/lokalt/sormland/kolla-in-eskilstunas-nya-fotbollssatsning-stor-elvamannaplan"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/nyheter/lokalt/sormland/kolla-in-eskilstunas-nya-fotbollssatsning-stor-elvamannaplan"
-      },
-      "confirmed_by": [],
-      "id": "kolla-in-eskilstunas-nya-fotbollssatsning-stor-elvamannaplan"
-    },
-    {
-      "published_at": "2026-08-29T19:30:00+00:00",
-      "updated_at": "2026-08-29T19:30:00+00:00",
-      "title": "Spurs beaten again as Elanga and Wissa strike for Newcastle",
-      "summary": "Tottenham have lost their first two Premier League matches and failed to score in both as rejuvenated duo Anthony Elanga and Yoane Wissa struck to earn Newcastle a 2-0 victory",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-anthony-elanga-newcastle-united_7335091.jpg?20260829185441",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/tottenham-hotspur-vs-newcastle-united/report/559463"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/tottenham-hotspur-vs-newcastle-united/report/559463"
-      },
-      "confirmed_by": [],
-      "id": "spurs-beaten-again-as-elanga-and-wissa-strike-for-newcastle"
-    },
-    {
-      "published_at": "2026-08-29T16:50:00+00:00",
-      "updated_at": "2026-08-29T16:50:00+00:00",
-      "title": "Duran's double eases Celtic's CL heartache with Falkirk win",
-      "summary": "Camilo Duran's double saw Celtic recover from their Champions League heartache to maintain their winning Scottish Premiership start",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-duran-camilo-celtic_7334772.jpg?20260829155633",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/celtic-vs-falkirk/report/558352"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/celtic-vs-falkirk/report/558352"
-      },
-      "confirmed_by": [],
-      "id": "duran-s-double-eases-celtic-s-cl-heartache-with-falkirk-win"
-    },
-    {
-      "published_at": "2026-08-29T16:45:00+00:00",
-      "updated_at": "2026-08-29T16:45:00+00:00",
-      "title": "Millar seals another Hull win as Coventry's wait for PL victory continues",
-      "summary": "In a tale of two contrasting returns to the top flight, substitute Liam Millar scored late on to seal Hull's second straight victory in a 1-0 win at the CBS Arena while Frank Lampard's Coventry fell to a second consecutive league defeat",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-liam-millar-hull-city_7334849.jpg?20260829164604",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/coventry-city-vs-hull-city/report/559457"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/coventry-city-vs-hull-city/report/559457"
-      },
-      "confirmed_by": [],
-      "id": "millar-seals-another-hull-win-as-coventry-s-wait-for-pl-victory-continues"
-    },
-    {
-      "published_at": "2026-08-29T14:38:00+00:00",
-      "updated_at": "2026-08-29T14:38:00+00:00",
-      "title": "Munoz rescues point for Liverpool as Iraola's wait for a win goes on",
-      "summary": "Victor Munoz thumped in a deflected leveller to rescue a point for Liverpool in a 2-2 draw with Nottingham Forest",
-      "category": [
-        "Premier League"
+        "Premier League",
+        "Ligue 1",
+        "Transfer"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "liverpool",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-victor-munoz-liverpool_7334605.jpg?20260829142212",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-liverpool-club-blog_7326701.jpg?20260820165421",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/liverpool-vs-nottingham-forest/report/559460"
+          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/liverpool-vs-nottingham-forest/report/559460"
+        "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "munoz-rescues-point-for-liverpool-as-iraola-s-wait-for-a-win-goes-on"
+      "id": "liverpool-latest-barcola-undergoing-medical-ahead-of-move-from-psg"
+    },
+    {
+      "published_at": "2026-08-29T17:30:00+00:00",
+      "updated_at": "2026-08-29T17:30:00+00:00",
+      "title": "PL Predictions: Will set-pieces cost Man Utd again?",
+      "summary": "Our top tipster Lewis Jones, aka Jones Knows, was in flying form last weekend - can he repeat the trick?",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-premier-league-predictions_7326761.jpg?20260820172933",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13577786/premier-league-predictions-jones-knows-best-bets-crystal-palace-pain-man-city-to-make-it-back-to-back-wins"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13577786/premier-league-predictions-jones-knows-best-bets-crystal-palace-pain-man-city-to-make-it-back-to-back-wins"
+      },
+      "confirmed_by": [],
+      "id": "pl-predictions-will-set-pieces-cost-man-utd-again"
     },
     {
       "published_at": "2026-08-27T13:58:30+00:00",
@@ -1613,37 +1511,37 @@
       "id": "julian-alvarez-argentine-s-laliga-moments-that-caught-the-eye"
     },
     {
-      "published_at": "2026-08-26T09:02:25+00:00",
-      "updated_at": "2026-08-26T09:02:25+00:00",
-      "title": "How Borussia Dortmund are trying to recreate the exciting BVB of the past as they rebuild with youth under Niko Kovac",
-      "summary": "Read the full report at Sky Sports.",
+      "published_at": "2026-08-27T10:00:00+00:00",
+      "updated_at": "2026-08-27T10:00:00+00:00",
+      "title": "Palmer 'back to his best' with Alonso's freedom",
+      "summary": "Cole Palmer says this is the best he has felt \"in ages\" after starting the season strongly under Xabi Alonso at Chelsea - and he is putting the tricky previous campaign behind him",
       "category": [
-        "Bundesliga"
+        "Football"
       ],
       "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "borussia-dortmund",
-      "image": "",
+      "entity": "xabi-alonso",
+      "entity_type": "coaches",
+      "club": "",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-cole-palmer-morgan_7332044.jpg?20260826172824",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "url": "https://www.skysports.com/football/news/11095/13577403/cole-palmer-chelsea-attacker-ready-to-put-troublesome-2025-26-season-behind-him-after-promising-start-under-xabi-alonso"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "url": "https://www.skysports.com/football/news/11095/13577403/cole-palmer-chelsea-attacker-ready-to-put-troublesome-2025-26-season-behind-him-after-promising-start-under-xabi-alonso"
       },
       "confirmed_by": [],
-      "id": "how-borussia-dortmund-are-trying-to-recreate-the-exciting-bvb-of-the-past-as-they-rebuild-"
+      "id": "palmer-back-to-his-best-with-alonso-s-freedom"
     },
     {
-      "published_at": "2026-08-29T19:45:00+00:00",
-      "updated_at": "2026-08-29T19:45:00+00:00",
-      "title": "De Zerbi: \"Det finns ingen panik\"",
-      "summary": "De Zerbi: \"Det finns ingen panik\" Fotbollskanalen",
+      "published_at": "2026-08-30T07:33:57+00:00",
+      "updated_at": "2026-08-30T07:33:57+00:00",
+      "title": "Rydström: \"Det är mitt krav på spelarna\"",
+      "summary": "Rydström: \"Det är mitt krav på spelarna\" Fotbollskanalen",
       "category": [
         "Sverige"
       ],
@@ -1664,20 +1562,21 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "de-zerbi-det-finns-ingen-panik"
+      "id": "rydstr-m-det-r-mitt-krav-p-spelarna"
     },
     {
-      "published_at": "2026-08-29T18:48:00+00:00",
-      "updated_at": "2026-08-29T18:48:00+00:00",
-      "title": "Klart: Sandviken värvar Sangare",
+      "published_at": "2026-08-29T22:05:38+00:00",
+      "updated_at": "2026-08-29T22:05:38+00:00",
+      "title": "Klart: Arsenal värvar Scanlon",
       "summary": "Klart: Sandviken värvar Sangare Fotbollskanalen",
       "category": [
-        "Sverige"
+        "Sverige",
+        "Premier League"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
+      "club": "arsenal",
       "image": "",
       "sources": [
         {
@@ -1691,7 +1590,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "klart-sandviken-v-rvar-sangare"
+      "id": "klart-arsenal-v-rvar-scanlon"
     },
     {
       "published_at": "2026-08-29T18:29:08+00:00",
@@ -1749,6 +1648,62 @@
       "id": "officiellt-tottenham-l-nar-ut-donley"
     },
     {
+      "published_at": "2026-08-29T17:23:00+00:00",
+      "updated_at": "2026-08-29T17:23:00+00:00",
+      "title": "Arvidsson frälste HBK - kan varit Rosenqvists sista match",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "arvidsson-fr-lste-hbk-kan-varit-rosenqvists-sista-match"
+    },
+    {
+      "published_at": "2026-08-29T17:17:34+00:00",
+      "updated_at": "2026-08-29T17:17:34+00:00",
+      "title": "Uppgifter: Liverpool och PSG överens om Barcola",
+      "summary": "Uppgifter: Liverpool lägger nytt Sarr-bud Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "Premier League",
+        "Ligue 1"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-liverpool-och-psg-verens-om-barcola"
+    },
+    {
       "published_at": "2026-08-29T16:28:24+00:00",
       "updated_at": "2026-08-29T16:28:24+00:00",
       "title": "Bekräftat: Nalic bryter med Zrinjski Mostar",
@@ -1776,38 +1731,10 @@
       "id": "bekr-ftat-nalic-bryter-med-zrinjski-mostar"
     },
     {
-      "published_at": "2026-08-29T15:47:53+00:00",
-      "updated_at": "2026-08-29T15:47:53+00:00",
-      "title": "Uppgifter: Real Madrid värvar Martinez",
-      "summary": "Uppgifter: Aston Villa värvar Mbaye Fotbollskanalen",
-      "category": [
-        "Sverige",
-        "La Liga"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-real-madrid-v-rvar-martinez"
-    },
-    {
-      "published_at": "2026-08-29T19:38:13+00:00",
-      "updated_at": "2026-08-29T19:38:13+00:00",
-      "title": "Klart: Så spelas Mjällbys Europamatcher",
-      "summary": "Mjällby ska spela Conference League i höst, bland annat mot Atalanta och Pafos. Under lördagen publicerade klubben exakt spelschema",
+      "published_at": "2026-08-30T08:30:00+00:00",
+      "updated_at": "2026-08-30T08:30:00+00:00",
+      "title": "TV-guide: Här kan du se derbyt IFK Göteborg – Örgryte IS",
+      "summary": "Premiärmatch i Serie A när Fiorentina gästar Roma. Här är allt du behöver veta för att kunna se matchen som spelas på Stadio Olimpico i Rom",
       "category": [
         "Sverige"
       ],
@@ -1815,26 +1742,26 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/1uRtrqPdGl1AdPLTsdN0gSfBqCpAMce23s40sbtN.jpg",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/kxQf94vLd9nr5H4ZCLQQbI6gzET5IFiGLI9yjDis.png",
       "sources": [
         {
           "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/klart-sa-spelas-mjallbys-europamatcher-699917"
+          "url": "https://www.svenskafans.com/fotboll/tv-guide-har-kan-du-se-derbyt-ifk-goteborg-orgryte-is-699889"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/klart-sa-spelas-mjallbys-europamatcher-699917"
+        "url": "https://www.svenskafans.com/fotboll/tv-guide-har-kan-du-se-derbyt-ifk-goteborg-orgryte-is-699889"
       },
       "confirmed_by": [],
-      "id": "klart-s-spelas-mj-llbys-europamatcher"
+      "id": "tv-guide-h-r-kan-du-se-derbyt-ifk-g-teborg-rgryte-is"
     },
     {
-      "published_at": "2026-08-29T18:07:10+00:00",
-      "updated_at": "2026-08-29T18:07:10+00:00",
-      "title": "Spelarbetyg när IFK tog sjunde raka - \"Hyllningarna håller på att ta slut\"",
-      "summary": "IFK tog sjunde raka segern borta mot Nordic United och Christoffer \"Totte\" Nyman gjorde alla Norrköpings tre mål i 3-1-segern.",
+      "published_at": "2026-08-30T06:56:13+00:00",
+      "updated_at": "2026-08-30T06:56:13+00:00",
+      "title": "Linus Carlstrand hoppas bli derbyhjälte igen: ”Klart man tar med sig självförtroendet”",
+      "summary": "AIK tar emot Hammarby på Strawberry Arena. Då hoppas Linus Carlstrand återigen på att bli derbyhjälte för sitt AIK. – Det är klart man vill skriva in sig i målprotokollet igen, säger han",
       "category": [
         "Sverige"
       ],
@@ -1842,26 +1769,26 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/r6B1cgT7pT68zf73ZblKiLxEx20AR8E2HSTty3tz.jpg",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/4KaW3wurbeOzLXSPv7ZKBAzYhwCt8v8mwNG1VSws.png",
       "sources": [
         {
           "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/spelarbetyg-nar-ifk-tog-sjunde-raka-hyllningarna-haller-pa-att-ta-slut-699913"
+          "url": "https://www.svenskafans.com/fotboll/linus-carlstrand-hoppas-bli-derbyhjalte-igen-klart-man-tar-med-sig-sjalvfortroendet-699925"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/spelarbetyg-nar-ifk-tog-sjunde-raka-hyllningarna-haller-pa-att-ta-slut-699913"
+        "url": "https://www.svenskafans.com/fotboll/linus-carlstrand-hoppas-bli-derbyhjalte-igen-klart-man-tar-med-sig-sjalvfortroendet-699925"
       },
       "confirmed_by": [],
-      "id": "spelarbetyg-n-r-ifk-tog-sjunde-raka-hyllningarna-h-ller-p-att-ta-slut"
+      "id": "linus-carlstrand-hoppas-bli-derbyhj-lte-igen-klart-man-tar-med-sig-sj-lvf-rtroendet"
     },
     {
-      "published_at": "2026-08-29T15:56:00+00:00",
-      "updated_at": "2026-08-29T15:56:00+00:00",
-      "title": "Hampus Källström efter segern mot Brage: \"Då spelar vi i Allsvenskan nästa år\"",
-      "summary": "Falkenberg vann komfortabelt hemma mot Brage under lördagen. Falkenberg fick se Albin Andersson och Hampus Källström stå för två mål vardera idag och efter matchen pratade jag med den ena målskytten, Hampus Källström",
+      "published_at": "2026-08-30T06:00:00+00:00",
+      "updated_at": "2026-08-30T06:00:00+00:00",
+      "title": "TV-guide: Så kan du se AIK – Hammarby",
+      "summary": "FC Stockholm Internazionale tar emot Hammarby i Svenska Cupens andra kvalomgång. Här är allt du behöver veta för att kunna se matchen som spelas på Stockholms Stadion",
       "category": [
         "Sverige"
       ],
@@ -1869,26 +1796,26 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/tBXf6nO3NuqVwiUKu98qLgCY1sPw97Co8bIws7pl.jpg",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/MyWhqdiDtb5ee2ZnrpKFIf8osLHJvDKFhZts3vel.jpg",
       "sources": [
         {
           "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/hampus-kallstrom-efter-segern-mot-brage-da-spelar-vi-i-allsvenskan-nasta-ar-699905"
+          "url": "https://www.svenskafans.com/fotboll/tv-guide-sa-kan-du-se-aik-hammarby-699834"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/hampus-kallstrom-efter-segern-mot-brage-da-spelar-vi-i-allsvenskan-nasta-ar-699905"
+        "url": "https://www.svenskafans.com/fotboll/tv-guide-sa-kan-du-se-aik-hammarby-699834"
       },
       "confirmed_by": [],
-      "id": "hampus-k-llstr-m-efter-segern-mot-brage-d-spelar-vi-i-allsvenskan-n-sta-r"
+      "id": "tv-guide-s-kan-du-se-aik-hammarby"
     },
     {
-      "published_at": "2026-08-29T14:59:00+00:00",
-      "updated_at": "2026-08-29T14:59:00+00:00",
-      "title": "FEM SPANINGAR FFF-IK BRAGE: \"De MÅSTE behållas\"",
-      "summary": "Falkenberg vann mötet med Brage under lördagen med 4-1. Detta efter två mål av de offensiva stjärnorna Hampus Källström och Albin Andersson",
+      "published_at": "2026-08-30T06:00:00+00:00",
+      "updated_at": "2026-08-30T06:00:00+00:00",
+      "title": "Rydström om AIK:s fina form: ”Kunde straffats hårdare”",
+      "summary": "AIK har vunnit fem av sju matcher sedan sommaruppehållet. Men det räds inte Hammarby-tränaren Henrik Rydström inför söndagens Stockholmsderby. – De har fått synergieffekter som har hakat i varandra, säger Bajen-coachen",
       "category": [
         "Sverige"
       ],
@@ -1896,20 +1823,20 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/tBXf6nO3NuqVwiUKu98qLgCY1sPw97Co8bIws7pl.jpg",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/3tH6offkGlwRMvsKYrl3J7g4tqsNMNaFvVoHUCeH.jpg",
       "sources": [
         {
           "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/fem-spaningar-fff-ik-brage-de-maste-behallas-699904"
+          "url": "https://www.svenskafans.com/fotboll/rydstrom-om-aiks-fina-form-kunde-straffats-hardare-699903"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/fem-spaningar-fff-ik-brage-de-maste-behallas-699904"
+        "url": "https://www.svenskafans.com/fotboll/rydstrom-om-aiks-fina-form-kunde-straffats-hardare-699903"
       },
       "confirmed_by": [],
-      "id": "fem-spaningar-fff-ik-brage-de-m-ste-beh-llas"
+      "id": "rydstr-m-om-aik-s-fina-form-kunde-straffats-h-rdare"
     },
     {
       "published_at": "2026-08-28T23:48:00+00:00",
@@ -1937,6 +1864,60 @@
       },
       "confirmed_by": [],
       "id": "bayern-5-1-stuttgart-28-aug-2026-game-analysis"
+    },
+    {
+      "published_at": "2026-08-30T08:33:08+00:00",
+      "updated_at": "2026-08-30T08:33:08+00:00",
+      "title": "Serie A: Cagliari vs. Inter – Probable line-ups and where to watch on TV",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "serie-a-cagliari-vs-inter-probable-line-ups-and-where-to-watch-on-tv"
+    },
+    {
+      "published_at": "2026-08-29T20:43:54+00:00",
+      "updated_at": "2026-08-29T20:43:54+00:00",
+      "title": "Serie A | Juventus 2-0 Parma: Nico Gonzalez inspirational for victory",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "serie-a-juventus-2-0-parma-nico-gonzalez-inspirational-for-victory"
     },
     {
       "published_at": "2026-08-29T18:35:10+00:00",
@@ -1993,9 +1974,9 @@
       "id": "serie-a-fiorentina-0-3-frosinone-centenary-humiliation-as-canarini-soar"
     },
     {
-      "published_at": "2026-08-29T18:29:34+00:00",
-      "updated_at": "2026-08-29T18:29:34+00:00",
-      "title": "Serie A | Sassuolo 2-1 Torino: Berardi immediate impact for first success",
+      "published_at": "2026-08-28T16:11:21+00:00",
+      "updated_at": "2026-08-28T16:11:21+00:00",
+      "title": "Leao sale to Galatasaray generates huge €43.9m profit for Milan",
       "summary": "Read the full report at Football Italia.",
       "category": [
         "Serie A"
@@ -2017,35 +1998,61 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "serie-a-sassuolo-2-1-torino-berardi-immediate-impact-for-first-success"
+      "id": "leao-sale-to-galatasaray-generates-huge-43-9m-profit-for-milan"
     },
     {
-      "published_at": "2026-08-29T23:20:00+00:00",
-      "updated_at": "2026-08-29T23:20:00+00:00",
-      "title": "Lookman scores as Alvarez misses Atletico win | Juventus maintain perfect start",
-      "summary": "Latest updates from La Liga, Serie A, Bundesliga and Ligue 1; Jude Bellingham secures Real Madrid win as Jose Mourinho hits out at Vinicius Jr bullying",
+      "published_at": "2026-08-28T11:12:27+00:00",
+      "updated_at": "2026-08-28T11:12:27+00:00",
+      "title": "Champions League Draw Reaction: Two Serie A clubs in the top 8?",
+      "summary": "Read the full report at Football Italia.",
       "category": [
-        "La Liga",
         "Serie A"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/04/1600x900/skysports-football-ademola-lookman_7220251.jpg?20260414205002",
+      "image": "",
       "sources": [
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "lookman-scores-as-alvarez-misses-atletico-win-juventus-maintain-perfect-start"
+      "id": "champions-league-draw-reaction-two-serie-a-clubs-in-the-top-8"
+    },
+    {
+      "published_at": "2026-08-26T17:35:00+00:00",
+      "updated_at": "2026-08-26T17:35:00+00:00",
+      "title": "Malago eyes Immobile for FIGC leadership team alongside Ranieri and Zola",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "malago-eyes-immobile-for-figc-leadership-team-alongside-ranieri-and-zola"
     }
   ]
 }
