@@ -1,32 +1,62 @@
 {
-  "updated_at": "2026-09-01T07:23:34.731071+00:00",
+  "updated_at": "2026-09-01T13:10:48.197211+00:00",
   "items": [
     {
-      "published_at": "2026-08-31T20:21:22+00:00",
-      "updated_at": "2026-08-31T20:21:22+00:00",
-      "title": "Everton agree £40m fee for Monaco striker Balogun",
-      "summary": "Manchester City confirm Allan signing for initial £32.1m Palace sell Muñoz to Forest and poised to sign Ahanor Nick Woltemade is close to a loan move from Newcastle to Juventus, a year after arriving at St James’ Park in a club-record £69m deal from Stuttgart. The gifted Germany forward has struggled to impose himself amid the high-intensity gameplans choreographed first by Eddie Howe and now Matthias Jaissle. Juventus are one of a handful of clubs – Borussia Dortmund are among the others – to have inquired about Woltemade’s availability and Newcastle are in negotiations with the Turin club regarding a move involving a loan fee of about £5m.",
+      "published_at": "2026-09-01T13:08:49+00:00",
+      "updated_at": "2026-09-01T13:08:49+00:00",
+      "title": "Barcelona complete signing of Arsenal striker Jesus",
+      "summary": "Barcelona have completed the signing of Gabriel Jesus on a permanent deal",
       "category": [
         "Premier League",
-        "Ligue 1"
+        "La Liga",
+        "Transfer"
       ],
       "status": "Confirmed by multiple sources",
-      "entity": "folarin-balogun",
+      "entity": "",
       "entity_type": "players",
-      "club": "everton",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3a6d/live/ff75f700-a54a-11f1-8689-6589354d0f8e.jpg",
+      "club": "arsenal",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9ecf/live/5f52add0-a604-11f1-b109-879e35c24276.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c780wzlzl45o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cx2zpx27l91o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-        },
+          "url": "https://www.skysports.com/football/news/11095/13579275/gabriel-jesus-arsenal-forward-completes-barcelona-transfer-in-8-6m-deal-on-deadline-day"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2zpx27l91o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVRUV9UTTVMOURHc2JwcVpjR291V0RQSkgwTDVCeUthUlpCZkd0UmIzUzg1SFpQSkVadXhNTmg5QzJnLWZhZHhFUV9QalgzSGc2ZVhCTFBPUW4yTVUxbUhFSWkwelFIdjRpV0FSaXZSdWoyaVZLNmYyUkFURF9kV05qUTZiMVhwYnB2cw?oc=5"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13579275/gabriel-jesus-arsenal-forward-completes-barcelona-transfer-in-8-6m-deal-on-deadline-day"
+        }
+      ],
+      "id": "barcelona-complete-signing-of-arsenal-striker-jesus"
+    },
+    {
+      "published_at": "2026-09-01T12:27:37+00:00",
+      "updated_at": "2026-09-01T12:27:37+00:00",
+      "title": "Everton agree to re-sign Grealish on loan from Man City",
+      "summary": "Manchester City confirm Allan signing for initial £32.1m Palace sell Muñoz to Forest and poised to sign Ahanor Nick Woltemade is close to a loan move from Newcastle to Juventus, a year after arriving at St James’ Park in a club-record £69m deal from Stuttgart. The gifted Germany forward has struggled to impose himself amid the high-intensity gameplans choreographed first by Eddie Howe and now Matthias Jaissle. Juventus are one of a handful of clubs – Borussia Dortmund are among the others – to have inquired about Woltemade’s availability and Newcastle are in negotiations with the Turin club regarding a move involving a loan fee of about £5m.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eaf8/live/e8c3fb40-a5ce-11f1-ae66-53604efd186f.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c70dkgx1yepo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "The Guardian",
@@ -36,29 +66,96 @@
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c780wzlzl45o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/c70dkgx1yepo?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-        },
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVRUV9UTTVMOURHc2JwcVpjR291V0RQSkgwTDVCeUthUlpCZkd0UmIzUzg1SFpQSkVadXhNTmg5QzJnLWZhZHhFUV9QalgzSGc2ZVhCTFBPUW4yTVUxbUhFSWkwelFIdjRpV0FSaXZSdWoyaVZLNmYyUkFURF9kV05qUTZiMVhwYnB2cw?oc=5"
-        },
         {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/football/2026/aug/31/transfer-latest-nick-woltemade-newcastle-juventus-everton-folarin-balogun"
         }
       ],
-      "id": "everton-agree-40m-fee-for-monaco-striker-balogun"
+      "id": "everton-agree-to-re-sign-grealish-on-loan-from-man-city"
+    },
+    {
+      "published_at": "2026-09-01T12:24:52+00:00",
+      "updated_at": "2026-09-01T12:24:52+00:00",
+      "title": "Aston Villa sign Mbaye and Harwood-Bellis",
+      "summary": "Aston Villa complete the signings of Senegal winger Ibrahim Mbaye from Paris St-Germain and English centre-back Taylor Harwood-Bellis from Southampton",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/750c/live/ff9281a0-a5f8-11f1-aed2-8d6da8d75094.png",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c1kxmjvnl8yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13579783/ibrahim-mbaye-aston-villa-confirm-signing-of-18-year-old-paris-saint-germain-winger"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c1kxmjvnl8yo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13579783/ibrahim-mbaye-aston-villa-confirm-signing-of-18-year-old-paris-saint-germain-winger"
+        }
+      ],
+      "id": "aston-villa-sign-mbaye-and-harwood-bellis"
+    },
+    {
+      "published_at": "2026-09-01T07:34:09+00:00",
+      "updated_at": "2026-09-01T07:34:09+00:00",
+      "title": "Dortmund agree loan move for Arsenal's Nwaneri",
+      "summary": "German club Borussia Dortmund agree a deal with Arsenal to sign Ethan Nwaneri on a season-long loan",
+      "category": [
+        "Premier League",
+        "Bundesliga",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8ccb/live/8a0cb860-a567-11f1-86d4-95b193638b63.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c70lq9rpzgjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUU1fUlE3bjJQbjJrSEQyU0FQNzYxdHNJeUw0WGh3OEp6amZHRzZfR2lSQTJFNGw4M2VFUEdBblRNb19Ddk5SWE5tYmRWTGlrQy1oTTNrMFo1QzliUGlXbVJYdzRhMThZVDFLRU9fM0c4eWdmVEF5WjlmeEJYNTlRaDZDUl9CRmJ4MjA0eGtpSThrQ29TTnh2cnQwR3VIOXlDa3c?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c70lq9rpzgjo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUU1fUlE3bjJQbjJrSEQyU0FQNzYxdHNJeUw0WGh3OEp6amZHRzZfR2lSQTJFNGw4M2VFUEdBblRNb19Ddk5SWE5tYmRWTGlrQy1oTTNrMFo1QzliUGlXbVJYdzRhMThZVDFLRU9fM0c4eWdmVEF5WjlmeEJYNTlRaDZDUl9CRmJ4MjA0eGtpSThrQ29TTnh2cnQwR3VIOXlDa3c?oc=5"
+        }
+      ],
+      "id": "dortmund-agree-loan-move-for-arsenal-s-nwaneri"
     },
     {
       "published_at": "2026-08-31T21:20:32+00:00",
       "updated_at": "2026-08-31T21:20:32+00:00",
       "title": "Man City open talks with Chelsea over Fernandez move",
-      "summary": "Manchester City have opened direct club-to-club talks with Chelsea to sign Enzo Fernandez, according to Sky in Italy",
+      "summary": "Manchester City have opened direct club-to-club talks with Chelsea to sign Enzo Fernandez, with the Argentina international making it clear that he wants to make the move",
       "category": [
         "Premier League",
         "Transfer"
@@ -92,22 +189,61 @@
       "id": "man-city-open-talks-with-chelsea-over-fernandez-move"
     },
     {
-      "published_at": "2026-08-31T20:07:16+00:00",
-      "updated_at": "2026-08-31T20:07:16+00:00",
-      "title": "Liverpool news: Bradley Barcola - what does he offer?",
+      "published_at": "2026-08-31T20:21:22+00:00",
+      "updated_at": "2026-08-31T20:21:22+00:00",
+      "title": "Everton agree £40m fee for Monaco striker Balogun",
+      "summary": "Everton agree a £40m deal with Monaco for United States striker Folarin Balogun",
+      "category": [
+        "Premier League",
+        "Ligue 1"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "folarin-balogun",
+      "entity_type": "players",
+      "club": "everton",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3a6d/live/ff75f700-a54a-11f1-8689-6589354d0f8e.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c780wzlzl45o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVRUV9UTTVMOURHc2JwcVpjR291V0RQSkgwTDVCeUthUlpCZkd0UmIzUzg1SFpQSkVadXhNTmg5QzJnLWZhZHhFUV9QalgzSGc2ZVhCTFBPUW4yTVUxbUhFSWkwelFIdjRpV0FSaXZSdWoyaVZLNmYyUkFURF9kV05qUTZiMVhwYnB2cw?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c780wzlzl45o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkVRUV9UTTVMOURHc2JwcVpjR291V0RQSkgwTDVCeUthUlpCZkd0UmIzUzg1SFpQSkVadXhNTmg5QzJnLWZhZHhFUV9QalgzSGc2ZVhCTFBPUW4yTVUxbUhFSWkwelFIdjRpV0FSaXZSdWoyaVZLNmYyUkFURF9kV05qUTZiMVhwYnB2cw?oc=5"
+        }
+      ],
+      "id": "everton-agree-40m-fee-for-monaco-striker-balogun"
+    },
+    {
+      "published_at": "2026-08-31T13:01:22+00:00",
+      "updated_at": "2026-08-31T13:01:22+00:00",
+      "title": "Barcola joins Liverpool from PSG in £123m move",
       "summary": "France international says title ‘one of my biggest dreams’ Club rejected weekend Gakpo bid from Manchester City Bradley Barcola is aiming to win the Premier League after completing his move to Liverpool from Paris Saint‑Germain for an initial £106m, which could rise to £123m. The France international has signed a five-year deal. Andoni Iraola has prioritised signing wingers this summer after replacing Arne Slot.",
       "category": [
-        "Premier League"
+        "Premier League",
+        "Ligue 1",
+        "Transfer"
       ],
       "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
       "club": "liverpool",
-      "image": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/04a8/live/705dce60-a53d-11f1-a492-cfe8e2df591b.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c9qrj4p58j4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "The Guardian",
@@ -117,7 +253,7 @@
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "url": "https://www.bbc.co.uk/sport/football/articles/c9qrj4p58j4o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
@@ -125,118 +261,7 @@
           "url": "https://www.theguardian.com/football/2026/aug/31/liverpool-confirm-bradley-barcola-signing-psg"
         }
       ],
-      "id": "liverpool-news-bradley-barcola-what-does-he-offer"
-    },
-    {
-      "published_at": "2026-08-31T19:45:18+00:00",
-      "updated_at": "2026-08-31T19:45:18+00:00",
-      "title": "Forest forward Hutchinson joins AC Milan on loan",
-      "summary": "AC Milan complete the signing of Omari Hutchinson on loan from Nottingham Forest until the end of the season",
-      "category": [
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d26e/live/4eacc8f0-a571-11f1-97c9-d368232aa66d.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c62k7n7p64eo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Football Italia",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DWUs4N3U3ZE1zZVQ2RVYxU0xQV1FlWjdzeE1PWGhiTmNrWG5iYmdtZlJhMjVYTzlTXzVGOUdoQTNXY09Fai15cVF3Q0hNQkE3b05zdmthc3gwLXRQTE1zRTFBVnRNcVNJNkYwMVNaXzRnMVBMLWFfZFZCSXHSAYIBQVVfeXFMT1d1eGJlUXFYS2RjcHh4aUlyeHg2a2NGaEV3R0JFWC0tOFAxX1ozajk4cnFudVdMVHlHN1BuampMT3dtNDVwdGlTYUU2VVZBQXVNN0pyYkk2VV9VR3ZBLTV3YWhWeWFodUdkV2dxNG5acmxUeVVvUEZleG9rWVFPMmVpUQ?oc=5"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c62k7n7p64eo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Football Italia",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DWUs4N3U3ZE1zZVQ2RVYxU0xQV1FlWjdzeE1PWGhiTmNrWG5iYmdtZlJhMjVYTzlTXzVGOUdoQTNXY09Fai15cVF3Q0hNQkE3b05zdmthc3gwLXRQTE1zRTFBVnRNcVNJNkYwMVNaXzRnMVBMLWFfZFZCSXHSAYIBQVVfeXFMT1d1eGJlUXFYS2RjcHh4aUlyeHg2a2NGaEV3R0JFWC0tOFAxX1ozajk4cnFudVdMVHlHN1BuampMT3dtNDVwdGlTYUU2VVZBQXVNN0pyYkk2VV9VR3ZBLTV3YWhWeWFodUdkV2dxNG5acmxUeVVvUEZleG9rWVFPMmVpUQ?oc=5"
-        }
-      ],
-      "id": "forest-forward-hutchinson-joins-ac-milan-on-loan"
-    },
-    {
-      "published_at": "2026-08-31T17:58:36+00:00",
-      "updated_at": "2026-08-31T17:58:36+00:00",
-      "title": "Elliott expected to join Valencia on loan",
-      "summary": "Liverpool midfielder Harvey Elliott is expected to join Valencia on loan for the rest of the season",
-      "category": [
-        "La Liga",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3f8d/live/d1496060-a536-11f1-a492-cfe8e2df591b.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cx2zk08xe3ko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx2zk08xe3ko?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "id": "elliott-expected-to-join-valencia-on-loan"
-    },
-    {
-      "published_at": "2026-08-31T14:29:13+00:00",
-      "updated_at": "2026-08-31T14:29:13+00:00",
-      "title": "Newcastle close in on £55m deal for Fernandez-Pardo",
-      "summary": "Newcastle United are closing in on the signing of Lille forward Matias Fernandez-Pardo in a deal worth up to £55m",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ab49/live/21396140-a53e-11f1-a492-cfe8e2df591b.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5ylv97mn58o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13579415/matias-fernandez-pardo-transfer-news-newcastle-closing-in-on-deal-to-sign-lille-forward-ahead-of-transfer-deadline"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5ylv97mn58o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13579415/matias-fernandez-pardo-transfer-news-newcastle-closing-in-on-deal-to-sign-lille-forward-ahead-of-transfer-deadline"
-        }
-      ],
-      "id": "newcastle-close-in-on-55m-deal-for-fernandez-pardo"
+      "id": "barcola-joins-liverpool-from-psg-in-123m-move"
     },
     {
       "published_at": "2026-09-01T06:03:35+00:00",
@@ -258,7 +283,7 @@
         },
         {
           "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb0hmeU00WHlDU0VlOU8zR1RLLUtQNDYyZ0VkQmFHbC1ndURzVjZVbU10MHNqY1l1dXJYbk4yWVRjUUVsaGk2c01xZTY5MGdZS3Nac1NBWFBsTEJjS3pDY3FROTh0TzZ1R0hrSE0xZEFPLUtNdUdTVkd2NVpvVWhfN2F4d1dVcmVaQlBLSTk2Yw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS0pMQXlvOE0xMEkzdjB1cjVOVlYzX0oyWVJOT2pZTEMxWjZQd1plUk9WQm85WWFIWTlBaUlHeHRxLWNYZTRfQUN3SjJudXFjMUJPWXg0SVBzVjZaeHFweXN4MGxKTjl6N29GWUI1c1FWbGROYU4yOHk4QU0tNk96RHJSTUpYcWdJcE5nN1E5ckxPZlNGRGc?oc=5"
         }
       ],
       "language": "en",
@@ -269,135 +294,91 @@
       "confirmed_by": [
         {
           "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb0hmeU00WHlDU0VlOU8zR1RLLUtQNDYyZ0VkQmFHbC1ndURzVjZVbU10MHNqY1l1dXJYbk4yWVRjUUVsaGk2c01xZTY5MGdZS3Nac1NBWFBsTEJjS3pDY3FROTh0TzZ1R0hrSE0xZEFPLUtNdUdTVkd2NVpvVWhfN2F4d1dVcmVaQlBLSTk2Yw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS0pMQXlvOE0xMEkzdjB1cjVOVlYzX0oyWVJOT2pZTEMxWjZQd1plUk9WQm85WWFIWTlBaUlHeHRxLWNYZTRfQUN3SjJudXFjMUJPWXg0SVBzVjZaeHFweXN4MGxKTjl6N29GWUI1c1FWbGROYU4yOHk4QU0tNk96RHJSTUpYcWdJcE5nN1E5ckxPZlNGRGc?oc=5"
         }
       ],
       "id": "uppgifter-hugo-larsson-flyttar-till-fulham"
     },
     {
-      "published_at": "2026-08-31T23:15:36+00:00",
-      "updated_at": "2026-08-31T23:15:36+00:00",
-      "title": "Arteta joins elite 250 club - but where does he rank?",
-      "summary": "Arsenal's fans are singing about winning the league again under Mikel Arteta. Monday's 1-0 win at Aston Villa demonstrated the strengths they have developed under their long-serving manager",
+      "published_at": "2026-09-01T12:58:19+00:00",
+      "updated_at": "2026-09-01T12:58:19+00:00",
+      "title": "Why is Scotland's transfer window closing on Thursday?",
+      "summary": "BBC Scotland answers the question about Scotland's delayed closure of the summer transfer window",
       "category": [
         "Transfer"
       ],
       "status": "Confirmed",
-      "entity": "mikel-arteta",
-      "entity_type": "coaches",
+      "entity": "",
+      "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a05a/live/a516d880-a584-11f1-9384-01fa380f65bb.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b45f/live/10761df0-a5eb-11f1-8348-fb0cb1cd9761.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cy4z8qjx931o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cx2zy363lqyo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cy4z8qjx931o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cx2zy363lqyo?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "arteta-joins-elite-250-club-but-where-does-he-rank"
+      "id": "why-is-scotland-s-transfer-window-closing-on-thursday"
     },
     {
-      "published_at": "2026-08-31T21:37:50+00:00",
-      "updated_at": "2026-08-31T21:37:50+00:00",
-      "title": "Saka earns Arsenal hard-fought win at Aston Villa",
-      "summary": "The smile on Declan Rice’s face with six minutes of normal time remaining said it all. He had just shut down Ian Maatsen as the Aston Villa full-back zoomed into the box. Arsenal, for whom Bukayo Saka scored the only goal, were authoritative and seemingly took great satisfaction in keeping Villa at arm’s length.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/967f/live/194c84e0-a583-11f1-aed2-8d6da8d75094.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c0lrz74r8l9o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/aston-villa-vs-arsenal/report/559454"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/31/aston-villa-arsenal-premier-league-match-report"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c0lrz74r8l9o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/aston-villa-vs-arsenal/report/559454"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/31/aston-villa-arsenal-premier-league-match-report"
-        }
-      ],
-      "id": "saka-earns-arsenal-hard-fought-win-at-aston-villa"
-    },
-    {
-      "published_at": "2026-08-31T21:29:58+00:00",
-      "updated_at": "2026-08-31T21:29:58+00:00",
-      "title": "Hull agree £22m fee for Everton's Iroegbunam",
-      "summary": "Manchester City agree a deal worth a minimum £60m to sign Iliman Ndiaye from Everton",
+      "published_at": "2026-09-01T12:47:43+00:00",
+      "updated_at": "2026-09-01T12:47:43+00:00",
+      "title": "Ahanor announced by two clubs in one day after Chelsea workaround",
+      "summary": "Chelsea announce teenage defender Honest Ahanor will join the club in 2027 after the Atalanta player has completed a loan at Crystal Palace",
       "category": [
         "Premier League"
       ],
       "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
-      "club": "everton",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/81ba/live/9bd1d3e0-a581-11f1-ae94-15924a612dd1.jpg",
+      "club": "chelsea",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a9c9/live/6c39aa90-a1e4-11f1-b132-bb16290da3a7.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ce9eny2r9j0o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cdj4ev9nmj4o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ce9eny2r9j0o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cdj4ev9nmj4o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "hull-agree-22m-fee-for-everton-s-iroegbunam"
+      "id": "ahanor-announced-by-two-clubs-in-one-day-after-chelsea-workaround"
     },
     {
-      "published_at": "2026-08-31T21:07:46+00:00",
-      "updated_at": "2026-08-31T21:07:46+00:00",
-      "title": "Sunderland agree loan deal with Spurs for Danso",
-      "summary": "Sunderland are set to sign defender Kevin Danso from Tottenham on a season-long loan, with an option for a permanent move",
+      "published_at": "2026-09-01T12:13:12+00:00",
+      "updated_at": "2026-09-01T12:13:12+00:00",
+      "title": "South Africa reappoint Mosimane as head coach",
+      "summary": "Pitso Mosimane is reappointed head coach of South Africa's men's national team, more than 14 years after his first spell in charge of Bafana Bafana ended",
       "category": [
-        "Transfer"
+        "Coach"
       ],
       "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8380/live/282c95a0-a49c-11f1-837c-8514728b4183.jpg",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bc2f/live/89eca370-a5fa-11f1-8348-fb0cb1cd9761.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/crl63ylw12yo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cd79d1gnej4o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crl63ylw12yo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cd79d1gnej4o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "sunderland-agree-loan-deal-with-spurs-for-danso"
+      "id": "south-africa-reappoint-mosimane-as-head-coach"
     },
     {
       "published_at": "2026-08-31T17:51:30+00:00",
@@ -419,7 +400,7 @@
         },
         {
           "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN2lrdExPV0xzZDVnZ3RXRFVYWWk2enVObEgxUi03Ukd1UGhHdGlaZXpnZ2xNb21ZNEZoVGNWY0FyVGhnSEtlMVhEZ0JjbUxLRGc5V2x3TVJuUUVpSW1fTklaNUJxNUxKa05oWVhKdW00dHJUOUF5dURqUW9DX3oyRmhzVUhwRlZrY2NLWXNldTVzd3c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT0U2d3hScGRxMktxZkhtU29kRHVFTFRHVlJqdVZ5XzhHSTlrLTVMd0l6WlRlRktfbHBLb2J0TlRYeHQ2dmxKeWxfYmFlcGs0U3pKMFY0YnY3dE1UTlM0dW84SnNvcFVXdDc1TFdCaU45UGlBNWd6cmJCU0pXMHkyRnVfWVpEcC1reHJNWnhXNVJMazZtdFlNejdn?oc=5"
         },
         {
           "name": "SvenskaFans",
@@ -434,7 +415,7 @@
       "confirmed_by": [
         {
           "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN2lrdExPV0xzZDVnZ3RXRFVYWWk2enVObEgxUi03Ukd1UGhHdGlaZXpnZ2xNb21ZNEZoVGNWY0FyVGhnSEtlMVhEZ0JjbUxLRGc5V2x3TVJuUUVpSW1fTklaNUJxNUxKa05oWVhKdW00dHJUOUF5dURqUW9DX3oyRmhzVUhwRlZrY2NLWXNldTVzd3c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT0U2d3hScGRxMktxZkhtU29kRHVFTFRHVlJqdVZ5XzhHSTlrLTVMd0l6WlRlRktfbHBLb2J0TlRYeHQ2dmxKeWxfYmFlcGs0U3pKMFY0YnY3dE1UTlM0dW84SnNvcFVXdDc1TFdCaU45UGlBNWd6cmJCU0pXMHkyRnVfWVpEcC1reHJNWnhXNVJMazZtdFlNejdn?oc=5"
         },
         {
           "name": "SvenskaFans",
@@ -471,31 +452,142 @@
       "id": "hove-hyllar-unga-aik-os-ker-p-vad-de-heter-i-efternamn"
     },
     {
-      "published_at": "2026-08-31T23:00:00+00:00",
-      "updated_at": "2026-08-31T23:00:00+00:00",
-      "title": "Deadline Day Papers: Man Utd open contract talks with captain Fernandes",
-      "summary": "The top stories and transfer rumours from Tuesday's Deadline Day back pages",
+      "published_at": "2026-09-01T10:30:00+00:00",
+      "updated_at": "2026-09-01T10:30:00+00:00",
+      "title": "Chelsea agree deal to sign Honest Ahanor",
+      "summary": "Chelsea agree deal to sign Honest Ahanor | News | Official Site Chelsea Football Club",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Official",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "",
+      "sources": [
+        {
+          "name": "Chelsea",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Chelsea",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "chelsea-agree-deal-to-sign-honest-ahanor"
+    },
+    {
+      "published_at": "2026-09-01T08:30:00+00:00",
+      "updated_at": "2026-09-01T08:30:00+00:00",
+      "title": "Marc Guiu departs on permanent transfer",
+      "summary": "Marc Guiu departs on permanent transfer | News | Official Site Chelsea Football Club",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Official",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Chelsea",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Chelsea",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "marc-guiu-departs-on-permanent-transfer"
+    },
+    {
+      "published_at": "2026-09-01T11:00:00+00:00",
+      "updated_at": "2026-09-01T11:00:00+00:00",
+      "title": "How good is Fernandez-Pardo? Explosive winger can thrill like Doku",
+      "summary": "There is one special quality that will have convinced Newcastle United that Matias Fernandez-Pardo can thrive in the Premier League. \"He is very explosive, very fast,\" his former coach Arnar Vidarsson tells Sky Sports .",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-matias-fernandez-pardo_7333570.jpg?20260828122700",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13569269/matias-fernandez-pardo-to-newcastle-signing-from-lille-is-very-fast-with-unbelievable-power-like-jeremy-doku"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13569269/matias-fernandez-pardo-to-newcastle-signing-from-lille-is-very-fast-with-unbelievable-power-like-jeremy-doku"
+      },
+      "confirmed_by": [],
+      "id": "how-good-is-fernandez-pardo-explosive-winger-can-thrill-like-doku"
+    },
+    {
+      "published_at": "2026-09-01T10:30:00+00:00",
+      "updated_at": "2026-09-01T10:30:00+00:00",
+      "title": "Every Deadline Day deal",
+      "summary": "The 2026 summer transfer window closes in England at 11pm on September 1. Keep track of all the done deals across the key leagues on Deadline Day",
       "category": [
         "Transfer"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "club": "",
+      "image": "https://e0.365dm.com/26/02/1600x900/skysports-transfer-done-deals_7153029.jpg?20260202091021",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13579619/man-utd-transfer-news-bruno-fernandes-in-contract-talks-as-club-look-to-tie-down-captain-paper-talk"
+          "url": "https://www.skysports.com/football/news/11095/13579708/transfer-deadline-day-deals-summer-2026-confirmed-moves-across-premier-league-championship-efl-europe-and-more"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13579619/man-utd-transfer-news-bruno-fernandes-in-contract-talks-as-club-look-to-tie-down-captain-paper-talk"
+        "url": "https://www.skysports.com/football/news/11095/13579708/transfer-deadline-day-deals-summer-2026-confirmed-moves-across-premier-league-championship-efl-europe-and-more"
       },
       "confirmed_by": [],
-      "id": "deadline-day-papers-man-utd-open-contract-talks-with-captain-fernandes"
+      "id": "every-deadline-day-deal"
+    },
+    {
+      "published_at": "2026-09-01T09:55:00+00:00",
+      "updated_at": "2026-09-01T09:55:00+00:00",
+      "title": "Chelsea close to agreeing deal for Roma's Kone",
+      "summary": "Chelsea are close to an agreement with Roma to sign France midfielder Manu Kone, but Roma boss Gian Piero Gasperini is trying to keep hold of the player according to Sky in Italy",
+      "category": [
+        "Premier League",
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-manu-kone-roma-serie-a_7337286.jpg?20260901102349",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13579726/chelsea-transfer-latest-deal-close-for-roma-midfielder-manu-kone-as-loan-explored-for-jamie-gittens-to-go-the-other-way"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13579726/chelsea-transfer-latest-deal-close-for-roma-midfielder-manu-kone-as-loan-explored-for-jamie-gittens-to-go-the-other-way"
+      },
+      "confirmed_by": [],
+      "id": "chelsea-close-to-agreeing-deal-for-roma-s-kone"
     },
     {
       "published_at": "2026-08-31T19:15:00+00:00",
@@ -523,33 +615,6 @@
       },
       "confirmed_by": [],
       "id": "man-city-agree-65m-ndiaye-deal"
-    },
-    {
-      "published_at": "2026-08-29T21:20:00+00:00",
-      "updated_at": "2026-08-29T21:20:00+00:00",
-      "title": "Liverpool reject bumper £80m Man City offer for Gakpo",
-      "summary": "Liverpool have rejected an £80m offer from Manchester City for winger Cody Gakpo, with City turning their attention to Everton's Iliman Ndiaye",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-cody-gakpo-liverpool_7330422.jpg?20260824214554",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13578880/cody-gakpo-transfer-news-man-city-consider-options-after-liverpool-reject-80m-bid-for-winger"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13578880/cody-gakpo-transfer-news-man-city-consider-options-after-liverpool-reject-80m-bid-for-winger"
-      },
-      "confirmed_by": [],
-      "id": "liverpool-reject-bumper-80m-man-city-offer-for-gakpo"
     },
     {
       "published_at": "2026-08-27T09:29:08+00:00",
@@ -582,10 +647,10 @@
       "id": "benjamin-weber-interview-augsburg-sporting-director-is-a-former-chelsea-analyst-overachiev"
     },
     {
-      "published_at": "2026-08-31T21:14:37+00:00",
-      "updated_at": "2026-08-31T21:14:37+00:00",
-      "title": "Uppgifter: AIK nära värvning av Hausner",
-      "summary": "Uppgifter: AIK nära värvning av Hausner Fotbollskanalen",
+      "published_at": "2026-09-01T09:53:00+00:00",
+      "updated_at": "2026-09-01T09:53:00+00:00",
+      "title": "Uppgifter: Sunderland nära Fofana-värvning",
+      "summary": "Uppgifter: Sunderland nära Fofana-värvning Fotbollskanalen",
       "category": [
         "Sverige",
         "Transfer"
@@ -607,15 +672,16 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "uppgifter-aik-n-ra-v-rvning-av-hausner"
+      "id": "uppgifter-sunderland-n-ra-fofana-v-rvning"
     },
     {
-      "published_at": "2026-08-31T13:01:00+00:00",
-      "updated_at": "2026-08-31T13:01:00+00:00",
-      "title": "Officiellt: Hansen klar för Mjällby",
-      "summary": "Officiellt: Hansen klar för Mjällby Fotbollskanalen",
+      "published_at": "2026-09-01T09:30:00+00:00",
+      "updated_at": "2026-09-01T09:30:00+00:00",
+      "title": "Djurgårdens Ringberg-värvning döms ut: \"Då lägger jag av\"",
+      "summary": "Read the full report at Fotbollskanalen.",
       "category": [
-        "Sverige"
+        "Sverige",
+        "Transfer"
       ],
       "status": "Reported",
       "entity": "",
@@ -634,7 +700,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "officiellt-hansen-klar-f-r-mj-llby"
+      "id": "djurg-rdens-ringberg-v-rvning-d-ms-ut-d-l-gger-jag-av"
     },
     {
       "published_at": "2026-08-30T12:00:00+00:00",
@@ -720,13 +786,12 @@
       "id": "aik-ppnar-upp-f-r-ny-v-rvning-m-ste-diskutera-det"
     },
     {
-      "published_at": "2026-08-25T07:42:01+00:00",
-      "updated_at": "2026-08-25T07:42:01+00:00",
-      "title": "Burnleys tränare: Möjligt att Ekdal lämnar",
-      "summary": "Burnleys tränare: Möjligt att Ekdal lämnar Fotbollskanalen",
+      "published_at": "2026-09-01T12:12:00+00:00",
+      "updated_at": "2026-09-01T12:12:00+00:00",
+      "title": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
+      "summary": "Read the full report at The Guardian.",
       "category": [
-        "Sverige",
-        "Coach"
+        "Transfer"
       ],
       "status": "Reported",
       "entity": "",
@@ -735,17 +800,44 @@
       "image": "",
       "sources": [
         {
-          "name": "Fotbollskanalen",
+          "name": "The Guardian",
           "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
+        "name": "The Guardian",
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "burnleys-tr-nare-m-jligt-att-ekdal-l-mnar"
+      "id": "men-s-transfer-window-summer-2026-all-deals-from-europe-s-top-five-leagues"
+    },
+    {
+      "published_at": "2026-09-01T10:00:03+00:00",
+      "updated_at": "2026-09-01T10:00:03+00:00",
+      "title": "David Squires on … the art of the transfer deal",
+      "summary": "Our cartoonist looks through the ages to chart the evolution of the football transfer into its modern construct Buy a cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/df575c84ce4cfd4895d64cd75521dee9cabaa59c/1066_1047_806_644/master/806.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8c1d951ab20c59d97b2ef60dd84c9371",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/picture/2026/sep/01/david-squires-on-the-art-of-the-transfer-deal"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/picture/2026/sep/01/david-squires-on-the-art-of-the-transfer-deal"
+      },
+      "confirmed_by": [],
+      "id": "david-squires-on-the-art-of-the-transfer-deal"
     },
     {
       "published_at": "2026-08-31T22:36:50+00:00",
@@ -776,8 +868,8 @@
       "id": "arsenal-trying-to-lure-juli-n-lvarez-after-agreeing-deals-to-sell-martinelli-and-jesus"
     },
     {
-      "published_at": "2026-08-31T16:14:00+00:00",
-      "updated_at": "2026-08-31T16:14:00+00:00",
+      "published_at": "2026-08-31T16:11:23+00:00",
+      "updated_at": "2026-08-31T16:11:23+00:00",
       "title": "Marseille’s squad is being gutted but their manager is staying – for now",
       "summary": "It has been a tough transfer window for Marseille and a 2-0 defeat at Monaco suggests it could be a long season By Get French Football News A humid night in Monaco provided an opportunity to gauge the temperature of the Marseille supporters. Despite the ban on away fans at the Stade Louis II, plenty were in attendance for their 2-0 defeat in the Principality. There were cheers for their new manager, Bruno Génésio, and boos for Geoffrey Kondogbia, but it was the silence for much of the second half that spoke volumes.",
       "category": [
@@ -788,17 +880,17 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://i.guim.co.uk/img/media/3b4f258df10a66fbbf439b52480a181c84e7e4dc/301_0_2688_2152/master/2688.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ced2dea205c9bbe8d1591296b9c35bcd",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "url": "https://www.theguardian.com/football/2026/aug/31/marseille-squad-manager-staying-monaco-season"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "The Guardian",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "url": "https://www.theguardian.com/football/2026/aug/31/marseille-squad-manager-staying-monaco-season"
       },
       "confirmed_by": [],
       "id": "marseille-s-squad-is-being-gutted-but-their-manager-is-staying-for-now"
@@ -856,88 +948,6 @@
       },
       "confirmed_by": [],
       "id": "watkins-faces-toney-clash-as-strikers-push-for-saudi-supremacy-and-tuchel-s-attention"
-    },
-    {
-      "published_at": "2026-08-31T08:22:50+00:00",
-      "updated_at": "2026-08-31T08:22:50+00:00",
-      "title": "Football transfer rumours: Liverpool to sign Estêvão? Christian Pulisic to Spurs?",
-      "summary": "Today’s chatter is talking about its dreams again Elite football clubs splash out millions on their scouting efforts these days, gather reams of data and spend countless meticulous hours assembling their recruitment plans, yet somehow the final days of the transfer window remain a desperate scrap, for some, to recruit players. After an underwhelming start to the season and with a slightly threadbare frontline, Liverpool certainly find themselves in that bracket and, despite the fact Bradley Barcola is en route from PSG , the Reds want more wide forwards. Much seems to depend on Cody Gakpo’s future – with Manchester City and Tottenham in pursuit – but Andoni Iraola’s side have been linked with Chelsea’s Estêvão, as well as Yankuba Minteh and Ismaïla Sarr.",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://i.guim.co.uk/img/media/76ea2600dd1076acc52126530a40f845e6f987fc/349_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d5809e59e1d4dc8b6a796c8553481bad",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/31/football-transfer-rumours-liverpool-to-sign-estevao-christian-pulisic-to-spurs"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/31/football-transfer-rumours-liverpool-to-sign-estevao-christian-pulisic-to-spurs"
-      },
-      "confirmed_by": [],
-      "id": "football-transfer-rumours-liverpool-to-sign-est-v-o-christian-pulisic-to-spurs"
-    },
-    {
-      "published_at": "2026-08-30T15:15:25+00:00",
-      "updated_at": "2026-08-30T15:15:25+00:00",
-      "title": "Chelsea hold off Brighton in 4-3 win but remain chaotic under Xabi Alonso",
-      "summary": "In the fullness of time Chelsea’s surrender against Brighton in April may be seen as the turning point. The humiliation accelerated Liam ­Rosenior’s demise and forced the Stamford Bridge hierarchy into a ­reckoning leading to the appointment of Xabi Alonso, a shift in ­transfer ­strategy, the birth of the JP Morgan front three and the end of ­Robert Sánchez’s time in goal. For now, though, the argument that Emiliano Martínez is the final piece in the jigsaw seems a touch ­premature.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "xabi-alonso",
-      "entity_type": "coaches",
-      "club": "chelsea",
-      "image": "https://i.guim.co.uk/img/media/4c7076b4dd80cac02c77d0656868d6bec8d374d6/223_108_3256_2605/master/3256.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ad9c5531f041c01c47bc5490ea7a342",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/30/chelsea-brighton-premier-league-match-report"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/30/chelsea-brighton-premier-league-match-report"
-      },
-      "confirmed_by": [],
-      "id": "chelsea-hold-off-brighton-in-4-3-win-but-remain-chaotic-under-xabi-alonso"
-    },
-    {
-      "published_at": "2026-08-30T15:12:21+00:00",
-      "updated_at": "2026-08-30T15:12:21+00:00",
-      "title": "Sunderland’s Wilson Isidor applies the finishing touch to sink Fulham",
-      "summary": "At the final whistle Álvaro Arbeloa provided a study in pensiveness while Régis Le Bris simply looked relieved. For protracted periods an almost palpable fear of losing formed the subtext of a match decided when two of the Sunderland manager’s ­second-half substitutes, Habib Diarra and Wilson Isidor, combined for the latter to score. Isidor’s goal not merely supplied Sunderland with their first win of the season while leaving Arbeloa’s side pointless, but also ended his side’s 17‑year run without a Premier League home victory against Fulham.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/1a5f0851888174afcc5569e45e0a27cba8a1f1b5/234_0_3081_2465/master/3081.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc10bc1e6d3e00a09722667a6121016c",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/30/sunderland-fulham-premier-league-match-report"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/30/sunderland-fulham-premier-league-match-report"
-      },
-      "confirmed_by": [],
-      "id": "sunderland-s-wilson-isidor-applies-the-finishing-touch-to-sink-fulham"
     },
     {
       "published_at": "2026-08-30T07:00:50+00:00",
@@ -1019,6 +1029,33 @@
       },
       "confirmed_by": [],
       "id": "mbapp-hat-trick-sinks-real-sociedad-after-real-madrid-jeered-by-home-fans"
+    },
+    {
+      "published_at": "2026-09-01T09:16:40+00:00",
+      "updated_at": "2026-09-01T09:16:40+00:00",
+      "title": "Klart: Elfsborg värvar ny mittback - skriver långt kontrakt",
+      "summary": "IF Elfsborg agerar på transfermarknaden. Boråsklubben värvar den unge mittbacken Viggo Elfström från FC Arlanda, där han har imponerat under säsongen. 18-åringen har skrivit på ett kontrakt som sträcker sig över säsongen 2030",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/9zlNj3Xxz4dJm8vsW6lfWbpyuwPcdvp3Bu8zivbT.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/klart-elfsborg-varvar-ny-mittback-skriver-langt-kontrakt-700094"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/klart-elfsborg-varvar-ny-mittback-skriver-langt-kontrakt-700094"
+      },
+      "confirmed_by": [],
+      "id": "klart-elfsborg-v-rvar-ny-mittback-skriver-l-ngt-kontrakt"
     },
     {
       "published_at": "2026-08-31T17:11:17+00:00",
@@ -1210,6 +1247,62 @@
       "id": "klart-djurg-rden-s-ljer-findell"
     },
     {
+      "published_at": "2026-09-01T11:08:00+00:00",
+      "updated_at": "2026-09-01T11:08:00+00:00",
+      "title": "Fabio Vieira joins Hamburg in permanent deal from Arsenal",
+      "summary": "Read the full report at ESPN.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "ESPN",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "fabio-vieira-joins-hamburg-in-permanent-deal-from-arsenal"
+    },
+    {
+      "published_at": "2026-08-31T15:15:44+00:00",
+      "updated_at": "2026-08-31T15:15:44+00:00",
+      "title": "Lazio agreement for Dia to Rennes for €8.5m, request Man from PSV",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "lazio-agreement-for-dia-to-rennes-for-8-5m-request-man-from-psv"
+    },
+    {
       "published_at": "2026-08-31T13:49:30+00:00",
       "updated_at": "2026-08-31T13:49:30+00:00",
       "title": "Serie A Week 4 final schedule confirmed",
@@ -1319,6 +1412,34 @@
       "id": "serie-a-official-line-ups-cagliari-vs-inter"
     },
     {
+      "published_at": "2026-08-29T16:18:34+00:00",
+      "updated_at": "2026-08-29T16:18:34+00:00",
+      "title": "Official: Ricci joins Como from Milan, loan with option to buy for €23.5m plus bonus",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "official-ricci-joins-como-from-milan-loan-with-option-to-buy-for-23-5m-plus-bonus"
+    },
+    {
       "published_at": "2026-08-29T11:01:11+00:00",
       "updated_at": "2026-08-29T11:01:11+00:00",
       "title": "Orsolini: Serie A clubs ‘called me’ before Bologna extension, I have one Italy hope",
@@ -1346,6 +1467,71 @@
       "id": "orsolini-serie-a-clubs-called-me-before-bologna-extension-i-have-one-italy-hope"
     },
     {
+      "published_at": "2026-09-01T10:02:11+00:00",
+      "updated_at": "2026-09-01T10:02:11+00:00",
+      "title": "Uppgifter: Tottenham plockar in Mudryk och Tosin Adarabioyo",
+      "summary": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Sverige",
+        "Premier League"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        },
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVHV4bHB1akROUDFORXFOaDVJTFptclpQeFp4clExVTRwM3Bhc0l4YmRoTVhsd3owWl9VLXZfb2Z4UU1XeW9Xc1ZtOEdSTlZLQlhfQ0RDVkJvREphb3V2MS01MHdleVNqaUN4a01iNklyLVJBWlNxZVN4VG01NDAyVGdISk9KU09VWWp0cjIwU2NhYTktRGhpS1duMHVWbThN?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVHV4bHB1akROUDFORXFOaDVJTFptclpQeFp4clExVTRwM3Bhc0l4YmRoTVhsd3owWl9VLXZfb2Z4UU1XeW9Xc1ZtOEdSTlZLQlhfQ0RDVkJvREphb3V2MS01MHdleVNqaUN4a01iNklyLVJBWlNxZVN4VG01NDAyVGdISk9KU09VWWp0cjIwU2NhYTktRGhpS1duMHVWbThN?oc=5"
+        }
+      ],
+      "id": "uppgifter-tottenham-plockar-in-mudryk-och-tosin-adarabioyo"
+    },
+    {
+      "published_at": "2026-09-01T10:34:44+00:00",
+      "updated_at": "2026-09-01T10:34:44+00:00",
+      "title": "Magnus Eriksson: Här är allsvenskans bästa övergångar",
+      "summary": "Det allsvenska övergångsfönstret har bommat igen. Här är de bästa köpen – och de största tappen, enligt Magnus Eriksson. – Han har varit väldigt, väldigt bra, säger SVT:s expert i Fotbollsstudion",
+      "category": [
+        "Sverige",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.73/0.31/6811c3184e495b29ac8d13a2065294143fd61f282ad570145049322e0eb30dfe",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/magnus-eriksson-har-ar-allsvenskans-basta-overgangar"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/magnus-eriksson-har-ar-allsvenskans-basta-overgangar"
+      },
+      "confirmed_by": [],
+      "id": "magnus-eriksson-h-r-r-allsvenskans-b-sta-verg-ngar"
+    },
+    {
       "published_at": "2026-09-01T04:13:19+00:00",
       "updated_at": "2026-09-01T04:13:19+00:00",
       "title": "Experterna oeniga om Sirius: ”Då säljer man guldet”",
@@ -1371,6 +1557,33 @@
       },
       "confirmed_by": [],
       "id": "experterna-oeniga-om-sirius-d-s-ljer-man-guldet"
+    },
+    {
+      "published_at": "2026-09-01T02:21:50+00:00",
+      "updated_at": "2026-09-01T02:21:50+00:00",
+      "title": "Hollywoodstjärna ny ägare i FC Rosengård",
+      "summary": "”Arkiv X”-stjärnan Gillian Anderson köper in sig i bland annat Damallsvenska nästjumbon FC Rosengård. ”Vi är otroligt stolta”, säger ägarbolaget",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.43/0.59/2128b55f71ebc608b635c795217c87bafd3616a3adda238ac40ef995674c9e2a",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/hollywoodstjarna-ny-agare-i-rosengard"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/hollywoodstjarna-ny-agare-i-rosengard"
+      },
+      "confirmed_by": [],
+      "id": "hollywoodstj-rna-ny-gare-i-fc-roseng-rd"
     },
     {
       "published_at": "2026-08-31T21:31:24+00:00",
@@ -1483,64 +1696,73 @@
       "id": "succ-tr-naren-vi-r-inte-d-r-vi-vill-vara"
     },
     {
-      "published_at": "2026-08-31T19:53:49+00:00",
-      "updated_at": "2026-08-31T19:53:49+00:00",
-      "title": "Alexander Anderssons tårar efter hemmadebuten: ”En dröm som går i uppfyllelse”",
-      "summary": "I hemmadebuten för Djurgården levererade stortalangen Alexander Andersson direkt. 16-åringen spelade fram till 4-0-målet och brast i tårar. Det var känslosamt, säger Andersson",
+      "published_at": "2026-08-31T16:30:00+00:00",
+      "updated_at": "2026-08-31T16:30:00+00:00",
+      "title": "Fiorentina’s Serie A renaissance feels a way off after chastening centenary | Nicky Bandini",
+      "summary": "The home game against Frosinone seemed a perfect way to celebrate their landmark. It did not work out that way Fiorentina’s 100th birthday party had been going for four days, starting with a fan procession through the historic centre of Florence on Wednesday night and extending to their home game against Frosinone on Saturday afternoon. The club was founded on 29 August 1926, but a decades-old discrepancy in the reporting of that date has led supporters to celebrate traditionally on the 26th.",
       "category": [
-        "Sverige"
+        "Serie A"
       ],
-      "status": "Confirmed",
+      "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.72/0.28/93cea37c43fd437cf84bdfda86105fcf4c4608583a6273449ba00bfd950733c4",
+      "image": "",
       "sources": [
         {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/alexander-anderssons-tarar-efter-hemmadebuten-en-drom-som-gar-i-uppfyllelse"
+          "name": "The Guardian",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "Football Italia",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFSE5jRW5Ja3JLZWVnT0k5UUl6LXVIbFNrd1NHYzI3ZkNqdExCbjU5Y2VSRGVtT2RQOS1XNHFxYXduVnRGcEVmVDkzYXNISkdYM3BsNXZZc0U2ZlR4cEttVklKSllHNjVyaDF5eWtLWDJpRFBSQ0hxZTZlSnIyQQ?oc=5"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/alexander-anderssons-tarar-efter-hemmadebuten-en-drom-som-gar-i-uppfyllelse"
+        "name": "The Guardian",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
-      "confirmed_by": [],
-      "id": "alexander-anderssons-t-rar-efter-hemmadebuten-en-dr-m-som-g-r-i-uppfyllelse"
+      "confirmed_by": [
+        {
+          "name": "Football Italia",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFSE5jRW5Ja3JLZWVnT0k5UUl6LXVIbFNrd1NHYzI3ZkNqdExCbjU5Y2VSRGVtT2RQOS1XNHFxYXduVnRGcEVmVDkzYXNISkdYM3BsNXZZc0U2ZlR4cEttVklKSllHNjVyaDF5eWtLWDJpRFBSQ0hxZTZlSnIyQQ?oc=5"
+        }
+      ],
+      "id": "fiorentina-s-serie-a-renaissance-feels-a-way-off-after-chastening-centenary-nicky-bandini"
     },
     {
-      "published_at": "2026-08-31T19:22:18+00:00",
-      "updated_at": "2026-08-31T19:22:18+00:00",
-      "title": "Isak Bjerkebo ryktas bort: ”Det är svårt mentalt”",
-      "summary": "Isak Bjerkebo har ryktats bort från Sirius hela sommaren. Det har påverkat 23-åringen mentalt. – Man går och tänker på det hela tiden, säger han till SVT Sport",
+      "published_at": "2026-09-01T13:00:00+00:00",
+      "updated_at": "2026-09-01T13:00:00+00:00",
+      "title": "Sunderland latest: Fofana deal agreed but PL rival eye late swoop for winger",
+      "summary": "Sunderland transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
-        "Sverige"
+        "Transfer"
       ],
-      "status": "Confirmed",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.33/608036900c9ac662a42ee46b0dde2f5ca34777de00ed22475ebfd75a3a77b1c2",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-sunderland-club-blog_7326707.jpg?20260820165538",
       "sources": [
         {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/isak-bjerkebo-ryktas-bort-det-ar-svart-mentalt"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/isak-bjerkebo-ryktas-bort-det-ar-svart-mentalt"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "isak-bjerkebo-ryktas-bort-det-r-sv-rt-mentalt"
+      "id": "sunderland-latest-fofana-deal-agreed-but-pl-rival-eye-late-swoop-for-winger"
     },
     {
-      "published_at": "2026-09-01T08:06:00+00:00",
-      "updated_at": "2026-09-01T08:06:00+00:00",
-      "title": "Arsenal latest: Nwaneri loan exit edges closer as winger move explored",
-      "summary": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "published_at": "2026-09-01T12:00:00+00:00",
+      "updated_at": "2026-09-01T12:00:00+00:00",
+      "title": "Everton latest: Grealish set for medical as deal agreed for Maitland-Niles",
+      "summary": "Everton transfers, latest news, rumours and gossip: Live updates, goals and highlights",
       "category": [
         "Premier League",
         "Transfer"
@@ -1548,55 +1770,53 @@
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
+      "club": "everton",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-everton-club-blog_7326698.jpg?20260820165259",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
       },
       "confirmed_by": [],
-      "id": "arsenal-latest-nwaneri-loan-exit-edges-closer-as-winger-move-explored"
+      "id": "everton-latest-grealish-set-for-medical-as-deal-agreed-for-maitland-niles"
     },
     {
-      "published_at": "2026-09-01T07:58:00+00:00",
-      "updated_at": "2026-09-01T07:58:00+00:00",
-      "title": "Newcastle latest: Woltemade in Italy for medical as loan Juventus deal agreed",
-      "summary": "Newcastle transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "published_at": "2026-09-01T09:55:00+00:00",
+      "updated_at": "2026-09-01T09:55:00+00:00",
+      "title": "Man Utd latest: Zirkzee deal key to left-back move",
+      "summary": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
-        "Premier League",
-        "Serie A",
         "Transfer"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-newcastle-news-rumours_7331922.jpg?20260826153948",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-man-utd-club-blog_7326703.jpg?20260820165515",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "newcastle-latest-woltemade-in-italy-for-medical-as-loan-juventus-deal-agreed"
+      "id": "man-utd-latest-zirkzee-deal-key-to-left-back-move"
     },
     {
-      "published_at": "2026-09-01T07:00:00+00:00",
-      "updated_at": "2026-09-01T07:00:00+00:00",
-      "title": "Chelsea latest: Sanchez loan exit agreed",
+      "published_at": "2026-09-01T08:00:00+00:00",
+      "updated_at": "2026-09-01T08:00:00+00:00",
+      "title": "Chelsea latest: Camara bid rejected as Blues eye Fernandez replacement",
       "summary": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
         "Premier League",
@@ -1619,69 +1839,13 @@
         "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "chelsea-latest-sanchez-loan-exit-agreed"
+      "id": "chelsea-latest-camara-bid-rejected-as-blues-eye-fernandez-replacement"
     },
     {
-      "published_at": "2026-08-31T14:00:00+00:00",
-      "updated_at": "2026-08-31T14:00:00+00:00",
-      "title": "Liverpool complete Barcola signing from PSG",
-      "summary": "Liverpool have completed the signing of Bradley Barcola from Paris Saint-Germain",
-      "category": [
-        "Premier League",
-        "Ligue 1",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-premier-league-liverpool_7336607.jpg?20260831142704",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13577733/bradley-barcola-transfer-news-liverpool-complete-123m-signing-of-france-winger-from-psg"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13577733/bradley-barcola-transfer-news-liverpool-complete-123m-signing-of-france-winger-from-psg"
-      },
-      "confirmed_by": [],
-      "id": "liverpool-complete-barcola-signing-from-psg"
-    },
-    {
-      "published_at": "2026-08-26T09:02:25+00:00",
-      "updated_at": "2026-08-26T09:02:25+00:00",
-      "title": "How Borussia Dortmund are trying to recreate the exciting BVB of the past as they rebuild with youth under Niko Kovac",
-      "summary": "Read the full report at Sky Sports.",
-      "category": [
-        "Bundesliga"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "borussia-dortmund",
-      "image": "",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "how-borussia-dortmund-are-trying-to-recreate-the-exciting-bvb-of-the-past-as-they-rebuild-"
-    },
-    {
-      "published_at": "2026-09-01T01:55:37+00:00",
-      "updated_at": "2026-09-01T01:55:37+00:00",
-      "title": "Hamad: \"Kiese Thelin har haft alternativ\"",
-      "summary": "Hamad: \"Kiese Thelin har haft alternativ\" Fotbollskanalen",
+      "published_at": "2026-09-01T11:36:00+00:00",
+      "updated_at": "2026-09-01T11:36:00+00:00",
+      "title": "Officiellt: AIK värvar Krügel",
+      "summary": "Officiellt: Manchester City värvar Allan Elias Fotbollskanalen",
       "category": [
         "Sverige"
       ],
@@ -1702,13 +1866,13 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "hamad-kiese-thelin-har-haft-alternativ"
+      "id": "officiellt-aik-v-rvar-kr-gel"
     },
     {
-      "published_at": "2026-09-01T01:47:35+00:00",
-      "updated_at": "2026-09-01T01:47:35+00:00",
-      "title": "Officiellt: Liverpool säljer Bajcetic",
-      "summary": "Officiellt: Liverpool säljer Bajcetic Fotbollskanalen",
+      "published_at": "2026-09-01T10:33:00+00:00",
+      "updated_at": "2026-09-01T10:33:00+00:00",
+      "title": "Uppgifter: Chelsea budar på Camara",
+      "summary": "Uppgifter: FCK-bud på Wålemark nobbat Fotbollskanalen",
       "category": [
         "Sverige",
         "Premier League"
@@ -1716,7 +1880,7 @@
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "liverpool",
+      "club": "chelsea",
       "image": "",
       "sources": [
         {
@@ -1730,13 +1894,13 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "officiellt-liverpool-s-ljer-bajcetic"
+      "id": "uppgifter-chelsea-budar-p-camara"
     },
     {
-      "published_at": "2026-09-01T00:58:44+00:00",
-      "updated_at": "2026-09-01T00:58:44+00:00",
-      "title": "Officiellt: IFK Göteborg värvar Ackermann",
-      "summary": "Officiellt: AIK värvar Lucas Assadi Fotbollskanalen",
+      "published_at": "2026-09-01T10:03:22+00:00",
+      "updated_at": "2026-09-01T10:03:22+00:00",
+      "title": "LIVE 17.00: Bollklubben - 1 september - Bollklubben",
+      "summary": "LIVE 17.00: Bollklubben - 1 september - Bollklubben Fotbollskanalen",
       "category": [
         "Sverige"
       ],
@@ -1757,13 +1921,41 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "officiellt-ifk-g-teborg-v-rvar-ackermann"
+      "id": "live-17-00-bollklubben-1-september-bollklubben"
     },
     {
-      "published_at": "2026-09-01T00:37:59+00:00",
-      "updated_at": "2026-09-01T00:37:59+00:00",
-      "title": "Sandnes Ulf - Ranheim, 5 september kl. 16:00",
-      "summary": "Sandnes Ulf - Ranheim, 5 september kl. 16:00 Fotbollskanalen",
+      "published_at": "2026-09-01T09:53:00+00:00",
+      "updated_at": "2026-09-01T09:53:00+00:00",
+      "title": "Officiellt: Gimenez lämnar Milan för Porto",
+      "summary": "Officiellt: Gimenez lämnar Milan för Porto Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "officiellt-gimenez-l-mnar-milan-f-r-porto"
+    },
+    {
+      "published_at": "2026-09-01T08:32:10+00:00",
+      "updated_at": "2026-09-01T08:32:10+00:00",
+      "title": "Uppgifter: Shagaxle lämnar Spezia - efter 21 minuter",
+      "summary": "Uppgifter: Svensken lämnar Spezia - efter 21 minuter Fotbollskanalen",
       "category": [
         "Sverige"
       ],
@@ -1784,12 +1976,12 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "sandnes-ulf-ranheim-5-september-kl-16-00"
+      "id": "uppgifter-shagaxle-l-mnar-spezia-efter-21-minuter"
     },
     {
-      "published_at": "2026-08-31T20:21:18+00:00",
-      "updated_at": "2026-08-31T20:21:18+00:00",
-      "title": "LIVE Done Deals Tracker: Every confirmed transfer on August 31",
+      "published_at": "2026-09-01T08:10:00+00:00",
+      "updated_at": "2026-09-01T08:10:00+00:00",
+      "title": "LIVE Done Deals Tracker: Every confirmed transfer on deadline day",
       "summary": "Check the latest done deals and official transfers completed in Serie A, as the summer window goes into its final month of activity",
       "category": [
         "Transfer"
@@ -1811,13 +2003,13 @@
         "url": "https://football-italia.net/live-transfer-tracker-2025-26-summer-window/"
       },
       "confirmed_by": [],
-      "id": "live-done-deals-tracker-every-confirmed-transfer-on-august-31"
+      "id": "live-done-deals-tracker-every-confirmed-transfer-on-deadline-day"
     },
     {
-      "published_at": "2026-08-31T21:10:25+00:00",
-      "updated_at": "2026-08-31T21:10:25+00:00",
-      "title": "Elfsborg bekräftar: Stjärnorna har fått lämna - flera affärer på gång",
-      "summary": "IF Elfsborg kan stå inför en händelserik avslutning på transferfönstret. Rufai Mohammed och Frederik Ihler har fått tillåtelse att besöka andra klubbar, samtidigt som Boråsklubben arbetar med både nyförvärv och att behålla succémannen Momoh Kamara",
+      "published_at": "2026-09-01T11:00:00+00:00",
+      "updated_at": "2026-09-01T11:00:00+00:00",
+      "title": "Power ranking – de är bäst efter omgång 19 i Allsvenskan",
+      "summary": "AIK:s andra raka tunga derbyseger gör att de tar över Emil Annetorps allsvenska power ranking efter 19 omgångar. Elfsborg skuggar där bakom och Mjällby är en stor besvikelse",
       "category": [
         "Sverige"
       ],
@@ -1825,26 +2017,26 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2074633.jpg",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/Taal1lNcuzmkLF2yUbQLmqPDux54gJqz6iXhpfMW.png",
       "sources": [
         {
           "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/elfsborg-bekraftar-stjarnorna-har-fatt-lamna-flera-affarer-pa-gang-700071"
+          "url": "https://www.svenskafans.com/fotboll/power-ranking-de-ar-bast-efter-omgang-19-i-allsvenskan-700091"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/elfsborg-bekraftar-stjarnorna-har-fatt-lamna-flera-affarer-pa-gang-700071"
+        "url": "https://www.svenskafans.com/fotboll/power-ranking-de-ar-bast-efter-omgang-19-i-allsvenskan-700091"
       },
       "confirmed_by": [],
-      "id": "elfsborg-bekr-ftar-stj-rnorna-har-f-tt-l-mna-flera-aff-rer-p-g-ng"
+      "id": "power-ranking-de-r-b-st-efter-omg-ng-19-i-allsvenskan"
     },
     {
-      "published_at": "2026-08-31T21:03:05+00:00",
-      "updated_at": "2026-08-31T21:03:05+00:00",
-      "title": "Från hopplöst till hoppfullt",
-      "summary": "Sirius hade ett drömläge att kunna dra ifrån Hammarby efter deras förlust i derbyt. Den chansen tog man inte vara på – utan inkasserade istället sin tredje raka förlust",
+      "published_at": "2026-09-01T10:40:00+00:00",
+      "updated_at": "2026-09-01T10:40:00+00:00",
+      "title": "Här avslutar Elfsborg Allsvenskan - speldatum och tider spikade",
+      "summary": "Nu är det klart hur IF Elfsborgs avslutning på Allsvenskan ser ut. Svenska Fotbollförbundet har fastställt speldatum och avsparkstider för omgång 24-30",
       "category": [
         "Sverige"
       ],
@@ -1852,47 +2044,20 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/he4Gsp5i0rzRjkXaJKiJTy7y2L1Fz4ZsxtZ475w7.jpg",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/5kAPVXdxxOi6rtjLcFroSbrDg38S0V3w3HsAhsPF.jpg",
       "sources": [
         {
           "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/fran-hopplost-till-hoppfullt-700070"
+          "url": "https://www.svenskafans.com/fotboll/har-avslutar-elfsborg-allsvenskan-speldatum-och-tider-spikade-700096"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/fran-hopplost-till-hoppfullt-700070"
+        "url": "https://www.svenskafans.com/fotboll/har-avslutar-elfsborg-allsvenskan-speldatum-och-tider-spikade-700096"
       },
       "confirmed_by": [],
-      "id": "fr-n-hoppl-st-till-hoppfullt"
-    },
-    {
-      "published_at": "2026-08-31T20:35:13+00:00",
-      "updated_at": "2026-08-31T20:35:13+00:00",
-      "title": "Sirius - Malmö FF 0-1 - Ännu en enkel seger",
-      "summary": "Det var två lag med svajigt självförtroende som gjorde upp i Uppsala. Överlägsna serieledarna som mosade alla har helt plötsligt fått grus i maskineriet och kom till spel med två raka förluster och tre matcher utan seger i ryggen. Malmö kom också med ett stukat självförtroende efter den hemska andrahalvleken mot Djurgården när de fullständigt sprang sönder oss. Lägg därtill att vi saknade Otto.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/Yw58eosBSoRDhjebCxa2Kv4i3sio2Bq1kj0C1XSS.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/sirius-malmo-ff-0-1-annu-en-enkel-seger-700067"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/sirius-malmo-ff-0-1-annu-en-enkel-seger-700067"
-      },
-      "confirmed_by": [],
-      "id": "sirius-malm-ff-0-1-nnu-en-enkel-seger"
+      "id": "h-r-avslutar-elfsborg-allsvenskan-speldatum-och-tider-spikade"
     },
     {
       "published_at": "2026-08-31T20:46:50+00:00",
@@ -1947,87 +2112,6 @@
       },
       "confirmed_by": [],
       "id": "gasperini-satisfied-with-new-referee-rules-after-serie-a-round-1"
-    },
-    {
-      "published_at": "2026-08-31T09:40:00+00:00",
-      "updated_at": "2026-08-31T09:40:00+00:00",
-      "title": "LIVE: Serie A Round 2 Reaction – One big loser as major showdowns loom",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "live-serie-a-round-2-reaction-one-big-loser-as-major-showdowns-loom"
-    },
-    {
-      "published_at": "2026-08-30T22:04:05+00:00",
-      "updated_at": "2026-08-30T22:04:05+00:00",
-      "title": "Diego Carlos ready for Serie A return to Parma from Fenerbahce",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "diego-carlos-ready-for-serie-a-return-to-parma-from-fenerbahce"
-    },
-    {
-      "published_at": "2026-09-01T08:17:00+00:00",
-      "updated_at": "2026-09-01T08:17:00+00:00",
-      "title": "Fulham latest: Tete replacement needed before exit can be sanctioned",
-      "summary": "Fulham transfers, latest news, rumours and gossip: Live updates, goals and highlights",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-fulham-news-rumours_7331920.jpg?20260826153855",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-      },
-      "confirmed_by": [],
-      "id": "fulham-latest-tete-replacement-needed-before-exit-can-be-sanctioned"
     }
   ]
 }
