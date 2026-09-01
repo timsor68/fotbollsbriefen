@@ -1,41 +1,50 @@
 {
-  "updated_at": "2026-08-31T21:44:54.687842+00:00",
+  "updated_at": "2026-09-01T01:01:10.515420+00:00",
   "items": [
     {
-      "published_at": "2026-08-31T21:29:58+00:00",
-      "updated_at": "2026-08-31T21:29:58+00:00",
-      "title": "Hull agree £22m fee for Everton's Iroegbunam",
-      "summary": "Manchester City agree a deal worth a minimum £60m to sign Iliman Ndiaye from Everton",
+      "published_at": "2026-08-31T20:21:22+00:00",
+      "updated_at": "2026-08-31T20:21:22+00:00",
+      "title": "Everton agree £40m fee for Monaco striker Balogun",
+      "summary": "Manchester City confirm Allan signing for initial £32.1m Palace sell Muñoz to Forest and poised to sign Ahanor Nick Woltemade is close to a loan move from Newcastle to Juventus, a year after arriving at St James’ Park in a club-record £69m deal from Stuttgart. The gifted Germany forward has struggled to impose himself amid the high-intensity gameplans choreographed first by Eddie Howe and now Matthias Jaissle. Juventus are one of a handful of clubs – Borussia Dortmund are among the others – to have inquired about Woltemade’s availability and Newcastle are in negotiations with the Turin club regarding a move involving a loan fee of about £5m.",
       "category": [
-        "Premier League"
+        "Premier League",
+        "Ligue 1"
       ],
       "status": "Confirmed by multiple sources",
-      "entity": "",
+      "entity": "folarin-balogun",
       "entity_type": "players",
       "club": "everton",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/81ba/live/9bd1d3e0-a581-11f1-ae94-15924a612dd1.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3a6d/live/ff75f700-a54a-11f1-8689-6589354d0f8e.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ce9eny2r9j0o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c780wzlzl45o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+          "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/31/transfer-latest-nick-woltemade-newcastle-juventus-everton-folarin-balogun"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ce9eny2r9j0o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/c780wzlzl45o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+          "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/31/transfer-latest-nick-woltemade-newcastle-juventus-everton-folarin-balogun"
         }
       ],
-      "id": "hull-agree-22m-fee-for-everton-s-iroegbunam"
+      "id": "everton-agree-40m-fee-for-monaco-striker-balogun"
     },
     {
       "published_at": "2026-08-31T21:20:32+00:00",
@@ -145,43 +154,6 @@
         }
       ],
       "id": "mnc-transfer-deadline-eve-messi-says-goodbye-to-argentina"
-    },
-    {
-      "published_at": "2026-08-31T20:21:22+00:00",
-      "updated_at": "2026-08-31T20:21:22+00:00",
-      "title": "Everton agree £40m fee for Monaco striker Balogun",
-      "summary": "Everton agree a £40m deal with Monaco for United States striker Folarin Balogun",
-      "category": [
-        "Premier League",
-        "Ligue 1"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "folarin-balogun",
-      "entity_type": "players",
-      "club": "everton",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3a6d/live/ff75f700-a54a-11f1-8689-6589354d0f8e.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c780wzlzl45o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c780wzlzl45o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-        }
-      ],
-      "id": "everton-agree-40m-fee-for-monaco-striker-balogun"
     },
     {
       "published_at": "2026-08-31T20:07:16+00:00",
@@ -331,10 +303,47 @@
       "id": "newcastle-close-in-on-55m-deal-for-fernandez-pardo"
     },
     {
+      "published_at": "2026-08-31T05:31:02+00:00",
+      "updated_at": "2026-08-31T05:31:02+00:00",
+      "title": "'It's not a good relationship, it's a deal for money' - Emery on Villa-Chelsea moves",
+      "summary": "Martínez and Jackson latest duo to move between clubs Goretzka and Suzuki could make debuts against Arsenal Unai Emery has said Aston Villa and Chelsea are enemies rather than friends, insisting the clubs want to “kill” each other despite regularly doing business in recent years. Emiliano Martínez became the latest player to move between the teams, after Chelsea paid £117m to sign Morgan Rogers from Villa this summer. Nicolas Jackson, who could become Villa’s record signing after joining in a deal worth up to £65m, and Alejandro Garnacho both joined Villa from Chelsea in this window, the latter on a loan deal with a conditional obligation to buy.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5ad6/live/c0264060-a44f-11f1-a291-b542ee92de7c.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cvgy0qjl0xno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/31/aston-villa-chelsea-still-enemies-transfer-pipeline-unai-emery"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cvgy0qjl0xno?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/31/aston-villa-chelsea-still-enemies-transfer-pipeline-unai-emery"
+        }
+      ],
+      "id": "it-s-not-a-good-relationship-it-s-a-deal-for-money-emery-on-villa-chelsea-moves"
+    },
+    {
       "published_at": "2026-08-31T19:15:00+00:00",
       "updated_at": "2026-08-31T19:15:00+00:00",
       "title": "Man City agree £65m Ndiaye deal as Spurs turn attention to Mudryk",
-      "summary": "City agree £65m deal with Everton for Senegal winger Richarlison to stay at Spurs, who want Chelsea’s Mudryk Manchester City are poised to ­bolster their attack by buying Everton’s ­Iliman Ndiaye for up to £65m and have opened talks with Chelsea over a deal to sign Enzo Fernández. City’s hijack of Tottenham’s deal for Ndiaye came after their attempts to sign Liverpool’s Cody Gakpo broke down. The Senegal international is poised to undergo a medical after a fee of £60m plus £5m in add-ons was agreed with Everton, who have little time to find a replacement for one of their most important players before the transfer window shuts on Tuesday night.",
+      "summary": "City agree £65m deal with Everton for Senegal winger Richarlison to stay at Spurs, who agree Mudryk loan Manchester City are poised to bolster their attack by buying Everton’s Iliman Ndiaye for up to £65m and have opened talks with Chelsea over a deal to sign Enzo Fernández. City’s hijack of Tottenham’s deal for Ndiaye came after their attempts to sign Liverpool’s Cody Gakpo broke down. The Senegal international is poised to undergo a medical after a fee of £60m plus £5m in add-ons was agreed with Everton, who have little time to find a replacement for one of their most important players before the transfer window shuts on Tuesday night.",
       "category": [
         "Transfer"
       ],
@@ -370,7 +379,7 @@
       "published_at": "2026-08-31T21:37:50+00:00",
       "updated_at": "2026-08-31T21:37:50+00:00",
       "title": "Saka earns Arsenal hard-fought win at Aston Villa",
-      "summary": "The smile on Declan Rice’s face a few minutes from time said it all. The Arsenal midfielder had just shut down Ian Maatsen as the Aston Villa full-back zoomed into the box. Arsenal were hardly imperious, Bukayo Saka scoring the only goal, but Unai Emery’s side struggled to hurt the champions , David Raya untroubled.",
+      "summary": "The smile on Declan Rice’s face with six minutes of normal time remaining said it all. He had just shut down Ian Maatsen as the Aston Villa full-back zoomed into the box. Arsenal, for whom Bukayo Saka scored the only goal, were authoritative and seemingly took great satisfaction in keeping Villa at arm’s length.",
       "category": [
         "Premier League"
       ],
@@ -438,40 +447,31 @@
       "id": "hove-hyllar-unga-aik-os-ker-p-vad-de-heter-i-efternamn"
     },
     {
-      "published_at": "2026-08-30T21:04:09+00:00",
-      "updated_at": "2026-08-30T21:04:09+00:00",
-      "title": "Brunner double sends Monaco top of Ligue 1 after 2-0 win over Marseille",
-      "summary": "Read the full report at Reuters.",
+      "published_at": "2026-08-31T23:00:00+00:00",
+      "updated_at": "2026-08-31T23:00:00+00:00",
+      "title": "Deadline Day Papers: Man Utd open contract talks with captain Fernandes",
+      "summary": "The top stories and transfer rumours from Tuesday's Deadline Day back pages",
       "category": [
-        "Ligue 1"
+        "Transfer"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "BBC Sport",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBaHVOazlRLXQ0bi0tSjBsV1Q4ejA0bTR1V2M0c3l4dVl2V1NmVXN2N1hTNThQdTlDZ3pwVmFNM2FJU1Zsc2dDWmJLZ3Btdi1URGhNX3VrZTkwZXhhTzk4dUl2dEt3bmRCS1o0aC1OVQ?oc=5"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13579619/man-utd-transfer-news-bruno-fernandes-in-contract-talks-as-club-look-to-tie-down-captain-paper-talk"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Reuters",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13579619/man-utd-transfer-news-bruno-fernandes-in-contract-talks-as-club-look-to-tie-down-captain-paper-talk"
       },
-      "confirmed_by": [
-        {
-          "name": "BBC Sport",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBaHVOazlRLXQ0bi0tSjBsV1Q4ejA0bTR1V2M0c3l4dVl2V1NmVXN2N1hTNThQdTlDZ3pwVmFNM2FJU1Zsc2dDWmJLZ3Btdi1URGhNX3VrZTkwZXhhTzk4dUl2dEt3bmRCS1o0aC1OVQ?oc=5"
-        }
-      ],
-      "id": "brunner-double-sends-monaco-top-of-ligue-1-after-2-0-win-over-marseille"
+      "confirmed_by": [],
+      "id": "deadline-day-papers-man-utd-open-contract-talks-with-captain-fernandes"
     },
     {
       "published_at": "2026-08-29T21:20:00+00:00",
@@ -531,8 +531,8 @@
       "id": "benjamin-weber-interview-augsburg-sporting-director-is-a-former-chelsea-analyst-overachiev"
     },
     {
-      "published_at": "2026-08-31T17:27:19+00:00",
-      "updated_at": "2026-08-31T17:27:19+00:00",
+      "published_at": "2026-08-31T16:08:00+00:00",
+      "updated_at": "2026-08-31T16:08:00+00:00",
       "title": "Uppgifter: AIK nära värvning av Hausner",
       "summary": "Uppgifter: AIK nära värvning av Hausner Fotbollskanalen",
       "category": [
@@ -559,8 +559,8 @@
       "id": "uppgifter-aik-n-ra-v-rvning-av-hausner"
     },
     {
-      "published_at": "2026-08-31T13:01:00+00:00",
-      "updated_at": "2026-08-31T13:01:00+00:00",
+      "published_at": "2026-08-31T13:21:46+00:00",
+      "updated_at": "2026-08-31T13:21:46+00:00",
       "title": "Officiellt: Hansen klar för Mjällby",
       "summary": "Officiellt: Hansen klar för Mjällby Fotbollskanalen",
       "category": [
@@ -669,6 +669,34 @@
       "id": "aik-ppnar-upp-f-r-ny-v-rvning-m-ste-diskutera-det"
     },
     {
+      "published_at": "2026-08-25T07:42:01+00:00",
+      "updated_at": "2026-08-25T07:42:01+00:00",
+      "title": "Burnleys tränare: Möjligt att Ekdal lämnar",
+      "summary": "Burnleys tränare: Möjligt att Ekdal lämnar Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "Coach"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "burnleys-tr-nare-m-jligt-att-ekdal-l-mnar"
+    },
+    {
       "published_at": "2026-08-31T17:51:30+00:00",
       "updated_at": "2026-08-31T17:51:30+00:00",
       "title": "Officiellt: Djurgården värvar Charlie Rosenqvist",
@@ -705,8 +733,36 @@
       "id": "officiellt-djurg-rden-v-rvar-charlie-rosenqvist"
     },
     {
-      "published_at": "2026-08-31T16:14:00+00:00",
-      "updated_at": "2026-08-31T16:14:00+00:00",
+      "published_at": "2026-08-31T22:36:50+00:00",
+      "updated_at": "2026-08-31T22:36:50+00:00",
+      "title": "Arsenal trying to lure Julián Álvarez after agreeing deals to sell Martinelli and Jesus",
+      "summary": "Atlético say they will not allow Barcelona to buy Álvarez Jesus poised for Barça and Martinelli for Al-Hilal Arsenal are running out of time to persuade Julián Álvarez to join them from Atlético Madrid after agreeing to sell Gabriel Martinelli, Gabriel Jesus and Fábio Vieira in deals collectively worth more than £70m. Álvarez has his heart set on joining Barcelona despite Atlético’s insistence they will not sell to their La Liga rivals – he returned to training on Sunday after being left out of their squad for the win against Sevilla.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://i.guim.co.uk/img/media/7ececfd513df4a77deae2747de106dff8fe17b0b/252_55_1545_1236/master/1545.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8aa51ed450212dc1db7076dd4dae4a67",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/31/arsenal-julian-alvarez-gabriel-martinelli-jesus-transfers"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/31/arsenal-julian-alvarez-gabriel-martinelli-jesus-transfers"
+      },
+      "confirmed_by": [],
+      "id": "arsenal-trying-to-lure-juli-n-lvarez-after-agreeing-deals-to-sell-martinelli-and-jesus"
+    },
+    {
+      "published_at": "2026-08-31T16:11:23+00:00",
+      "updated_at": "2026-08-31T16:11:23+00:00",
       "title": "Marseille’s squad is being gutted but their manager is staying – for now",
       "summary": "It has been a tough transfer window for Marseille and a 2-0 defeat at Monaco suggests it could be a long season By Get French Football News A humid night in Monaco provided an opportunity to gauge the temperature of the Marseille supporters. Despite the ban on away fans at the Stade Louis II, plenty were in attendance for their 2-0 defeat in the Principality. There were cheers for their new manager, Bruno Génésio, and boos for Geoffrey Kondogbia, but it was the silence for much of the second half that spoke volumes.",
       "category": [
@@ -717,17 +773,17 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://i.guim.co.uk/img/media/3b4f258df10a66fbbf439b52480a181c84e7e4dc/301_0_2688_2152/master/2688.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ced2dea205c9bbe8d1591296b9c35bcd",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "url": "https://www.theguardian.com/football/2026/aug/31/marseille-squad-manager-staying-monaco-season"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "The Guardian",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "url": "https://www.theguardian.com/football/2026/aug/31/marseille-squad-manager-staying-monaco-season"
       },
       "confirmed_by": [],
       "id": "marseille-s-squad-is-being-gutted-but-their-manager-is-staying-for-now"
@@ -867,60 +923,6 @@
       },
       "confirmed_by": [],
       "id": "chelsea-hold-off-brighton-in-4-3-win-but-remain-chaotic-under-xabi-alonso"
-    },
-    {
-      "published_at": "2026-08-30T07:00:50+00:00",
-      "updated_at": "2026-08-30T07:00:50+00:00",
-      "title": "‘I’ve had a very hectic career’: Mario Balotelli on Italian football’s troubles and his future",
-      "summary": "Striker talks life in the UAE, problems with the Azzurri and ‘special feeling’ of playing for Manchester City Whenever the name Mario Balotelli is brought up, particularly in Italy, the conversation is almost inevitably laced with a sense of regret. There is that lingering “What if?”, a collective sigh over a player who possessed the raw, undeniable potential to be one of the best in the world, if only things had been different. Yet being in front of him, with a smile on his face, it becomes clear the 36-year-old striker has reached an unexpected level of wisdom and maturity, traits that shine through in his lucid analysis of Italian football’s current struggles and the vanishing street culture of the sport.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/adfd885ead35d655449d1f2c033c87b520ce561a/312_0_3260_2608/master/3260.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc7dfe6e113cf95afe7a884e1938fc4f",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/30/mario-balotelli-interview-italy-saudi-arabia-maturity"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/30/mario-balotelli-interview-italy-saudi-arabia-maturity"
-      },
-      "confirmed_by": [],
-      "id": "i-ve-had-a-very-hectic-career-mario-balotelli-on-italian-football-s-troubles-and-his-futur"
-    },
-    {
-      "published_at": "2026-08-29T20:33:33+00:00",
-      "updated_at": "2026-08-29T20:33:33+00:00",
-      "title": "Lavish spending fails to fix Tottenham’s big issue – the lack of soul and spine | Jonathan Liew",
-      "summary": "It might be too early to push the panic button but Roberto De Zerbi faces a huge task if he is to turn Spurs around Time for Tottenham to start panicking? This is, of course, a subtle trick question. Tottenham is one of those clubs that never actually stops panicking.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://i.guim.co.uk/img/media/24d7b83abf0341b00f1e049190d57c6a328708ed/529_0_4114_3290/master/4114.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=65f654b88192c6319bd59a702108c5cf",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/aug/29/lavish-spending-fails-to-fix-tottenhams-big-issue-the-lack-of-a-soul-or-spine"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/aug/29/lavish-spending-fails-to-fix-tottenhams-big-issue-the-lack-of-a-soul-or-spine"
-      },
-      "confirmed_by": [],
-      "id": "lavish-spending-fails-to-fix-tottenham-s-big-issue-the-lack-of-soul-and-spine-jonathan-lie"
     },
     {
       "published_at": "2026-08-26T21:39:14+00:00",
@@ -1641,6 +1643,88 @@
       "id": "how-borussia-dortmund-are-trying-to-recreate-the-exciting-bvb-of-the-past-as-they-rebuild-"
     },
     {
+      "published_at": "2026-09-01T00:37:59+00:00",
+      "updated_at": "2026-09-01T00:37:59+00:00",
+      "title": "Sandnes Ulf - Ranheim, 5 september kl. 16:00",
+      "summary": "Sandnes Ulf - Ranheim, 5 september kl. 16:00 Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "sandnes-ulf-ranheim-5-september-kl-16-00"
+    },
+    {
+      "published_at": "2026-08-31T22:20:00+00:00",
+      "updated_at": "2026-08-31T22:20:00+00:00",
+      "title": "Uppgifter: Gakpo-affär kollapsar",
+      "summary": "Uppgifter: Gakpo-affär kollapsar Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-gakpo-aff-r-kollapsar"
+    },
+    {
+      "published_at": "2026-08-31T21:40:00+00:00",
+      "updated_at": "2026-08-31T21:40:00+00:00",
+      "title": "Uppgifter: Tottenham plockar in Mudryk och Tosin Adarabioyo",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige",
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-tottenham-plockar-in-mudryk-och-tosin-adarabioyo"
+    },
+    {
       "published_at": "2026-08-31T20:37:30+00:00",
       "updated_at": "2026-08-31T20:37:30+00:00",
       "title": "LIVE 17.00: Bollklubben - deadline day-special - Bollklubben",
@@ -1668,12 +1752,39 @@
       "id": "live-17-00-bollklubben-deadline-day-special-bollklubben"
     },
     {
-      "published_at": "2026-08-31T20:25:00+00:00",
-      "updated_at": "2026-08-31T20:25:00+00:00",
-      "title": "Uppgifter: Gakpo-affär kollapsar",
-      "summary": "Uppgifter: Gakpo-affär kollapsar Fotbollskanalen",
+      "published_at": "2026-08-31T20:21:18+00:00",
+      "updated_at": "2026-08-31T20:21:18+00:00",
+      "title": "LIVE Done Deals Tracker: Every confirmed transfer on August 31",
+      "summary": "Check the latest done deals and official transfers completed in Serie A, as the summer window goes into its final month of activity",
       "category": [
-        "Sverige"
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://icdn.football-italia.net/wp-content/uploads/2024/08/Transfer-Liveblog.jpg",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://football-italia.net/live-transfer-tracker-2025-26-summer-window/"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://football-italia.net/live-transfer-tracker-2025-26-summer-window/"
+      },
+      "confirmed_by": [],
+      "id": "live-done-deals-tracker-every-confirmed-transfer-on-august-31"
+    },
+    {
+      "published_at": "2026-08-31T15:10:00+00:00",
+      "updated_at": "2026-08-31T15:10:00+00:00",
+      "title": "Elversberg and ‘miracle village’ prove that Bundesliga fairytales still exist | Andy Brassell",
+      "summary": "Read the full report at The Guardian.",
+      "category": [
+        "Bundesliga"
       ],
       "status": "Reported",
       "entity": "",
@@ -1682,100 +1793,17 @@
       "image": "",
       "sources": [
         {
-          "name": "Fotbollskanalen",
+          "name": "The Guardian",
           "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
+        "name": "The Guardian",
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "uppgifter-gakpo-aff-r-kollapsar"
-    },
-    {
-      "published_at": "2026-08-31T19:39:46+00:00",
-      "updated_at": "2026-08-31T19:39:46+00:00",
-      "title": "Officiellt: Liverpool säljer Bajcetic",
-      "summary": "Officiellt: Liverpool säljer Bajcetic Fotbollskanalen",
-      "category": [
-        "Sverige",
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "liverpool",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "officiellt-liverpool-s-ljer-bajcetic"
-    },
-    {
-      "published_at": "2026-08-31T18:15:00+00:00",
-      "updated_at": "2026-08-31T18:15:00+00:00",
-      "title": "Hamad: \"Kiese Thelin har haft alternativ\"",
-      "summary": "Hamad: \"Kiese Thelin har haft alternativ\" Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "hamad-kiese-thelin-har-haft-alternativ"
-    },
-    {
-      "published_at": "2026-08-31T16:25:00+00:00",
-      "updated_at": "2026-08-31T16:25:00+00:00",
-      "title": "Uppgifter: Elliott flyttar till Valencia",
-      "summary": "Uppgifter: Njie flyttar till Fiorentina Fotbollskanalen",
-      "category": [
-        "Sverige",
-        "La Liga"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-elliott-flyttar-till-valencia"
+      "id": "elversberg-and-miracle-village-prove-that-bundesliga-fairytales-still-exist-andy-brassell"
     },
     {
       "published_at": "2026-08-31T21:10:25+00:00",
@@ -1940,65 +1968,9 @@
       "id": "serie-a-lazio-1-0-genoa-frattesi-the-hero-once-again"
     },
     {
-      "published_at": "2026-08-29T20:43:54+00:00",
-      "updated_at": "2026-08-29T20:43:54+00:00",
-      "title": "Serie A | Juventus 2-0 Parma: Nico Gonzalez inspirational for victory",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "serie-a-juventus-2-0-parma-nico-gonzalez-inspirational-for-victory"
-    },
-    {
-      "published_at": "2026-08-31T19:35:00+00:00",
-      "updated_at": "2026-08-31T19:35:00+00:00",
-      "title": "Arsenal latest: Club exploring move for Lyon winger",
-      "summary": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Premier League",
-        "Ligue 1",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "arsenal-latest-club-exploring-move-for-lyon-winger"
-    },
-    {
-      "published_at": "2026-08-31T17:00:00+00:00",
-      "updated_at": "2026-08-31T17:00:00+00:00",
-      "title": "Man Utd latest: Carra hails 'throwback' United performance in Ipswich win",
+      "published_at": "2026-08-31T23:00:00+00:00",
+      "updated_at": "2026-08-31T23:00:00+00:00",
+      "title": "Man Utd latest: Neville provides Old Trafford Deadline Day warning",
       "summary": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
         "Football"
@@ -2020,7 +1992,7 @@
         "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "man-utd-latest-carra-hails-throwback-united-performance-in-ipswich-win"
+      "id": "man-utd-latest-neville-provides-old-trafford-deadline-day-warning"
     },
     {
       "published_at": "2026-08-31T14:08:00+00:00",
@@ -2049,6 +2021,33 @@
       },
       "confirmed_by": [],
       "id": "tottenham-latest-defiant-richarlison-vows-to-control-own-future-amid-everton-interest"
+    },
+    {
+      "published_at": "2026-08-31T13:00:00+00:00",
+      "updated_at": "2026-08-31T13:00:00+00:00",
+      "title": "Man City latest: Neville urges Grealish to stick with Maresca project",
+      "summary": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-man-city-club-blog_7326702.jpg?20260820165453",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "man-city-latest-neville-urges-grealish-to-stick-with-maresca-project"
     }
   ]
 }
