@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T20:35:04.272284+00:00",
+  "updated_at": "2026-09-09T22:59:33.564137+00:00",
   "items": [
     {
       "published_at": "2026-09-08T21:18:12+00:00",
@@ -14,11 +14,11 @@
       "entity": "",
       "entity_type": "players",
       "club": "real-madrid",
-      "image": "",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/43d5/live/edeafd60-abca-11f1-a291-b542ee92de7c.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "url": "https://www.bbc.co.uk/sport/football/videos/c0j3zyy32e4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "The Athletic",
@@ -36,7 +36,7 @@
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "url": "https://www.bbc.co.uk/sport/football/videos/c0j3zyy32e4o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
@@ -53,6 +53,42 @@
         }
       ],
       "id": "real-madrid-somehow-cling-on-to-beat-inter-on-jos-mourinho-s-big-night"
+    },
+    {
+      "published_at": "2026-09-09T11:56:09+00:00",
+      "updated_at": "2026-09-09T11:56:09+00:00",
+      "title": "Messi agrees to buy second Spanish club",
+      "summary": "Spanish second-division side Eldense say Argentina great Lionel Messi has reached a \"preliminary agreement\" to become the club's majority shareholder",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "lionel-messi",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/708b/live/1a0c0af0-ac3f-11f1-96a2-2f464854ded4.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c99dmky78d3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYmItOEg1SzRIcHdtaDZOZldvbDFxRnU0SHJIc1VnMFJzUmdnaTNnQjk5S2lCSjItbnYyYjN3VjAxUjVJcTJGeHloczRvRk0yeUJDOWdLTGJBT3VQazZQakNOWk1HYjE4Wk82VDQzVnpxc05DblNwM2NLdkxhTm9KLW5GZkZqT0hfdEE?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c99dmky78d3o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYmItOEg1SzRIcHdtaDZOZldvbDFxRnU0SHJIc1VnMFJzUmdnaTNnQjk5S2lCSjItbnYyYjN3VjAxUjVJcTJGeHloczRvRk0yeUJDOWdLTGJBT3VQazZQakNOWk1HYjE4Wk82VDQzVnpxc05DblNwM2NLdkxhTm9KLW5GZkZqT0hfdEE?oc=5"
+        }
+      ],
+      "id": "messi-agrees-to-buy-second-spanish-club"
     },
     {
       "published_at": "2026-09-09T11:56:09+00:00",
@@ -263,33 +299,6 @@
       "id": "spoke-brilliantly-but-liverpool-fans-torn-on-mac-allister-contract-comments"
     },
     {
-      "published_at": "2026-09-09T11:56:09+00:00",
-      "updated_at": "2026-09-09T11:56:09+00:00",
-      "title": "Messi agrees to buy second Spanish club",
-      "summary": "Spanish second-division side Eldense say Argentina great Lionel Messi has reached a \"preliminary agreement\" to become the club's majority shareholder",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "lionel-messi",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/708b/live/1a0c0af0-ac3f-11f1-96a2-2f464854ded4.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c99dmky78d3o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c99dmky78d3o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "messi-agrees-to-buy-second-spanish-club"
-    },
-    {
       "published_at": "2026-09-09T11:42:10+00:00",
       "updated_at": "2026-09-09T11:42:10+00:00",
       "title": "After 717 days and nine 'career over' diagnoses, player makes 'surreal' return",
@@ -315,33 +324,6 @@
       },
       "confirmed_by": [],
       "id": "after-717-days-and-nine-career-over-diagnoses-player-makes-surreal-return"
-    },
-    {
-      "published_at": "2026-09-08T13:30:33+00:00",
-      "updated_at": "2026-09-08T13:30:33+00:00",
-      "title": "Rangers lose Shankland for up to four months",
-      "summary": "Rangers captain Lawrence Shankland will be out for up to four months because of a hamstring tear and the Scotland forward may have surgery",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/106f/live/ac04ddd0-ab66-11f1-aed2-8d6da8d75094.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c74ew227rmpo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c74ew227rmpo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "rangers-lose-shankland-for-up-to-four-months"
     },
     {
       "published_at": "2026-09-08T12:28:16+00:00",
@@ -371,31 +353,58 @@
       "id": "mctominay-s-heart-procedure-a-complete-success"
     },
     {
-      "published_at": "2026-09-08T08:42:28+00:00",
-      "updated_at": "2026-09-08T08:42:28+00:00",
-      "title": "'Problems run deeper' - Coady on Leicester crisis",
-      "summary": "Former Leicester City defender Conor Coady says the problems at his old club \"have got to run deeper\" than the manager and players",
+      "published_at": "2026-09-08T07:35:25+00:00",
+      "updated_at": "2026-09-08T07:35:25+00:00",
+      "title": "Europe's next great coach? How Fabregas led Como into Champions League",
+      "summary": "BBC Sport visits Como to discover the vision and philosophy of the club's coach, Cesc Fabregas, who has overseen the team's remarkable rise to the Champions League",
       "category": [
-        "Football"
+        "Coach"
       ],
       "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9db2/live/2eb09a30-ab5d-11f1-9647-01c7ddc5a2b1.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c548/live/985f7d20-a879-11f1-b109-879e35c24276.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cx2zgd2913yo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/videos/c86xjn97ve2o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx2zgd2913yo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/videos/c86xjn97ve2o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "problems-run-deeper-coady-on-leicester-crisis"
+      "id": "europe-s-next-great-coach-how-fabregas-led-como-into-champions-league"
+    },
+    {
+      "published_at": "2026-09-08T06:43:20+00:00",
+      "updated_at": "2026-09-08T06:43:20+00:00",
+      "title": "Como renew striker's contract after cancer diagnosis",
+      "summary": "Italian club Como renew the contract of forward Roberta Picchi after she is diagnosed with breast cancer",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e39d/live/43ee65b0-ab4b-11f1-8e27-d7d44e0117ca.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cy5zw6k9630o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cy5zw6k9630o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "como-renew-striker-s-contract-after-cancer-diagnosis"
     },
     {
       "published_at": "2026-09-08T04:12:06+00:00",
@@ -452,59 +461,40 @@
       "id": "mj-llbysupportrar-bortf-rda-av-polis-efter-f-rlusten-mot-bl-vitt"
     },
     {
-      "published_at": "2026-09-09T10:00:00+00:00",
-      "updated_at": "2026-09-09T10:00:00+00:00",
-      "title": "Coventry's 'Premier League attributes' just waiting to be unleashed, says Carr",
-      "summary": "Rhys Carr is a football coach, perhaps best known for his time as assistant manager at Coventry City, where he was briefly in caretaker charge. But spending time with the Welshman, it quickly becomes clear he has a broader skillset than most",
+      "published_at": "2026-09-07T14:34:31+00:00",
+      "updated_at": "2026-09-07T14:34:31+00:00",
+      "title": "Fitter, happier, more productive: Arsenal could hardly have started better | Jonathan Wilson",
+      "summary": "It’s still very early but Mikel Arteta’s side are playing with an authority and freshness that eluded them at times last season Sign up for our free newsletter here Three league games played, three games won . For Arsenal this season could only have started better if Manchester City, who look like being one of their two most serious challengers, had dropped points. But it’s not just about results: Arsenal have been comfortably the better side in each of those three games, approaching each of them in very different ways.",
       "category": [
         "Premier League"
       ],
-      "status": "Reported",
+      "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-rhys-carr-republic-of-ireland_7330923.jpg?20260825155248",
+      "club": "arsenal",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13577715/rhys-carr-interview-former-coventry-assistant-manager-on-premier-league-attributes-in-the-squad-as-he-seeks-next-challenge"
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/07/arsenals-season-could-hardly-have-started-better"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13577715/rhys-carr-interview-former-coventry-assistant-manager-on-premier-league-attributes-in-the-squad-as-he-seeks-next-challenge"
+        "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
-      "confirmed_by": [],
-      "id": "coventry-s-premier-league-attributes-just-waiting-to-be-unleashed-says-carr"
-    },
-    {
-      "published_at": "2026-09-08T13:27:00+00:00",
-      "updated_at": "2026-09-08T13:27:00+00:00",
-      "title": "Mac Allister 'very sad' over no new Liverpool deal",
-      "summary": "Liverpool midfielder Alexis Mac Allister is \"very sad\" that he has not been offered a new contract and admitted he had \"options to leave\" in the summer",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://e0.365dm.com/26/09/1600x900/skysports-premier-league-liverpool_7344990.jpg?20260908131848",
-      "sources": [
+      "confirmed_by": [
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13583123/alexis-mac-allister-liverpool-midfielder-very-sad-over-no-new-contract-and-admits-he-could-have-left-in-summer"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/07/arsenals-season-could-hardly-have-started-better"
         }
       ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13583123/alexis-mac-allister-liverpool-midfielder-very-sad-over-no-new-contract-and-admits-he-could-have-left-in-summer"
-      },
-      "confirmed_by": [],
-      "id": "mac-allister-very-sad-over-no-new-liverpool-deal"
+      "id": "fitter-happier-more-productive-arsenal-could-hardly-have-started-better-jonathan-wilson"
     },
     {
       "published_at": "2026-09-09T18:14:00+00:00",
@@ -534,9 +524,9 @@
       "id": "officiellt-camara-klar-f-r-kalmar-ff"
     },
     {
-      "published_at": "2026-09-08T12:57:00+00:00",
-      "updated_at": "2026-09-08T12:57:00+00:00",
-      "title": "Mac Allister inte erbjuden kontrakt: \"Gör mig ledsen\"",
+      "published_at": "2026-09-09T07:55:00+00:00",
+      "updated_at": "2026-09-09T07:55:00+00:00",
+      "title": "Mac Allister fick inget nytt kontrakt: \"Mycket ledsen\"",
       "summary": "Read the full report at Fotbollskanalen.",
       "category": [
         "Sverige"
@@ -558,7 +548,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "mac-allister-inte-erbjuden-kontrakt-g-r-mig-ledsen"
+      "id": "mac-allister-fick-inget-nytt-kontrakt-mycket-ledsen"
     },
     {
       "published_at": "2026-09-07T12:00:00+00:00",
@@ -752,41 +742,103 @@
       "id": "klart-isak-bjerkebo-f-rl-nger-med-sirius"
     },
     {
-      "published_at": "2026-09-09T18:00:58+00:00",
-      "updated_at": "2026-09-09T18:00:58+00:00",
-      "title": "Viktor Gyökeres startar för Arsenal i Champions League",
-      "summary": "Viktor Gyökeres har bara fått spela tolv minuter på tre ligamatcher för Arsenal. Men Graham Potter är inte orolig inför den kommande landslagssamlingen. – Jag har ingen oro, säger Graham Potter till SVT Sport",
+      "published_at": "2026-09-09T19:01:05+00:00",
+      "updated_at": "2026-09-09T19:01:05+00:00",
+      "title": "Barcelona 5 Feyenoord 1: Is Raphinha the best player not up for Ballon d’Or?",
+      "summary": "Brazilian scores twice in 5-1 victory at Camp Nou Torres scores hat-trick as PSG thump Slovan Bratislava Raphinha let his goals do the talking after being omitted from the Ballon d’Or shortlist, striking twice as Barcelona eased to a 5-1 win over Feyenoord in the Champions League. The Brazilian was a surprise omission from this week’s 30-strong list of candidates for the prestigious award but brushed any disappointment aside to continue his early season hot streak at a rain-soaked Camp Nou. The forward finished brilliantly in the third minute and added a second just before the hour mark to down the Eredivisie side and take his tally to eight goals in six outings at the start of the campaign.",
       "category": [
-        "Sverige",
-        "Premier League"
+        "La Liga"
       ],
       "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.49/0.39/e13a25ef31c38ac869a3ab726e647e256ffdef33c7e94fe740ea11a3000ecf9d",
+      "club": "barcelona",
+      "image": "",
       "sources": [
         {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/viktor-gyokeres-startar-for-arsenal-i-champions-league"
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         },
         {
-          "name": "Football Italia",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaZmF2dW9taG5uSUhHeF9mUFMyYjZ1NjhEbTZuOUcxOXJ4S0ExUTE2NHp6V2Zfa04tYURMQVFHN1BHS2QxeDdOZXBSb1NsbVdHWndkeUtGZk01Yll4S3FXOXdTRVE5TF8wb3g1aEZFUG13Znl6eEJHd3d3clnSAYIBQVVfeXFMTmlJaDhzV0NuSjgwcVR5T0p3TjU3aVpOeTB4Ml9xQTV1czhMcF8wdzlMZ1k2OUFZb0pOb25FYS1MUWJscVJscW1TNTdocjdkREktQ1R1UG9TVFYxbHBreVZ2el84YUxHaFRDLWVsWE82ekJkV3FDb2lVSFJFRWNpMnRBdw?oc=5"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/09/champions-league-roundup-barcelona-paris-saint-germain"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/viktor-gyokeres-startar-for-arsenal-i-champions-league"
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [
         {
-          "name": "Football Italia",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaZmF2dW9taG5uSUhHeF9mUFMyYjZ1NjhEbTZuOUcxOXJ4S0ExUTE2NHp6V2Zfa04tYURMQVFHN1BHS2QxeDdOZXBSb1NsbVdHWndkeUtGZk01Yll4S3FXOXdTRVE5TF8wb3g1aEZFUG13Znl6eEJHd3d3clnSAYIBQVVfeXFMTmlJaDhzV0NuSjgwcVR5T0p3TjU3aVpOeTB4Ml9xQTV1czhMcF8wdzlMZ1k2OUFZb0pOb25FYS1MUWJscVJscW1TNTdocjdkREktQ1R1UG9TVFYxbHBreVZ2el84YUxHaFRDLWVsWE82ekJkV3FDb2lVSFJFRWNpMnRBdw?oc=5"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/09/champions-league-roundup-barcelona-paris-saint-germain"
         }
       ],
-      "id": "viktor-gy-keres-startar-f-r-arsenal-i-champions-league"
+      "id": "barcelona-5-feyenoord-1-is-raphinha-the-best-player-not-up-for-ballon-d-or"
+    },
+    {
+      "published_at": "2026-09-09T15:05:24+00:00",
+      "updated_at": "2026-09-09T15:05:24+00:00",
+      "title": "Vinicius Jr is jeered again as Real Madrid defy Champions League logic once more",
+      "summary": "Read the full report at The Athletic.",
+      "category": [
+        "La Liga"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "real-madrid",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb0pKd3luWGd3OW5HUmExd3NjYUJmakFCREh1VTF3ZHp1Z0NIbXlqbFk5SUpOT3M2dk5FNklCMy16M2U2M1dROGY1emtNcWpJMzdVWkJKVmk5RjhNZG1mcUJ4d3hGblhnd2ZMeDBnZ2wtalRLM2MxN1pJQUxscVRUSVhyZVAtRDlRXy1HUmNnTnN0amxySUpKdTM0ZFZVV1g0dEJuN3pjVXh2elVYQUVCcjRrSk5LZ3lod1gtc0hTaFlKY0M5N01EbGI0UVg2STR6VFF4STdydktyckZsXzdpaXJNb3JVWG8?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb0pKd3luWGd3OW5HUmExd3NjYUJmakFCREh1VTF3ZHp1Z0NIbXlqbFk5SUpOT3M2dk5FNklCMy16M2U2M1dROGY1emtNcWpJMzdVWkJKVmk5RjhNZG1mcUJ4d3hGblhnd2ZMeDBnZ2wtalRLM2MxN1pJQUxscVRUSVhyZVAtRDlRXy1HUmNnTnN0amxySUpKdTM0ZFZVV1g0dEJuN3pjVXh2elVYQUVCcjRrSk5LZ3lod1gtc0hTaFlKY0M5N01EbGI0UVg2STR6VFF4STdydktyckZsXzdpaXJNb3JVWG8?oc=5"
+        }
+      ],
+      "id": "vinicius-jr-is-jeered-again-as-real-madrid-defy-champions-league-logic-once-more"
+    },
+    {
+      "published_at": "2026-09-09T21:38:38+00:00",
+      "updated_at": "2026-09-09T21:38:38+00:00",
+      "title": "Scottish roundup: Miovski hits last-gasp Rangers winner and Celtic keep 100% record",
+      "summary": "Rangers beat St Mirren 1-0 at Ibrox Celtic also narrow winners at St Johnstone A dramatic last-gasp strike from substitute Bojan Miovski gave Rangers a 1-0 Premiership win over St Mirren at Ibrox. Back in the technical area after a two-game touchline suspension, Derek McInnes watched St Mirren’s Australian goalkeeper Jacob Chapman keep the home side at bay in the first half with a string of saves, albeit helped by some poor finishing.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/ec9ecb6cf625e4e9083a5bec2290d54a53a3be6d/519_372_2155_1724/master/2155.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd098f46be6bffb966f948a7def890bf",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/09/scottish-roundup-miovski-rangers-celtic-st-mirren-st-johnstone"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/sep/09/scottish-roundup-miovski-rangers-celtic-st-mirren-st-johnstone"
+      },
+      "confirmed_by": [],
+      "id": "scottish-roundup-miovski-hits-last-gasp-rangers-winner-and-celtic-keep-100-record"
     },
     {
       "published_at": "2026-09-09T17:17:23+00:00",
@@ -814,6 +866,33 @@
       },
       "confirmed_by": [],
       "id": "infantino-installs-loyalist-to-oversee-caribbean-as-he-splits-fifa-management"
+    },
+    {
+      "published_at": "2026-09-09T04:08:35+00:00",
+      "updated_at": "2026-09-09T04:08:35+00:00",
+      "title": "Cristian Volpato’s Socceroos fate uncertain after second sample confirms positive cocaine test",
+      "summary": "Football Australia has power to suspend him from national team Striker has maintained his innocence over failed drugs test Cristian Volpato’s immediate availability for the Socceroos rests in the hands of Football Australia after NSW Police confirmed the World Cup star had tested positive for cocaine on a secondary test. Volpato was pulled over by police on Sydney’s Anzac Bridge on 24 July and returned a positive roadside reading for cocaine.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/b08129167dc127f281e496a4fa5ff71f8bf657af/169_411_3313_2650/master/3313.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a5274d54621a6cda0181d6624ad67e51",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/09/cristian-volpato-cocaine-positive-test-socceroos-australia-ntwnfb"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/sep/09/cristian-volpato-cocaine-positive-test-socceroos-australia-ntwnfb"
+      },
+      "confirmed_by": [],
+      "id": "cristian-volpato-s-socceroos-fate-uncertain-after-second-sample-confirms-positive-cocaine-"
     },
     {
       "published_at": "2026-09-08T21:07:57+00:00",
@@ -895,60 +974,6 @@
       },
       "confirmed_by": [],
       "id": "more-than-100-000-people-add-names-to-complaint-against-gianni-infantino"
-    },
-    {
-      "published_at": "2026-09-08T06:08:17+00:00",
-      "updated_at": "2026-09-08T06:08:17+00:00",
-      "title": "No major World Cup regrets, says Tony Popovic, despite shootout heartbreak",
-      "summary": "In his first appearance in front of the media since the last-32 defeat to Egypt the coach, whose tactics elicited some criticism, insists he would not have done anything different More than two months have passed since Australia’s painful penalty shootout defeat against Egypt ended a World Cup adventure that had begun so brightly. Although the Socceroos upset Turkey and progressed to the knockout stage with the youngest team in the tournament, coach Tony Popovic wore criticism for his selections, especially in that shootout in Dallas. Sitting in front of a bank of microphones in Sydney on Tuesday in his first media appearance since the World Cup, the coach is finally ready to talk.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/61ebfbf8b920b546b58d066fa271c965895cc82c/218_0_3843_3074/master/3843.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aefe075c2bb2a2c5478a0956465b1955",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/08/tony-popovic-socceroos-coach-world-cup-no-regrest-penalty-shootout-disappointment"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/sep/08/tony-popovic-socceroos-coach-world-cup-no-regrest-penalty-shootout-disappointment"
-      },
-      "confirmed_by": [],
-      "id": "no-major-world-cup-regrets-says-tony-popovic-despite-shootout-heartbreak"
-    },
-    {
-      "published_at": "2026-09-07T14:34:31+00:00",
-      "updated_at": "2026-09-07T14:34:31+00:00",
-      "title": "Fitter, happier, more productive: Arsenal could hardly have started better | Jonathan Wilson",
-      "summary": "It’s still very early but Mikel Arteta’s side are playing with an authority and freshness that eluded them at times last season Sign up for our free newsletter here Three league games played, three games won . For Arsenal this season could only have started better if Manchester City, who look like being one of their two most serious challengers, had dropped points. But it’s not just about results: Arsenal have been comfortably the better side in each of those three games, approaching each of them in very different ways.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://i.guim.co.uk/img/media/88cfbd62e262625d803affa446eb9b57d16b0412/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=33264b4842d426948e8edddd1397f818",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/07/arsenals-season-could-hardly-have-started-better"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/sep/07/arsenals-season-could-hardly-have-started-better"
-      },
-      "confirmed_by": [],
-      "id": "fitter-happier-more-productive-arsenal-could-hardly-have-started-better-jonathan-wilson"
     },
     {
       "published_at": "2026-09-07T11:20:32+00:00",
@@ -1224,33 +1249,6 @@
       "id": "report-fiorentina-could-sue-grosso-to-terminate-contract"
     },
     {
-      "published_at": "2026-09-08T13:31:27+00:00",
-      "updated_at": "2026-09-08T13:31:27+00:00",
-      "title": "Positive Juventus start despite injury concerns",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "positive-juventus-start-despite-injury-concerns"
-    },
-    {
       "published_at": "2026-09-07T19:35:00+00:00",
       "updated_at": "2026-09-07T19:35:00+00:00",
       "title": "Ex-Torino and Italy forward Belotti joins Serie B side Modena",
@@ -1360,6 +1358,88 @@
       "id": "monaco-rally-to-edge-winless-psg-as-lyon-beat-auxerre-in-ligue-1"
     },
     {
+      "published_at": "2026-09-09T22:33:48+00:00",
+      "updated_at": "2026-09-09T22:33:48+00:00",
+      "title": "Champions League briefing: Ballon d’Or contenders dazzle, a 12-minute hat-trick and a two-man canoe",
+      "summary": "Read the full report at The Athletic.",
+      "category": [
+        "Football"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "champions-league-briefing-ballon-d-or-contenders-dazzle-a-12-minute-hat-trick-and-a-two-ma"
+    },
+    {
+      "published_at": "2026-09-09T22:33:34+00:00",
+      "updated_at": "2026-09-09T22:33:34+00:00",
+      "title": "Barcelona’s Rodri apologises after cameras caught him calling Valencia ‘weak’ during 5-0 victory",
+      "summary": "Read the full report at The Athletic.",
+      "category": [
+        "La Liga"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "barcelona",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "barcelona-s-rodri-apologises-after-cameras-caught-him-calling-valencia-weak-during-5-0-vic"
+    },
+    {
+      "published_at": "2026-09-09T22:01:05+00:00",
+      "updated_at": "2026-09-09T22:01:05+00:00",
+      "title": "Gyökeres mållös och utbytt när Arsenal vann",
+      "summary": "Sveriges anfallsstjärna Viktor Gyökeres fick chansen från start i Champions League. Arsenal besegrade Napoli med 1–0 efter mål av Martin Ödegaard",
+      "category": [
+        "Sverige",
+        "Premier League"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.29/0.41/8a4529c360e3d8464bf844278e21a1eced8195c86459eda92c8217b41704e936",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/gyokeres-mallos-och-utbytt-nar-arsenal-vann"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/gyokeres-mallos-och-utbytt-nar-arsenal-vann"
+      },
+      "confirmed_by": [],
+      "id": "gy-keres-m-ll-s-och-utbytt-n-r-arsenal-vann"
+    },
+    {
       "published_at": "2026-09-09T19:04:26+00:00",
       "updated_at": "2026-09-09T19:04:26+00:00",
       "title": "Avgör för Helsingborg på stopptid – firar vilt med supportrarna",
@@ -1387,33 +1467,6 @@
       "id": "avg-r-f-r-helsingborg-p-stopptid-firar-vilt-med-supportrarna"
     },
     {
-      "published_at": "2026-09-09T19:01:05+00:00",
-      "updated_at": "2026-09-09T19:01:05+00:00",
-      "title": "Barcelona 5 Feyenoord 1: Is Raphinha the best player not up for Ballon d’Or?",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "La Liga"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "barcelona",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "barcelona-5-feyenoord-1-is-raphinha-the-best-player-not-up-for-ballon-d-or"
-    },
-    {
       "published_at": "2026-09-09T18:44:12+00:00",
       "updated_at": "2026-09-09T18:44:12+00:00",
       "title": "Viking spelade klubbens största match i sorgband: ”Svårt hantera känslorna”",
@@ -1425,7 +1478,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.39/0.54/65d2b18682a5e038029c63ae37ad71491a1c34c983e3cac1fe6a18bc21f6dd3c",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.14/0.48/433c5dc0ebe4465285d6c754627094db35a2dd2fb80b0114034c279ba2298dd7",
       "sources": [
         {
           "name": "SVT Sport",
@@ -1439,6 +1492,33 @@
       },
       "confirmed_by": [],
       "id": "viking-spelade-klubbens-st-rsta-match-i-sorgband-sv-rt-hantera-k-nslorna"
+    },
+    {
+      "published_at": "2026-09-09T18:00:58+00:00",
+      "updated_at": "2026-09-09T18:00:58+00:00",
+      "title": "Fredrik Ljungberg rasande efter tacklingen på Alexander Isak: ”Vilket jävla spel”",
+      "summary": "Det blev inga svenskmål i kvällens Champions League. Alexander Isak blev bryskt behandlad i Liverpools seger mot Atletico Madrid med 2–1. – Vilket jävla spel, fräser experten Fredrik Ljungberg",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.71/0.4/334d601c5619a02d6fab9cb53aa89f4209d4842b0513d19dcd8f41577ee15700",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/viktor-gyokeres-startar-for-arsenal-i-champions-league"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/viktor-gyokeres-startar-for-arsenal-i-champions-league"
+      },
+      "confirmed_by": [],
+      "id": "fredrik-ljungberg-rasande-efter-tacklingen-p-alexander-isak-vilket-j-vla-spel"
     },
     {
       "published_at": "2026-09-09T15:48:07+00:00",
@@ -1466,33 +1546,6 @@
       },
       "confirmed_by": [],
       "id": "spain-s-ceuta-migrant-crisis-is-cutting-through-to-real-madrid-and-the-2030-world-cup"
-    },
-    {
-      "published_at": "2026-09-09T15:05:24+00:00",
-      "updated_at": "2026-09-09T15:05:24+00:00",
-      "title": "Vinicius Jr is jeered again as Real Madrid defy Champions League logic once more",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "La Liga"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "vinicius-jr-is-jeered-again-as-real-madrid-defy-champions-league-logic-once-more"
     },
     {
       "published_at": "2026-09-09T15:05:03+00:00",
@@ -1577,74 +1630,82 @@
       "id": "andreas-br-nnstr-m-ibland-vill-man-b-rja-bidra-till-bnp-igen"
     },
     {
-      "published_at": "2026-09-09T09:36:36+00:00",
-      "updated_at": "2026-09-09T09:36:36+00:00",
-      "title": "Spanska förbundet betalar för att frysa in ägg – presenterar avtal",
-      "summary": "Det spanska fotbollsförbundet, RFEF, kommer att betala sina landslagsspelare för att frysa in sina ägg. Förbundet presenterar nu ett avtal med en fertilitetsklinik. ”I dag är en stor dag för hela den spanska fotbollsfamiljen”, skriver förbundet i ett pressmeddelande",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.51/0.25/9e52a061e4ded7738dfd41fe7c199eac4bdf05b15e3d24ad6dd84815cbc9d975",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/spanska-forbundet-betalar-for-att-frysa-in-agg-presenterar-avtal"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/spanska-forbundet-betalar-for-att-frysa-in-agg-presenterar-avtal"
-      },
-      "confirmed_by": [],
-      "id": "spanska-f-rbundet-betalar-f-r-att-frysa-in-gg-presenterar-avtal"
-    },
-    {
-      "published_at": "2026-09-09T20:17:16+00:00",
-      "updated_at": "2026-09-09T20:17:16+00:00",
-      "title": "Liverpool v Atlético Madrid, PSG v Slovan Bratislava, Chelsea v Leeds United – live",
-      "summary": "⚽ Champions League and Carabao Cup match updates ⚽ Live scoreboard | Read Football Daily | And mail Daniel In Barcelona, by the way, Shaqueel van Persie has come on for Feyenoord, making his European debut . On which point, have you seen Liam van Nistelrooy’s running gait?",
+      "published_at": "2026-09-09T21:02:33+00:00",
+      "updated_at": "2026-09-09T21:02:33+00:00",
+      "title": "Ødegaard stuns Napoli as Arsenal make winning start in Champions League",
+      "summary": "After their record-breaking feats last year in the Champions League, Arsenal are at it again. But having been delayed along with hundreds of travelling supporters by travel chaos on Tuesday, Mikel Arteta’s side had to bide their time against Napoli until Martin Ødegaard continued his rich vein of goalscoring with the crucial strike 15 minutes from full time. Perhaps it was the fact that, at Uefa’s insistence, they were forced to wear red shorts for the first time since a Premier League game against Watford in 2022 that Arsenal were not quite at their flowing best here and missed a hatful of chances.",
       "category": [
         "Premier League",
-        "La Liga",
-        "Ligue 1"
+        "Serie A"
       ],
       "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
-      "club": "liverpool",
-      "image": "",
+      "club": "arsenal",
+      "image": "https://i.guim.co.uk/img/media/a3f868184f1c6aa375d15667b3eeca4fb0990a01/174_0_1780_1424/master/1780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e1a6ad40a34ff16b743dc9b76c23579",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/09/napoli-arsenal-champions-league-match-report"
+        },
+        {
+          "name": "Football Italia",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaZmF2dW9taG5uSUhHeF9mUFMyYjZ1NjhEbTZuOUcxOXJ4S0ExUTE2NHp6V2Zfa04tYURMQVFHN1BHS2QxeDdOZXBSb1NsbVdHWndkeUtGZk01Yll4S3FXOXdTRVE5TF8wb3g1aEZFUG13Znl6eEJHd3d3clnSAYIBQVVfeXFMTmlJaDhzV0NuSjgwcVR5T0p3TjU3aVpOeTB4Ml9xQTV1czhMcF8wdzlMZ1k2OUFZb0pOb25FYS1MUWJscVJscW1TNTdocjdkREktQ1R1UG9TVFYxbHBreVZ2el84YUxHaFRDLWVsWE82ekJkV3FDb2lVSFJFRWNpMnRBdw?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/sep/09/napoli-arsenal-champions-league-match-report"
+      },
+      "confirmed_by": [
+        {
+          "name": "Football Italia",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBaZmF2dW9taG5uSUhHeF9mUFMyYjZ1NjhEbTZuOUcxOXJ4S0ExUTE2NHp6V2Zfa04tYURMQVFHN1BHS2QxeDdOZXBSb1NsbVdHWndkeUtGZk01Yll4S3FXOXdTRVE5TF8wb3g1aEZFUG13Znl6eEJHd3d3clnSAYIBQVVfeXFMTmlJaDhzV0NuSjgwcVR5T0p3TjU3aVpOeTB4Ml9xQTV1czhMcF8wdzlMZ1k2OUFZb0pOb25FYS1MUWJscVJscW1TNTdocjdkREktQ1R1UG9TVFYxbHBreVZ2el84YUxHaFRDLWVsWE82ekJkV3FDb2lVSFJFRWNpMnRBdw?oc=5"
+        }
+      ],
+      "id": "degaard-stuns-napoli-as-arsenal-make-winning-start-in-champions-league"
+    },
+    {
+      "published_at": "2026-09-07T15:41:54+00:00",
+      "updated_at": "2026-09-07T15:41:54+00:00",
+      "title": "Chelsea’s midfield a headache for Alonso after Arsenal press advantage | Jacob Steinberg",
+      "summary": "There was a gulf between the teams in the middle of the park, with Moisés Caicedo’s absence hurting the visitors There have been seasons when Chelsea have turned up at the Emirates Stadium and parked the bus. “You know, I think 10 years without a title is boring,” José Mourinho said in response to criticism from Arsenal fans after a stultifying 0-0 draw in April 2015 . On Sunday, though, there was no holding back from Chelsea.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "xabi-alonso",
+      "entity_type": "coaches",
+      "club": "arsenal",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-chelsea-premier-league_7281528.jpg?20260624101452",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/chelsea-vs-leeds-united/live/577586"
+          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         },
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/sep/09/liverpool-atletico-madrid-psg-slovan-bratislava-chelsea-leeds-united-live"
+          "url": "https://www.theguardian.com/football/2026/sep/07/chelseas-midfield-a-headache-for-alonso-after-arsenal-press-advantage"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/chelsea-vs-leeds-united/live/577586"
+        "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/sep/09/liverpool-atletico-madrid-psg-slovan-bratislava-chelsea-leeds-united-live"
+          "url": "https://www.theguardian.com/football/2026/sep/07/chelseas-midfield-a-headache-for-alonso-after-arsenal-press-advantage"
         }
       ],
-      "id": "liverpool-v-atl-tico-madrid-psg-v-slovan-bratislava-chelsea-v-leeds-united-live"
+      "id": "chelsea-s-midfield-a-headache-for-alonso-after-arsenal-press-advantage-jacob-steinberg"
     },
     {
       "published_at": "2026-09-09T21:00:00+00:00",
       "updated_at": "2026-09-09T21:00:00+00:00",
-      "title": "Liverpool latest: Barcola appears to suffer injury on full debut",
+      "title": "Liverpool latest: Iraola plays down Barcola injury fears",
       "summary": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
         "Premier League"
@@ -1666,7 +1727,7 @@
         "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "liverpool-latest-barcola-appears-to-suffer-injury-on-full-debut"
+      "id": "liverpool-latest-iraola-plays-down-barcola-injury-fears"
     },
     {
       "published_at": "2026-09-09T11:27:00+00:00",
@@ -1696,33 +1757,6 @@
       "id": "man-utd-latest-transfer-strategy-which-could-cost-carrick-analysed"
     },
     {
-      "published_at": "2026-09-09T10:45:00+00:00",
-      "updated_at": "2026-09-09T10:45:00+00:00",
-      "title": "Ipswich latest: Why transfer business boosted PL survival prospects",
-      "summary": "Ipswich transfers, latest news, rumours and gossip: Live updates, goals and highlights",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-ipswich-news-rumours_7331921.jpg?20260826153921",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-      },
-      "confirmed_by": [],
-      "id": "ipswich-latest-why-transfer-business-boosted-pl-survival-prospects"
-    },
-    {
       "published_at": "2026-09-09T08:24:00+00:00",
       "updated_at": "2026-09-09T08:24:00+00:00",
       "title": "Mudryk injury reports amid Spurs' slow start to season - send in your questions",
@@ -1750,92 +1784,145 @@
       "id": "mudryk-injury-reports-amid-spurs-slow-start-to-season-send-in-your-questions"
     },
     {
-      "published_at": "2026-09-07T15:15:00+00:00",
-      "updated_at": "2026-09-07T15:15:00+00:00",
-      "title": "Everton latest: Short in key positions? The cost of the transfer window assessed",
-      "summary": "Everton transfers, latest news, rumours and gossip: Live updates, goals and highlights",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "everton",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-everton-club-blog_7326698.jpg?20260820165259",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-      },
-      "confirmed_by": [],
-      "id": "everton-latest-short-in-key-positions-the-cost-of-the-transfer-window-assessed"
-    },
-    {
-      "published_at": "2026-09-09T09:47:00+00:00",
-      "updated_at": "2026-09-09T09:47:00+00:00",
-      "title": "Carra: Haaland will be greatest goalscorer of all time",
-      "summary": "Jamie Carragher believes Erling Haaland will be the \"best goalscorer of all time\" after his double earned Manchester City a 2-0 win at Porto in the Champions League",
+      "published_at": "2026-09-09T23:05:00+00:00",
+      "updated_at": "2026-09-09T23:05:00+00:00",
+      "title": "Arteta explains new role for transformed Odegaard",
+      "summary": "Martin Odegaard is a player transformed at the start of this season - and Arsenal boss Mikel Arteta puts his captain's impressive form down to fitness and new positioning",
       "category": [
         "Football"
       ],
       "status": "Reported",
-      "entity": "erling-haaland",
-      "entity_type": "players",
+      "entity": "mikel-arteta",
+      "entity_type": "coaches",
       "club": "",
-      "image": "https://e0.365dm.com/26/09/1600x900/skysports-erling-haaland-man-city_7345823.jpg?20260909102520",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-martin-odegaard-arsenal_7346630.jpg?20260909231300",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13583453/erling-haaland-jamie-carragher-believes-manchester-city-striker-will-be-greatest-goalscorer-of-all-time"
+          "url": "https://www.skysports.com/football/news/11095/13583797/arsenal-martin-odegaard-new-role-explained-by-mikel-arteta-after-captains-champions-league-winner-at-napoli"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13583453/erling-haaland-jamie-carragher-believes-manchester-city-striker-will-be-greatest-goalscorer-of-all-time"
+        "url": "https://www.skysports.com/football/news/11095/13583797/arsenal-martin-odegaard-new-role-explained-by-mikel-arteta-after-captains-champions-league-winner-at-napoli"
       },
       "confirmed_by": [],
-      "id": "carra-haaland-will-be-greatest-goalscorer-of-all-time"
+      "id": "arteta-explains-new-role-for-transformed-odegaard"
     },
     {
-      "published_at": "2026-09-09T09:00:00+00:00",
-      "updated_at": "2026-09-09T09:00:00+00:00",
-      "title": "Can Carrick afford to rotate before Manchester derby?",
-      "summary": "\"It puts a bit of pressure on United. They've got City next week and European games starting in midweek.\"",
+      "published_at": "2026-09-09T22:00:00+00:00",
+      "updated_at": "2026-09-09T22:00:00+00:00",
+      "title": "Chelsea hit SIX second-half goals to see off Leeds in Carabao Cup classic",
+      "summary": "An incredible second-half comeback including six goals in 41 minutes saw Chelsea finally blow away Leeds 6-3 in one of the all-time Carabao Cup classics at Stamford Bridge",
       "category": [
         "Premier League"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/09/1600x900/skysports-premier-league-manchester-united_7345804.jpg?20260909093508",
+      "club": "chelsea",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-morgan-rogers-chelsea_7346571.jpg?20260909221341",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13582686/manchester-uniteds-squad-depth-analysed-as-gary-neville-claims-michael-carrick-is-under-pressure-ahead-of-champions-league-return"
+          "url": "https://www.skysports.com/football/chelsea-vs-leeds-united/report/577586"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13582686/manchester-uniteds-squad-depth-analysed-as-gary-neville-claims-michael-carrick-is-under-pressure-ahead-of-champions-league-return"
+        "url": "https://www.skysports.com/football/chelsea-vs-leeds-united/report/577586"
       },
       "confirmed_by": [],
-      "id": "can-carrick-afford-to-rotate-before-manchester-derby"
+      "id": "chelsea-hit-six-second-half-goals-to-see-off-leeds-in-carabao-cup-classic"
     },
     {
-      "published_at": "2026-09-09T19:37:00+00:00",
-      "updated_at": "2026-09-09T19:37:00+00:00",
-      "title": "FEM SPANINGAR: Tydlig Stahre-effekt i HIF",
-      "summary": "FEM SPANINGAR: Tydlig Stahre-effekt i HIF Fotbollskanalen",
+      "published_at": "2026-09-09T22:00:00+00:00",
+      "updated_at": "2026-09-09T22:00:00+00:00",
+      "title": "West Brom win with 10 men at Derby to move top of Championship",
+      "summary": "West Brom celebrated a memorable 1-0 victory over Derby at Pride Park after playing for more than an hour with 10 men",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-west-brom-james-morrison_7346574.jpg?20260909221651",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/derby-county-vs-west-bromwich-albion/report/560567"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/derby-county-vs-west-bromwich-albion/report/560567"
+      },
+      "confirmed_by": [],
+      "id": "west-brom-win-with-10-men-at-derby-to-move-top-of-championship"
+    },
+    {
+      "published_at": "2026-09-09T21:55:00+00:00",
+      "updated_at": "2026-09-09T21:55:00+00:00",
+      "title": "Baur's first Celtic goal secures victory against St Johnstone",
+      "summary": "Mika Baur scored his first Celtic goal as they extended the winning start to their latest Scottish Premiership title defence to six games",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-celtic-st-johnstone_7346496.jpg?20260909211413",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/st-johnstone-vs-celtic/report/558350"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/st-johnstone-vs-celtic/report/558350"
+      },
+      "confirmed_by": [],
+      "id": "baur-s-first-celtic-goal-secures-victory-against-st-johnstone"
+    },
+    {
+      "published_at": "2026-09-09T21:35:00+00:00",
+      "updated_at": "2026-09-09T21:35:00+00:00",
+      "title": "Rangers snatch late win over St Mirren as sub Miovski extends winning run",
+      "summary": "Bojan Miovski's cute dink in stoppage time sealed a dramatic 1-0 victory for Rangers over St Mirren and extended their winning run to four games in the Scottish Premiership",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-bojan-miovski-rangers_7346529.jpg?20260909214216",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/rangers-vs-st-mirren/report/558349"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/rangers-vs-st-mirren/report/558349"
+      },
+      "confirmed_by": [],
+      "id": "rangers-snatch-late-win-over-st-mirren-as-sub-miovski-extends-winning-run"
+    },
+    {
+      "published_at": "2026-09-09T20:48:45+00:00",
+      "updated_at": "2026-09-09T20:48:45+00:00",
+      "title": "HIF sänkte Bois på övertid i Skånederbyt",
+      "summary": "HIF sänkte Bois på övertid i Skånederbyt Fotbollskanalen",
       "category": [
         "Sverige"
       ],
@@ -1856,34 +1943,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "fem-spaningar-tydlig-stahre-effekt-i-hif"
-    },
-    {
-      "published_at": "2026-09-09T15:17:00+00:00",
-      "updated_at": "2026-09-09T15:17:00+00:00",
-      "title": "Dani Olmo: ‘Winning the World Cup changes you, it changes your life’",
-      "summary": "Read the full report at The Guardian.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "dani-olmo-winning-the-world-cup-changes-you-it-changes-your-life"
+      "id": "hif-s-nkte-bois-p-vertid-i-sk-nederbyt"
     },
     {
       "published_at": "2026-09-09T18:28:34+00:00",
@@ -1994,6 +2054,33 @@
       "id": "sfsu-jo-anm-ler-polisen"
     },
     {
+      "published_at": "2026-09-09T22:05:00+00:00",
+      "updated_at": "2026-09-09T22:05:00+00:00",
+      "title": "Dembélé, Torres star as PSG score 6 to launch UCL defense",
+      "summary": "Read the full report at ESPN.",
+      "category": [
+        "Ligue 1"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "psg",
+      "image": "",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "ESPN",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "demb-l-torres-star-as-psg-score-6-to-launch-ucl-defense"
+    },
+    {
       "published_at": "2026-09-08T19:27:00+00:00",
       "updated_at": "2026-09-08T19:27:00+00:00",
       "title": "Spanish refs stand by call not to retake Mbappé pen miss",
@@ -2074,60 +2161,6 @@
       },
       "confirmed_by": [],
       "id": "inter-glass-half-full-as-big-serie-a-match-looms"
-    },
-    {
-      "published_at": "2026-09-08T15:29:21+00:00",
-      "updated_at": "2026-09-08T15:29:21+00:00",
-      "title": "Ballon d’Or: Lautaro Martinez only Serie A player nominated, no Dimarco",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "ballon-d-or-lautaro-martinez-only-serie-a-player-nominated-no-dimarco"
-    },
-    {
-      "published_at": "2026-09-07T18:44:21+00:00",
-      "updated_at": "2026-09-07T18:44:21+00:00",
-      "title": "Maldini becoming Serie A’s latest journeyman at 24 after first goal for Cagliari",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "maldini-becoming-serie-a-s-latest-journeyman-at-24-after-first-goal-for-cagliari"
     }
   ]
 }
