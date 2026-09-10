@@ -1,108 +1,48 @@
 {
-  "updated_at": "2026-09-10T10:49:06.443631+00:00",
+  "updated_at": "2026-09-10T14:54:01.157280+00:00",
   "items": [
     {
-      "published_at": "2026-09-09T11:56:09+00:00",
-      "updated_at": "2026-09-09T11:56:09+00:00",
-      "title": "Messi agrees to buy second Spanish club",
-      "summary": "Spanish second-division side Eldense say Argentina great Lionel Messi has reached a \"preliminary agreement\" to become the club's majority shareholder",
+      "published_at": "2026-09-10T14:16:06+00:00",
+      "updated_at": "2026-09-10T14:16:06+00:00",
+      "title": "Arsenal close to finalising new contract for Arteta",
+      "summary": "After their record-breaking feats last year in the Champions League, Arsenal are at it again. But having been delayed along with hundreds of travelling supporters by travel chaos on Tuesday, Mikel Arteta’s side had to bide their time against Napoli until Martin Ødegaard continued his rich vein of goalscoring with the crucial strike 15 minutes from full time. Perhaps it was the fact that, at Uefa’s insistence, they were forced to wear red shorts for the first time since a Premier League game against Watford in 2022 that Arsenal were not quite at their flowing best here and missed a hatful of chances.",
       "category": [
-        "Football"
+        "Premier League",
+        "Transfer"
       ],
       "status": "Confirmed by multiple sources",
-      "entity": "lionel-messi",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/708b/live/1a0c0af0-ac3f-11f1-96a2-2f464854ded4.jpg",
+      "entity": "mikel-arteta",
+      "entity_type": "coaches",
+      "club": "arsenal",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8eb1/live/9e099bd0-ad1e-11f1-826f-933990eae6f0.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c99dmky78d3o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "The Athletic",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYmItOEg1SzRIcHdtaDZOZldvbDFxRnU0SHJIc1VnMFJzUmdnaTNnQjk5S2lCSjItbnYyYjN3VjAxUjVJcTJGeHloczRvRk0yeUJDOWdLTGJBT3VQazZQakNOWk1HYjE4Wk82VDQzVnpxc05DblNwM2NLdkxhTm9KLW5GZkZqT0hfdEE?oc=5"
-        },
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPR0lPMUJEMmNYTEVWenpMS19lSVFicUJFZXpaVWFrSkxTOGRRQ0Z2aUhQTmtxNnE5WG9hb3h6V2M4UUV6anJKQWV5MGV0a1R0NHBZMDNvc215dlljcXNEeTZDWmQ0c2FPbTRkangzUDl3a0hURm9fTkh6dl9LQXItNXR6a20yWGNCZGFvdHhEazc0NHI4WFg2emxWTzhWWGFhSDFBWnhFU2l2cmxIbnFpT3pNZGVJdUdSSU5ma0NiUDFnMnh1dGZxTkZCM01DbzlNSzh6QzZ6ZkhmLXp0alE?oc=5"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/09/napoli-arsenal-champions-league-match-report"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c99dmky78d3o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
-          "name": "The Athletic",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYmItOEg1SzRIcHdtaDZOZldvbDFxRnU0SHJIc1VnMFJzUmdnaTNnQjk5S2lCSjItbnYyYjN3VjAxUjVJcTJGeHloczRvRk0yeUJDOWdLTGJBT3VQazZQakNOWk1HYjE4Wk82VDQzVnpxc05DblNwM2NLdkxhTm9KLW5GZkZqT0hfdEE?oc=5"
-        },
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPR0lPMUJEMmNYTEVWenpMS19lSVFicUJFZXpaVWFrSkxTOGRRQ0Z2aUhQTmtxNnE5WG9hb3h6V2M4UUV6anJKQWV5MGV0a1R0NHBZMDNvc215dlljcXNEeTZDWmQ0c2FPbTRkangzUDl3a0hURm9fTkh6dl9LQXItNXR6a20yWGNCZGFvdHhEazc0NHI4WFg2emxWTzhWWGFhSDFBWnhFU2l2cmxIbnFpT3pNZGVJdUdSSU5ma0NiUDFnMnh1dGZxTkZCM01DbzlNSzh6QzZ6ZkhmLXp0alE?oc=5"
-        }
-      ],
-      "id": "messi-agrees-to-buy-second-spanish-club"
-    },
-    {
-      "published_at": "2026-09-08T21:18:12+00:00",
-      "updated_at": "2026-09-08T21:18:12+00:00",
-      "title": "Real Madrid somehow cling on to beat Inter on José Mourinho’s big night",
-      "summary": "Sometimes football is silly, sometimes it doesn’t make much sense, and sometimes it’s fun for it. On a night when there were 37 shots and the goalkeepers shared 13 occasionally absurd saves between them, José Mourinho’s current side beat his former team Inter on his Champions League return to Real Madrid. Except perhaps to cite Thibaut Courtois, whose astonishing 89th-minute stop from Henrikh Mkhitaryan explained much and allowed them, just, to hold on to the first-half lead they had been given by goals from Kylian Mbappé and Fede Valverde.",
-      "category": [
-        "La Liga",
-        "Serie A"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/43d5/live/edeafd60-abca-11f1-a291-b542ee92de7c.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c0j3zyy32e4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Athletic",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaXN3OVVtVGlhaHBtXzhQdzRlYUJFc1JlVk9aN2F5MHItam1JSndMN1pzdHB4Qm5YMnI3SC1ZaEZnd3BKbzZhUUt3MlFLWFdnUXF6UzhrRl96Rl9yX0VfekxWZFRWSWxUUjEydzVnSHBnOE5NbkpVR2ZLanZhakc4SjlBVGljcE5aNVFYTlZKZHJRS1NsNUthcmtxaTg?oc=5"
-        },
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/real-madrid-vann-cl-premiaren-mot-inter"
-        },
-        {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/08/real-madrid-inter-champions-league-match-report"
+          "url": "https://www.theguardian.com/football/2026/sep/09/napoli-arsenal-champions-league-match-report"
         }
       ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c0j3zyy32e4o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "The Athletic",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaXN3OVVtVGlhaHBtXzhQdzRlYUJFc1JlVk9aN2F5MHItam1JSndMN1pzdHB4Qm5YMnI3SC1ZaEZnd3BKbzZhUUt3MlFLWFdnUXF6UzhrRl96Rl9yX0VfekxWZFRWSWxUUjEydzVnSHBnOE5NbkpVR2ZLanZhakc4SjlBVGljcE5aNVFYTlZKZHJRS1NsNUthcmtxaTg?oc=5"
-        },
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/real-madrid-vann-cl-premiaren-mot-inter"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/08/real-madrid-inter-champions-league-match-report"
-        }
-      ],
-      "id": "real-madrid-somehow-cling-on-to-beat-inter-on-jos-mourinho-s-big-night"
+      "id": "arsenal-close-to-finalising-new-contract-for-arteta"
     },
     {
       "published_at": "2026-09-09T11:56:09+00:00",
       "updated_at": "2026-09-09T11:56:09+00:00",
       "title": "Football: Lionel Messi reaches 'preliminary agreement' to buy Eldense",
-      "summary": "Our cartoonist imagines how the football great might while away the hours after calling time on his international career Buy this cartoon | Some of David’s favourite works And his latest book, Chaos in the Box: get it now Continue reading",
+      "summary": "The Arsenal striker reminded us grace can exist in the non-stop pace of football with his involuntary noise-provoking act During Covid, when sport was back but behind closed doors, I hosted a number of strange online shows to fill the void of real life. The highlight was chatting to Darren Gough about a lifesize bronze rhinoceros for 45 minutes to 15 small boxes on a Zoom call. I don’t recall who it was for and where the rhinoceros came from – but it might be in his garden.",
       "category": [
         "Transfer"
       ],
@@ -135,40 +75,49 @@
       "id": "football-lionel-messi-reaches-preliminary-agreement-to-buy-eldense"
     },
     {
-      "published_at": "2026-09-06T13:48:58+00:00",
-      "updated_at": "2026-09-06T13:48:58+00:00",
-      "title": "Why Spurs' under-the-radar buy might be summer's smartest deal",
-      "summary": "Kirsty Hanson swapped Aston Villa for Tottenham and there is reason to believe Spurs have pulled off a recruitment masterstroke, based off her debut at Brisbane Road",
+      "published_at": "2026-09-08T11:48:00+00:00",
+      "updated_at": "2026-09-08T11:48:00+00:00",
+      "title": "Officiellt: Karl Marius Aksum sparkas",
+      "summary": "Karl Marius Aksum har gjort sitt i Mjällby. Nu tar Andreas Brännström över som huvudtränare. ”Vi är övertygade om att det här är rätt tidpunkt för föreningen att göra den här förändringen”, säger Mjällbys sportchef Hasse Larsson i ett pressmeddelande",
       "category": [
-        "Transfer"
+        "Sverige",
+        "Coach"
       ],
       "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e80c/live/423c07d0-a9f8-11f1-921b-6365210e1c9d.jpg",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.76/0.39/46bafd4bec7b1020522428edb5f9be2eb5e6ddc1830d3bb52c572320e446d886",
       "sources": [
         {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cj3d1ky2642o?at_medium=RSS&at_campaign=rss"
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/karl-marius-aksum-far-sparken-fran-mjallby"
         },
         {
-          "name": "The Athletic",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1dSaEpsd0UyMG9QNGQ4XzRPSG4xYXpDOTJvSFZZUFdqT3o2MURIOXQ3Z2pVWFJmaVljVHdFWTNTTlpOVU9Rb1pNQjZOeFQtMG5jTXFjM08welRRLUZOTnIyWWNwLWVINC1TOEpJODJ5bE5BbU5nWFhCZjIxSFFzZHRwUGRWSEgtbG9aZE9Md3dObzhfNE5tdTdqM09kc2U5RnRUQzYtcw?oc=5"
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYnhCWXE1dEpsRkFNTmt6dTBwSU8tZVFZaTRDMGlaYjMwbldzLTcyRk1JTzJlZkpNVXRFR05RMHhCN0p6Umtka3dsWkh5UnZSSnBMUmE3RVo3aEpyOUdrNVJFbFlLQlFfM19xVFNUVHVqb294eWZmZnFkRldhUnljSVowOHduVEJMcmNJdmJqN2ZPQQ?oc=5"
+        },
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/mjallby-aif-sparkar-karl-marius-aksum-efter-krisen-700486"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cj3d1ky2642o?at_medium=RSS&at_campaign=rss"
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/karl-marius-aksum-far-sparken-fran-mjallby"
       },
       "confirmed_by": [
         {
-          "name": "The Athletic",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1dSaEpsd0UyMG9QNGQ4XzRPSG4xYXpDOTJvSFZZUFdqT3o2MURIOXQ3Z2pVWFJmaVljVHdFWTNTTlpOVU9Rb1pNQjZOeFQtMG5jTXFjM08welRRLUZOTnIyWWNwLWVINC1TOEpJODJ5bE5BbU5nWFhCZjIxSFFzZHRwUGRWSEgtbG9aZE9Md3dObzhfNE5tdTdqM09kc2U5RnRUQzYtcw?oc=5"
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYnhCWXE1dEpsRkFNTmt6dTBwSU8tZVFZaTRDMGlaYjMwbldzLTcyRk1JTzJlZkpNVXRFR05RMHhCN0p6Umtka3dsWkh5UnZSSnBMUmE3RVo3aEpyOUdrNVJFbFlLQlFfM19xVFNUVHVqb294eWZmZnFkRldhUnljSVowOHduVEJMcmNJdmJqN2ZPQQ?oc=5"
+        },
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/mjallby-aif-sparkar-karl-marius-aksum-efter-krisen-700486"
         }
       ],
-      "id": "why-spurs-under-the-radar-buy-might-be-summer-s-smartest-deal"
+      "id": "officiellt-karl-marius-aksum-sparkas"
     },
     {
       "published_at": "2026-09-09T08:15:30+00:00",
@@ -218,11 +167,11 @@
       "entity": "",
       "entity_type": "players",
       "club": "chelsea",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b3e2/live/65d40890-acec-11f1-8d69-858c9dcdf738.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5c93/live/4dcf0c20-ad11-11f1-826f-933990eae6f0.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c783ndd7ge2o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c0re0n84yz7o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Sky Sports",
@@ -236,7 +185,7 @@
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c783ndd7ge2o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/c0re0n84yz7o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
@@ -249,6 +198,105 @@
         }
       ],
       "id": "chelsea-s-2016-17-premier-league-title-should-be-given-to-spurs-says-pochettino"
+    },
+    {
+      "published_at": "2026-09-08T21:18:12+00:00",
+      "updated_at": "2026-09-08T21:18:12+00:00",
+      "title": "Real Madrid somehow cling on to beat Inter on José Mourinho’s big night",
+      "summary": "Sometimes football is silly, sometimes it doesn’t make much sense, and sometimes it’s fun for it. On a night when there were 37 shots and the goalkeepers shared 13 occasionally absurd saves between them, José Mourinho’s current side beat his former team Inter on his Champions League return to Real Madrid. Except perhaps to cite Thibaut Courtois, whose astonishing 89th-minute stop from Henrikh Mkhitaryan explained much and allowed them, just, to hold on to the first-half lead they had been given by goals from Kylian Mbappé and Fede Valverde.",
+      "category": [
+        "La Liga",
+        "Serie A"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "real-madrid",
+      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/43d5/live/edeafd60-abca-11f1-a291-b542ee92de7c.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c0j3zyy32e4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/real-madrid-vann-cl-premiaren-mot-inter"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/08/real-madrid-inter-champions-league-match-report"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c0j3zyy32e4o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/real-madrid-vann-cl-premiaren-mot-inter"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/08/real-madrid-inter-champions-league-match-report"
+        }
+      ],
+      "id": "real-madrid-somehow-cling-on-to-beat-inter-on-jos-mourinho-s-big-night"
+    },
+    {
+      "published_at": "2026-09-10T14:35:31+00:00",
+      "updated_at": "2026-09-10T14:35:31+00:00",
+      "title": "Leeds' Okafor says he won't play for Swiss again under Yakin",
+      "summary": "Leeds United forward Noah Okafor says he will not play for Switzerland again while Murat Yakin remains as head coach",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bca9/live/03b6a1f0-ad22-11f1-9865-cdb2b8b30437.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c74e0kvm03ro?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c74e0kvm03ro?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "leeds-okafor-says-he-won-t-play-for-swiss-again-under-yakin"
+    },
+    {
+      "published_at": "2026-09-10T11:06:31+00:00",
+      "updated_at": "2026-09-10T11:06:31+00:00",
+      "title": "'Get a life' - non-league club condemn man impersonating manager",
+      "summary": "Gainsborough Trinity condemn a person who has been approaching players while falsely claiming to be their manager",
+      "category": [
+        "Coach"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b2c3/live/a69d9fc0-acfc-11f1-beae-535b95a24b3e.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c0re0gevpnxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c0re0gevpnxo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "get-a-life-non-league-club-condemn-man-impersonating-manager"
     },
     {
       "published_at": "2026-09-10T09:40:39+00:00",
@@ -305,50 +353,6 @@
       "id": "o-neill-not-sure-what-to-make-of-celtic-so-what-are-the-issues"
     },
     {
-      "published_at": "2026-09-09T23:25:38+00:00",
-      "updated_at": "2026-09-09T23:25:38+00:00",
-      "title": "Star subs rescue Chelsea as Alonso 'takes blame'",
-      "summary": "There was a gulf between the teams in the middle of the park, with Moisés Caicedo’s absence hurting the visitors There have been seasons when Chelsea have turned up at the Emirates Stadium and parked the bus. “You know, I think 10 years without a title is boring,” José Mourinho said in response to criticism from Arsenal fans after a stultifying 0-0 draw in April 2015 . On Sunday, though, there was no holding back from Chelsea.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "xabi-alonso",
-      "entity_type": "coaches",
-      "club": "chelsea",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dc17/live/1cd9d5b0-aca7-11f1-95ee-397da2afd75c.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cx2zx9n29glo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/07/chelseas-midfield-a-headache-for-alonso-after-arsenal-press-advantage"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cx2zx9n29glo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/07/chelseas-midfield-a-headache-for-alonso-after-arsenal-press-advantage"
-        }
-      ],
-      "id": "star-subs-rescue-chelsea-as-alonso-takes-blame"
-    },
-    {
       "published_at": "2026-09-09T23:12:27+00:00",
       "updated_at": "2026-09-09T23:12:27+00:00",
       "title": "Liverpool will reward Mac Allister if he lets his football do talking",
@@ -376,82 +380,38 @@
       "id": "liverpool-will-reward-mac-allister-if-he-lets-his-football-do-talking"
     },
     {
-      "published_at": "2026-09-09T21:34:51+00:00",
-      "updated_at": "2026-09-09T21:34:51+00:00",
-      "title": "Odegaard strike earns Arsenal narrow victory at Napoli",
-      "summary": "After their record-breaking feats last year in the Champions League, Arsenal are at it again. But having been delayed along with hundreds of travelling supporters by travel chaos on Tuesday, Mikel Arteta’s side had to bide their time against Napoli until Martin Ødegaard continued his rich vein of goalscoring with the crucial strike 15 minutes from full time. Perhaps it was the fact that, at Uefa’s insistence, they were forced to wear red shorts for the first time since a Premier League game against Watford in 2022 that Arsenal were not quite at their flowing best here and missed a hatful of chances.",
+      "published_at": "2026-09-09T15:07:17+00:00",
+      "updated_at": "2026-09-09T15:07:17+00:00",
+      "title": "'Spoke brilliantly' but Liverpool fans torn on Mac Allister contract comments",
+      "summary": "Alexis Mac Allister splits opinion on his public comments regarding his contract at Liverpool, as fans and BBC Sport pundit Pat Nevin share opinions",
       "category": [
         "Premier League",
-        "Serie A"
+        "Transfer"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/e270/live/d2cb1d60-ac94-11f1-a540-61c3f7fc4e6c.jpg",
+      "club": "liverpool",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f7a3/live/d963ff50-ac4b-11f1-96a2-2f464854ded4.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/czxze02qw0jo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/napoli-vs-arsenal/report/577605"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/09/napoli-arsenal-champions-league-match-report"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c3v4379d4ylo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/videos/czxze02qw0jo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/napoli-vs-arsenal/report/577605"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/09/napoli-arsenal-champions-league-match-report"
-        }
-      ],
-      "id": "odegaard-strike-earns-arsenal-narrow-victory-at-napoli"
-    },
-    {
-      "published_at": "2026-09-08T04:12:06+00:00",
-      "updated_at": "2026-09-08T04:12:06+00:00",
-      "title": "Jonas Eriksson: ”Elfsborg borde aldrig fått göra det målet”",
-      "summary": "Målvakten var skadad – men Elfsborg kvitterade mot BP ändå. Att godkänna målet var ett grovt misstag av domaren, enligt Jonas Eriksson. – Matchen borde ha stoppats, säger han i Fotbollsstudion",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.75/0.4/b5638252a552d98d4a80a0063e3e3c44d51d48b5d625d503cc5e0cb8adcad968",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/jonas-eriksson-elfsborg-borde-aldrig-fatt-gora-det-malet"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/jonas-eriksson-elfsborg-borde-aldrig-fatt-gora-det-malet"
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3v4379d4ylo?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "jonas-eriksson-elfsborg-borde-aldrig-f-tt-g-ra-det-m-let"
+      "id": "spoke-brilliantly-but-liverpool-fans-torn-on-mac-allister-contract-comments"
     },
     {
       "published_at": "2026-09-09T23:00:00+00:00",
       "updated_at": "2026-09-09T23:00:00+00:00",
       "title": "Papers: Liverpool eye January swoop for Chelsea and Man Utd midfield target",
-      "summary": "Latest transfer news and headlines include: Newcastle could still sell Lewis Hall next summer despite a reported new deal; Nottingham Forest may revive their interest in Lucas Bergval in January",
+      "summary": "The top stories and transfer rumours from Thursday's newspapers",
       "category": [
         "Premier League"
       ],
@@ -459,7 +419,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "manchester-united",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "image": "",
       "sources": [
         {
           "name": "Sky Sports",
@@ -475,40 +435,248 @@
       "id": "papers-liverpool-eye-january-swoop-for-chelsea-and-man-utd-midfield-target"
     },
     {
-      "published_at": "2026-09-08T11:52:27+00:00",
-      "updated_at": "2026-09-08T11:52:27+00:00",
-      "title": "Mjällby sparkar Karl Marius Aksum – ersättaren presenterad",
-      "summary": "Karl Marius Aksum har gjort sitt i Mjällby. Nu tar Andreas Brännström över som huvudtränare. ”Vi är övertygade om att det här är rätt tidpunkt för föreningen att göra den här förändringen”, säger Mjällbys sportchef Hasse Larsson i ett pressmeddelande",
+      "published_at": "2026-09-10T14:11:33+00:00",
+      "updated_at": "2026-09-10T14:11:33+00:00",
+      "title": "Officiellt: Ziyech klar för Botafogo",
+      "summary": "Officiellt: Camara klar för Kalmar FF Fotbollskanalen",
       "category": [
         "Sverige"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.76/0.39/46bafd4bec7b1020522428edb5f9be2eb5e6ddc1830d3bb52c572320e446d886",
+      "image": "",
       "sources": [
         {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/karl-marius-aksum-far-sparken-fran-mjallby"
-        },
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/mjallby-aif-sparkar-karl-marius-aksum-efter-krisen-700486"
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/karl-marius-aksum-far-sparken-fran-mjallby"
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
-      "confirmed_by": [
+      "confirmed_by": [],
+      "id": "officiellt-ziyech-klar-f-r-botafogo"
+    },
+    {
+      "published_at": "2026-09-09T07:55:00+00:00",
+      "updated_at": "2026-09-09T07:55:00+00:00",
+      "title": "Mac Allister fick inget nytt kontrakt: \"Mycket ledsen\"",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
         {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/mjallby-aif-sparkar-karl-marius-aksum-efter-krisen-700486"
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
-      "id": "mj-llby-sparkar-karl-marius-aksum-ers-ttaren-presenterad"
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "mac-allister-fick-inget-nytt-kontrakt-mycket-ledsen"
+    },
+    {
+      "published_at": "2026-09-07T21:06:00+00:00",
+      "updated_at": "2026-09-07T21:06:00+00:00",
+      "title": "Goretzka skadad - missar flera matcher",
+      "summary": "Goretzka skadad - missar flera matcher Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "goretzka-skadad-missar-flera-matcher"
+    },
+    {
+      "published_at": "2026-09-07T12:00:00+00:00",
+      "updated_at": "2026-09-07T12:00:00+00:00",
+      "title": "Smäll för AIK - Filling skadad",
+      "summary": "Smäll för Gais - Thorkelsson knäskadad Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "sm-ll-f-r-aik-filling-skadad"
+    },
+    {
+      "published_at": "2026-09-06T18:36:00+00:00",
+      "updated_at": "2026-09-06T18:36:00+00:00",
+      "title": "Officiellt: Inter förlänger med Esposito",
+      "summary": "Officiellt: Inter förlänger med Esposito Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "officiellt-inter-f-rl-nger-med-esposito"
+    },
+    {
+      "published_at": "2026-09-05T09:31:00+00:00",
+      "updated_at": "2026-09-05T09:31:00+00:00",
+      "title": "Beskedet: Habesoglu klar för Trabzonspor",
+      "summary": "Beskedet: Habesoglu klar för Trabzonspor Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "beskedet-habesoglu-klar-f-r-trabzonspor"
+    },
+    {
+      "published_at": "2026-09-04T11:54:00+00:00",
+      "updated_at": "2026-09-04T11:54:00+00:00",
+      "title": "Portsmouth river Luke Le Rouxs kontrakt",
+      "summary": "Portsmouth river Luke Le Rouxs kontrakt Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "portsmouth-river-luke-le-rouxs-kontrakt"
+    },
+    {
+      "published_at": "2026-09-04T10:56:00+00:00",
+      "updated_at": "2026-09-04T10:56:00+00:00",
+      "title": "Andreas Murbeck förlänger med Landskrona",
+      "summary": "Andreas Murbeck förlänger med Landskrona Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "andreas-murbeck-f-rl-nger-med-landskrona"
+    },
+    {
+      "published_at": "2026-09-04T08:26:00+00:00",
+      "updated_at": "2026-09-04T08:26:00+00:00",
+      "title": "Klart: Isak Bjerkebo förlänger med Sirius",
+      "summary": "Klart: Isak Bjerkebo förlänger med Sirius Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "klart-isak-bjerkebo-f-rl-nger-med-sirius"
     },
     {
       "published_at": "2026-09-10T06:00:18+00:00",
@@ -590,33 +758,6 @@
       },
       "confirmed_by": [],
       "id": "infantino-installs-loyalist-to-oversee-caribbean-as-he-splits-fifa-management"
-    },
-    {
-      "published_at": "2026-09-08T21:07:57+00:00",
-      "updated_at": "2026-09-08T21:07:57+00:00",
-      "title": "Newcastle progress as Joe Willock strikes late to see off ravaged Millwall",
-      "summary": "Newcastle did just enough in south-east London to progress to the next round of the Carabao Cup. Joe Willock scored the only goal of this boisterous, fun, slightly vague cup tie against a spirited Millwall team that was not so much down to the bare bones, as the bones beneath the bones. By the end there was a sense both sets of fans were more or less happy.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/8ec03703e60b76d02f811f5cc11cc7bf08956192/15_266_2770_2215/master/2770.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c3885bd5e382de9f6a71e9103f85044b",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/08/millwall-newcastle-carabao-cup-third-round-match-report"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/sep/08/millwall-newcastle-carabao-cup-third-round-match-report"
-      },
-      "confirmed_by": [],
-      "id": "newcastle-progress-as-joe-willock-strikes-late-to-see-off-ravaged-millwall"
     },
     {
       "published_at": "2026-09-08T17:00:44+00:00",
@@ -726,33 +867,6 @@
       },
       "confirmed_by": [],
       "id": "wsl-talking-points-palace-result-in-doubt-after-substitution-nightmare-while-arsenal-signi"
-    },
-    {
-      "published_at": "2026-09-07T07:00:27+00:00",
-      "updated_at": "2026-09-07T07:00:27+00:00",
-      "title": "Premier League: 10 talking points from the weekend’s action",
-      "summary": "Fulham need a win, Tottenham show some spirit and Jack Grealish offers Everton much-needed energy With 25 minutes to go against Manchester United, the Everton supporters had something to roar about as Jack Grealish made his return after rejoining on loan. The attacking midfielder remains universally popular thanks to his desire to entertain, getting the hosts back on their feet by creating dangerous situations within seconds of his arrival. Everton were limited in the final third for long periods as Thierno Barry sat on the periphery.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/f771da918d6305721c0db0205896ca2500f8c3bd/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a72c6136dc5b0856542790c6f9248ec2",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/07/premier-league-10-talking-points-from-the-weekends-action"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/sep/07/premier-league-10-talking-points-from-the-weekends-action"
-      },
-      "confirmed_by": [],
-      "id": "premier-league-10-talking-points-from-the-weekend-s-action"
     },
     {
       "published_at": "2026-09-05T05:00:29+00:00",
@@ -891,31 +1005,113 @@
       "id": "elfsborg-v-rvar-fr-n-rivalen-nathalie-andersson-flyttar-till-bor-s"
     },
     {
-      "published_at": "2026-09-03T14:47:34+00:00",
-      "updated_at": "2026-09-03T14:47:34+00:00",
-      "title": "Elfsborg vill behålla Niklas Hult - hyllas av Stefan Andreasson",
-      "summary": "Niklas Hults kontrakt med IF Elfsborg går ut efter säsongen. Nu bekräftar klubbchefen Stefan Andreasson att parterna för en positiv dialog om en fortsättning",
+      "published_at": "2026-09-08T22:01:03+00:00",
+      "updated_at": "2026-09-08T22:01:03+00:00",
+      "title": "Report Fiorentina could sue Grosso to terminate contract",
+      "summary": "Read the full report at Football Italia.",
       "category": [
-        "Sverige"
+        "Serie A",
+        "Transfer"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/8tnf6IyP1bvvRyM3eghVVVOVuhyvrDMEc0QST1nd.png",
+      "image": "",
       "sources": [
         {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/elfsborg-vill-behalla-niklas-hult-hyllas-av-stefan-andreasson-700228"
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/elfsborg-vill-behalla-niklas-hult-hyllas-av-stefan-andreasson-700228"
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "elfsborg-vill-beh-lla-niklas-hult-hyllas-av-stefan-andreasson"
+      "id": "report-fiorentina-could-sue-grosso-to-terminate-contract"
+    },
+    {
+      "published_at": "2026-09-07T19:35:00+00:00",
+      "updated_at": "2026-09-07T19:35:00+00:00",
+      "title": "Ex-Torino and Italy forward Belotti joins Serie B side Modena",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "ex-torino-and-italy-forward-belotti-joins-serie-b-side-modena"
+    },
+    {
+      "published_at": "2026-09-07T17:50:03+00:00",
+      "updated_at": "2026-09-07T17:50:03+00:00",
+      "title": "Serie A: Udinese vs. Lazio – Confirmed line-ups and updates",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "serie-a-udinese-vs-lazio-confirmed-line-ups-and-updates"
+    },
+    {
+      "published_at": "2026-09-06T17:35:49+00:00",
+      "updated_at": "2026-09-06T17:35:49+00:00",
+      "title": "Serie A official line-ups: Juventus vs. Milan",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "serie-a-official-line-ups-juventus-vs-milan"
     },
     {
       "published_at": "2026-09-04T21:47:12+00:00",
@@ -943,6 +1139,60 @@
       },
       "confirmed_by": [],
       "id": "monaco-rally-to-edge-winless-psg-as-lyon-beat-auxerre-in-ligue-1"
+    },
+    {
+      "published_at": "2026-09-10T14:31:57+00:00",
+      "updated_at": "2026-09-10T14:31:57+00:00",
+      "title": "Rydström vill se fler idioter i Hammarby: ”Jag hade lätt för det”",
+      "summary": "Kapten Nahir Besara får snålt med speltid när andra presterat bättre. Men han lämnar ett hål i Hammarbys lag. – Det är ett ledarskapstomrum på planen, säger Henrik Rydström",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.38/0.36/8cdca20c93d5dd8f1ab1236a740ccf8e23e1597a1969a02a0864b7c422a200f1",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/rydstrom-vill-se-fler-idioter-i-hammarby-jag-hade-latt-for-det"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/rydstrom-vill-se-fler-idioter-i-hammarby-jag-hade-latt-for-det"
+      },
+      "confirmed_by": [],
+      "id": "rydstr-m-vill-se-fler-idioter-i-hammarby-jag-hade-l-tt-f-r-det"
+    },
+    {
+      "published_at": "2026-09-10T12:06:48+00:00",
+      "updated_at": "2026-09-10T12:06:48+00:00",
+      "title": "Glädjebeskedet: Fridolina Rolfö är gravid",
+      "summary": "Det skriver Manchester United-stjärnan på sina sociala medier. ”Om allt går som det ska, välkomnar vi en bebis i mars”, skriver hon",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.72/0.32/dd73b4563a35565ff0fba9f1d2630e5b4d50cc5dc8fc6603c0759226cd4fb941",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/beskedet-fridolina-rolfo-gravid"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/beskedet-fridolina-rolfo-gravid"
+      },
+      "confirmed_by": [],
+      "id": "gl-djebeskedet-fridolina-rolf-r-gravid"
     },
     {
       "published_at": "2026-09-10T07:37:20+00:00",
@@ -997,33 +1247,6 @@
       },
       "confirmed_by": [],
       "id": "robert-lewandowskis-m-lkalas-forts-tter-kryssade-mot-messis-miami"
-    },
-    {
-      "published_at": "2026-09-10T04:20:30+00:00",
-      "updated_at": "2026-09-10T04:20:30+00:00",
-      "title": "What are Real Madrid’s plans for Endrick?",
-      "summary": "What are Real Madrid’s plans for Endrick? The New York Times",
-      "category": [
-        "La Liga"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "what-are-real-madrid-s-plans-for-endrick"
     },
     {
       "published_at": "2026-09-09T22:01:05+00:00",
@@ -1135,175 +1358,31 @@
       "id": "fredrik-ljungberg-rasande-efter-tacklingen-p-alexander-isak-vilket-j-vla-spel"
     },
     {
-      "published_at": "2026-09-09T15:48:07+00:00",
-      "updated_at": "2026-09-09T15:48:07+00:00",
-      "title": "Spain’s Ceuta migrant crisis is cutting through to Real Madrid and the 2030 World Cup",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "La Liga"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "spain-s-ceuta-migrant-crisis-is-cutting-through-to-real-madrid-and-the-2030-world-cup"
-    },
-    {
-      "published_at": "2026-09-09T14:52:03+00:00",
-      "updated_at": "2026-09-09T14:52:03+00:00",
-      "title": "Gais målvakt Mergim Krasniqi om otäcka smällen: ”Trodde jag hade rivit upp hela ansiktet”",
-      "summary": "Gais-keepern Mergim Krasniqi blev utbytt i Göteborgsderbyt. – Jag var tagen av stunden, jag trodde att han hade rivit upp hela ansiktet, säger 34-åringen till SVT Sport",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.8/0.42/df4d08d15a12e2882da9edbdb53d8d5c6524797cc34d65f67cf47f236ca87341",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/gais-malvakt-mergim-krasniqi-om-otacka-smallen-trodde-jag-hade-rivit-upp-hela-ansiktet"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/gais-malvakt-mergim-krasniqi-om-otacka-smallen-trodde-jag-hade-rivit-upp-hela-ansiktet"
-      },
-      "confirmed_by": [],
-      "id": "gais-m-lvakt-mergim-krasniqi-om-ot-cka-sm-llen-trodde-jag-hade-rivit-upp-hela-ansiktet"
-    },
-    {
-      "published_at": "2026-09-09T21:18:55+00:00",
-      "updated_at": "2026-09-09T21:18:55+00:00",
-      "title": "Cole Palmer powers Chelsea to comeback win over Leeds in nine-goal epic",
-      "summary": "Where’s the fun in doing it the easy way? Chelsea remain chaotic at the back but can drag their opponents into horrible places. It helps, mind you, to have some assistance from the referee.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-leeds-club-blog_7326700.jpg?20260820165402",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/09/chelsea-leeds-carabao-cup-third-round-match-report"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/09/chelsea-leeds-carabao-cup-third-round-match-report"
-        }
-      ],
-      "id": "cole-palmer-powers-chelsea-to-comeback-win-over-leeds-in-nine-goal-epic"
-    },
-    {
-      "published_at": "2026-09-10T09:45:00+00:00",
-      "updated_at": "2026-09-10T09:45:00+00:00",
-      "title": "Spurs latest: Mudryk injury reports | Poch: I'd have managed club in Championship",
-      "summary": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "published_at": "2026-09-10T15:34:00+00:00",
+      "updated_at": "2026-09-10T15:34:00+00:00",
+      "title": "New Odegaard, new season - what's changed?",
+      "summary": "Sky Sports' Sam Blitz takes a closer look at the numbers behind the incredible start to the season that Arsenal's Martin Odegaard is enjoying",
       "category": [
         "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
+      "club": "",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-martin-odegaard-arsenal_7347185.jpg?20260910154808",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "url": "https://www.skysports.com/watch/video/13584016/new-season-new-martin-odegaard-for-arsenal-whats-changed"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "url": "https://www.skysports.com/watch/video/13584016/new-season-new-martin-odegaard-for-arsenal-whats-changed"
       },
       "confirmed_by": [],
-      "id": "spurs-latest-mudryk-injury-reports-poch-i-d-have-managed-club-in-championship"
-    },
-    {
-      "published_at": "2026-09-09T21:00:00+00:00",
-      "updated_at": "2026-09-09T21:00:00+00:00",
-      "title": "Liverpool latest: Iraola plays down Barcola injury fears",
-      "summary": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-liverpool-club-blog_7326701.jpg?20260820165421",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "liverpool-latest-iraola-plays-down-barcola-injury-fears"
-    },
-    {
-      "published_at": "2026-09-09T11:27:00+00:00",
-      "updated_at": "2026-09-09T11:27:00+00:00",
-      "title": "Man Utd latest: Transfer strategy which could cost Carrick analysed",
-      "summary": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-man-utd-club-blog_7326703.jpg?20260820165515",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "man-utd-latest-transfer-strategy-which-could-cost-carrick-analysed"
+      "id": "new-odegaard-new-season-what-s-changed"
     },
     {
       "published_at": "2026-09-10T07:48:00+00:00",
@@ -1317,7 +1396,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/09/1600x900/skysports-mauricio-pochettino_7346131.jpg?20260909143053",
+      "image": "",
       "sources": [
         {
           "name": "Sky Sports",
@@ -1425,7 +1504,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/09/1600x900/skysports-bojan-miovski-rangers_7346529.jpg?20260909214216",
+      "image": "",
       "sources": [
         {
           "name": "Sky Sports",
@@ -1439,6 +1518,279 @@
       },
       "confirmed_by": [],
       "id": "rangers-snatch-late-win-over-st-mirren-as-sub-miovski-extends-winning-run"
+    },
+    {
+      "published_at": "2026-09-09T12:10:25+00:00",
+      "updated_at": "2026-09-09T12:10:25+00:00",
+      "title": "European football news and transfers: Barcelona, Real Madrid, PSG, Bayern Munich latest and more",
+      "summary": "Read the full report at Sky Sports.",
+      "category": [
+        "La Liga",
+        "Bundesliga",
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "real-madrid",
+      "image": "",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-mo"
+    },
+    {
+      "published_at": "2026-09-09T09:00:00+00:00",
+      "updated_at": "2026-09-09T09:00:00+00:00",
+      "title": "Can Carrick afford to rotate before Manchester derby?",
+      "summary": "\"It puts a bit of pressure on United. They've got City next week and European games starting in midweek.\"",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13582686/manchester-uniteds-squad-depth-analysed-as-gary-neville-claims-michael-carrick-is-under-pressure-ahead-of-champions-league-return"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13582686/manchester-uniteds-squad-depth-analysed-as-gary-neville-claims-michael-carrick-is-under-pressure-ahead-of-champions-league-return"
+      },
+      "confirmed_by": [],
+      "id": "can-carrick-afford-to-rotate-before-manchester-derby"
+    },
+    {
+      "published_at": "2026-09-08T15:00:00+00:00",
+      "updated_at": "2026-09-08T15:00:00+00:00",
+      "title": "Man Utd's £1bn rebuild faces toughest test",
+      "summary": "Michael Carrick transformed Manchester United's fortunes after his appointment in January, steering the side from seventh to third and clinching their return to the Champions League",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-michale-michael-carrick_7345147.jpg?20260908145237",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13583089/man-utd-have-highest-transfer-net-spend-since-2022-but-champions-league-return-will-test-depth-between-the-lines"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13583089/man-utd-have-highest-transfer-net-spend-since-2022-but-champions-league-return-will-test-depth-between-the-lines"
+      },
+      "confirmed_by": [],
+      "id": "man-utd-s-1bn-rebuild-faces-toughest-test"
+    },
+    {
+      "published_at": "2026-09-10T14:44:00+00:00",
+      "updated_at": "2026-09-10T14:44:00+00:00",
+      "title": "Rydström ligger lågt om sin röst: \"Har fått skit\"",
+      "summary": "Rydström ligger lågt om sin röst: \"Har fått skit\" Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "rydstr-m-ligger-l-gt-om-sin-r-st-har-f-tt-skit"
+    },
+    {
+      "published_at": "2026-09-10T10:00:24+00:00",
+      "updated_at": "2026-09-10T10:00:24+00:00",
+      "title": "Saloons, school and specialty coffee: NWSL players enjoy new era of side hustles",
+      "summary": "Five years ago, stars in the league packed Amazon boxes or drove for DoorDash to make ends meet on meager salaries. A new CBA opened doors for off-field pursuits in line with their passions On a cold winter night in Ketchum, Idaho, Chicago Stars midfielder Bea Franklin was pulling off a different sort of physical feat than what she usually does on the soccer field. Under the eyes of taxidermied animals at the Pioneer Saloon, she deftly balanced martinis as a cocktail waitress, wearing cowgirl boots and ensuring the olives didn’t drip when she walked down stairs.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/d09de689dff9d51381a94241ab33c8e5e16a54b7/387_0_3853_3083/master/3853.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a52a92b85e52a51ec0dca09dec9f1c6f",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/10/nwsl-players-side-hustles"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/sep/10/nwsl-players-side-hustles"
+      },
+      "confirmed_by": [],
+      "id": "saloons-school-and-specialty-coffee-nwsl-players-enjoy-new-era-of-side-hustles"
+    },
+    {
+      "published_at": "2026-09-09T22:08:45+00:00",
+      "updated_at": "2026-09-09T22:08:45+00:00",
+      "title": "Champions League roundup: Raphinha shines as Barcelona thrash Feyenoord",
+      "summary": "Brazilian scores twice in 5-1 victory at Camp Nou Torres scores hat-trick as PSG thump Slovan Bratislava Raphinha let his goals do the talking after being omitted from the Ballon d’Or shortlist, striking twice as Barcelona eased to a 5-1 win over Feyenoord in the Champions League. The Brazilian was a surprise omission from this week’s 30-strong list of candidates for the prestigious award but brushed any disappointment aside to continue his early season hot streak at a rain-soaked Camp Nou. The forward finished brilliantly in the third minute and added a second just before the hour mark to down the Eredivisie side and take his tally to eight goals in six outings at the start of the campaign.",
+      "category": [
+        "La Liga"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "barcelona",
+      "image": "https://i.guim.co.uk/img/media/e2b7fbbe1c96b82c4eeecce44000c63d116cf14e/286_159_2813_2250/master/2813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1d1d4c8cc5785082c7e1f9a7a96e9daf",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/09/champions-league-roundup-barcelona-paris-saint-germain"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/sep/09/champions-league-roundup-barcelona-paris-saint-germain"
+      },
+      "confirmed_by": [],
+      "id": "champions-league-roundup-raphinha-shines-as-barcelona-thrash-feyenoord"
+    },
+    {
+      "published_at": "2026-09-10T14:00:00+00:00",
+      "updated_at": "2026-09-10T14:00:00+00:00",
+      "title": "Lars Isacssons (S) uppmaning till samordnaren: ”Annars blir det fel”",
+      "summary": "Lars Isacsson och Socialdemokraterna har länge drivit frågan om en nationell samordnare för supporterkultur. – Man känner att det går att verka även i opposition, säger Isacsson till SvenskaFans",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/B0MuCaFo5kvcuBkZvBo2wYDyDqMbbRsHvM9rxh2N.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/lars-isacssons-s-uppmaning-till-samordnaren-annars-blir-det-fel-700558"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/lars-isacssons-s-uppmaning-till-samordnaren-annars-blir-det-fel-700558"
+      },
+      "confirmed_by": [],
+      "id": "lars-isacssons-s-uppmaning-till-samordnaren-annars-blir-det-fel"
+    },
+    {
+      "published_at": "2026-09-10T13:46:00+00:00",
+      "updated_at": "2026-09-10T13:46:00+00:00",
+      "title": "Hammarby ska bli mer som Rasmus Elm: ”Så jävla jobbig”",
+      "summary": "Henrik Rydström vill få Bajen att vinna mer, även på träning. För att lyckas med det beskriver 50-åringen Rasmus Elm, som ett gott exempel att följa. – Han var så jävla jobbig att ha som spelare, sade Rydström efter torsdagens träning på Årsta IP",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/remJYprQKzuM3GQw6kX3tMptUsevZiAhAda7Iqu8.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/hammarby-ska-bli-mer-som-rasmus-elm-sa-javla-jobbig-700579"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/hammarby-ska-bli-mer-som-rasmus-elm-sa-javla-jobbig-700579"
+      },
+      "confirmed_by": [],
+      "id": "hammarby-ska-bli-mer-som-rasmus-elm-s-j-vla-jobbig"
+    },
+    {
+      "published_at": "2026-09-10T12:37:38+00:00",
+      "updated_at": "2026-09-10T12:37:38+00:00",
+      "title": "Svenska stjärnan Rolfö gravid",
+      "summary": "Manchester United har fått klara sig utan den svenska stjärnan Fridolina Rolfö under säsongsinledningen. Nu berättar hon anledningen till frånvaron på sin Instagram",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2075321.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/svenska-stjarnan-rolfo-gravid-700575"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/svenska-stjarnan-rolfo-gravid-700575"
+      },
+      "confirmed_by": [],
+      "id": "svenska-stj-rnan-rolf-gravid"
+    },
+    {
+      "published_at": "2026-09-10T11:00:00+00:00",
+      "updated_at": "2026-09-10T11:00:00+00:00",
+      "title": "TV-guide: Var du kan se IFK Haninge – Djurgården",
+      "summary": "IFK Haninge möter Djurgården på Stockholms stadion i omgång 2 av Svenska cupen. Segraren säkrar en plats i Svenska cupens gruppspel 2027. Här hittar du allt om hur du kan följa matchen på TV",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/MZQEh2O81MhEq2CY2OvKVWF9LJYjuWlDM128LQ8e.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/tv-guide-var-du-kan-se-ifk-haninge-djurgarden-700559"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/tv-guide-var-du-kan-se-ifk-haninge-djurgarden-700559"
+      },
+      "confirmed_by": [],
+      "id": "tv-guide-var-du-kan-se-ifk-haninge-djurg-rden"
     },
     {
       "published_at": "2026-09-10T10:46:59+00:00",
@@ -1495,167 +1847,167 @@
       "id": "lista-s-ser-kontraktsl-get-ut-i-allsvenskan"
     },
     {
-      "published_at": "2026-09-10T06:54:29+00:00",
-      "updated_at": "2026-09-10T06:54:29+00:00",
-      "title": "Smäll: Hien ser ut att missa samlingen",
-      "summary": "Isak Hien opererades i juni och väntades vara tillbaka ganska kort därefter. Il Gornio skriver att svensken kan bli borta i totalt fyra månader",
+      "published_at": "2026-09-10T10:10:00+00:00",
+      "updated_at": "2026-09-10T10:10:00+00:00",
+      "title": "Carnevali responsible as Juventus finances show improvement",
+      "summary": "Read the full report at Football Italia.",
       "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/VEwiLjecxKNdqj1rwT3v7RNjHFlyVF1eAE0TzO9v.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/small-hien-ser-ut-att-missa-samlingen-700553"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/small-hien-ser-ut-att-missa-samlingen-700553"
-      },
-      "confirmed_by": [],
-      "id": "sm-ll-hien-ser-ut-att-missa-samlingen"
-    },
-    {
-      "published_at": "2026-09-09T18:30:00+00:00",
-      "updated_at": "2026-09-09T18:30:00+00:00",
-      "title": "Efter nio år totalt - Jens Magnusson lämnar Östers IF",
-      "summary": "Östers IF tappar en tung profil på ledarsidan. Klubbdirektören Jens Magnusson har sagt upp sig och lämnar sitt uppdrag efter totalt nästan nio år i föreningen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/WK3sAe0yZMfa0CJD4lDJhLwTllhBBUPqGAvF9rUo.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/efter-nio-ar-totalt-jens-magnusson-lamnar-osters-if-700540"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/efter-nio-ar-totalt-jens-magnusson-lamnar-osters-if-700540"
-      },
-      "confirmed_by": [],
-      "id": "efter-nio-r-totalt-jens-magnusson-l-mnar-sters-if"
-    },
-    {
-      "published_at": "2026-09-09T18:28:34+00:00",
-      "updated_at": "2026-09-09T18:28:34+00:00",
-      "title": "Geflepodden #516 Det uteblivna rycket?",
-      "summary": "I Geflepodden #516 så snackar vi om det extrainsatta årsmötet där vi skrapar på ytan på det som sades. Vi snackar också om den tunga förlusten på Sollentunavallen där vi kritiserar uttagningen av laget, det tempofattiga spelet hur avsaknaden av nyckelspelare påverkar vårt spel. Avslutningsvis snackar vi upp den viktiga matchen mot formsvaga Järfälla i helgen.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2089412.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/geflepodden-516-det-uteblivna-rycket-700539"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/geflepodden-516-det-uteblivna-rycket-700539"
-      },
-      "confirmed_by": [],
-      "id": "geflepodden-516-det-uteblivna-rycket"
-    },
-    {
-      "published_at": "2026-09-10T06:35:00+00:00",
-      "updated_at": "2026-09-10T06:35:00+00:00",
-      "title": "Harry Kane deserves to win 2026 Ballon d'Or, but may be 'punished' - Mauricio Pochettino",
-      "summary": "Read the full report at ESPN.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "ESPN",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "ESPN",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "harry-kane-deserves-to-win-2026-ballon-d-or-but-may-be-punished-mauricio-pochettino"
-    },
-    {
-      "published_at": "2026-09-09T22:05:00+00:00",
-      "updated_at": "2026-09-09T22:05:00+00:00",
-      "title": "Dembélé, Torres star as PSG score 6 to launch UCL defense",
-      "summary": "Read the full report at ESPN.",
-      "category": [
-        "Ligue 1"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "psg",
-      "image": "",
-      "sources": [
-        {
-          "name": "ESPN",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "ESPN",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "demb-l-torres-star-as-psg-score-6-to-launch-ucl-defense"
-    },
-    {
-      "published_at": "2026-09-09T18:43:28+00:00",
-      "updated_at": "2026-09-09T18:43:28+00:00",
-      "title": "Champions League Liveblog: Napoli vs. Arsenal",
-      "summary": "Follow all the build-up and action as it happens from the Champions League, as Napoli in crisis host Riccardo Calafiori’s Arsenal",
-      "category": [
-        "Premier League",
         "Serie A"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://icdn.football-italia.net/wp-content/uploads/2024/08/12098844-1.jpg",
+      "club": "",
+      "image": "",
       "sources": [
         {
           "name": "Football Italia",
-          "url": "https://football-italia.net/champions-league-liveblog-napoli-vs-arsenal/"
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Football Italia",
-        "url": "https://football-italia.net/champions-league-liveblog-napoli-vs-arsenal/"
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "champions-league-liveblog-napoli-vs-arsenal"
+      "id": "carnevali-responsible-as-juventus-finances-show-improvement"
+    },
+    {
+      "published_at": "2026-09-09T17:14:28+00:00",
+      "updated_at": "2026-09-09T17:14:28+00:00",
+      "title": "Serie A referees for Week 4, Marcenaro assigned to Lazio vs. Milan",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "serie-a-referees-for-week-4-marcenaro-assigned-to-lazio-vs-milan"
+    },
+    {
+      "published_at": "2026-09-09T14:27:18+00:00",
+      "updated_at": "2026-09-09T14:27:18+00:00",
+      "title": "Inter glass half full as big Serie A match looms",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "inter-glass-half-full-as-big-serie-a-match-looms"
+    },
+    {
+      "published_at": "2026-09-08T15:29:21+00:00",
+      "updated_at": "2026-09-08T15:29:21+00:00",
+      "title": "Ballon d’Or: Lautaro Martinez only Serie A player nominated, no Dimarco",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "ballon-d-or-lautaro-martinez-only-serie-a-player-nominated-no-dimarco"
+    },
+    {
+      "published_at": "2026-09-07T18:44:21+00:00",
+      "updated_at": "2026-09-07T18:44:21+00:00",
+      "title": "Maldini becoming Serie A’s latest journeyman at 24 after first goal for Cagliari",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "maldini-becoming-serie-a-s-latest-journeyman-at-24-after-first-goal-for-cagliari"
+    },
+    {
+      "published_at": "2026-09-07T08:49:06+00:00",
+      "updated_at": "2026-09-07T08:49:06+00:00",
+      "title": "Capello: Why Roma can challenge Inter for Serie A title",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "capello-why-roma-can-challenge-inter-for-serie-a-title"
     }
   ]
 }
