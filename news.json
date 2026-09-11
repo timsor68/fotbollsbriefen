@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-09-11T20:36:12.994325+00:00",
+  "updated_at": "2026-09-11T23:01:52.742145+00:00",
   "items": [
+    {
+      "published_at": "2026-09-10T14:16:06+00:00",
+      "updated_at": "2026-09-10T14:16:06+00:00",
+      "title": "Arsenal close to finalising new contract for Arteta",
+      "summary": "Mikel Arteta is believed to be close to finalising a new contract with Premier League champions Arsenal",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "mikel-arteta",
+      "entity_type": "coaches",
+      "club": "arsenal",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8eb1/live/9e099bd0-ad1e-11f1-826f-933990eae6f0.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        },
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZzZmRWFZaEFLM1RwbktNNWdrcWV3TVg0Q0gtRnM3dFVRTkIyb3c5VzZqVDhLYUdXekNBUzAzbWpOMDJ5Wk5KYmRhbk9DREMwRFFveFZOWnhvVkE3ZzByMXBqR2ItRE5rU0xWOUxmbnhXYjZPajRnY09TSVdhMTZPRzNBZ2dVSnRveU5Eb0hITk9UQmMxSm9EMjZuSQ?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        },
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZzZmRWFZaEFLM1RwbktNNWdrcWV3TVg0Q0gtRnM3dFVRTkIyb3c5VzZqVDhLYUdXekNBUzAzbWpOMDJ5Wk5KYmRhbk9DREMwRFFveFZOWnhvVkE3ZzByMXBqR2ItRE5rU0xWOUxmbnhXYjZPajRnY09TSVdhMTZPRzNBZ2dVSnRveU5Eb0hITk9UQmMxSm9EMjZuSQ?oc=5"
+        }
+      ],
+      "id": "arsenal-close-to-finalising-new-contract-for-arteta"
+    },
     {
       "published_at": "2026-09-08T07:35:25+00:00",
       "updated_at": "2026-09-08T07:35:25+00:00",
@@ -46,6 +91,42 @@
       "id": "europe-s-next-great-coach-how-fabregas-led-como-into-champions-league"
     },
     {
+      "published_at": "2026-09-11T21:30:23+00:00",
+      "updated_at": "2026-09-11T21:30:23+00:00",
+      "title": "Like Benzema & as good as Haaland - Alonso on Joao Pedro",
+      "summary": "Chelsea manager Xabi Alonso says striker Joao Pedro is similar stylistically to his former Real Madrid team-mate Karim Benzema and is at a comparable level to Manchester City's Erling Haaland",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "xabi-alonso",
+      "entity_type": "coaches",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c8bd/live/b38511e0-ade3-11f1-9a5c-a7a4083eb832.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c1j4z1ry29jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13584444/joao-pedro-reminds-me-of-karim-benzema-and-is-on-same-level-as-erling-haaland-says-chelsea-boss-xabi-alonso"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c1j4z1ry29jo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13584444/joao-pedro-reminds-me-of-karim-benzema-and-is-on-same-level-as-erling-haaland-says-chelsea-boss-xabi-alonso"
+        }
+      ],
+      "id": "like-benzema-as-good-as-haaland-alonso-on-joao-pedro"
+    },
+    {
       "published_at": "2026-09-11T14:16:39+00:00",
       "updated_at": "2026-09-11T14:16:39+00:00",
       "title": "Celtic given 'timely' police reminder before derby",
@@ -82,46 +163,9 @@
       "id": "celtic-given-timely-police-reminder-before-derby"
     },
     {
-      "published_at": "2026-09-10T14:16:06+00:00",
-      "updated_at": "2026-09-10T14:16:06+00:00",
-      "title": "Arsenal close to finalising new contract for Arteta",
-      "summary": "Mikel Arteta is believed to be close to finalising a new contract with Premier League champions Arsenal",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "mikel-arteta",
-      "entity_type": "coaches",
-      "club": "arsenal",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8eb1/live/9e099bd0-ad1e-11f1-826f-933990eae6f0.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZzZmRWFZaEFLM1RwbktNNWdrcWV3TVg0Q0gtRnM3dFVRTkIyb3c5VzZqVDhLYUdXekNBUzAzbWpOMDJ5Wk5KYmRhbk9DREMwRFFveFZOWnhvVkE3ZzByMXBqR2ItRE5rU0xWOUxmbnhXYjZPajRnY09TSVdhMTZPRzNBZ2dVSnRveU5Eb0hITk9UQmMxSm9EMjZuSQ?oc=5"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cgrvq2xp8dwo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZzZmRWFZaEFLM1RwbktNNWdrcWV3TVg0Q0gtRnM3dFVRTkIyb3c5VzZqVDhLYUdXekNBUzAzbWpOMDJ5Wk5KYmRhbk9DREMwRFFveFZOWnhvVkE3ZzByMXBqR2ItRE5rU0xWOUxmbnhXYjZPajRnY09TSVdhMTZPRzNBZ2dVSnRveU5Eb0hITk9UQmMxSm9EMjZuSQ?oc=5"
-        }
-      ],
-      "id": "arsenal-close-to-finalising-new-contract-for-arteta"
-    },
-    {
-      "published_at": "2026-09-09T11:56:09+00:00",
-      "updated_at": "2026-09-09T11:56:09+00:00",
-      "title": "Football: Lionel Messi reaches 'preliminary agreement' to buy Eldense",
+      "published_at": "2026-09-09T11:49:45+00:00",
+      "updated_at": "2026-09-09T11:49:45+00:00",
+      "title": "Lionel Messi reaches agreement in principle to purchase Spanish second-tier club Eldense",
       "summary": "The Arsenal striker reminded us grace can exist in the non-stop pace of football with his involuntary noise-provoking act During Covid, when sport was back but behind closed doors, I hosted a number of strange online shows to fill the void of real life. The highlight was chatting to Darren Gough about a lifesize bronze rhinoceros for 45 minutes to 15 small boxes on a Zoom call. I don’t recall who it was for and where the rhinoceros came from – but it might be in his garden.",
       "category": [
         "Transfer"
@@ -133,7 +177,7 @@
       "image": "",
       "sources": [
         {
-          "name": "BBC Sport",
+          "name": "The Athletic",
           "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         },
         {
@@ -143,7 +187,7 @@
       ],
       "language": "en",
       "main_source": {
-        "name": "BBC Sport",
+        "name": "The Athletic",
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [
@@ -152,51 +196,34 @@
           "url": "https://www.theguardian.com/football/picture/2026/sep/08/david-squires-on-lionel-messi-true-passion-international-football-retirement"
         }
       ],
-      "id": "football-lionel-messi-reaches-preliminary-agreement-to-buy-eldense"
+      "id": "lionel-messi-reaches-agreement-in-principle-to-purchase-spanish-second-tier-club-eldense"
     },
     {
-      "published_at": "2026-09-10T06:00:18+00:00",
-      "updated_at": "2026-09-10T06:00:18+00:00",
-      "title": "Chelsea’s 2016-17 Premier League title should be given to Spurs, says Pochettino",
-      "summary": "Former manager says Chelsea should be stripped of title ‘The title should be for the team that was second’ Mauricio Pochettino says Chelsea should be stripped of their 2016-17 Premier League title for financial rule breaches and the honour retrospectively awarded to Tottenham, who he led to second place that season. Chelsea were fined £10m by the Football Association in July and given a suspended two-window transfer ban for multiple violations of the rules during the Roman Abramovich era. They were also fined £10.75m by the Premier League in March.",
+      "published_at": "2026-09-11T22:00:44+00:00",
+      "updated_at": "2026-09-11T22:00:44+00:00",
+      "title": "Canal+ and LaLiga sign anti-piracy pact spanning nearly 50 countries",
+      "summary": "Read the full report at Reuters.",
       "category": [
-        "Premier League"
+        "Transfer"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5c93/live/4dcf0c20-ad11-11f1-826f-933990eae6f0.jpg",
+      "club": "",
+      "image": "",
       "sources": [
         {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c0re0n84yz7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/10/chelsea-2016-17-premier-league-title-tottenham-mauricio-pochettino"
-        },
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUzc4eTNUUU8xRUFqbGdROGFNZW50TTI4WGMyUTN2Mmg2bi1GSnJlenFpRmFDMjlWMGladEQ2NGp2Y0F4YkQyM1BkcVY1X0taOGY2MTFtS3ZaZU03TGxDZkJoaW1RMlFlcFZJZ2pLZzZZZFVtVXNVbm94WTZWUGdZZENmWWMzTUNkZ09TWGM1TFpVeC1oZWd3YWk1QUxjSVliRGtzWmo4UFZtaFdfUWtWMGVVeXcyZHJFRGVPQjdsSURxRlpYRXNFUXkzX3pFTWp6U1E?oc=5"
+          "name": "Reuters",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c0re0n84yz7o?at_medium=RSS&at_campaign=rss"
+        "name": "Reuters",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/10/chelsea-2016-17-premier-league-title-tottenham-mauricio-pochettino"
-        },
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUzc4eTNUUU8xRUFqbGdROGFNZW50TTI4WGMyUTN2Mmg2bi1GSnJlenFpRmFDMjlWMGladEQ2NGp2Y0F4YkQyM1BkcVY1X0taOGY2MTFtS3ZaZU03TGxDZkJoaW1RMlFlcFZJZ2pLZzZZZFVtVXNVbm94WTZWUGdZZENmWWMzTUNkZ09TWGM1TFpVeC1oZWd3YWk1QUxjSVliRGtzWmo4UFZtaFdfUWtWMGVVeXcyZHJFRGVPQjdsSURxRlpYRXNFUXkzX3pFTWp6U1E?oc=5"
-        }
-      ],
-      "id": "chelsea-s-2016-17-premier-league-title-should-be-given-to-spurs-says-pochettino"
+      "confirmed_by": [],
+      "id": "canal-and-laliga-sign-anti-piracy-pact-spanning-nearly-50-countries"
     },
     {
       "published_at": "2026-09-11T10:15:00+00:00",
@@ -235,6 +262,46 @@
       "id": "arteta-i-sabotage-our-travel-plans-so-players-get-used-to-problems"
     },
     {
+      "published_at": "2026-09-11T00:44:45+00:00",
+      "updated_at": "2026-09-11T00:44:45+00:00",
+      "title": "Summer transfer spending: Premier League, EFL, WSL, Scottish Premiership, LaLiga, Ligue 1, Serie A and Bundesliga breakdowns",
+      "summary": "Read the full report at Sky Sports.",
+      "category": [
+        "Premier League",
+        "Serie A",
+        "Bundesliga",
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcmg5SnNFcExKX2dhbGxLVEdrV0JCV3ZzcG5INGF0NkU2SzFMMldrVXZGbFZ1RUFFRUhUNFRTaG1wVl94N3Flemp5Tm1ocVYzRE1hMGJ5V1JFRmZwTlJ0R2otQ2NMQTFUVndlWm03LWd3NVVDa0tsSDlKUy0yRElKS3RFLXlfZGpCVHFSZEQ3d1FwY1FUVGV6ZUpZa0YtTWp5cHExZ2JUMEh2a1Vyd1RfeDllLWx2NjUtRHk3U0ktVEJPOVNn?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcmg5SnNFcExKX2dhbGxLVEdrV0JCV3ZzcG5INGF0NkU2SzFMMldrVXZGbFZ1RUFFRUhUNFRTaG1wVl94N3Flemp5Tm1ocVYzRE1hMGJ5V1JFRmZwTlJ0R2otQ2NMQTFUVndlWm03LWd3NVVDa0tsSDlKUy0yRElKS3RFLXlfZGpCVHFSZEQ3d1FwY1FUVGV6ZUpZa0YtTWp5cHExZ2JUMEh2a1Vyd1RfeDllLWx2NjUtRHk3U0ktVEJPOVNn?oc=5"
+        }
+      ],
+      "id": "summer-transfer-spending-premier-league-efl-wsl-scottish-premiership-laliga-ligue-1-serie-"
+    },
+    {
       "published_at": "2026-09-05T12:25:43+00:00",
       "updated_at": "2026-09-05T12:25:43+00:00",
       "title": "Coach Luis Enrique unconcerned by PSG's poor start to the season",
@@ -261,6 +328,33 @@
       },
       "confirmed_by": [],
       "id": "coach-luis-enrique-unconcerned-by-psg-s-poor-start-to-the-season"
+    },
+    {
+      "published_at": "2026-09-11T21:40:56+00:00",
+      "updated_at": "2026-09-11T21:40:56+00:00",
+      "title": "Bergvall signs new Spurs deal after uncertain future",
+      "summary": "Lucas Bergvall signs a new contract at Tottenham after telling the club he wanted to leave in the summer",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3ec5/live/798c0ed0-add4-11f1-a40e-b70f4378d974.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c99dg2gzdl4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c99dg2gzdl4o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "bergvall-signs-new-spurs-deal-after-uncertain-future"
     },
     {
       "published_at": "2026-09-11T19:51:32+00:00",
@@ -317,33 +411,6 @@
       "id": "moroccan-official-told-to-stop-making-2030-final-promise"
     },
     {
-      "published_at": "2026-09-11T15:40:50+00:00",
-      "updated_at": "2026-09-11T15:40:50+00:00",
-      "title": "Bergvall signs new deal - but no news on Richarlison",
-      "summary": "Lucas Bergvall signs a new contract at Tottenham after telling the club he wanted to leave, but there is no update on Richarlison's future",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3ec5/live/798c0ed0-add4-11f1-a40e-b70f4378d974.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c99dg2gzdl4o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c99dg2gzdl4o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "bergvall-signs-new-deal-but-no-news-on-richarlison"
-    },
-    {
       "published_at": "2026-09-11T15:26:54+00:00",
       "updated_at": "2026-09-11T15:26:54+00:00",
       "title": "Collins a doubt for Republic of Ireland with calf injury",
@@ -371,8 +438,36 @@
       "id": "collins-a-doubt-for-republic-of-ireland-with-calf-injury"
     },
     {
-      "published_at": "2026-09-11T15:07:03+00:00",
-      "updated_at": "2026-09-11T15:07:03+00:00",
+      "published_at": "2026-09-11T15:04:49+00:00",
+      "updated_at": "2026-09-11T15:04:49+00:00",
+      "title": "Ex-West Ham striker Antonio joins Watford",
+      "summary": "Watford announce the signing of former West Ham United striker Michail Antonio on a free transfer",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ce8e/live/3ae71dd0-adef-11f1-9a5c-a7a4083eb832.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c4gqjqdeg8do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c4gqjqdeg8do?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "ex-west-ham-striker-antonio-joins-watford"
+    },
+    {
+      "published_at": "2026-09-11T14:01:00+00:00",
+      "updated_at": "2026-09-11T14:01:00+00:00",
       "title": "Officiellt: Pedro Neto förlänger med Chelsea",
       "summary": "Winger shining after summer pursuit by several clubs Chelsea felt selling Fernández to City was right move Chelsea have rewarded Pedro Neto’s strong start to the season and commitment to the club by handing the winger a new contract. The Portugal international had summer interest from several Premier League clubs including Manchester City, but indicated a desire to stay and play for Xabi Alonso. He has signed a five-year deal with the option of an extra year and is to receive a pay rise.",
       "category": [
@@ -490,6 +585,33 @@
       "id": "h-r-s-ger-fenerbah-es-tr-nare-upp-sig-p-presskonferensen"
     },
     {
+      "published_at": "2026-09-11T23:16:00+00:00",
+      "updated_at": "2026-09-11T23:16:00+00:00",
+      "title": "Papers: Amorim takes swipe at Man Utd players-turned-pundits",
+      "summary": "Latest transfer news and headlines include: Enzo Fernandez telling Chelsea his relationship with the changing room was broken and beyond repair as he pushed for his Manchester City move; James Rodriguez returns to Colombia; ex-Liverpool midfielder James Milner in training for a marathon",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13584647/manchester-united-news-ruben-amorim-takes-a-swipe-at-the-clubs-former-players-now-working-in-the-media-paper-talk"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13584647/manchester-united-news-ruben-amorim-takes-a-swipe-at-the-clubs-former-players-now-working-in-the-media-paper-talk"
+      },
+      "confirmed_by": [],
+      "id": "papers-amorim-takes-swipe-at-man-utd-players-turned-pundits"
+    },
+    {
       "published_at": "2026-09-11T09:00:00+00:00",
       "updated_at": "2026-09-11T09:00:00+00:00",
       "title": "Hall signs new deal at Newcastle after Man Utd interest",
@@ -519,36 +641,8 @@
       "id": "hall-signs-new-deal-at-newcastle-after-man-utd-interest"
     },
     {
-      "published_at": "2026-09-11T15:17:27+00:00",
-      "updated_at": "2026-09-11T15:17:27+00:00",
-      "title": "Fenerbahces tränare sa upp sig - presidenten manar till lugn",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige",
-        "Coach"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "fenerbahces-tr-nare-sa-upp-sig-presidenten-manar-till-lugn"
-    },
-    {
-      "published_at": "2026-09-11T13:01:00+00:00",
-      "updated_at": "2026-09-11T13:01:00+00:00",
+      "published_at": "2026-09-11T14:27:42+00:00",
+      "updated_at": "2026-09-11T14:27:42+00:00",
       "title": "\"AC:s\" framtidssvar: \"Mer en hållning än att spela till sig kontrakt\"",
       "summary": "Read the full report at Fotbollskanalen.",
       "category": [
@@ -572,34 +666,6 @@
       },
       "confirmed_by": [],
       "id": "ac-s-framtidssvar-mer-en-h-llning-n-att-spela-till-sig-kontrakt"
-    },
-    {
-      "published_at": "2026-09-11T11:38:00+00:00",
-      "updated_at": "2026-09-11T11:38:00+00:00",
-      "title": "Klart: Barcelona förlänger med Abdelkarim",
-      "summary": "Klart: Barcelona förlänger med Abdelkarim Fotbollskanalen",
-      "category": [
-        "Sverige",
-        "La Liga"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "barcelona",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "klart-barcelona-f-rl-nger-med-abdelkarim"
     },
     {
       "published_at": "2026-09-11T11:26:00+00:00",
@@ -627,6 +693,62 @@
       },
       "confirmed_by": [],
       "id": "klart-hif-skriver-kontrakt-med-bomboko"
+    },
+    {
+      "published_at": "2026-09-11T00:33:46+00:00",
+      "updated_at": "2026-09-11T00:33:46+00:00",
+      "title": "Uppgifter: Güler förlänger med Real Madrid",
+      "summary": "Uppgifter: Güler förlänger med Real Madrid Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "La Liga"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "real-madrid",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-g-ler-f-rl-nger-med-real-madrid"
+    },
+    {
+      "published_at": "2026-09-10T20:35:00+00:00",
+      "updated_at": "2026-09-10T20:35:00+00:00",
+      "title": "Fenerbahces tränare sa upp sig - presidenten manar till lugn",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige",
+        "Coach"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "fenerbahces-tr-nare-sa-upp-sig-presidenten-manar-till-lugn"
     },
     {
       "published_at": "2026-09-09T18:14:00+00:00",
@@ -1088,6 +1210,33 @@
       "id": "agbejoye-slutligen-spelklar-f-r-djurg-rden-efter-trasigt-pass-chip"
     },
     {
+      "published_at": "2026-09-11T10:58:00+00:00",
+      "updated_at": "2026-09-11T10:58:00+00:00",
+      "title": "Juventus to field just one Italian player in the next game amid injury crisis",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "juventus-to-field-just-one-italian-player-in-the-next-game-amid-injury-crisis"
+    },
+    {
       "published_at": "2026-09-10T14:31:05+00:00",
       "updated_at": "2026-09-10T14:31:05+00:00",
       "title": "Scalvini agrees new Atalanta contract following Newcastle summer pursuit",
@@ -1171,6 +1320,42 @@
       "id": "serie-a-official-line-ups-juventus-vs-milan"
     },
     {
+      "published_at": "2026-09-11T22:00:00+00:00",
+      "updated_at": "2026-09-11T22:00:00+00:00",
+      "title": "West Ham thrash Wrexham to go top of the Championship",
+      "summary": "West Ham secured their fourth league win in a row as they returned to the top of the Championship with a thumping 6-0 win over Wrexham at the London Stadium. It was a marvellous display of attacking football from Nuno Espírito Santo’s side, who swept to victory with room to spare and six different scorers. Jarrod Bowen got the ball rolling after 28 minutes, Joël Piroe made it two before the break, then Konstantinos Mavropanos, Taty Castellanos, Mohamadou Kanté and Manor Solomon all scored in the second half as the Welsh side were dealt a hiding.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-west-ham-wrexham_7348581.jpg?20260911221118",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/west-ham-united-vs-wrexham/report/560581"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/11/west-ham-wrexham-championship-match-report"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/west-ham-united-vs-wrexham/report/560581"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/11/west-ham-wrexham-championship-match-report"
+        }
+      ],
+      "id": "west-ham-thrash-wrexham-to-go-top-of-the-championship"
+    },
+    {
       "published_at": "2026-09-11T17:00:00+00:00",
       "updated_at": "2026-09-11T17:00:00+00:00",
       "title": "Kings of Manchester: Who will reign when United and City clash?",
@@ -1234,8 +1419,8 @@
       "id": "spanish-gp-parks-formula-one-on-football-s-doorstep"
     },
     {
-      "published_at": "2026-09-09T12:10:25+00:00",
-      "updated_at": "2026-09-09T12:10:25+00:00",
+      "published_at": "2026-09-09T22:39:15+00:00",
+      "updated_at": "2026-09-09T22:39:15+00:00",
       "title": "European football news and transfers: Barcelona, Real Madrid, PSG, Bayern Munich latest and more",
       "summary": "Read the full report at Sky Sports.",
       "category": [
@@ -1273,31 +1458,32 @@
       "id": "european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-mo"
     },
     {
-      "published_at": "2026-09-04T21:47:12+00:00",
-      "updated_at": "2026-09-04T21:47:12+00:00",
-      "title": "Monaco rally to edge winless PSG as Lyon beat Auxerre in Ligue 1",
-      "summary": "Read the full report at Reuters.",
+      "published_at": "2026-09-11T20:49:46+00:00",
+      "updated_at": "2026-09-11T20:49:46+00:00",
+      "title": "Bella Andersson gjorde första målet i Real Madrid",
+      "summary": "Bella Andersson, 20, har gjort sitt första mål i Real Madrid-tröjan. Svenskan tryckte in 2–0 i ligamatchen mot Deportivo de La Coruña",
       "category": [
-        "Ligue 1"
+        "Sverige",
+        "La Liga"
       ],
       "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
-      "club": "psg",
-      "image": "",
+      "club": "real-madrid",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.25/0.24/381709926df92ee8da454ec42c00dbb205af5283bd363f69ecc5750db9c1e74b",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/bella-andersson-gjorde-forsta-malet-i-real-madrid"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Reuters",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/bella-andersson-gjorde-forsta-malet-i-real-madrid"
       },
       "confirmed_by": [],
-      "id": "monaco-rally-to-edge-winless-psg-as-lyon-beat-auxerre-in-ligue-1"
+      "id": "bella-andersson-gjorde-f-rsta-m-let-i-real-madrid"
     },
     {
       "published_at": "2026-09-11T16:20:48+00:00",
@@ -1462,33 +1648,6 @@
       "id": "fridolina-rolf-gravid-ser-ut-att-missa-vm-inte-positivt-f-r-landslaget"
     },
     {
-      "published_at": "2026-09-10T14:31:57+00:00",
-      "updated_at": "2026-09-10T14:31:57+00:00",
-      "title": "Rydström vill se fler idioter i Hammarby: ”Jag hade lätt för det”",
-      "summary": "Kapten Nahir Besara får snålt med speltid när andra presterat bättre. Men han lämnar ett hål i Hammarbys lag. – Det är ett ledarskapstomrum på planen, säger Henrik Rydström",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.38/0.36/8cdca20c93d5dd8f1ab1236a740ccf8e23e1597a1969a02a0864b7c422a200f1",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/rydstrom-vill-se-fler-idioter-i-hammarby-jag-hade-latt-for-det"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/rydstrom-vill-se-fler-idioter-i-hammarby-jag-hade-latt-for-det"
-      },
-      "confirmed_by": [],
-      "id": "rydstr-m-vill-se-fler-idioter-i-hammarby-jag-hade-l-tt-f-r-det"
-    },
-    {
       "published_at": "2026-09-05T07:00:00+00:00",
       "updated_at": "2026-09-05T07:00:00+00:00",
       "title": "The 10 data-led transfers that have gone under the radar this summer",
@@ -1514,33 +1673,6 @@
       },
       "confirmed_by": [],
       "id": "the-10-data-led-transfers-that-have-gone-under-the-radar-this-summer"
-    },
-    {
-      "published_at": "2026-09-04T21:49:08+00:00",
-      "updated_at": "2026-09-04T21:49:08+00:00",
-      "title": "Real Madrid suffer first defeat of Jose Mourinho’s second spell with 1-0 Real Betis loss",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "La Liga"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "real-madrid-suffer-first-defeat-of-jose-mourinho-s-second-spell-with-1-0-real-betis-loss"
     },
     {
       "published_at": "2026-09-11T10:20:00+00:00",
@@ -1652,95 +1784,12 @@
       "id": "rangers-vs-celtic-talking-points-ahead-of-first-old-firm-clash-of-season"
     },
     {
-      "published_at": "2026-09-11T08:00:00+00:00",
-      "updated_at": "2026-09-11T08:00:00+00:00",
-      "title": "Merson: Spurs, Man City and Man Utd have defining games this weekend",
-      "summary": "In his latest Sky Sports column, Paul Merson says Tottenham, Manchester City and Manchester United all have defining matches this weekend, even though it is early in the season",
+      "published_at": "2026-09-11T21:57:00+00:00",
+      "updated_at": "2026-09-11T21:57:00+00:00",
+      "title": "Lundkvist förklarar märkliga agerandet: \"Jag kände mig som en idiot\"",
+      "summary": "Read the full report at Fotbollskanalen.",
       "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/26/09/1600x900/skysports-merson-says-premier-league_7344828.jpg?20260908094410",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13582801/spurs-man-city-and-man-utd-face-defining-premier-league-matches-this-weekend-says-paul-merson"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13582801/spurs-man-city-and-man-utd-face-defining-premier-league-matches-this-weekend-says-paul-merson"
-      },
-      "confirmed_by": [],
-      "id": "merson-spurs-man-city-and-man-utd-have-defining-games-this-weekend"
-    },
-    {
-      "published_at": "2026-09-11T08:00:00+00:00",
-      "updated_at": "2026-09-11T08:00:00+00:00",
-      "title": "No wins and no goals - how concerned should Spurs be over PL start?",
-      "summary": "It has been a winless and goalless start to the new Premier League season for big-spending Tottenham",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://e0.365dm.com/26/09/1600x900/skysports-premier-league-tottenham-hotspur_7346118.jpg?20260909141814",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13583499/how-concerned-should-big-spending-tottenham-be-after-winless-and-goalless-start-to-premier-league-season"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13583499/how-concerned-should-big-spending-tottenham-be-after-winless-and-goalless-start-to-premier-league-season"
-      },
-      "confirmed_by": [],
-      "id": "no-wins-and-no-goals-how-concerned-should-spurs-be-over-pl-start"
-    },
-    {
-      "published_at": "2026-09-10T18:00:00+00:00",
-      "updated_at": "2026-09-10T18:00:00+00:00",
-      "title": "PL Predictions: Hull's run can't continue at Chelsea, can it? It can!",
-      "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight across the weekend Premier League action",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-premier-league-predictions_7326761.jpg?20260820172933",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13583782/premier-league-predictions-jones-knows-best-bets-hulls-run-cant-continue-at-chelsea-can-it-oh-it-can"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13583782/premier-league-predictions-jones-knows-best-bets-hulls-run-cant-continue-at-chelsea-can-it-oh-it-can"
-      },
-      "confirmed_by": [],
-      "id": "pl-predictions-hull-s-run-can-t-continue-at-chelsea-can-it-it-can"
-    },
-    {
-      "published_at": "2026-09-11T17:08:06+00:00",
-      "updated_at": "2026-09-11T17:08:06+00:00",
-      "title": "Kuyt uppges bli interimtränare i Fenerbahce",
-      "summary": "Kuyt uppges bli interimtränare i Fenerbahce Fotbollskanalen",
-      "category": [
-        "Sverige",
-        "Serie A",
-        "Coach"
+        "Sverige"
       ],
       "status": "Reported",
       "entity": "",
@@ -1759,7 +1808,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "kuyt-uppges-bli-interimtr-nare-i-fenerbahce"
+      "id": "lundkvist-f-rklarar-m-rkliga-agerandet-jag-k-nde-mig-som-en-idiot"
     },
     {
       "published_at": "2026-09-11T17:31:40+00:00",
@@ -1951,17 +2000,19 @@
       "id": "ifk-norrk-ping-vinner-seriefinalen-mot-varberg-betygen-p-kamraterna"
     },
     {
-      "published_at": "2026-09-11T08:58:00+00:00",
-      "updated_at": "2026-09-11T08:58:00+00:00",
-      "title": "The staggering numbers behind Premier League's spending power over Europe",
+      "published_at": "2026-09-11T16:46:00+00:00",
+      "updated_at": "2026-09-11T16:46:00+00:00",
+      "title": "Monaco's Lamine Camara says he has 'turned the page' after failed Chelsea move",
       "summary": "Read the full report at ESPN.",
       "category": [
-        "Premier League"
+        "Premier League",
+        "Ligue 1",
+        "Transfer"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
+      "club": "chelsea",
       "image": "",
       "sources": [
         {
@@ -1975,7 +2026,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "the-staggering-numbers-behind-premier-league-s-spending-power-over-europe"
+      "id": "monaco-s-lamine-camara-says-he-has-turned-the-page-after-failed-chelsea-move"
     },
     {
       "published_at": "2026-09-11T10:19:04+00:00",
@@ -2112,33 +2163,6 @@
       },
       "confirmed_by": [],
       "id": "serie-a-referees-for-week-4-marcenaro-assigned-to-lazio-vs-milan"
-    },
-    {
-      "published_at": "2026-09-09T14:27:18+00:00",
-      "updated_at": "2026-09-09T14:27:18+00:00",
-      "title": "Inter glass half full as big Serie A match looms",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "inter-glass-half-full-as-big-serie-a-match-looms"
     }
   ]
 }
