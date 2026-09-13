@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T20:37:18.256574+00:00",
+  "updated_at": "2026-09-13T22:56:27.955788+00:00",
   "items": [
     {
       "published_at": "2026-09-13T13:50:00+00:00",
@@ -82,6 +82,42 @@
       "id": "struggling-preston-north-end-sack-heckingbottom"
     },
     {
+      "published_at": "2026-09-09T11:56:09+00:00",
+      "updated_at": "2026-09-09T11:56:09+00:00",
+      "title": "Football: Lionel Messi reaches 'preliminary agreement' to buy Eldense",
+      "summary": "The Arsenal striker reminded us grace can exist in the non-stop pace of football with his involuntary noise-provoking act During Covid, when sport was back but behind closed doors, I hosted a number of strange online shows to fill the void of real life. The highlight was chatting to Darren Gough about a lifesize bronze rhinoceros for 45 minutes to 15 small boxes on a Zoom call. I don’t recall who it was for and where the rhinoceros came from – but it might be in his garden.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "lionel-messi",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/picture/2026/sep/08/david-squires-on-lionel-messi-true-passion-international-football-retirement"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/picture/2026/sep/08/david-squires-on-lionel-messi-true-passion-international-football-retirement"
+        }
+      ],
+      "id": "football-lionel-messi-reaches-preliminary-agreement-to-buy-eldense"
+    },
+    {
       "published_at": "2026-09-08T07:35:25+00:00",
       "updated_at": "2026-09-08T07:35:25+00:00",
       "title": "Europe's next great coach? How Fabregas led Como into Champions League",
@@ -118,48 +154,75 @@
       "id": "europe-s-next-great-coach-how-fabregas-led-como-into-champions-league"
     },
     {
-      "published_at": "2026-09-12T22:47:10+00:00",
-      "updated_at": "2026-09-12T22:47:10+00:00",
-      "title": "Mikel Arteta says penalty given to Sunderland ‘unacceptable at this level’",
-      "summary": "Arsenal manager angry: ‘This can never be a penalty’ ‘It’s a judo roll from the opponent. Ezri does nothing’ Mikel Arteta’s delight at Arsenal’s latest win was tempered by his fury with the referee John Brooks as the champions triumphed 2-0 at Sunderland on Saturday night. Before Bruno Guimarães gave Arsenal the lead in a tight match that Régis Le Bris’s team were arguably unlucky to lose, David Raya made a brilliant save to deny Enzo Le Fée from the penalty spot.",
+      "published_at": "2026-09-13T22:20:42+00:00",
+      "updated_at": "2026-09-13T22:20:42+00:00",
+      "title": "'Their intelligence & resilience was key' - how Man City earned 'statement win'",
+      "summary": "Match of the Day pundit Danny Murphy explains how Manchester City beat Manchester United at Old Trafford despite being down to 10 men for most of the game",
       "category": [
         "Football"
       ],
-      "status": "Confirmed by multiple sources",
-      "entity": "mikel-arteta",
-      "entity_type": "coaches",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/563d/live/de3b5de0-aef1-11f1-b1d1-571ed4d7ff2c.jpg",
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/db32/live/824c7730-afa5-11f1-a540-61c3f7fc4e6c.png",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cd94ke0z07qo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13585214/mikel-arteta-rages-at-sunderland-penalty-decision-after-arsenal-win-at-stadium-of-light-this-cannot-happen"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/12/mikel-arteta-penalty-decision-arsenal-sunderland-unacceptable"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq6384g0pqyo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cd94ke0z07qo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq6384g0pqyo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "their-intelligence-resilience-was-key-how-man-city-earned-statement-win"
+    },
+    {
+      "published_at": "2026-09-13T20:25:05+00:00",
+      "updated_at": "2026-09-13T20:25:05+00:00",
+      "title": "'No time for fairytales' - Kane nets 150th Bayern goal to defeat Elversberg",
+      "summary": "Elversberg 1-2 Bayern; Sassuolo 3-2 Juventus Barcelona see off Levante, PSG end winless run Barcelona continued their perfect start to the ⁠season with a hard-fought 4-2 La Liga victory over Levante in Valencia ⁠on Sunday. Levante ⁠found ​themselves two goals down within 19 minutes after swift play from ⁠Barcelona led to goals for Xavi Espart and Lamine Yamal. The home side ⁠then rallied, finishing the half with six ​shots to Barcelona’s ‌three.",
+      "category": [
+        "Bundesliga"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "bayern-munich",
+      "image": "",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/13/european-football-barcelona-bayern-munich-napoli-juventus"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13585214/mikel-arteta-rages-at-sunderland-penalty-decision-after-arsenal-win-at-stadium-of-light-this-cannot-happen"
+          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
         },
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/12/mikel-arteta-penalty-decision-arsenal-sunderland-unacceptable"
+          "url": "https://www.theguardian.com/football/2026/sep/13/european-football-barcelona-bayern-munich-napoli-juventus"
         }
       ],
-      "id": "mikel-arteta-says-penalty-given-to-sunderland-unacceptable-at-this-level"
+      "id": "no-time-for-fairytales-kane-nets-150th-bayern-goal-to-defeat-elversberg"
     },
     {
       "published_at": "2026-09-13T18:13:04+00:00",
@@ -270,61 +333,6 @@
       },
       "confirmed_by": [],
       "id": "i-thought-i-was-going-to-die-burnley-boss-on-sepsis-scare"
-    },
-    {
-      "published_at": "2026-09-12T18:36:17+00:00",
-      "updated_at": "2026-09-12T18:36:17+00:00",
-      "title": "Pickford joins Premier League clean sheet 100 club",
-      "summary": "Our Ask Me Anything team look at which goalkeepers have achieved 100 Premier League clean sheets",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e1b6/live/f895a6d0-ad1d-11f1-826f-933990eae6f0.png",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cvg5n27w3rpo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvg5n27w3rpo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "pickford-joins-premier-league-clean-sheet-100-club"
-    },
-    {
-      "published_at": "2026-09-12T18:06:29+00:00",
-      "updated_at": "2026-09-12T18:06:29+00:00",
-      "title": "Emery left searching for answers after another Villa loss",
-      "summary": "Aston Villa have lost three of their opening four Premier League games to leave boss Unai Emery struggling for answers",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0720/live/9088e100-aed6-11f1-91ea-91f4a2a08fa4.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/clye91zj7l0o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/clye91zj7l0o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "emery-left-searching-for-answers-after-another-villa-loss"
     },
     {
       "published_at": "2026-09-08T11:48:00+00:00",
@@ -473,8 +481,8 @@
       "id": "papers-richarlison-takes-aim-at-spurs-after-failed-vasco-da-gama-move"
     },
     {
-      "published_at": "2026-09-13T18:45:00+00:00",
-      "updated_at": "2026-09-13T18:45:00+00:00",
+      "published_at": "2026-09-13T19:41:00+00:00",
+      "updated_at": "2026-09-13T19:41:00+00:00",
       "title": "Oro för PSG - Hakimi av skadad",
       "summary": "Oro för PSG - Hakimi av skadad Fotbollskanalen",
       "category": [
@@ -530,8 +538,8 @@
       "id": "valencia-sparkar-sportchef-och-tr-nare"
     },
     {
-      "published_at": "2026-09-13T09:06:00+00:00",
-      "updated_at": "2026-09-13T09:06:00+00:00",
+      "published_at": "2026-09-13T10:36:25+00:00",
+      "updated_at": "2026-09-13T10:36:25+00:00",
       "title": "Beskedet: Julian Alvarez är skadad",
       "summary": "Beskedet: Julian Alvarez är skadad Fotbollskanalen",
       "category": [
@@ -666,10 +674,10 @@
       "id": "klart-hif-skriver-kontrakt-med-bomboko"
     },
     {
-      "published_at": "2026-09-11T00:33:46+00:00",
-      "updated_at": "2026-09-11T00:33:46+00:00",
+      "published_at": "2026-09-10T14:02:00+00:00",
+      "updated_at": "2026-09-10T14:02:00+00:00",
       "title": "Uppgifter: Güler förlänger med Real Madrid",
-      "summary": "Uppgifter: Arsenal vill förlänga med Rice Fotbollskanalen",
+      "summary": "Uppgifter: Güler förlänger med Real Madrid Fotbollskanalen",
       "category": [
         "Sverige",
         "La Liga"
@@ -721,10 +729,37 @@
       "id": "officiellt-camara-klar-f-r-kalmar-ff"
     },
     {
+      "published_at": "2026-09-13T20:21:16+00:00",
+      "updated_at": "2026-09-13T20:21:16+00:00",
+      "title": "Enzo Fernández’s fortitude shows Maresca was right to crave City reunion | Will Unwin",
+      "summary": "Some scoffed at £125m price tag, but the Argentinian did the work of two midfielders after Phil Foden’s red card Enzo Maresca does not pay the bills at Manchester City but he is ecstatic that those who do spent £125m for him to be reunited with Enzo Fernández. The manager and the midfielder were together at Chelsea, forming a strong bond over a relatively short time, one the Italian knew could provide the final piece within his master plan. The Argentinian was equally eager to work under Maresca once more and made it abundantly clear to his previous employers where he saw his future.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/7541ece4009752c7e8502db2bc7db9a336a29d8f/865_417_4180_3345/master/4180.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=99666719d31168a8893848459386a6e0",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/13/enzo-fernandez-enzo-maresca-manchester-city-reunion-united-derby"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/sep/13/enzo-fernandez-enzo-maresca-manchester-city-reunion-united-derby"
+      },
+      "confirmed_by": [],
+      "id": "enzo-fern-ndez-s-fortitude-shows-maresca-was-right-to-crave-city-reunion-will-unwin"
+    },
+    {
       "published_at": "2026-09-13T19:58:52+00:00",
       "updated_at": "2026-09-13T19:58:52+00:00",
       "title": "WSL roundup: Arsenal rue misses in Palace draw, Manchester City crush Villa",
-      "summary": "Gunners held at Emirates despite 30 attempts on goal City win 4-1 at Aston Villa to extend perfect start Arsenal were left to rue 30 missed chances after dropping points in a 0-0 draw against Crystal Palace at the Emirates Stadium. The Gunners hit the target nine times and had almost 80% possession but could not convert their superiority into goals. Promoted Palace put on a resilient performance, with goalkeeper Pauline Peyraud-Magnin batting away attempts from Alessia Russo, Chloe Kelly and Mariona Caldentey to earn another clean sheet.",
+      "summary": "Gunners held at Emirates despite 30 attempts on goal City win 4-1 at Aston Villa to extend perfect start Arsenal were left to rue 30 missed chances after dropping points in a 0-0 draw against Crystal Palace at the Emirates Stadium. The Gunners hit the target nine times and had almost 80% possession but could not convert their superiority into goals. Promoted Palace put on a resilient performance, with the goalkeeper Pauline Peyraud-Magnin batting away attempts from Alessia Russo, Chloe Kelly and Mariona Caldentey to earn another clean sheet.",
       "category": [
         "Premier League"
       ],
@@ -964,33 +999,6 @@
       "id": "mls-s-transfer-window-and-the-spending-line-that-keeps-going-up"
     },
     {
-      "published_at": "2026-09-08T09:23:21+00:00",
-      "updated_at": "2026-09-08T09:23:21+00:00",
-      "title": "David Squires on … Lionel Messi enjoying his true passion after Argentina retirement",
-      "summary": "The Arsenal striker reminded us grace can exist in the non-stop pace of football with his involuntary noise-provoking act During Covid, when sport was back but behind closed doors, I hosted a number of strange online shows to fill the void of real life. The highlight was chatting to Darren Gough about a lifesize bronze rhinoceros for 45 minutes to 15 small boxes on a Zoom call. I don’t recall who it was for and where the rhinoceros came from – but it might be in his garden.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "lionel-messi",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/dbb3bbd902edb6766eff6b56090de2f7b73b74d0/57_1757_928_742/master/928.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e5a7fedc65e553aa43e27bed990a334f",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/picture/2026/sep/08/david-squires-on-lionel-messi-true-passion-international-football-retirement"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/picture/2026/sep/08/david-squires-on-lionel-messi-true-passion-international-football-retirement"
-      },
-      "confirmed_by": [],
-      "id": "david-squires-on-lionel-messi-enjoying-his-true-passion-after-argentina-retirement"
-    },
-    {
       "published_at": "2026-09-12T20:51:37+00:00",
       "updated_at": "2026-09-12T20:51:37+00:00",
       "title": "Oro inför landslagstruppen - Mattias Svanberg utgick skadad",
@@ -1101,7 +1109,7 @@
     {
       "published_at": "2026-09-13T17:41:54+00:00",
       "updated_at": "2026-09-13T17:41:54+00:00",
-      "title": "Sassuolo vs. Juventus: Serie A official Week 4 line-ups",
+      "title": "Serie A official line-ups: Sassuolo vs. Juventus",
       "summary": "Read the full report at Football Italia.",
       "category": [
         "Serie A"
@@ -1123,34 +1131,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "sassuolo-vs-juventus-serie-a-official-week-4-line-ups"
-    },
-    {
-      "published_at": "2026-09-12T15:08:36+00:00",
-      "updated_at": "2026-09-12T15:08:36+00:00",
-      "title": "Serie A official line-ups: Lazio vs. Milan",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "serie-a-official-line-ups-lazio-vs-milan"
+      "id": "serie-a-official-line-ups-sassuolo-vs-juventus"
     },
     {
       "published_at": "2026-09-12T14:49:45+00:00",
@@ -1449,33 +1430,6 @@
       },
       "confirmed_by": [],
       "id": "zecira-musovics-besked-inf-r-avg-rande-vm-matcher-b-ttre-n-innan"
-    },
-    {
-      "published_at": "2026-09-13T21:00:00+00:00",
-      "updated_at": "2026-09-13T21:00:00+00:00",
-      "title": "Officials admit error in awarding Man City's winner at Man Utd",
-      "summary": "Pro Ref has admitted an error in awarding Manchester City's winner at Manchester United in their 1-0 victory at Old Trafford",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/26/09/1600x900/skysports-man-city-var-enzo-fernandez_7350682.jpg?20260913182730",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13585607/erling-haalands-man-city-goal-decision-vs-man-utd-an-error-of-judgement-says-pro-ref"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13585607/erling-haalands-man-city-goal-decision-vs-man-utd-an-error-of-judgement-says-pro-ref"
-      },
-      "confirmed_by": [],
-      "id": "officials-admit-error-in-awarding-man-city-s-winner-at-man-utd"
     },
     {
       "published_at": "2026-09-13T19:46:00+00:00",
@@ -1802,33 +1756,6 @@
       "id": "f-rlust-i-malm-5-punkter-efter-matchen"
     },
     {
-      "published_at": "2026-09-13T10:59:00+00:00",
-      "updated_at": "2026-09-13T10:59:00+00:00",
-      "title": "Elversberg 1-2 Bayern (13 Sep, 2026) Game Analysis - ESPN (UK)",
-      "summary": "Read the full report at ESPN.",
-      "category": [
-        "Bundesliga"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "bayern-munich",
-      "image": "",
-      "sources": [
-        {
-          "name": "ESPN",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "ESPN",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "elversberg-1-2-bayern-13-sep-2026-game-analysis-espn-uk"
-    },
-    {
       "published_at": "2026-09-13T18:13:11+00:00",
       "updated_at": "2026-09-13T18:13:11+00:00",
       "title": "Juventus make unfortunate history by failing to start a single Italian outfield player",
@@ -1937,31 +1864,31 @@
       "id": "serie-a-lecce-3-2-monza-salentini-continue-super-start"
     },
     {
-      "published_at": "2026-09-13T20:37:00+00:00",
-      "updated_at": "2026-09-13T20:37:00+00:00",
-      "title": "Kane hits landmark goal in Bayern win as Barca maintain perfect start",
-      "summary": "Latest updates from La Liga, Serie A, Bundesliga and Ligue 1",
+      "published_at": "2026-09-12T21:52:28+00:00",
+      "updated_at": "2026-09-12T21:52:28+00:00",
+      "title": "Serie A had zero penalties or VAR reviews for first 31 games",
+      "summary": "Read the full report at Football Italia.",
       "category": [
-        "Bundesliga"
+        "Serie A"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "bayern-munich",
-      "image": "https://e0.365dm.com/26/09/1600x900/skysports-harry-kane-bayern-munich_7350866.jpg?20260913204044",
+      "club": "",
+      "image": "",
       "sources": [
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "kane-hits-landmark-goal-in-bayern-win-as-barca-maintain-perfect-start"
+      "id": "serie-a-had-zero-penalties-or-var-reviews-for-first-31-games"
     },
     {
       "published_at": "2026-09-13T17:03:00+00:00",
@@ -1989,6 +1916,33 @@
       },
       "confirmed_by": [],
       "id": "brighton-latest-verbruggen-says-dunk-stunner-already-club-s-goal-of-season"
+    },
+    {
+      "published_at": "2026-09-11T22:42:00+00:00",
+      "updated_at": "2026-09-11T22:42:00+00:00",
+      "title": "Arsenal latest: Is Raya the world's best goalkeeper?",
+      "summary": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "arsenal-latest-is-raya-the-world-s-best-goalkeeper"
     }
   ]
 }
