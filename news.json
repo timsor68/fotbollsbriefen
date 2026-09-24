@@ -1,6 +1,50 @@
 {
-  "updated_at": "2026-09-24T18:16:27.421249+00:00",
+  "updated_at": "2026-09-24T22:02:40.236907+00:00",
   "items": [
+    {
+      "published_at": "2026-09-23T07:00:26+00:00",
+      "updated_at": "2026-09-23T07:00:26+00:00",
+      "title": "Germany's saviour? How Klopp is looking to turn fortunes around",
+      "summary": "Jürgen Klopp and Xavi Hernández face each other in Nations League as they take the reins following disappointing World Cups Before the latest instalment of a time-honoured international rivalry gearing up for two distinct new beginnings, Jürgen Klopp could not resist sprinkling a little of the old mischief. “The good thing is that we both have the exact same situation,” he said of Xavi Hernández, his counterpart when Germany visit the Netherlands on Thursday night. “We met on Monday and play on Thursday.",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "jurgen-klopp",
+      "entity_type": "coaches",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/285c/live/54c7e830-b667-11f1-bc1f-3f186ca4140c.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmx2z3n88z77o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/netherlands-vs-germany/report/553985"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/24/netherlands-germany-nations-league-match-report"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmx2z3n88z77o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/netherlands-vs-germany/report/553985"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/24/netherlands-germany-nations-league-match-report"
+        }
+      ],
+      "id": "germany-s-saviour-how-klopp-is-looking-to-turn-fortunes-around"
+    },
     {
       "published_at": "2026-09-22T16:09:43+00:00",
       "updated_at": "2026-09-22T16:09:43+00:00",
@@ -90,76 +134,32 @@
       "id": "eriksen-leaves-wolfsburg-by-mutual-consent"
     },
     {
-      "published_at": "2026-09-23T07:00:26+00:00",
-      "updated_at": "2026-09-23T07:00:26+00:00",
-      "title": "Germany's saviour? How Klopp is looking to turn fortunes around",
-      "summary": "As Jurgen Klopp prepares for his first game as Germany manager, BBC Sport looks at how is trying to turn their fortunes around",
+      "published_at": "2026-09-24T21:40:37+00:00",
+      "updated_at": "2026-09-24T21:40:37+00:00",
+      "title": "Barcelona's Deco denies interest in Man Utd's Gabriel",
+      "summary": "Barcelona sporting director Deco says the club is not interested in Manchester United teenager JJ Gabriel",
       "category": [
-        "Football"
+        "La Liga",
+        "Serie A"
       ],
-      "status": "Confirmed by multiple sources",
-      "entity": "jurgen-klopp",
-      "entity_type": "coaches",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/285c/live/54c7e830-b667-11f1-bc1f-3f186ca4140c.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmx2z3n88z77o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmx2z3n88z77o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "id": "germany-s-saviour-how-klopp-is-looking-to-turn-fortunes-around"
-    },
-    {
-      "published_at": "2026-09-23T06:51:04+00:00",
-      "updated_at": "2026-09-23T06:51:04+00:00",
-      "title": "MLS coach sacked after sexist remark to female referee",
-      "summary": "MLS club Columbus Crew sack their reserve team coach after he refused to let go of a female referee's hand and says \"don't forget this is a man's game\"",
-      "category": [
-        "Coach"
-      ],
-      "status": "Confirmed by multiple sources",
+      "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6c53/live/d6c56b80-b713-11f1-b1d1-571ed4d7ff2c.jpg",
+      "club": "manchester-united",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/73d2/live/3bc7fc20-b85c-11f1-a8b8-8b929801ec51.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6lyr9z9gxwko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Athletic",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSXhRMkxTeFJOVExfSFlBbnlxamZjaDRqVGRxdEY2ek9OTF82MTNKMGJoSjVEZmVtWjM2bkFKOXFRNEF2R09NektYa2VMSGN2Si16dW1NZEdkQXN0dUljaXJoYUF0aTNlZ1p2VHRRV0pPdHUyMURSQ3pHbVRWLTJrNlc3UGZucjFUYjExMzV1UXI3TnRZeFY3ZFBYS3VjZHIzcmc?oc=5"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqrl67e2eye4o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6lyr9z9gxwko?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqrl67e2eye4o?at_medium=RSS&at_campaign=rss"
       },
-      "confirmed_by": [
-        {
-          "name": "The Athletic",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSXhRMkxTeFJOVExfSFlBbnlxamZjaDRqVGRxdEY2ek9OTF82MTNKMGJoSjVEZmVtWjM2bkFKOXFRNEF2R09NektYa2VMSGN2Si16dW1NZEdkQXN0dUljaXJoYUF0aTNlZ1p2VHRRV0pPdHUyMURSQ3pHbVRWLTJrNlc3UGZucjFUYjExMzV1UXI3TnRZeFY3ZFBYS3VjZHIzcmc?oc=5"
-        }
-      ],
-      "id": "mls-coach-sacked-after-sexist-remark-to-female-referee"
+      "confirmed_by": [],
+      "id": "barcelona-s-deco-denies-interest-in-man-utd-s-gabriel"
     },
     {
       "published_at": "2026-09-24T17:52:44+00:00",
@@ -298,33 +298,6 @@
       "id": "charles-taking-record-breaking-price-tag-in-his-stride"
     },
     {
-      "published_at": "2026-09-23T16:26:38+00:00",
-      "updated_at": "2026-09-23T16:26:38+00:00",
-      "title": "Ronaldo spurred on by 1,000-goal target and Portugal glory",
-      "summary": "Cristiano Ronaldo contemplated retirement after the World Cup but wants to reach 1,000 career goals and help a new-look Portugal thrive before hanging up his boots",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9a59/live/5d7b8060-b769-11f1-a7b2-f3bdba1cd194.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ck4glyl0nwd6o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ck4glyl0nwd6o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "ronaldo-spurred-on-by-1-000-goal-target-and-portugal-glory"
-    },
-    {
       "published_at": "2026-09-23T15:37:40+00:00",
       "updated_at": "2026-09-23T15:37:40+00:00",
       "title": "FA charges Cardiff's Bielik as police end inquiry",
@@ -350,6 +323,60 @@
       },
       "confirmed_by": [],
       "id": "fa-charges-cardiff-s-bielik-as-police-end-inquiry"
+    },
+    {
+      "published_at": "2026-09-23T06:51:04+00:00",
+      "updated_at": "2026-09-23T06:51:04+00:00",
+      "title": "MLS coach sacked after sexist remark to female referee",
+      "summary": "MLS club Columbus Crew sack their reserve team coach after he refused to let go of a female referee's hand and says \"don't forget this is a man's game\"",
+      "category": [
+        "Coach"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6c53/live/d6c56b80-b713-11f1-b1d1-571ed4d7ff2c.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6lyr9z9gxwko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6lyr9z9gxwko?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "mls-coach-sacked-after-sexist-remark-to-female-referee"
+    },
+    {
+      "published_at": "2026-09-24T20:49:03+00:00",
+      "updated_at": "2026-09-24T20:49:03+00:00",
+      "title": "Tyskland tappade segern och Kai Havertz skadades",
+      "summary": "Tyskland var på väg mot seger i stormötet mot Nederländerna trots att man fått se anfallaren Kai Havertz linka av med skada. Men då svarade Nederländerna för ett superanfall på stopptid. En yttersida, inte av denna världen, till Cody Gakpo som volleysköt in 1-1 i 92:a minuten",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.37/0.68/1cb494ce44d37eeea0bce08832950466d4ad3a6283cbf00eb04ec6bcded70cda",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/tyskland-tappade-seger-och-kai-havertz-skadades"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/tyskland-tappade-seger-och-kai-havertz-skadades"
+      },
+      "confirmed_by": [],
+      "id": "tyskland-tappade-segern-och-kai-havertz-skadades"
     },
     {
       "published_at": "2026-09-23T12:01:51+00:00",
@@ -379,10 +406,10 @@
       "id": "lucas-bergvall-om-f-rl-ngningen-mycket-spekulationer"
     },
     {
-      "published_at": "2026-09-24T05:00:09+00:00",
-      "updated_at": "2026-09-24T05:00:09+00:00",
+      "published_at": "2026-09-24T21:30:08+00:00",
+      "updated_at": "2026-09-24T21:30:08+00:00",
       "title": "‘It’s not in us’: Anthony Gordon backs Tuchel over England’s possession problem",
-      "summary": "Barcelona winger says England cannot play like Spain Gordon: players ‘could have done more’ in semi-final Anthony Gordon has sided with Thomas Tuchel’s assertion that controlling games through possession is not part of English football’s DNA. Although Gordon revealed surprise at being substituted when England were 1-0 up in their World Cup semi-final against Argentina , the winger refused to blame the defeat on Tuchel’s decisions and argued that wider cultural issues influenced the side’s collapse. England’s perennial struggle to keep the ball when under pressure flared when a place in the final was within touching distance in July, allowing Argentina to fight back and go through with two late goals.",
+      "summary": "Barcelona winger says England cannot play like Spain Gordon: ‘The Mexico game set us up a bit’ Anthony Gordon has sided with Thomas Tuchel’s assertion that controlling games through possession is not part of English football’s DNA. Although Gordon revealed surprise at being substituted when England were 1-0 up in their World Cup semi-final against Argentina , the winger refused to blame the defeat on Tuchel’s decisions and argued that wider cultural issues influenced the side’s collapse. England’s perennial struggle to keep the ball when under pressure flared when a place in the final was within touching distance in July, allowing Argentina to fight back and go through with two late goals.",
       "category": [
         "Football"
       ],
@@ -415,10 +442,10 @@
       "id": "it-s-not-in-us-anthony-gordon-backs-tuchel-over-england-s-possession-problem"
     },
     {
-      "published_at": "2026-09-23T16:02:57+00:00",
-      "updated_at": "2026-09-23T16:02:57+00:00",
-      "title": "Cristiano Ronaldo vows to play on for Portugal and targets 1,000 career goals",
-      "summary": "Player reflects on critics, says ‘they’ve tried to kill me’ Jorge Jesus launches passionate defence of 41-year-old Cristiano Ronaldo said he considered quitting international football after the World Cup, but confirmed he plans to play on for Portugal and hopes to reach 1,000 goals for club and country. Ronaldo, who is 21 goals shy of the milestone, accepted some critics are trying to “kill” him but is determined to carry on. Ronaldo, who has won 233 caps for his country, captained Portugal in the summer at the World Cup, where they exited to Spain in the last 16.",
+      "published_at": "2026-09-24T20:55:15+00:00",
+      "updated_at": "2026-09-24T20:55:15+00:00",
+      "title": "João Félix strike for Portugal enough to sink Wales but Ronaldo fever falls flat",
+      "summary": "There was a comic-strip feel to another eventful evening in the world of Cristiano Ronaldo. It was the 67th minute when his No 7 went up on the fourth official’s board, prompting Ronaldo to remove the captain’s armband from his left bicep before departing to a universal ovation, but for the pocket of Wales supporters. The referee, Donatas Rumsas, hurried him off the pitch but Ronaldo, his hair glazed copper, was presumably ruminating on a series of missed chances, a sitter from a few yards at the start of the second half, and a disallowed goal.",
       "category": [
         "Football"
       ],
@@ -426,33 +453,33 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/09/1600x900/skysports-football-cristiano-ronaldo_7359717.jpg?20260923183938",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-cristiano-ronaldo_7360664.jpg?20260924205357",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13591141/cristiano-ronaldo-portugal-legend-considered-international-retirement-after-2026-world-cup-but-is-still-targeting-1000-goals"
+          "url": "https://www.skysports.com/football/portugal-vs-wales/report/553987"
         },
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/23/cristiano-ronaldo-portugal-wales-nations-league"
+          "url": "https://www.theguardian.com/football/2026/sep/24/portugal-wales-nations-league-match-report"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13591141/cristiano-ronaldo-portugal-legend-considered-international-retirement-after-2026-world-cup-but-is-still-targeting-1000-goals"
+        "url": "https://www.skysports.com/football/portugal-vs-wales/report/553987"
       },
       "confirmed_by": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/23/cristiano-ronaldo-portugal-wales-nations-league"
+          "url": "https://www.theguardian.com/football/2026/sep/24/portugal-wales-nations-league-match-report"
         }
       ],
-      "id": "cristiano-ronaldo-vows-to-play-on-for-portugal-and-targets-1-000-career-goals"
+      "id": "jo-o-f-lix-strike-for-portugal-enough-to-sink-wales-but-ronaldo-fever-falls-flat"
     },
     {
-      "published_at": "2026-09-24T16:35:41+00:00",
-      "updated_at": "2026-09-24T16:35:41+00:00",
+      "published_at": "2026-09-24T19:36:51+00:00",
+      "updated_at": "2026-09-24T19:36:51+00:00",
       "title": "Roberto Mancini returns as Italy head coach but can the Azzurri recover from lowest ebb with a youth-inspired revolution?",
       "summary": "Read the full report at Sky Sports.",
       "category": [
@@ -539,6 +566,60 @@
         }
       ],
       "id": "monaco-go-top-of-ligue-1-as-woes-continue-for-lens"
+    },
+    {
+      "published_at": "2026-09-24T20:42:00+00:00",
+      "updated_at": "2026-09-24T20:42:00+00:00",
+      "title": "Havertz skadad när Tyskland och Nederländerna kryssade",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "havertz-skadad-n-r-tyskland-och-nederl-nderna-kryssade"
+    },
+    {
+      "published_at": "2026-09-24T14:03:00+00:00",
+      "updated_at": "2026-09-24T14:03:00+00:00",
+      "title": "Anton Fagerström förlänger med Västerås SK",
+      "summary": "Anton Fagerström förlänger med Västerås SK Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "anton-fagerstr-m-f-rl-nger-med-v-ster-s-sk"
     },
     {
       "published_at": "2026-09-24T09:45:46+00:00",
@@ -760,6 +841,33 @@
       "id": "raphinha-in-my-head-i-was-leaving-bar-a-but-a-few-small-words-can-change-you"
     },
     {
+      "published_at": "2026-09-23T16:02:57+00:00",
+      "updated_at": "2026-09-23T16:02:57+00:00",
+      "title": "Cristiano Ronaldo vows to play on for Portugal and targets 1,000 career goals",
+      "summary": "Player reflects on critics, says ‘they’ve tried to kill me’ Jorge Jesus launches passionate defence of 41-year-old Cristiano Ronaldo said he considered quitting international football after the World Cup, but confirmed he plans to play on for Portugal and hopes to reach 1,000 goals for club and country. Ronaldo, who is 21 goals shy of the milestone, accepted some critics are trying to “kill” him but is determined to carry on. Ronaldo, who has won 233 caps for his country, captained Portugal in the summer at the World Cup, where they exited to Spain in the last 16.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/f7a24d077b3d9dafb19fda2dae20b3e5aeef330d/285_0_2270_1816/master/2270.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=853caf3c037db3c0a7768d2601747eab",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/23/cristiano-ronaldo-portugal-wales-nations-league"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/sep/23/cristiano-ronaldo-portugal-wales-nations-league"
+      },
+      "confirmed_by": [],
+      "id": "cristiano-ronaldo-vows-to-play-on-for-portugal-and-targets-1-000-career-goals"
+    },
+    {
       "published_at": "2026-09-23T13:33:48+00:00",
       "updated_at": "2026-09-23T13:33:48+00:00",
       "title": "Florian Wirtz does not look like a £116m player but it’s too early to write him off",
@@ -976,34 +1084,6 @@
       "id": "manchester-united-s-engine-room-runs-out-of-steam-as-fans-voice-frustration-jacob-steinber"
     },
     {
-      "published_at": "2026-09-19T19:00:54+00:00",
-      "updated_at": "2026-09-19T19:00:54+00:00",
-      "title": "Zidane’s next move as France coach may reveal the wizard behind the curtain | Jonathan Wilson",
-      "summary": "It is apt that the most perplexing football country will now be guided by the most enigmatic of leaders Even in his playing days, Zinedine Zidane seemed unknowable. As a manager, the sense of distance has only grown. He won three Champions Leagues with Real Madrid without ever giving a sense of what his idea of football looked like.",
-      "category": [
-        "Transfer",
-        "Coach"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/63d2da809e8d918a022420ce05c81bc2fa40b9ae/462_0_4615_3692/master/4615.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=805f30a8f99b0a16ad8ef503ff427bdb",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/19/zinedine-zidane-france-coach-wizard-behind-curtain"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/sep/19/zinedine-zidane-france-coach-wizard-behind-curtain"
-      },
-      "confirmed_by": [],
-      "id": "zidane-s-next-move-as-france-coach-may-reveal-the-wizard-behind-the-curtain-jonathan-wilso"
-    },
-    {
       "published_at": "2026-09-21T18:11:00+00:00",
       "updated_at": "2026-09-21T18:11:00+00:00",
       "title": "HBK fällde Goliat – trotsade alla odds mot Europajagande AIK",
@@ -1085,88 +1165,6 @@
       "id": "m-ll-st-mellan-helsingborg-och-norrby"
     },
     {
-      "published_at": "2026-09-22T13:43:38+00:00",
-      "updated_at": "2026-09-22T13:43:38+00:00",
-      "title": "Official: Juventus handed €10,000 fine for failure to observe Mazzola tribute",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "official-juventus-handed-10-000-fine-for-failure-to-observe-mazzola-tribute"
-    },
-    {
-      "published_at": "2026-09-22T08:42:36+00:00",
-      "updated_at": "2026-09-22T08:42:36+00:00",
-      "title": "Totti names the two Serie A clubs that wanted to sign him after retirement",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "totti-names-the-two-serie-a-clubs-that-wanted-to-sign-him-after-retirement"
-    },
-    {
-      "published_at": "2026-09-21T09:44:56+00:00",
-      "updated_at": "2026-09-21T09:44:56+00:00",
-      "title": "Frosinone’s win over Como seen as ‘good sign for Italian football’",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "frosinone-s-win-over-como-seen-as-good-sign-for-italian-football"
-    },
-    {
       "published_at": "2026-09-21T05:35:00+00:00",
       "updated_at": "2026-09-21T05:35:00+00:00",
       "title": "Crisis looming for Marseille after five successive losses",
@@ -1194,41 +1192,31 @@
       "id": "crisis-looming-for-marseille-after-five-successive-losses"
     },
     {
-      "published_at": "2026-09-23T19:53:47+00:00",
-      "updated_at": "2026-09-23T19:53:47+00:00",
-      "title": "Det blev Amorim-notan i Manchester United",
-      "summary": "Det blev Amorim-notan i Manchester United Fotbollskanalen",
+      "published_at": "2026-09-19T21:19:46+00:00",
+      "updated_at": "2026-09-19T21:19:46+00:00",
+      "title": "Lyon thrash Rennes 4-0 after delay due to offensive banner",
+      "summary": "Read the full report at Reuters.",
       "category": [
-        "Sverige",
-        "Premier League"
+        "Ligue 1"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
-      "club": "manchester-united",
+      "club": "",
       "image": "",
       "sources": [
         {
-          "name": "Fotbollskanalen",
+          "name": "Reuters",
           "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "Football Italia",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQllmTVRGUVF6dzRuWXI3a3FZYzlwM0lpYVFEZTN0ald1UVpyeFcwcUJjZjhzVG4tWnpPZzk2QVJDY0JnSU5UV3VvZ1E4Z01sZmpoT3QyTE1UZVVsalZyM2N6aE82NTg5UF9acjRLVi1QdU9KTzRpT0VzY2R0M2ZzcNIBhgFBVV95cUxOSlpYcFcydFJBTmt6VDJpcUhVOUlvM0JQZjBKMnNSYkRDaUhrVkRXZ2hwT1F3MlZBa21yVFhxM291QVNjbV9zT1RlMEd6ai1DTjlJdGoyYk1LbVUtT1hLNWtHNWk3Zmg5c1BQOHN5TnpKQ1NXM24xNzdyaVZReFBnQTc2Q3VxZw?oc=5"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
+        "name": "Reuters",
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
-      "confirmed_by": [
-        {
-          "name": "Football Italia",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQllmTVRGUVF6dzRuWXI3a3FZYzlwM0lpYVFEZTN0ald1UVpyeFcwcUJjZjhzVG4tWnpPZzk2QVJDY0JnSU5UV3VvZ1E4Z01sZmpoT3QyTE1UZVVsalZyM2N6aE82NTg5UF9acjRLVi1QdU9KTzRpT0VzY2R0M2ZzcNIBhgFBVV95cUxOSlpYcFcydFJBTmt6VDJpcUhVOUlvM0JQZjBKMnNSYkRDaUhrVkRXZ2hwT1F3MlZBa21yVFhxM291QVNjbV9zT1RlMEd6ai1DTjlJdGoyYk1LbVUtT1hLNWtHNWk3Zmg5c1BQOHN5TnpKQ1NXM24xNzdyaVZReFBnQTc2Q3VxZw?oc=5"
-        }
-      ],
-      "id": "det-blev-amorim-notan-i-manchester-united"
+      "confirmed_by": [],
+      "id": "lyon-thrash-rennes-4-0-after-delay-due-to-offensive-banner"
     },
     {
       "published_at": "2026-09-22T05:49:00+00:00",
@@ -1267,40 +1255,58 @@
       "id": "uppgifter-svanberg-borta-i-minst-sex-veckor"
     },
     {
-      "published_at": "2026-09-21T14:18:00+00:00",
-      "updated_at": "2026-09-21T14:18:00+00:00",
-      "title": "Potters besked: Lagerbielke lär missa Rumänien-matchen",
-      "summary": "Sverige laddar för fyra Nations League-matcher. På måndagens presskonferens gav förbundskapten Graham Potter besked om flera aktuella spelare - däribland Gustaf Lagerbielke, Hugo Larsson och Felix Beijmo",
+      "published_at": "2026-09-24T20:43:54+00:00",
+      "updated_at": "2026-09-24T20:43:54+00:00",
+      "title": "Här blir israelen utvisad i Nations League efter gesten med hörnflaggan",
+      "summary": "Sayed Abu Farkhi, 20, kvitterade mot Österrike. Sedan blev israelen utvisad efter en målgest med hjälp av hörnflaggan. ”Onödigt och provocerande”, skriver österrikiska ORF",
       "category": [
         "Sverige"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.73/0.38/2df2f36083192b5dd13b64b5885c1d7399f545e4dbcf48b3d49e7799cb24f213",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/graham-potter-bekraftar-gustaf-lagerbielke-missar-matchen-mot-rumanien-701080"
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/israelen-blir-utvisad-i-nations-league-efter-malgest"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/israelen-blir-utvisad-i-nations-league-efter-malgest"
       },
-      "confirmed_by": [
+      "confirmed_by": [],
+      "id": "h-r-blir-israelen-utvisad-i-nations-league-efter-gesten-med-h-rnflaggan"
+    },
+    {
+      "published_at": "2026-09-24T20:40:02+00:00",
+      "updated_at": "2026-09-24T20:40:02+00:00",
+      "title": "Erling Haaland förbi Zlatan – när Norge sänkte Danmark",
+      "summary": "Det blev en svängig match mellan Norge och Danmark. Erling Haaland gjorde två mål i norrmännens 3–2-seger – och passerade därmed Zlatan Ibrahimovic i flest antal landslagsmål. – Det är skönt att slå våra grannar, säger Martin Ödegaard till TV2",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "erling-haaland",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.53/0.34/a0b135cf771cef505ac71024ef0c55025e25ad1732bd62b045b16db0decb59b8",
+      "sources": [
         {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/graham-potter-bekraftar-gustaf-lagerbielke-missar-matchen-mot-rumanien-701080"
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/erling-haaland-forbi-zlatan-nar-norge-sankte-danmark"
         }
       ],
-      "id": "potters-besked-lagerbielke-l-r-missa-rum-nien-matchen"
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/erling-haaland-forbi-zlatan-nar-norge-sankte-danmark"
+      },
+      "confirmed_by": [],
+      "id": "erling-haaland-f-rbi-zlatan-n-r-norge-s-nkte-danmark"
     },
     {
       "published_at": "2026-09-24T15:05:02+00:00",
@@ -1465,175 +1471,31 @@
       "id": "hammarby-n-ra-europa-cup-fanny-peterson-m-lskytt"
     },
     {
-      "published_at": "2026-09-23T18:35:38+00:00",
-      "updated_at": "2026-09-23T18:35:38+00:00",
-      "title": "Malmö FF slog St. Pölten i Europa Cup-kvalet efter succébyte",
-      "summary": "Malmö FF är ett steg närmare Europa Cup. Pölten efter knappt tre minuter på planen. – Det är sådana här ögonblick du lever för som fotbollsspelare, säger hon till SVT Sport",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.62/0.35/6c15df9cdc3edd4f1446d85e88f696f20e15dfbbdd16cfe97b019782b102f6d8",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/malmo-ff-slog-st-polten-i-europa-cup-kvalet-efter-succebyte"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/malmo-ff-slog-st-polten-i-europa-cup-kvalet-efter-succebyte"
-      },
-      "confirmed_by": [],
-      "id": "malm-ff-slog-st-p-lten-i-europa-cup-kvalet-efter-succ-byte"
-    },
-    {
-      "published_at": "2026-09-23T15:47:23+00:00",
-      "updated_at": "2026-09-23T15:47:23+00:00",
-      "title": "Solbakkens markering mot danska reportrarna: ”Sorgligt”",
-      "summary": "Den danska presskåren vill putta över favoritskapet på Norge inför den stundande Nations League-drabbningen. – Här sitter ni och dyrkar laget ni har krossat årtionde efter årtionde, säger den norska förbundskaptenen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.4/0e9967b371e14edd5299afe59b9559ddda65b8ed4b17297630303492c99a24c8",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/solbakkens-markering-mot-danska-reportrarna-sorgligt"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/solbakkens-markering-mot-danska-reportrarna-sorgligt"
-      },
-      "confirmed_by": [],
-      "id": "solbakkens-markering-mot-danska-reportrarna-sorgligt"
-    },
-    {
-      "published_at": "2026-09-23T15:01:12+00:00",
-      "updated_at": "2026-09-23T15:01:12+00:00",
-      "title": "Hugo Larssons hektiska dygn: ”Pang-bom”",
-      "summary": "Hugo Larsson, 22, har en ny klubbadress. I somras bytte han Bundesliga mot Premier League.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.53/0.5/5b25fadbdd3ea082165375e96d243e9e3a6a5a4ec9cbe5b79b6ac39341478261",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/hugo-larssons-hektiska-dygn-pang-bom"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/hugo-larssons-hektiska-dygn-pang-bom"
-      },
-      "confirmed_by": [],
-      "id": "hugo-larssons-hektiska-dygn-pang-bom"
-    },
-    {
-      "published_at": "2026-09-22T17:36:05+00:00",
-      "updated_at": "2026-09-22T17:36:05+00:00",
-      "title": "Jude Bellingham, Cristian Romero and a Spanish swearing lesson in the Madrid derby",
-      "summary": "Read the full report at The Athletic.",
+      "published_at": "2026-09-24T20:44:00+00:00",
+      "updated_at": "2026-09-24T20:44:00+00:00",
+      "title": "Sunderland latest: Brobbey taken off injured during Netherlands game",
+      "summary": "Sunderland transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
         "Football"
       ],
-      "status": "Highly credible",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "jude-bellingham-cristian-romero-and-a-spanish-swearing-lesson-in-the-madrid-derby"
-    },
-    {
-      "published_at": "2026-09-18T12:00:27+00:00",
-      "updated_at": "2026-09-18T12:00:27+00:00",
-      "title": "By way of Iceland and a Bundesliga newcomer, Cole Campbell earns his first USMNT call",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "Bundesliga"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "by-way-of-iceland-and-a-bundesliga-newcomer-cole-campbell-earns-his-first-usmnt-call"
-    },
-    {
-      "published_at": "2026-09-24T18:00:00+00:00",
-      "updated_at": "2026-09-24T18:00:00+00:00",
-      "title": "Netherlands v Germany, Portugal v Wales and more: Uefa Nations League – live",
-      "summary": "⚽ Updates across Thursday night’s Nations League games ⚽ Get in touch: email Daniel and follow us on BlueSky Righto, let’s have some teams… Before we get into it, also going on: Continue reading",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-brian-brobbey-netherlands_7360656.jpg?20260924204243",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/portugal-vs-wales/live/553987"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/sep/24/netherlands-v-germany-portugal-v-wales-and-more-uefa-nations-league-live"
+          "url": "https://www.skysports.com/football/live-blog/11095/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/portugal-vs-wales/live/553987"
+        "url": "https://www.skysports.com/football/live-blog/11095/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/sep/24/netherlands-v-germany-portugal-v-wales-and-more-uefa-nations-league-live"
-        }
-      ],
-      "id": "netherlands-v-germany-portugal-v-wales-and-more-uefa-nations-league-live"
+      "confirmed_by": [],
+      "id": "sunderland-latest-brobbey-taken-off-injured-during-netherlands-game"
     },
     {
       "published_at": "2026-09-24T13:39:00+00:00",
@@ -1661,6 +1523,33 @@
       },
       "confirmed_by": [],
       "id": "man-utd-latest-teenager-signed-from-rivals-man-city"
+    },
+    {
+      "published_at": "2026-09-24T22:00:00+00:00",
+      "updated_at": "2026-09-24T22:00:00+00:00",
+      "title": "Republic of Ireland slip to deserved defeat in Kosovo",
+      "summary": "The Republic of Ireland slipped to a 1-0 defeat away to Kosovo in their Nations League opener in Pristina",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-football-dara-o-shea_7360714.jpg?20260924222008",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/kosovo-vs-republic-of-ireland/report/553983"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/kosovo-vs-republic-of-ireland/report/553983"
+      },
+      "confirmed_by": [],
+      "id": "republic-of-ireland-slip-to-deserved-defeat-in-kosovo"
     },
     {
       "published_at": "2026-09-24T18:00:00+00:00",
@@ -1744,31 +1633,58 @@
       "id": "utter-nonsense-van-dijk-slams-reporter-in-viral-exchange"
     },
     {
-      "published_at": "2026-09-23T08:00:00+00:00",
-      "updated_at": "2026-09-23T08:00:00+00:00",
-      "title": "The Italian Job gets a sequel! Can Mancini inspire a new generation?",
-      "summary": "This year, Italian football fell to its lowest ebb. In Europe, no Italian club made it past the quarter-finals - while Atalanta were the only Serie A side to reach the Champions League last 16. But that was nothing compared to the national team",
+      "published_at": "2026-09-24T19:00:00+00:00",
+      "updated_at": "2026-09-24T19:00:00+00:00",
+      "title": "Victor Nilsson Lindelöf om Västerås SK: ”Jätteroligt att det går bra”",
+      "summary": "Victor Nilsson Lindelöf har gjort en lång och framgångsrik utlandskarriär. Men landslagskaptenen håller fortfarande koll på Västerås SK - klubben där seniorkarriären tog fart",
       "category": [
-        "Football"
+        "Sverige"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/09/1600x900/skysports-mancini-italy_7358028.jpg?20260921163951",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/Rvqthis7VjpG6WXQP6ucSaRvsqKYSbvBUosKlvmq.jpg",
       "sources": [
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13590474/roberto-mancini-returns-as-italy-head-coach-but-can-the-azzurri-recover-from-lowest-ebb-with-a-youth-inspired-revolution"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/victor-nilsson-lindelof-om-vasteras-sk-jatteroligt-att-det-gar-bra-701172"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13590474/roberto-mancini-returns-as-italy-head-coach-but-can-the-azzurri-recover-from-lowest-ebb-with-a-youth-inspired-revolution"
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/victor-nilsson-lindelof-om-vasteras-sk-jatteroligt-att-det-gar-bra-701172"
       },
       "confirmed_by": [],
-      "id": "the-italian-job-gets-a-sequel-can-mancini-inspire-a-new-generation"
+      "id": "victor-nilsson-lindel-f-om-v-ster-s-sk-j-tteroligt-att-det-g-r-bra"
+    },
+    {
+      "published_at": "2026-09-24T18:53:00+00:00",
+      "updated_at": "2026-09-24T18:53:00+00:00",
+      "title": "Krönika: Vågar man börja tro på Superettan?",
+      "summary": "Trots att det är sju matcher kvar börjar man få känslan av att det börjar dra ihop sig i Ettan Södra. För några veckor sedan stod Hässleholms IF på sju raka vinster. Efter tuffa matcher, avstängningar och skador har HIF nu endast en vinst på de tre senaste matcherna och gapet ner till tredjeplatsen har minskat.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/KSVhOP9jiQynU3EFovYC5CWztpKEV9D2shyCmida.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/kronika-vagar-man-borja-hoppas-pa-superettan-701176"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/kronika-vagar-man-borja-hoppas-pa-superettan-701176"
+      },
+      "confirmed_by": [],
+      "id": "kr-nika-v-gar-man-b-rja-tro-p-superettan"
     },
     {
       "published_at": "2026-09-24T16:18:23+00:00",
@@ -1905,249 +1821,6 @@
       },
       "confirmed_by": [],
       "id": "reflektioner-och-reseskildring-fr-n-degerfors"
-    },
-    {
-      "published_at": "2026-09-23T10:00:00+00:00",
-      "updated_at": "2026-09-23T10:00:00+00:00",
-      "title": "Sex och jävligt offside - Välbehövlig paus",
-      "summary": "Landslagsuppehåll för Allsvenskan och den här gången känns det inte minsta jobbigt utan tvärtom välbehövligt på flera sätt",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/d9jlJrZQkDHPAu9fe4jMSMrWgDj1EGdUxtxNtyKC.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/sex-och-javligt-offside-valbehovlig-paus-701126"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/sex-och-javligt-offside-valbehovlig-paus-701126"
-      },
-      "confirmed_by": [],
-      "id": "sex-och-j-vligt-offside-v-lbeh-vlig-paus"
-    },
-    {
-      "published_at": "2026-09-22T18:37:14+00:00",
-      "updated_at": "2026-09-22T18:37:14+00:00",
-      "title": "Taha Ali tvingas operera axeln - blir borta länge",
-      "summary": "Taha Ali har lämnat återbud till Sveriges kommande Nations League-matcher. Nu uppges PAOK-yttern behöva operera axeln och väntas bli borta under en längre tid",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/ivi7bvIpU7Ias9ZE9360jjqzXyD4Phn7sanake39.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/taha-ali-tvingas-operera-axeln-blir-borta-lange-701113"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/taha-ali-tvingas-operera-axeln-blir-borta-lange-701113"
-      },
-      "confirmed_by": [],
-      "id": "taha-ali-tvingas-operera-axeln-blir-borta-l-nge"
-    },
-    {
-      "published_at": "2026-09-24T14:30:07+00:00",
-      "updated_at": "2026-09-24T14:30:07+00:00",
-      "title": "Galliani idea if Malago removed as FIGC President over irregularity",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "galliani-idea-if-malago-removed-as-figc-president-over-irregularity"
-    },
-    {
-      "published_at": "2026-09-24T13:55:16+00:00",
-      "updated_at": "2026-09-24T13:55:16+00:00",
-      "title": "Forgotten Italy talent Pellegri eyes Serie A comeback after returning to Torino training",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "forgotten-italy-talent-pellegri-eyes-serie-a-comeback-after-returning-to-torino-training"
-    },
-    {
-      "published_at": "2026-09-23T14:07:08+00:00",
-      "updated_at": "2026-09-23T14:07:08+00:00",
-      "title": "Computer predicts Serie A 2026/27 winners, top 4 and doomed to relegation",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "computer-predicts-serie-a-2026-27-winners-top-4-and-doomed-to-relegation"
-    },
-    {
-      "published_at": "2026-09-23T11:25:00+00:00",
-      "updated_at": "2026-09-23T11:25:00+00:00",
-      "title": "Juventus prepare to ditch scouting algorithms to put more faith in Italians",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "juventus-prepare-to-ditch-scouting-algorithms-to-put-more-faith-in-italians"
-    },
-    {
-      "published_at": "2026-09-22T18:24:10+00:00",
-      "updated_at": "2026-09-22T18:24:10+00:00",
-      "title": "Venezia reach decision on Stroppa future after picking up 0 points from first 5 games",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "venezia-reach-decision-on-stroppa-future-after-picking-up-0-points-from-first-5-games"
-    },
-    {
-      "published_at": "2026-09-22T15:34:05+00:00",
-      "updated_at": "2026-09-22T15:34:05+00:00",
-      "title": "Romano explains why he chose Italy over Switzerland: ‘Ranieri contacted me’",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "romano-explains-why-he-chose-italy-over-switzerland-ranieri-contacted-me"
-    },
-    {
-      "published_at": "2026-09-21T18:32:12+00:00",
-      "updated_at": "2026-09-21T18:32:12+00:00",
-      "title": "Statistics show Serie A referees and VAR letting play flow in 2026/27",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "statistics-show-serie-a-referees-and-var-letting-play-flow-in-2026-27"
     }
   ]
 }
