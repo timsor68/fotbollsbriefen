@@ -1,101 +1,42 @@
 {
-  "updated_at": "2026-09-24T22:02:40.236907+00:00",
+  "updated_at": "2026-09-25T01:11:24.775734+00:00",
   "items": [
     {
-      "published_at": "2026-09-23T07:00:26+00:00",
-      "updated_at": "2026-09-23T07:00:26+00:00",
-      "title": "Germany's saviour? How Klopp is looking to turn fortunes around",
-      "summary": "Jürgen Klopp and Xavi Hernández face each other in Nations League as they take the reins following disappointing World Cups Before the latest instalment of a time-honoured international rivalry gearing up for two distinct new beginnings, Jürgen Klopp could not resist sprinkling a little of the old mischief. “The good thing is that we both have the exact same situation,” he said of Xavi Hernández, his counterpart when Germany visit the Netherlands on Thursday night. “We met on Monday and play on Thursday.",
+      "published_at": "2026-09-24T21:40:37+00:00",
+      "updated_at": "2026-09-24T21:40:37+00:00",
+      "title": "Barcelona's Deco denies interest in Man Utd's Gabriel",
+      "summary": "Barcelona sporting director Deco says the club is not interested in Manchester United teenager JJ Gabriel",
       "category": [
-        "Football"
+        "La Liga",
+        "Serie A"
       ],
       "status": "Confirmed by multiple sources",
-      "entity": "jurgen-klopp",
-      "entity_type": "coaches",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/285c/live/54c7e830-b667-11f1-bc1f-3f186ca4140c.jpg",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/73d2/live/3bc7fc20-b85c-11f1-a8b8-8b929801ec51.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmx2z3n88z77o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqrl67e2eye4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/netherlands-vs-germany/report/553985"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/24/netherlands-germany-nations-league-match-report"
+          "url": "https://www.skysports.com/football/news/11095/13591497/man-utd-transfer-news-barcelona-not-interested-in-wonderkid-jj-gabriel-says-sporting-director-deco-paper-talk"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmx2z3n88z77o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqrl67e2eye4o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/netherlands-vs-germany/report/553985"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/24/netherlands-germany-nations-league-match-report"
+          "url": "https://www.skysports.com/football/news/11095/13591497/man-utd-transfer-news-barcelona-not-interested-in-wonderkid-jj-gabriel-says-sporting-director-deco-paper-talk"
         }
       ],
-      "id": "germany-s-saviour-how-klopp-is-looking-to-turn-fortunes-around"
-    },
-    {
-      "published_at": "2026-09-22T16:09:43+00:00",
-      "updated_at": "2026-09-22T16:09:43+00:00",
-      "title": "Real Madrid call for new LaLiga president following Tebas statements",
-      "summary": "Read the full report at Reuters.",
-      "category": [
-        "La Liga"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "BBC Sport",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXT24zRlRYclduTGdkcnB5bWJ3djhyTVMxVGxUY1N3MEFXX2JCZ3ljd015NVQ0TEhDWFhIUG9QWkEzbm1BOFBKYjduWkZWTDkwNEdfU1I1X29tQ3lJdjlfcFp1UEs5aHVYb2Jz?oc=5"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcjM1UktJREgtMXBlTmpSMHk3aDVjc21xMzZNbFRUOU5MNWxINHpRcGp2aGhkNE9XR1JSall4aDlEVXY5R1lsb01aRXNIdnU3UTlCN1ZzY1h3ckVsSWM4X1ZnQkJJRmpLekpVNmdjZkpkZXduWF8zTm5QVkRTQzZpdDQ4RUZ4Z1VESE5uRlVwUERFaFFwWEY1ZmJFSE1EZmFhcWwtd1hxWDZ3X3JteDVCcjdKMG1RUQ?oc=5"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXRBY0RsTmsybFpKVUEyMjRsZWp5cnJiandIckFsMGtBQkd1Zi1aLWsxVWRidEx6aVJCNTU5dDR6VEZ6RldjdmlXZ29GRUt5NHZkWGhmME92cDhiU3ZWZTU2c3VkNHBfMS1ITjhMMHdrQnlId09ZaXE2Q0JkelhnVEpNTmdiVk9aNzh6eWtPY0ZxS0lXaVdZNmhIbFVJUVdlWndtUG51NlFIYUJEQ1BXa2xwM2tuWDZIanpwZTh0NA?oc=5"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Reuters",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [
-        {
-          "name": "BBC Sport",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXT24zRlRYclduTGdkcnB5bWJ3djhyTVMxVGxUY1N3MEFXX2JCZ3ljd015NVQ0TEhDWFhIUG9QWkEzbm1BOFBKYjduWkZWTDkwNEdfU1I1X29tQ3lJdjlfcFp1UEs5aHVYb2Jz?oc=5"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcjM1UktJREgtMXBlTmpSMHk3aDVjc21xMzZNbFRUOU5MNWxINHpRcGp2aGhkNE9XR1JSall4aDlEVXY5R1lsb01aRXNIdnU3UTlCN1ZzY1h3ckVsSWM4X1ZnQkJJRmpLekpVNmdjZkpkZXduWF8zTm5QVkRTQzZpdDQ4RUZ4Z1VESE5uRlVwUERFaFFwWEY1ZmJFSE1EZmFhcWwtd1hxWDZ3X3JteDVCcjdKMG1RUQ?oc=5"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXRBY0RsTmsybFpKVUEyMjRsZWp5cnJiandIckFsMGtBQkd1Zi1aLWsxVWRidEx6aVJCNTU5dDR6VEZ6RldjdmlXZ29GRUt5NHZkWGhmME92cDhiU3ZWZTU2c3VkNHBfMS1ITjhMMHdrQnlId09ZaXE2Q0JkelhnVEpNTmdiVk9aNzh6eWtPY0ZxS0lXaVdZNmhIbFVJUVdlWndtUG51NlFIYUJEQ1BXa2xwM2tuWDZIanpwZTh0NA?oc=5"
-        }
-      ],
-      "id": "real-madrid-call-for-new-laliga-president-following-tebas-statements"
+      "id": "barcelona-s-deco-denies-interest-in-man-utd-s-gabriel"
     },
     {
       "published_at": "2026-09-23T16:47:34+00:00",
@@ -134,32 +75,158 @@
       "id": "eriksen-leaves-wolfsburg-by-mutual-consent"
     },
     {
-      "published_at": "2026-09-24T21:40:37+00:00",
-      "updated_at": "2026-09-24T21:40:37+00:00",
-      "title": "Barcelona's Deco denies interest in Man Utd's Gabriel",
-      "summary": "Barcelona sporting director Deco says the club is not interested in Manchester United teenager JJ Gabriel",
+      "published_at": "2026-09-23T07:00:26+00:00",
+      "updated_at": "2026-09-23T07:00:26+00:00",
+      "title": "Germany's saviour? How Klopp is looking to turn fortunes around",
+      "summary": "Cody Gakpo hit a stoppage-time volley to earn the Netherlands a 1-1 draw against Germany in their Nations League Group A2 opener on Thursday, denying Jurgen Klopp victory in his first match as Germany boss",
       "category": [
-        "La Liga",
-        "Serie A"
+        "Football"
       ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/73d2/live/3bc7fc20-b85c-11f1-a8b8-8b929801ec51.jpg",
+      "status": "Confirmed by multiple sources",
+      "entity": "jurgen-klopp",
+      "entity_type": "coaches",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/285c/live/54c7e830-b667-11f1-bc1f-3f186ca4140c.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cqrl67e2eye4o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmx2z3n88z77o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/netherlands-vs-germany/report/553985"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cqrl67e2eye4o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmx2z3n88z77o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/netherlands-vs-germany/report/553985"
+        }
+      ],
+      "id": "germany-s-saviour-how-klopp-is-looking-to-turn-fortunes-around"
+    },
+    {
+      "published_at": "2026-09-24T19:40:21+00:00",
+      "updated_at": "2026-09-24T19:40:21+00:00",
+      "title": "Report Serie A, Premier League, LaLiga and Bundesliga to release joint statement against FIFA",
+      "summary": "The Premier League and three of its top European counterparts will on Friday issue a joint call for urgent governance reform at FIFA amid the crisis engulfing its president, Gianni Infantino",
+      "category": [
+        "Premier League",
+        "Serie A",
+        "Bundesliga"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f87e/live/06384860-b665-11f1-b785-7d19738c6de2.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzk1jq35go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13591530/gianni-infantino-premier-league-and-three-other-top-european-leagues-to-demand-fifa-reform"
+        },
+        {
+          "name": "Football Italia",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBdXNXUzVUdGJlR0wzVWhPYWdjc0I5SXlnN0pJcEZXWU5raGpjZGlka1QxRWRzX1dBQUdUZENzS0trREhrOFhwR2RhZ3JzVDBBOWtTYUs3cGlnbXBST2xJQlpUU0NyS1lzaXdBYzVneDlzNVVHbzZ1UUdtNS1VOU3SAYQBQVVfeXFMT1NkdUJSV0FwQ1pCbVNRNUpRT09IQU9ZUTdtYV9fRVZfVHpXc21fR0hZRDJ2MlpwWURJcDY5SmpUeXBpdi1xWHo2aHpESzU0MTFOQVczOWRXWTItb3hFWkllMm40RjhjUy11UHQ5b2RtcFNaeGZlQTNDT0ZvMTlPNlVqR2N6?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzk1jq35go?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13591530/gianni-infantino-premier-league-and-three-other-top-european-leagues-to-demand-fifa-reform"
+        },
+        {
+          "name": "Football Italia",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBdXNXUzVUdGJlR0wzVWhPYWdjc0I5SXlnN0pJcEZXWU5raGpjZGlka1QxRWRzX1dBQUdUZENzS0trREhrOFhwR2RhZ3JzVDBBOWtTYUs3cGlnbXBST2xJQlpUU0NyS1lzaXdBYzVneDlzNVVHbzZ1UUdtNS1VOU3SAYQBQVVfeXFMT1NkdUJSV0FwQ1pCbVNRNUpRT09IQU9ZUTdtYV9fRVZfVHpXc21fR0hZRDJ2MlpwWURJcDY5SmpUeXBpdi1xWHo2aHpESzU0MTFOQVczOWRXWTItb3hFWkllMm40RjhjUy11UHQ5b2RtcFNaeGZlQTNDT0ZvMTlPNlVqR2N6?oc=5"
+        }
+      ],
+      "id": "report-serie-a-premier-league-laliga-and-bundesliga-to-release-joint-statement-against-fif"
+    },
+    {
+      "published_at": "2026-09-22T16:09:43+00:00",
+      "updated_at": "2026-09-22T16:09:43+00:00",
+      "title": "Real Madrid call for new LaLiga president following Tebas statements",
+      "summary": "Read the full report at Reuters.",
+      "category": [
+        "La Liga"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "real-madrid",
+      "image": "",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "BBC Sport",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXT24zRlRYclduTGdkcnB5bWJ3djhyTVMxVGxUY1N3MEFXX2JCZ3ljd015NVQ0TEhDWFhIUG9QWkEzbm1BOFBKYjduWkZWTDkwNEdfU1I1X29tQ3lJdjlfcFp1UEs5aHVYb2Jz?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXRBY0RsTmsybFpKVUEyMjRsZWp5cnJiandIckFsMGtBQkd1Zi1aLWsxVWRidEx6aVJCNTU5dDR6VEZ6RldjdmlXZ29GRUt5NHZkWGhmME92cDhiU3ZWZTU2c3VkNHBfMS1ITjhMMHdrQnlId09ZaXE2Q0JkelhnVEpNTmdiVk9aNzh6eWtPY0ZxS0lXaVdZNmhIbFVJUVdlWndtUG51NlFIYUJEQ1BXa2xwM2tuWDZIanpwZTh0NA?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Reuters",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "BBC Sport",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXT24zRlRYclduTGdkcnB5bWJ3djhyTVMxVGxUY1N3MEFXX2JCZ3ljd015NVQ0TEhDWFhIUG9QWkEzbm1BOFBKYjduWkZWTDkwNEdfU1I1X29tQ3lJdjlfcFp1UEs5aHVYb2Jz?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXRBY0RsTmsybFpKVUEyMjRsZWp5cnJiandIckFsMGtBQkd1Zi1aLWsxVWRidEx6aVJCNTU5dDR6VEZ6RldjdmlXZ29GRUt5NHZkWGhmME92cDhiU3ZWZTU2c3VkNHBfMS1ITjhMMHdrQnlId09ZaXE2Q0JkelhnVEpNTmdiVk9aNzh6eWtPY0ZxS0lXaVdZNmhIbFVJUVdlWndtUG51NlFIYUJEQ1BXa2xwM2tuWDZIanpwZTh0NA?oc=5"
+        }
+      ],
+      "id": "real-madrid-call-for-new-laliga-president-following-tebas-statements"
+    },
+    {
+      "published_at": "2026-09-24T22:09:28+00:00",
+      "updated_at": "2026-09-24T22:09:28+00:00",
+      "title": "Uefa fears impact of Premier League spending on transfer market",
+      "summary": "Uefa believes \"a clear two-speed system\" is emerging in the transfer market due to huge spending by Premier League clubs this summer",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8e31/live/e2c56960-b832-11f1-b4bc-39c67eb36497.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c639merx84jno?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c639merx84jno?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "barcelona-s-deco-denies-interest-in-man-utd-s-gabriel"
+      "id": "uefa-fears-impact-of-premier-league-spending-on-transfer-market"
     },
     {
       "published_at": "2026-09-24T17:52:44+00:00",
@@ -298,60 +365,6 @@
       "id": "charles-taking-record-breaking-price-tag-in-his-stride"
     },
     {
-      "published_at": "2026-09-23T15:37:40+00:00",
-      "updated_at": "2026-09-23T15:37:40+00:00",
-      "title": "FA charges Cardiff's Bielik as police end inquiry",
-      "summary": "The Football Association charges Cardiff City defender Krystian Bielik over an altercation involving Portsmouth fans, but a police investigation has been concluded",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d522/live/ec875980-b761-11f1-8e7f-6f99c81f3136.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmeq8d8g0zq8o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmeq8d8g0zq8o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "fa-charges-cardiff-s-bielik-as-police-end-inquiry"
-    },
-    {
-      "published_at": "2026-09-23T06:51:04+00:00",
-      "updated_at": "2026-09-23T06:51:04+00:00",
-      "title": "MLS coach sacked after sexist remark to female referee",
-      "summary": "MLS club Columbus Crew sack their reserve team coach after he refused to let go of a female referee's hand and says \"don't forget this is a man's game\"",
-      "category": [
-        "Coach"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6c53/live/d6c56b80-b713-11f1-b1d1-571ed4d7ff2c.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6lyr9z9gxwko?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6lyr9z9gxwko?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "mls-coach-sacked-after-sexist-remark-to-female-referee"
-    },
-    {
       "published_at": "2026-09-24T20:49:03+00:00",
       "updated_at": "2026-09-24T20:49:03+00:00",
       "title": "Tyskland tappade segern och Kai Havertz skadades",
@@ -445,7 +458,7 @@
       "published_at": "2026-09-24T20:55:15+00:00",
       "updated_at": "2026-09-24T20:55:15+00:00",
       "title": "João Félix strike for Portugal enough to sink Wales but Ronaldo fever falls flat",
-      "summary": "There was a comic-strip feel to another eventful evening in the world of Cristiano Ronaldo. It was the 67th minute when his No 7 went up on the fourth official’s board, prompting Ronaldo to remove the captain’s armband from his left bicep before departing to a universal ovation, but for the pocket of Wales supporters. The referee, Donatas Rumsas, hurried him off the pitch but Ronaldo, his hair glazed copper, was presumably ruminating on a series of missed chances, a sitter from a few yards at the start of the second half, and a disallowed goal.",
+      "summary": "There was a comic-strip feel to another eventful evening in the kingdom of Cristiano Ronaldo. It was the 67th minute when his No 7 went up on the fourth official’s board, the cue to remove the captain’s armband from his left bicep before departing to a universal ovation, but for the pocket of Wales supporters. The referee, Donatas Rumsas, hurried him off the pitch but Ronaldo, his hair glazed copper, was presumably ruminating on a series of missed chances, a sitter from a few yards at the start of the second half, and his disallowed goal, after skating offside to latch on to a Bruno Fernandes pass.",
       "category": [
         "Football"
       ],
@@ -476,33 +489,6 @@
         }
       ],
       "id": "jo-o-f-lix-strike-for-portugal-enough-to-sink-wales-but-ronaldo-fever-falls-flat"
-    },
-    {
-      "published_at": "2026-09-24T19:36:51+00:00",
-      "updated_at": "2026-09-24T19:36:51+00:00",
-      "title": "Roberto Mancini returns as Italy head coach but can the Azzurri recover from lowest ebb with a youth-inspired revolution?",
-      "summary": "Read the full report at Sky Sports.",
-      "category": [
-        "Coach"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "roberto-mancini-returns-as-italy-head-coach-but-can-the-azzurri-recover-from-lowest-ebb-wi"
     },
     {
       "published_at": "2026-09-24T09:49:00+00:00",
@@ -568,8 +554,8 @@
       "id": "monaco-go-top-of-ligue-1-as-woes-continue-for-lens"
     },
     {
-      "published_at": "2026-09-24T20:42:00+00:00",
-      "updated_at": "2026-09-24T20:42:00+00:00",
+      "published_at": "2026-09-24T21:16:27+00:00",
+      "updated_at": "2026-09-24T21:16:27+00:00",
       "title": "Havertz skadad när Tyskland och Nederländerna kryssade",
       "summary": "Read the full report at Fotbollskanalen.",
       "category": [
@@ -1165,6 +1151,115 @@
       "id": "m-ll-st-mellan-helsingborg-och-norrby"
     },
     {
+      "published_at": "2026-09-22T13:43:38+00:00",
+      "updated_at": "2026-09-22T13:43:38+00:00",
+      "title": "Official: Juventus handed €10,000 fine for failure to observe Mazzola tribute",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "official-juventus-handed-10-000-fine-for-failure-to-observe-mazzola-tribute"
+    },
+    {
+      "published_at": "2026-09-22T10:26:03+00:00",
+      "updated_at": "2026-09-22T10:26:03+00:00",
+      "title": "Stones offers Inter injury update: ‘A slight injury, but I’m already working to get back’",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "stones-offers-inter-injury-update-a-slight-injury-but-i-m-already-working-to-get-back"
+    },
+    {
+      "published_at": "2026-09-22T08:42:36+00:00",
+      "updated_at": "2026-09-22T08:42:36+00:00",
+      "title": "Totti names the two Serie A clubs that wanted to sign him after retirement",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "totti-names-the-two-serie-a-clubs-that-wanted-to-sign-him-after-retirement"
+    },
+    {
+      "published_at": "2026-09-21T09:44:56+00:00",
+      "updated_at": "2026-09-21T09:44:56+00:00",
+      "title": "Frosinone’s win over Como seen as ‘good sign for Italian football’",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "frosinone-s-win-over-como-seen-as-good-sign-for-italian-football"
+    },
+    {
       "published_at": "2026-09-21T05:35:00+00:00",
       "updated_at": "2026-09-21T05:35:00+00:00",
       "title": "Crisis looming for Marseille after five successive losses",
@@ -1471,12 +1566,39 @@
       "id": "hammarby-n-ra-europa-cup-fanny-peterson-m-lskytt"
     },
     {
+      "published_at": "2026-09-18T12:00:27+00:00",
+      "updated_at": "2026-09-18T12:00:27+00:00",
+      "title": "By way of Iceland and a Bundesliga newcomer, Cole Campbell earns his first USMNT call",
+      "summary": "Read the full report at The Athletic.",
+      "category": [
+        "Bundesliga"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "by-way-of-iceland-and-a-bundesliga-newcomer-cole-campbell-earns-his-first-usmnt-call"
+    },
+    {
       "published_at": "2026-09-24T20:44:00+00:00",
       "updated_at": "2026-09-24T20:44:00+00:00",
-      "title": "Sunderland latest: Brobbey taken off injured during Netherlands game",
+      "title": "Sunderland latest: Brobbey taken off injured on international duty",
       "summary": "Sunderland transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
-        "Football"
+        "Serie A"
       ],
       "status": "Reported",
       "entity": "",
@@ -1495,7 +1617,34 @@
         "url": "https://www.skysports.com/football/live-blog/11095/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "sunderland-latest-brobbey-taken-off-injured-during-netherlands-game"
+      "id": "sunderland-latest-brobbey-taken-off-injured-on-international-duty"
+    },
+    {
+      "published_at": "2026-09-24T20:39:00+00:00",
+      "updated_at": "2026-09-24T20:39:00+00:00",
+      "title": "Arsenal latest: Havertz off injured in Germany's game vs Netherlands",
+      "summary": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-kai-havertz-germany_7360653.jpg?20260924203711",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "arsenal-latest-havertz-off-injured-in-germany-s-game-vs-netherlands"
     },
     {
       "published_at": "2026-09-24T13:39:00+00:00",
@@ -1550,87 +1699,6 @@
       },
       "confirmed_by": [],
       "id": "republic-of-ireland-slip-to-deserved-defeat-in-kosovo"
-    },
-    {
-      "published_at": "2026-09-24T18:00:00+00:00",
-      "updated_at": "2026-09-24T18:00:00+00:00",
-      "title": "Premier League in joint call for FIFA reform amid Infantino crisis",
-      "summary": "The Premier League and three of its top European counterparts will on Friday issue a joint call for urgent governance reform at FIFA amid the crisis engulfing its president, Gianni Infantino",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-gianni-infantino_7316467.jpg?20260807222346",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13591530/gianni-infantino-premier-league-and-three-other-top-european-leagues-to-demand-fifa-reform"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13591530/gianni-infantino-premier-league-and-three-other-top-european-leagues-to-demand-fifa-reform"
-      },
-      "confirmed_by": [],
-      "id": "premier-league-in-joint-call-for-fifa-reform-amid-infantino-crisis"
-    },
-    {
-      "published_at": "2026-09-24T11:00:37+00:00",
-      "updated_at": "2026-09-24T11:00:37+00:00",
-      "title": "Can the English goal machine secure the Ballon d'Or? | All of Harry Kane's goals from the 2025/2026 Bundesliga season",
-      "summary": "Read the full report at Sky Sports.",
-      "category": [
-        "Bundesliga"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "can-the-english-goal-machine-secure-the-ballon-d-or-all-of-harry-kane-s-goals-from-the-202"
-    },
-    {
-      "published_at": "2026-09-24T07:49:00+00:00",
-      "updated_at": "2026-09-24T07:49:00+00:00",
-      "title": "'Utter nonsense' - Van Dijk slams reporter in viral exchange",
-      "summary": "Virgil van Dijk hit back at suggestions that he forced former Netherlands boss Ronaldo Koeman into changing his tactics during the World Cup",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/09/1600x900/skysports-virgil-van-dijk_7359999.jpg?20260924081856",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13591280/virgil-van-dijk-liverpool-captain-slams-dutch-reporter-following-claims-he-forced-ronald-koeman-to-change-world-cup-tactics"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13591280/virgil-van-dijk-liverpool-captain-slams-dutch-reporter-following-claims-he-forced-ronald-koeman-to-change-world-cup-tactics"
-      },
-      "confirmed_by": [],
-      "id": "utter-nonsense-van-dijk-slams-reporter-in-viral-exchange"
     },
     {
       "published_at": "2026-09-24T19:00:00+00:00",
@@ -1821,6 +1889,249 @@
       },
       "confirmed_by": [],
       "id": "reflektioner-och-reseskildring-fr-n-degerfors"
+    },
+    {
+      "published_at": "2026-09-24T17:11:46+00:00",
+      "updated_at": "2026-09-24T17:11:46+00:00",
+      "title": "Van Bommel: ‘Always 4-3-3, Belgium and Italy in same situation, Milan hope’",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "van-bommel-always-4-3-3-belgium-and-italy-in-same-situation-milan-hope"
+    },
+    {
+      "published_at": "2026-09-24T14:30:07+00:00",
+      "updated_at": "2026-09-24T14:30:07+00:00",
+      "title": "Galliani idea if Malago removed as FIGC President over irregularity",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "galliani-idea-if-malago-removed-as-figc-president-over-irregularity"
+    },
+    {
+      "published_at": "2026-09-24T13:55:16+00:00",
+      "updated_at": "2026-09-24T13:55:16+00:00",
+      "title": "Forgotten Italy talent Pellegri eyes Serie A comeback after returning to Torino training",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "forgotten-italy-talent-pellegri-eyes-serie-a-comeback-after-returning-to-torino-training"
+    },
+    {
+      "published_at": "2026-09-23T14:07:08+00:00",
+      "updated_at": "2026-09-23T14:07:08+00:00",
+      "title": "Computer predicts Serie A 2026/27 winners, top 4 and doomed to relegation",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "computer-predicts-serie-a-2026-27-winners-top-4-and-doomed-to-relegation"
+    },
+    {
+      "published_at": "2026-09-23T11:25:00+00:00",
+      "updated_at": "2026-09-23T11:25:00+00:00",
+      "title": "Juventus prepare to ditch scouting algorithms to put more faith in Italians",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "juventus-prepare-to-ditch-scouting-algorithms-to-put-more-faith-in-italians"
+    },
+    {
+      "published_at": "2026-09-22T18:24:10+00:00",
+      "updated_at": "2026-09-22T18:24:10+00:00",
+      "title": "Venezia reach decision on Stroppa future after picking up 0 points from first 5 games",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "venezia-reach-decision-on-stroppa-future-after-picking-up-0-points-from-first-5-games"
+    },
+    {
+      "published_at": "2026-09-24T22:02:00+00:00",
+      "updated_at": "2026-09-24T22:02:00+00:00",
+      "title": "Man City latest: Haaland scores twice as Norway win Nations League opener",
+      "summary": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "erling-haaland",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-erling-haaland-norway_7360674.jpg?20260924211141",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "man-city-latest-haaland-scores-twice-as-norway-win-nations-league-opener"
+    },
+    {
+      "published_at": "2026-09-24T21:02:00+00:00",
+      "updated_at": "2026-09-24T21:02:00+00:00",
+      "title": "Newcastle latest: Wissa scores in DR Congo win",
+      "summary": "Newcastle transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-newcastle-news-rumours_7331922.jpg?20260826153948",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "newcastle-latest-wissa-scores-in-dr-congo-win"
+    },
+    {
+      "published_at": "2026-09-24T17:42:00+00:00",
+      "updated_at": "2026-09-24T17:42:00+00:00",
+      "title": "Spurs latest: Bergvall keenly awaiting Kulusevski’s return",
+      "summary": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "spurs-latest-bergvall-keenly-awaiting-kulusevski-s-return"
     }
   ]
 }
