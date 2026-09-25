@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T12:19:00.984458+00:00",
+  "updated_at": "2026-09-25T04:02:14.950626+00:00",
   "leagues": {
     "Premier League": {
       "competition_code": "PL",
@@ -732,7 +732,51 @@
           "away": null
         }
       ],
-      "matches": []
+      "matches": [
+        {
+          "id": "fd-564706",
+          "league": "La Liga",
+          "utc_kickoff": "2026-10-09T19:00:00Z",
+          "matchday": 8,
+          "venue": null,
+          "home": {
+            "id": 84,
+            "name": "Málaga CF",
+            "short_name": "Málaga",
+            "crest": "https://crests.football-data.org/84.png",
+            "position": 20,
+            "points": 3,
+            "played": 7,
+            "form": [],
+            "table_size": 20
+          },
+          "away": {
+            "id": 80,
+            "name": "RCD Espanyol de Barcelona",
+            "short_name": "Espanyol",
+            "crest": "https://crests.football-data.org/80.png",
+            "position": 15,
+            "points": 7,
+            "played": 7,
+            "form": [],
+            "table_size": 20
+          },
+          "h2h": {
+            "matches": 10,
+            "home_wins": 0,
+            "away_wins": 0,
+            "draws": 10
+          },
+          "prediction": {
+            "home_win_pct": 35,
+            "draw_pct": 30,
+            "away_win_pct": 35,
+            "basis": "Formkurva (45%), tabellplacering (35%), inbördes möten (20%) + hemmaplansfördel. Statistisk uppskattning — inget spelråd."
+          },
+          "extra_stats": null,
+          "source": "football-data.org"
+        }
+      ]
     },
     "Serie A": {
       "competition_code": "SA",
@@ -1428,7 +1472,51 @@
           "away": null
         }
       ],
-      "matches": []
+      "matches": [
+        {
+          "id": "fd-565820",
+          "league": "Bundesliga",
+          "utc_kickoff": "2026-10-09T18:30:00Z",
+          "matchday": 5,
+          "venue": null,
+          "home": {
+            "id": 4,
+            "name": "Borussia Dortmund",
+            "short_name": "Dortmund",
+            "crest": "https://crests.football-data.org/4.png",
+            "position": 1,
+            "points": 12,
+            "played": 4,
+            "form": [],
+            "table_size": 18
+          },
+          "away": {
+            "id": 12,
+            "name": "SV Werder Bremen",
+            "short_name": "Bremen",
+            "crest": "https://crests.football-data.org/12.png",
+            "position": 8,
+            "points": 7,
+            "played": 4,
+            "form": [],
+            "table_size": 18
+          },
+          "h2h": {
+            "matches": 10,
+            "home_wins": 0,
+            "away_wins": 0,
+            "draws": 10
+          },
+          "prediction": {
+            "home_win_pct": 47,
+            "draw_pct": 22,
+            "away_win_pct": 31,
+            "basis": "Formkurva (45%), tabellplacering (35%), inbördes möten (20%) + hemmaplansfördel. Statistisk uppskattning — inget spelråd."
+          },
+          "extra_stats": null,
+          "source": "football-data.org"
+        }
+      ]
     },
     "Ligue 1": {
       "competition_code": "FL1",
@@ -1758,7 +1846,51 @@
           "away": null
         }
       ],
-      "matches": []
+      "matches": [
+        {
+          "id": "fd-559669",
+          "league": "Ligue 1",
+          "utc_kickoff": "2026-10-09T18:45:00Z",
+          "matchday": 6,
+          "venue": null,
+          "home": {
+            "id": 546,
+            "name": "Racing Club de Lens",
+            "short_name": "RC Lens",
+            "crest": "https://crests.football-data.org/546.png",
+            "position": 15,
+            "points": 4,
+            "played": 5,
+            "form": [],
+            "table_size": 18
+          },
+          "away": {
+            "id": 523,
+            "name": "Olympique Lyonnais",
+            "short_name": "Olympique Lyon",
+            "crest": "https://crests.football-data.org/523.png",
+            "position": 2,
+            "points": 11,
+            "played": 5,
+            "form": [],
+            "table_size": 18
+          },
+          "h2h": {
+            "matches": 10,
+            "home_wins": 0,
+            "away_wins": 0,
+            "draws": 10
+          },
+          "prediction": {
+            "home_win_pct": 31,
+            "draw_pct": 24,
+            "away_win_pct": 45,
+            "basis": "Formkurva (45%), tabellplacering (35%), inbördes möten (20%) + hemmaplansfördel. Statistisk uppskattning — inget spelråd."
+          },
+          "extra_stats": null,
+          "source": "football-data.org"
+        }
+      ]
     }
   }
 }
