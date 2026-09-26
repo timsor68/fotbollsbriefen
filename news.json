@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T16:53:43.767588+00:00",
+  "updated_at": "2026-09-26T19:33:20.383340+00:00",
   "items": [
     {
       "published_at": "2026-09-26T09:08:17+00:00",
@@ -111,6 +111,10 @@
           "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         },
         {
+          "name": "BBC Sport",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BZHdncVBwQkwwek5iZ1llVU04aXJadUlTMGFaSFdMUDlGbGNSQ0RMOFhBX0RyODMyVFRLMmhhaEpVMkx5dEZiMTdxekpjU0tYS25yS0N3T0hpOU8wWGk2S2dsVGpIUnRK?oc=5"
+        },
+        {
           "name": "Sky Sports",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcjM1UktJREgtMXBlTmpSMHk3aDVjc21xMzZNbFRUOU5MNWxINHpRcGp2aGhkNE9XR1JSall4aDlEVXY5R1lsb01aRXNIdnU3UTlCN1ZzY1h3ckVsSWM4X1ZnQkJJRmpLekpVNmdjZkpkZXduWF8zTm5QVkRTQzZpdDQ4RUZ4Z1VESE5uRlVwUERFaFFwWEY1ZmJFSE1EZmFhcWwtd1hxWDZ3X3JteDVCcjdKMG1RUQ?oc=5"
         },
@@ -125,6 +129,10 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [
+        {
+          "name": "BBC Sport",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BZHdncVBwQkwwek5iZ1llVU04aXJadUlTMGFaSFdMUDlGbGNSQ0RMOFhBX0RyODMyVFRLMmhhaEpVMkx5dEZiMTdxekpjU0tYS25yS0N3T0hpOU8wWGk2S2dsVGpIUnRK?oc=5"
+        },
         {
           "name": "Sky Sports",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcjM1UktJREgtMXBlTmpSMHk3aDVjc21xMzZNbFRUOU5MNWxINHpRcGp2aGhkNE9XR1JSall4aDlEVXY5R1lsb01aRXNIdnU3UTlCN1ZzY1h3ckVsSWM4X1ZnQkJJRmpLekpVNmdjZkpkZXduWF8zTm5QVkRTQzZpdDQ4RUZ4Z1VESE5uRlVwUERFaFFwWEY1ZmJFSE1EZmFhcWwtd1hxWDZ3X3JteDVCcjdKMG1RUQ?oc=5"
@@ -272,6 +280,33 @@
       "id": "from-shaky-start-to-statement-wins-100-days-of-mcinnes-at-rangers"
     },
     {
+      "published_at": "2026-09-25T14:17:37+00:00",
+      "updated_at": "2026-09-25T14:17:37+00:00",
+      "title": "Wycombe sign ex-England striker Ings",
+      "summary": "Wycombe Wanderers sign former Burnley, Liverpool and England striker Danny Ings",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5216/live/ea525b80-b8ea-11f1-8e38-ff13e96f88b3.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmj6436g4w03o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmj6436g4w03o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "wycombe-sign-ex-england-striker-ings"
+    },
+    {
       "published_at": "2026-09-24T12:59:44+00:00",
       "updated_at": "2026-09-24T12:59:44+00:00",
       "title": "Fox makes 'easy decision' to sign three-year Arsenal deal",
@@ -344,50 +379,6 @@
       "id": "la-liga-jonathan-david-scored-the-winner-in-the-atletico-madrid-vs-real-madrid-game"
     },
     {
-      "published_at": "2026-09-26T13:08:29+00:00",
-      "updated_at": "2026-09-26T13:08:29+00:00",
-      "title": "Beskedet: Emil Holm lämnar samlingen efter nya skadan",
-      "summary": "Emil Holm tvingades kliva av när Sverige besegrade Rumänien med 2–1 i Nations League. Nu lämnar försvararen landslagssamlingen och återvänder till Bologna för att inleda sin rehabilitering",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.29/0.41/0ccfa69ded4b93e45feba87aa8358fb82b6f66d14a5f5a32aae31a8f02945d29",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/beskedet-emil-holm-lamnar-samlingen-efter-nya-skadan"
-        },
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbW51dFhkSFA0aFNPeHNpMVdtbGxjX3kzYzBIeHRJSktHWG1MdEJXaExzd2pIYXZxNkJYcHlsSGdicV9pWEUtUjZpWGx5UDRjZTRIeTQtRVVSbVp2RXFxX0dqSkNNeElfaGwwX1ZBMWdaX0NzVkRoOC04NVFSZFlmek9vZnd2TTE2cjBwS1dB?oc=5"
-        },
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/emil-holm-lamnar-landslagssamlingen-efter-skadan-701233"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/beskedet-emil-holm-lamnar-samlingen-efter-nya-skadan"
-      },
-      "confirmed_by": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbW51dFhkSFA0aFNPeHNpMVdtbGxjX3kzYzBIeHRJSktHWG1MdEJXaExzd2pIYXZxNkJYcHlsSGdicV9pWEUtUjZpWGx5UDRjZTRIeTQtRVVSbVp2RXFxX0dqSkNNeElfaGwwX1ZBMWdaX0NzVkRoOC04NVFSZFlmek9vZnd2TTE2cjBwS1dB?oc=5"
-        },
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/emil-holm-lamnar-landslagssamlingen-efter-skadan-701233"
-        }
-      ],
-      "id": "beskedet-emil-holm-l-mnar-samlingen-efter-nya-skadan"
-    },
-    {
       "published_at": "2026-09-25T21:05:39+00:00",
       "updated_at": "2026-09-25T21:05:39+00:00",
       "title": "Kylian Mbappé målskytt och skadad i Zinedine Zidanes debut som förbundskapten",
@@ -442,49 +433,23 @@
       "id": "emil-holms-nya-sm-ll-utburen-p-b-r"
     },
     {
-      "published_at": "2026-09-24T20:49:03+00:00",
-      "updated_at": "2026-09-24T20:49:03+00:00",
-      "title": "Tyskland tappade segern och Kai Havertz skadades",
-      "summary": "Tyskland var på väg mot seger i stormötet mot Nederländerna trots att man fått se anfallaren Kai Havertz linka av med skada. Men då svarade Nederländerna för ett superanfall på stopptid. En yttersida, inte av denna världen, till Cody Gakpo som volleysköt in 1-1 i 92:a minuten",
+      "published_at": "2026-09-25T12:33:05+00:00",
+      "updated_at": "2026-09-25T12:33:05+00:00",
+      "title": "Serie A joins major European Leagues in official statement against FIFA management",
+      "summary": "Read the full report at The Guardian.",
       "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.37/0.68/1cb494ce44d37eeea0bce08832950466d4ad3a6283cbf00eb04ec6bcded70cda",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/tyskland-tappade-seger-och-kai-havertz-skadades"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/tyskland-tappade-seger-och-kai-havertz-skadades"
-      },
-      "confirmed_by": [],
-      "id": "tyskland-tappade-segern-och-kai-havertz-skadades"
-    },
-    {
-      "published_at": "2026-09-25T09:28:33+00:00",
-      "updated_at": "2026-09-25T09:28:33+00:00",
-      "title": "Top European leagues heighten pressure on Infantino with call for major changes at Fifa",
-      "summary": "Four leagues says Fifa governance ‘not fit for purpose’ They criticise ‘expansionism’ and want more input The Premier League has joined forces with La Liga, Serie A and the Bundesliga to call for urgent governance reform at Fifa after the World Cup sell-off debacle (FFE) as Gianni Infantino prepares to seek a fourth term as president. Their strongly worded statement is the latest indication that Infantino’s willingness to hold an external governance review does not go far enough, after the Guardian revealed that several Fifa council members ha ve rejected that proposal .",
-      "category": [
-        "Football"
+        "Serie A",
+        "Transfer"
       ],
       "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://i.guim.co.uk/img/media/d58fe9f0a71049f6af73c3837475602aeef38bb9/111_0_2809_2248/master/2809.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c51397b54a10f34aec9e119a3e79fcf7",
+      "image": "",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/25/gianni-infantino-fifa-pressure-reform-premier-league-bundesliga-la-liga-serie-a"
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         },
         {
           "name": "Football Italia",
@@ -494,7 +459,7 @@
       "language": "en",
       "main_source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/sep/25/gianni-infantino-fifa-pressure-reform-premier-league-bundesliga-la-liga-serie-a"
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [
         {
@@ -502,7 +467,7 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIOEYyNUVial9ERXBiaE1Md19sd3BzNnlORzRQaGp1YmpqY3NRV3ZBaXZ0YWFsYTFzZWRhMzdvdmxDR1VzenZ3eFh1S3ZwbHQ4Y0FTbzJOc2RMS3FzMUNKQnhrRFZvN0k3THloTlRxbDAyLWNhYU1ZVWNVbVlIUjDSAX9BVV95cUxQSDhGMjVFYmpfREVwYmhNTHdfbHdwczZ5Tkc0UGhqdWJqamNzUVd2QWl2dGFhbGExc2VkYTM3b3ZsQ0dVc3p2d3hYdUt2cGx0OGNBU28yTnNkTEtxczFDSkJ4a0RWbzdJN0x5aE5UcWwwMi1jYWFNWVVjVW1ZSFIw?oc=5"
         }
       ],
-      "id": "top-european-leagues-heighten-pressure-on-infantino-with-call-for-major-changes-at-fifa"
+      "id": "serie-a-joins-major-european-leagues-in-official-statement-against-fifa-management"
     },
     {
       "published_at": "2026-09-25T17:32:00+00:00",
@@ -560,40 +525,31 @@
       "id": "man-city-charges-q-a-how-did-we-get-here-what-could-punishment-be"
     },
     {
-      "published_at": "2026-09-26T13:54:50+00:00",
-      "updated_at": "2026-09-26T13:54:50+00:00",
-      "title": "'Significant majority' of Republic of Ireland players voted to play Israel game",
-      "summary": "Football Association of Ireland chief executive David Courell confirms that the Republic of Ireland's Nations League match against Israel will go ahead on Sunday",
+      "published_at": "2026-09-26T12:18:33+00:00",
+      "updated_at": "2026-09-26T12:18:33+00:00",
+      "title": "Dovin är skadad - återkallas till Coventry",
+      "summary": "Dovin är skadad - återkallas till Coventry Fotbollskanalen",
       "category": [
-        "Transfer"
+        "Sverige"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/50af/live/b4586d40-b9b1-11f1-929f-f1f9c2e672cb.jpg",
+      "image": "",
       "sources": [
         {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c6x2zzpvpe9zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c6x2zzpvpe9zo?at_medium=RSS&at_campaign=rss"
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
-        }
-      ],
-      "id": "significant-majority-of-republic-of-ireland-players-voted-to-play-israel-game"
+      "confirmed_by": [],
+      "id": "dovin-r-skadad-terkallas-till-coventry"
     },
     {
       "published_at": "2026-09-25T13:59:09+00:00",
@@ -648,6 +604,33 @@
       },
       "confirmed_by": [],
       "id": "niko-sallanto-klar-f-r-v-ster-s"
+    },
+    {
+      "published_at": "2026-09-24T14:03:00+00:00",
+      "updated_at": "2026-09-24T14:03:00+00:00",
+      "title": "Anton Fagerström förlänger med Västerås SK",
+      "summary": "Anton Fagerström förlänger med Västerås SK Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "anton-fagerstr-m-f-rl-nger-med-v-ster-s-sk"
     },
     {
       "published_at": "2026-09-23T17:08:00+00:00",
@@ -786,6 +769,96 @@
       "id": "hoppet-om-nytt-hbk-kontrakt-lever-tur-som-har-dessa-spelare"
     },
     {
+      "published_at": "2026-09-26T13:08:29+00:00",
+      "updated_at": "2026-09-26T13:08:29+00:00",
+      "title": "Beskedet: Emil Holm lämnar samlingen efter nya skadan",
+      "summary": "Emil Holm tvingades kliva av när Sverige besegrade Rumänien med 2–1 i Nations League. Nu lämnar försvararen landslagssamlingen och återvänder till Bologna för att inleda sin rehabilitering",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.29/0.41/0ccfa69ded4b93e45feba87aa8358fb82b6f66d14a5f5a32aae31a8f02945d29",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/beskedet-emil-holm-lamnar-samlingen-efter-nya-skadan"
+        },
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/emil-holm-lamnar-landslagssamlingen-efter-skadan-701233"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/beskedet-emil-holm-lamnar-samlingen-efter-nya-skadan"
+      },
+      "confirmed_by": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/emil-holm-lamnar-landslagssamlingen-efter-skadan-701233"
+        }
+      ],
+      "id": "beskedet-emil-holm-l-mnar-samlingen-efter-nya-skadan"
+    },
+    {
+      "published_at": "2026-09-26T19:15:59+00:00",
+      "updated_at": "2026-09-26T19:15:59+00:00",
+      "title": "USMNT v Peru live – analysis and updates from international friendly in Orlando",
+      "summary": "USA v Peru kicks off at 4.30 ET Cavan Sullivan, other young players could make debuts Sign up for our free newsletter for US readers Email Jeff with thoughts, questions and jokes Mauricio Pochettino will field a squad involving 26 of his 28 available players today. Both sides agreed to 11 potential substitutions in this friendly (or “non-official match,” as Pochettino likes to say) and he is sure to use all of them. One would assume that one of the missing 28 is a goalkeeper.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/2c7ee3a4e5a2d5e3d2de4af2c03257197005094d/397_0_3453_2764/master/3453.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7ff77c67521ca96f6f0a8e0805dee949",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/sep/26/usmnt-peru-live-analysis-updates"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/live/2026/sep/26/usmnt-peru-live-analysis-updates"
+      },
+      "confirmed_by": [],
+      "id": "usmnt-v-peru-live-analysis-and-updates-from-international-friendly-in-orlando"
+    },
+    {
+      "published_at": "2026-09-26T19:00:43+00:00",
+      "updated_at": "2026-09-26T19:00:43+00:00",
+      "title": "Messi’s exit leaves Argentina with impossible task of replacing their superhero | Jonathan Wilson",
+      "summary": "When things are going awry, the Albiceleste will no longer be able to rely on their ultimate get-out clause It isn’t quite over yet. Lionel Messi will return a week on Wednesday for his formal farewell in a friendly against Benin, but, before that, Argentina face two games when they will begin to experience a future without the most potent get-out-of-jail-free card football has known. Messi’s international career falls into two distinct halves.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "lionel-messi",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/2d93de81e37d386ed14a8a486fdb950354f958a4/683_82_2316_1852/master/2316.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=8247eda39d058fddea5288c4c27c29e6",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/26/lionel-messi-exit-argentina-impossible-task-superhero"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/sep/26/lionel-messi-exit-argentina-impossible-task-superhero"
+      },
+      "confirmed_by": [],
+      "id": "messi-s-exit-leaves-argentina-with-impossible-task-of-replacing-their-superhero-jonathan-w"
+    },
+    {
       "published_at": "2026-09-26T15:19:01+00:00",
       "updated_at": "2026-09-26T15:19:01+00:00",
       "title": "Pocognoli’s reign as Scotland coach begins with stalemate in Slovenia",
@@ -838,33 +911,6 @@
       },
       "confirmed_by": [],
       "id": "how-drawn-out-saga-of-manchester-city-s-alleged-cheating-came-to-this"
-    },
-    {
-      "published_at": "2026-09-25T20:16:41+00:00",
-      "updated_at": "2026-09-25T20:16:41+00:00",
-      "title": "Andy Robertson says players are ‘not to blame’ for Manchester City’s actions",
-      "summary": "City found guilty of breaching Premier League rules Liverpool finished second to City in 2019 and 2022 The former Liverpool defender Andy Robertson believes trophy-winning Manchester City players should not have their achievements diminished or removed because of the actions of the club’s ownership. Robertson was flying from a training camp in Spain to Slovenia with the Scotland squad when news emerged that City have been found guilty of multiple breaches of the Premier League’s financial fair play rules. The Scotland captain, who regularly jousted with City during his nine years at Anfield from 2017, was taken aback when news of the upcoming verdict was put to him in Ljubljana.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://i.guim.co.uk/img/media/bfdacf8e5fc0f01d44b275640d81a5d6b78fb20a/338_0_2824_2259/master/2824.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d650ce9b7e30b5b24a7c7eefb4354be5",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/25/andy-robertson-says-players-are-not-to-blame-for-manchester-citys-actions"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/sep/25/andy-robertson-says-players-are-not-to-blame-for-manchester-citys-actions"
-      },
-      "confirmed_by": [],
-      "id": "andy-robertson-says-players-are-not-to-blame-for-manchester-city-s-actions"
     },
     {
       "published_at": "2026-09-25T17:51:27+00:00",
@@ -1002,31 +1048,31 @@
       "id": "raphinha-in-my-head-i-was-leaving-bar-a-but-a-few-small-words-can-change-you"
     },
     {
-      "published_at": "2026-09-23T19:46:10+00:00",
-      "updated_at": "2026-09-23T19:46:10+00:00",
-      "title": "Christian Eriksen leaves Wolfsburg by mutual consent after on-pitch collapse in June",
-      "summary": "Danish midfielder has been recuperating in homeland Eriksen: ‘I’m pleased we were able to find a solution’ Christian Eriksen and the German side VfL Wolfsburg have agreed to terminate ⁠his contract by mutual consent, the club announced on Wednesday. The 34-year-old collapsed during a Denmark friendly ⁠against Ukraine in June. Eriksen said in July he would ​return to his homeland to undergo a ‌rehabilitation programme.",
+      "published_at": "2026-09-26T17:47:23+00:00",
+      "updated_at": "2026-09-26T17:47:23+00:00",
+      "title": "Förlust mot Öster, och vinst mot Oddevold",
+      "summary": "IFK Värnamo har fått upp farten under Bergstrand och närmar sig ett nytt kontrakt i Superettan. Med fem omgångar kvar har IFK fem poäng ner till kvalplatsen och sex till direktnedflyttning. Spelet är långt ifrån felfritt, men laget har under Bergstrand utvecklat en tydligare spelidé och en stabilitet som ger anledning till optimism inför slutspurten",
       "category": [
-        "Football"
+        "Sverige"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://i.guim.co.uk/img/media/6557ef5074b2d36ad0e663e44818f2bd6533d0fa/394_0_3810_3047/master/3810.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b9b999f527d605590b1acb1707d8b536",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/tQGhIF70bD6npKGjmTA1gj6ckPzlM1IN4UpnQw3P.jpg",
       "sources": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/23/christian-eriksen-leaves-wolfsburg-mutual-consent-denmark"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/forlust-mot-oster-och-vinst-mot-oddevold-701239"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/sep/23/christian-eriksen-leaves-wolfsburg-mutual-consent-denmark"
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/forlust-mot-oster-och-vinst-mot-oddevold-701239"
       },
       "confirmed_by": [],
-      "id": "christian-eriksen-leaves-wolfsburg-by-mutual-consent-after-on-pitch-collapse-in-june"
+      "id": "f-rlust-mot-ster-och-vinst-mot-oddevold"
     },
     {
       "published_at": "2026-09-21T18:11:00+00:00",
@@ -1248,6 +1294,33 @@
       "id": "totti-names-the-two-serie-a-clubs-that-wanted-to-sign-him-after-retirement"
     },
     {
+      "published_at": "2026-09-21T11:51:21+00:00",
+      "updated_at": "2026-09-21T11:51:21+00:00",
+      "title": "Kolo Muani requires surgery after Juventus 2-0 Atalanta",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "kolo-muani-requires-surgery-after-juventus-2-0-atalanta"
+    },
+    {
       "published_at": "2026-09-21T09:44:56+00:00",
       "updated_at": "2026-09-21T09:44:56+00:00",
       "title": "Frosinone’s win over Como seen as ‘good sign for Italian football’",
@@ -1273,33 +1346,6 @@
       },
       "confirmed_by": [],
       "id": "frosinone-s-win-over-como-seen-as-good-sign-for-italian-football"
-    },
-    {
-      "published_at": "2026-09-20T17:29:43+00:00",
-      "updated_at": "2026-09-20T17:29:43+00:00",
-      "title": "Serie A official line-ups: Milan vs. Lecce",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "serie-a-official-line-ups-milan-vs-lecce"
     },
     {
       "published_at": "2026-09-21T05:35:00+00:00",
@@ -1419,40 +1465,31 @@
       "id": "uppgifter-svanberg-borta-i-minst-sex-veckor"
     },
     {
-      "published_at": "2026-09-21T14:18:00+00:00",
-      "updated_at": "2026-09-21T14:18:00+00:00",
-      "title": "Potters besked: Lagerbielke lär missa Rumänien-matchen",
-      "summary": "Sverige laddar för fyra Nations League-matcher. På måndagens presskonferens gav förbundskapten Graham Potter besked om flera aktuella spelare - däribland Gustaf Lagerbielke, Hugo Larsson och Felix Beijmo",
+      "published_at": "2026-09-26T17:48:28+00:00",
+      "updated_at": "2026-09-26T17:48:28+00:00",
+      "title": "Benjamin Nygren om CL-missen: ”Extra tungt...”",
+      "summary": "För andra året i rad har Celtic missat att ta sig till Champions League. Tungt för spelarna och supportrarna menar Benjamin Nygren. – Fansen blir så klart lika besvikna som vi, säger han till SVT Sport",
       "category": [
         "Sverige"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.41/0.43/4ad1fb916de05d4442e3124192f89f9a7bf62bc3147e6e7aa582b2b05bdd9272",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/graham-potter-bekraftar-gustaf-lagerbielke-missar-matchen-mot-rumanien-701080"
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/benjamin-nygren-om-cl-missen-extra-tungt"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/benjamin-nygren-om-cl-missen-extra-tungt"
       },
-      "confirmed_by": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/graham-potter-bekraftar-gustaf-lagerbielke-missar-matchen-mot-rumanien-701080"
-        }
-      ],
-      "id": "potters-besked-lagerbielke-l-r-missa-rum-nien-matchen"
+      "confirmed_by": [],
+      "id": "benjamin-nygren-om-cl-missen-extra-tungt"
     },
     {
       "published_at": "2026-09-26T14:50:01+00:00",
@@ -1673,37 +1710,10 @@
       "id": "mbappe-scores-but-injured-as-zidane-s-france-win-northern-ireland-beat-georgia"
     },
     {
-      "published_at": "2026-09-26T11:42:35+00:00",
-      "updated_at": "2026-09-26T11:42:35+00:00",
-      "title": "Emil Holm utbytt skadad",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "emil-holm-utbytt-skadad"
-    },
-    {
-      "published_at": "2026-09-26T17:36:00+00:00",
-      "updated_at": "2026-09-26T17:36:00+00:00",
-      "title": "'It's a big moment! | Putellas nets her first goal for London City",
-      "summary": "Alexia Putellas bags her first goal in London City Lionesses colours to give the home side the lead against Brighton",
+      "published_at": "2026-09-26T18:00:00+00:00",
+      "updated_at": "2026-09-26T18:00:00+00:00",
+      "title": "What did Pocognoli change in first Scotland game in charge?",
+      "summary": "A draw might not be the most inspiring result for a new era, but there were still plenty of positives for Sebastien Pocognoli to take from his first game in charge of Scotland",
       "category": [
         "Football"
       ],
@@ -1711,20 +1721,20 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/09/1600x900/skysports-wsl-putellas-goal_7361984.jpg?20260926174836",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-sebastien-pocognoli_7361942.jpg?20260926172329",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/watch/video/13592218/alexia-putellas-bags-her-first-goal-in-london-city-lionesses-colours"
+          "url": "https://www.skysports.com/football/news/11095/13592137/slovenia-0-0-scotland-what-did-sebastien-pocognoli-change-in-first-game-as-scottish-boss-since-replacing-steve-clarke"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/watch/video/13592218/alexia-putellas-bags-her-first-goal-in-london-city-lionesses-colours"
+        "url": "https://www.skysports.com/football/news/11095/13592137/slovenia-0-0-scotland-what-did-sebastien-pocognoli-change-in-first-game-as-scottish-boss-since-replacing-steve-clarke"
       },
       "confirmed_by": [],
-      "id": "it-s-a-big-moment-putellas-nets-her-first-goal-for-london-city"
+      "id": "what-did-pocognoli-change-in-first-scotland-game-in-charge"
     },
     {
       "published_at": "2026-09-26T15:30:00+00:00",
@@ -1808,31 +1818,34 @@
       "id": "man-city-charges-what-happens-now"
     },
     {
-      "published_at": "2026-09-25T16:37:00+00:00",
-      "updated_at": "2026-09-25T16:37:00+00:00",
-      "title": "Slegers: Put pressure on me, not Arsenal players after difficult WSL start",
-      "summary": "Renee Slegers is calmer than she might be about Arsenal's start to the season",
+      "published_at": "2026-09-25T13:34:25+00:00",
+      "updated_at": "2026-09-25T13:34:25+00:00",
+      "title": "European football news and transfers: Barcelona, Real Madrid, PSG, Bayern Munich latest and more",
+      "summary": "Read the full report at Sky Sports.",
       "category": [
-        "Premier League"
+        "La Liga",
+        "Bundesliga",
+        "Ligue 1",
+        "Transfer"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/26/09/1600x900/skysports-leah-williamson-arsenal_7361732.jpg?20260926141916",
+      "club": "real-madrid",
+      "image": "",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13591865/renee-slegers-put-pressure-on-me-not-arsenal-players-after-poor-start-to-season-says-gunners-boss"
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13591865/renee-slegers-put-pressure-on-me-not-arsenal-players-after-poor-start-to-season-says-gunners-boss"
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "slegers-put-pressure-on-me-not-arsenal-players-after-difficult-wsl-start"
+      "id": "european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-mo"
     },
     {
       "published_at": "2026-09-24T11:00:37+00:00",
@@ -1862,20 +1875,17 @@
       "id": "can-the-english-goal-machine-secure-the-ballon-d-or-all-of-harry-kane-s-goals-from-the-202"
     },
     {
-      "published_at": "2026-09-23T07:40:17+00:00",
-      "updated_at": "2026-09-23T07:40:17+00:00",
-      "title": "European football news and transfers: Barcelona, Real Madrid, PSG, Bayern Munich latest and more",
+      "published_at": "2026-09-22T07:00:00+00:00",
+      "updated_at": "2026-09-22T07:00:00+00:00",
+      "title": "Declan Rice prepared to commit long-term future to Arsenal - Paper Talk",
       "summary": "Read the full report at Sky Sports.",
       "category": [
-        "La Liga",
-        "Bundesliga",
-        "Ligue 1",
-        "Transfer"
+        "Premier League"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "real-madrid",
+      "club": "arsenal",
       "image": "",
       "sources": [
         {
@@ -1889,7 +1899,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-mo"
+      "id": "declan-rice-prepared-to-commit-long-term-future-to-arsenal-paper-talk"
     },
     {
       "published_at": "2026-09-26T12:57:39+00:00",
@@ -2003,7 +2013,7 @@
       "published_at": "2026-09-25T16:38:53+00:00",
       "updated_at": "2026-09-25T16:38:53+00:00",
       "title": "Inför IFK Göteborg - IF Elfsborg: Stormötet",
-      "summary": "Både Elfsborg och Djurgården tillhör några av de starkaste lagen i Allsvenskan just nu. Under söndagen så ställs de mot varandra i ett stormöte på 3Arena. Den assisterande tränaren Viktor Eriksson är avstängd",
+      "summary": "Det spelas ett derby under lördagen mellan IFK Göteborg och IF Elfsborg. Samtidigt så tampas båda lagen om att försöka ta sig upp från Elitettan till Damallsvenskan",
       "category": [
         "Sverige"
       ],
@@ -2055,33 +2065,6 @@
       "id": "isak-redo-f-r-rum-nien-efter-succ-starten-i-liverpool"
     },
     {
-      "published_at": "2026-09-25T10:00:00+00:00",
-      "updated_at": "2026-09-25T10:00:00+00:00",
-      "title": "Vi tycker om MFF: \"So be it\", vi bygger fortfarande",
-      "summary": "Månaden närmar sig sitt slut och då summerar Himmelrikets panel läget för MFF",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/126828.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/vi-tycker-om-mff-herre-701186"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/vi-tycker-om-mff-herre-701186"
-      },
-      "confirmed_by": [],
-      "id": "vi-tycker-om-mff-so-be-it-vi-bygger-fortfarande"
-    },
-    {
       "published_at": "2026-09-26T13:23:24+00:00",
       "updated_at": "2026-09-26T13:23:24+00:00",
       "title": "Mancini and Italy cannot recapture past glory, reflect modern Serie A instead",
@@ -2111,7 +2094,7 @@
     {
       "published_at": "2026-09-25T20:39:09+00:00",
       "updated_at": "2026-09-25T20:39:09+00:00",
-      "title": "Nations League | Italy 0-2 Belgium: Mancini return begins with new disaster",
+      "title": "Italy 0-2 Belgium: Mancini return begins with disaster",
       "summary": "Read the full report at Football Italia.",
       "category": [
         "Football"
@@ -2133,7 +2116,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "nations-league-italy-0-2-belgium-mancini-return-begins-with-new-disaster"
+      "id": "italy-0-2-belgium-mancini-return-begins-with-disaster"
     },
     {
       "published_at": "2026-09-25T10:48:19+00:00",
