@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T01:13:54.521165+00:00",
+  "updated_at": "2026-09-26T07:09:14.744434+00:00",
   "items": [
     {
       "published_at": "2026-09-25T11:53:25+00:00",
@@ -141,6 +141,33 @@
         }
       ],
       "id": "thomas-tuchel-warns-cole-palmer-about-missing-way-too-many-england-camps"
+    },
+    {
+      "published_at": "2026-09-26T05:56:40+00:00",
+      "updated_at": "2026-09-26T05:56:40+00:00",
+      "title": "The computer hacker who tried to take down Man City",
+      "summary": "BBC Sport travelled to Portugal to find out more about Rui Pinto - the computer hacker who sparked the Manchester City investigation",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/35d3/live/b39074f0-f4ed-11ef-896e-d7e7fb1719a4.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "the-computer-hacker-who-tried-to-take-down-man-city"
     },
     {
       "published_at": "2026-09-25T19:54:46+00:00",
@@ -332,50 +359,6 @@
       },
       "confirmed_by": [],
       "id": "fox-makes-easy-decision-to-sign-three-year-arsenal-deal"
-    },
-    {
-      "published_at": "2026-09-21T07:10:52+00:00",
-      "updated_at": "2026-09-21T07:10:52+00:00",
-      "title": "Jose Mourinho: Real Madrid boss unhappy with officiating in Madrid derby",
-      "summary": "Read the full report at BBC Sport.",
-      "category": [
-        "La Liga"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "The Athletic",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa1JHbXN4S3l3akZBcFJaQS12b1AzTzVoaE05U0ZGN0Uza24wOXdGS3ZKSkF0ZldXYnVVSTVmX3k5ZzN0SmhsSHRoMDN3MDFSU3VuNGFpNGRuOVd2cUZ1WGt6MFlROWhsSlhEdkJ0YVFjVm5hOGU3SDNnSUl5Q1RKaHNvM2xVYjJLOXdnSi1iR2JFdzViZHJIYlJn?oc=5"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaEdiSXZWb2pEQTFGWWZib2tSVWU4QjRPWFhaOGFGWGEzMjY0ZldhZERjalB5WVY0Ql9nTTJ3aGNqdzFrejBqVGM5VzNDdlktXzFQRHV5dDl1bURWS1l2c3VBcEJNRTNqWW5IV0lnVVhrbkVyTVJvTGcxaUkzMUVKcE5sdHlLX3ZmVGtRaUtZazMyVlViTkJ5OVQ2REVTMmtjWVNNZEY2UXpKbVNxMnMyN09pT0hya1lqbzlJSmFIR19LSnM?oc=5"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [
-        {
-          "name": "The Athletic",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa1JHbXN4S3l3akZBcFJaQS12b1AzTzVoaE05U0ZGN0Uza24wOXdGS3ZKSkF0ZldXYnVVSTVmX3k5ZzN0SmhsSHRoMDN3MDFSU3VuNGFpNGRuOVd2cUZ1WGt6MFlROWhsSlhEdkJ0YVFjVm5hOGU3SDNnSUl5Q1RKaHNvM2xVYjJLOXdnSi1iR2JFdzViZHJIYlJn?oc=5"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaEdiSXZWb2pEQTFGWWZib2tSVWU4QjRPWFhaOGFGWGEzMjY0ZldhZERjalB5WVY0Ql9nTTJ3aGNqdzFrejBqVGM5VzNDdlktXzFQRHV5dDl1bURWS1l2c3VBcEJNRTNqWW5IV0lnVVhrbkVyTVJvTGcxaUkzMUVKcE5sdHlLX3ZmVGtRaUtZazMyVlViTkJ5OVQ2REVTMmtjWVNNZEY2UXpKbVNxMnMyN09pT0hya1lqbzlJSmFIR19LSnM?oc=5"
-        }
-      ],
-      "id": "jose-mourinho-real-madrid-boss-unhappy-with-officiating-in-madrid-derby"
     },
     {
       "published_at": "2026-09-25T21:05:39+00:00",
@@ -668,33 +651,6 @@
       "id": "ballon-d-or-kane-lamine-yamal-mbappe-and-the-main-runners-and-riders-assessed"
     },
     {
-      "published_at": "2026-09-25T06:29:09+00:00",
-      "updated_at": "2026-09-25T06:29:09+00:00",
-      "title": "Uppgifter: Konde klar för Man United",
-      "summary": "Uppgifter: Konde klar för Man United Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-konde-klar-f-r-man-united"
-    },
-    {
       "published_at": "2026-09-24T17:56:00+00:00",
       "updated_at": "2026-09-24T17:56:00+00:00",
       "title": "Niko Sallanto klar för Västerås",
@@ -804,10 +760,37 @@
       "id": "dolberg-skadad-l-mnar-landslagssamling"
     },
     {
+      "published_at": "2026-09-22T07:00:00+00:00",
+      "updated_at": "2026-09-22T07:00:00+00:00",
+      "title": "Dovin är skadad - återkallas till Coventry",
+      "summary": "Dovin är skadad - återkallas till Coventry Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "dovin-r-skadad-terkallas-till-coventry"
+    },
+    {
       "published_at": "2026-09-21T11:48:00+00:00",
       "updated_at": "2026-09-21T11:48:00+00:00",
       "title": "Officiellt: Spanien förlänger med Luis de la Fuente",
-      "summary": "Read the full report at Fotbollskanalen.",
+      "summary": "Officiellt: Mjällby förlänger med Lindberg Fotbollskanalen",
       "category": [
         "Sverige"
       ],
@@ -856,6 +839,33 @@
       },
       "confirmed_by": [],
       "id": "hoppet-om-nytt-hbk-kontrakt-lever-tur-som-har-dessa-spelare"
+    },
+    {
+      "published_at": "2026-09-26T05:00:27+00:00",
+      "updated_at": "2026-09-26T05:00:27+00:00",
+      "title": "How drawn-out saga of Manchester City’s alleged cheating came to this",
+      "summary": "Club’s ruthless approach was always at odds with their public image and this inglorious story has further to run There is no episode in English football’s history that even resembles a precedent for the epic Manchester City disciplinary drama, which encapsulates the modern game at breaking point. Here was a grand, stoic old club, taken over in 2008 by Abu Dhabi royalty and mega-funded to imperious success, then crowned serial champions by a league simultaneously pursuing charges of monstrous financial cheating. On Friday sources confirmed that saga, in which Pep Guardiola’s expensively constructed City teams won five Premier League titles and the Champions League during the years since the investigation began in December 2018, culminated in guilty findings on almost all of more than 100 charges.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://i.guim.co.uk/img/media/9a242da4d2fe6a6f6235ee49bf4b1a517d38d65e/361_0_3540_2832/master/3540.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d13209a6ed6e2a2178c621c6c3b4176d",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/26/manchester-city-financial-charges-premier-league-uefa-abu-dhabi"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/sep/26/manchester-city-financial-charges-premier-league-uefa-abu-dhabi"
+      },
+      "confirmed_by": [],
+      "id": "how-drawn-out-saga-of-manchester-city-s-alleged-cheating-came-to-this"
     },
     {
       "published_at": "2026-09-25T21:35:43+00:00",
@@ -1074,33 +1084,6 @@
       "id": "florian-wirtz-does-not-look-like-a-116m-player-but-it-s-too-early-to-write-him-off"
     },
     {
-      "published_at": "2026-09-23T13:16:41+00:00",
-      "updated_at": "2026-09-23T13:16:41+00:00",
-      "title": "Chelsea have entered the realm of late-stage American sports capitalism | Leander Schaerlaeckens",
-      "summary": "The Blues’ lack of success was no impediment to Todd Boehly and Mark Walter recouping profits from the club’s sale. That’s how things work in the US Here follows a list of the things accomplished at Chelsea Football Club during a time that historians may choose to grandly term the First Clearlake Era, or perhaps the Boehly Bungle. Since the May 2022 purchase of the club from the sanctioned Russian oligarch Roman Abramovich, when Todd Boehly took over the club’s daily operations, Chelsea – Premier League champions as recently as 2017 and 2015, and Champions League winners in 2021 – have placed 12th, sixth, fourth and 10th in the league.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://i.guim.co.uk/img/media/c7eb197f9bd87f35313ec17288b0356a33dd2b30/359_0_4623_3700/master/4623.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c16b2119ba575dc5895b85cc47041cd1",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/23/chelsea-sale-american-sports-capitalism"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/sep/23/chelsea-sale-american-sports-capitalism"
-      },
-      "confirmed_by": [],
-      "id": "chelsea-have-entered-the-realm-of-late-stage-american-sports-capitalism-leander-schaerlaec"
-    },
-    {
       "published_at": "2026-09-21T18:11:00+00:00",
       "updated_at": "2026-09-21T18:11:00+00:00",
       "title": "HBK fällde Goliat – trotsade alla odds mot Europajagande AIK",
@@ -1235,34 +1218,6 @@
       },
       "confirmed_by": [],
       "id": "serie-a-proposal-accepted-to-open-january-transfer-window-on-december-28"
-    },
-    {
-      "published_at": "2026-09-24T13:27:22+00:00",
-      "updated_at": "2026-09-24T13:27:22+00:00",
-      "title": "10 of the strangest free transfers in Serie A history: Alaba joins ranks of most bizarre moves",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "10-of-the-strangest-free-transfers-in-serie-a-history-alaba-joins-ranks-of-most-bizarre-mo"
     },
     {
       "published_at": "2026-09-22T13:43:38+00:00",
@@ -1401,6 +1356,33 @@
       "id": "crisis-looming-for-marseille-after-five-successive-losses"
     },
     {
+      "published_at": "2026-09-19T21:19:46+00:00",
+      "updated_at": "2026-09-19T21:19:46+00:00",
+      "title": "Lyon thrash Rennes 4-0 after delay due to offensive banner",
+      "summary": "Read the full report at Reuters.",
+      "category": [
+        "Ligue 1"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Reuters",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "lyon-thrash-rennes-4-0-after-delay-due-to-offensive-banner"
+    },
+    {
       "published_at": "2026-09-22T05:49:00+00:00",
       "updated_at": "2026-09-22T05:49:00+00:00",
       "title": "Uppgifter: Svanberg borta i minst sex veckor",
@@ -1471,6 +1453,34 @@
         }
       ],
       "id": "potters-besked-lagerbielke-l-r-missa-rum-nien-matchen"
+    },
+    {
+      "published_at": "2026-09-26T06:37:20+00:00",
+      "updated_at": "2026-09-26T06:37:20+00:00",
+      "title": "Viktor Gyökeres om framtiden i Arsenal: ”För mig var det givet”",
+      "summary": "I somras spekulerades det ifall Viktor Gyökeres var på väg att lämna Arsenal – efter bara en säsong i klubben. Men för svensken själv fanns inga frågetecken kring klubbval. – För mig var det givet att stanna, säger han till SVT Sport",
+      "category": [
+        "Sverige",
+        "Premier League"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.33/0.4/75f179608e4023d24b9eb1cc4d15e7609eab7adf9e6516f086747e19cbf051b3",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/viktor-gyokeres-om-framtiden-i-arsenal-for-mig-var-det-givet"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/viktor-gyokeres-om-framtiden-i-arsenal-for-mig-var-det-givet"
+      },
+      "confirmed_by": [],
+      "id": "viktor-gy-keres-om-framtiden-i-arsenal-f-r-mig-var-det-givet"
     },
     {
       "published_at": "2026-09-25T21:06:59+00:00",
@@ -1635,33 +1645,6 @@
       "id": "nrk-kr-nik-ren-norge-har-gl-mt-zlatan-f-r-l-nge-sedan"
     },
     {
-      "published_at": "2026-09-25T11:31:45+00:00",
-      "updated_at": "2026-09-25T11:31:45+00:00",
-      "title": "Alexander Bernhardsson om Christian Eriksen: ”Jättetråkigt”",
-      "summary": "Christian Eriksen, 34, bröt kontraktet med Wolfsburg efter att i somras ha kollapsat på plan. Alexander Bernhardsson flyttade nyligen till just den klubben. – Vi, som lagkamrater och klubb, stöttar honom i allt, säger landslagsspelaren",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.3/0.45/f475c04cd7738c1f7ed1f469707e9a29b9bd3fa5350ce3bb3ae6763a8585f257",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/alexander-bernhardsson-om-christian-eriksen-jattetrakigt"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/alexander-bernhardsson-om-christian-eriksen-jattetrakigt"
-      },
-      "confirmed_by": [],
-      "id": "alexander-bernhardsson-om-christian-eriksen-j-ttetr-kigt"
-    },
-    {
       "published_at": "2026-09-25T22:58:00+00:00",
       "updated_at": "2026-09-25T22:58:00+00:00",
       "title": "Mbappe scores but injured as Zidane's France win | Northern Ireland beat Georgia",
@@ -1687,33 +1670,6 @@
       },
       "confirmed_by": [],
       "id": "mbappe-scores-but-injured-as-zidane-s-france-win-northern-ireland-beat-georgia"
-    },
-    {
-      "published_at": "2026-09-25T19:52:00+00:00",
-      "updated_at": "2026-09-25T19:52:00+00:00",
-      "title": "Sunderland latest: Ballard ruled out for Northern Ireland with hamstring injury",
-      "summary": "Sunderland transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-sunderland-club-blog_7326707.jpg?20260820165538",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "sunderland-latest-ballard-ruled-out-for-northern-ireland-with-hamstring-injury"
     },
     {
       "published_at": "2026-09-25T22:00:00+00:00",
@@ -1800,6 +1756,60 @@
       "id": "soaring-swans-west-ham-firepower-burnley-misery-championship-talking-points"
     },
     {
+      "published_at": "2026-09-24T11:00:37+00:00",
+      "updated_at": "2026-09-24T11:00:37+00:00",
+      "title": "Can the English goal machine secure the Ballon d'Or? | All of Harry Kane's goals from the 2025/2026 Bundesliga season",
+      "summary": "Read the full report at Sky Sports.",
+      "category": [
+        "Bundesliga"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "can-the-english-goal-machine-secure-the-ballon-d-or-all-of-harry-kane-s-goals-from-the-202"
+    },
+    {
+      "published_at": "2026-09-26T07:07:04+00:00",
+      "updated_at": "2026-09-26T07:07:04+00:00",
+      "title": "In med bolljäveln bara – bottenstriden i Damallsvenskan",
+      "summary": "Bottenstriden i Damallsvenskan är tajtare än på länge. Fem lag slåss för att undvika kval eller nedflyttning och frågan är vilka som faktiskt har accepterat läget de befinner sig i. För nu handlar det mindre om finlir och mer om överlevnad",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/CDWQnvUMEtrRDJeeZBf3AeOCpZp2GGrGNC3vIvZi.png",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/in-med-bolljaveln-bara-bottenstriden-i-damallsvenskan-701220"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/in-med-bolljaveln-bara-bottenstriden-i-damallsvenskan-701220"
+      },
+      "confirmed_by": [],
+      "id": "in-med-bollj-veln-bara-bottenstriden-i-damallsvenskan"
+    },
+    {
       "published_at": "2026-09-25T21:21:00+00:00",
       "updated_at": "2026-09-25T21:21:00+00:00",
       "title": "Matchrapport Sverige-Rumänien: Sverige tog första segern i Nations League",
@@ -1883,33 +1893,6 @@
     {
       "published_at": "2026-09-25T10:00:00+00:00",
       "updated_at": "2026-09-25T10:00:00+00:00",
-      "title": "Vi tycker om MFF: \"So be it\", vi bygger fortfarande",
-      "summary": "Månaden närmar sig sitt slut och då summerar Himmelrikets panel läget för MFF",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/126828.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/vi-tycker-om-mff-herre-701186"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/vi-tycker-om-mff-herre-701186"
-      },
-      "confirmed_by": [],
-      "id": "vi-tycker-om-mff-so-be-it-vi-bygger-fortfarande"
-    },
-    {
-      "published_at": "2026-09-25T10:00:00+00:00",
-      "updated_at": "2026-09-25T10:00:00+00:00",
       "title": "Isak redo för Rumänien efter succéstarten i Liverpool",
       "summary": "Efter ett tungt fjolår fyllt av skador och kritik har Alexander Isak inlett den nya säsongen i Liverpool på ett strålande sätt. Med fyra mål på fem matcher och en nominering till månadens spelare i Premier League i ryggen – är han redo för premiären i Nations League mot Rumänien",
       "category": [
@@ -1934,6 +1917,33 @@
       },
       "confirmed_by": [],
       "id": "isak-redo-f-r-rum-nien-efter-succ-starten-i-liverpool"
+    },
+    {
+      "published_at": "2026-09-25T10:00:00+00:00",
+      "updated_at": "2026-09-25T10:00:00+00:00",
+      "title": "Vi tycker om MFF: \"So be it\", vi bygger fortfarande",
+      "summary": "Månaden närmar sig sitt slut och då summerar Himmelrikets panel läget för MFF",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/126828.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/vi-tycker-om-mff-herre-701186"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/vi-tycker-om-mff-herre-701186"
+      },
+      "confirmed_by": [],
+      "id": "vi-tycker-om-mff-so-be-it-vi-bygger-fortfarande"
     },
     {
       "published_at": "2026-09-25T09:18:00+00:00",
@@ -1961,33 +1971,6 @@
       },
       "confirmed_by": [],
       "id": "paulos-abraham-petas-i-truppen"
-    },
-    {
-      "published_at": "2026-09-24T19:00:00+00:00",
-      "updated_at": "2026-09-24T19:00:00+00:00",
-      "title": "Victor Nilsson Lindelöf om Västerås SK: ”Jätteroligt att det går bra”",
-      "summary": "Victor Nilsson Lindelöf har gjort en lång och framgångsrik utlandskarriär. Men landslagskaptenen håller fortfarande koll på Västerås SK - klubben där seniorkarriären tog fart",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/Rvqthis7VjpG6WXQP6ucSaRvsqKYSbvBUosKlvmq.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/victor-nilsson-lindelof-om-vasteras-sk-jatteroligt-att-det-gar-bra-701172"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/victor-nilsson-lindelof-om-vasteras-sk-jatteroligt-att-det-gar-bra-701172"
-      },
-      "confirmed_by": [],
-      "id": "victor-nilsson-lindel-f-om-v-ster-s-sk-j-tteroligt-att-det-g-r-bra"
     },
     {
       "published_at": "2026-09-25T08:00:00+00:00",
@@ -2096,6 +2079,33 @@
       },
       "confirmed_by": [],
       "id": "galliani-idea-if-malago-removed-as-figc-president-over-irregularity"
+    },
+    {
+      "published_at": "2026-09-24T13:55:16+00:00",
+      "updated_at": "2026-09-24T13:55:16+00:00",
+      "title": "Forgotten Italy talent Pellegri eyes Serie A comeback after returning to Torino training",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "forgotten-italy-talent-pellegri-eyes-serie-a-comeback-after-returning-to-torino-training"
     }
   ]
 }
