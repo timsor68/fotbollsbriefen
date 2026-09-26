@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T19:33:20.383340+00:00",
+  "updated_at": "2026-09-26T22:25:51.762502+00:00",
   "items": [
     {
       "published_at": "2026-09-26T09:08:17+00:00",
@@ -145,6 +145,33 @@
       "id": "real-madrid-call-for-new-laliga-president-following-tebas-statements"
     },
     {
+      "published_at": "2026-09-26T20:17:02+00:00",
+      "updated_at": "2026-09-26T20:17:02+00:00",
+      "title": "Bellamy eyes more history against wounded Denmark",
+      "summary": "Craig Bellamy reflects on his memorable moments against Denmark as his Wales side bid to topple the Danes in the Nations League on Sunday (17:00 BST)",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fd97/live/0377c060-b9a8-11f1-8a1a-0176f978c211.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmeq88152w8go?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmeq88152w8go?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "bellamy-eyes-more-history-against-wounded-denmark"
+    },
+    {
       "published_at": "2026-09-26T12:57:14+00:00",
       "updated_at": "2026-09-26T12:57:14+00:00",
       "title": "Salah out of Egypt game because of artificial turf",
@@ -280,33 +307,6 @@
       "id": "from-shaky-start-to-statement-wins-100-days-of-mcinnes-at-rangers"
     },
     {
-      "published_at": "2026-09-25T14:17:37+00:00",
-      "updated_at": "2026-09-25T14:17:37+00:00",
-      "title": "Wycombe sign ex-England striker Ings",
-      "summary": "Wycombe Wanderers sign former Burnley, Liverpool and England striker Danny Ings",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5216/live/ea525b80-b8ea-11f1-8e38-ff13e96f88b3.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmj6436g4w03o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmj6436g4w03o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "wycombe-sign-ex-england-striker-ings"
-    },
-    {
       "published_at": "2026-09-24T12:59:44+00:00",
       "updated_at": "2026-09-24T12:59:44+00:00",
       "title": "Fox makes 'easy decision' to sign three-year Arsenal deal",
@@ -433,6 +433,42 @@
       "id": "emil-holms-nya-sm-ll-utburen-p-b-r"
     },
     {
+      "published_at": "2026-09-26T21:05:35+00:00",
+      "updated_at": "2026-09-26T21:05:35+00:00",
+      "title": "Oyarzabal earns Spain Nations League win as England pay for Kane penalty miss",
+      "summary": "It was another high-profile game when Thomas Tuchel’s England let a lead slip in the second half and went on to lose. But unlike the last time, it was not one for recriminations. The England support can accept losing when their team plays with cut and thrust.",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-harry-kane-england_7362127.jpg?20260926212026",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/england-vs-spain/report/554000"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/26/england-spain-nations-league-match-report"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/england-vs-spain/report/554000"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/26/england-spain-nations-league-match-report"
+        }
+      ],
+      "id": "oyarzabal-earns-spain-nations-league-win-as-england-pay-for-kane-penalty-miss"
+    },
+    {
       "published_at": "2026-09-25T12:33:05+00:00",
       "updated_at": "2026-09-25T12:33:05+00:00",
       "title": "Serie A joins major European Leagues in official statement against FIFA management",
@@ -470,34 +506,6 @@
       "id": "serie-a-joins-major-european-leagues-in-official-statement-against-fifa-management"
     },
     {
-      "published_at": "2026-09-25T17:32:00+00:00",
-      "updated_at": "2026-09-25T17:32:00+00:00",
-      "title": "Brentford hold Schade contract talks as Arsenal, Liverpool track Germany winger",
-      "summary": "Brentford have held initial talks with Kevin Schade about a new long-term contract in the wake of his excellent start to the campaign and increasing interest from bigger clubs including Arsenal and Liverpool",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/25/11/1600x900/skysports-kevin-schade-brentford_7076965.jpg?20251109152600",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13591878/transfer-news-brentford-hold-kevin-schade-contract-talks-as-arsenal-liverpool-track-germany-winger"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13591878/transfer-news-brentford-hold-kevin-schade-contract-talks-as-arsenal-liverpool-track-germany-winger"
-      },
-      "confirmed_by": [],
-      "id": "brentford-hold-schade-contract-talks-as-arsenal-liverpool-track-germany-winger"
-    },
-    {
       "published_at": "2026-09-25T16:00:00+00:00",
       "updated_at": "2026-09-25T16:00:00+00:00",
       "title": "Man City charges Q&A: How did we get here, what could punishment be?",
@@ -523,250 +531,6 @@
       },
       "confirmed_by": [],
       "id": "man-city-charges-q-a-how-did-we-get-here-what-could-punishment-be"
-    },
-    {
-      "published_at": "2026-09-26T12:18:33+00:00",
-      "updated_at": "2026-09-26T12:18:33+00:00",
-      "title": "Dovin är skadad - återkallas till Coventry",
-      "summary": "Dovin är skadad - återkallas till Coventry Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "dovin-r-skadad-terkallas-till-coventry"
-    },
-    {
-      "published_at": "2026-09-25T13:59:09+00:00",
-      "updated_at": "2026-09-25T13:59:09+00:00",
-      "title": "Uppgifter: Konde klar för Man United",
-      "summary": "Uppgifter: Konde klar för Man United Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-konde-klar-f-r-man-united"
-    },
-    {
-      "published_at": "2026-09-24T17:56:00+00:00",
-      "updated_at": "2026-09-24T17:56:00+00:00",
-      "title": "Niko Sallanto klar för Västerås",
-      "summary": "Niko Sallanto klar för Västerås Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "niko-sallanto-klar-f-r-v-ster-s"
-    },
-    {
-      "published_at": "2026-09-24T14:03:00+00:00",
-      "updated_at": "2026-09-24T14:03:00+00:00",
-      "title": "Anton Fagerström förlänger med Västerås SK",
-      "summary": "Anton Fagerström förlänger med Västerås SK Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "anton-fagerstr-m-f-rl-nger-med-v-ster-s-sk"
-    },
-    {
-      "published_at": "2026-09-23T17:08:00+00:00",
-      "updated_at": "2026-09-23T17:08:00+00:00",
-      "title": "Uppgifter: Galatasaray prioriterar Camavinga-värvning",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-galatasaray-prioriterar-camavinga-v-rvning"
-    },
-    {
-      "published_at": "2026-09-23T11:40:00+00:00",
-      "updated_at": "2026-09-23T11:40:00+00:00",
-      "title": "Uppgifter: Christensens skada värre än vad man trott",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-christensens-skada-v-rre-n-vad-man-trott"
-    },
-    {
-      "published_at": "2026-09-22T13:46:00+00:00",
-      "updated_at": "2026-09-22T13:46:00+00:00",
-      "title": "Dolberg skadad - lämnar landslagssamling",
-      "summary": "Dolberg skadad - lämnar landslagssamling Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "dolberg-skadad-l-mnar-landslagssamling"
-    },
-    {
-      "published_at": "2026-09-21T11:48:00+00:00",
-      "updated_at": "2026-09-21T11:48:00+00:00",
-      "title": "Officiellt: Spanien förlänger med Luis de la Fuente",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "officiellt-spanien-f-rl-nger-med-luis-de-la-fuente"
-    },
-    {
-      "published_at": "2026-09-21T10:00:00+00:00",
-      "updated_at": "2026-09-21T10:00:00+00:00",
-      "title": "Hoppet om nytt HBK-kontrakt lever: \"Tur som har dessa spelare\"",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "hoppet-om-nytt-hbk-kontrakt-lever-tur-som-har-dessa-spelare"
     },
     {
       "published_at": "2026-09-26T13:08:29+00:00",
@@ -805,10 +569,10 @@
       "id": "beskedet-emil-holm-l-mnar-samlingen-efter-nya-skadan"
     },
     {
-      "published_at": "2026-09-26T19:15:59+00:00",
-      "updated_at": "2026-09-26T19:15:59+00:00",
+      "published_at": "2026-09-26T22:15:07+00:00",
+      "updated_at": "2026-09-26T22:15:07+00:00",
       "title": "USMNT v Peru live – analysis and updates from international friendly in Orlando",
-      "summary": "USA v Peru kicks off at 4.30 ET Cavan Sullivan, other young players could make debuts Sign up for our free newsletter for US readers Email Jeff with thoughts, questions and jokes Mauricio Pochettino will field a squad involving 26 of his 28 available players today. Both sides agreed to 11 potential substitutions in this friendly (or “non-official match,” as Pochettino likes to say) and he is sure to use all of them. One would assume that one of the missing 28 is a goalkeeper.",
+      "summary": "USA v Peru kicks off at 4.30pm ET Cavan Sullivan, other young players could make debuts Sign up for our free newsletter for US readers Email Jeff with thoughts, questions and jokes You have probably heard of 16-year-old Philadelphia Union phenom Cavan Sullivan. But there are 12 other highly rated potential debutants on the roster for this international window.",
       "category": [
         "Serie A"
       ],
@@ -816,7 +580,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://i.guim.co.uk/img/media/2c7ee3a4e5a2d5e3d2de4af2c03257197005094d/397_0_3453_2764/master/3453.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=7ff77c67521ca96f6f0a8e0805dee949",
+      "image": "https://i.guim.co.uk/img/media/0ba82020a94247a6bcbcfb381dec8f1480209674/488_0_2826_2261/master/2826.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=3629c0142a37e910d9e332dd6be067ac",
       "sources": [
         {
           "name": "The Guardian",
@@ -1375,94 +1139,58 @@
       "id": "crisis-looming-for-marseille-after-five-successive-losses"
     },
     {
-      "published_at": "2026-09-19T21:41:40+00:00",
-      "updated_at": "2026-09-19T21:41:40+00:00",
-      "title": "Raphinha hat-trick maintains Barcelona’s perfect LaLiga start",
-      "summary": "Read the full report at Reuters.",
-      "category": [
-        "La Liga"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "barcelona",
-      "image": "",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Reuters",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "raphinha-hat-trick-maintains-barcelona-s-perfect-laliga-start"
-    },
-    {
-      "published_at": "2026-09-19T21:19:46+00:00",
-      "updated_at": "2026-09-19T21:19:46+00:00",
-      "title": "Lyon thrash Rennes 4-0 after delay due to offensive banner",
-      "summary": "Read the full report at Reuters.",
-      "category": [
-        "Ligue 1"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Reuters",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "lyon-thrash-rennes-4-0-after-delay-due-to-offensive-banner"
-    },
-    {
-      "published_at": "2026-09-22T05:49:00+00:00",
-      "updated_at": "2026-09-22T05:49:00+00:00",
-      "title": "Uppgifter: Svanberg borta i minst sex veckor",
-      "summary": "Mattias Svanberg missar Sveriges kommande Nations League-samling. Nu kommer nya uppgifter om att mittfältaren blir borta i sex veckor - vilket även kan sätta novembermatcherna i fara",
+      "published_at": "2026-09-26T20:49:54+00:00",
+      "updated_at": "2026-09-26T20:49:54+00:00",
+      "title": "England föll mot Spanien – efter Harry Kanes misslyckade straff",
+      "summary": "Harry Kane halkade och brände straff när Spanien vände och vann borta mot England i Nations Leagues A-division. – En annan dag hade vi definitivt vunnit den matchen, säger den engelske lagkaptenen till ITV",
       "category": [
         "Sverige"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.22/0.42/a5fd9c3e13431735b7651f50c665fbaecaa65893475b23f6f29bf162a9bbe1d0",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/mattias-svanberg-blir-borta-i-sex-veckor-novembermatcherna-i-fara-701105"
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/england-foll-mot-spanien-efter-harry-kanes-misslyckade-straff"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/england-foll-mot-spanien-efter-harry-kanes-misslyckade-straff"
       },
-      "confirmed_by": [
+      "confirmed_by": [],
+      "id": "england-f-ll-mot-spanien-efter-harry-kanes-misslyckade-straff"
+    },
+    {
+      "published_at": "2026-09-26T20:07:45+00:00",
+      "updated_at": "2026-09-26T20:07:45+00:00",
+      "title": "Real Madrid’s Kylian Mbappe expected to be sidelined for around two weeks",
+      "summary": "Read the full report at The Athletic.",
+      "category": [
+        "La Liga"
+      ],
+      "status": "Highly credible",
+      "entity": "kylian-mbappe",
+      "entity_type": "players",
+      "club": "real-madrid",
+      "image": "",
+      "sources": [
         {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/mattias-svanberg-blir-borta-i-sex-veckor-novembermatcherna-i-fara-701105"
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
-      "id": "uppgifter-svanberg-borta-i-minst-sex-veckor"
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "real-madrid-s-kylian-mbappe-expected-to-be-sidelined-for-around-two-weeks"
     },
     {
       "published_at": "2026-09-26T17:48:28+00:00",
@@ -1656,60 +1384,6 @@
       "id": "viktor-gy-keres-om-framtiden-i-arsenal-f-r-mig-var-det-givet"
     },
     {
-      "published_at": "2026-09-25T21:06:59+00:00",
-      "updated_at": "2026-09-25T21:06:59+00:00",
-      "title": "Experten: De var Sveriges bästa spelare mot Rumänien",
-      "summary": "Sverige besegrade Rumänien i Nations League-premiären på Nationalarenan. Här tar SVT:s fotbollsexpert ut de tre spelarna som imponerade mest på honom. – De gör det väldigt bra tillsammans, säger Eriksson i klippet",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.26/0.34/d09187e4ae1c350270b873faec4439ce974e84e26d0dd366092a26d10959086a?template=q1mcfv",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/experten-de-var-sveriges-basta-spelare-mot-rumanien"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/experten-de-var-sveriges-basta-spelare-mot-rumanien"
-      },
-      "confirmed_by": [],
-      "id": "experten-de-var-sveriges-b-sta-spelare-mot-rum-nien"
-    },
-    {
-      "published_at": "2026-09-25T22:58:00+00:00",
-      "updated_at": "2026-09-25T22:58:00+00:00",
-      "title": "Mbappe scores but injured as Zidane's France win | Northern Ireland beat Georgia",
-      "summary": "Latest updates from La Liga, Serie A, Bundesliga and Ligue 1",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "kylian-mbappe",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/09/1600x900/skysports-france-kylian-mbappe_7361462.jpg?20260925225504",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
-      },
-      "confirmed_by": [],
-      "id": "mbappe-scores-but-injured-as-zidane-s-france-win-northern-ireland-beat-georgia"
-    },
-    {
       "published_at": "2026-09-26T18:00:00+00:00",
       "updated_at": "2026-09-26T18:00:00+00:00",
       "title": "What did Pocognoli change in first Scotland game in charge?",
@@ -1818,8 +1492,35 @@
       "id": "man-city-charges-what-happens-now"
     },
     {
-      "published_at": "2026-09-25T13:34:25+00:00",
-      "updated_at": "2026-09-25T13:34:25+00:00",
+      "published_at": "2026-09-25T16:37:00+00:00",
+      "updated_at": "2026-09-25T16:37:00+00:00",
+      "title": "Slegers: Put pressure on me, not Arsenal players after difficult WSL start",
+      "summary": "Renee Slegers is calmer than she might be about Arsenal's start to the season",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-leah-williamson-arsenal_7361732.jpg?20260926141916",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13591865/renee-slegers-put-pressure-on-me-not-arsenal-players-after-poor-start-to-season-says-gunners-boss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13591865/renee-slegers-put-pressure-on-me-not-arsenal-players-after-poor-start-to-season-says-gunners-boss"
+      },
+      "confirmed_by": [],
+      "id": "slegers-put-pressure-on-me-not-arsenal-players-after-difficult-wsl-start"
+    },
+    {
+      "published_at": "2026-09-25T12:37:00+00:00",
+      "updated_at": "2026-09-25T12:37:00+00:00",
       "title": "European football news and transfers: Barcelona, Real Madrid, PSG, Bayern Munich latest and more",
       "summary": "Read the full report at Sky Sports.",
       "category": [
@@ -1846,60 +1547,6 @@
       },
       "confirmed_by": [],
       "id": "european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-mo"
-    },
-    {
-      "published_at": "2026-09-24T11:00:37+00:00",
-      "updated_at": "2026-09-24T11:00:37+00:00",
-      "title": "Can the English goal machine secure the Ballon d'Or? | All of Harry Kane's goals from the 2025/2026 Bundesliga season",
-      "summary": "Read the full report at Sky Sports.",
-      "category": [
-        "Bundesliga"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "can-the-english-goal-machine-secure-the-ballon-d-or-all-of-harry-kane-s-goals-from-the-202"
-    },
-    {
-      "published_at": "2026-09-22T07:00:00+00:00",
-      "updated_at": "2026-09-22T07:00:00+00:00",
-      "title": "Declan Rice prepared to commit long-term future to Arsenal - Paper Talk",
-      "summary": "Read the full report at Sky Sports.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "declan-rice-prepared-to-commit-long-term-future-to-arsenal-paper-talk"
     },
     {
       "published_at": "2026-09-26T12:57:39+00:00",
@@ -2144,6 +1791,60 @@
       },
       "confirmed_by": [],
       "id": "ranieri-luckily-young-italian-footballers-get-playing-outside-serie-a"
+    },
+    {
+      "published_at": "2026-09-26T22:11:00+00:00",
+      "updated_at": "2026-09-26T22:11:00+00:00",
+      "title": "Modric, 41, scores in Croatia's Nations League win over Czech Republic",
+      "summary": "Latest updates from La Liga, Serie A, Bundesliga and Ligue 1",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-luka-modric-croatia_7362163.jpg?20260926221101",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
+      },
+      "confirmed_by": [],
+      "id": "modric-41-scores-in-croatia-s-nations-league-win-over-czech-republic"
+    },
+    {
+      "published_at": "2026-09-25T07:41:00+00:00",
+      "updated_at": "2026-09-25T07:41:00+00:00",
+      "title": "'Missed chance' - Reaction to England's defeat vs Spain LIVE!",
+      "summary": "UEFA Nations League match England vs Spain 26.09.2026. Preview and stats followed by live commentary, video highlights and match report",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/england-vs-spain/live/554000"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/england-vs-spain/live/554000"
+      },
+      "confirmed_by": [],
+      "id": "missed-chance-reaction-to-england-s-defeat-vs-spain-live"
     }
   ]
 }
