@@ -1,111 +1,6 @@
 {
-  "updated_at": "2026-09-27T21:51:50.804605+00:00",
+  "updated_at": "2026-09-28T00:20:28.043190+00:00",
   "items": [
-    {
-      "published_at": "2026-09-25T11:53:25+00:00",
-      "updated_at": "2026-09-25T11:53:25+00:00",
-      "title": "Premier League joins top European leagues in call for reforms to way Fifa is run",
-      "summary": "Read the full report at BBC Sport.",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNY3VqNzFIcGMxRDZhLS1jWkt6MHNoTEZGa0d2M05pLXZGbkh4ck0zZzhxZ29fVHd3Q0hKYXE1T3ZWMU9vY1VZQ3k3M2FtUU9KVnJwQUdJbXdfMk1wNHhwd3lWbDNvMFZ1Nmcwa1Q4bV9GMUljWm9oTjVpX0xPUGhNYjFPYWFBWkVUNDZkRDRYSFlIMTRfV2h2Wm5mOGphWnZFVXptQUtOUnZHR3Q3RUpoTGpLNTk2RkRCTEFJcEpFazVkdkVwUDRiRThCOWVqTVI2YnhpbmZSenIxRk9jdnloa1lIaXNOVWw3dEJLcmZIdG0xSVhpc2hFV3BiSk0wenFHOTVr?oc=5"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbjJteS1VZkhwbDBGTERERjZuNGR6ZG9aMnBmR2NNMXdUbGVla1l6cEJIN09ZOENiY01zb3FPWUxYYXFMdzUzLWhDSUlnbHZrcnlWbmNESWJuSVZfTkxLRl9JUXJJZGN5dm5vSW9nNzE5QUxacEpmTmVOYTd2MXA0cUxmTkM3T2dzTDcxZlh4eUwtVXdVY1A4Q093SmlFSWxPM0RTdktlLTUzLXFQRE9wdWVfUDNYYnlhc202SmZ0NHE2aFc3Q0JF?oc=5"
-        },
-        {
-          "name": "Football Italia",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBdXNXUzVUdGJlR0wzVWhPYWdjc0I5SXlnN0pJcEZXWU5raGpjZGlka1QxRWRzX1dBQUdUZENzS0trREhrOFhwR2RhZ3JzVDBBOWtTYUs3cGlnbXBST2xJQlpUU0NyS1lzaXdBYzVneDlzNVVHbzZ1UUdtNS1VOU3SAYQBQVVfeXFMT1NkdUJSV0FwQ1pCbVNRNUpRT09IQU9ZUTdtYV9fRVZfVHpXc21fR0hZRDJ2MlpwWURJcDY5SmpUeXBpdi1xWHo2aHpESzU0MTFOQVczOWRXWTItb3hFWkllMm40RjhjUy11UHQ5b2RtcFNaeGZlQTNDT0ZvMTlPNlVqR2N6?oc=5"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNY3VqNzFIcGMxRDZhLS1jWkt6MHNoTEZGa0d2M05pLXZGbkh4ck0zZzhxZ29fVHd3Q0hKYXE1T3ZWMU9vY1VZQ3k3M2FtUU9KVnJwQUdJbXdfMk1wNHhwd3lWbDNvMFZ1Nmcwa1Q4bV9GMUljWm9oTjVpX0xPUGhNYjFPYWFBWkVUNDZkRDRYSFlIMTRfV2h2Wm5mOGphWnZFVXptQUtOUnZHR3Q3RUpoTGpLNTk2RkRCTEFJcEpFazVkdkVwUDRiRThCOWVqTVI2YnhpbmZSenIxRk9jdnloa1lIaXNOVWw3dEJLcmZIdG0xSVhpc2hFV3BiSk0wenFHOTVr?oc=5"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbjJteS1VZkhwbDBGTERERjZuNGR6ZG9aMnBmR2NNMXdUbGVla1l6cEJIN09ZOENiY01zb3FPWUxYYXFMdzUzLWhDSUlnbHZrcnlWbmNESWJuSVZfTkxLRl9JUXJJZGN5dm5vSW9nNzE5QUxacEpmTmVOYTd2MXA0cUxmTkM3T2dzTDcxZlh4eUwtVXdVY1A4Q093SmlFSWxPM0RTdktlLTUzLXFQRE9wdWVfUDNYYnlhc202SmZ0NHE2aFc3Q0JF?oc=5"
-        },
-        {
-          "name": "Football Italia",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBdXNXUzVUdGJlR0wzVWhPYWdjc0I5SXlnN0pJcEZXWU5raGpjZGlka1QxRWRzX1dBQUdUZENzS0trREhrOFhwR2RhZ3JzVDBBOWtTYUs3cGlnbXBST2xJQlpUU0NyS1lzaXdBYzVneDlzNVVHbzZ1UUdtNS1VOU3SAYQBQVVfeXFMT1NkdUJSV0FwQ1pCbVNRNUpRT09IQU9ZUTdtYV9fRVZfVHpXc21fR0hZRDJ2MlpwWURJcDY5SmpUeXBpdi1xWHo2aHpESzU0MTFOQVczOWRXWTItb3hFWkllMm40RjhjUy11UHQ5b2RtcFNaeGZlQTNDT0ZvMTlPNlVqR2N6?oc=5"
-        }
-      ],
-      "id": "premier-league-joins-top-european-leagues-in-call-for-reforms-to-way-fifa-is-run"
-    },
-    {
-      "published_at": "2026-09-22T16:09:43+00:00",
-      "updated_at": "2026-09-22T16:09:43+00:00",
-      "title": "Real Madrid call for new LaLiga president following Tebas statements",
-      "summary": "Read the full report at Reuters.",
-      "category": [
-        "La Liga"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "BBC Sport",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BZHdncVBwQkwwek5iZ1llVU04aXJadUlTMGFaSFdMUDlGbGNSQ0RMOFhBX0RyODMyVFRLMmhhaEpVMkx5dEZiMTdxekpjU0tYS25yS0N3T0hpOU8wWGk2S2dsVGpIUnRK?oc=5"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcjM1UktJREgtMXBlTmpSMHk3aDVjc21xMzZNbFRUOU5MNWxINHpRcGp2aGhkNE9XR1JSall4aDlEVXY5R1lsb01aRXNIdnU3UTlCN1ZzY1h3ckVsSWM4X1ZnQkJJRmpLekpVNmdjZkpkZXduWF8zTm5QVkRTQzZpdDQ4RUZ4Z1VESE5uRlVwUERFaFFwWEY1ZmJFSE1EZmFhcWwtd1hxWDZ3X3JteDVCcjdKMG1RUQ?oc=5"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXRBY0RsTmsybFpKVUEyMjRsZWp5cnJiandIckFsMGtBQkd1Zi1aLWsxVWRidEx6aVJCNTU5dDR6VEZ6RldjdmlXZ29GRUt5NHZkWGhmME92cDhiU3ZWZTU2c3VkNHBfMS1ITjhMMHdrQnlId09ZaXE2Q0JkelhnVEpNTmdiVk9aNzh6eWtPY0ZxS0lXaVdZNmhIbFVJUVdlWndtUG51NlFIYUJEQ1BXa2xwM2tuWDZIanpwZTh0NA?oc=5"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Reuters",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [
-        {
-          "name": "BBC Sport",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BZHdncVBwQkwwek5iZ1llVU04aXJadUlTMGFaSFdMUDlGbGNSQ0RMOFhBX0RyODMyVFRLMmhhaEpVMkx5dEZiMTdxekpjU0tYS25yS0N3T0hpOU8wWGk2S2dsVGpIUnRK?oc=5"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcjM1UktJREgtMXBlTmpSMHk3aDVjc21xMzZNbFRUOU5MNWxINHpRcGp2aGhkNE9XR1JSall4aDlEVXY5R1lsb01aRXNIdnU3UTlCN1ZzY1h3ckVsSWM4X1ZnQkJJRmpLekpVNmdjZkpkZXduWF8zTm5QVkRTQzZpdDQ4RUZ4Z1VESE5uRlVwUERFaFFwWEY1ZmJFSE1EZmFhcWwtd1hxWDZ3X3JteDVCcjdKMG1RUQ?oc=5"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXRBY0RsTmsybFpKVUEyMjRsZWp5cnJiandIckFsMGtBQkd1Zi1aLWsxVWRidEx6aVJCNTU5dDR6VEZ6RldjdmlXZ29GRUt5NHZkWGhmME92cDhiU3ZWZTU2c3VkNHBfMS1ITjhMMHdrQnlId09ZaXE2Q0JkelhnVEpNTmdiVk9aNzh6eWtPY0ZxS0lXaVdZNmhIbFVJUVdlWndtUG51NlFIYUJEQ1BXa2xwM2tuWDZIanpwZTh0NA?oc=5"
-        }
-      ],
-      "id": "real-madrid-call-for-new-laliga-president-following-tebas-statements"
-    },
     {
       "published_at": "2026-09-27T19:05:33+00:00",
       "updated_at": "2026-09-27T19:05:33+00:00",
@@ -177,6 +72,77 @@
         }
       ],
       "id": "man-city-charges-latest-chairman-s-statement-how-long-process-could-take-and-what-next"
+    },
+    {
+      "published_at": "2026-09-22T16:09:43+00:00",
+      "updated_at": "2026-09-22T16:09:43+00:00",
+      "title": "Real Madrid call for new LaLiga president following Tebas statements",
+      "summary": "Read the full report at Reuters.",
+      "category": [
+        "La Liga"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "real-madrid",
+      "image": "",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcjM1UktJREgtMXBlTmpSMHk3aDVjc21xMzZNbFRUOU5MNWxINHpRcGp2aGhkNE9XR1JSall4aDlEVXY5R1lsb01aRXNIdnU3UTlCN1ZzY1h3ckVsSWM4X1ZnQkJJRmpLekpVNmdjZkpkZXduWF8zTm5QVkRTQzZpdDQ4RUZ4Z1VESE5uRlVwUERFaFFwWEY1ZmJFSE1EZmFhcWwtd1hxWDZ3X3JteDVCcjdKMG1RUQ?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXRBY0RsTmsybFpKVUEyMjRsZWp5cnJiandIckFsMGtBQkd1Zi1aLWsxVWRidEx6aVJCNTU5dDR6VEZ6RldjdmlXZ29GRUt5NHZkWGhmME92cDhiU3ZWZTU2c3VkNHBfMS1ITjhMMHdrQnlId09ZaXE2Q0JkelhnVEpNTmdiVk9aNzh6eWtPY0ZxS0lXaVdZNmhIbFVJUVdlWndtUG51NlFIYUJEQ1BXa2xwM2tuWDZIanpwZTh0NA?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Reuters",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcjM1UktJREgtMXBlTmpSMHk3aDVjc21xMzZNbFRUOU5MNWxINHpRcGp2aGhkNE9XR1JSall4aDlEVXY5R1lsb01aRXNIdnU3UTlCN1ZzY1h3ckVsSWM4X1ZnQkJJRmpLekpVNmdjZkpkZXduWF8zTm5QVkRTQzZpdDQ4RUZ4Z1VESE5uRlVwUERFaFFwWEY1ZmJFSE1EZmFhcWwtd1hxWDZ3X3JteDVCcjdKMG1RUQ?oc=5"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXRBY0RsTmsybFpKVUEyMjRsZWp5cnJiandIckFsMGtBQkd1Zi1aLWsxVWRidEx6aVJCNTU5dDR6VEZ6RldjdmlXZ29GRUt5NHZkWGhmME92cDhiU3ZWZTU2c3VkNHBfMS1ITjhMMHdrQnlId09ZaXE2Q0JkelhnVEpNTmdiVk9aNzh6eWtPY0ZxS0lXaVdZNmhIbFVJUVdlWndtUG51NlFIYUJEQ1BXa2xwM2tuWDZIanpwZTh0NA?oc=5"
+        }
+      ],
+      "id": "real-madrid-call-for-new-laliga-president-following-tebas-statements"
+    },
+    {
+      "published_at": "2026-09-27T22:20:17+00:00",
+      "updated_at": "2026-09-27T22:20:17+00:00",
+      "title": "Republic of Ireland 'raised awareness worldwide' in Israel game",
+      "summary": "Republic of Ireland head coach Heimir Hallgrimsson says his players \"raised awareness worldwide\" after they chose not to engage in pre-match formalities with Israel",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d6a0/live/2ebf9bd0-baa7-11f1-bc1f-3f186ca4140c.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "republic-of-ireland-raised-awareness-worldwide-in-israel-game"
     },
     {
       "published_at": "2026-09-27T11:26:42+00:00",
@@ -522,6 +488,42 @@
       "id": "thomas-tuchel-resists-madness-of-calls-to-rest-england-players-despite-longer-window"
     },
     {
+      "published_at": "2026-09-25T09:28:33+00:00",
+      "updated_at": "2026-09-25T09:28:33+00:00",
+      "title": "Top European leagues heighten pressure on Infantino with call for major changes at Fifa",
+      "summary": "Four leagues says Fifa governance ‘not fit for purpose’ They criticise ‘expansionism’ and want more input The Premier League has joined forces with La Liga, Serie A and the Bundesliga to call for urgent governance reform at Fifa after the World Cup sell-off debacle (FFE) as Gianni Infantino prepares to seek a fourth term as president. Their strongly worded statement is the latest indication that Infantino’s willingness to hold an external governance review does not go far enough, after the Guardian revealed that several Fifa council members ha ve rejected that proposal .",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/25/gianni-infantino-fifa-pressure-reform-premier-league-bundesliga-la-liga-serie-a"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/25/gianni-infantino-fifa-pressure-reform-premier-league-bundesliga-la-liga-serie-a"
+        }
+      ],
+      "id": "top-european-leagues-heighten-pressure-on-infantino-with-call-for-major-changes-at-fifa"
+    },
+    {
       "published_at": "2026-09-23T09:49:04+00:00",
       "updated_at": "2026-09-23T09:49:04+00:00",
       "title": "Columbus Crew sack coach Federico Higuaín for ‘man’s game’ jibe aimed at female referee",
@@ -558,6 +560,33 @@
       "id": "columbus-crew-sack-coach-federico-higua-n-for-man-s-game-jibe-aimed-at-female-referee"
     },
     {
+      "published_at": "2026-09-27T23:00:00+00:00",
+      "updated_at": "2026-09-27T23:00:00+00:00",
+      "title": "Papers: Barca monitoring as Estevao grows impatient with Chelsea role",
+      "summary": "Plus: Al Nassr forward Joao Felix wants to return to European football and is understood to dream of playing for Barcelona; Roy Keane reveals his stance on returning to management",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13592576/barcelona-closely-monitoring-as-estevao-grows-impatient-over-chelsea-role-paper-talk"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13592576/barcelona-closely-monitoring-as-estevao-grows-impatient-over-chelsea-role-paper-talk"
+      },
+      "confirmed_by": [],
+      "id": "papers-barca-monitoring-as-estevao-grows-impatient-with-chelsea-role"
+    },
+    {
       "published_at": "2026-09-27T10:00:00+00:00",
       "updated_at": "2026-09-27T10:00:00+00:00",
       "title": "Papers: Man Utd keeping close eye on Barca left-back Balde",
@@ -583,6 +612,33 @@
       },
       "confirmed_by": [],
       "id": "papers-man-utd-keeping-close-eye-on-barca-left-back-balde"
+    },
+    {
+      "published_at": "2026-09-27T18:45:00+00:00",
+      "updated_at": "2026-09-27T18:45:00+00:00",
+      "title": "Smäll för Portugal - Fernandes är skadad",
+      "summary": "Smäll för Portugal - Fernandes är skadad Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "sm-ll-f-r-portugal-fernandes-r-skadad"
     },
     {
       "published_at": "2026-09-27T15:05:00+00:00",
@@ -640,8 +696,8 @@
       "id": "potter-om-isaks-skada-frustrerande"
     },
     {
-      "published_at": "2026-09-27T10:35:00+00:00",
-      "updated_at": "2026-09-27T10:35:00+00:00",
+      "published_at": "2026-09-27T11:40:10+00:00",
+      "updated_at": "2026-09-27T11:40:10+00:00",
       "title": "Klart: Scalvini förlänger med Atalanta",
       "summary": "Klart: Scalvini förlänger med Atalanta Fotbollskanalen",
       "category": [
@@ -804,33 +860,6 @@
       "id": "operation-f-r-taha-ali-borta-i-m-nader"
     },
     {
-      "published_at": "2026-09-21T11:48:00+00:00",
-      "updated_at": "2026-09-21T11:48:00+00:00",
-      "title": "Officiellt: Spanien förlänger med Luis de la Fuente",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "officiellt-spanien-f-rl-nger-med-luis-de-la-fuente"
-    },
-    {
       "published_at": "2026-09-27T20:43:58+00:00",
       "updated_at": "2026-09-27T20:43:58+00:00",
       "title": "Norge föll mot Portugal efter målvaktens blunder",
@@ -865,6 +894,69 @@
         }
       ],
       "id": "norge-f-ll-mot-portugal-efter-m-lvaktens-blunder"
+    },
+    {
+      "published_at": "2026-09-26T08:25:00+00:00",
+      "updated_at": "2026-09-26T08:25:00+00:00",
+      "title": "Roberto Mancini’s second spell in charge of Italy could hardly have got off to a worse start",
+      "summary": "Read the full report at The Athletic.",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "Football Italia",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XVDFJRm51MXd3cjF2anBOMWd3TmU3a0JLOS1LRnJaNUFLeHI0eW9wdUp1XzAtVVVMSXd6WFpLWlVoRHg3WkdyNVVaS2lDSThPQ1lCVXJreEdLTzZlSEMxM1MyWFI2QnR0X2lEdXl5aTljV25GX3ZCb3B6LTLSAYIBQVVfeXFMUC1GYWt5Uy1GSzFXdi1pb2EzMUVQTk16M1pDdWUyQ212Z0NXOTVoSG1GUFJMcXUxMm54OUU5Z29sMWtXb29Pb0hjc0w2NmNHcVNLbGRjY21UdlREUWE4U0JFU3R6bHNYZjhFODNHUnhHbXJ0dGdvNDFXRVFBaXNXVXZOdw?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "Football Italia",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XVDFJRm51MXd3cjF2anBOMWd3TmU3a0JLOS1LRnJaNUFLeHI0eW9wdUp1XzAtVVVMSXd6WFpLWlVoRHg3WkdyNVVaS2lDSThPQ1lCVXJreEdLTzZlSEMxM1MyWFI2QnR0X2lEdXl5aTljV25GX3ZCb3B6LTLSAYIBQVVfeXFMUC1GYWt5Uy1GSzFXdi1pb2EzMUVQTk16M1pDdWUyQ212Z0NXOTVoSG1GUFJMcXUxMm54OUU5Z29sMWtXb29Pb0hjc0w2NmNHcVNLbGRjY21UdlREUWE4U0JFU3R6bHNYZjhFODNHUnhHbXJ0dGdvNDFXRVFBaXNXVXZOdw?oc=5"
+        }
+      ],
+      "id": "roberto-mancini-s-second-spell-in-charge-of-italy-could-hardly-have-got-off-to-a-worse-sta"
+    },
+    {
+      "published_at": "2026-09-27T21:30:15+00:00",
+      "updated_at": "2026-09-27T21:30:15+00:00",
+      "title": "McTominay’s role a poser for Pocognoli as Scotland offer positives in Slovenia",
+      "summary": "New coach still learning about his squad as they prepare to face Switzerland with the Napoli midfielder expected to return in November An elongated international window does not prevent Sébastien Pocognoli from glancing towards the next one. Scott McTominay’s absence from Scotland’s opening set of Nations League games is understandable as the Napoli midfielder recovers from a heart procedure. The scoreless draw in Slovenia on Saturday raised the question of where McTominay will fit in when he returns.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/ba0b3819ca65e1c5ed6c5412020e500b81e52b94/70_56_3081_2466/master/3081.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=830682a32dd9ed29f2e5a0b63aff425a",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/27/scott-mctominay-sebastien-pocognoli-scotland-switzerland-nations-league"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/sep/27/scott-mctominay-sebastien-pocognoli-scotland-switzerland-nations-league"
+      },
+      "confirmed_by": [],
+      "id": "mctominay-s-role-a-poser-for-pocognoli-as-scotland-offer-positives-in-slovenia"
     },
     {
       "published_at": "2026-09-27T09:00:01+00:00",
@@ -975,33 +1067,6 @@
       "id": "messi-s-exit-leaves-argentina-with-impossible-task-of-replacing-their-superhero-jonathan-w"
     },
     {
-      "published_at": "2026-09-26T15:19:01+00:00",
-      "updated_at": "2026-09-26T15:19:01+00:00",
-      "title": "Pocognoli’s reign as Scotland coach begins with stalemate in Slovenia",
-      "summary": "Sébastien Pocognoli grimaced on Friday when recalling his debut as an international player for Belgium. Alessandro del Piero and Italy discovered favourable opposition when preparing for the 2006 World Cup. Pocognoli will also look back, in time, at his first game as the manager of Scotland.",
-      "category": [
-        "Coach"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/0425ae02bfc3b64b959e7f51e550069425888458/500_0_2527_2022/master/2527.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78d2c95dfe259aec850fbdae6a7ff517",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/26/slovenia-scotland-nations-league-match-report"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/sep/26/slovenia-scotland-nations-league-match-report"
-      },
-      "confirmed_by": [],
-      "id": "pocognoli-s-reign-as-scotland-coach-begins-with-stalemate-in-slovenia"
-    },
-    {
       "published_at": "2026-09-26T05:00:27+00:00",
       "updated_at": "2026-09-26T05:00:27+00:00",
       "title": "How drawn-out saga of Manchester City’s alleged cheating came to this",
@@ -1054,33 +1119,6 @@
       },
       "confirmed_by": [],
       "id": "we-manchester-city-fans-fear-relegation-and-losing-trophies-but-club-are-bang-to-rights"
-    },
-    {
-      "published_at": "2026-09-25T11:42:08+00:00",
-      "updated_at": "2026-09-25T11:42:08+00:00",
-      "title": "Kieron Dyer making waves at Southend after leaving ‘hooligan’ days and ‘deathbed’ behind",
-      "summary": "Day in former England midfielder’s company reveals a chess fan and hands-on manager who will not tolerate tardiness Kieron Dyer is recounting a tale from his time in Japan at the 2002 World Cup. “You have a lot of time on your hands,” he begins from behind his desk at Southend United’s training ground. Dyer, a chess fan, was looking for an opponent in the England squad.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/3b5dd99ec368814b9009b33c2e4943fc36a73911/885_284_4040_3232/master/4040.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ed545583c1f49442f8882f1732c6a343",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/25/kieron-dyer-southend-manager-interview"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/sep/25/kieron-dyer-southend-manager-interview"
-      },
-      "confirmed_by": [],
-      "id": "kieron-dyer-making-waves-at-southend-after-leaving-hooligan-days-and-deathbed-behind"
     },
     {
       "published_at": "2026-09-24T17:00:25+00:00",
@@ -1137,6 +1175,33 @@
       "id": "christian-eriksen-leaves-wolfsburg-by-mutual-consent-after-on-pitch-collapse-in-june"
     },
     {
+      "published_at": "2026-09-23T13:16:41+00:00",
+      "updated_at": "2026-09-23T13:16:41+00:00",
+      "title": "Chelsea have entered the realm of late-stage American sports capitalism | Leander Schaerlaeckens",
+      "summary": "The Blues’ lack of success was no impediment to Todd Boehly and Mark Walter recouping profits from the club’s sale. That’s how things work in the US Here follows a list of the things accomplished at Chelsea Football Club during a time that historians may choose to grandly term the First Clearlake Era, or perhaps the Boehly Bungle. Since the May 2022 purchase of the club from the sanctioned Russian oligarch Roman Abramovich, when Todd Boehly took over the club’s daily operations, Chelsea – Premier League champions as recently as 2017 and 2015, and Champions League winners in 2021 – have placed 12th, sixth, fourth and 10th in the league.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://i.guim.co.uk/img/media/c7eb197f9bd87f35313ec17288b0356a33dd2b30/359_0_4623_3700/master/4623.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c16b2119ba575dc5895b85cc47041cd1",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/23/chelsea-sale-american-sports-capitalism"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/sep/23/chelsea-sale-american-sports-capitalism"
+      },
+      "confirmed_by": [],
+      "id": "chelsea-have-entered-the-realm-of-late-stage-american-sports-capitalism-leander-schaerlaec"
+    },
+    {
       "published_at": "2026-09-26T17:47:23+00:00",
       "updated_at": "2026-09-26T17:47:23+00:00",
       "title": "Förlust mot Öster, och vinst mot Oddevold",
@@ -1189,33 +1254,6 @@
       },
       "confirmed_by": [],
       "id": "hbk-f-llde-goliat-trotsade-alla-odds-mot-europajagande-aik"
-    },
-    {
-      "published_at": "2026-09-20T22:19:00+00:00",
-      "updated_at": "2026-09-20T22:19:00+00:00",
-      "title": "Taha Ali är skadad - kan missa landskamperna",
-      "summary": "Taha Ali gjorde sitt första mål för PAOK - men tvingades samtidigt lämna planen med en axelskada. Nu uppges svensken kunna missa Sveriges kommande Nations League-matcher",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/ivi7bvIpU7Ias9ZE9360jjqzXyD4Phn7sanake39.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/taha-ali-ar-skadad-kan-missa-landskamperna-701058"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/taha-ali-ar-skadad-kan-missa-landskamperna-701058"
-      },
-      "confirmed_by": [],
-      "id": "taha-ali-r-skadad-kan-missa-landskamperna"
     },
     {
       "published_at": "2026-09-27T10:09:46+00:00",
@@ -1682,33 +1720,6 @@
       "id": "daniel-svenssons-svar-p-ryktena-s-g-n-got-om-det"
     },
     {
-      "published_at": "2026-09-26T08:25:00+00:00",
-      "updated_at": "2026-09-26T08:25:00+00:00",
-      "title": "Roberto Mancini’s second spell in charge of Italy could hardly have got off to a worse start",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "Football"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "roberto-mancini-s-second-spell-in-charge-of-italy-could-hardly-have-got-off-to-a-worse-sta"
-    },
-    {
       "published_at": "2026-09-23T15:30:08+00:00",
       "updated_at": "2026-09-23T15:30:08+00:00",
       "title": "Madagascar deselects player after ‘comments from several years ago’ resurface",
@@ -1734,6 +1745,69 @@
       },
       "confirmed_by": [],
       "id": "madagascar-deselects-player-after-comments-from-several-years-ago-resurface"
+    },
+    {
+      "published_at": "2026-09-21T16:52:23+00:00",
+      "updated_at": "2026-09-21T16:52:23+00:00",
+      "title": "Real Valladolid find boy, 17, clinging to underside of team bus on trip back from Ceuta",
+      "summary": "Read the full report at The Athletic.",
+      "category": [
+        "Football"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "real-valladolid-find-boy-17-clinging-to-underside-of-team-bus-on-trip-back-from-ceuta"
+    },
+    {
+      "published_at": "2026-09-27T22:03:36+00:00",
+      "updated_at": "2026-09-27T22:03:36+00:00",
+      "title": "Nations League: Greece stun Klopp’s Germany, Netherlands sink Serbia but Gakpo hurt",
+      "summary": "Jürgen Klopp ‘unbothered’ despite 1-0 home defeat Gakpo goes off in 2-1 win, Portugal edge past Norway Greece stunned Germany 1-0 in Augsburg to go top of their Nations League group and spoil Jürgen Klopp’s debut in the home dugout. Dimitrios Kourbelis scored the only goal in the 74th minute, earning Greece their first-ever victory in 11 matches against Germany. Ivan Jovanovic’s side now lead ⁠Group A2 with six points ⁠from two matches; Klopp’s side are third with one point from two games after a 1-1 draw against the Netherlands on Thursday.",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "jurgen-klopp",
+      "entity_type": "coaches",
+      "club": "",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-jurgen-klopp-germany_7362846.jpg?20260927224330",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/27/nations-league-germany-greece-serbia-netherlands-norway-portugal"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/27/nations-league-germany-greece-serbia-netherlands-norway-portugal"
+        }
+      ],
+      "id": "nations-league-greece-stun-klopp-s-germany-netherlands-sink-serbia-but-gakpo-hurt"
     },
     {
       "published_at": "2026-09-27T17:00:00+00:00",
@@ -1842,90 +1916,6 @@
       },
       "confirmed_by": [],
       "id": "keane-disagrees-with-gordon-there-is-a-gap-between-spain-and-england"
-    },
-    {
-      "published_at": "2026-09-26T18:00:00+00:00",
-      "updated_at": "2026-09-26T18:00:00+00:00",
-      "title": "What did Pocognoli change in first Scotland game in charge?",
-      "summary": "A draw might not be the most inspiring result for a new era, but there were still plenty of positives for Sebastien Pocognoli to take from his first game in charge of Scotland",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/09/1600x900/skysports-sebastien-pocognoli_7361942.jpg?20260926172329",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13592137/slovenia-0-0-scotland-what-did-sebastien-pocognoli-change-in-first-game-as-scottish-boss-since-replacing-steve-clarke"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13592137/slovenia-0-0-scotland-what-did-sebastien-pocognoli-change-in-first-game-as-scottish-boss-since-replacing-steve-clarke"
-      },
-      "confirmed_by": [],
-      "id": "what-did-pocognoli-change-in-first-scotland-game-in-charge"
-    },
-    {
-      "published_at": "2026-09-25T22:00:00+00:00",
-      "updated_at": "2026-09-25T22:00:00+00:00",
-      "title": "Man City charges - what happens now?",
-      "summary": "Reports claim that an independent tribunal has reached decisions in Manchester City's 115 charges case. Sky Sports analyses what could happen next in the inquiry",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://e0.365dm.com/25/07/1600x900/skysports-premier-league-manchester-city_6978987.jpg?20250731135029",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13591930/man-city-premier-league-charges-what-does-the-appeals-process-look-like-and-what-happens-now"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13591930/man-city-premier-league-charges-what-does-the-appeals-process-look-like-and-what-happens-now"
-      },
-      "confirmed_by": [],
-      "id": "man-city-charges-what-happens-now"
-    },
-    {
-      "published_at": "2026-09-25T11:20:00+00:00",
-      "updated_at": "2026-09-25T11:20:00+00:00",
-      "title": "European football news and transfers: Barcelona, Real Madrid, PSG, Bayern Munich latest and more",
-      "summary": "Read the full report at Sky Sports.",
-      "category": [
-        "La Liga",
-        "Bundesliga",
-        "Ligue 1",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-mo"
     },
     {
       "published_at": "2026-09-27T18:55:00+00:00",
@@ -2117,59 +2107,58 @@
       "id": "spelarbetyg-sverige-rum-nien-2-1"
     },
     {
-      "published_at": "2026-09-27T17:20:00+00:00",
-      "updated_at": "2026-09-27T17:20:00+00:00",
-      "title": "Parma part ways with ex-Arsenal assistant Carlos Cuesta",
-      "summary": "Read the full report at ESPN.",
+      "published_at": "2026-09-25T16:38:53+00:00",
+      "updated_at": "2026-09-25T16:38:53+00:00",
+      "title": "Inför IFK Göteborg - IF Elfsborg: Stormötet",
+      "summary": "Det spelas ett derby under lördagen mellan IFK Göteborg och IF Elfsborg. Samtidigt så tampas båda lagen om att försöka ta sig upp från Elitettan till Damallsvenskan",
       "category": [
-        "Premier League"
+        "Sverige"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "arsenal",
-      "image": "",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/yGebCQKWMIRyIkj7rSlh53t3je5MKk8sjBUm04R2.jpg",
       "sources": [
         {
-          "name": "ESPN",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/infor-ifk-goteborg-if-elfsborg-stormotet-701211"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "ESPN",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/infor-ifk-goteborg-if-elfsborg-stormotet-701211"
       },
       "confirmed_by": [],
-      "id": "parma-part-ways-with-ex-arsenal-assistant-carlos-cuesta"
+      "id": "inf-r-ifk-g-teborg-if-elfsborg-storm-tet"
     },
     {
-      "published_at": "2026-09-21T11:22:00+00:00",
-      "updated_at": "2026-09-21T11:22:00+00:00",
-      "title": "Lamine Camara better off in Monaco, ex-Chelsea midfielder says",
-      "summary": "Read the full report at ESPN.",
+      "published_at": "2026-09-26T17:58:30+00:00",
+      "updated_at": "2026-09-26T17:58:30+00:00",
+      "title": "Serie A players Diouf and Da Cunha could get France debuts",
+      "summary": "Read the full report at Football Italia.",
       "category": [
-        "Premier League",
-        "Ligue 1"
+        "Serie A"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "chelsea",
+      "club": "",
       "image": "",
       "sources": [
         {
-          "name": "ESPN",
+          "name": "Football Italia",
           "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "ESPN",
+        "name": "Football Italia",
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "lamine-camara-better-off-in-monaco-ex-chelsea-midfielder-says"
+      "id": "serie-a-players-diouf-and-da-cunha-could-get-france-debuts"
     }
   ]
 }
