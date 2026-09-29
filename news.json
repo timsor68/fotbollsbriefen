@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T14:47:44.462471+00:00",
+  "updated_at": "2026-09-29T19:49:20.876400+00:00",
   "items": [
     {
       "published_at": "2026-09-25T11:53:25+00:00",
@@ -55,54 +55,99 @@
       "id": "premier-league-joins-top-european-leagues-in-call-for-reforms-to-way-fifa-is-run"
     },
     {
-      "published_at": "2026-09-28T19:30:19+00:00",
-      "updated_at": "2026-09-28T19:30:19+00:00",
-      "title": "Scale of City’s punishment is the only story but Premier League must bear some responsibility | Barney Ronay",
-      "summary": "Manchester City have come out fighting against the guilty verdict but the Premier League faces questions of its own Nothing is over, nothing is done. Or at least not judging by the bravura, balls-out confidence of Manchester City’s chair, Khaldoon al-Mubarak, who remains convinced the past three days of whiplash are simply the drumroll before the big reveal, prelude to some clinching piece of evidence that will swish away the initial finding of guilt on the Premier League’s 100-plus charges. This appears to be the official City position right now.",
+      "published_at": "2026-09-29T16:05:21+00:00",
+      "updated_at": "2026-09-29T16:05:21+00:00",
+      "title": "Manchester City guilty over Premier League charges after £900m of ‘sham’ contracts",
+      "summary": "Commission: club broke rules over nine-season period City will appeal against verdict before Friday deadline The Premier League has confirmed Manchester City have been found guilty of all charges of breaching its financial rules over a nine-year period, with the club found to have boosted their income by a staggering amount of more than £900m. In a bombshell announcement the Premier League revealed an independent commission had found City guilty of arranging “sham contracts” with commercial partners to artificially inflate revenues and reduce costs, and of filing inaccurate accounts to hide the true state of their finances, which if accurately reported would have led to significant breaches of Premier League and Uefa spending limits.",
       "category": [
-        "Premier League"
+        "Premier League",
+        "Transfer"
       ],
       "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d258/live/a310cd20-bb6e-11f1-8200-bffada0fd8de.jpg",
+      "club": "manchester-city",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d913/live/0bfbf2c0-bc2c-11f1-a430-4d16ee157c41.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckz7zxzdwl7lo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13593034/man-city-ceo-ferran-soriano-says-fight-against-premier-league-could-take-years-to-conclude-amid-reports-of-decision-in-115-charges-case"
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/premier-league-bekraftar-manchester-city-falls"
         },
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/28/manchester-city-punishment-premier-league-charges"
+          "url": "https://www.theguardian.com/football/2026/sep/29/manchester-city-found-guilty-all-premier-league-charges-rule-breaches"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckz7zxzdwl7lo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/premier-league-bekraftar-manchester-city-falls"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/29/manchester-city-found-guilty-all-premier-league-charges-rule-breaches"
+        }
+      ],
+      "id": "manchester-city-guilty-over-premier-league-charges-after-900m-of-sham-contracts"
+    },
+    {
+      "published_at": "2026-09-29T07:15:43+00:00",
+      "updated_at": "2026-09-29T07:15:43+00:00",
+      "title": "Fifa accuses Uefa of ‘harassment’ and ‘misinformation’ in push against Infantino",
+      "summary": "Uefa accused of trying to influence presidential election Fifa court filing denies claim of FFE undervaluation Fifa accused Uefa of waging a “misinformation campaign” and trying to influence the race for its presidency as world football’s governing body urged a US ⁠court to reject a discovery ⁠request linked to a ​controversial investment proposal. Last month Uefa asked a US federal court for permission to obtain testimony and documents for use in a planned criminal complaint in Switzerland against Fifa’s president, Gianni Infantino, ⁠over an abandoned plan to transfer World Cup commercial rights into a subsidiary called Fifa Forward Enterprise.",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5548/live/fe59a060-bbd9-11f1-a430-4d16ee157c41.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqn0jdx9j01no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13593114/gianni-infantino-fifa-accuses-european-football-chiefs-of-harassment-against-world-governing-bodys-president"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/29/fifa-accuses-uefa-misinformation-campaign-gianni-infantino-influence-election"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqn0jdx9j01no?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13593034/man-city-ceo-ferran-soriano-says-fight-against-premier-league-could-take-years-to-conclude-amid-reports-of-decision-in-115-charges-case"
+          "url": "https://www.skysports.com/football/news/11095/13593114/gianni-infantino-fifa-accuses-european-football-chiefs-of-harassment-against-world-governing-bodys-president"
         },
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/28/manchester-city-punishment-premier-league-charges"
+          "url": "https://www.theguardian.com/football/2026/sep/29/fifa-accuses-uefa-misinformation-campaign-gianni-infantino-influence-election"
         }
       ],
-      "id": "scale-of-city-s-punishment-is-the-only-story-but-premier-league-must-bear-some-responsibil"
+      "id": "fifa-accuses-uefa-of-harassment-and-misinformation-in-push-against-infantino"
     },
     {
       "published_at": "2026-09-29T10:13:00+00:00",
       "updated_at": "2026-09-29T10:13:00+00:00",
       "title": "Toone and Kelly left out of England squad for WC play-off with Greece",
-      "summary": "Chelsea’s Lexi Potter gets first call-up to face Greece Leah Williamson back after injury for World Cup playoff Ella Toone and Chloe Kelly have been dropped from England’s squad because of their performance levels by Sarina Wiegman, who has given a first call-up to the 20-year-old Chelsea midfielder Lexi Potter. Toone and Kelly have played key roles in England’s run of three consecutive major tournament finals but Wiegman made clear on Tuesday, when announcing her selection for the Women’s World Cup qualifying playoff against Greece, that she wants to see more from them for their clubs.",
+      "summary": "Chelsea’s Lexi Potter gets first call-up to face Greece Leah Williamson back after injury for World Cup playoff Ella Toone and Chloe Kelly have been dropped from England’s squad because of their performance levels by Sarina Wiegman, who has given a first call-up to the 20-year-old ­Chelsea midfielder Lexi Potter. Toone and Kelly have played key roles in England’s run of three consecutive major tournament finals but Wiegman made clear on Tuesday, when announcing her selection for the Women’s World Cup qualifying playoff against Greece, that she wants to see more from them for their clubs.",
       "category": [
         "Football"
       ],
@@ -135,6 +180,60 @@
       "id": "toone-and-kelly-left-out-of-england-squad-for-wc-play-off-with-greece"
     },
     {
+      "published_at": "2026-09-29T16:01:42+00:00",
+      "updated_at": "2026-09-29T16:01:42+00:00",
+      "title": "Forest Green confirm Savage offered Peterborough job",
+      "summary": "Robbie Savage has been offered the manager's job at Peterborough United, say Forest Green, who are in negotiations regarding the terms of his exit",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7b5c/live/79cf7990-bb3f-11f1-8cd3-d12549a04493.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c68xkzw9r7rko?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c68xkzw9r7rko?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "forest-green-confirm-savage-offered-peterborough-job"
+    },
+    {
+      "published_at": "2026-09-29T12:33:30+00:00",
+      "updated_at": "2026-09-29T12:33:30+00:00",
+      "title": "Preston return 'surreal' and 'special' - Alexander",
+      "summary": "New Preston North End boss Graham Alexander says he feels like he has come home after returning to his old club as manager",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2472/live/e71aacb0-bbf6-11f1-90b9-913e4354ed35.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6grve2r0dr5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6grve2r0dr5o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "preston-return-surreal-and-special-alexander"
+    },
+    {
       "published_at": "2026-09-29T12:04:34+00:00",
       "updated_at": "2026-09-29T12:04:34+00:00",
       "title": "Turkish referees' chief arrested in corruption investigation",
@@ -160,60 +259,6 @@
       },
       "confirmed_by": [],
       "id": "turkish-referees-chief-arrested-in-corruption-investigation"
-    },
-    {
-      "published_at": "2026-09-28T13:37:08+00:00",
-      "updated_at": "2026-09-28T13:37:08+00:00",
-      "title": "Forest Green allow Savage to talk to another club",
-      "summary": "Forest Green give manager Robbie Savage permission to speak to another club, amid speculation linking him to Peterborough United",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7b5c/live/79cf7990-bb3f-11f1-8cd3-d12549a04493.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c68xkzw9r7rko?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c68xkzw9r7rko?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "forest-green-allow-savage-to-talk-to-another-club"
-    },
-    {
-      "published_at": "2026-09-28T10:31:06+00:00",
-      "updated_at": "2026-09-28T10:31:06+00:00",
-      "title": "Preston appoint Bradford boss Alexander",
-      "summary": "Preston North End appoint Bradford City boss Graham Alexander as their new manager",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b433/live/e7dbd380-bb2a-11f1-971b-5fdf53b135ba.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c60m33n3nxgko?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c60m33n3nxgko?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "preston-appoint-bradford-boss-alexander"
     },
     {
       "published_at": "2026-09-27T22:20:17+00:00",
@@ -295,33 +340,6 @@
       },
       "confirmed_by": [],
       "id": "usa-s-new-breakout-star-sullivan-living-up-to-premier-league-promise"
-    },
-    {
-      "published_at": "2026-09-27T07:14:55+00:00",
-      "updated_at": "2026-09-27T07:14:55+00:00",
-      "title": "From turgid to thrusting - mixed start for new Scotland",
-      "summary": "BBC Sport Scotland's Tom English reviews a mixed start to life as Scotland head coach for Sebastien Pocognoli as his side open their Nations League campaign with a goalless draw in Slovenia",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a240/live/9ba128a0-ba56-11f1-a430-4d16ee157c41.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c67833k8dn0eo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c67833k8dn0eo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "from-turgid-to-thrusting-mixed-start-for-new-scotland"
     },
     {
       "published_at": "2026-09-26T05:56:40+00:00",
@@ -415,6 +433,42 @@
       "id": "ny-assisterande-tr-nare-i-mj-llby-glad-och-stolt"
     },
     {
+      "published_at": "2026-09-29T19:30:57+00:00",
+      "updated_at": "2026-09-29T19:30:57+00:00",
+      "title": "Scotland v Switzerland, Spain v Croatia, and more: Nations League – live",
+      "summary": "⚽️ Nations League updates from the 7.45pm BST kick-offs ⚽️ Live scores | Follow Czechia v England | And mail Taha It takes the golden boy just seconds. Spain work it from left to right, the ball finding Lamine Yamal by the edge of the area, and he drifts in from the wing to sweep home with a first-time finish. Spain are back at home for the first time since winning the World Cup for the second time.",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/scotland-vs-switzerland/live/554028"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/sep/29/scotland-v-switzerland-spain-v-croatia-and-more-nations-league-live"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/scotland-vs-switzerland/live/554028"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/sep/29/scotland-v-switzerland-spain-v-croatia-and-more-nations-league-live"
+        }
+      ],
+      "id": "scotland-v-switzerland-spain-v-croatia-and-more-nations-league-live"
+    },
+    {
       "published_at": "2026-09-29T08:58:48+00:00",
       "updated_at": "2026-09-29T08:58:48+00:00",
       "title": "Aston Villa sack manager Natalia Arroyo with club second-bottom of WSL",
@@ -488,85 +542,40 @@
       "id": "columbus-crew-sack-coach-federico-higua-n-for-man-s-game-jibe-aimed-at-female-referee"
     },
     {
-      "published_at": "2026-09-29T10:29:00+00:00",
-      "updated_at": "2026-09-29T10:29:00+00:00",
-      "title": "Poch: We lived through a period of deception if Man City guilty",
-      "summary": "Former Tottenham and Chelsea manager Mauricio Pochettino says the Premier League \"lived through a period of deception\" if Manchester City breached financial rules",
+      "published_at": "2026-09-29T16:11:44+00:00",
+      "updated_at": "2026-09-29T16:11:44+00:00",
+      "title": "LaLiga's Tebas says Man City should face severe punishment after rule breach findings",
+      "summary": "Read the full report at Reuters.",
       "category": [
         "Football"
       ],
-      "status": "Reported",
+      "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
       "club": "manchester-city",
-      "image": "https://e0.365dm.com/26/09/1600x900/skysports-mauricio-pochettino_7346135.jpg?20260909143140",
+      "image": "",
       "sources": [
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13593126/man-city-charges-we-lived-through-a-period-of-deception-if-club-found-guilty-says-ex-spurs-and-chelsea-boss-mauricio-pochettino"
+          "name": "Reuters",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "BBC Sport",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ILWZHNTdPNk15ZE9KQUFGQ3FZTkwyU0pPazJTaWlqdVFqM2JnTTQ3Q0RVckdrOW1UaS03SjhGaDh2VlhiRVBsTGdOSDU4eEl1UVdMSnJSQVFWdXlBc3VDRURvLVc2cnMt?oc=5"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13593126/man-city-charges-we-lived-through-a-period-of-deception-if-club-found-guilty-says-ex-spurs-and-chelsea-boss-mauricio-pochettino"
+        "name": "Reuters",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
-      "confirmed_by": [],
-      "id": "poch-we-lived-through-a-period-of-deception-if-man-city-guilty"
-    },
-    {
-      "published_at": "2026-09-28T21:50:00+00:00",
-      "updated_at": "2026-09-28T21:50:00+00:00",
-      "title": "Northern Ireland held to frustrating goalless draw with Hungary",
-      "summary": "Northern Ireland were left frustrated in a 0-0 draw at home to Hungary that looked to be there for the taking",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/09/1600x900/skysports-hungary-northern-ireland_7363650.jpg?20260928215953",
-      "sources": [
+      "confirmed_by": [
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/northern-ireland-vs-hungary/report/554018"
+          "name": "BBC Sport",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ILWZHNTdPNk15ZE9KQUFGQ3FZTkwyU0pPazJTaWlqdVFqM2JnTTQ3Q0RVckdrOW1UaS03SjhGaDh2VlhiRVBsTGdOSDU4eEl1UVdMSnJSQVFWdXlBc3VDRURvLVc2cnMt?oc=5"
         }
       ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/northern-ireland-vs-hungary/report/554018"
-      },
-      "confirmed_by": [],
-      "id": "northern-ireland-held-to-frustrating-goalless-draw-with-hungary"
-    },
-    {
-      "published_at": "2026-09-28T20:46:00+00:00",
-      "updated_at": "2026-09-28T20:46:00+00:00",
-      "title": "Man City chief refuses to answer questions on 115 charges",
-      "summary": "Manchester City chief executive Ferran Soriano declined to answer questions from Sky News as he left a meeting of the executive board of the European Football Clubs' body in Copenhagen",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://e0.365dm.com/26/09/1600x900/image_7363613.jpg?20260928204653",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/watch/video/13593041/manchester-city-chief-executive-ferran-soriano-declines-to-answer-questions"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/watch/video/13593041/manchester-city-chief-executive-ferran-soriano-declines-to-answer-questions"
-      },
-      "confirmed_by": [],
-      "id": "man-city-chief-refuses-to-answer-questions-on-115-charges"
+      "id": "laliga-s-tebas-says-man-city-should-face-severe-punishment-after-rule-breach-findings"
     },
     {
       "published_at": "2026-09-27T23:00:00+00:00",
@@ -625,44 +634,35 @@
       "id": "roberto-mancini-returns-as-italy-head-coach-but-can-the-azzurri-recover-from-lowest-ebb-wi"
     },
     {
-      "published_at": "2026-09-22T16:09:43+00:00",
-      "updated_at": "2026-09-22T16:09:43+00:00",
-      "title": "Real Madrid call for new LaLiga president following Tebas statements",
-      "summary": "Read the full report at Reuters.",
+      "published_at": "2026-09-29T15:34:00+00:00",
+      "updated_at": "2026-09-29T15:34:00+00:00",
+      "title": "LISTA: Alla spelare i allsvenskan med utgående kontrakt",
+      "summary": "Read the full report at Fotbollskanalen.",
       "category": [
-        "La Liga"
+        "Sverige"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "real-madrid",
+      "club": "",
       "image": "",
       "sources": [
         {
-          "name": "Reuters",
+          "name": "Fotbollskanalen",
           "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcjM1UktJREgtMXBlTmpSMHk3aDVjc21xMzZNbFRUOU5MNWxINHpRcGp2aGhkNE9XR1JSall4aDlEVXY5R1lsb01aRXNIdnU3UTlCN1ZzY1h3ckVsSWM4X1ZnQkJJRmpLekpVNmdjZkpkZXduWF8zTm5QVkRTQzZpdDQ4RUZ4Z1VESE5uRlVwUERFaFFwWEY1ZmJFSE1EZmFhcWwtd1hxWDZ3X3JteDVCcjdKMG1RUQ?oc=5"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Reuters",
+        "name": "Fotbollskanalen",
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcjM1UktJREgtMXBlTmpSMHk3aDVjc21xMzZNbFRUOU5MNWxINHpRcGp2aGhkNE9XR1JSall4aDlEVXY5R1lsb01aRXNIdnU3UTlCN1ZzY1h3ckVsSWM4X1ZnQkJJRmpLekpVNmdjZkpkZXduWF8zTm5QVkRTQzZpdDQ4RUZ4Z1VESE5uRlVwUERFaFFwWEY1ZmJFSE1EZmFhcWwtd1hxWDZ3X3JteDVCcjdKMG1RUQ?oc=5"
-        }
-      ],
-      "id": "real-madrid-call-for-new-laliga-president-following-tebas-statements"
+      "confirmed_by": [],
+      "id": "lista-alla-spelare-i-allsvenskan-med-utg-ende-kontrakt"
     },
     {
-      "published_at": "2026-09-29T13:16:00+00:00",
-      "updated_at": "2026-09-29T13:16:00+00:00",
+      "published_at": "2026-09-29T14:28:05+00:00",
+      "updated_at": "2026-09-29T14:28:05+00:00",
       "title": "Toppen utesluter Wirtz-värvning: \"Ingen anledning\"",
       "summary": "Toppen utesluter Wirtz-värvning: \"Ingen anledning\" Fotbollskanalen",
       "category": [
@@ -687,6 +687,33 @@
       },
       "confirmed_by": [],
       "id": "toppen-utesluter-wirtz-v-rvning-ingen-anledning"
+    },
+    {
+      "published_at": "2026-09-29T11:44:00+00:00",
+      "updated_at": "2026-09-29T11:44:00+00:00",
+      "title": "Klart: Alex Rahm förlänger med Örgryte",
+      "summary": "Klart: Scalvini förlänger med Atalanta Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "klart-alex-rahm-f-rl-nger-med-rgryte"
     },
     {
       "published_at": "2026-09-29T05:36:00+00:00",
@@ -717,13 +744,12 @@
       "id": "besiktas-president-lovar-willock-v-rvning"
     },
     {
-      "published_at": "2026-09-27T15:20:13+00:00",
-      "updated_at": "2026-09-27T15:20:13+00:00",
-      "title": "Klart: Scalvini förlänger med Atalanta",
-      "summary": "Klart: Scalvini förlänger med Atalanta Fotbollskanalen",
+      "published_at": "2026-09-28T23:30:17+00:00",
+      "updated_at": "2026-09-28T23:30:17+00:00",
+      "title": "Smäll för Portugal - Fernandes är skadad",
+      "summary": "Smäll för Portugal - Fernandes är skadad Fotbollskanalen",
       "category": [
-        "Sverige",
-        "Serie A"
+        "Sverige"
       ],
       "status": "Reported",
       "entity": "",
@@ -742,16 +768,15 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "klart-scalvini-f-rl-nger-med-atalanta"
+      "id": "sm-ll-f-r-portugal-fernandes-r-skadad"
     },
     {
-      "published_at": "2026-09-27T15:05:00+00:00",
-      "updated_at": "2026-09-27T15:05:00+00:00",
-      "title": "Blåvitt byter tränare - på papperet",
-      "summary": "Blåvitt byter tränare - på papperet Fotbollskanalen",
+      "published_at": "2026-09-24T14:03:00+00:00",
+      "updated_at": "2026-09-24T14:03:00+00:00",
+      "title": "Anton Fagerström förlänger med Västerås SK",
+      "summary": "Anton Fagerström förlänger med Västerås SK Fotbollskanalen",
       "category": [
-        "Sverige",
-        "Coach"
+        "Sverige"
       ],
       "status": "Reported",
       "entity": "",
@@ -770,13 +795,49 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "bl-vitt-byter-tr-nare-p-papperet"
+      "id": "anton-fagerstr-m-f-rl-nger-med-v-ster-s-sk"
+    },
+    {
+      "published_at": "2026-09-29T18:01:34+00:00",
+      "updated_at": "2026-09-29T18:01:34+00:00",
+      "title": "Finlands protest inför Nations League-matchen mot Belarus",
+      "summary": "Matchen mellan Finland och Belarus var omtalad redan innan avspark. Då valde såväl finska supportrar som spelare att visa sin ståndpunkt kring motståndet. Burop och ett tifo föreställande president Aleksandr Lukasjenko som insekt mötte de belarusiska spelarna",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.33/0.43/ad62a30c1ecc91c7e6fdbd94d188a1cf0d1dccd15d74c380c836458f48535d86",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/finlands-protest-infor-nations-league-matchen-mot-belarus"
+        },
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/infor-nations-league-matchen-sverige-mot-rumanien-701170"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/finlands-protest-infor-nations-league-matchen-mot-belarus"
+      },
+      "confirmed_by": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/infor-nations-league-matchen-sverige-mot-rumanien-701170"
+        }
+      ],
+      "id": "finlands-protest-inf-r-nations-league-matchen-mot-belarus"
     },
     {
       "published_at": "2026-09-28T20:37:17+00:00",
       "updated_at": "2026-09-28T20:37:17+00:00",
       "title": "Nya succén i Nations League – Sverige besegrade Polen",
-      "summary": "På fredag går Sverige in i Nations League hemma mot Rumänien. Efter VM-uttåget mot Frankrike väntar en ny start för Graham Potters landslag - och längst fram finns förstås Viktor Gyökeres och Alexander Isak",
+      "summary": "Sverige gillar att möta Polen på hemmaplan. Viktor Gyökeres, Yasin Ayari och Benjamin Nygren blev målhjältar i måndagens 3–1-seger. – Det betyder jättemycket, säger Victor Nilsson Lindelöf till SVT Sport",
       "category": [
         "Sverige"
       ],
@@ -809,31 +870,31 @@
       "id": "nya-succ-n-i-nations-league-sverige-besegrade-polen"
     },
     {
-      "published_at": "2026-09-29T13:30:10+00:00",
-      "updated_at": "2026-09-29T13:30:10+00:00",
-      "title": "The Manchester City case shows us how the global mega-rich now expect to operate with impunity | Jonathan Liew",
-      "summary": "When transnational alliances have scarcely been weaker, the way the club was allegedly run offers a bleak vision of a world driven by brute power and wealth The cache of leaked emails and documents that would eventually lead to the crisis in which Manchester City are now embroiled was published by Der Spiegel in 2018 , and often it was the tone of the club’s communications that was as startling as their content. Of City chairman Khaldoon al-Mubarak, a trusted adviser to the royal family of the United Arab Emirates, it was said that he would “rather spend 30 million on the 50 best lawyers in the world to sue [Uefa] for the next 10 years” than accept a fine. In the same tranche of documents, City lawyer Simon Cliff asserts that “Uefa doesn’t respond to anything other than aggression”, and threatens the governing body of European football –",
+      "published_at": "2026-09-29T15:12:36+00:00",
+      "updated_at": "2026-09-29T15:12:36+00:00",
+      "title": "Football Daily | Oh Jürgen! Mixed fortunes for the Nations League’s fab four",
+      "summary": "This time last week, Football Daily romanticised a continental renaissance of sorts. The arrival of Jürgen Klopp, Zinedine Zidane and Xavi Hernández on the international management scene piqued our interest . We were also impressed by the clanging brass stones of Roberto Mancini, who returned to the Italy ejector-seat three years after abruptly pulling the lever and abandoning his country in order to take the Saudi riyal.",
       "category": [
-        "Premier League"
+        "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://i.guim.co.uk/img/media/d3a6a6f5a759860654290276911dff2ebd1c065e/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=5bc4a034d2ede5ca776153b297b25fd3",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/f828c8398816c710d8a1f1657b252ca122af469c/227_0_1921_1538/master/1921.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0440bf194b58abca49b8a439fb97245d",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/commentisfree/2026/sep/29/manchester-city-global-mega-rich-impunity"
+          "url": "https://www.theguardian.com/football/2026/sep/29/football-daily-newsletter-nations-league-germany-netherlands-france-italy"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/commentisfree/2026/sep/29/manchester-city-global-mega-rich-impunity"
+        "url": "https://www.theguardian.com/football/2026/sep/29/football-daily-newsletter-nations-league-germany-netherlands-france-italy"
       },
       "confirmed_by": [],
-      "id": "the-manchester-city-case-shows-us-how-the-global-mega-rich-now-expect-to-operate-with-impu"
+      "id": "football-daily-oh-j-rgen-mixed-fortunes-for-the-nations-league-s-fab-four"
     },
     {
       "published_at": "2026-09-28T22:54:38+00:00",
@@ -863,10 +924,10 @@
       "id": "football-with-a-smile-pocognoli-wants-happy-gilmour-to-tee-up-scotland-success"
     },
     {
-      "published_at": "2026-09-28T22:14:53+00:00",
-      "updated_at": "2026-09-28T22:14:53+00:00",
-      "title": "Gianni Infantino ready to accept demands for larger payouts from $6bn reserves",
-      "summary": "Fifa president says: ‘The ambition is welcome’ Infantino mounts fresh defence of failed FFE scheme The Fifa president, Gianni Infantino, is poised to bow to demands from Uefa and Concacaf to distribute more money from its $6bn cash reserves to member associations. In a letter sent on Monday to all six confederation presidents and copied to members of the Fifa council, Infantino indicated his willingness to “support the greatest level of additional funding”, without committing to the $10m-per-member that has been proposed.",
+      "published_at": "2026-09-28T21:05:00+00:00",
+      "updated_at": "2026-09-28T21:05:00+00:00",
+      "title": "Mallorca goalkeeper Iván Cuéllar injured after ‘large structure’ in canteen falls on him",
+      "summary": "Read the full report at The Guardian.",
       "category": [
         "Football"
       ],
@@ -874,47 +935,20 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://i.guim.co.uk/img/media/94f2dc3a318c0134a2a2699ddb0c6fba13da9f69/147_0_2083_1667/master/2083.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=15a1887dbc1248c5e49e4d9bf8a6bcd1",
+      "image": "",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/28/gianni-infantino-fifa-president-ffe-national-association-payouts"
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/sep/28/gianni-infantino-fifa-president-ffe-national-association-payouts"
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "gianni-infantino-ready-to-accept-demands-for-larger-payouts-from-6bn-reserves"
-    },
-    {
-      "published_at": "2026-09-28T20:00:43+00:00",
-      "updated_at": "2026-09-28T20:00:43+00:00",
-      "title": "Thomas Tuchel resists change against Czechia despite England defensive errors",
-      "summary": "‘We defended well [v Spain] but had individual mistakes’ Nico O’Reilly and Ezri Konsa are injury doubts for match Thomas Tuchel will resist making drastic changes to his defence despite England going six games without a clean sheet before facing Czechia in the Nations League on Tuesday. Although Tuchel acknowledged that his side were a “danger to ourselves” when they lost 3-2 against Spain last Saturday, the head coach stood by Marc Guéhi and Nico O’Reilly after their errors against the world champions.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/493cda98fd6e391ef44cc0dcf7a5180f00352108/781_0_3641_2914/master/3641.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2e39348e54022db442d88543c45021f4",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/28/thomas-tuchel-czechia-england-nations-league-spain"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/sep/28/thomas-tuchel-czechia-england-nations-league-spain"
-      },
-      "confirmed_by": [],
-      "id": "thomas-tuchel-resists-change-against-czechia-despite-england-defensive-errors"
+      "id": "mallorca-goalkeeper-iv-n-cu-llar-injured-after-large-structure-in-canteen-falls-on-him"
     },
     {
       "published_at": "2026-09-28T16:45:04+00:00",
@@ -942,33 +976,6 @@
       },
       "confirmed_by": [],
       "id": "defensive-flux-gives-tuchel-headache-but-alexander-arnold-could-be-remedy-jacob-steinberg"
-    },
-    {
-      "published_at": "2026-09-28T15:26:32+00:00",
-      "updated_at": "2026-09-28T15:26:32+00:00",
-      "title": "Europe’s top-flight clubs to get share of £185m from Club World Cup",
-      "summary": "Europe dividing money 50-50 with rest of the world Confirmation expected after Fifa meeting in October Europe’s top-flight clubs will share half of the $250m (£185m) solidarity pot from the Club World Cup last year, ending a saga that had caused widespread frustration among those who did not participate in the tournament. Fifa and European Football Clubs (EFC) are close to an agreement that would bring a 50-50 split between sides in Europe and the rest of the world. The fund, set aside to ensure the competition contributes to football’s wider ecosystem, will be distributed once the deal has been ratified.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/6d959dbd66a4ecb2d5b435ea8e89d5713f1caed3/343_0_3430_2744/master/3430.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c49e89be5fa8d9173a8e8ec5d7b9fde8",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/28/europe-top-flight-clubs-get-share-pot-from-fifa-club-world-cup"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/sep/28/europe-top-flight-clubs-get-share-pot-from-fifa-club-world-cup"
-      },
-      "confirmed_by": [],
-      "id": "europe-s-top-flight-clubs-to-get-share-of-185m-from-club-world-cup"
     },
     {
       "published_at": "2026-09-28T15:15:37+00:00",
@@ -1079,6 +1086,60 @@
       "id": "messi-s-exit-leaves-argentina-with-impossible-task-of-replacing-their-superhero-jonathan-w"
     },
     {
+      "published_at": "2026-09-26T05:00:27+00:00",
+      "updated_at": "2026-09-26T05:00:27+00:00",
+      "title": "How drawn-out saga of Manchester City’s alleged cheating came to this",
+      "summary": "Club’s ruthless approach was always at odds with their public image and this inglorious story has further to run There is no episode in English football’s history that even resembles a precedent for the epic Manchester City disciplinary drama, which encapsulates the modern game at breaking point. Here was a grand, stoic old club, taken over in 2008 by Abu Dhabi royalty and mega-funded to imperious success, then crowned serial champions by a league simultaneously pursuing charges of monstrous financial cheating. On Friday sources confirmed that saga, in which Pep Guardiola’s expensively constructed City teams won five Premier League titles and the Champions League during the years since the investigation began in December 2018, culminated in guilty findings on almost all of more than 100 charges.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://i.guim.co.uk/img/media/f7a14bc77d797f9d2760e155588a3649a0b6ff78/712_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e850c8bda09e39350b6994012ef3e5a1",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/26/manchester-city-financial-charges-premier-league-uefa-abu-dhabi"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/sep/26/manchester-city-financial-charges-premier-league-uefa-abu-dhabi"
+      },
+      "confirmed_by": [],
+      "id": "how-drawn-out-saga-of-manchester-city-s-alleged-cheating-came-to-this"
+    },
+    {
+      "published_at": "2026-09-25T11:42:08+00:00",
+      "updated_at": "2026-09-25T11:42:08+00:00",
+      "title": "Kieron Dyer making waves at Southend after leaving ‘hooligan’ days and ‘deathbed’ behind",
+      "summary": "Day in former England midfielder’s company reveals a chess fan and hands-on manager who will not tolerate tardiness Kieron Dyer is recounting a tale from his time in Japan at the 2002 World Cup. “You have a lot of time on your hands,” he begins from behind his desk at Southend United’s training ground. Dyer, a chess fan, was looking for an opponent in the England squad.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/3b5dd99ec368814b9009b33c2e4943fc36a73911/885_284_4040_3232/master/4040.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ed545583c1f49442f8882f1732c6a343",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/25/kieron-dyer-southend-manager-interview"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/sep/25/kieron-dyer-southend-manager-interview"
+      },
+      "confirmed_by": [],
+      "id": "kieron-dyer-making-waves-at-southend-after-leaving-hooligan-days-and-deathbed-behind"
+    },
+    {
       "published_at": "2026-09-26T17:47:23+00:00",
       "updated_at": "2026-09-26T17:47:23+00:00",
       "title": "Förlust mot Öster, och vinst mot Oddevold",
@@ -1104,6 +1165,33 @@
       },
       "confirmed_by": [],
       "id": "f-rlust-mot-ster-och-vinst-mot-oddevold"
+    },
+    {
+      "published_at": "2026-09-29T14:02:37+00:00",
+      "updated_at": "2026-09-29T14:02:37+00:00",
+      "title": "Zaniolo’s Italy wait goes on as Udinese confirm hamstring injury",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "zaniolo-s-italy-wait-goes-on-as-udinese-confirm-hamstring-injury"
     },
     {
       "published_at": "2026-09-28T19:21:08+00:00",
@@ -1158,34 +1246,6 @@
       },
       "confirmed_by": [],
       "id": "zhegrova-scores-for-kosovo-but-juventus-await-concei-ao-tests-after-portugal-injury"
-    },
-    {
-      "published_at": "2026-09-27T10:09:46+00:00",
-      "updated_at": "2026-09-27T10:09:46+00:00",
-      "title": "Official: Italy international Scalvini extends Atalanta contract",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "official-italy-international-scalvini-extends-atalanta-contract"
     },
     {
       "published_at": "2026-09-26T12:26:07+00:00",
@@ -1299,45 +1359,6 @@
       "id": "10-of-the-strangest-free-transfers-in-serie-a-history-alaba-joins-ranks-of-most-bizarre-mo"
     },
     {
-      "published_at": "2026-09-28T21:20:59+00:00",
-      "updated_at": "2026-09-28T21:20:59+00:00",
-      "title": "European football news and transfers: Barcelona, Real Madrid, PSG, Bayern Munich latest and more",
-      "summary": "Uppgifter: Real Madrid och Barcelona följer Mora Fotbollskanalen",
-      "category": [
-        "La Liga",
-        "Bundesliga",
-        "Ligue 1",
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaFY4djlPeHpRZmtuUHZKMWk0VEJDc3RyeDRIYmlmTUNvWHVQZGl4SmJ4Rmtsb0RiNVBvSEFYXzRZbXlYUWJPbzZ1eHZ0d0VqeE5KWVFNR2xQYjE5Wjh1NFpTWDYxckQzd2hTUXhnMXF2SHpvUVVWZ1JNWHVDS2N0TlBCNlNHYzhJREhBdlVoZlNOT20tUk1KeEQ2dEtVOVBJ?oc=5"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaFY4djlPeHpRZmtuUHZKMWk0VEJDc3RyeDRIYmlmTUNvWHVQZGl4SmJ4Rmtsb0RiNVBvSEFYXzRZbXlYUWJPbzZ1eHZ0d0VqeE5KWVFNR2xQYjE5Wjh1NFpTWDYxckQzd2hTUXhnMXF2SHpvUVVWZ1JNWHVDS2N0TlBCNlNHYzhJREhBdlVoZlNOT20tUk1KeEQ2dEtVOVBJ?oc=5"
-        }
-      ],
-      "id": "european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-mo"
-    },
-    {
       "published_at": "2026-09-25T22:51:46+00:00",
       "updated_at": "2026-09-25T22:51:46+00:00",
       "title": "Pochettino regrets limited role in Balogun appeal, says controversy changed US energy",
@@ -1363,33 +1384,6 @@
       },
       "confirmed_by": [],
       "id": "pochettino-regrets-limited-role-in-balogun-appeal-says-controversy-changed-us-energy"
-    },
-    {
-      "published_at": "2026-09-24T16:59:38+00:00",
-      "updated_at": "2026-09-24T16:59:38+00:00",
-      "title": "'Alvarez is in the past', says Deco as Barcelona embrace Raphinha reinvention",
-      "summary": "Read the full report at Reuters.",
-      "category": [
-        "La Liga"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "barcelona",
-      "image": "",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Reuters",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "alvarez-is-in-the-past-says-deco-as-barcelona-embrace-raphinha-reinvention"
     },
     {
       "published_at": "2026-09-24T11:00:37+00:00",
@@ -1428,6 +1422,60 @@
       "id": "can-the-english-goal-machine-secure-the-ballon-d-or-all-of-harry-kane-s-goals-from-the-202"
     },
     {
+      "published_at": "2026-09-29T19:38:00+00:00",
+      "updated_at": "2026-09-29T19:38:00+00:00",
+      "title": "Patrik Wålemark gjorde succé i startdebuten – men vem är han?",
+      "summary": "Han är landslagets nya komet, efter succén i startdebuten i det svenska A-landslaget mot Polen. Men vem är egentligen Patrik Wålemark?",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.39/0.43/7e16aa26f417132662544d1e59aa81c8c80105f9070e3548cdbb94ec3f19370c",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/patrik-walemark-gjorde-succe-i-startdebuten-men-vem-ar-han"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/patrik-walemark-gjorde-succe-i-startdebuten-men-vem-ar-han"
+      },
+      "confirmed_by": [],
+      "id": "patrik-w-lemark-gjorde-succ-i-startdebuten-men-vem-r-han"
+    },
+    {
+      "published_at": "2026-09-29T18:03:08+00:00",
+      "updated_at": "2026-09-29T18:03:08+00:00",
+      "title": "Hanna Marklund om Tony Gustavssons playoff-trupp: ”Bra insikt”",
+      "summary": "Tony Gustavsson var självkritisk när han presenterade dagens play off-trupp. Hanna Marklund ser en pressad förbundskapten. – Hans insikter är bra, man behöver vara mer försiktig, säger hon",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.24/0.42/9fdc540cdf84562e9318921c859725a856171af0fc1d14b99ddda525236740c9",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/hanna-marklund-om-tony-gustavssons-playoff-trupp-bra-insikt"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/hanna-marklund-om-tony-gustavssons-playoff-trupp-bra-insikt"
+      },
+      "confirmed_by": [],
+      "id": "hanna-marklund-om-tony-gustavssons-playoff-trupp-bra-insikt"
+    },
+    {
       "published_at": "2026-09-29T13:45:54+00:00",
       "updated_at": "2026-09-29T13:45:54+00:00",
       "title": "Utbyggnad av Jernvallen avbryts – kostnad skenar",
@@ -1439,7 +1487,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/13ae6334088b6f88a8c3aedd6ba2d13f02204387a86a502eda6a134f7bb64f3c",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/279ba8d91910994e61bb70c8a20eaec9935673074c9a7142af4152e023d0edc9",
       "sources": [
         {
           "name": "SVT Sport",
@@ -1509,33 +1557,6 @@
       "id": "h-r-r-sveriges-trupp-till-vm-playoffmatcherna"
     },
     {
-      "published_at": "2026-09-29T11:59:02+00:00",
-      "updated_at": "2026-09-29T11:59:02+00:00",
-      "title": "Finland möter Belarus i Nations League – skänker vinsten till Ukraina",
-      "summary": "Finland är ett av flera länder som vill utesluta Belarus från Uefa-turneringar. Men i kväll tar landslaget emot belarusierna i Helsingfors. – Det har märkts att uppladdningen till matchen är lite annorlunda, säger lagkapten Lukas Hradecky till Yle",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.48/0.42/b5aff2a1d83f3989df2af300416f1296aca7b6bffca6034b4ac311f4ca3dc252",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/finland-moter-belarus-i-nations-league-skanker-vinsten-till-ukraina"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/finland-moter-belarus-i-nations-league-skanker-vinsten-till-ukraina"
-      },
-      "confirmed_by": [],
-      "id": "finland-m-ter-belarus-i-nations-league-sk-nker-vinsten-till-ukraina"
-    },
-    {
       "published_at": "2026-09-29T11:21:38+00:00",
       "updated_at": "2026-09-29T11:21:38+00:00",
       "title": "Jonas Eriksson om spelschemat och skadekaoset: ”Finns ingen ljusning”",
@@ -1590,193 +1611,58 @@
       "id": "vozinha-saknar-anonymiteten-jag-har-inget-privatliv-l-ngre"
     },
     {
-      "published_at": "2026-09-29T04:21:03+00:00",
-      "updated_at": "2026-09-29T04:21:03+00:00",
-      "title": "Potters ord om Gyökeres: ”Då hade han kunnat bli arg”",
-      "summary": "Petad i Arsenal – given nyckelspelare i Blågult. I Nations League har Viktor Gyökeres fått mer speltid än på länge. – Hade jag tagit ut honom tidigare hade han kunnat bli arg på mig, säger förbundskapten Graham Potter",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.31/0.46/ceffb364d759fc6d1230c09ad66aa7e567efb643c98ae88204d33280cca76555",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/potters-ord-om-gyokeres-da-hade-han-kunnat-bli-arg"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/potters-ord-om-gyokeres-da-hade-han-kunnat-bli-arg"
-      },
-      "confirmed_by": [],
-      "id": "potters-ord-om-gy-keres-d-hade-han-kunnat-bli-arg"
-    },
-    {
-      "published_at": "2026-09-29T04:10:14+00:00",
-      "updated_at": "2026-09-29T04:10:14+00:00",
-      "title": "Barcelona’s thrilling attack is the best in Europe. Here’s how they are piling up the goals",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "La Liga"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "barcelona",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "barcelona-s-thrilling-attack-is-the-best-in-europe-here-s-how-they-are-piling-up-the-goals"
-    },
-    {
-      "published_at": "2026-09-28T21:33:55+00:00",
-      "updated_at": "2026-09-28T21:33:55+00:00",
-      "title": "Patrik Wålemark hyllas efter succédebuten: ”Perfekt”",
-      "summary": "Patrik Wålemark gjorde succé i sin blågula startdebut. – Det är inte mycket att klaga på, säger Viktor Gyökeres till SVT Sport",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.25/0.39/25eb83f7339d544caec56fc0d7923c1b58b071fbd6219ce6977a8d906e72fa79",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/patrik-walemark-hyllas-efter-succedebuten-perfekt"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/patrik-walemark-hyllas-efter-succedebuten-perfekt"
-      },
-      "confirmed_by": [],
-      "id": "patrik-w-lemark-hyllas-efter-succ-debuten-perfekt"
-    },
-    {
-      "published_at": "2026-09-28T10:13:00+00:00",
-      "updated_at": "2026-09-28T10:13:00+00:00",
-      "title": "The Manchester City verdicts as viewed by the rest of the football world",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "the-manchester-city-verdicts-as-viewed-by-the-rest-of-the-football-world"
-    },
-    {
-      "published_at": "2026-09-28T04:14:03+00:00",
-      "updated_at": "2026-09-28T04:14:03+00:00",
-      "title": "From Man United to Lausanne via Nice, the INEOS football project has problems to solve",
-      "summary": "Read the full report at The Athletic.",
+      "published_at": "2026-09-29T16:14:00+00:00",
+      "updated_at": "2026-09-29T16:14:00+00:00",
+      "title": "Man Utd latest: Another injury? Mazraoui forced off for Morocco",
+      "summary": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
         "Football"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "from-man-united-to-lausanne-via-nice-the-ineos-football-project-has-problems-to-solve"
-    },
-    {
-      "published_at": "2026-09-23T15:30:08+00:00",
-      "updated_at": "2026-09-23T15:30:08+00:00",
-      "title": "Madagascar deselects player after ‘comments from several years ago’ resurface",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "Football"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "madagascar-deselects-player-after-comments-from-several-years-ago-resurface"
-    },
-    {
-      "published_at": "2026-09-28T14:55:00+00:00",
-      "updated_at": "2026-09-28T14:55:00+00:00",
-      "title": "EFL latest: Alexander joins Preston | Savage in talks with Posh",
-      "summary": "Championship news, transfer latest and gossip plus EFL updates from League One and League Two",
-      "category": [
-        "Transfer"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/09/1600x900/skysports-graham-alexander_7360446.jpg?20260924160441",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-man-utd-club-blog_7326703.jpg?20260820165515",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two"
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two"
+        "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "efl-latest-alexander-joins-preston-savage-in-talks-with-posh"
+      "id": "man-utd-latest-another-injury-mazraoui-forced-off-for-morocco"
+    },
+    {
+      "published_at": "2026-09-28T14:09:00+00:00",
+      "updated_at": "2026-09-28T14:09:00+00:00",
+      "title": "Liverpool latest: Gakpo withdraws from Netherlands squad with injury",
+      "summary": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-liverpool-club-blog_7326701.jpg?20260820165421",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "liverpool-latest-gakpo-withdraws-from-netherlands-squad-with-injury"
     },
     {
       "published_at": "2026-09-27T06:51:54+00:00",
@@ -1806,71 +1692,70 @@
       "id": "emil-holm-utbytt-skadad"
     },
     {
-      "published_at": "2026-09-24T12:45:00+00:00",
-      "updated_at": "2026-09-24T12:45:00+00:00",
-      "title": "David Alaba klar för Udinese",
-      "summary": "Read the full report at Fotbollskanalen.",
+      "published_at": "2026-09-29T20:30:00+00:00",
+      "updated_at": "2026-09-29T20:30:00+00:00",
+      "title": "'Sham' deals and 'dishonest' witnesses - key revelations from Man City verdict",
+      "summary": "In a damning 40-page document, an independent commission laid bare its findings into Manchester City's breaches of the Premier League's financial rules. Here, Sky Sports takes a look at the key revelations",
       "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "david-alaba-klar-f-r-udinese"
-    },
-    {
-      "published_at": "2026-09-29T14:28:00+00:00",
-      "updated_at": "2026-09-29T14:28:00+00:00",
-      "title": "Officiellt: Elneny till Grekland",
-      "summary": "Officiellt: Elneny till Grekland Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "officiellt-elneny-till-grekland"
-    },
-    {
-      "published_at": "2026-09-29T13:51:00+00:00",
-      "updated_at": "2026-09-29T13:51:00+00:00",
-      "title": "Angeldahl frågetecken - men uttagen till kvalmatcherna: \"Fått signaler\"",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige",
         "Transfer"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-premier-league-trophy_7361300.jpg?20260925172954",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13593407/man-city-charges-verdict-key-findings-the-fordham-arrangement-effectively-a-front-for-abu-dhabi-united-group"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13593407/man-city-charges-verdict-key-findings-the-fordham-arrangement-effectively-a-front-for-abu-dhabi-united-group"
+      },
+      "confirmed_by": [],
+      "id": "sham-deals-and-dishonest-witnesses-key-revelations-from-man-city-verdict"
+    },
+    {
+      "published_at": "2026-09-29T17:00:00+00:00",
+      "updated_at": "2026-09-29T17:00:00+00:00",
+      "title": "Man City guilty - what happens now and who decides?",
+      "summary": "Manchester City have been found guilty of all charges related to serious breaches of Premier League financial rules by an independent commission. Sky Sports analyses what could happen next in the inquiry",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://e0.365dm.com/25/07/1600x900/skysports-premier-league-manchester-city_6978987.jpg?20250731135029",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13593377/man-city-premier-league-charges-appeal-process-punishment-hearing-and-what-happens-now-after-guilty-verdict"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13593377/man-city-premier-league-charges-appeal-process-punishment-hearing-and-what-happens-now-after-guilty-verdict"
+      },
+      "confirmed_by": [],
+      "id": "man-city-guilty-what-happens-now-and-who-decides"
+    },
+    {
+      "published_at": "2026-09-29T18:27:00+00:00",
+      "updated_at": "2026-09-29T18:27:00+00:00",
+      "title": "Uppgifter: Corinthians vill värva Sanches",
+      "summary": "Uppgifter: Milan vill ta in Endrick Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
       "club": "",
       "image": "",
       "sources": [
@@ -1885,7 +1770,34 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "angeldahl-fr-getecken-men-uttagen-till-kvalmatcherna-f-tt-signaler"
+      "id": "uppgifter-corinthians-vill-v-rva-sanches"
+    },
+    {
+      "published_at": "2026-09-29T15:43:06+00:00",
+      "updated_at": "2026-09-29T15:43:06+00:00",
+      "title": "IF Elfsborgs guldhjälte Roland Sandström har gått bort",
+      "summary": "Roland Sandström, som var med och vann SM-guld med IF Elfsborg 1961, har gått bort.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2039902.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/if-elfsborgs-guldhjalte-roland-sandstrom-har-gatt-bort-701328"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/if-elfsborgs-guldhjalte-roland-sandstrom-har-gatt-bort-701328"
+      },
+      "confirmed_by": [],
+      "id": "if-elfsborgs-guldhj-lte-roland-sandstr-m-har-g-tt-bort"
     },
     {
       "published_at": "2026-09-29T13:38:57+00:00",
@@ -2104,31 +2016,58 @@
       "id": "polska-expertens-varning-inf-r-m-tet-n-gon-som-alltid-kan-g-ra-skillnad"
     },
     {
-      "published_at": "2026-09-28T12:45:00+00:00",
-      "updated_at": "2026-09-28T12:45:00+00:00",
-      "title": "TV-guide: Var man kan se Sverige – Polen",
-      "summary": "Ikväll är det dags för Sveriges andra match i Nations League. Blågult tar emot Polen hemma på Strawberry Arena. Här hittar du allt du behöver för att kunna se matchen på TV",
+      "published_at": "2026-09-29T15:44:12+00:00",
+      "updated_at": "2026-09-29T15:44:12+00:00",
+      "title": "Orsato admits Serie A refereeing errors: ‘Superficiality, wrong positioning, wrong ideas’",
+      "summary": "Read the full report at Football Italia.",
       "category": [
-        "Sverige"
+        "Serie A"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/p4315SqJIiLX5OXnxkIu6oZBBkKX3jkEXcBtEXtp.jpg",
+      "image": "",
       "sources": [
         {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/tv-guide-var-man-kan-se-sverige-polen-701287"
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/tv-guide-var-man-kan-se-sverige-polen-701287"
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "tv-guide-var-man-kan-se-sverige-polen"
+      "id": "orsato-admits-serie-a-refereeing-errors-superficiality-wrong-positioning-wrong-ideas"
+    },
+    {
+      "published_at": "2026-09-29T13:16:46+00:00",
+      "updated_at": "2026-09-29T13:16:46+00:00",
+      "title": "Pavlovic relief for Milan, but could miss Germany vs. Serbia",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "pavlovic-relief-for-milan-but-could-miss-germany-vs-serbia"
     },
     {
       "published_at": "2026-09-29T11:16:15+00:00",
