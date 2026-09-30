@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T10:56:40.252153+00:00",
+  "updated_at": "2026-09-30T16:44:37.456277+00:00",
   "items": [
     {
       "published_at": "2026-09-29T20:58:17+00:00",
@@ -25,7 +25,7 @@
         },
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two"
+          "url": "https://www.skysports.com/football/news/11095/13593589/man-city-charges-what-if-clubs-premier-league-titles-and-trophies-are-stripped-who-benefits-and-what-changes"
         },
         {
           "name": "The Guardian",
@@ -44,7 +44,7 @@
         },
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two"
+          "url": "https://www.skysports.com/football/news/11095/13593589/man-city-charges-what-if-clubs-premier-league-titles-and-trophies-are-stripped-who-benefits-and-what-changes"
         },
         {
           "name": "The Guardian",
@@ -107,40 +107,92 @@
       "id": "premier-league-joins-top-european-leagues-in-call-for-reforms-to-way-fifa-is-run"
     },
     {
-      "published_at": "2026-09-29T22:12:20+00:00",
-      "updated_at": "2026-09-29T22:12:20+00:00",
-      "title": "Hampden debut to forget but Pocognoli looks at bigger picture",
-      "summary": "Scotland head coach Sebastien Pocognoli admitted his Hampden Park debut left him “sad” as he stressed the importance of winning their next Nations League match",
+      "published_at": "2026-09-30T13:30:00+00:00",
+      "updated_at": "2026-09-30T13:30:00+00:00",
+      "title": "Guardiola sends message to Man City amid calls for titles to be taken away",
+      "summary": "‘I am, always have been, always will, be behind my club’ Former City chair Bernstein calls for directors to quit Pep Guardiola has thrown his support behind Manchester City after the club were found guilty of all charges of breaching Premier League financial rules over a nine-year period, telling fans: “We will get through this together.” Guardiola left City in the summer after a trophy-laden decade in charge, with his first two seasons falling within the period investigated by the independent commission. The Spaniard remains a close ally of the chief executive, Ferran Soriano, who brought him to England, the pair having previously worked together at Barcelona. City maintain their innocence and are set to appeal against the decision before Friday’s deadline.",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "pep-guardiola",
+      "entity_type": "coaches",
+      "club": "manchester-city",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dcbf/live/dee994c0-bcd2-11f1-9f83-d9975ff80416.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckrerg4n2v82o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13593634/man-city-premier-league-charges-pep-guardiola-sends-message-of-support-to-former-club"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/30/guardiola-backs-manchester-city-owners-over-guilty-verdicts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckrerg4n2v82o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13593634/man-city-premier-league-charges-pep-guardiola-sends-message-of-support-to-former-club"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/30/guardiola-backs-manchester-city-owners-over-guilty-verdicts"
+        }
+      ],
+      "id": "guardiola-sends-message-to-man-city-amid-calls-for-titles-to-be-taken-away"
+    },
+    {
+      "published_at": "2026-09-30T12:00:00+00:00",
+      "updated_at": "2026-09-30T12:00:00+00:00",
+      "title": "How Man City's 'disguised funding scheme' changed the football landscape",
+      "summary": "After the Premier League published the ‘core decision’ of its independent commission, we pick out the main elements The independent commission’s “core decision” is a 40-page document which appears to confirm the worst interpretation of Manchester City’s behaviour. Central to the finding that the club were guilty of all charges of breaching the Premier League’s financial rules is the conclusion that City’s lucrative sponsorship arrangements were “shams” .",
       "category": [
         "Football"
       ],
       "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b5e0/live/c4068da0-bc52-11f1-ae1c-cd1289a52101.jpg",
+      "club": "manchester-city",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d913/live/0bfbf2c0-bc2c-11f1-a430-4d16ee157c41.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cw80483z2522o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13593544/scotland-sebastian-pocognolis-sad-hampden-park-debut-as-he-urges-immediate-nations-league-response"
+          "url": "https://www.skysports.com/football/news/11095/13593612/man-city-premier-league-charges-how-disguised-funding-scheme-changed-the-football-landscape-between-the-lines"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/29/disguised-funding-and-dishonest-witnesses-key-findings-in-manchester-city-case-premier-league"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cw80483z2522o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13593544/scotland-sebastian-pocognolis-sad-hampden-park-debut-as-he-urges-immediate-nations-league-response"
+          "url": "https://www.skysports.com/football/news/11095/13593612/man-city-premier-league-charges-how-disguised-funding-scheme-changed-the-football-landscape-between-the-lines"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/29/disguised-funding-and-dishonest-witnesses-key-findings-in-manchester-city-case-premier-league"
         }
       ],
-      "id": "hampden-debut-to-forget-but-pocognoli-looks-at-bigger-picture"
+      "id": "how-man-city-s-disguised-funding-scheme-changed-the-football-landscape"
     },
     {
       "published_at": "2026-09-29T22:06:30+00:00",
@@ -179,46 +231,10 @@
       "id": "it-is-time-for-tuchel-to-offer-alexander-arnold-some-trust"
     },
     {
-      "published_at": "2026-09-29T22:45:00+00:00",
-      "updated_at": "2026-09-29T22:45:00+00:00",
-      "title": "Papers: Man City knew of guilty verdict in summer",
-      "summary": "Manchester City chief executive Ferran Soriano refused to answer questions about the Premier League charges from BBC Sports Editor Dan Roan at a conference of top European clubs in Copenhagen",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7455/live/e34c2770-bc15-11f1-a430-4d16ee157c41.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/cjly4dlwd1n5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13593423/man-city-guilty-premier-league-club-knew-of-independent-commissions-verdict-in-the-summer-paper-talk"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cjly4dlwd1n5o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13593423/man-city-guilty-premier-league-club-knew-of-independent-commissions-verdict-in-the-summer-paper-talk"
-        }
-      ],
-      "id": "papers-man-city-knew-of-guilty-verdict-in-summer"
-    },
-    {
-      "published_at": "2026-09-30T09:39:21+00:00",
-      "updated_at": "2026-09-30T09:39:21+00:00",
-      "title": "Will Pocognoli change keeper after loss to Switzerland?",
-      "summary": "Andy Burke ponders whether Scotland head coach Sebastien Pocognoli will change goalkeeper after Angus Gunn's performance in the 3-0 defeat by Switzerland",
+      "published_at": "2026-09-30T15:35:02+00:00",
+      "updated_at": "2026-09-30T15:35:02+00:00",
+      "title": "Questions about Wales form not unfair - Bellamy",
+      "summary": "Head coach Craig Bellamy accepts that questions will be asked over Wales' form as they prepare for Thursday's Nations League meeting with Norway in Cardiff",
       "category": [
         "Football"
       ],
@@ -226,160 +242,169 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3085/live/85a15760-bcb2-11f1-a3e9-bbda6f9b9e25.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0050/live/a567ac90-bcba-11f1-b3b2-8f83c947a78c.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c58jd4wvrz4jo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c50m3d789j74o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c58jd4wvrz4jo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/c50m3d789j74o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "will-pocognoli-change-keeper-after-loss-to-switzerland"
+      "id": "questions-about-wales-form-not-unfair-bellamy"
     },
     {
-      "published_at": "2026-09-30T05:25:05+00:00",
-      "updated_at": "2026-09-30T05:25:05+00:00",
-      "title": "How do teams deal with longer international window?",
-      "summary": "With the international window extended to four games, how do nations like Northern Ireland deal with the additional demands on players and staff?",
+      "published_at": "2026-09-30T14:07:18+00:00",
+      "updated_at": "2026-09-30T14:07:18+00:00",
+      "title": "Ex-England defender Smalling in talks with Porto",
+      "summary": "Former Manchester United and England defender Chris Smalling is in talks with Portuguese league leaders Porto",
       "category": [
-        "Serie A",
         "Transfer"
       ],
       "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5404/live/206e7440-bbf4-11f1-9074-3d74885a19d6.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1e6b/live/93b07620-bcd4-11f1-9f83-d9975ff80416.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckwyz97v042vo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6vgy205kmmro?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckwyz97v042vo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6vgy205kmmro?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "how-do-teams-deal-with-longer-international-window"
+      "id": "ex-england-defender-smalling-in-talks-with-porto"
     },
     {
-      "published_at": "2026-09-29T22:30:20+00:00",
-      "updated_at": "2026-09-29T22:30:20+00:00",
-      "title": "New coach, new players, but same old failings hamper Scotland",
-      "summary": "Self-inflicted wounds cost Scotland on Sebastien Pocognoli's Hampden debut, writes Tom English",
+      "published_at": "2026-09-30T13:17:44+00:00",
+      "updated_at": "2026-09-30T13:17:44+00:00",
+      "title": "Criminal investigation? Relegation or expulsion? The key Man City questions",
+      "summary": "BBC Sport takes a look at the key questions following the guilty verdicts handed down to Manchester City",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ff90/live/6abf4e50-bcb9-11f1-a52f-e7c9a7884cfa.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c9y7zr4l6de1o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c9y7zr4l6de1o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "criminal-investigation-relegation-or-expulsion-the-key-man-city-questions"
+    },
+    {
+      "published_at": "2026-09-30T12:29:34+00:00",
+      "updated_at": "2026-09-30T12:29:34+00:00",
+      "title": "Consortium involving ex-Brazil forward Pato seals Northampton takeover",
+      "summary": "The takeover of Northampton Town by a consortium including former AC Milan and Brazil forward Alexandre Pato has been completed",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/988e/live/c134f9d0-bcd0-11f1-9f83-d9975ff80416.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmqxvqyy125lo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmqxvqyy125lo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "consortium-involving-ex-brazil-forward-pato-seals-northampton-takeover"
+    },
+    {
+      "published_at": "2026-09-30T12:15:46+00:00",
+      "updated_at": "2026-09-30T12:15:46+00:00",
+      "title": "Turkish referees' chief arrested in corruption investigation",
+      "summary": "The head of Turkey's referees' committee is detained along with six others as part of an investigation into corruption. head of Turkey’s referees committee, is among seven people detained in an investigation into alleged mobbing and document forgery",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/90e0/live/c877a1d0-bbee-11f1-a430-4d16ee157c41.png",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmzxzvny8xwdo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmzxzvny8xwdo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "turkish-referees-chief-arrested-in-corruption-investigation"
+    },
+    {
+      "published_at": "2026-09-30T13:43:44+00:00",
+      "updated_at": "2026-09-30T13:43:44+00:00",
+      "title": "Barcelona have another Raphinha injury worry. How bad is it? And what’s being done?",
+      "summary": "Read the full report at The Athletic.",
+      "category": [
+        "La Liga"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "barcelona",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "barcelona-have-another-raphinha-injury-worry-how-bad-is-it-and-what-s-being-done"
+    },
+    {
+      "published_at": "2026-09-30T14:01:38+00:00",
+      "updated_at": "2026-09-30T14:01:38+00:00",
+      "title": "Cristiano Ronaldo misses Portugal training amid reports of rift with coach Jesus",
+      "summary": "Veteran left on bench by Jorge Jesus for win in Norway The 41-year-old has trained alone in gym since weekend Cristiano Ronaldo’s continued absence from Portugal team training has led to speculation that the 41-year-old might miss his country’s match in Denmark on Thursday due to a rift with the head coach, Jorge Jesus. Ronaldo, the all-time leading scorer in men’s international football and pursuing the milestone of 1,000 career goals , was left on the bench on Sunday in Portugal’s 2-1 win at Norway in the Nations League. He has not practised with the team since then, doing only gym work, the Portuguese Football Federation said.",
       "category": [
         "Coach"
       ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1ea0/live/5005de80-bc55-11f1-8053-53e939fa7624.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmrl6g9nw5lyo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmrl6g9nw5lyo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "new-coach-new-players-but-same-old-failings-hamper-scotland"
-    },
-    {
-      "published_at": "2026-09-29T18:12:33+00:00",
-      "updated_at": "2026-09-29T18:12:33+00:00",
-      "title": "Man City guilty of 'sham' contracts and £830m 'disguised funding scheme'",
-      "summary": "After the Premier League published the ‘core decision’ of its independent commission, we pick out the main elements The independent commission’s “core decision” is a 40-page document which appears to confirm the worst interpretation of Manchester City’s behaviour. Central to the finding that the club were guilty of all charges of breaching the Premier League’s financial rules is the conclusion that City’s lucrative sponsorship arrangements were “shams” .",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d913/live/0bfbf2c0-bc2c-11f1-a430-4d16ee157c41.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13593407/man-city-charges-verdict-key-findings-the-fordham-arrangement-effectively-a-front-for-abu-dhabi-united-group"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/29/disguised-funding-and-dishonest-witnesses-key-findings-in-manchester-city-case-premier-league"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13593407/man-city-charges-verdict-key-findings-the-fordham-arrangement-effectively-a-front-for-abu-dhabi-united-group"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/29/disguised-funding-and-dishonest-witnesses-key-findings-in-manchester-city-case-premier-league"
-        }
-      ],
-      "id": "man-city-guilty-of-sham-contracts-and-830m-disguised-funding-scheme"
-    },
-    {
-      "published_at": "2026-09-29T16:01:42+00:00",
-      "updated_at": "2026-09-29T16:01:42+00:00",
-      "title": "Forest Green confirm Savage offered Peterborough job",
-      "summary": "Robbie Savage has been offered the manager's job at Peterborough United, say Forest Green, who are in negotiations regarding the terms of his exit",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7b5c/live/79cf7990-bb3f-11f1-8cd3-d12549a04493.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c68xkzw9r7rko?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c68xkzw9r7rko?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "forest-green-confirm-savage-offered-peterborough-job"
-    },
-    {
-      "published_at": "2026-09-29T21:50:22+00:00",
-      "updated_at": "2026-09-29T21:50:22+00:00",
-      "title": "Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming",
-      "summary": "Teenager scores twice in 4-1 win to boost Ballon d’Or case Slovenia beat North Macedonia; Faroe Islands hold Moldova Lamine Yamal scored two goals and set up another as Spain hammered Croatia 4-1 on Tuesday in the Nations League in their first home game since lifting the World Cup. Lamine Yamal had opened the scoring within two minutes against England in Saturday’s Wembley win and took just 75 seconds to do so against Slaven Bilic’s side in Andalusia. The teenager’s left-footed finish took his tally of international goals to nine in 36 appearances.",
-      "category": [
-        "Football"
-      ],
       "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/09/1600x900/skysports-spain-lamine-yamal_7364552.jpg?20260929222725",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-cristiano-ronaldo_7364981.jpg?20260930142800",
       "sources": [
         {
           "name": "Sky Sports",
@@ -387,7 +412,7 @@
         },
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/29/nations-league-roundup-lamine-yamal-sinks-croatia-in-spains-world-cup-homecoming"
+          "url": "https://www.theguardian.com/football/2026/sep/30/cristiano-ronaldo-misses-portugal-training-jorge-jesus-denmark"
         }
       ],
       "language": "en",
@@ -398,73 +423,37 @@
       "confirmed_by": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/29/nations-league-roundup-lamine-yamal-sinks-croatia-in-spains-world-cup-homecoming"
+          "url": "https://www.theguardian.com/football/2026/sep/30/cristiano-ronaldo-misses-portugal-training-jorge-jesus-denmark"
         }
       ],
-      "id": "nations-league-roundup-lamine-yamal-sinks-croatia-in-spain-s-world-cup-homecoming"
+      "id": "cristiano-ronaldo-misses-portugal-training-amid-reports-of-rift-with-coach-jesus"
     },
     {
-      "published_at": "2026-09-29T20:30:10+00:00",
-      "updated_at": "2026-09-29T20:30:10+00:00",
-      "title": "Sham City: verdict on financial breaches is damning and punishment must be severe | Jonathan Wilson",
-      "summary": "How can Manchester City be trusted under these owners after they were found to have devised £900m of ‘sham’ contracts? How serious can a breach of arcane financial regulations be, really? Just how damning can accountancy be?",
+      "published_at": "2026-09-30T15:55:00+00:00",
+      "updated_at": "2026-09-30T15:55:00+00:00",
+      "title": "Ronaldo holds 'crisis' meeting with Portugal after not playing vs Norway",
+      "summary": "Jorge Jesus has enjoyed a strong start as Portugal head coach, overseeing wins against Wales and Norway in the UEFA Nations League. Ahead of Thursday's trip to Denmark, however, the build-up has centered on a 'crisis' meeting with captain Cristiano Ronaldo",
       "category": [
         "Football"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/29/manchester-city-financial-breaches-verdict-premier-league"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Reuters",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/29/manchester-city-financial-breaches-verdict-premier-league"
-        }
-      ],
-      "id": "sham-city-verdict-on-financial-breaches-is-damning-and-punishment-must-be-severe-jonathan-"
-    },
-    {
-      "published_at": "2026-09-30T09:30:00+00:00",
-      "updated_at": "2026-09-30T09:30:00+00:00",
-      "title": "Inside Rangers' summer transfer window - but will it deliver success?",
-      "summary": "We have passed the 100-day landmark in the Derek McInnes era at Rangers, and it has certainly been a rollercoaster ride",
-      "category": [
-        "Transfer"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/09/1600x900/skysports-rangers-mcinnes-neil_7363865.jpg?20260929103100",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-cristiano-ronaldo_7365029.jpg?20260930155203",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13593167/rangers-transfers-inside-the-summer-window-that-lay-foundations-for-consecutive-celtic-wins-but-will-it-deliver-long-term-success"
+          "url": "https://www.skysports.com/football/news/11095/13593674/explained-cristiano-ronaldos-crisis-meeting-with-portugal-after-not-playing-vs-norway"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13593167/rangers-transfers-inside-the-summer-window-that-lay-foundations-for-consecutive-celtic-wins-but-will-it-deliver-long-term-success"
+        "url": "https://www.skysports.com/football/news/11095/13593674/explained-cristiano-ronaldos-crisis-meeting-with-portugal-after-not-playing-vs-norway"
       },
       "confirmed_by": [],
-      "id": "inside-rangers-summer-transfer-window-but-will-it-deliver-success"
+      "id": "ronaldo-holds-crisis-meeting-with-portugal-after-not-playing-vs-norway"
     },
     {
       "published_at": "2026-09-24T07:00:00+00:00",
@@ -492,6 +481,234 @@
       },
       "confirmed_by": [],
       "id": "roberto-mancini-returns-as-italy-head-coach-but-can-the-azzurri-recover-from-lowest-ebb-wi"
+    },
+    {
+      "published_at": "2026-09-30T07:20:00+00:00",
+      "updated_at": "2026-09-30T07:20:00+00:00",
+      "title": "Raphinha lindrigt skadad - återvänder till Barcelona",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige",
+        "La Liga"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "barcelona",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "raphinha-lindrigt-skadad-terv-nder-till-barcelona"
+    },
+    {
+      "published_at": "2026-09-29T15:34:00+00:00",
+      "updated_at": "2026-09-29T15:34:00+00:00",
+      "title": "LISTA: Alla spelare i allsvenskan med utgående kontrakt",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "lista-alla-spelare-i-allsvenskan-med-utg-ende-kontrakt"
+    },
+    {
+      "published_at": "2026-09-29T14:07:19+00:00",
+      "updated_at": "2026-09-29T14:07:19+00:00",
+      "title": "Toppen utesluter Wirtz-värvning: \"Ingen anledning\"",
+      "summary": "Toppen utesluter Wirtz-värvning: \"Ingen anledning\" Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "toppen-utesluter-wirtz-v-rvning-ingen-anledning"
+    },
+    {
+      "published_at": "2026-09-29T11:44:00+00:00",
+      "updated_at": "2026-09-29T11:44:00+00:00",
+      "title": "Klart: Alex Rahm förlänger med Örgryte",
+      "summary": "Klart: Alex Rahm förlänger med Örgryte Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "klart-alex-rahm-f-rl-nger-med-rgryte"
+    },
+    {
+      "published_at": "2026-09-29T05:36:00+00:00",
+      "updated_at": "2026-09-29T05:36:00+00:00",
+      "title": "Besiktas president lovar Willock-värvning",
+      "summary": "Besiktas president lovar Willock-värvning Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "besiktas-president-lovar-willock-v-rvning"
+    },
+    {
+      "published_at": "2026-09-28T23:30:17+00:00",
+      "updated_at": "2026-09-28T23:30:17+00:00",
+      "title": "Smäll för Portugal - Fernandes är skadad",
+      "summary": "Smäll för Portugal - Fernandes är skadad Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "sm-ll-f-r-portugal-fernandes-r-skadad"
+    },
+    {
+      "published_at": "2026-09-24T17:52:02+00:00",
+      "updated_at": "2026-09-24T17:52:02+00:00",
+      "title": "Klopp räknar bort skadad Havertz: \"Antagligen borta\"",
+      "summary": "Klopp räknar bort skadad Havertz: \"Antagligen borta\" Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "jurgen-klopp",
+      "entity_type": "coaches",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "klopp-r-knar-bort-skadad-havertz-antagligen-borta"
+    },
+    {
+      "published_at": "2026-09-30T16:32:59+00:00",
+      "updated_at": "2026-09-30T16:32:59+00:00",
+      "title": "Noel Törnqvist svarar efter kritiken från Fabregas: ”Förstår att det blir känslor”",
+      "summary": "Cesc Fabregas kritiserade Noel Törnqvist. Nu svarar den svenske målvakten på tränarprofilens hårda ord. – Jag förstår att det blir kaosartat, säger Törnqvist till SVT Sport",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.28/0.41/4b9066f688375cdb0b18970a54cbcde57120ed1ac76fcb4a3a312c9c129ed8bf",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/noel-tornqvist-svarar-efter-kritiken-fran-fabregas-forstar-att-det-blir-kanslor"
+        },
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSktiVkR1a3hNRG84LTU1QVVVMjg5WVZoVjA0NVZoekVxX0lpa3N2TnctMEJaWmJDNGxKeWk5SEpGbGpoOGFjYTBrS1VDdWNXZzBaU3pRcFlTLV9mOVZSTGc0Um5NT19sT1F6TTNwNVVBd3dTZjl5am9YTUdDeXhXRWRKYlh5OXpRc09VOEY1VjVOTFJMZTJfaFN5MVNReGc4SjllRlQ0NnZOZ1Nocm1DNU1n?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/noel-tornqvist-svarar-efter-kritiken-fran-fabregas-forstar-att-det-blir-kanslor"
+      },
+      "confirmed_by": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSktiVkR1a3hNRG84LTU1QVVVMjg5WVZoVjA0NVZoekVxX0lpa3N2TnctMEJaWmJDNGxKeWk5SEpGbGpoOGFjYTBrS1VDdWNXZzBaU3pRcFlTLV9mOVZSTGc0Um5NT19sT1F6TTNwNVVBd3dTZjl5am9YTUdDeXhXRWRKYlh5OXpRc09VOEY1VjVOTFJMZTJfaFN5MVNReGc4SjllRlQ0NnZOZ1Nocm1DNU1n?oc=5"
+        }
+      ],
+      "id": "noel-t-rnqvist-svarar-efter-kritiken-fr-n-fabregas-f-rst-r-att-det-blir-k-nslor"
     },
     {
       "published_at": "2026-09-29T18:01:34+00:00",
@@ -566,40 +783,58 @@
       "id": "barcelona-s-thrilling-attack-is-the-best-in-europe-here-s-how-they-are-piling-up-the-goals"
     },
     {
-      "published_at": "2026-09-28T20:37:17+00:00",
-      "updated_at": "2026-09-28T20:37:17+00:00",
-      "title": "Nya succén i Nations League – Sverige besegrade Polen",
-      "summary": "Sverige gillar att möta Polen på hemmaplan. Viktor Gyökeres, Yasin Ayari och Benjamin Nygren blev målhjältar i måndagens 3–1-seger. – Det betyder jättemycket, säger Victor Nilsson Lindelöf till SVT Sport",
+      "published_at": "2026-09-30T14:57:22+00:00",
+      "updated_at": "2026-09-30T14:57:22+00:00",
+      "title": "Football Daily | The big story is of course … Scotland fans pining for another home run",
+      "summary": "In the four matches they’ve sat through since their unconvincing Geopolitics World Cup win over Haiti, it must rankle among diehard conscripts of the Tartan Army that the only sporting moment they’ve been able to celebrate with genuine wild abandon remains a Wyatt Langford home run biffed out of the stadium for the Texas Rangers at Fenway Park. Away from the diamond, fairly meek surrenders by Scotland to Morocco and Brazil led to Steve Clarke’s resignation, which in turn prompted Sébastien Pocognoli to surf in on a wave of cautious fan suspicion. Following an extremely promising second-half display in his first game against Slovenia – one that obviously featured no goals, a couple of missed sitters and plenty of attacking verve from his side – the Belgian had plenty of reasons to be cheerful going into his first home game as Scotland head",
       "category": [
-        "Sverige"
+        "Football"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.8/0.41/d027913014190c8f68c4abdd9a32db776377a08d3fb32af5ff8f57f4b66d8c01",
+      "image": "https://i.guim.co.uk/img/media/7a399b6f518d1b39c65e82816bc49351a138c5e6/0_0_5581_4466/master/5581.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=989fc26a422eff7ae6a1f4f513ef870e",
       "sources": [
         {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/nya-succen-i-nations-league-sverige-besegrade-polen"
-        },
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/matchrapport-sverige-rumanien-sverige-tog-forsta-segern-i-nations-league-701216"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/30/football-daily-newsletter-the-big-story-is-of-course-scotland"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/nya-succen-i-nations-league-sverige-besegrade-polen"
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/sep/30/football-daily-newsletter-the-big-story-is-of-course-scotland"
       },
-      "confirmed_by": [
+      "confirmed_by": [],
+      "id": "football-daily-the-big-story-is-of-course-scotland-fans-pining-for-another-home-run"
+    },
+    {
+      "published_at": "2026-09-29T21:50:22+00:00",
+      "updated_at": "2026-09-29T21:50:22+00:00",
+      "title": "Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming",
+      "summary": "Teenager scores twice in 4-1 win to boost Ballon d’Or case Slovenia beat North Macedonia; Faroe Islands hold Moldova Lamine Yamal scored two goals and set up another as Spain hammered Croatia 4-1 on Tuesday in the Nations League in their first home game since lifting the World Cup. Lamine Yamal had opened the scoring within two minutes against England in Saturday’s Wembley win and took just 75 seconds to do so against Slaven Bilic’s side in Andalusia. The teenager’s left-footed finish took his tally of international goals to nine in 36 appearances.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/29705b8b0897d299a3e38f966ec8451596da100a/149_0_4759_3807/master/4759.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=143f83e2a204d8418e8532e89561bb12",
+      "sources": [
         {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/matchrapport-sverige-rumanien-sverige-tog-forsta-segern-i-nations-league-701216"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/29/nations-league-roundup-lamine-yamal-sinks-croatia-in-spains-world-cup-homecoming"
         }
       ],
-      "id": "nya-succ-n-i-nations-league-sverige-besegrade-polen"
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/sep/29/nations-league-roundup-lamine-yamal-sinks-croatia-in-spains-world-cup-homecoming"
+      },
+      "confirmed_by": [],
+      "id": "nations-league-roundup-lamine-yamal-sinks-croatia-in-spain-s-world-cup-homecoming"
     },
     {
       "published_at": "2026-09-29T20:51:47+00:00",
@@ -627,6 +862,33 @@
       },
       "confirmed_by": [],
       "id": "switzerland-s-rodr-guez-and-elvedi-punish-scotland-after-hendry-s-early-red-card"
+    },
+    {
+      "published_at": "2026-09-29T20:30:10+00:00",
+      "updated_at": "2026-09-29T20:30:10+00:00",
+      "title": "Sham City: verdict on financial breaches is damning and punishment must be severe | Jonathan Wilson",
+      "summary": "How can Manchester City be trusted under these owners after they were found to have devised £900m of ‘sham’ contracts? How serious can a breach of arcane financial regulations be, really? Just how damning can accountancy be?",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/7dae953ec1472f0847eb7fa49af4db2161d57aed/289_0_2662_2129/master/2662.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=803e00d897937ef4eef0007a21f9670f",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/29/manchester-city-financial-breaches-verdict-premier-league"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/sep/29/manchester-city-financial-breaches-verdict-premier-league"
+      },
+      "confirmed_by": [],
+      "id": "sham-city-verdict-on-financial-breaches-is-damning-and-punishment-must-be-severe-jonathan-"
     },
     {
       "published_at": "2026-09-29T15:12:36+00:00",
@@ -711,61 +973,6 @@
       "id": "aston-villa-sack-manager-natalia-arroyo-with-club-second-bottom-of-wsl"
     },
     {
-      "published_at": "2026-09-28T21:05:00+00:00",
-      "updated_at": "2026-09-28T21:05:00+00:00",
-      "title": "Mallorca goalkeeper Iván Cuéllar injured after ‘large structure’ in canteen falls on him",
-      "summary": "Read the full report at The Guardian.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "mallorca-goalkeeper-iv-n-cu-llar-injured-after-large-structure-in-canteen-falls-on-him"
-    },
-    {
-      "published_at": "2026-09-28T17:52:36+00:00",
-      "updated_at": "2026-09-28T17:52:36+00:00",
-      "title": "Mancini refers to ‘double’ Manchester City contract and says it ‘isn’t my problem’",
-      "summary": "Coach alleged to have been paid for advisory work He also claims the club is ‘not guilty’ despite verdict Roberto Mancini appeared to admit having “a double contract” while managing Manchester City, but insisted the club are not guilty after being found to have breached ­Premier League financial rules. Mancini led City to their first ­Premier League title in 2012 during his four-year spell in Manchester. Now in charge of the Italy national team, he described the scandal surrounding the club as “not a problem that concerns me”.",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://i.guim.co.uk/img/media/4ed7fb879d66292723116f1d8da7fe69cac9f802/0_117_4096_3278/master/4096.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c769b4921f27621fd82446dfe89d0420",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/28/roberto-mancini-double-contract-manchester-city"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/sep/28/roberto-mancini-double-contract-manchester-city"
-      },
-      "confirmed_by": [],
-      "id": "mancini-refers-to-double-manchester-city-contract-and-says-it-isn-t-my-problem"
-    },
-    {
       "published_at": "2026-09-28T15:15:37+00:00",
       "updated_at": "2026-09-28T15:15:37+00:00",
       "title": "The Nations League is a welcome example of soccer done well",
@@ -818,33 +1025,6 @@
       },
       "confirmed_by": [],
       "id": "wsl-talking-points-chelsea-punish-arsenal-and-putellas-finds-her-rhythm"
-    },
-    {
-      "published_at": "2026-09-28T07:00:27+00:00",
-      "updated_at": "2026-09-28T07:00:27+00:00",
-      "title": "Arsène Wenger and Arsenal: 30 years on from appointment that changed English football",
-      "summary": "David Dein’s decision to hire the Frenchman ushered in an irreversible era of multiculturalism, giving birth to the Premier League we know today As feedback goes, even a character as relentlessly optimistic as David Dein might have considered the reaction to his bold managerial appointment suboptimal. Thirty years ago, Arsenal were in a state of chaotic flux, having sacked Bruce Rioch, with the interims Stewart Houston and Pat Rice in charge. There had been talk of Johan Cruyff arriving and Dein wanted to fill the information vacuum.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://i.guim.co.uk/img/media/117f9f60ae82fc3c0a1786d9e3822cd9bdb64e35/317_65_3284_2628/master/3284.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad7446c676ac9d168004d2bd56a11269",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/sep/28/arsene-wenger-arsenal-30-years-on-from-transformation-english-football"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/sep/28/arsene-wenger-arsenal-30-years-on-from-transformation-english-football"
-      },
-      "confirmed_by": [],
-      "id": "ars-ne-wenger-and-arsenal-30-years-on-from-appointment-that-changed-english-football"
     },
     {
       "published_at": "2026-09-26T19:00:43+00:00",
@@ -928,223 +1108,106 @@
       "id": "f-rlust-mot-ster-och-vinst-mot-oddevold"
     },
     {
-      "published_at": "2026-09-29T14:02:37+00:00",
-      "updated_at": "2026-09-29T14:02:37+00:00",
-      "title": "Zaniolo’s Italy wait goes on as Udinese confirm hamstring injury",
-      "summary": "Read the full report at Football Italia.",
+      "published_at": "2026-09-26T21:07:33+00:00",
+      "updated_at": "2026-09-26T21:07:33+00:00",
+      "title": "European football news and transfers: Barcelona, Real Madrid, PSG, Bayern Munich latest and more",
+      "summary": "Uppgifter: Real Madrid och Barcelona följer Mora Fotbollskanalen",
       "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "zaniolo-s-italy-wait-goes-on-as-udinese-confirm-hamstring-injury"
-    },
-    {
-      "published_at": "2026-09-28T19:21:08+00:00",
-      "updated_at": "2026-09-28T19:21:08+00:00",
-      "title": "Official: Milan confirm 2025-26 revenue and net loss",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "official-milan-confirm-2025-26-revenue-and-net-loss"
-    },
-    {
-      "published_at": "2026-09-28T11:07:24+00:00",
-      "updated_at": "2026-09-28T11:07:24+00:00",
-      "title": "Zhegrova scores for Kosovo, but Juventus await Conceiçao tests after Portugal injury",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "zhegrova-scores-for-kosovo-but-juventus-await-concei-ao-tests-after-portugal-injury"
-    },
-    {
-      "published_at": "2026-09-26T12:26:07+00:00",
-      "updated_at": "2026-09-26T12:26:07+00:00",
-      "title": "Juventus plotting Douglas Luiz contract extension after promising 2026-27 return",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A",
+        "La Liga",
+        "Bundesliga",
+        "Ligue 1",
         "Transfer"
       ],
-      "status": "Reported",
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "real-madrid",
+      "image": "",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaFY4djlPeHpRZmtuUHZKMWk0VEJDc3RyeDRIYmlmTUNvWHVQZGl4SmJ4Rmtsb0RiNVBvSEFYXzRZbXlYUWJPbzZ1eHZ0d0VqeE5KWVFNR2xQYjE5Wjh1NFpTWDYxckQzd2hTUXhnMXF2SHpvUVVWZ1JNWHVDS2N0TlBCNlNHYzhJREhBdlVoZlNOT20tUk1KeEQ2dEtVOVBJ?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaFY4djlPeHpRZmtuUHZKMWk0VEJDc3RyeDRIYmlmTUNvWHVQZGl4SmJ4Rmtsb0RiNVBvSEFYXzRZbXlYUWJPbzZ1eHZ0d0VqeE5KWVFNR2xQYjE5Wjh1NFpTWDYxckQzd2hTUXhnMXF2SHpvUVVWZ1JNWHVDS2N0TlBCNlNHYzhJREhBdlVoZlNOT20tUk1KeEQ2dEtVOVBJ?oc=5"
+        }
+      ],
+      "id": "european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-mo"
+    },
+    {
+      "published_at": "2026-09-25T14:58:54+00:00",
+      "updated_at": "2026-09-25T14:58:54+00:00",
+      "title": "Ludwig Billengren inför Sverige-Rumänien",
+      "summary": "Blågult möter Rumänien i premiären av Nations League på Strawberry Arena. Landslagsredaktionens Maximilian Damm liverapporterar",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
       "club": "",
       "image": "",
       "sources": [
         {
-          "name": "Football Italia",
+          "name": "Fotbollskanalen",
           "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "juventus-plotting-douglas-luiz-contract-extension-after-promising-2026-27-return"
-    },
-    {
-      "published_at": "2026-09-25T16:42:45+00:00",
-      "updated_at": "2026-09-25T16:42:45+00:00",
-      "title": "Official Serie A dates and times for Week 12 to 19",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
+        },
         {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/live-sverige-rumanien-701208"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Football Italia",
+        "name": "Fotbollskanalen",
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
-      "confirmed_by": [],
-      "id": "official-serie-a-dates-and-times-for-week-12-to-19"
-    },
-    {
-      "published_at": "2026-09-25T16:09:55+00:00",
-      "updated_at": "2026-09-25T16:09:55+00:00",
-      "title": "Serie A proposal accepted to open January transfer window on December 28",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
+      "confirmed_by": [
         {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/live-sverige-rumanien-701208"
         }
       ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "serie-a-proposal-accepted-to-open-january-transfer-window-on-december-28"
+      "id": "ludwig-billengren-inf-r-sverige-rum-nien"
     },
     {
-      "published_at": "2026-09-24T13:27:22+00:00",
-      "updated_at": "2026-09-24T13:27:22+00:00",
-      "title": "10 of the strangest free transfers in Serie A history: Alaba joins ranks of most bizarre moves",
-      "summary": "Read the full report at Football Italia.",
+      "published_at": "2026-09-30T12:58:08+00:00",
+      "updated_at": "2026-09-30T12:58:08+00:00",
+      "title": "Vänsterextremist döms – slog nazist i huvudet med flaska i Aspudden",
+      "summary": "Ett storbråk mellan vänster- och högerextrema personer gjorde att en fotbollsmatch aldrig kunde spelas i Aspudden i april 2025. Nu har en vänsterextrem man dömts till ett års fängelse för att ha slagit en nazist i huvudet med en flaska – och för att ha misshandlat en minderårig, rapporterar Expressen",
       "category": [
-        "Serie A",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "10-of-the-strangest-free-transfers-in-serie-a-history-alaba-joins-ranks-of-most-bizarre-mo"
-    },
-    {
-      "published_at": "2026-09-25T22:51:46+00:00",
-      "updated_at": "2026-09-25T22:51:46+00:00",
-      "title": "Pochettino regrets limited role in Balogun appeal, says controversy changed US energy",
-      "summary": "Read the full report at Reuters.",
-      "category": [
-        "Football"
+        "Sverige"
       ],
       "status": "Confirmed",
-      "entity": "folarin-balogun",
+      "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/efe9a964ed03c0eccf666b61ef105aa4d4104ea11e668af1475f1b9061b0c9f3",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/nyheter/lokalt/stockholm/vansterextremist-doms-misshandlade-nazist-fore-fotbollsmatch"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Reuters",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/nyheter/lokalt/stockholm/vansterextremist-doms-misshandlade-nazist-fore-fotbollsmatch"
       },
       "confirmed_by": [],
-      "id": "pochettino-regrets-limited-role-in-balogun-appeal-says-controversy-changed-us-energy"
+      "id": "v-nsterextremist-d-ms-slog-nazist-i-huvudet-med-flaska-i-aspudden"
     },
     {
       "published_at": "2026-09-30T08:31:30+00:00",
@@ -1363,62 +1426,8 @@
       "id": "tony-gustavsson-svarar-p-kritiken-det-har-g-tt-f-r-fort-fram"
     },
     {
-      "published_at": "2026-09-29T12:11:08+00:00",
-      "updated_at": "2026-09-29T12:11:08+00:00",
-      "title": "Här är Sveriges trupp till VM-playoffmatcherna",
-      "summary": "Tony Gustavsson har nu presenterat truppen till VM-playoffmatcherna mot Litauen i oktober. Noterbart är att mittbacksklippan Nathalie Björn finns med igen efter lång skadefrånvaro. – Oerhört glädjande, säger förbundskaptenen på tisdagens pressträff",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.31/0.4/f3b1b80b20f6d77ccf6011c2bad1168a6d440139ae80991ef34c053b69c33ca2",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/har-ar-sveriges-trupp-till-vm-playoffmatcherna"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/har-ar-sveriges-trupp-till-vm-playoffmatcherna"
-      },
-      "confirmed_by": [],
-      "id": "h-r-r-sveriges-trupp-till-vm-playoffmatcherna"
-    },
-    {
-      "published_at": "2026-09-28T04:31:20+00:00",
-      "updated_at": "2026-09-28T04:31:20+00:00",
-      "title": "The Manchester City verdicts as viewed by the rest of the football world",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "the-manchester-city-verdicts-as-viewed-by-the-rest-of-the-football-world"
-    },
-    {
-      "published_at": "2026-09-28T04:14:03+00:00",
-      "updated_at": "2026-09-28T04:14:03+00:00",
+      "published_at": "2026-09-28T04:20:20+00:00",
+      "updated_at": "2026-09-28T04:20:20+00:00",
       "title": "From Man United to Lausanne via Nice, the INEOS football project has problems to solve",
       "summary": "Read the full report at The Athletic.",
       "category": [
@@ -1444,31 +1453,112 @@
       "id": "from-man-united-to-lausanne-via-nice-the-ineos-football-project-has-problems-to-solve"
     },
     {
-      "published_at": "2026-09-27T12:21:31+00:00",
-      "updated_at": "2026-09-27T12:21:31+00:00",
-      "title": "Alex Baena is Spain’s emerging star – he offers them a new dimension",
-      "summary": "Read the full report at The Athletic.",
+      "published_at": "2026-09-30T15:14:00+00:00",
+      "updated_at": "2026-09-30T15:14:00+00:00",
+      "title": "Spurs latest: Van Hecke withdraws from Netherlands squad due to injury",
+      "summary": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
         "Football"
       ],
-      "status": "Highly credible",
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-tottenham-club-blog_7326708.jpg?20260820165557",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "spurs-latest-van-hecke-withdraws-from-netherlands-squad-due-to-injury"
+    },
+    {
+      "published_at": "2026-09-25T20:13:57+00:00",
+      "updated_at": "2026-09-25T20:13:57+00:00",
+      "title": "Emil Holm utbytt skadad",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
       "image": "",
       "sources": [
         {
-          "name": "The Athletic",
+          "name": "Fotbollskanalen",
           "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "The Athletic",
+        "name": "Fotbollskanalen",
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "alex-baena-is-spain-s-emerging-star-he-offers-them-a-new-dimension"
+      "id": "emil-holm-utbytt-skadad"
+    },
+    {
+      "published_at": "2026-09-30T15:40:00+00:00",
+      "updated_at": "2026-09-30T15:40:00+00:00",
+      "title": "Man City charges Q&A: Appeal, EFL, independent regulator and more answered",
+      "summary": "Kaveh Solhekol has answered your latest questions on Manchester City after they were found guilty of all charges related to serious breaches of Premier League financial rules by an independent commission",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-manchester-city-premier-league_7365013.jpg?20260930153110",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13593663/man-city-premier-league-charges-kaveh-solhekol-answers-your-questions-on-appeal-efl-independent-regulator-and-more"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13593663/man-city-premier-league-charges-kaveh-solhekol-answers-your-questions-on-appeal-efl-independent-regulator-and-more"
+      },
+      "confirmed_by": [],
+      "id": "man-city-charges-q-a-appeal-efl-independent-regulator-and-more-answered"
+    },
+    {
+      "published_at": "2026-09-30T13:27:00+00:00",
+      "updated_at": "2026-09-30T13:27:00+00:00",
+      "title": "Six different takes on the Man City saga by Sky Sports reporters",
+      "summary": "Sky Sports News reporters discuss how Manchester City being found guilty of all charges related to serious breaches of Premier League financial rules unfolded and where the situation develops from here",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-man-city-manchester-city_7364919.jpg?20260930132432",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13593565/man-city-charges-six-different-takes-on-the-financial-breaches-saga-by-sky-sports-reporters"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13593565/man-city-charges-six-different-takes-on-the-financial-breaches-saga-by-sky-sports-reporters"
+      },
+      "confirmed_by": [],
+      "id": "six-different-takes-on-the-man-city-saga-by-sky-sports-reporters"
     },
     {
       "published_at": "2026-09-30T08:55:00+00:00",
@@ -1526,60 +1616,6 @@
       "id": "trent-i-always-believed-i-d-play-for-england-again"
     },
     {
-      "published_at": "2026-09-29T21:45:00+00:00",
-      "updated_at": "2026-09-29T21:45:00+00:00",
-      "title": "Gordon-inspired England seal much-needed win over Czech Republic",
-      "summary": "Pavel Sulc's first-half red card helped England recover from a nervy start to register an Anthony Gordon-inspired 2-0 Nations League win over the Czech Republic in Prague",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/09/1600x900/skysports-anthony-gordon-goal_7364488.jpg?20260929205617",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/czech-republic-vs-england/report/554024"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/czech-republic-vs-england/report/554024"
-      },
-      "confirmed_by": [],
-      "id": "gordon-inspired-england-seal-much-needed-win-over-czech-republic"
-    },
-    {
-      "published_at": "2026-09-29T21:35:00+00:00",
-      "updated_at": "2026-09-29T21:35:00+00:00",
-      "title": "Ten-man Scotland beaten by Switzerland in Pocognoli's first home match",
-      "summary": "Sebastien Pocognoli tasted defeat in his first match at Hampden as his 10-man Scotland side were comfortably beaten 3-0 by Switzerland in Nations League B",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/09/1600x900/skysports-scotland-jack-hendry_7364456.jpg?20260929200312",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/scotland-vs-switzerland/report/554028"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/scotland-vs-switzerland/report/554028"
-      },
-      "confirmed_by": [],
-      "id": "ten-man-scotland-beaten-by-switzerland-in-pocognoli-s-first-home-match"
-    },
-    {
       "published_at": "2026-09-29T17:00:00+00:00",
       "updated_at": "2026-09-29T17:00:00+00:00",
       "title": "Man City guilty - what happens now and who decides?",
@@ -1607,15 +1643,13 @@
       "id": "man-city-guilty-what-happens-now-and-who-decides"
     },
     {
-      "published_at": "2026-09-28T21:20:59+00:00",
-      "updated_at": "2026-09-28T21:20:59+00:00",
-      "title": "European football news and transfers: Barcelona, Real Madrid, PSG, Bayern Munich latest and more",
-      "summary": "Read the full report at Sky Sports.",
+      "published_at": "2026-09-30T12:37:59+00:00",
+      "updated_at": "2026-09-30T12:37:59+00:00",
+      "title": "Uppgifter: Real Madrid överväger van Dijk",
+      "summary": "Uppgifter: Real Madrid kikar på Jeltsch Fotbollskanalen",
       "category": [
-        "La Liga",
-        "Bundesliga",
-        "Ligue 1",
-        "Transfer"
+        "Sverige",
+        "La Liga"
       ],
       "status": "Reported",
       "entity": "",
@@ -1624,44 +1658,98 @@
       "image": "",
       "sources": [
         {
-          "name": "Sky Sports",
+          "name": "Fotbollskanalen",
           "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Sky Sports",
+        "name": "Fotbollskanalen",
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-mo"
+      "id": "uppgifter-real-madrid-verv-ger-van-dijk"
     },
     {
-      "published_at": "2026-09-24T11:28:40+00:00",
-      "updated_at": "2026-09-24T11:28:40+00:00",
-      "title": "Kylian Mbappe's top five goals for Real Madrid in LaLiga in 2025/26",
-      "summary": "Read the full report at Sky Sports.",
+      "published_at": "2026-09-30T15:12:00+00:00",
+      "updated_at": "2026-09-30T15:12:00+00:00",
+      "title": "Några tankar efter trupputtagningen",
+      "summary": "Linda Fotbollssurrs tankar efter Sveriges senaste trupputtagning. Anvegård, 4–4–2, U23 och frågorna kring landslagets utveckling",
       "category": [
-        "La Liga"
+        "Sverige"
       ],
       "status": "Reported",
-      "entity": "kylian-mbappe",
+      "entity": "",
       "entity_type": "players",
-      "club": "real-madrid",
-      "image": "",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/UDmGzyBfrB2VDQJ6UVBNfF7cFFcdC3cMVJnwtEt2.png",
       "sources": [
         {
-          "name": "Sky Sports",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/nagra-tankar-efter-trupputtagningen-701364"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Sky Sports",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/nagra-tankar-efter-trupputtagningen-701364"
       },
       "confirmed_by": [],
-      "id": "kylian-mbappe-s-top-five-goals-for-real-madrid-in-laliga-in-2025-26"
+      "id": "n-gra-tankar-efter-trupputtagningen"
+    },
+    {
+      "published_at": "2026-09-30T13:30:00+00:00",
+      "updated_at": "2026-09-30T13:30:00+00:00",
+      "title": "Landslagspanelen: ”Det kunde knappast ha blivit en bättre start”",
+      "summary": "Sverige har inlett Nations League på bästa möjliga sätt med två raka segrar mot Rumänien och Polen. Men hur bra har spelet egentligen varit, vilka spelare har stuckit ut och vad krävs för att locka fler supportrar till Strawberry Arena? SvenskaFans har tagit tempen på landslagsredaktionen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/ne4yp5TBiDbEyrZF6BthBjEb61SCdMY0Lb6xj5mZ.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/landslagspanelen-det-kunde-knappast-ha-blivit-en-battre-start-701360"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/landslagspanelen-det-kunde-knappast-ha-blivit-en-battre-start-701360"
+      },
+      "confirmed_by": [],
+      "id": "landslagspanelen-det-kunde-knappast-ha-blivit-en-b-ttre-start"
+    },
+    {
+      "published_at": "2026-09-30T13:12:00+00:00",
+      "updated_at": "2026-09-30T13:12:00+00:00",
+      "title": "Supportergruppens protest mot polisen - bojkottar sektionen",
+      "summary": "Efter en tid av ökad polisnärvaro och hårda ingripanden uppmanar supportergrupperna Kalmar Tifo och Red Coast nu till bojkott under matchen mot BP den 24 oktober",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/GpA4yMEJgfXNRubvixG4aszPO8u7by9AKaoMd1Dy.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/supportergruppens-protest-mot-polisen-bojkottar-sektionen-701359"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/supportergruppens-protest-mot-polisen-bojkottar-sektionen-701359"
+      },
+      "confirmed_by": [],
+      "id": "supportergruppens-protest-mot-polisen-bojkottar-sektionen"
     },
     {
       "published_at": "2026-09-30T10:00:00+00:00",
@@ -1797,196 +1885,6 @@
       },
       "confirmed_by": [],
       "id": "if-elfsborgs-matilda-m-rtensson-r-uttagen-i-sveriges-u23-trupp"
-    },
-    {
-      "published_at": "2026-09-29T12:45:12+00:00",
-      "updated_at": "2026-09-29T12:45:12+00:00",
-      "title": "Sveriges U23-trupp är ute - möter Finland och Tyskland",
-      "summary": "Sverige inleder oktobersamlingen med en träningslandskamp mot Finland den 8 oktober. Fyra dagar senare väntar premiären i WU23 Friendlies mot Tyskland",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2061916.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/sveriges-u23-trupp-ar-ute-moter-finland-och-tyskland-701315"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/sveriges-u23-trupp-ar-ute-moter-finland-och-tyskland-701315"
-      },
-      "confirmed_by": [],
-      "id": "sveriges-u23-trupp-r-ute-m-ter-finland-och-tyskland"
-    },
-    {
-      "published_at": "2026-09-29T10:00:00+00:00",
-      "updated_at": "2026-09-29T10:00:00+00:00",
-      "title": "Sänk priserna – tillgängliggör landslaget som lägereld",
-      "summary": "Miljontals svenskar följer landslagets matcher. Men för att kunna göra det behöver du punga upp en rejäl slant – oavsett om du tittar på TV eller vill se Blågult på plats. Det är dags att sänka priserna och låta fler ta del av vår nationalsport",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/phnxrXcsgEH6TdOHb2rNVFxEkmeHDwpjv97rbgdS.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/sank-priserna-tillgangliggor-landslaget-som-lagereld-701309"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/sank-priserna-tillgangliggor-landslaget-som-lagereld-701309"
-      },
-      "confirmed_by": [],
-      "id": "s-nk-priserna-tillg-ngligg-r-landslaget-som-l-gereld"
-    },
-    {
-      "published_at": "2026-09-29T04:00:00+00:00",
-      "updated_at": "2026-09-29T04:00:00+00:00",
-      "title": "Gyökeres om landslagets lyft: ”Mer samspelta nu”",
-      "summary": "Sverige har fått en smakstart på Nations League med två segrar på två matcher. Enligt Arsenal-stjärnan Viktor Gyökeres märks det att landslaget tagit kliv framåt. – När du har en bra grupp och bra kemi blir det enkelt, säger han efter segern mot Polen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/3HTnaZEgJOo2hEfFBeoaNbOjoulImPv9O8SMZRDH.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/gyokeres-om-landslagets-lyft-mer-samspelta-nu-701307"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/gyokeres-om-landslagets-lyft-mer-samspelta-nu-701307"
-      },
-      "confirmed_by": [],
-      "id": "gy-keres-om-landslagets-lyft-mer-samspelta-nu"
-    },
-    {
-      "published_at": "2026-09-29T11:06:00+00:00",
-      "updated_at": "2026-09-29T11:06:00+00:00",
-      "title": "Kylian Mbappé, Ibrahima Konaté, Fede Valverde expected to be available for El Clásico - source",
-      "summary": "Read the full report at ESPN.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "ESPN",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "ESPN",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "kylian-mbapp-ibrahima-konat-fede-valverde-expected-to-be-available-for-el-cl-sico-source"
-    },
-    {
-      "published_at": "2026-09-30T10:44:05+00:00",
-      "updated_at": "2026-09-30T10:44:05+00:00",
-      "title": "Juventus, Inter and Premier League clubs already approached Romano",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Premier League",
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "juventus-inter-and-premier-league-clubs-already-approached-romano"
-    },
-    {
-      "published_at": "2026-09-29T18:55:00+00:00",
-      "updated_at": "2026-09-29T18:55:00+00:00",
-      "title": "Juventus confirm €66m loss but cut operating costs by €42m",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "juventus-confirm-66m-loss-but-cut-operating-costs-by-42m"
-    },
-    {
-      "published_at": "2026-09-29T15:44:12+00:00",
-      "updated_at": "2026-09-29T15:44:12+00:00",
-      "title": "Orsato admits Serie A refereeing errors: ‘Superficiality, wrong positioning, wrong ideas’",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "orsato-admits-serie-a-refereeing-errors-superficiality-wrong-positioning-wrong-ideas"
     }
   ]
 }
