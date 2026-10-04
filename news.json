@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T19:15:54.930628+00:00",
+  "updated_at": "2026-10-04T22:49:39.021846+00:00",
   "items": [
     {
       "published_at": "2026-10-01T19:40:47+00:00",
@@ -16,12 +16,8 @@
       "image": "",
       "sources": [
         {
-          "name": "BBC Sport",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
           "name": "The Athletic",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUo0V0xOaFlvN0VLa1RBLUs4MjJwVVZaM1lDaE50bmVJUzVodVJWUzBOSXF3OUdRdkVCaXlOSFIwU3RPOGwtdWVPbDZSUW5YZWlVQzJXM0EzaS1Dek5qVndobjk0VVVmenVBUWl6MVdfMEdmSUJWNy1XRDdCaHVjYWl1Q3Zoakw0M29sM2dKcS1CcHFDcmtz?oc=5"
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         },
         {
           "name": "Fotbollskanalen",
@@ -30,20 +26,52 @@
       ],
       "language": "en",
       "main_source": {
-        "name": "BBC Sport",
+        "name": "The Athletic",
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [
-        {
-          "name": "The Athletic",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUo0V0xOaFlvN0VLa1RBLUs4MjJwVVZaM1lDaE50bmVJUzVodVJWUzBOSXF3OUdRdkVCaXlOSFIwU3RPOGwtdWVPbDZSUW5YZWlVQzJXM0EzaS1Dek5qVndobjk0VVVmenVBUWl6MVdfMEdmSUJWNy1XRDdCaHVjYWl1Q3Zoakw0M29sM2dKcS1CcHFDcmtz?oc=5"
-        },
         {
           "name": "Fotbollskanalen",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRW9QVEFuRHRPYkF6NHJEbmxKaUd0dGo3V1N3d2NHRFlYR041cGxDU2lhS2NGNWU3Y084TEtSTjhzRC1rLU95MENlMFBSWElRanhBZzlCQTBiWjdxbEIyTFhTSl9TdTVWNlJDZXUxcG1ucmVKTllXQ3ZmdjkxLWhabzEzMjJ6UjZxRVkw?oc=5"
         }
       ],
       "id": "lionel-messi-confirmed-as-new-owner-of-spanish-second-tier-club-eldense"
+    },
+    {
+      "published_at": "2026-10-03T23:00:00+00:00",
+      "updated_at": "2026-10-03T23:00:00+00:00",
+      "title": "Papers: Ronaldo to make Portugal return",
+      "summary": "Cristiano Ronaldo could still return for Portugal, according to boss Jorge Jesus",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/43de/live/68de2c00-c00b-11f1-b8fc-7927883c19e9.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c3dxwry8vydvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13595152/cristiano-ronaldo-to-make-portugal-return-in-2027-paper-talk"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c3dxwry8vydvo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13595152/cristiano-ronaldo-to-make-portugal-return-in-2027-paper-talk"
+        }
+      ],
+      "id": "papers-ronaldo-to-make-portugal-return"
     },
     {
       "published_at": "2026-10-02T14:47:43+00:00",
@@ -73,6 +101,87 @@
       "id": "torres-withdrawn-from-spain-squad-due-to-injury-espi-called-up"
     },
     {
+      "published_at": "2026-10-04T21:20:21+00:00",
+      "updated_at": "2026-10-04T21:20:21+00:00",
+      "title": "Man City fight back to beat struggling Arsenal",
+      "summary": "Manchester City twice came from behind to beat Arsenal 4-2 at the Etihad Stadium and increase the pressure on Gunners manager Renee Slegers",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e308/live/d9095200-c01c-11f1-babe-4199b0e7ccea.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c64g71j3dkw7o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c64g71j3dkw7o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "man-city-fight-back-to-beat-struggling-arsenal"
+    },
+    {
+      "published_at": "2026-10-04T21:06:47+00:00",
+      "updated_at": "2026-10-04T21:06:47+00:00",
+      "title": "You are the Scotland boss - what would you do?",
+      "summary": "Put yourself in the shoes of the new Scotland head coach Sebastien Pocognoli as he picks his XI to face Slovenia on Tuesday",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/78b7/live/86435770-b746-11f1-8846-e70401199dae.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cr4g1q2w1g6zo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cr4g1q2w1g6zo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "you-are-the-scotland-boss-what-would-you-do"
+    },
+    {
+      "published_at": "2026-10-04T20:34:17+00:00",
+      "updated_at": "2026-10-04T20:34:17+00:00",
+      "title": "Arsenal 10 points off WSL leaders - is Slegers' job at risk?",
+      "summary": "It is only five matches into the WSL season but Arsenal are already 10 points behind leaders Manchester City and manager Renee Slegers is coming under increasing scrutiny",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d6ec/live/77998e20-c01e-11f1-bfc0-dbc6925567bb.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c9p8gmvlvp57o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c9p8gmvlvp57o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "arsenal-10-points-off-wsl-leaders-is-slegers-job-at-risk"
+    },
+    {
       "published_at": "2026-10-04T16:36:00+00:00",
       "updated_at": "2026-10-04T16:36:00+00:00",
       "title": "Gateshead sack Cattermole after poor start",
@@ -98,33 +207,6 @@
       },
       "confirmed_by": [],
       "id": "gateshead-sack-cattermole-after-poor-start"
-    },
-    {
-      "published_at": "2026-10-03T16:04:33+00:00",
-      "updated_at": "2026-10-03T16:04:33+00:00",
-      "title": "'I want to discover Manchester' - Olid hunts recommendations",
-      "summary": "Manchester United manager Eva Olid says she is \"asking for recommendations\" as she prepares to look around the city for the first time during the international break",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/46bd/live/5d5b9050-bf40-11f1-babe-4199b0e7ccea.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c35ynl9w41njo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c35ynl9w41njo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "i-want-to-discover-manchester-olid-hunts-recommendations"
     },
     {
       "published_at": "2026-10-03T13:02:11+00:00",
@@ -262,60 +344,6 @@
       "id": "ferguson-terrified-before-fantastic-return-to-man-utd-after-brain-haemorrhage"
     },
     {
-      "published_at": "2026-09-30T13:17:44+00:00",
-      "updated_at": "2026-09-30T13:17:44+00:00",
-      "title": "Criminal investigation? Relegation or expulsion? The key Man City questions",
-      "summary": "BBC Sport takes a look at the key questions following the guilty verdicts handed down to Manchester City",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ff90/live/6abf4e50-bcb9-11f1-a52f-e7c9a7884cfa.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c9y7zr4l6de1o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c9y7zr4l6de1o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "criminal-investigation-relegation-or-expulsion-the-key-man-city-questions"
-    },
-    {
-      "published_at": "2026-10-02T19:19:08+00:00",
-      "updated_at": "2026-10-02T19:19:08+00:00",
-      "title": "Ännu en smäll för Sverige – Carl Starfelt skadad",
-      "summary": "Efter dryga halvtimmen mot Bosnien-Hercegovina tvingades Carl Starfelt byta efter att ha tagit sig mot baksidan. – Han kommer självklart att missa Rumänien-matchen, konstaterar Graham Potter",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.46/0.42/9ae0b7e04bccfc300b0dc4428b894fd1750cd3c3a4d8621c8162a6f31c070b25",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/annu-en-small-for-sverige-carl-starfelt-skadad"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/annu-en-small-for-sverige-carl-starfelt-skadad"
-      },
-      "confirmed_by": [],
-      "id": "nnu-en-sm-ll-f-r-sverige-carl-starfelt-skadad"
-    },
-    {
       "published_at": "2026-09-30T13:43:44+00:00",
       "updated_at": "2026-09-30T13:43:44+00:00",
       "title": "Barcelona have another Raphinha injury worry. How bad is it? And what’s being done?",
@@ -341,42 +369,6 @@
       },
       "confirmed_by": [],
       "id": "barcelona-have-another-raphinha-injury-worry-how-bad-is-it-and-what-s-being-done"
-    },
-    {
-      "published_at": "2026-10-04T18:07:47+00:00",
-      "updated_at": "2026-10-04T18:07:47+00:00",
-      "title": "Shaw seals Manchester City’s thrilling 4-2 win over Arsenal to keep up 100% WSL run",
-      "summary": "Manchester City came from behind twice to win an absorbing, six-goal thriller 4-2 and continue their 100% winning start to the Women’s Super League season while heaping further pressure on Arsenal and their head coach Renée Slegers. The defending champions, helped by Kerstin Casparij scoring a screamer with her very first touch of the ball after coming on as a second-half substitute, stretched their advantage over Arsenal to 10 points after just five rounds of matches, leaving the title hopes of last season’s runners-up hanging by a thread.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/oct/04/manchester-city-arsenal-wsl-match-report"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/oct/04/manchester-city-arsenal-wsl-match-report"
-        }
-      ],
-      "id": "shaw-seals-manchester-city-s-thrilling-4-2-win-over-arsenal-to-keep-up-100-wsl-run"
     },
     {
       "published_at": "2026-09-28T09:30:00+00:00",
@@ -415,33 +407,6 @@
       "id": "emil-holm-riskerar-operation-kan-bli-borta-i-flera-m-nader"
     },
     {
-      "published_at": "2026-10-03T23:00:00+00:00",
-      "updated_at": "2026-10-03T23:00:00+00:00",
-      "title": "Papers: Arsenal leading race for winger Nusa",
-      "summary": "Plus: Chelsea beaten behind closed doors; Juventus keen on Liverpools Giovanni Leoni; Barcelona training hit by flood fears; Man City latest",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13594837/arsenal-leading-race-for-rb-leipzig-winger-antonio-nusa-paper-talk"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13594837/arsenal-leading-race-for-rb-leipzig-winger-antonio-nusa-paper-talk"
-      },
-      "confirmed_by": [],
-      "id": "papers-arsenal-leading-race-for-winger-nusa"
-    },
-    {
       "published_at": "2026-10-02T19:20:00+00:00",
       "updated_at": "2026-10-02T19:20:00+00:00",
       "title": "Man City sponsor's 2015 statement raises questions about appeal strategy",
@@ -467,97 +432,6 @@
       },
       "confirmed_by": [],
       "id": "man-city-sponsor-s-2015-statement-raises-questions-about-appeal-strategy"
-    },
-    {
-      "published_at": "2026-10-03T20:38:00+00:00",
-      "updated_at": "2026-10-03T20:38:00+00:00",
-      "title": "Seventh heaven for England in Croatia",
-      "summary": "England produced a dominant performance that will live long in the memory to defeat Croatia 7-0 in their Nations League tie in Rijeka",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/images/ic/1024x576/p0pdvwxq.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sounds/play/p0pdvwxg?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/croatia-vs-england/report/554052"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sounds/play/p0pdvwxg?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/croatia-vs-england/report/554052"
-        }
-      ],
-      "id": "seventh-heaven-for-england-in-croatia"
-    },
-    {
-      "published_at": "2026-10-01T10:59:04+00:00",
-      "updated_at": "2026-10-01T10:59:04+00:00",
-      "title": "Toppen utesluter Wirtz-värvning: \"Ingen anledning\"",
-      "summary": "Toppen utesluter Wirtz-värvning: \"Ingen anledning\" Fotbollskanalen",
-      "category": [
-        "Sverige",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "toppen-utesluter-wirtz-v-rvning-ingen-anledning"
-    },
-    {
-      "published_at": "2026-09-30T13:58:44+00:00",
-      "updated_at": "2026-09-30T13:58:44+00:00",
-      "title": "Beskedet: van Hecke skadad - lämnar samlingen",
-      "summary": "Beskedet: van Hecke skadad - lämnar samlingen Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "beskedet-van-hecke-skadad-l-mnar-samlingen"
     },
     {
       "published_at": "2026-09-29T05:36:00+00:00",
@@ -624,6 +498,60 @@
       "id": "victor-nilsson-lindel-f-om-media-nobben-irriterad-h-rde-ingen-ropa"
     },
     {
+      "published_at": "2026-10-04T21:00:37+00:00",
+      "updated_at": "2026-10-04T21:00:37+00:00",
+      "title": "Let’s stop doubting Thomas Tuchel: England are impressive and Euro 2028 is the target",
+      "summary": "Coming third in the World Cup was really not a disaster, and Saturday’s rout of Croatia and building the team around Jude Bellingham are good signs Move fast and fix things. It has been a fine week so far for Thomas Tuchel as he attempts the cyclical task of soldering together not just an England team, but a way of looking like one, all the while being battered by the to-and-fro conflicting winds of England managerdom. This is a job that involves not just picking the right players and making high-stakes calculations over your second-half substitutions, but carrying out these basic duties while wrestling with aggrieved members of the Thuggee cult on a collapsing rope bridge outside the Temple of Doom, and simultaneously having your heart ripped out.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/3ede7b755125eacd52536d5e40ec962ef763c08d/231_0_3268_2614/master/3268.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=99a1356778afb6adf597ae09a0b77a05",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/04/thomas-tuchel-england-croatia-nations-league-euro-2028"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/oct/04/thomas-tuchel-england-croatia-nations-league-euro-2028"
+      },
+      "confirmed_by": [],
+      "id": "let-s-stop-doubting-thomas-tuchel-england-are-impressive-and-euro-2028-is-the-target"
+    },
+    {
+      "published_at": "2026-10-04T20:52:23+00:00",
+      "updated_at": "2026-10-04T20:52:23+00:00",
+      "title": "Denmark sink Wales as Rasmus Højlund makes Danny Ward pay for blunder",
+      "summary": "Wales crave momentum but, a few days after surely the sweetest high of Craig Bellamy’s two-year reign, a sapping international window ended on a bum note. At least until Bellamy was informed Portugal’s comeback victory over Norway means Wales will spend the next six weeks in third, and not bottom of Nations League A4 owing to their superior head-to-record. “That’s actually quite nice,” the Wales head coach said, slowly digesting the silver lining about half an hour after the final whistle.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/169e6d4539e108c76af46fd9ee51f53f8db4d2ca/314_0_3830_3064/master/3830.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=39073eee563f3a99bd4dc52401e53520",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/04/wales-denmark-nations-league-match-report"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/oct/04/wales-denmark-nations-league-match-report"
+      },
+      "confirmed_by": [],
+      "id": "denmark-sink-wales-as-rasmus-h-jlund-makes-danny-ward-pay-for-blunder"
+    },
+    {
       "published_at": "2026-10-04T11:30:26+00:00",
       "updated_at": "2026-10-04T11:30:26+00:00",
       "title": "Jesse Marsch: ‘We Americans have been inundated with propaganda since we were young’",
@@ -654,7 +582,7 @@
       "published_at": "2026-10-04T07:00:21+00:00",
       "updated_at": "2026-10-04T07:00:21+00:00",
       "title": "Alexander’s absence weighs heavy as Bradford try to keep promotion push on track",
-      "summary": "The Bantams faced Reading after manager left for Preston – but could his replacement be in the opposing dugout? It was a bruising start to the week for Bradford City when news filtered through to the players that Graham Alexander had stepped down as manager. They were top of League One and his departure was a sudden and unexpected blow for a side that had started to let imaginations run wild about a return to the second tier for the first time in 23 years.",
+      "summary": "The Bantams faced Reading after manager left for Preston and ‘were a little unsettled’, according to caretaker Mark Trueman It was a bruising start to the week for Bradford City when news filtered through to the players that Graham Alexander had stepped down as manager. They were top of League One and his departure was a sudden and unexpected blow for a side that had started to let imaginations run wild about a return to the second tier for the first time in 23 years. The coaches Mark Trueman and Colin Doyle took interim charge and called a meeting with the squad last Monday.",
       "category": [
         "Football"
       ],
@@ -676,33 +604,6 @@
       },
       "confirmed_by": [],
       "id": "alexander-s-absence-weighs-heavy-as-bradford-try-to-keep-promotion-push-on-track"
-    },
-    {
-      "published_at": "2026-10-03T19:00:08+00:00",
-      "updated_at": "2026-10-03T19:00:08+00:00",
-      "title": "Let there be blanks instead of Manchester City’s name on trophies: there was no honour there | Jonathan Wilson",
-      "summary": "The spaces can stand both as a rebuke to an era of greed but also a tribute to the Premier League’s hunt for justice At half-time in the 2014 League Cup final, Sunderland led Manchester City 1-0. Yaya Touré equalised with a casually brilliant 30-yard clip 10 minutes after the break, and City went on to win 3-1. City, we now know from the independent commission, were at the time involved in a prolonged and calculated act of cheating , while Touré, the leaks in Der Spiegel suggested, was being paid via a dual contract to disguise exactly how much City were spending.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://i.guim.co.uk/img/media/cf4bbf1472e23618e18462482e3df24b8968025c/781_0_2665_2131/master/2665.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=22ec03ed3851c1eb8d9da8d2034418c5",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/oct/03/blank-instead-manchester-city-name-trophies-premier-league"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/oct/03/blank-instead-manchester-city-name-trophies-premier-league"
-      },
-      "confirmed_by": [],
-      "id": "let-there-be-blanks-instead-of-manchester-city-s-name-on-trophies-there-was-no-honour-ther"
     },
     {
       "published_at": "2026-10-03T14:52:27+00:00",
@@ -868,33 +769,6 @@
       "id": "j-rgen-klopp-disgusted-by-claims-his-germany-team-are-not-white-enough"
     },
     {
-      "published_at": "2026-10-01T09:00:35+00:00",
-      "updated_at": "2026-10-01T09:00:35+00:00",
-      "title": "‘Is there still a glass ceiling? Of course’: Kazim-Richards fights for breakthrough at Crawley",
-      "summary": "Alongside his assistant, Julian Gray, rookie manager talks about the state of play for black coaches and trying to lift his club off the bottom of League Two Colin Kazim-Richards accepts the scale of the task of improving the situation at Crawley who sit bottom of League Two after seven games. But on the evidence of what he has seen, the head coach is sure better times lie ahead. On a late summer’s afternoon at Crawley’s training ground in Sussex, Kazim-Richards, alongside his assistant, Julian Gray, the pair arriving in March and managing to save the club from relegation to the National League on the final day, speaks of the challenges ahead and how the team’s league position tells only part of the story.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/4e11fbb71625089cf83c40d80930ecd9d13bf33d/450_0_5800_4640/master/5800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1d9ffba3aa6e9343278789d7cc5664cc",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/oct/01/colin-kazim-richards-julian-gray-crawley-town-league-two"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/oct/01/colin-kazim-richards-julian-gray-crawley-town-league-two"
-      },
-      "confirmed_by": [],
-      "id": "is-there-still-a-glass-ceiling-of-course-kazim-richards-fights-for-breakthrough-at-crawley"
-    },
-    {
       "published_at": "2026-10-04T11:48:27+00:00",
       "updated_at": "2026-10-04T11:48:27+00:00",
       "title": "Lagerlöf och laget",
@@ -922,6 +796,42 @@
       "id": "lagerl-f-och-laget"
     },
     {
+      "published_at": "2026-10-02T10:00:00+00:00",
+      "updated_at": "2026-10-02T10:00:00+00:00",
+      "title": "Man City latest: Haaland asks to be subbed off due to injury with Norway",
+      "summary": "Portugal victory seals place in quarter-finals Greece hold Germany to goalless draw Title-holders Portugal maintained their 100% record in the Nations League with a 2-1 home win over Norway on Sunday to seal a place in ⁠the March quarter-finals, while Manchester City’s problems may have got worse after Erling Haaland limped off for the visitors. Portugal hope their victory at the Estádio Do Dragão shifts the focus further away from Cristiano Ronaldo’s abrupt exit from the squad last week. Gonçalo Ramos netted 11 minutes from time to ensure they secured a top-two ⁠finish in Group A4 as ⁠they moved six points ​ahead of second-placed Denmark, who won 1-0 at Wales .",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "erling-haaland",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-man-city-club-blog_7326702.jpg?20260820165453",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/04/nations-league-roundup-haaland-limps-off-in-norways-loss-to-portugal"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/04/nations-league-roundup-haaland-limps-off-in-norways-loss-to-portugal"
+        }
+      ],
+      "id": "man-city-latest-haaland-asks-to-be-subbed-off-due-to-injury-with-norway"
+    },
+    {
       "published_at": "2026-10-01T20:10:17+00:00",
       "updated_at": "2026-10-01T20:10:17+00:00",
       "title": "Tung smäll för Rosengård - Molly Johansson är korsbandsskadad",
@@ -947,34 +857,6 @@
       },
       "confirmed_by": [],
       "id": "tung-sm-ll-f-r-roseng-rd-molly-johansson-r-korsbandsskadad"
-    },
-    {
-      "published_at": "2026-10-03T09:05:24+00:00",
-      "updated_at": "2026-10-03T09:05:24+00:00",
-      "title": "Transfer rumors, news: Haaland wants LaLiga move over Arsenal",
-      "summary": "Read the full report at ESPN.",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "erling-haaland",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "",
-      "sources": [
-        {
-          "name": "ESPN",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "ESPN",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "transfer-rumors-news-haaland-wants-laliga-move-over-arsenal"
     },
     {
       "published_at": "2026-10-02T11:34:21+00:00",
@@ -1008,7 +890,7 @@
       "published_at": "2026-10-02T21:13:41+00:00",
       "updated_at": "2026-10-02T21:13:41+00:00",
       "title": "European football news and transfers: Barcelona, Real Madrid, PSG, Bayern Munich latest and more",
-      "summary": "Uppgifter: Real Madrid och Barcelona följer Mora Fotbollskanalen",
+      "summary": "Barcelona 7-0 Real Madrid Lead at the top stretched to five points Clàudia Pina smashed in four goals as Barcelona demolished Real Madrid 7-0 to earn a five point lead at the top of Liga F on Sunday over their rivals. The 25-year-old Spain international was in lethal form in front of goal as a dominant Barça won the Clásico battle with ease at the Camp Nou in front of over 40,000 fans, continuing their perfect start to the campaign. The match was pushed back by two hours after torrential rain in the Catalonia region over the weekend.",
       "category": [
         "La Liga",
         "Bundesliga",
@@ -1026,8 +908,8 @@
           "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         },
         {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaFY4djlPeHpRZmtuUHZKMWk0VEJDc3RyeDRIYmlmTUNvWHVQZGl4SmJ4Rmtsb0RiNVBvSEFYXzRZbXlYUWJPbzZ1eHZ0d0VqeE5KWVFNR2xQYjE5Wjh1NFpTWDYxckQzd2hTUXhnMXF2SHpvUVVWZ1JNWHVDS2N0TlBCNlNHYzhJREhBdlVoZlNOT20tUk1KeEQ2dEtVOVBJ?oc=5"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/04/claudia-pina-hits-four-as-barcelona-demolish-real-madrid"
         }
       ],
       "language": "en",
@@ -1037,11 +919,66 @@
       },
       "confirmed_by": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaFY4djlPeHpRZmtuUHZKMWk0VEJDc3RyeDRIYmlmTUNvWHVQZGl4SmJ4Rmtsb0RiNVBvSEFYXzRZbXlYUWJPbzZ1eHZ0d0VqeE5KWVFNR2xQYjE5Wjh1NFpTWDYxckQzd2hTUXhnMXF2SHpvUVVWZ1JNWHVDS2N0TlBCNlNHYzhJREhBdlVoZlNOT20tUk1KeEQ2dEtVOVBJ?oc=5"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/04/claudia-pina-hits-four-as-barcelona-demolish-real-madrid"
         }
       ],
       "id": "european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-mo"
+    },
+    {
+      "published_at": "2026-10-04T20:49:05+00:00",
+      "updated_at": "2026-10-04T20:49:05+00:00",
+      "title": "Israeliska och irländska spelarna särades: ”Var smarta nu”",
+      "summary": "Irland spelade mot Israel i Serbien i Nations League på grund av den politiska spänning som föregått matchen. Den slutade 1–1 inför tomma läktare i Backa Topola",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.39/0.37/2894baf806b70ec9e287b29d19bff6b57e683112f2f69ad9665ce8dbf6d1e418",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/israeliska-och-irlandska-spelarna-sarades-var-smarta-nu"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/israeliska-och-irlandska-spelarna-sarades-var-smarta-nu"
+      },
+      "confirmed_by": [],
+      "id": "israeliska-och-irl-ndska-spelarna-s-rades-var-smarta-nu"
+    },
+    {
+      "published_at": "2026-10-04T20:43:02+00:00",
+      "updated_at": "2026-10-04T20:43:02+00:00",
+      "title": "Felicia Schröders Real Madrid förnedrat i El Clasico",
+      "summary": "I det första El Clasico i ligan för damer som spelats på Camp Nou blev det förnedring. Barcelona vann med 7–0 efter att Claudia Pina gjort fyra mål i första halvlek",
+      "category": [
+        "Sverige",
+        "La Liga"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "real-madrid",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.22/0.38/f511e50c223b2c52fbb0cf390c7de631d0fcec6c44aac439a9e81ce67512449c",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/felicia-schroders-real-madrid-fornedrat-i-el-clasico"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/felicia-schroders-real-madrid-fornedrat-i-el-clasico"
+      },
+      "confirmed_by": [],
+      "id": "felicia-schr-ders-real-madrid-f-rnedrat-i-el-clasico"
     },
     {
       "published_at": "2026-10-04T16:46:36+00:00",
@@ -1233,33 +1170,6 @@
       "id": "lamine-yamal-gjorde-tidigt-m-l-i-tredje-raka-matchen"
     },
     {
-      "published_at": "2026-10-03T19:18:55+00:00",
-      "updated_at": "2026-10-03T19:18:55+00:00",
-      "title": "Därför markerar Irland så tydligt mot Israel",
-      "summary": "Neutral plan, svarta armbindlar och inga handskakningar. Det irländska landslagets markeringar mot Israel väckte stor uppmärksamhet i första Nations League-matchen. – Palestiniernas sak har historiskt varit en väldigt viktig fråga för Irland, säger journalisten Tony Connelly",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.43/0.61/c2db8220f61adc0053ced4c12088aec4235269624cf8ab975c3eea44483b06fc",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/nyheter/utrikes/darfor-markerar-irland-sa-tydligt-mot-israel"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/nyheter/utrikes/darfor-markerar-irland-sa-tydligt-mot-israel"
-      },
-      "confirmed_by": [],
-      "id": "d-rf-r-markerar-irland-s-tydligt-mot-israel"
-    },
-    {
       "published_at": "2026-10-03T04:39:47+00:00",
       "updated_at": "2026-10-03T04:39:47+00:00",
       "title": "Jude Bellingham’s ‘F*** off’, Rodri’s Valencia apology: How lip reading took over La Liga",
@@ -1341,31 +1251,31 @@
       "id": "from-man-united-to-lausanne-via-nice-the-ineos-football-project-has-problems-to-solve"
     },
     {
-      "published_at": "2026-10-03T20:00:00+00:00",
-      "updated_at": "2026-10-03T20:00:00+00:00",
-      "title": "Arsenal latest: Injured Tzolis expected to return to club this weekend",
-      "summary": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "published_at": "2026-10-04T21:55:00+00:00",
+      "updated_at": "2026-10-04T21:55:00+00:00",
+      "title": "Hojlund pen condemns Wales to third Nations League defeat in four",
+      "summary": "Wales suffered a 1-0 Nations League defeat to Denmark as Rasmus Hojlund scored the game's only goal from the penalty spot",
       "category": [
-        "Premier League"
+        "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-arsenal-club-blog_7326689.jpg?20260820164959",
+      "club": "",
+      "image": "https://e0.365dm.com/26/10/1600x900/skysports-rasmus-hojlund-denmark_7368301.jpg?20261004215253",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "url": "https://www.skysports.com/football/wales-vs-denmark/report/554066"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "url": "https://www.skysports.com/football/wales-vs-denmark/report/554066"
       },
       "confirmed_by": [],
-      "id": "arsenal-latest-injured-tzolis-expected-to-return-to-club-this-weekend"
+      "id": "hojlund-pen-condemns-wales-to-third-nations-league-defeat-in-four"
     },
     {
       "published_at": "2026-10-03T22:00:00+00:00",
@@ -1449,35 +1359,199 @@
       "id": "keane-bellingham-can-become-one-of-greatest-players-ever"
     },
     {
-      "published_at": "2026-10-02T12:00:00+00:00",
-      "updated_at": "2026-10-02T12:00:00+00:00",
-      "title": "Man City lodge appeal against guilty verdict",
-      "summary": "Manchester City have lodged their appeal against an independent commission finding them guilty of all charges related to serious breaches of Premier League financial rules",
+      "published_at": "2026-10-04T18:44:21+00:00",
+      "updated_at": "2026-10-04T18:44:21+00:00",
+      "title": "Rosengård-tränaren om nedflyttningshotet: \"Är inte orolig\"",
+      "summary": "Read the full report at Fotbollskanalen.",
       "category": [
-        "Football"
+        "Sverige",
+        "Coach"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://e0.365dm.com/26/09/1600x900/skysports-manchester-city-appeal_7365010.jpg?20260930152949",
+      "club": "",
+      "image": "",
       "sources": [
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13593606/man-city-lodge-appeal-premier-league-club-contest-guilty-verdict-of-independent-commission"
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13593606/man-city-lodge-appeal-premier-league-club-contest-guilty-verdict-of-independent-commission"
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "man-city-lodge-appeal-against-guilty-verdict"
+      "id": "roseng-rd-tr-naren-om-nedflyttningshotet-r-inte-orolig"
     },
     {
-      "published_at": "2026-10-04T16:07:50+00:00",
-      "updated_at": "2026-10-04T16:07:50+00:00",
+      "published_at": "2026-10-04T18:26:17+00:00",
+      "updated_at": "2026-10-04T18:26:17+00:00",
+      "title": "Arsenal förlorade stormötet med Manchester City",
+      "summary": "Arsenal förlorade stormötet med Manchester City Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "arsenal-f-rlorade-storm-tet-med-manchester-city"
+    },
+    {
+      "published_at": "2026-10-04T17:41:25+00:00",
+      "updated_at": "2026-10-04T17:41:25+00:00",
+      "title": "Tryck på Tony Gustavsson - regimen Reinfeldts sista sportsliga utnämning - Olof Lundhs krönikor",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "tryck-p-tony-gustavsson-regimen-reinfeldts-sista-sportsliga-utn-mning-olof-lundhs-kr-nikor"
+    },
+    {
+      "published_at": "2026-10-04T17:32:10+00:00",
+      "updated_at": "2026-10-04T17:32:10+00:00",
+      "title": "AIK:s tunga poängtapp i jakten på Europa: \"Jävligt irriterande\"",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "aik-s-tunga-po-ngtapp-i-jakten-p-europa-j-vligt-irriterande"
+    },
+    {
+      "published_at": "2026-10-04T17:10:01+00:00",
+      "updated_at": "2026-10-04T17:10:01+00:00",
+      "title": "FEM SPANINGAR: Där har MFF redan ett övertag på Rosengård",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "fem-spaningar-d-r-har-mff-redan-ett-vertag-p-roseng-rd"
+    },
+    {
+      "published_at": "2026-10-04T16:49:57+00:00",
+      "updated_at": "2026-10-04T16:49:57+00:00",
+      "title": "Korhonen gjorde sitt första mål i WSL",
+      "summary": "Korhonen gjorde sitt första mål i WSL Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "korhonen-gjorde-sitt-f-rsta-m-l-i-wsl"
+    },
+    {
+      "published_at": "2026-10-04T16:12:00+00:00",
+      "updated_at": "2026-10-04T16:12:00+00:00",
+      "title": "Rico Lewis ansluter till Englands samling",
+      "summary": "Rico Lewis ansluter till Englands samling Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "rico-lewis-ansluter-till-englands-samling"
+    },
+    {
+      "published_at": "2026-10-04T16:06:26+00:00",
+      "updated_at": "2026-10-04T16:06:26+00:00",
       "title": "Vilda glädjen efter sena derbysegern - Renmarks besked: \"Tycker jag ska starta\"",
       "summary": "Read the full report at Fotbollskanalen.",
       "category": [
@@ -1501,114 +1575,6 @@
       },
       "confirmed_by": [],
       "id": "vilda-gl-djen-efter-sena-derbysegern-renmarks-besked-tycker-jag-ska-starta"
-    },
-    {
-      "published_at": "2026-10-04T15:27:37+00:00",
-      "updated_at": "2026-10-04T15:27:37+00:00",
-      "title": "Russell avgjorde Malmö-derbyt",
-      "summary": "Russell avgjorde Malmö-derbyt Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "russell-avgjorde-malm-derbyt"
-    },
-    {
-      "published_at": "2026-10-04T15:15:32+00:00",
-      "updated_at": "2026-10-04T15:15:32+00:00",
-      "title": "16-åriga Peterson slog till i Bajens seger",
-      "summary": "16-åriga Peterson slog till i Bajens seger Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "16-riga-peterson-slog-till-i-bajens-seger"
-    },
-    {
-      "published_at": "2026-10-04T14:39:22+00:00",
-      "updated_at": "2026-10-04T14:39:22+00:00",
-      "title": "Southampton - Portsmouth, 11 oktober kl. 13:00",
-      "summary": "Southampton - Portsmouth, 11 oktober kl. 13:00 Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "southampton-portsmouth-11-oktober-kl-13-00"
-    },
-    {
-      "published_at": "2026-10-04T14:04:00+00:00",
-      "updated_at": "2026-10-04T14:04:00+00:00",
-      "title": "\"Efter chockförlusten - Klopps manskap tar revansch\"",
-      "summary": "\"Efter chockförlusten - Klopps manskap tar revansch\" Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "efter-chockf-rlusten-klopps-manskap-tar-revansch"
     },
     {
       "published_at": "2026-10-04T16:33:00+00:00",
@@ -2096,6 +2062,33 @@
       },
       "confirmed_by": [],
       "id": "spalletti-tests-new-juventus-role-for-cambiaso-in-1-0-loss-to-cremonese"
+    },
+    {
+      "published_at": "2026-10-03T09:43:58+00:00",
+      "updated_at": "2026-10-03T09:43:58+00:00",
+      "title": "Amorim: Milan still have ‘many things’ to improve, two things concern me",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "amorim-milan-still-have-many-things-to-improve-two-things-concern-me"
     }
   ]
 }
