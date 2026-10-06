@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T00:37:08.454295+00:00",
+  "updated_at": "2026-10-06T07:15:24.182714+00:00",
   "items": [
     {
       "published_at": "2026-10-05T04:12:34+00:00",
@@ -58,7 +58,7 @@
       "published_at": "2026-10-01T19:40:47+00:00",
       "updated_at": "2026-10-01T19:40:47+00:00",
       "title": "Lionel Messi confirmed as new owner of Spanish second-tier club Eldense",
-      "summary": "Officiellt: Messi ny ägare i Eldense Fotbollskanalen",
+      "summary": "Lionel Messi's Argentina career will end in a friendly against Benin. BBC Sport looks at what next for the 39-year-old?",
       "category": [
         "Club management"
       ],
@@ -66,11 +66,11 @@
       "entity": "lionel-messi",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/736a/live/3de6acd0-c0b4-11f1-837f-5ba27a94daa8.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwly3lpmyye9o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "The Athletic",
@@ -84,7 +84,7 @@
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwly3lpmyye9o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
@@ -204,6 +204,33 @@
         }
       ],
       "id": "laliga-s-tebas-says-man-city-should-face-severe-punishment-after-rule-breach-findings"
+    },
+    {
+      "published_at": "2026-10-05T23:30:24+00:00",
+      "updated_at": "2026-10-05T23:30:24+00:00",
+      "title": "NI make huge strides despite Georgia frustration",
+      "summary": "With eight points from four games, Northern Ireland show real progress through what manager Michael O'Neill calls \"one of the most enjoyable windows\" he has had in international football",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/febc/live/ddcf5090-c103-11f1-9ff2-3b6c88884537.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmvg9lp24p1po?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmvg9lp24p1po?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "ni-make-huge-strides-despite-georgia-frustration"
     },
     {
       "published_at": "2026-10-05T21:28:25+00:00",
@@ -368,33 +395,6 @@
       "id": "bournemouth-unhappy-after-scott-injured-with-england"
     },
     {
-      "published_at": "2026-10-05T11:54:00+00:00",
-      "updated_at": "2026-10-05T11:54:00+00:00",
-      "title": "Duff set to be appointed Bradford boss",
-      "summary": "Bradford City are set to appoint former Wycombe Wanderers boss Michael Duff as their new manager",
-      "category": [
-        "Coach"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f5b1/live/2f52f1c0-c0b3-11f1-837f-5ba27a94daa8.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmvg9l7e72v5o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmvg9l7e72v5o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "duff-set-to-be-appointed-bradford-boss"
-    },
-    {
       "published_at": "2026-10-05T03:30:06+00:00",
       "updated_at": "2026-10-05T03:30:06+00:00",
       "title": "Tio miljoner till Fiskeviks IF – fler barn får möjlighet att träna",
@@ -539,45 +539,18 @@
       "id": "scott-withdraws-from-england-and-could-miss-several-weeks"
     },
     {
-      "published_at": "2026-10-05T17:47:05+00:00",
-      "updated_at": "2026-10-05T17:47:05+00:00",
-      "title": "Uppgifter: Kane detaljer från nytt kontrakt",
-      "summary": "Uppgifter: Kane detaljer från nytt kontrakt Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-kane-detaljer-fr-n-nytt-kontrakt"
-    },
-    {
-      "published_at": "2026-10-05T16:06:47+00:00",
-      "updated_at": "2026-10-05T16:06:47+00:00",
-      "title": "VSK:s tränare Alexander Rubin gästar Bollklubben",
-      "summary": "VSK:s tränare Alexander Rubin gästar Bollklubben Fotbollskanalen",
+      "published_at": "2026-10-05T15:38:46+00:00",
+      "updated_at": "2026-10-05T15:38:46+00:00",
+      "title": "Uppgifter: Real Madrid förlänger med Güler och Tchouameni",
+      "summary": "Uppgifter: Real Madrid överväger van Dijk Fotbollskanalen",
       "category": [
         "Sverige",
-        "Coach"
+        "La Liga"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
+      "club": "real-madrid",
       "image": "",
       "sources": [
         {
@@ -591,34 +564,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "vsk-s-tr-nare-alexander-rubin-g-star-bollklubben"
-    },
-    {
-      "published_at": "2026-10-04T20:45:00+00:00",
-      "updated_at": "2026-10-04T20:45:00+00:00",
-      "title": "Dansk smäll: Højbjerg skadad mot Wales",
-      "summary": "Dansk smäll: Højbjerg skadad mot Wales Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "dansk-sm-ll-h-jbjerg-skadad-mot-wales"
+      "id": "uppgifter-real-madrid-f-rl-nger-med-g-ler-och-tchouameni"
     },
     {
       "published_at": "2026-10-02T05:03:00+00:00",
@@ -757,34 +703,6 @@
       "id": "lista-alla-spelare-i-allsvenskan-med-utg-ende-kontrakt"
     },
     {
-      "published_at": "2026-09-29T05:36:00+00:00",
-      "updated_at": "2026-09-29T05:36:00+00:00",
-      "title": "Besiktas president lovar Willock-värvning",
-      "summary": "Besiktas president lovar Willock-värvning Fotbollskanalen",
-      "category": [
-        "Sverige",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "besiktas-president-lovar-willock-v-rvning"
-    },
-    {
       "published_at": "2026-10-05T21:20:11+00:00",
       "updated_at": "2026-10-05T21:20:11+00:00",
       "title": "Se alla Sveriges mål från Nations League-samlingen",
@@ -821,40 +739,31 @@
       "id": "se-alla-sveriges-m-l-fr-n-nations-league-samlingen"
     },
     {
-      "published_at": "2026-10-05T21:03:30+00:00",
-      "updated_at": "2026-10-05T21:03:30+00:00",
-      "title": "Bosnien-Hercegovina vann mot Polen efter VAR-drama",
-      "summary": "Det såg ut att bli en mållös match mellan Bosnien-Hercegovina och Polen. Då tilldömdes hemmanationen en straff efter dubbla VAR-granskningar",
+      "published_at": "2026-10-06T00:23:00+00:00",
+      "updated_at": "2026-10-06T00:23:00+00:00",
+      "title": "Mary Fowler ruled out of Matildas friendlies due to ‘personal circumstances’",
+      "summary": "Manchester City attacker to miss Germany and Haiti games Charlton midfielder Leah Davidson called into Australia squad Matildas star Mary Fowler has been ruled out of upcoming friendly matches against Germany and Haiti due to personal circumstances. Football Australia confirmed on Tuesday morning Fowler would not feature in the upcoming international window, with four-cap Charlton midfielder Leah Davidson called up in her place.",
       "category": [
-        "Sverige"
+        "Football"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.46/0.46/2c6cee5a809e23d7c18605cb6fca305cb3e6e9df969ff2398f86c7ae62522448",
+      "image": "https://i.guim.co.uk/img/media/4ea59e4059787b15d895c87ca4133d22df9fef86/1000_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=463316bd6101d2bb0390ff51165cce75",
       "sources": [
         {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/bosnien-hercegovina-vann-mot-polen-efter-var-drama"
-        },
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd0NRQm9JclJfUzRVLVlxeG12ZXlfa09HZ054YjJCNTZ6NktNdW1aVS1KM1FZRkl4N3pfR2NUZHJoQjJvYmZuSWdyaXJsTlN1N0Q1eFpwUkI3UmM0cHZ4Vmh5Y09mRXVmeGltUnN1c2ZDMkdPaUhyUDVPdXF4SmlVdHJlR3pWUTd6eHlZSjBHM1lTRmQyR190cUhpWG9CY000aTE4?oc=5"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/06/mary-fowler-personal-circumstances-ruled-out-matildas-friendlies"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/bosnien-hercegovina-vann-mot-polen-efter-var-drama"
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/oct/06/mary-fowler-personal-circumstances-ruled-out-matildas-friendlies"
       },
-      "confirmed_by": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd0NRQm9JclJfUzRVLVlxeG12ZXlfa09HZ054YjJCNTZ6NktNdW1aVS1KM1FZRkl4N3pfR2NUZHJoQjJvYmZuSWdyaXJsTlN1N0Q1eFpwUkI3UmM0cHZ4Vmh5Y09mRXVmeGltUnN1c2ZDMkdPaUhyUDVPdXF4SmlVdHJlR3pWUTd6eHlZSjBHM1lTRmQyR190cUhpWG9CY000aTE4?oc=5"
-        }
-      ],
-      "id": "bosnien-hercegovina-vann-mot-polen-efter-var-drama"
+      "confirmed_by": [],
+      "id": "mary-fowler-ruled-out-of-matildas-friendlies-due-to-personal-circumstances"
     },
     {
       "published_at": "2026-10-05T18:00:49+00:00",
@@ -1046,33 +955,6 @@
       "id": "alexander-s-absence-weighs-heavy-as-bradford-try-to-keep-promotion-push-on-track"
     },
     {
-      "published_at": "2026-10-03T14:52:27+00:00",
-      "updated_at": "2026-10-03T14:52:27+00:00",
-      "title": "Zigiotti Olme capitalises on Liverpool mistake to keep Manchester United moving up WSL",
-      "summary": "Julia Zigiotti Olme’s sixth-minute lob proved enough to earn the Manchester United coach, Eva Olid, a second Women’s Super League victory of the season with a 1-0 home win over Liverpool. Zigiotti Olme capitalised on a mistake by Liverpool goalkeeper, Khiara Keating, and, despite some late pressure by Gareth Taylor’s side, United held on to make it back-to-back league wins.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://i.guim.co.uk/img/media/587e6b8cba6843a3feebd95671a5347daa95e075/2982_1437_2243_1795/master/2243.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7f4829b1b6a8e2aace3875b6f83b716e",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/oct/03/manchester-united-liverpool-wsl-match-report"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/oct/03/manchester-united-liverpool-wsl-match-report"
-      },
-      "confirmed_by": [],
-      "id": "zigiotti-olme-capitalises-on-liverpool-mistake-to-keep-manchester-united-moving-up-wsl"
-    },
-    {
       "published_at": "2026-10-03T05:00:51+00:00",
       "updated_at": "2026-10-03T05:00:51+00:00",
       "title": "Decline and fall: who will believe in Raheem Sterling now?",
@@ -1209,6 +1091,34 @@
       "id": "spalletti-my-son-left-juventus-because-of-me-i-could-never-become-a-director"
     },
     {
+      "published_at": "2026-10-04T08:45:00+00:00",
+      "updated_at": "2026-10-04T08:45:00+00:00",
+      "title": "Spalletti on the Juventus job: ‘At Roma I coached a fanbase, here you coach a mentality’",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A",
+        "Coach"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "spalletti-on-the-juventus-job-at-roma-i-coached-a-fanbase-here-you-coach-a-mentality"
+    },
+    {
       "published_at": "2026-10-02T11:34:21+00:00",
       "updated_at": "2026-10-02T11:34:21+00:00",
       "title": "Official: Alvini wins Serie A coach of the month after flying Frosinone start to 2026-27",
@@ -1273,6 +1183,198 @@
       "id": "mamardashvili-s-late-penalty-save-denies-northern-ireland-win-vs-georgia"
     },
     {
+      "published_at": "2026-10-04T20:56:54+00:00",
+      "updated_at": "2026-10-04T20:56:54+00:00",
+      "title": "European football news and transfers: Barcelona, Real Madrid, PSG, Bayern Munich latest and more",
+      "summary": "Barcelona 7-0 Real Madrid Lead at the top stretched to five points Clàudia Pina smashed in four goals as Barcelona demolished Real Madrid 7-0 to secure a five-point lead at the top of Liga F on Sunday over their rivals. The 25-year-old Spain international was in lethal form in front of goal as a dominant Barça won the clásico battle with ease at the Camp Nou in front of over 40,000 fans, continuing their perfect start to the campaign. The match was pushed back by two hours after torrential rain in the Catalonia region over the weekend.",
+      "category": [
+        "La Liga",
+        "Bundesliga",
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "real-madrid",
+      "image": "",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/04/claudia-pina-hits-four-as-barcelona-demolish-real-madrid"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/04/claudia-pina-hits-four-as-barcelona-demolish-real-madrid"
+        }
+      ],
+      "id": "european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-mo"
+    },
+    {
+      "published_at": "2026-10-02T20:01:00+00:00",
+      "updated_at": "2026-10-02T20:01:00+00:00",
+      "title": "Rumänska avbräck inför Sverige-matchen",
+      "summary": "Skador och sjukdomar har präglat Sveriges långa landslagssamling. Nu väntar den sista uppgiften i Bukarest - och trots alla återbud så ska Blågult besegra ett Rumänien som har släppt in tolv mål på tre matcher",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/infor-nations-league-matchen-rumanien-sverige-701504"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/infor-nations-league-matchen-rumanien-sverige-701504"
+        }
+      ],
+      "id": "rum-nska-avbr-ck-inf-r-sverige-matchen"
+    },
+    {
+      "published_at": "2026-09-30T07:00:00+00:00",
+      "updated_at": "2026-09-30T07:00:00+00:00",
+      "title": "Klart - Junetoft missar derbyt: \"Inte tillgänglig\"",
+      "summary": "Ellie Junetoft missar söndagens derby mot Djurgården på grund av en ryggskada. AIK-talangen lämnar också återbud till U23-landslaget, där Elsa Pelgander ersätter",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/ellie-junetoft-missar-derbyt-ersatts-av-djurgardsspelare-i-landslaget-701433"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/ellie-junetoft-missar-derbyt-ersatts-av-djurgardsspelare-i-landslaget-701433"
+        }
+      ],
+      "id": "klart-junetoft-missar-derbyt-inte-tillg-nglig"
+    },
+    {
+      "published_at": "2026-10-06T05:34:21+00:00",
+      "updated_at": "2026-10-06T05:34:21+00:00",
+      "title": "Graham Potter förklarar framgången i Nations League: ”Jobbat på det”",
+      "summary": "Sverige toppar Nations League-gruppen. Förbundskapten Graham Potter är nöjd – men: – Det har varit utmanande, säger han",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.47/0.41/b4808e353baafd6f7cd66fd0b78402ea9108542c58e0b648999d407e5d705341",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/graham-potter-forklarar-framgangen-i-nations-league-jobbat-pa-det"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/graham-potter-forklarar-framgangen-i-nations-league-jobbat-pa-det"
+      },
+      "confirmed_by": [],
+      "id": "graham-potter-f-rklarar-framg-ngen-i-nations-league-jobbat-p-det"
+    },
+    {
+      "published_at": "2026-10-06T04:16:33+00:00",
+      "updated_at": "2026-10-06T04:16:33+00:00",
+      "title": "Real Madrid squad rankings: Courtois, Bellingham, Mbappe are in the elite. How do others fare?",
+      "summary": "Read the full report at The Athletic.",
+      "category": [
+        "La Liga"
+      ],
+      "status": "Highly credible",
+      "entity": "kylian-mbappe",
+      "entity_type": "players",
+      "club": "real-madrid",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "real-madrid-squad-rankings-courtois-bellingham-mbappe-are-in-the-elite-how-do-others-fare"
+    },
+    {
+      "published_at": "2026-10-06T04:11:41+00:00",
+      "updated_at": "2026-10-06T04:11:41+00:00",
+      "title": "Lucas Bergvalls agerande hyllas: ”Har den förmågan”",
+      "summary": "Lucas Bergvall stod för ett kvickt agerande mot Rumänien. Hans insats i situationen innan målet hyllas på flera håll. – Det är en förmåga han har, säger Graham Potter",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.72/0.42/f8d5bfb215e184cb5dfdf1b3bc39844652c92dbb91e1d85c0c58c31d2e2abdd3",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/lucas-bergvalls-agerande-hyllas-har-den-formagan"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/lucas-bergvalls-agerande-hyllas-har-den-formagan"
+      },
+      "confirmed_by": [],
+      "id": "lucas-bergvalls-agerande-hyllas-har-den-f-rm-gan"
+    },
+    {
       "published_at": "2026-10-05T22:13:54+00:00",
       "updated_at": "2026-10-05T22:13:54+00:00",
       "title": "Mörbultad Eric Smith efter Johanssons smäll: ”Han är tung”",
@@ -1298,6 +1400,33 @@
       },
       "confirmed_by": [],
       "id": "m-rbultad-eric-smith-efter-johanssons-sm-ll-han-r-tung"
+    },
+    {
+      "published_at": "2026-10-05T21:03:30+00:00",
+      "updated_at": "2026-10-05T21:03:30+00:00",
+      "title": "Bosnien-Hercegovina vann mot Polen efter VAR-drama",
+      "summary": "Det såg ut att bli en mållös match mellan Bosnien-Hercegovina och Polen. Då tilldömdes hemmanationen en straff efter dubbla VAR-granskningar",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.46/0.46/2c6cee5a809e23d7c18605cb6fca305cb3e6e9df969ff2398f86c7ae62522448",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/bosnien-hercegovina-vann-mot-polen-efter-var-drama"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/bosnien-hercegovina-vann-mot-polen-efter-var-drama"
+      },
+      "confirmed_by": [],
+      "id": "bosnien-hercegovina-vann-mot-polen-efter-var-drama"
     },
     {
       "published_at": "2026-10-05T20:40:55+00:00",
@@ -1408,62 +1537,8 @@
       "id": "jonas-eriksson-d-rf-r-r-sverige-s-skadedrabbat"
     },
     {
-      "published_at": "2026-10-05T10:08:20+00:00",
-      "updated_at": "2026-10-05T10:08:20+00:00",
-      "title": "Storstjärnan Aitana Bonmatí om duellen mellan Pina och Schröder: ”9–5 nu va?”",
-      "summary": "Felicia Schröder och Clàudia Pina stod båda på fem mål inför helgens El Clásico. Efter matchen var det inget snack om vem som gick segrande ur duellen. – Varje gång Pina rör bollen blir det mål, säger Aitana Bonmatí",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.69/0.49/2ceb669e7fc3c680ada160edf2d40b0534ee48a216a5d3aac7ecc214bbffe640",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/storstjarnan-om-duellen-mellan-pina-och-schroder-9-5-nu-va"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/storstjarnan-om-duellen-mellan-pina-och-schroder-9-5-nu-va"
-      },
-      "confirmed_by": [],
-      "id": "storstj-rnan-aitana-bonmat-om-duellen-mellan-pina-och-schr-der-9-5-nu-va"
-    },
-    {
-      "published_at": "2026-10-05T10:00:14+00:00",
-      "updated_at": "2026-10-05T10:00:14+00:00",
-      "title": "Gio Reyna has found the unthinkable with the USMNT: Consistency and normalcy",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "Football"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "gio-reyna-has-found-the-unthinkable-with-the-usmnt-consistency-and-normalcy"
-    },
-    {
-      "published_at": "2026-10-05T09:50:53+00:00",
-      "updated_at": "2026-10-05T09:50:53+00:00",
+      "published_at": "2026-10-05T09:50:00+00:00",
+      "updated_at": "2026-10-05T09:50:00+00:00",
       "title": "Why do Barcelona players wear bandages on their hands?",
       "summary": "Why do Barcelona players wear bandages on their hands? The New York Times",
       "category": [
@@ -1487,33 +1562,6 @@
       },
       "confirmed_by": [],
       "id": "why-do-barcelona-players-wear-bandages-on-their-hands"
-    },
-    {
-      "published_at": "2026-10-05T08:39:44+00:00",
-      "updated_at": "2026-10-05T08:39:44+00:00",
-      "title": "Besfort Zeneli hyllar anfallspartnern Viktor Gyökeres: ”Otrolig”",
-      "summary": "Besfort Zeneli fick göra Viktor Gyökeres sällskap på topp mot Bosnien-Hercegovina. 23-åringen imponeras av Arsenal-anfallaren. – När han sätter fart är det inte många som kan stoppa honom, säger han",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.42/0.22/75fcd01cdf64ed85c7b22c82c4e453ad5619662b7ad412e804d12dfa1b2197a5",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/besfort-zeneli-hyllar-anfallspartnern-viktor-gyokeres-otrolig"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/besfort-zeneli-hyllar-anfallspartnern-viktor-gyokeres-otrolig"
-      },
-      "confirmed_by": [],
-      "id": "besfort-zeneli-hyllar-anfallspartnern-viktor-gy-keres-otrolig"
     },
     {
       "published_at": "2026-10-05T04:20:51+00:00",
@@ -1542,33 +1590,6 @@
       },
       "confirmed_by": [],
       "id": "from-barcelona-to-el-bulli-an-interview-with-ferran-adria-the-pep-guardiola-of-gastronomy"
-    },
-    {
-      "published_at": "2026-10-03T04:20:00+00:00",
-      "updated_at": "2026-10-03T04:20:00+00:00",
-      "title": "Jude Bellingham’s ‘F*** off’, Rodri’s Valencia apology: How lip reading took over La Liga",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "La Liga"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "jude-bellingham-s-f-off-rodri-s-valencia-apology-how-lip-reading-took-over-la-liga"
     },
     {
       "published_at": "2026-09-29T15:51:33+00:00",
@@ -1652,6 +1673,60 @@
       "id": "aston-villa-latest-martinez-reveals-why-he-left-for-chelsea"
     },
     {
+      "published_at": "2026-10-06T06:35:00+00:00",
+      "updated_at": "2026-10-06T06:35:00+00:00",
+      "title": "Dowman har åkt på ny skada",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "dowman-har-kt-p-ny-skada"
+    },
+    {
+      "published_at": "2026-10-06T08:00:00+00:00",
+      "updated_at": "2026-10-06T08:00:00+00:00",
+      "title": "Who has the deepest squad in the Premier League?",
+      "summary": "In a Premier League season increasingly shaped by injuries, rotation and congested schedules, what happens when the first choices are unavailable can be incredibly important",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/10/1600x900/skysports-premier-league-squad-depth_7368272.jpg?20261004211021",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13591771/premier-league-squad-depth-rankings-arsenal-man-utd-liverpool-chelsea-and-all-20-clubs-compared"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13591771/premier-league-squad-depth-rankings-arsenal-man-utd-liverpool-chelsea-and-all-20-clubs-compared"
+      },
+      "confirmed_by": [],
+      "id": "who-has-the-deepest-squad-in-the-premier-league"
+    },
+    {
       "published_at": "2026-10-05T19:45:00+00:00",
       "updated_at": "2026-10-05T19:45:00+00:00",
       "title": "Lewis-Skelly features in PL-dominated Golden Boy shortlist",
@@ -1709,7 +1784,7 @@
       "published_at": "2026-10-05T14:41:00+00:00",
       "updated_at": "2026-10-05T14:41:00+00:00",
       "title": "Man City's rivals do not expect them to be in Premier League next season",
-      "summary": "Sympathy is in short supply at other clubs after an independent commission laid bare the scale of Manchester City's rule breaking across nine seasons in a devastating decision published last week",
+      "summary": "Sympathy is in short supply at other clubs after an independent commission laid bare the scale of Manchester City's rule-breaking across nine seasons in a decision published last week",
       "category": [
         "Premier League"
       ],
@@ -1731,33 +1806,6 @@
       },
       "confirmed_by": [],
       "id": "man-city-s-rivals-do-not-expect-them-to-be-in-premier-league-next-season"
-    },
-    {
-      "published_at": "2026-10-05T08:45:00+00:00",
-      "updated_at": "2026-10-05T08:45:00+00:00",
-      "title": "Why England's 7-0 victory in Croatia is angrifying for every fan",
-      "summary": "The one we all knew they were capable of. The one that the captain, Harry Kane, had repeatedly told us was lurking just under the surface, but which he knew they hadn't quite been able to sustain for a full 90 minutes",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/10/1600x900/skysports-gordon-anthony-england_7367406.jpg?20261003175015",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13595245/reporter-notebook-why-englands-7-0-victory-in-croatia-is-angrifying-for-every-fan"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13595245/reporter-notebook-why-englands-7-0-victory-in-croatia-is-angrifying-for-every-fan"
-      },
-      "confirmed_by": [],
-      "id": "why-england-s-7-0-victory-in-croatia-is-angrifying-for-every-fan"
     },
     {
       "published_at": "2026-10-05T21:11:02+00:00",
@@ -2084,44 +2132,18 @@
       "id": "milan-suffer-estupinan-blow-ahead-of-serie-a-return-on-october-11"
     },
     {
-      "published_at": "2026-10-05T09:42:02+00:00",
-      "updated_at": "2026-10-05T09:42:02+00:00",
-      "title": "Conte drops future hint: ‘I’d like to go to one of these clubs’",
+      "published_at": "2026-10-05T14:12:53+00:00",
+      "updated_at": "2026-10-05T14:12:53+00:00",
+      "title": "Report: Arsenal sent scouts to watch Inter’s Esposito in Turkey 1-4 Italy",
       "summary": "Read the full report at Football Italia.",
       "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "conte-drops-future-hint-i-d-like-to-go-to-one-of-these-clubs"
-    },
-    {
-      "published_at": "2026-10-04T15:29:22+00:00",
-      "updated_at": "2026-10-04T15:29:22+00:00",
-      "title": "Immobile: ‘Italy ambition in 10 years, saved Lazio embarrassment’",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
+        "Premier League",
         "Serie A"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
+      "club": "arsenal",
       "image": "",
       "sources": [
         {
@@ -2135,7 +2157,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "immobile-italy-ambition-in-10-years-saved-lazio-embarrassment"
+      "id": "report-arsenal-sent-scouts-to-watch-inter-s-esposito-in-turkey-1-4-italy"
     }
   ]
 }
