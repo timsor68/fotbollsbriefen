@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T23:28:47.072182+00:00",
+  "updated_at": "2026-10-08T04:57:22.765306+00:00",
   "items": [
     {
       "published_at": "2026-10-07T11:00:53+00:00",
@@ -433,33 +433,6 @@
       "id": "papers-arteta-becomes-premier-league-s-highest-paid-boss-on-20m-a-year"
     },
     {
-      "published_at": "2026-10-06T16:06:53+00:00",
-      "updated_at": "2026-10-06T16:06:53+00:00",
-      "title": "Uppgifter: Carvajal är klar för Getafe",
-      "summary": "Uppgifter: Carvajal närmar sig Getafe Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-carvajal-r-klar-f-r-getafe"
-    },
-    {
       "published_at": "2026-10-06T10:25:00+00:00",
       "updated_at": "2026-10-06T10:25:00+00:00",
       "title": "Karlsson uppges klar för \"Degen\" permanent: \"Jag trivs jättebra\"",
@@ -539,6 +512,42 @@
       },
       "confirmed_by": [],
       "id": "sm-llen-tzolis-utbytt-skadad"
+    },
+    {
+      "published_at": "2026-10-08T04:55:10+00:00",
+      "updated_at": "2026-10-08T04:55:10+00:00",
+      "title": "Christer Persson återvänder till J-södra",
+      "summary": "Christer Persson återvänder till J-södra som klubbens nya huvudtränare för resten av säsongen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.61/0.35/35bb5963eb8b8deb366f941dc942df32307395b217a7d198f657645b08d8e9ec",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/nyheter/lokalt/jonkoping/christer-persson-atervander-till-j-sodra"
+        },
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRVlkS3VNTzA3cXNPV1hoUUgyS2FNZVlYTmFHQ1pEOWxNTTJzX3IwaFQ2cTF6VXJvZU84MFhPSDFaUUFjbi0wcVBNOXlYaDVyLVhJQnhhdkdyUU9Ddm5INDRENEZ1QlA0NFVWSExBQ213dGZUZTFmZ0ttMkRKSm9IRGZGN2s2NnhINXBZVkQzSVZTS05KRWh4WVpOc0pPNzQxUkE?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/nyheter/lokalt/jonkoping/christer-persson-atervander-till-j-sodra"
+      },
+      "confirmed_by": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRVlkS3VNTzA3cXNPV1hoUUgyS2FNZVlYTmFHQ1pEOWxNTTJzX3IwaFQ2cTF6VXJvZU84MFhPSDFaUUFjbi0wcVBNOXlYaDVyLVhJQnhhdkdyUU9Ddm5INDRENEZ1QlA0NFVWSExBQ213dGZUZTFmZ0ttMkRKSm9IRGZGN2s2NnhINXBZVkQzSVZTS05KRWh4WVpOc0pPNzQxUkE?oc=5"
+        }
+      ],
+      "id": "christer-persson-terv-nder-till-j-s-dra"
     },
     {
       "published_at": "2026-10-06T16:52:41+00:00",
@@ -1018,6 +1027,33 @@
       "id": "pedro-announces-retirement-italy-touched-my-heart-you-treated-me-like-a-son"
     },
     {
+      "published_at": "2026-10-06T16:13:48+00:00",
+      "updated_at": "2026-10-06T16:13:48+00:00",
+      "title": "Official plan to revamp Stadio Olimpico in time to host EURO 2032 Final",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "official-plan-to-revamp-stadio-olimpico-in-time-to-host-euro-2032-final"
+    },
+    {
       "published_at": "2026-10-02T11:34:21+00:00",
       "updated_at": "2026-10-02T11:34:21+00:00",
       "title": "Official: Alvini wins Serie A coach of the month after flying Frosinone start to 2026-27",
@@ -1044,6 +1080,96 @@
       },
       "confirmed_by": [],
       "id": "official-alvini-wins-serie-a-coach-of-the-month-after-flying-frosinone-start-to-2026-27"
+    },
+    {
+      "published_at": "2026-10-02T08:20:00+00:00",
+      "updated_at": "2026-10-02T08:20:00+00:00",
+      "title": "Klart - Junetoft missar derbyt: \"Inte tillgänglig\"",
+      "summary": "Ellie Junetoft missar söndagens derby mot Djurgården på grund av en ryggskada. AIK-talangen lämnar också återbud till U23-landslaget, där Elsa Pelgander ersätter",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/ellie-junetoft-missar-derbyt-ersatts-av-djurgardsspelare-i-landslaget-701433"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/ellie-junetoft-missar-derbyt-ersatts-av-djurgardsspelare-i-landslaget-701433"
+        }
+      ],
+      "id": "klart-junetoft-missar-derbyt-inte-tillg-nglig"
+    },
+    {
+      "published_at": "2026-10-08T04:20:58+00:00",
+      "updated_at": "2026-10-08T04:20:58+00:00",
+      "title": "Barcelona have their most exciting team in years. But you need to know about seny and rauxa",
+      "summary": "Read the full report at The Athletic.",
+      "category": [
+        "La Liga"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "barcelona",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "barcelona-have-their-most-exciting-team-in-years-but-you-need-to-know-about-seny-and-rauxa"
+    },
+    {
+      "published_at": "2026-10-08T04:15:58+00:00",
+      "updated_at": "2026-10-08T04:15:58+00:00",
+      "title": "Nathalie Björn om stödet från Johanna Rytting Kanereyd: ”Guld värt”",
+      "summary": "När Nathalie Björn drogs med en långtidsskada fanns Johanna Rytting Kaneryd som stöd. – Vi pratar varje dag, säger Björn till SVT Sport",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.85/0.38/c3211f11ede303a17e2adb8f60a59eb0488bbc42a701b8dae49a58aefae7471f",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/nathalie-bjorn-om-stodet-fran-johanna-rytting-kanereyd-guld-vart"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/nathalie-bjorn-om-stodet-fran-johanna-rytting-kanereyd-guld-vart"
+      },
+      "confirmed_by": [],
+      "id": "nathalie-bj-rn-om-st-det-fr-n-johanna-rytting-kanereyd-guld-v-rt"
     },
     {
       "published_at": "2026-10-07T16:23:09+00:00",
@@ -1209,35 +1335,8 @@
       "id": "evelyn-ijehs-succ-i-nwsl-p-v-g-mot-mitt-livs-form"
     },
     {
-      "published_at": "2026-10-07T07:47:03+00:00",
-      "updated_at": "2026-10-07T07:47:03+00:00",
-      "title": "Amanda Ilestedt om lagkamratens dopningsmisstanke: ”Inte så fair”",
-      "summary": "Laura Freigang riskeras att stängas av på grund av en dopningsmiss. Nu kristerar Amanda Ilestedt det tyska systemet. – Hade jag varit i deras situation hade jag varit frustrerad, säger hon till SVT Sport",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.71/0.38/e5615830258ffc2591728e2acd2a425984875004f43b48f8f6a49b3d281c93ae",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/amanda-ilestedt-om-lagkamratens-dopningsmisstanke-inte-sa-fair"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/amanda-ilestedt-om-lagkamratens-dopningsmisstanke-inte-sa-fair"
-      },
-      "confirmed_by": [],
-      "id": "amanda-ilestedt-om-lagkamratens-dopningsmisstanke-inte-s-fair"
-    },
-    {
-      "published_at": "2026-10-07T04:20:54+00:00",
-      "updated_at": "2026-10-07T04:20:54+00:00",
+      "published_at": "2026-10-07T04:20:00+00:00",
+      "updated_at": "2026-10-07T04:20:00+00:00",
       "title": "Barcelona squad rankings: Lamine Yamal, Raphinha and Pau Cubarsi top our list",
       "summary": "Read the full report at The Athletic.",
       "category": [
@@ -1288,33 +1387,6 @@
       },
       "confirmed_by": [],
       "id": "what-jose-mourinho-has-to-fix-at-real-madrid-vinicius-jr-form-mbappe-storm-stopping-bernab"
-    },
-    {
-      "published_at": "2026-10-06T20:53:49+00:00",
-      "updated_at": "2026-10-06T20:53:49+00:00",
-      "title": "Mikel Merino matchhjälte när Spanien vann mot Kroatien",
-      "summary": "Kroatien gick mot vinst mot världsmästaren Spanien. Då stod Arsenalspelaren Mikel Merino för dubbla baljor. – Vilket mål han gör, säger Viaplays kommentator Henrik Strömblad",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.73/0.5/02cf919d07500b6175f57d00300623c6aa1217e87725e60ef53eb6e10963cda7",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/mikel-merino-matchhjalte-nar-spanien-vann-mot-kroatien"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/mikel-merino-matchhjalte-nar-spanien-vann-mot-kroatien"
-      },
-      "confirmed_by": [],
-      "id": "mikel-merino-matchhj-lte-n-r-spanien-vann-mot-kroatien"
     },
     {
       "published_at": "2026-10-05T10:00:14+00:00",
@@ -1369,6 +1441,34 @@
       },
       "confirmed_by": [],
       "id": "why-do-barcelona-players-wear-bandages-on-their-hands"
+    },
+    {
+      "published_at": "2026-10-05T04:20:51+00:00",
+      "updated_at": "2026-10-05T04:20:51+00:00",
+      "title": "From Barcelona to El Bulli: An interview with Ferran Adria, the Pep Guardiola of gastronomy",
+      "summary": "Read the full report at The Athletic.",
+      "category": [
+        "La Liga",
+        "Serie A"
+      ],
+      "status": "Highly credible",
+      "entity": "pep-guardiola",
+      "entity_type": "coaches",
+      "club": "barcelona",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "from-barcelona-to-el-bulli-an-interview-with-ferran-adria-the-pep-guardiola-of-gastronomy"
     },
     {
       "published_at": "2026-10-07T03:32:11+00:00",
@@ -1592,8 +1692,8 @@
       "id": "european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-mo"
     },
     {
-      "published_at": "2026-10-07T21:27:00+00:00",
-      "updated_at": "2026-10-07T21:27:00+00:00",
+      "published_at": "2026-10-08T02:00:19+00:00",
+      "updated_at": "2026-10-08T02:00:19+00:00",
       "title": "Karlsson kan stanna i VSK: \"Vi är överens\"",
       "summary": "Karlsson kan stanna i VSK: \"Vi är överens\" Fotbollskanalen",
       "category": [
@@ -1619,8 +1719,8 @@
       "id": "karlsson-kan-stanna-i-vsk-vi-r-verens"
     },
     {
-      "published_at": "2026-10-07T21:10:00+00:00",
-      "updated_at": "2026-10-07T21:10:00+00:00",
+      "published_at": "2026-10-07T22:38:10+00:00",
+      "updated_at": "2026-10-07T22:38:10+00:00",
       "title": "Jaissle öppnar upp - fick en tumör som barn: \"Lärde mig mycket om livet\"",
       "summary": "Read the full report at Fotbollskanalen.",
       "category": [
@@ -1673,10 +1773,10 @@
       "id": "beskedet-dolberg-har-opererats-blir-borta-l-nge"
     },
     {
-      "published_at": "2026-10-07T16:54:00+00:00",
-      "updated_at": "2026-10-07T16:54:00+00:00",
-      "title": "Iraolas Isak-besked - riskerar missa City-möte",
-      "summary": "Iraolas Isak-besked - riskerar missa City-möte Fotbollskanalen",
+      "published_at": "2026-10-07T17:06:33+00:00",
+      "updated_at": "2026-10-07T17:06:33+00:00",
+      "title": "Repris: Bollklubben - 7 oktober",
+      "summary": "Repris: Bollklubben - 7 oktober Fotbollskanalen",
       "category": [
         "Sverige"
       ],
@@ -1697,7 +1797,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "iraolas-isak-besked-riskerar-missa-city-m-te"
+      "id": "repris-bollklubben-7-oktober"
     },
     {
       "published_at": "2026-10-07T20:29:25+00:00",
@@ -2027,33 +2127,6 @@
       "id": "cardinale-serie-a-used-to-be-premier-league-like-hollywood-needs-urgent-innovation"
     },
     {
-      "published_at": "2026-10-07T12:14:42+00:00",
-      "updated_at": "2026-10-07T12:14:42+00:00",
-      "title": "Juventus want Bernasconi in January and could offload Juan Cabal in the process",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "juventus-want-bernasconi-in-january-and-could-offload-juan-cabal-in-the-process"
-    },
-    {
       "published_at": "2026-10-07T08:56:46+00:00",
       "updated_at": "2026-10-07T08:56:46+00:00",
       "title": "Five standout Serie A performers of the September-October international break",
@@ -2079,60 +2152,6 @@
       },
       "confirmed_by": [],
       "id": "five-standout-serie-a-performers-of-the-september-october-international-break"
-    },
-    {
-      "published_at": "2026-10-06T17:17:37+00:00",
-      "updated_at": "2026-10-06T17:17:37+00:00",
-      "title": "Report Diego Moreira cost Milan minimum €51m and up to €67.8m",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "report-diego-moreira-cost-milan-minimum-51m-and-up-to-67-8m"
-    },
-    {
-      "published_at": "2026-10-07T18:06:00+00:00",
-      "updated_at": "2026-10-07T18:06:00+00:00",
-      "title": "Liverpool latest: Iraola casts doubt on key Liverpool duo’s chances of facing Man City",
-      "summary": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-liverpool-club-blog_7326701.jpg?20260820165421",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "liverpool-latest-iraola-casts-doubt-on-key-liverpool-duo-s-chances-of-facing-man-city"
     }
   ]
 }
