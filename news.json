@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-09T05:00:34.121991+00:00",
+  "updated_at": "2026-10-09T12:43:41.127565+00:00",
   "items": [
     {
-      "published_at": "2026-10-07T11:00:53+00:00",
-      "updated_at": "2026-10-07T11:00:53+00:00",
-      "title": "Arteta signs new contract with champions Arsenal",
+      "published_at": "2026-10-08T09:49:56+00:00",
+      "updated_at": "2026-10-08T09:49:56+00:00",
+      "title": "Mikel Arteta’s new contract reflects where the power now lies at Arsenal | Ed Aarons",
       "summary": "From transfers to stadium works and even the training-ground dog, there is no doubting the Spaniard’s influence at the club If anyone doubts Mikel Arteta’s status as No 1 at Arsenal in the week he committed his future to the club until 2030 , just ask Win the dog. The chocolate labrador who played a starring role in the celebrations when Arsenal were crowned Premier League champions in May has become part of the family at the training ground in Hertfordshire since being introduced by Arteta in May 2023. Kai Havertz, David Raya and Mikel Merino, who issues commands in Spanish and has spoken about spending time with Win when out for three months with a foot injury, are particular favourites.",
       "category": [
         "Premier League",
@@ -14,11 +14,15 @@
       "entity": "mikel-arteta",
       "entity_type": "coaches",
       "club": "arsenal",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ba9f/live/e737d150-c23b-11f1-be2f-0fbd447d6e43.png",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/626f/live/f9fa1b00-c325-11f1-9981-cf94ea240e40.png",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/crz65j5p8l57o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/crn8wg221lnvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         },
         {
           "name": "Fotbollskanalen",
@@ -32,9 +36,13 @@
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crz65j5p8l57o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/crn8wg221lnvo?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        },
         {
           "name": "Fotbollskanalen",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX1cwa0lvRktfeUVGcllzNDJEbHZSMzVPYVdqMjM3S2hrOTBsMDRnWG54VlVZQzlYMjhMZ083dGxFZ2VKUUpUcmVNa0ZORldmenRMTVBpYi1OU1QydkRGUEduUVk3TG51VXJqdmx5S0lUa3NBbU5CUHZueGJvLUVQX2tZWk4zb1dMbkRnM0J2eEpnSHFndGc?oc=5"
@@ -44,7 +52,7 @@
           "url": "https://www.theguardian.com/football/2026/oct/08/mikel-arteta-arsenal-contract"
         }
       ],
-      "id": "arteta-signs-new-contract-with-champions-arsenal"
+      "id": "mikel-arteta-s-new-contract-reflects-where-the-power-now-lies-at-arsenal-ed-aarons"
     },
     {
       "published_at": "2026-10-07T17:02:22+00:00",
@@ -97,6 +105,114 @@
         }
       ],
       "id": "lionel-messi-s-argentina-career-turned-football-into-a-sacred-mystery"
+    },
+    {
+      "published_at": "2026-10-09T08:23:50+00:00",
+      "updated_at": "2026-10-09T08:23:50+00:00",
+      "title": "Everton owners consider selling club two years after takeover",
+      "summary": "The Friedkin Group are considering the potential sale of Everton Football Club - saying \"the time is right\" for the next chapter",
+      "category": [
+        "Premier League",
+        "Club management"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "everton",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/af14/live/7efc42e0-c3be-11f1-9798-abffda1e61e7.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmvg9pgg4keyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13596740/everton-up-for-sale-friedkin-group-considering-new-investment-options-including-the-potential-sale-of-controlling-stake"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmvg9pgg4keyo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13596740/everton-up-for-sale-friedkin-group-considering-new-investment-options-including-the-potential-sale-of-controlling-stake"
+        }
+      ],
+      "id": "everton-owners-consider-selling-club-two-years-after-takeover"
+    },
+    {
+      "published_at": "2026-10-09T10:24:13+00:00",
+      "updated_at": "2026-10-09T10:24:13+00:00",
+      "title": "Man City titles 'absolutely not' tainted - Maresca",
+      "summary": "Manchester City manager Enzo Maresca says the club's titles are \"absolutely not\" tainted after they were found guilty of the majority of the 115 charges brought against them by the Premier League",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/629b/live/843a2b40-c3ce-11f1-8fc5-335d62f6730b.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmzxjdvv784xo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmzxjdvv784xo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "man-city-titles-absolutely-not-tainted-maresca"
+    },
+    {
+      "published_at": "2026-10-09T09:57:48+00:00",
+      "updated_at": "2026-10-09T09:57:48+00:00",
+      "title": "Mourinho calls criticism of Mbappe 'ridiculous'",
+      "summary": "Jose Mourinho defends Kylian Mbappe who has been scrutinised during the international break",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "kylian-mbappe",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/18c3/live/5e166100-c3c3-11f1-8fc5-335d62f6730b.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/crvg6lx2yj29o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQUR5MHhqMnEzSzNFSzJ0LXFMbkNZd0V5UE1DWFNyZ1pPRjFtWEdiT0d6YktBdVlJSHVsdGxDeXlpRkJ4V3JfeTQwVUY0Y1ViNEl0WHQ1NHlmempGcWFubDZZc1ZsdFRrRDV3dmQzOW5tT25DMWxSX0ItN01Ia0E3dlRnQUxDRm95RnQ1X3pKQ3ppOFItWkR5MlE0NVRqMS1hZ2txemJn?oc=5"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/crvg6lx2yj29o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQUR5MHhqMnEzSzNFSzJ0LXFMbkNZd0V5UE1DWFNyZ1pPRjFtWEdiT0d6YktBdVlJSHVsdGxDeXlpRkJ4V3JfeTQwVUY0Y1ViNEl0WHQ1NHlmempGcWFubDZZc1ZsdFRrRDV3dmQzOW5tT25DMWxSX0ItN01Ia0E3dlRnQUxDRm95RnQ1X3pKQ3ppOFItWkR5MlE0NVRqMS1hZ2txemJn?oc=5"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
+        }
+      ],
+      "id": "mourinho-calls-criticism-of-mbappe-ridiculous"
     },
     {
       "published_at": "2026-10-08T22:21:25+00:00",
@@ -234,127 +350,90 @@
       "id": "rangers-boss-mcinnes-not-a-fan-of-extended-break"
     },
     {
-      "published_at": "2026-10-08T10:37:14+00:00",
-      "updated_at": "2026-10-08T10:37:14+00:00",
-      "title": "How Brighton attract and develop the best young players ahead of their rivals",
-      "summary": "Brighton sporting director Mike Cave discusses Brighton's transfer policy and how the club signs and nurtures the best young talent in the game",
+      "published_at": "2026-10-09T12:08:01+00:00",
+      "updated_at": "2026-10-09T12:08:01+00:00",
+      "title": "Raphinha to miss Barcelona’s next two matches but not ‘big injury’ – Hansi Flick",
+      "summary": "Read the full report at The Athletic.",
       "category": [
-        "Football"
+        "La Liga"
       ],
-      "status": "Confirmed",
+      "status": "Highly credible",
       "entity": "",
       "entity_type": "players",
-      "club": "brighton",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f4ad/live/ca558840-c23e-11f1-b390-9f59a375fdd2.jpg",
+      "club": "barcelona",
+      "image": "",
       "sources": [
         {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm0e35gzgdqeo?at_medium=RSS&at_campaign=rss"
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm0e35gzgdqeo?at_medium=RSS&at_campaign=rss"
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "how-brighton-attract-and-develop-the-best-young-players-ahead-of-their-rivals"
+      "id": "raphinha-to-miss-barcelona-s-next-two-matches-but-not-big-injury-hansi-flick"
     },
     {
-      "published_at": "2026-10-07T22:21:44+00:00",
-      "updated_at": "2026-10-07T22:21:44+00:00",
-      "title": "Rice close to agreeing new Arsenal deal",
-      "summary": "Declan Rice is close to agreeing a new long-term Arsenal contract, sources have told BBC Sport",
+      "published_at": "2026-10-09T12:04:40+00:00",
+      "updated_at": "2026-10-09T12:04:40+00:00",
+      "title": "Negativa trenden som Mjällby måste bryta: ”Varit väldigt jobbigt”",
+      "summary": "I fjol var Strandvallen hemmaborgen där Mjällby aldrig förlorade. I år ser verkligheten helt annorlunda ut. En dyster trend som Mjällby måste bryta i jakten på nytt allsvenskt kontrakt.",
       "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5f9d/live/b1c9adf0-c276-11f1-b278-615cdfb74f16.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c9gkvx74je7do?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c9gkvx74je7do?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "rice-close-to-agreeing-new-arsenal-deal"
-    },
-    {
-      "published_at": "2026-10-07T19:11:26+00:00",
-      "updated_at": "2026-10-07T19:11:26+00:00",
-      "title": "Wales winger Matondo joins Hibernian",
-      "summary": "Former Rangers winger Rabbi Matondo joins Hibernian on a deal until the end of the season, with the option of a further year",
-      "category": [
-        "Transfer"
+        "Sverige"
       ],
       "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c23f/live/67dc3da0-c282-11f1-98ea-35e6bf307fc9.jpg",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.33/0.42/48cec5cc65d1d59cae8617327b36f88776112565cb75b3939016a7897553ad61",
       "sources": [
         {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmy4xpgeydn3o?at_medium=RSS&at_campaign=rss"
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/negativa-trenden-som-mjallby-maste-bryta-varit-valdigt-jobbigt"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmy4xpgeydn3o?at_medium=RSS&at_campaign=rss"
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/negativa-trenden-som-mjallby-maste-bryta-varit-valdigt-jobbigt"
       },
       "confirmed_by": [],
-      "id": "wales-winger-matondo-joins-hibernian"
+      "id": "negativa-trenden-som-mj-llby-m-ste-bryta-varit-v-ldigt-jobbigt"
     },
     {
-      "published_at": "2026-10-08T18:29:17+00:00",
-      "updated_at": "2026-10-08T18:29:17+00:00",
-      "title": "Maresca believes City players ‘don’t care about the noise’ as Haaland calls for unity",
-      "summary": "City travel to Liverpool for first game since guilty verdict Manager ‘very calm’ despite storm engulfing club Enzo Maresca says his players “don’t care about the noise” surrounding Manchester City, while Erling Haaland has called for unity after the club were found guilty of serious breaches of Premier League financial rules. The manager and players reconvened on Thursday after spending the international break apart when the news of the club’s predicament was made public.",
+      "published_at": "2026-10-09T10:16:00+00:00",
+      "updated_at": "2026-10-09T10:16:00+00:00",
+      "title": "Iraola's big dilemmas in bid for statement win vs Man City",
+      "summary": "Andoni Iraola will be hoping to kick-start his Liverpool reign when Manchester City visit Anfield on Sunday, but first the Basque must find answers to these key questions",
       "category": [
-        "Football"
+        "Transfer"
       ],
-      "status": "Confirmed by multiple sources",
-      "entity": "erling-haaland",
+      "status": "Reported",
+      "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/10/1600x900/skysports-haaland-erling-manchester_7371345.png?20261008144610",
+      "club": "manchester-city",
+      "image": "https://e0.365dm.com/26/10/1600x900/skysports-premier-league-liverpool_7371420.jpg?20261008155229",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13596522/man-city-charges-erling-haaland-encourages-clubs-fans-to-stay-positive-after-guilty-verdict"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/oct/08/manchester-city-pep-guardiola-owners-guilty-verdict"
+          "url": "https://www.skysports.com/football/news/11095/13596776/andoni-iraola-five-key-issues-facing-liverpool-boss-ahead-of-man-city-showdown"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13596522/man-city-charges-erling-haaland-encourages-clubs-fans-to-stay-positive-after-guilty-verdict"
+        "url": "https://www.skysports.com/football/news/11095/13596776/andoni-iraola-five-key-issues-facing-liverpool-boss-ahead-of-man-city-showdown"
       },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/oct/08/manchester-city-pep-guardiola-owners-guilty-verdict"
-        }
-      ],
-      "id": "maresca-believes-city-players-don-t-care-about-the-noise-as-haaland-calls-for-unity"
+      "confirmed_by": [],
+      "id": "iraola-s-big-dilemmas-in-bid-for-statement-win-vs-man-city"
     },
     {
       "published_at": "2026-10-08T22:30:00+00:00",
       "updated_at": "2026-10-08T22:30:00+00:00",
-      "title": "Papers: Fee Man Utd could receive for wantaway JJ Gabriel revealed",
+      "title": "Papers: Fee Man Utd could receive for wantaway Gabriel revealed",
       "summary": "Plus: Tottenham star Xavi Simons set to study at Harvard University; Alejandro Garnacho understood to be making progress after an anonymous start at Aston Villa; Scott McTominay is being eyed by Real Madrid",
       "category": [
         "Football"
@@ -376,7 +455,7 @@
         "url": "https://www.skysports.com/football/news/11095/13596653/jj-gabriel-manchester-united-could-be-forced-to-accept-small-fee-for-wantaway-teen-paper-talk"
       },
       "confirmed_by": [],
-      "id": "papers-fee-man-utd-could-receive-for-wantaway-jj-gabriel-revealed"
+      "id": "papers-fee-man-utd-could-receive-for-wantaway-gabriel-revealed"
     },
     {
       "published_at": "2026-10-08T21:00:00+00:00",
@@ -404,33 +483,6 @@
       },
       "confirmed_by": [],
       "id": "man-utd-held-back-as-spurs-spent-big-different-strategies-collide-on-saturday"
-    },
-    {
-      "published_at": "2026-10-08T15:30:00+00:00",
-      "updated_at": "2026-10-08T15:30:00+00:00",
-      "title": "Southampton boss Eckert welcomes 'clarity' after Spygate suspended FA ban",
-      "summary": "Southampton head coach Tonda Eckert says he welcomes the \"clarity\" provided by his suspended FA ban, admitting the Spygate saga has \"changed my life\" after more than four months of uncertainty",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/05/1600x900/skysports-eckert-southampton_7241771.jpg?20260507202456",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13596516/spygate-southampton-boss-tonda-eckert-welcomes-clarity-after-suspended-fa-ban-over-scandal"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13596516/spygate-southampton-boss-tonda-eckert-welcomes-clarity-after-suspended-fa-ban-over-scandal"
-      },
-      "confirmed_by": [],
-      "id": "southampton-boss-eckert-welcomes-clarity-after-spygate-suspended-fa-ban"
     },
     {
       "published_at": "2026-10-08T09:02:19+00:00",
@@ -461,12 +513,13 @@
       "id": "youssoufa-moukoko-borussia-dortmund-s-former-wonderkid-is-on-loan-in-turkey-having-lost-hi"
     },
     {
-      "published_at": "2026-10-08T07:32:12+00:00",
-      "updated_at": "2026-10-08T07:32:12+00:00",
-      "title": "Uppgifter: Fenerbahçe erbjuder Ayari guldkantat kontrakt",
+      "published_at": "2026-10-09T11:00:00+00:00",
+      "updated_at": "2026-10-09T11:00:00+00:00",
+      "title": "Pyzdrowski är MFF-tränare och känd målvaktsexpert: \"Vi är i ett skifte\"",
       "summary": "Read the full report at Fotbollskanalen.",
       "category": [
-        "Sverige"
+        "Sverige",
+        "Coach"
       ],
       "status": "Reported",
       "entity": "",
@@ -485,7 +538,35 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "uppgifter-fenerbah-e-erbjuder-ayari-guldkantat-kontrakt"
+      "id": "pyzdrowski-r-mff-tr-nare-och-k-nd-m-lvaktsexpert-vi-r-i-ett-skifte"
+    },
+    {
+      "published_at": "2026-10-09T10:09:45+00:00",
+      "updated_at": "2026-10-09T10:09:45+00:00",
+      "title": "Var tionde tränare är kvinna inom största lagidrotterna",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige",
+        "Coach"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "var-tionde-tr-nare-r-kvinna-inom-st-rsta-lagidrotterna"
     },
     {
       "published_at": "2026-10-06T10:25:00+00:00",
@@ -515,95 +596,32 @@
       "id": "karlsson-uppges-klar-f-r-degen-permanent-jag-trivs-j-ttebra"
     },
     {
-      "published_at": "2026-10-05T16:24:00+00:00",
-      "updated_at": "2026-10-05T16:24:00+00:00",
-      "title": "Uppgifter: Kane detaljer från nytt kontrakt",
-      "summary": "Uppgifter: Kane detaljer från nytt kontrakt Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-kane-detaljer-fr-n-nytt-kontrakt"
-    },
-    {
-      "published_at": "2026-10-02T05:03:00+00:00",
-      "updated_at": "2026-10-02T05:03:00+00:00",
-      "title": "Uppgifter: Darmian klar för Bologna",
-      "summary": "Uppgifter: Darmian klar för Bologna Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-darmian-klar-f-r-bologna"
-    },
-    {
-      "published_at": "2026-10-08T04:55:10+00:00",
-      "updated_at": "2026-10-08T04:55:10+00:00",
-      "title": "Christer Persson återvänder till J-södra – blir ny huvudtränare",
-      "summary": "Christer Persson återvänder till J-södra som klubbens nya huvudtränare för resten av säsongen",
+      "published_at": "2026-10-05T14:25:00+00:00",
+      "updated_at": "2026-10-05T14:25:00+00:00",
+      "title": "Uppgifter: Real Madrid förlänger med Güler och Tchouameni",
+      "summary": "Uppgifter: Real Madrid överväger Yildiz Fotbollskanalen",
       "category": [
         "Sverige",
-        "Coach"
+        "La Liga"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.61/0.35/35bb5963eb8b8deb366f941dc942df32307395b217a7d198f657645b08d8e9ec",
+      "club": "real-madrid",
+      "image": "",
       "sources": [
         {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/nyheter/lokalt/jonkoping/christer-persson-atervander-till-j-sodra"
-        },
-        {
           "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRVlkS3VNTzA3cXNPV1hoUUgyS2FNZVlYTmFHQ1pEOWxNTTJzX3IwaFQ2cTF6VXJvZU84MFhPSDFaUUFjbi0wcVBNOXlYaDVyLVhJQnhhdkdyUU9Ddm5INDRENEZ1QlA0NFVWSExBQ213dGZUZTFmZ0ttMkRKSm9IRGZGN2s2NnhINXBZVkQzSVZTS05KRWh4WVpOc0pPNzQxUkE?oc=5"
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/nyheter/lokalt/jonkoping/christer-persson-atervander-till-j-sodra"
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
-      "confirmed_by": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRVlkS3VNTzA3cXNPV1hoUUgyS2FNZVlYTmFHQ1pEOWxNTTJzX3IwaFQ2cTF6VXJvZU84MFhPSDFaUUFjbi0wcVBNOXlYaDVyLVhJQnhhdkdyUU9Ddm5INDRENEZ1QlA0NFVWSExBQ213dGZUZTFmZ0ttMkRKSm9IRGZGN2s2NnhINXBZVkQzSVZTS05KRWh4WVpOc0pPNzQxUkE?oc=5"
-        }
-      ],
-      "id": "christer-persson-terv-nder-till-j-s-dra-blir-ny-huvudtr-nare"
+      "confirmed_by": [],
+      "id": "uppgifter-real-madrid-f-rl-nger-med-g-ler-och-tchouameni"
     },
     {
       "published_at": "2026-10-07T08:42:45+00:00",
@@ -642,31 +660,86 @@
       "id": "evelyn-ijehs-succ-i-nwsl-p-v-g-mot-mitt-livs-form"
     },
     {
-      "published_at": "2026-10-08T17:00:24+00:00",
-      "updated_at": "2026-10-08T17:00:24+00:00",
-      "title": "Glasner urges quick end to Manchester City saga and fears damage to Premier League",
-      "summary": "Forest manager believes football fans may ‘switch off’ ‘The most important thing is the integrity of the league’ Oliver Glasner has said Manchester City being found guilty of arranging “sham contracts” has damaged the Premier League brand globally and believes the integrity of the English top flight is under threat. The Nottingham Forest head coach said the league faces a job to repair its image and suggested supporters might switch off after City were found to have artificially inflated their income by more than £900m.",
+      "published_at": "2026-10-09T09:00:44+00:00",
+      "updated_at": "2026-10-09T09:00:44+00:00",
+      "title": "Zavier Gozo: ‘You have to be uncomfortable to get to the highest levels’",
+      "summary": "Crystal Palace’s American import had never lived anywhere but Utah before moving to London. Now, he’s aiming for more Premier League minutes Much has changed in Zavier Gozo’s life since May. Back then , Gozo was a day removed from learning that he wasn’t among Mauricio Pochettino’s 26 selections for the World Cup, having just made what proved to be his third-to-last appearance with boyhood club Real Salt Lake.",
       "category": [
-        "Premier League"
+        "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://i.guim.co.uk/img/media/a39a73263a235f0c029cdd2607f466dbd9f2dae3/767_0_6830_5464/master/6830.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=991885e6209992b16d9b5661366189aa",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/f6ce65b0a74e5189391158facb9095a74f10acc3/516_0_4584_3669/master/4584.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2e6b7940b3416ee5320556ecc4d16aa9",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/oct/08/glasner-urges-quick-end-to-manchester-city-saga-and-fears-damage-to-premier-league"
+          "url": "https://www.theguardian.com/football/2026/oct/09/zavier-gozo-crystal-palace-usmnt-interview"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/oct/08/glasner-urges-quick-end-to-manchester-city-saga-and-fears-damage-to-premier-league"
+        "url": "https://www.theguardian.com/football/2026/oct/09/zavier-gozo-crystal-palace-usmnt-interview"
       },
       "confirmed_by": [],
-      "id": "glasner-urges-quick-end-to-manchester-city-saga-and-fears-damage-to-premier-league"
+      "id": "zavier-gozo-you-have-to-be-uncomfortable-to-get-to-the-highest-levels"
+    },
+    {
+      "published_at": "2026-10-09T07:43:02+00:00",
+      "updated_at": "2026-10-09T07:43:02+00:00",
+      "title": "Everton owner The Friedkin Group exploring sale of club after two years",
+      "summary": "Owner looking at investment options including sale Transfer window raised questions over commitment Everton’s owner, The Friedkin Group, is looking to sell the club less than two years after taking over from Farhad Moshiri . The Houston-based company confirmed in a statement on Friday that it was seeking fresh investment in Everton but was also open to relinquishing control should a suitable buyer be found. No timescale has been placed on a sale but TFG is confident of attracting a buyer quickly and potentially concluding a deal this season.",
+      "category": [
+        "Premier League",
+        "Club management"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "everton",
+      "image": "https://i.guim.co.uk/img/media/0d99be231fb4a8694df159b4ddb32e8cdd6a2e46/12_146_5791_4633/master/5791.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=30bb20632d438f3928bd36b1f38537b5",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/09/everton-owner-friedkin-group-exploring-sale-club"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/oct/09/everton-owner-friedkin-group-exploring-sale-club"
+      },
+      "confirmed_by": [],
+      "id": "everton-owner-the-friedkin-group-exploring-sale-of-club-after-two-years"
+    },
+    {
+      "published_at": "2026-10-09T07:00:41+00:00",
+      "updated_at": "2026-10-09T07:00:41+00:00",
+      "title": "Oliver Glasner: ‘There was no plan for me to be Nottingham Forest manager’",
+      "summary": "On Sunday, Austrian returns to Crystal Palace, the club he left in the summer after leading them to unprecedented success, but accepts there could be ‘booing’ Oliver Glasner puffs his cheeks and starts the search for the right words to explain his emotions as he prepares to return to Crystal Palace for the first time since leaving. There is the small matter of heading back on Sunday with Nottingham Forest to Selhurst Park, where bitterness runs deep over the club seizing Palace’s place in the Europa League last season. Forest’s owner, Evangelos Marinakis, is suing Palace for defamation relating to a banner unfurled by their supporters and the rivalry heightened when Glasner joined Forest in the summer, 40 days after winning the Conference League with Palace.",
+      "category": [
+        "Coach"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/9c48235c15bd0d3017315a5fafbc7472b0179fee/608_0_3040_2432/master/3040.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b5a790d9893e1cd9a0b85fe26963814",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/09/oliver-glasner-there-was-no-plan-for-me-to-be-nottingham-forest-manager"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/oct/09/oliver-glasner-there-was-no-plan-for-me-to-be-nottingham-forest-manager"
+      },
+      "confirmed_by": [],
+      "id": "oliver-glasner-there-was-no-plan-for-me-to-be-nottingham-forest-manager"
     },
     {
       "published_at": "2026-10-08T16:33:25+00:00",
@@ -805,33 +878,6 @@
       "id": "manchester-united-offer-jj-gabriel-new-deal-but-risk-losing-prodigy-for-350-000"
     },
     {
-      "published_at": "2026-10-08T12:19:02+00:00",
-      "updated_at": "2026-10-08T12:19:02+00:00",
-      "title": "Khaldoon al-Mubarak: the tightrope walker who made rare misstep over City charges",
-      "summary": "Manchester City’s chair is key to the project of making Abu Dhabi a secure world power but his next move may be the sale of the club No one better understands the precarious tightrope Abu Dhabi walks when it tries to balance its relationships with western Europe while weighing the complex geopolitics of the Gulf region than Manchester City’s chair, Khaldoon al-Mubarak. He was eight when his father, ambassador Khalifa Ahmed Abdel Aziz al-Mubarak, left the family’s Paris apartment for work on 9 February 1984, and was assassinated on the street by a Palestinian terrorist. And no one outside the emirate’s royal family could be more wrapped up in the project of making and maintaining Abu Dhabi as a significant and secure world power and the dominant member of the United Arab Emirates, a nation state still only 55 years old.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/a71867c832785801ac08c2fcb9aedf5e72c563f6/32_74_1512_1209/master/1512.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9eee47a6d14f4c242a876bcdf8b16afe",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/oct/08/khaldoon-al-mubarak-manchester-city-charges-abu-dhabi"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/oct/08/khaldoon-al-mubarak-manchester-city-charges-abu-dhabi"
-      },
-      "confirmed_by": [],
-      "id": "khaldoon-al-mubarak-the-tightrope-walker-who-made-rare-misstep-over-city-charges"
-    },
-    {
       "published_at": "2026-10-08T12:12:02+00:00",
       "updated_at": "2026-10-08T12:12:02+00:00",
       "title": "‘Like a movie script’: Michael McArdle backs Northern Ireland to make history",
@@ -884,33 +930,6 @@
       },
       "confirmed_by": [],
       "id": "qu-horror-mexico-s-world-cup-honeymoon-is-over-but-is-rafa-m-rquez-really-to-blame"
-    },
-    {
-      "published_at": "2026-10-08T11:00:17+00:00",
-      "updated_at": "2026-10-08T11:00:17+00:00",
-      "title": "Are Brighton genuine contenders to qualify for the Champions League?",
-      "summary": "They are the top scorers in the league, they have the best goal difference and they demolished the champions By WhoScored Wingerless, without Danny Welbeck and third in the Premier League. Brighton spent the summer losing some of their best players; they are dealing with a growing injury list; and their outstanding player this season has been a 35-year-old they signed in January for £1.7m. In spite of that, five games into the new Premier League season, they have scored more goals than any other team (16), they have the best goal difference in the league (+11) and they have dismantled the champions, beating Arsenal 3-0 before the international window .",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "brighton",
-      "image": "https://i.guim.co.uk/img/media/29ed1bc140622497f8cc0777802fff06c9681bed/299_12_2844_2276/master/2844.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=08a635616708b66ddfd5d7691b9e1e6d",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/oct/08/brighton-contenders-qualify-champions-league"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/oct/08/brighton-contenders-qualify-champions-league"
-      },
-      "confirmed_by": [],
-      "id": "are-brighton-genuine-contenders-to-qualify-for-the-champions-league"
     },
     {
       "published_at": "2026-10-07T12:03:15+00:00",
@@ -1019,6 +1038,62 @@
       },
       "confirmed_by": [],
       "id": "lagerl-f-och-laget"
+    },
+    {
+      "published_at": "2026-10-09T10:16:33+00:00",
+      "updated_at": "2026-10-09T10:16:33+00:00",
+      "title": "He’ll be a ‘great’ coach: High praise for ex-Juventus and Italy defender Barzagli",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A",
+        "Coach"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "he-ll-be-a-great-coach-high-praise-for-ex-juventus-and-italy-defender-barzagli"
+    },
+    {
+      "published_at": "2026-10-09T08:02:10+00:00",
+      "updated_at": "2026-10-09T08:02:10+00:00",
+      "title": "Today’s Papers – Milan want two new signings, Malen praises Gasperini",
+      "summary": "La Gazzetta dello Sport Milan want two The defender Gonçalo Inácio is on target, as is Endrick. Cardinale arrives for renewals: Pulisic, Rabiot and Pavlovic. Inter, here’s Spence Parma arrive, and the English winger is the extra man Juve, Nico says yes Spalletti’s green light: Gonzalez signs until 2030 Gasp and Cesc chasing goals Como pounce on Camello.",
+      "category": [
+        "Serie A",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://icdn.football-italia.net/wp-content/uploads/2026/10/Screenshot-2026-10-09-085331.jpg",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://football-italia.net/todays-papers-milan-2-new-signings-malen-gasp/"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://football-italia.net/todays-papers-milan-2-new-signings-malen-gasp/"
+      },
+      "confirmed_by": [],
+      "id": "today-s-papers-milan-want-two-new-signings-malen-praises-gasperini"
     },
     {
       "published_at": "2026-10-08T18:52:55+00:00",
@@ -1158,6 +1233,87 @@
       "id": "pedro-announces-retirement-italy-touched-my-heart-you-treated-me-like-a-son"
     },
     {
+      "published_at": "2026-10-09T12:22:19+00:00",
+      "updated_at": "2026-10-09T12:22:19+00:00",
+      "title": "Sladjan Osmanagic död – blev 55 år gammal",
+      "summary": "Tidigare SVT-profilen Sladjan Osmanagic har dött, rapporterar Aftonbladet. – Det kom som en chock, säger systerdottern Aleksandra Topalovic till tidningen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.53/0.48/74a78259e46011edaa3eff213712c8d572a19f939961ea408ed75f361ef7943d",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/sladjan-osmanagic-dod-blev-55-ar-gammal"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/sladjan-osmanagic-dod-blev-55-ar-gammal"
+      },
+      "confirmed_by": [],
+      "id": "sladjan-osmanagic-d-d-blev-55-r-gammal"
+    },
+    {
+      "published_at": "2026-10-09T12:04:49+00:00",
+      "updated_at": "2026-10-09T12:04:49+00:00",
+      "title": "Experten pekar ut Mjällbys riskfaktor: ”Väldigt olyckligt”",
+      "summary": "Fiasko i svenska cupen och en kamp för att hålla sig kvar i allsvenskan. Samtidigt ska Mjällby spela ett europeiskt gruppspel för första gången. – Det tär på en trupp som inte har något självförtroende, säger SVT:s expert Magnus Eriksson",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.28/0.09/a39be0d2d5b1d9ce0ac6b348ea481966f7c848f8c0e3771f6e78ae7ec791c8ff",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/experten-pekar-ut-mjallbys-riskfaktor-valdigt-olyckligt"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/experten-pekar-ut-mjallbys-riskfaktor-valdigt-olyckligt"
+      },
+      "confirmed_by": [],
+      "id": "experten-pekar-ut-mj-llbys-riskfaktor-v-ldigt-olyckligt"
+    },
+    {
+      "published_at": "2026-10-09T06:30:18+00:00",
+      "updated_at": "2026-10-09T06:30:18+00:00",
+      "title": "Planen för att få i gång Felicia Schröder: ”Bara kör”",
+      "summary": "Felicia Schröder har fått en succéstart i Real Madrid där hon öst in mål. Men i landslaget är 19-åringen fortfarande mållös. Vi har mycket energi, säger Schröder till SVT Sport",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.54/0.38/5a3fa4bd1fcae276e7dc3efc2774e69d7dd8308a66759acbd811c6309dac7c8a",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/planen-for-att-fa-i-gang-supertalangen-bara-kor"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/planen-for-att-fa-i-gang-supertalangen-bara-kor"
+      },
+      "confirmed_by": [],
+      "id": "planen-f-r-att-f-i-g-ng-felicia-schr-der-bara-k-r"
+    },
+    {
       "published_at": "2026-10-09T03:30:07+00:00",
       "updated_at": "2026-10-09T03:30:07+00:00",
       "title": "ÖFK:s sportchef: ”Siktet är inställt på andraplatsen”",
@@ -1169,7 +1325,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.78/0.5/0a5fda14c33d662de416f9eec6c6c28b8be1bc2c88eed8c2c8767e76e38628ff",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.78/0.5/d8a94465cb417ac0654cf785483d1fe17bc503208c815acad3fdf747fef6195a",
       "sources": [
         {
           "name": "SVT Sport",
@@ -1212,6 +1368,34 @@
       "id": "rosa-kafaji-konkurrerar-med-alexia-putellas-klurigt"
     },
     {
+      "published_at": "2026-10-08T04:55:10+00:00",
+      "updated_at": "2026-10-08T04:55:10+00:00",
+      "title": "Christer Persson återvänder till J-södra – blir ny huvudtränare",
+      "summary": "Christer Persson återvänder till J-södra som klubbens nya huvudtränare för resten av säsongen",
+      "category": [
+        "Sverige",
+        "Coach"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.61/0.35/35bb5963eb8b8deb366f941dc942df32307395b217a7d198f657645b08d8e9ec",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/nyheter/lokalt/jonkoping/christer-persson-atervander-till-j-sodra"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/nyheter/lokalt/jonkoping/christer-persson-atervander-till-j-sodra"
+      },
+      "confirmed_by": [],
+      "id": "christer-persson-terv-nder-till-j-s-dra-blir-ny-huvudtr-nare"
+    },
+    {
       "published_at": "2026-10-08T04:15:58+00:00",
       "updated_at": "2026-10-08T04:15:58+00:00",
       "title": "Nathalie Björn om stödet från Johanna Rytting Kanereyd: ”Guld värt”",
@@ -1250,7 +1434,7 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.75/0.33/babc6a29c46ba4f8eb4945489778dcbb0a70a810c5250894957f4a1e98ac770a",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.21/0.45/babc6a29c46ba4f8eb4945489778dcbb0a70a810c5250894957f4a1e98ac770a",
       "sources": [
         {
           "name": "SVT Sport",
@@ -1264,115 +1448,6 @@
       },
       "confirmed_by": [],
       "id": "nathalie-bj-rn-tillbaka-efter-l-nga-fr-nvaron-fj-rilar-i-magen"
-    },
-    {
-      "published_at": "2026-10-07T15:44:27+00:00",
-      "updated_at": "2026-10-07T15:44:27+00:00",
-      "title": "Hanna Bennison förklarar flytten från Real Madrid",
-      "summary": "Hanna Bennison är supertalangen från Rosengård som lämnade Real Madrid efter bara ett år. – Jag saknade glädjen av att få spela matcher, säger Bennison till SVT Sport",
-      "category": [
-        "Sverige",
-        "La Liga"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.22/0.4/d29d246bc22d5372d5f479425f19193f25a216889df34b59e4fc17015d9a22ca",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/hanna-bennison-forklarar-flytten-fran-real-madrid"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/hanna-bennison-forklarar-flytten-fran-real-madrid"
-      },
-      "confirmed_by": [],
-      "id": "hanna-bennison-f-rklarar-flytten-fr-n-real-madrid"
-    },
-    {
-      "published_at": "2026-10-07T15:05:47+00:00",
-      "updated_at": "2026-10-07T15:05:47+00:00",
-      "title": "Ödesmatch väntar Mjällby på lördag – riskerar kval",
-      "summary": "Nu väntar en ödesmatch mot Degerfors – där en förlust kan leda till kval till Superettan eller direktnedflyttning. – Det är en match som betyder väldigt mycket, säger klubbchefen Jacob Lennartsson",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.79/0.39/a58e0727857e5a11161a96759e540651a80bd263a757a575f75e53c10d81fe92",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/nyheter/lokalt/blekinge/odesmatch-vantar-mjallby-pa-lordag-riskerar-kval"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/nyheter/lokalt/blekinge/odesmatch-vantar-mjallby-pa-lordag-riskerar-kval"
-      },
-      "confirmed_by": [],
-      "id": "desmatch-v-ntar-mj-llby-p-l-rdag-riskerar-kval"
-    },
-    {
-      "published_at": "2026-10-07T13:48:39+00:00",
-      "updated_at": "2026-10-07T13:48:39+00:00",
-      "title": "Från cupskräll till hjältar på skolgården",
-      "summary": "FC Trollhättans spelare stod för en jätteskräll när de slog ut Mjällby ur Svenska cupen. I dag var flera av dem tillbaka på sina vanliga jobb – bland annat som elevassistenter på skolor i Trollhättan. – Jag kan tänka mig hur det var, de var nog lite hjältar, säger klubbens marknadsansvarige Thomas Oskarsson",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.27/0.49/999afcf868c087be63ca8ca89b9850336a0f8574266eaf4a091ba67bc5a69cf3",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/nyheter/lokalt/vast/fran-cupskrall-till-hjaltar-pa-skolgarden"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/nyheter/lokalt/vast/fran-cupskrall-till-hjaltar-pa-skolgarden"
-      },
-      "confirmed_by": [],
-      "id": "fr-n-cupskr-ll-till-hj-ltar-p-skolg-rden"
-    },
-    {
-      "published_at": "2026-10-07T12:05:52+00:00",
-      "updated_at": "2026-10-07T12:05:52+00:00",
-      "title": "Amanda Nildén blandas ihop med lillsyrran: ”Hon är ganska tydligt baby Nildén”",
-      "summary": "Amanda Nildén kommer till landslagssamlingen från en storförlust med Tottenham. Där spelar även lillasyster Matilda Nildén, vilket kan bli en Nildén för mycket",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.72/0.43/8abec5dc303c0419c957acc78a1a277bd8a6e5ba0e558fa0b64851071a29139d",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/amanda-nilden-blandas-ihop-med-lillsyrran-hon-ar-ganska-tydligt-baby-nilden"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/amanda-nilden-blandas-ihop-med-lillsyrran-hon-ar-ganska-tydligt-baby-nilden"
-      },
-      "confirmed_by": [],
-      "id": "amanda-nild-n-blandas-ihop-med-lillsyrran-hon-r-ganska-tydligt-baby-nild-n"
     },
     {
       "published_at": "2026-10-07T04:20:54+00:00",
@@ -1402,112 +1477,58 @@
       "id": "barcelona-squad-rankings-lamine-yamal-raphinha-and-pau-cubarsi-top-our-list"
     },
     {
-      "published_at": "2026-10-07T04:16:00+00:00",
-      "updated_at": "2026-10-07T04:16:00+00:00",
-      "title": "What Jose Mourinho has to fix at Real Madrid: Vinicius Jr form, Mbappe storm, stopping Bernabeu boos",
-      "summary": "Read the full report at The Athletic.",
+      "published_at": "2026-10-09T11:00:00+00:00",
+      "updated_at": "2026-10-09T11:00:00+00:00",
+      "title": "Leeds latest: Club chairman drops major Farke contract hint",
+      "summary": "Leeds United transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
-        "La Liga"
-      ],
-      "status": "Highly credible",
-      "entity": "kylian-mbappe",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "what-jose-mourinho-has-to-fix-at-real-madrid-vinicius-jr-form-mbappe-storm-stopping-bernab"
-    },
-    {
-      "published_at": "2026-10-05T10:00:14+00:00",
-      "updated_at": "2026-10-05T10:00:14+00:00",
-      "title": "Gio Reyna has found the unthinkable with the USMNT: Consistency and normalcy",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "Football"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "gio-reyna-has-found-the-unthinkable-with-the-usmnt-consistency-and-normalcy"
-    },
-    {
-      "published_at": "2026-10-08T14:44:00+00:00",
-      "updated_at": "2026-10-08T14:44:00+00:00",
-      "title": "Newcastle latest: Jaissle gives injury update on NINE players",
-      "summary": "Newcastle transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Premier League"
+        "Transfer"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/10/1600x900/skysports-newcastle-united_7365666.jpg?20261001114104",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-leeds-club-blog_7326700.jpg?20260820165402",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "url": "https://www.skysports.com/football/live-blog/11095/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "url": "https://www.skysports.com/football/live-blog/11095/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "newcastle-latest-jaissle-gives-injury-update-on-nine-players"
+      "id": "leeds-latest-club-chairman-drops-major-farke-contract-hint"
     },
     {
-      "published_at": "2026-10-06T06:35:00+00:00",
-      "updated_at": "2026-10-06T06:35:00+00:00",
-      "title": "Dowman har åkt på ny skada",
-      "summary": "Read the full report at Fotbollskanalen.",
+      "published_at": "2026-10-09T08:00:00+00:00",
+      "updated_at": "2026-10-09T08:00:00+00:00",
+      "title": "Big week for Carrick and Man Utd to turn critics into Baleba's believers",
+      "summary": "As the Premier League returns this weekend, so does the focus and attention on the red side of Manchester",
       "category": [
-        "Sverige"
+        "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/10/1600x900/skysports-baleba-rashford-reporter-notebook_7369680.jpg?20261006135843",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13595788/manchester-united-michael-carrick-faces-defining-month-at-old-trafford-as-carlos-baleba-emerges-as-potential-game-changer"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13595788/manchester-united-michael-carrick-faces-defining-month-at-old-trafford-as-carlos-baleba-emerges-as-potential-game-changer"
       },
       "confirmed_by": [],
-      "id": "dowman-har-kt-p-ny-skada"
+      "id": "big-week-for-carrick-and-man-utd-to-turn-critics-into-baleba-s-believers"
     },
     {
       "published_at": "2026-10-08T18:58:00+00:00",
@@ -1564,10 +1585,37 @@
       "id": "pl-predictions-spurs-to-condemn-man-utd-to-their-worst-start-in-40-years"
     },
     {
-      "published_at": "2026-10-08T12:00:00+00:00",
-      "updated_at": "2026-10-08T12:00:00+00:00",
-      "title": "James: England must keep looking forward in quest for World Cup place",
-      "summary": "Lauren James says England cannot do anything about the situation they find themselves in and just need to beat Greece in their play-off double-header in an effort to secure their place at next summer’s World Cup",
+      "published_at": "2026-10-08T10:00:00+00:00",
+      "updated_at": "2026-10-08T10:00:00+00:00",
+      "title": "Why Araujo could be Liverpool’s key player this season",
+      "summary": "Liverpool conceded two goals in each of their first two games of the season. Not only have they not conceded two in a game since, they have only conceded two in total in the last five matches. It is no coincidence that Ronald Araujo has come in for these games",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-ronald-araujo-liverpool_7363858.jpg?20260929102430",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13571777/ronald-araujo-has-been-liverpools-most-important-summer-signing-so-far-by-balancing-andoni-iraolas-side-from-right-back"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13571777/ronald-araujo-has-been-liverpools-most-important-summer-signing-so-far-by-balancing-andoni-iraolas-side-from-right-back"
+      },
+      "confirmed_by": [],
+      "id": "why-araujo-could-be-liverpool-s-key-player-this-season"
+    },
+    {
+      "published_at": "2026-10-07T09:00:00+00:00",
+      "updated_at": "2026-10-07T09:00:00+00:00",
+      "title": "Why England have an obligation to prove themselves against Greece",
+      "summary": "When England were consigned to the World Cup play-offs back in June, it felt like a massive step backwards. How were the European champions not a shoo-in for the next major tournament in the international calendar?",
       "category": [
         "Football"
       ],
@@ -1575,56 +1623,28 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/10/1600x900/skysports-lauren-james-england_7370000.jpg?20261006201842",
+      "image": "https://e0.365dm.com/26/10/1600x900/skysports-england-women-williamson_7369657.jpg?20261006132641",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13595901/england-lauren-james-says-sarina-wiegmans-side-must-have-no-regrets-as-greece-world-cup-play-off-awaits"
+          "url": "https://www.skysports.com/football/news/11095/13595760/england-women-in-world-cup-2027-play-offs-lionesses-have-obligation-to-prove-themselves-after-spain-disappointment"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13595901/england-lauren-james-says-sarina-wiegmans-side-must-have-no-regrets-as-greece-world-cup-play-off-awaits"
+        "url": "https://www.skysports.com/football/news/11095/13595760/england-women-in-world-cup-2027-play-offs-lionesses-have-obligation-to-prove-themselves-after-spain-disappointment"
       },
       "confirmed_by": [],
-      "id": "james-england-must-keep-looking-forward-in-quest-for-world-cup-place"
+      "id": "why-england-have-an-obligation-to-prove-themselves-against-greece"
     },
     {
-      "published_at": "2026-10-08T11:05:00+00:00",
-      "updated_at": "2026-10-08T11:05:00+00:00",
-      "title": "'Void of leaders' - The problems for bottom-side Spurs after winless start",
-      "summary": "When Aston Villa went 1-0 up in north London, it felt inevitable that Tottenham would head into the international break winless in the Premier League",
+      "published_at": "2026-10-09T07:30:00+00:00",
+      "updated_at": "2026-10-09T07:30:00+00:00",
+      "title": "Karlsson kan stanna i VSK: \"Vi är överens\"",
+      "summary": "Karlsson kan stanna i VSK: \"Vi är överens\" Fotbollskanalen",
       "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://e0.365dm.com/26/10/1600x900/skysports-spurs-tottenham_7370599.jpg?20261007143818",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13596052/tottenham-sky-sports-special-podcast-tim-sherwood-and-michael-bridge-assess-spurs-problems-after-winless-start"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13596052/tottenham-sky-sports-special-podcast-tim-sherwood-and-michael-bridge-assess-spurs-problems-after-winless-start"
-      },
-      "confirmed_by": [],
-      "id": "void-of-leaders-the-problems-for-bottom-side-spurs-after-winless-start"
-    },
-    {
-      "published_at": "2026-10-08T22:35:22+00:00",
-      "updated_at": "2026-10-08T22:35:22+00:00",
-      "title": "Uppgifter: Leipzig överväger Nagelsmann",
-      "summary": "Uppgifter: Real Madrid överväger Yildiz Fotbollskanalen",
-      "category": [
-        "Sverige",
-        "Bundesliga"
+        "Sverige"
       ],
       "status": "Reported",
       "entity": "",
@@ -1643,11 +1663,66 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "uppgifter-leipzig-verv-ger-nagelsmann"
+      "id": "karlsson-kan-stanna-i-vsk-vi-r-verens"
     },
     {
-      "published_at": "2026-10-08T21:07:06+00:00",
-      "updated_at": "2026-10-08T21:07:06+00:00",
+      "published_at": "2026-10-09T04:42:06+00:00",
+      "updated_at": "2026-10-09T04:42:06+00:00",
+      "title": "Officiellt: Bologna värvar Darmian",
+      "summary": "Officiellt: Bologna värvar Darmian Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "officiellt-bologna-v-rvar-darmian"
+    },
+    {
+      "published_at": "2026-10-08T23:30:22+00:00",
+      "updated_at": "2026-10-08T23:30:22+00:00",
+      "title": "Uppgifter: Endrick ger Milan grönt ljus",
+      "summary": "Uppgifter: Endrick ger Milan grönt ljus Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-endrick-ger-milan-gr-nt-ljus"
+    },
+    {
+      "published_at": "2026-10-08T21:12:27+00:00",
+      "updated_at": "2026-10-08T21:12:27+00:00",
       "title": "Hellberg: Eckert har bett mig om ursäkt",
       "summary": "Hellberg: Eckert har bett mig om ursäkt Fotbollskanalen",
       "category": [
@@ -1671,33 +1746,6 @@
       },
       "confirmed_by": [],
       "id": "hellberg-eckert-har-bett-mig-om-urs-kt"
-    },
-    {
-      "published_at": "2026-10-08T20:55:00+00:00",
-      "updated_at": "2026-10-08T20:55:00+00:00",
-      "title": "\"Carricks problem växer - United kan tappa oväntade poäng\"",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "carricks-problem-v-xer-united-kan-tappa-ov-ntade-po-ng"
     },
     {
       "published_at": "2026-10-08T19:45:42+00:00",
@@ -1755,10 +1803,10 @@
       "id": "efter-chockv-gorna-manchester-citys-mardr-mstest-p-anfield"
     },
     {
-      "published_at": "2026-10-09T04:00:00+00:00",
-      "updated_at": "2026-10-09T04:00:00+00:00",
-      "title": "Vinn nu Sverige – annars har det ”gått för långt”",
-      "summary": "Tony Gustavssons facit med Blågult är svagt och VM-kvalet lämnade mycket övrigt att önska. Men i det stundande playoff-mötet mot Litauen finns inga ursäkter – ett revanschlystet Sverige ska bara städa av ett på pappret betydligt svagare motstånd",
+      "published_at": "2026-10-09T10:04:21+00:00",
+      "updated_at": "2026-10-09T10:04:21+00:00",
+      "title": "Inför GAIS – IK Sirius",
+      "summary": "Efter ett alldeles för långt landslagsuppehåll är Allsvenskan äntligen tillbaka. För Sirius väntar Gamla Ullevi för andra omgången i rad. Den här gången är det dock GAIS som står för motståndet",
       "category": [
         "Sverige"
       ],
@@ -1766,26 +1814,26 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/Xo6VQUanvWs3juzHto84Ldu6NQMymkP6OFvqcF22.jpg",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/aicIVg49B9x81tpyIQmOUySx2OcEGg7FIURW0nZQ.jpg",
       "sources": [
         {
           "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/vinn-nu-sverige-annars-har-det-gatt-for-langt-701626"
+          "url": "https://www.svenskafans.com/fotboll/infor-gais-ik-sirius-701657"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/vinn-nu-sverige-annars-har-det-gatt-for-langt-701626"
+        "url": "https://www.svenskafans.com/fotboll/infor-gais-ik-sirius-701657"
       },
       "confirmed_by": [],
-      "id": "vinn-nu-sverige-annars-har-det-g-tt-f-r-l-ngt"
+      "id": "inf-r-gais-ik-sirius"
     },
     {
-      "published_at": "2026-10-08T19:26:00+00:00",
-      "updated_at": "2026-10-08T19:26:00+00:00",
-      "title": "Jag vill se vad Sverige faktiskt har",
-      "summary": "Playoff mot Litauen väntar och nu är det prestation som gäller. Jag vill se ett Sverige med en tydlig idé, relationer som börjar sitta och ett lag som vet vad det ska göra både med och utan boll",
+      "published_at": "2026-10-09T09:57:00+00:00",
+      "updated_at": "2026-10-09T09:57:00+00:00",
+      "title": "Friday I’m In Love – Är jag en medgångsupporter?",
+      "summary": "I 20 år har jag hållit på Malmö FF, idag är jag 27 år gammal och snart 28 fyllda. Frågan jag ställer mig är om jag blivit en medgångssupporter…",
       "category": [
         "Sverige"
       ],
@@ -1793,26 +1841,26 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/UDmGzyBfrB2VDQJ6UVBNfF7cFFcdC3cMVJnwtEt2.png",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/bE0Fs62iuxL8aQEBSkUA6BM9VSOqWMzP5dCbTGVl.png",
       "sources": [
         {
           "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/jag-vill-se-vad-sverige-faktiskt-har-701635"
+          "url": "https://www.svenskafans.com/fotboll/friday-im-in-love-ar-jag-en-medgangsupporter-701656"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/jag-vill-se-vad-sverige-faktiskt-har-701635"
+        "url": "https://www.svenskafans.com/fotboll/friday-im-in-love-ar-jag-en-medgangsupporter-701656"
       },
       "confirmed_by": [],
-      "id": "jag-vill-se-vad-sverige-faktiskt-har"
+      "id": "friday-i-m-in-love-r-jag-en-medg-ngsupporter"
     },
     {
-      "published_at": "2026-10-08T16:43:53+00:00",
-      "updated_at": "2026-10-08T16:43:53+00:00",
-      "title": "Geflepodden #520 Rasmus Nehrman: \"Jag trivs med ansvaret.\"",
-      "summary": "I veckans avsnitt diskuterar vi det \"limbo\" som vi satt oss i just nu tabellmässigt, med två raka förluster i bagaget och ett anfallsspel som saknar inspiration. Hur mycket påverkas spelet av andra resultat? I andra delen av podden gästas vi av Rasmus Nehrman.",
+      "published_at": "2026-10-09T09:30:00+00:00",
+      "updated_at": "2026-10-09T09:30:00+00:00",
+      "title": "Allsvenska panelen: ”Fått tillbaks tron på att vi kan slåss om guldet”",
+      "summary": "Efter ett långt landslagsuppehåll är det äntligen dags för Allsvenskan att starta igång igen med en högintressant höstspurt. I den här artikeln har vi fokus på guldstriden och kampen om Europaplatser där vi har kollat läget med Hammarbyredaktionens Göran Öberg och Elfsborgsredaktionens Maximilian Damm",
       "category": [
         "Sverige"
       ],
@@ -1820,26 +1868,26 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2089412.jpg",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/va9xaL9aGqb7jYO6aDjPwig5zDiG8W2HlwcMRUfA.jpg",
       "sources": [
         {
           "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/geflepodden-520-rasmus-nehrman-jag-trivs-med-ansvaret-701629"
+          "url": "https://www.svenskafans.com/fotboll/allsvenska-panelen-fatt-tillbaks-tron-pa-att-vi-kan-slass-om-guldet-701653"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/geflepodden-520-rasmus-nehrman-jag-trivs-med-ansvaret-701629"
+        "url": "https://www.svenskafans.com/fotboll/allsvenska-panelen-fatt-tillbaks-tron-pa-att-vi-kan-slass-om-guldet-701653"
       },
       "confirmed_by": [],
-      "id": "geflepodden-520-rasmus-nehrman-jag-trivs-med-ansvaret"
+      "id": "allsvenska-panelen-f-tt-tillbaks-tron-p-att-vi-kan-sl-ss-om-guldet"
     },
     {
-      "published_at": "2026-10-08T15:00:00+00:00",
-      "updated_at": "2026-10-08T15:00:00+00:00",
-      "title": "Inför: IFK Göteborg - Västerås SK",
-      "summary": "Efter ett tre veckor långt landslagsuppehåll är det nu äntligen dags för allsvensk fotboll igen. Imorgon, fredag, möts två av seriens mest formstarka lag när Västerås SK gästar IFK Göteborg på Gamla Ullevi.",
+      "published_at": "2026-10-09T08:17:00+00:00",
+      "updated_at": "2026-10-09T08:17:00+00:00",
+      "title": "Supportergruppernas uppmaning inför säsongen 2027",
+      "summary": "Under torsdagen gick Sol Invictus och Ultras Nord ut med en gemensam uppmaning inför säsongen 2027. Budskapet riktar sig till supportrar på Norra Stå som inte följer läktarens förhållningsregler",
       "category": [
         "Sverige"
       ],
@@ -1847,26 +1895,26 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/EVtdxmxna6H7pGDWwcWcx9JPGUF1JWHl3tOqyutB.jpg",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/wFg6vIzZPHSKeVvBTGgnirdeI0Zg6wbTjdZK3N6d.jpg",
       "sources": [
         {
           "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/infor-ifk-goteborg-vasteras-sk-701624"
+          "url": "https://www.svenskafans.com/fotboll/supportergruppernas-uppmaning-infor-sasongen-2027-701649"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/infor-ifk-goteborg-vasteras-sk-701624"
+        "url": "https://www.svenskafans.com/fotboll/supportergruppernas-uppmaning-infor-sasongen-2027-701649"
       },
       "confirmed_by": [],
-      "id": "inf-r-ifk-g-teborg-v-ster-s-sk"
+      "id": "supportergruppernas-uppmaning-inf-r-s-songen-2027"
     },
     {
-      "published_at": "2026-10-08T13:00:00+00:00",
-      "updated_at": "2026-10-08T13:00:00+00:00",
-      "title": "Blåvitt har också problem med tomma stolar: Vädjar om hjälp",
-      "summary": "IFK Göteborg har sålt slut på biljetter i match efter match. Trots en imponerande svit har de problem med tusentals tomma stolar vid vissa matcher",
+      "published_at": "2026-10-09T07:32:35+00:00",
+      "updated_at": "2026-10-09T07:32:35+00:00",
+      "title": "Fredagskrönikan: Äntligen, Gurra!",
+      "summary": "Efter ett alldeles för långt landslagsuppehåll börjar det äntligen dra ihop sig till allsvensk fotboll igen. Och plötsligt finns det betydligt mer att se fram emot än vad jag hade vågat hoppas på",
       "category": [
         "Sverige"
       ],
@@ -1874,26 +1922,26 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/C431Rc4Mnu7r3P6RX2nHhMkiwfAsiQPMBAilhbq6.jpg",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2095047.jpg",
       "sources": [
         {
           "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/blavitt-har-ocksa-problem-med-tomma-stolar-vadjar-om-hjalp-701623"
+          "url": "https://www.svenskafans.com/fotboll/fredagskronikan-antligen-gurra-701647"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/blavitt-har-ocksa-problem-med-tomma-stolar-vadjar-om-hjalp-701623"
+        "url": "https://www.svenskafans.com/fotboll/fredagskronikan-antligen-gurra-701647"
       },
       "confirmed_by": [],
-      "id": "bl-vitt-har-ocks-problem-med-tomma-stolar-v-djar-om-hj-lp"
+      "id": "fredagskr-nikan-ntligen-gurra"
     },
     {
-      "published_at": "2026-10-08T09:43:00+00:00",
-      "updated_at": "2026-10-08T09:43:00+00:00",
-      "title": "Dennis Collander påkörd av bil - borta i flera veckor",
-      "summary": "GAIS-mittfältaren Dennis Collander har skadats efter en kollision med en bil under en löprunda.",
+      "published_at": "2026-10-09T07:00:52+00:00",
+      "updated_at": "2026-10-09T07:00:52+00:00",
+      "title": "Dessa spelade för Huddinge IF under 2026",
+      "summary": "Under säsongen 2026 har 45 olika spelare medverkat i A-laget vid åtminstone ett tillfälle.",
       "category": [
         "Sverige"
       ],
@@ -1901,20 +1949,20 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/vLNwjqYohwzVOhYT1ador3oI8umt7rjeSiX8V002.png",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2bE6mDbOzbJHXy6OzdsW5QfSE9z7TZpfV6obyeh4.jpg",
       "sources": [
         {
           "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/dennis-collander-pakord-av-bil-borta-i-flera-veckor-701615"
+          "url": "https://www.svenskafans.com/fotboll/dessa-spelade-for-huddinge-if-under-2026-701646"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/dennis-collander-pakord-av-bil-borta-i-flera-veckor-701615"
+        "url": "https://www.svenskafans.com/fotboll/dessa-spelade-for-huddinge-if-under-2026-701646"
       },
       "confirmed_by": [],
-      "id": "dennis-collander-p-k-rd-av-bil-borta-i-flera-veckor"
+      "id": "dessa-spelade-f-r-huddinge-if-under-2026"
     },
     {
       "published_at": "2026-10-08T13:44:26+00:00",
@@ -1997,60 +2045,6 @@
       },
       "confirmed_by": [],
       "id": "juventus-not-convinced-by-woltemade-as-club-target-ex-arsenal-and-atalanta-strikers"
-    },
-    {
-      "published_at": "2026-10-08T07:59:02+00:00",
-      "updated_at": "2026-10-08T07:59:02+00:00",
-      "title": "Today’s Papers: Endrick opens door to Milan, Palmisani calls Juve and Modric isn’t stopping",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "today-s-papers-endrick-opens-door-to-milan-palmisani-calls-juve-and-modric-isn-t-stopping"
-    },
-    {
-      "published_at": "2026-10-07T18:16:22+00:00",
-      "updated_at": "2026-10-07T18:16:22+00:00",
-      "title": "Baldini: ‘The problem for Italian football is not talent’ as 11-12 players ready",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "baldini-the-problem-for-italian-football-is-not-talent-as-11-12-players-ready"
     }
   ]
 }
