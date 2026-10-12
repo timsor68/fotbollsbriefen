@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T22:42:27.459918+00:00",
+  "updated_at": "2026-10-12T02:07:52.857163+00:00",
   "items": [
     {
       "published_at": "2026-10-11T15:28:49+00:00",
@@ -124,6 +124,33 @@
         }
       ],
       "id": "real-s-vinicius-apologises-after-red-card-for-hair-pull-against-villarreal"
+    },
+    {
+      "published_at": "2026-10-11T23:23:03+00:00",
+      "updated_at": "2026-10-11T23:23:03+00:00",
+      "title": "'It's a bad situation' - Why Man City win creates uncertainty",
+      "summary": "Speaking on Match of the Day, Toby Alderweireld and Wayne Rooney discuss why Manchester City's 3-0 victory against Liverpool leaves the Premier League in limbo as the club awaits a potential punishment, which could include a points deduction, after they were found guilty of financial breaches",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-city",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/aa47/live/76170560-c5c7-11f1-bc2e-018d645d8d21.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cw073z5j55y9o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cw073z5j55y9o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "it-s-a-bad-situation-why-man-city-win-creates-uncertainty"
     },
     {
       "published_at": "2026-10-11T20:02:27+00:00",
@@ -315,33 +342,6 @@
       "id": "arbeloa-doesn-t-feel-fear-but-pressure-increases-after-loss"
     },
     {
-      "published_at": "2026-10-10T15:44:14+00:00",
-      "updated_at": "2026-10-10T15:44:14+00:00",
-      "title": "Hincapie injury adds to Arsenal issues after Guimaraes rescue act",
-      "summary": "Heroics and battling performances have already become a theme of Arsenal's season with Bruno Guimaraes coming to the rescue again",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/57b6/live/e0856b60-c4de-11f1-a793-e9d00826e617.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c63r5w20ez3do?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c63r5w20ez3do?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "hincapie-injury-adds-to-arsenal-issues-after-guimaraes-rescue-act"
-    },
-    {
       "published_at": "2026-10-11T16:59:51+00:00",
       "updated_at": "2026-10-11T16:59:51+00:00",
       "title": "Filippa Angeldahl redo att starta: ”Kroppen har svarat bra”",
@@ -448,6 +448,43 @@
       },
       "confirmed_by": [],
       "id": "amin-boudri-jag-brukar-vara-en-idiot-ibland"
+    },
+    {
+      "published_at": "2026-10-08T09:49:56+00:00",
+      "updated_at": "2026-10-08T09:49:56+00:00",
+      "title": "Mikel Arteta’s new contract reflects where the power now lies at Arsenal | Ed Aarons",
+      "summary": "From transfers to stadium works and even the training-ground dog, there is no doubting the Spaniard’s influence at the club If anyone doubts Mikel Arteta’s status as No 1 at Arsenal in the week he committed his future to the club until 2030 , just ask Win the dog. The chocolate labrador who played a starring role in the celebrations when Arsenal were crowned Premier League champions in May has become part of the family at the training ground in Hertfordshire since being introduced by Arteta in May 2023. Kai Havertz, David Raya and Mikel Merino, who issues commands in Spanish and has spoken about spending time with Win when out for three months with a foot injury, are particular favourites.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "mikel-arteta",
+      "entity_type": "coaches",
+      "club": "arsenal",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/08/mikel-arteta-arsenal-contract"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/08/mikel-arteta-arsenal-contract"
+        }
+      ],
+      "id": "mikel-arteta-s-new-contract-reflects-where-the-power-now-lies-at-arsenal-ed-aarons"
     },
     {
       "published_at": "2026-10-11T21:00:00+00:00",
@@ -568,8 +605,8 @@
       "id": "youssoufa-moukoko-borussia-dortmund-s-former-wonderkid-is-on-loan-in-turkey-having-lost-hi"
     },
     {
-      "published_at": "2026-10-11T21:44:00+00:00",
-      "updated_at": "2026-10-11T21:44:00+00:00",
+      "published_at": "2026-10-11T22:18:03+00:00",
+      "updated_at": "2026-10-11T22:18:03+00:00",
       "title": "Seedorf gör comeback som tränare - tar över Corinthians",
       "summary": "Read the full report at Fotbollskanalen.",
       "category": [
@@ -706,18 +743,18 @@
       "id": "pyzdrowski-r-mff-tr-nare-och-k-nd-m-lvaktsexpert-vi-r-i-ett-skifte"
     },
     {
-      "published_at": "2026-10-08T19:07:15+00:00",
-      "updated_at": "2026-10-08T19:07:15+00:00",
-      "title": "Officiellt: Barcelona förlänger med Xavi Espart",
-      "summary": "Officiellt: Barcelona förlänger med Xavi Espart Fotbollskanalen",
+      "published_at": "2026-10-09T10:09:45+00:00",
+      "updated_at": "2026-10-09T10:09:45+00:00",
+      "title": "Var tionde tränare är kvinna inom största lagidrotterna",
+      "summary": "Read the full report at Fotbollskanalen.",
       "category": [
         "Sverige",
-        "La Liga"
+        "Coach"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "barcelona",
+      "club": "",
       "image": "",
       "sources": [
         {
@@ -731,7 +768,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "officiellt-barcelona-f-rl-nger-med-xavi-espart"
+      "id": "var-tionde-tr-nare-r-kvinna-inom-st-rsta-lagidrotterna"
     },
     {
       "published_at": "2026-10-06T15:54:00+00:00",
@@ -786,33 +823,6 @@
       },
       "confirmed_by": [],
       "id": "karlsson-uppges-klar-f-r-degen-permanent-jag-trivs-j-ttebra"
-    },
-    {
-      "published_at": "2026-10-05T16:24:00+00:00",
-      "updated_at": "2026-10-05T16:24:00+00:00",
-      "title": "Uppgifter: Kane detaljer från nytt kontrakt",
-      "summary": "Uppgifter: Kane detaljer från nytt kontrakt Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-kane-detaljer-fr-n-nytt-kontrakt"
     },
     {
       "published_at": "2026-10-11T20:02:08+00:00",
@@ -923,6 +933,33 @@
       "id": "ten-man-brighton-continue-fine-form-with-battling-win-at-sunderland"
     },
     {
+      "published_at": "2026-10-10T13:41:25+00:00",
+      "updated_at": "2026-10-10T13:41:25+00:00",
+      "title": "Bruno Guimarães completes Arsenal comeback to end Leeds’ unbeaten run",
+      "summary": "Arsenal built the foundations of their new success on a desire for competition, an appetite for battle. But what happens when that spirit is insufficient, when your opponents play just as hard as you do? Well, then you bring on Bruno Guimarães and you play even harder.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://i.guim.co.uk/img/media/7ffedd8e04d8861f2300d2160ec55508edac5cf0/665_393_3187_2549/master/3187.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=de39790aaa4ae865ec612aff7ec9003f",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/10/arsenal-leeds-premier-league-match-report"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/oct/10/arsenal-leeds-premier-league-match-report"
+      },
+      "confirmed_by": [],
+      "id": "bruno-guimar-es-completes-arsenal-comeback-to-end-leeds-unbeaten-run"
+    },
+    {
       "published_at": "2026-10-09T09:00:44+00:00",
       "updated_at": "2026-10-09T09:00:44+00:00",
       "title": "Zavier Gozo: ‘You have to be uncomfortable to get to the highest levels’",
@@ -1029,34 +1066,6 @@
       },
       "confirmed_by": [],
       "id": "are-brighton-genuine-contenders-to-qualify-for-the-champions-league"
-    },
-    {
-      "published_at": "2026-10-08T09:49:56+00:00",
-      "updated_at": "2026-10-08T09:49:56+00:00",
-      "title": "Mikel Arteta’s new contract reflects where the power now lies at Arsenal | Ed Aarons",
-      "summary": "From transfers to stadium works and even the training-ground dog, there is no doubting the Spaniard’s influence at the club If anyone doubts Mikel Arteta’s status as No 1 at Arsenal in the week he committed his future to the club until 2030 , just ask Win the dog. The chocolate labrador who played a starring role in the celebrations when Arsenal were crowned Premier League champions in May has become part of the family at the training ground in Hertfordshire since being introduced by Arteta in May 2023. Kai Havertz, David Raya and Mikel Merino, who issues commands in Spanish and has spoken about spending time with Win when out for three months with a foot injury, are particular favourites.",
-      "category": [
-        "Premier League",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "mikel-arteta",
-      "entity_type": "coaches",
-      "club": "arsenal",
-      "image": "https://i.guim.co.uk/img/media/e69d56fba273f9630d6d0cf8f6579a43a5dc8354/1188_667_6047_4837/master/6047.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fe0e052f03a899b93e460d4ac9d9aa2d",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/oct/08/mikel-arteta-arsenal-contract"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/oct/08/mikel-arteta-arsenal-contract"
-      },
-      "confirmed_by": [],
-      "id": "mikel-arteta-s-new-contract-reflects-where-the-power-now-lies-at-arsenal-ed-aarons"
     },
     {
       "published_at": "2026-10-08T07:00:12+00:00",
@@ -1248,9 +1257,9 @@
       "id": "official-italian-referees-association-elect-new-president-massini"
     },
     {
-      "published_at": "2026-10-11T18:41:43+00:00",
-      "updated_at": "2026-10-11T18:41:43+00:00",
-      "title": "Lazio keep pace at the top, 10-man Roma earn draw at Como, Milan held by Sassuolo",
+      "published_at": "2026-10-11T21:16:46+00:00",
+      "updated_at": "2026-10-11T21:16:46+00:00",
+      "title": "Lazio keep pace at the top, Juve, Milan and Roma all held",
       "summary": "Read the full report at Reuters.",
       "category": [
         "Serie A"
@@ -1272,7 +1281,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "lazio-keep-pace-at-the-top-10-man-roma-earn-draw-at-como-milan-held-by-sassuolo"
+      "id": "lazio-keep-pace-at-the-top-juve-milan-and-roma-all-held"
     },
     {
       "published_at": "2026-10-10T21:49:38+00:00",
@@ -1490,34 +1499,6 @@
       },
       "confirmed_by": [],
       "id": "bo-hegland-hj-lte-djurg-rden-br-t-tung-derbysvit"
-    },
-    {
-      "published_at": "2026-10-10T09:15:20+00:00",
-      "updated_at": "2026-10-10T09:15:20+00:00",
-      "title": "Inside Marseille’s troubled start to life after De Zerbi: Financial turmoil, no signings and five defeats",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "Ligue 1",
-        "Transfer"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "inside-marseille-s-troubled-start-to-life-after-de-zerbi-financial-turmoil-no-signings-and"
     },
     {
       "published_at": "2026-10-11T21:15:26+00:00",
@@ -1937,6 +1918,33 @@
       "id": "psg-3-1-le-mans-10-oct-2026-game-analysis"
     },
     {
+      "published_at": "2026-10-11T18:35:58+00:00",
+      "updated_at": "2026-10-11T18:35:58+00:00",
+      "title": "Spalletti: ‘Kolo Muani needs to put his best skills into practice’",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "spalletti-kolo-muani-needs-to-put-his-best-skills-into-practice"
+    },
+    {
       "published_at": "2026-10-11T18:02:52+00:00",
       "updated_at": "2026-10-11T18:02:52+00:00",
       "title": "Serie A | Sassuolo 1-1 Milan: Not enough for Rabiot to celebrate",
@@ -1962,33 +1970,6 @@
       },
       "confirmed_by": [],
       "id": "serie-a-sassuolo-1-1-milan-not-enough-for-rabiot-to-celebrate"
-    },
-    {
-      "published_at": "2026-10-11T16:04:14+00:00",
-      "updated_at": "2026-10-11T16:04:14+00:00",
-      "title": "Gattuso frustrated with Lazio despite 3-1 Monza win: ‘Like the second half against Milan’",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "gattuso-frustrated-with-lazio-despite-3-1-monza-win-like-the-second-half-against-milan"
     },
     {
       "published_at": "2026-10-11T14:55:53+00:00",
@@ -2018,33 +1999,6 @@
       "id": "serie-a-lazio-3-1-monza-special-nuno-tavares-strike-keeps-aquile-on-top"
     },
     {
-      "published_at": "2026-10-11T12:31:24+00:00",
-      "updated_at": "2026-10-11T12:31:24+00:00",
-      "title": "Serie A | Como 0-0 Roma: Giallorossi resist under siege after Malen sees red",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "serie-a-como-0-0-roma-giallorossi-resist-under-siege-after-malen-sees-red"
-    },
-    {
       "published_at": "2026-10-11T11:38:11+00:00",
       "updated_at": "2026-10-11T11:38:11+00:00",
       "title": "Picture: Baggio in New York to receive Best Italian Player of All Time award",
@@ -2072,9 +2026,9 @@
       "id": "picture-baggio-in-new-york-to-receive-best-italian-player-of-all-time-award"
     },
     {
-      "published_at": "2026-10-11T10:19:26+00:00",
-      "updated_at": "2026-10-11T10:19:26+00:00",
-      "title": "D’Amico: ‘Como-Roma an advert for Italian football, faith in all players’",
+      "published_at": "2026-10-10T20:39:15+00:00",
+      "updated_at": "2026-10-10T20:39:15+00:00",
+      "title": "Serie A | Napoli 3-0 Frosinone: De Bruyne inspires new approach",
       "summary": "Read the full report at Football Italia.",
       "category": [
         "Serie A"
@@ -2096,7 +2050,62 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "d-amico-como-roma-an-advert-for-italian-football-faith-in-all-players"
+      "id": "serie-a-napoli-3-0-frosinone-de-bruyne-inspires-new-approach"
+    },
+    {
+      "published_at": "2026-10-10T18:35:02+00:00",
+      "updated_at": "2026-10-10T18:35:02+00:00",
+      "title": "Spence makes Inter debut: how the former Tottenham defender fared",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Premier League",
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "tottenham",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "spence-makes-inter-debut-how-the-former-tottenham-defender-fared"
+    },
+    {
+      "published_at": "2026-10-10T17:52:23+00:00",
+      "updated_at": "2026-10-10T17:52:23+00:00",
+      "title": "Serie A | Inter 3-0 Parma: Calhanoglu back to ruin Gilardino debut",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "serie-a-inter-3-0-parma-calhanoglu-back-to-ruin-gilardino-debut"
     }
   ]
 }
