@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T22:05:25.716009+00:00",
+  "updated_at": "2026-10-15T01:15:31.642077+00:00",
   "items": [
     {
       "published_at": "2026-10-14T21:31:34+00:00",
@@ -21,6 +21,10 @@
           "url": "https://www.bbc.co.uk/sport/football/videos/cmx239x97ddvo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
+        },
+        {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/football/2026/oct/14/champions-league-mourinhos-real-madrid-stage-crazy-comeback-on-roma-return"
         },
@@ -36,6 +40,10 @@
       },
       "confirmed_by": [
         {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
+        },
+        {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/football/2026/oct/14/champions-league-mourinhos-real-madrid-stage-crazy-comeback-on-roma-return"
         },
@@ -45,6 +53,50 @@
         }
       ],
       "id": "real-madrid-stun-roma-after-dramatic-late-comeback"
+    },
+    {
+      "published_at": "2026-10-14T22:45:22+00:00",
+      "updated_at": "2026-10-14T22:45:22+00:00",
+      "title": "Jackson steps up again as Aston Villa revival continues",
+      "summary": "It may be a bit early for the pantomime season but the Holte End enjoyed acclaiming their heroes and villains as Aston Villa won at home for the first time this season with their biggest victory in European competition. Every touch for Mason Greenwood, playing his first game in England since January 2022, was booed, but even louder applause was reserved for Aston Villa’s rediscovered attacking prowess. Johan Manzambi celebrated his 21st birthday by opening the scoring on his first Champions League appearance, before Nicolas Jackson took the game beyond Fenerbahce’s reach with two more goals before half-time to help banish any fears about playing in front of the demolished North Stand.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4c8d/live/bc2e5020-c81b-11f1-9a39-31b474234113.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c370pnwz0gw2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/14/aston-villa-fenerbahce-champions-league-league-stage-match-report"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c370pnwz0gw2o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/14/aston-villa-fenerbahce-champions-league-league-stage-match-report"
+        }
+      ],
+      "id": "jackson-steps-up-again-as-aston-villa-revival-continues"
     },
     {
       "published_at": "2026-10-10T15:39:30+00:00",
@@ -89,6 +141,33 @@
         }
       ],
       "id": "augsburg-score-fastest-bundesliga-goal-but-bayern-snatch-comeback-draw"
+    },
+    {
+      "published_at": "2026-10-14T23:13:20+00:00",
+      "updated_at": "2026-10-14T23:13:20+00:00",
+      "title": "'Shameless' - Mourinho critical of Vinicius Jr ban timing",
+      "summary": "Real Madrid forward Vinicius Jr will miss El Clasico against Barcelona after being given a four-game ban",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3d69/live/901c4f60-c7f7-11f1-970c-196b57378f40.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckd7qg5q87qvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckd7qg5q87qvo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "shameless-mourinho-critical-of-vinicius-jr-ban-timing"
     },
     {
       "published_at": "2026-10-14T21:28:39+00:00",
@@ -192,7 +271,7 @@
       "published_at": "2026-10-14T18:14:53+00:00",
       "updated_at": "2026-10-14T18:14:53+00:00",
       "title": "Vinicius Jr to miss Barcelona game because of ban",
-      "summary": "Real Madrid forward Vinicius Jr will miss El Clasico against Barcelona after being given a four-game ban",
+      "summary": "Read the full report at BBC Sport.",
       "category": [
         "La Liga"
       ],
@@ -200,17 +279,17 @@
       "entity": "",
       "entity_type": "players",
       "club": "barcelona",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3d69/live/901c4f60-c7f7-11f1-970c-196b57378f40.jpg",
+      "image": "",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckd7qg5q87qvo?at_medium=RSS&at_campaign=rss"
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckd7qg5q87qvo?at_medium=RSS&at_campaign=rss"
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
       "id": "vinicius-jr-to-miss-barcelona-game-because-of-ban"
@@ -297,60 +376,6 @@
       "id": "wilcox-the-target-again-in-another-damaging-man-utd-fallout"
     },
     {
-      "published_at": "2026-10-14T14:46:30+00:00",
-      "updated_at": "2026-10-14T14:46:30+00:00",
-      "title": "Dionisi set to remain in charge of Watford",
-      "summary": "BBC Three Counties Radio report Watford are set to stick with head coach Alessio Dionisi despite a run of four successive defeats",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8235/live/aa0e4d90-c7b8-11f1-b41f-d7a6cb474575.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmd7qv7l2530o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmd7qv7l2530o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "dionisi-set-to-remain-in-charge-of-watford"
-    },
-    {
-      "published_at": "2026-10-13T10:13:34+00:00",
-      "updated_at": "2026-10-13T10:13:34+00:00",
-      "title": "Were any current Man City players signed during charges period?",
-      "summary": "BBC Sport's Ask Me Anything team looks at whether any Manchester City players were signed during the time the club have been found guilty of breaching the Premier League's financial rules",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2348/live/f6e71e10-c6e8-11f1-bc1b-8dfa7c975faa.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/articles/cmje5wl5ek32o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/articles/cmje5wl5ek32o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "were-any-current-man-city-players-signed-during-charges-period"
-    },
-    {
       "published_at": "2026-10-14T17:26:13+00:00",
       "updated_at": "2026-10-14T17:26:13+00:00",
       "title": "IK Uppsala lägger ned klubben efter säsongen",
@@ -395,40 +420,31 @@
       "id": "ik-uppsala-l-gger-ned-klubben-efter-s-songen"
     },
     {
-      "published_at": "2026-10-14T11:30:28+00:00",
-      "updated_at": "2026-10-14T11:30:28+00:00",
-      "title": "Gianni Infantino faces grilling at potentially ‘explosive’ Fifa council meeting",
-      "summary": "World Cup sell-off, Balogun and peace prize on agenda Opponents will press home need for independent review Gianni Infantino will be questioned by Fifa council members over his involvement in the aborted World Cup sell-off plan , the Folarin Balogun affair and the decision to award Donald Trump the inaugural Fifa peace prize at what is expected to be a heated meeting at the world governing body’s headquarters on Thursday. The Fifa president rejected repeated calls for an extraordinary general meeting of council in the summer after the emergence of the Fifa Forward Enterprise (FFE) proposals, but will meet his critics for the first time since then in Zurich, with one attender predicting that the talks could be “explosive”.",
+      "published_at": "2026-10-14T23:05:00+00:00",
+      "updated_at": "2026-10-14T23:05:00+00:00",
+      "title": "Martinez releases statement to clarify outburst - but does not apologise",
+      "summary": "Manchester United defender Lisandro Martinez has clarified his outburst after Tuesday's Champions League loss at Atletico Madrid in a statement - but stopped short of an apology",
       "category": [
         "Football"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/10/1600x900/skysports-gianni-infantino_7375643.jpg?20261013084027",
+      "image": "https://e0.365dm.com/26/10/1600x900/skysports-lisandro-martinez_7376571.jpg?20261014092822",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13599400/gianni-infantino-the-key-questions-facing-fifa-president-at-crunch-council-meeting"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/oct/14/gianni-infantino-fifa-council-meeting-opponents-world-cup-balogun-peace-prize"
+          "url": "https://www.skysports.com/football/news/11095/13599417/lisandro-martinez-man-utd-defender-releases-statement-to-clarify-outburst-but-does-not-apologise"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13599400/gianni-infantino-the-key-questions-facing-fifa-president-at-crunch-council-meeting"
+        "url": "https://www.skysports.com/football/news/11095/13599417/lisandro-martinez-man-utd-defender-releases-statement-to-clarify-outburst-but-does-not-apologise"
       },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/oct/14/gianni-infantino-fifa-council-meeting-opponents-world-cup-balogun-peace-prize"
-        }
-      ],
-      "id": "gianni-infantino-faces-grilling-at-potentially-explosive-fifa-council-meeting"
+      "confirmed_by": [],
+      "id": "martinez-releases-statement-to-clarify-outburst-but-does-not-apologise"
     },
     {
       "published_at": "2026-10-14T15:11:00+00:00",
@@ -458,33 +474,6 @@
       "id": "martinez-outburst-q-a-wilcox-transfer-strategy-and-what-next-for-united"
     },
     {
-      "published_at": "2026-10-14T13:00:00+00:00",
-      "updated_at": "2026-10-14T13:00:00+00:00",
-      "title": "What is wrong with Bruno Fernandes?",
-      "summary": "A day before Manchester United's trip to Atletico Madrid in the Champions League, the club issued a statement on captain Bruno Fernandes. It spoke of an \"injury niggle\" but stressed there was \"nothing to worry about\". His performance on the night suggested otherwise",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/10/1600x900/skysports-bruno-fernandes-man-utd_7376752.jpg?20261014124546",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13599170/bruno-fernandes-what-has-happened-to-the-form-of-man-utds-best-player-and-should-michael-carrick-drop-him"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13599170/bruno-fernandes-what-has-happened-to-the-form-of-man-utds-best-player-and-should-michael-carrick-drop-him"
-      },
-      "confirmed_by": [],
-      "id": "what-is-wrong-with-bruno-fernandes"
-    },
-    {
       "published_at": "2026-10-14T12:00:00+00:00",
       "updated_at": "2026-10-14T12:00:00+00:00",
       "title": "Martinez's future at Man Utd in doubt after public outburst",
@@ -512,8 +501,8 @@
       "id": "martinez-s-future-at-man-utd-in-doubt-after-public-outburst"
     },
     {
-      "published_at": "2026-10-14T12:58:34+00:00",
-      "updated_at": "2026-10-14T12:58:34+00:00",
+      "published_at": "2026-10-14T12:53:14+00:00",
+      "updated_at": "2026-10-14T12:53:14+00:00",
       "title": "Klart: Pavlovic förlänger med Milan",
       "summary": "Klart: Juventus förlänger med Gonzalez Fotbollskanalen",
       "category": [
@@ -703,6 +692,34 @@
       },
       "confirmed_by": [],
       "id": "pyzdrowski-r-mff-tr-nare-och-k-nd-m-lvaktsexpert-vi-r-i-ett-skifte"
+    },
+    {
+      "published_at": "2026-10-08T19:07:15+00:00",
+      "updated_at": "2026-10-08T19:07:15+00:00",
+      "title": "Officiellt: Barcelona förlänger med Xavi Espart",
+      "summary": "Officiellt: Barcelona förlänger med Xavi Espart Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "La Liga"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "barcelona",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "officiellt-barcelona-f-rl-nger-med-xavi-espart"
     },
     {
       "published_at": "2026-10-14T14:29:01+00:00",
@@ -973,6 +990,33 @@
       },
       "confirmed_by": [],
       "id": "jason-wilcox-best-eyes-at-manchester-united-or-promoted-too-far-and-too-fast"
+    },
+    {
+      "published_at": "2026-10-14T11:30:28+00:00",
+      "updated_at": "2026-10-14T11:30:28+00:00",
+      "title": "Gianni Infantino faces grilling at potentially ‘explosive’ Fifa council meeting",
+      "summary": "World Cup sell-off, Balogun and peace prize on agenda Opponents will press home need for independent review Gianni Infantino will be questioned by Fifa council members over his involvement in the aborted World Cup sell-off plan , the Folarin Balogun affair and the decision to award Donald Trump the inaugural Fifa peace prize at what is expected to be a heated meeting at the world governing body’s headquarters on Thursday. The Fifa president rejected repeated calls for an extraordinary general meeting of council in the summer after the emergence of the Fifa Forward Enterprise (FFE) proposals, but will meet his critics for the first time since then in Zurich, with one attender predicting that the talks could be “explosive”.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/21adaffdd713db0e62e8ccd6493a8095674d2c1e/176_109_2550_2039/master/2550.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e36ec5dae6cba2f60fa9677056f0772",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/14/gianni-infantino-fifa-council-meeting-opponents-world-cup-balogun-peace-prize"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/oct/14/gianni-infantino-fifa-council-meeting-opponents-world-cup-balogun-peace-prize"
+      },
+      "confirmed_by": [],
+      "id": "gianni-infantino-faces-grilling-at-potentially-explosive-fifa-council-meeting"
     },
     {
       "published_at": "2026-10-13T16:12:47+00:00",
@@ -1250,6 +1294,33 @@
       "id": "tresoldi-s-first-coach-reveals-12-year-old-rejected-by-milan-juventus-and-more"
     },
     {
+      "published_at": "2026-10-13T13:51:37+00:00",
+      "updated_at": "2026-10-13T13:51:37+00:00",
+      "title": "Official: Malen, Spalletti and Pisacane handed bans after Serie A Round 6",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "official-malen-spalletti-and-pisacane-handed-bans-after-serie-a-round-6"
+    },
+    {
       "published_at": "2026-10-11T17:35:30+00:00",
       "updated_at": "2026-10-11T17:35:30+00:00",
       "title": "Serie A: Cagliari vs. Juventus – Confirmed line-ups",
@@ -1280,7 +1351,7 @@
       "published_at": "2026-10-14T21:45:00+00:00",
       "updated_at": "2026-10-14T21:45:00+00:00",
       "title": "West Ham hammer six past NINE-man Lincoln",
-      "summary": "Tomas Soucek rounds off big victory after two reds Portsmouth strike late to beat 10-man Sheffield United West Ham returned to winning ways after they cruised to a 6-0 Championship victory against nine-man Lincoln at the ProAmpac Stadium. The hosts had Tom Hamer sent off after just three minutes and Conor McGrandles followed him off the pitch 20 minutes later, with Konstantinos Mavropanos heading West Ham ahead on the stroke of half-time.",
+      "summary": "Tomas Soucek rounds off big victory after two reds Portsmouth strike late to beat 10-man Sheffield United West Ham returned to winning ways as they cruised to a 6-0 Championship victory against nine-man Lincoln at the ProAmpac Stadium. The hosts had Tom Hamer sent off after just three minutes and Conor McGrandles followed him off the pitch 20 minutes later, with Konstantinos Mavropanos heading West Ham ahead on the stroke of half-time.",
       "category": [
         "Premier League"
       ],
@@ -1538,31 +1609,31 @@
       "id": "iraola-has-100-trust-in-wirtz-and-barcola-but-tells-others-to-step-up"
     },
     {
-      "published_at": "2026-10-14T22:46:00+00:00",
-      "updated_at": "2026-10-14T22:46:00+00:00",
-      "title": "Man Utd latest: Martinez releases statement a day after outburst",
-      "summary": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "published_at": "2026-10-14T11:32:00+00:00",
+      "updated_at": "2026-10-14T11:32:00+00:00",
+      "title": "EFL latest: Wolves suffer further Jimenez injury blow",
+      "summary": "Championship news, transfer latest and gossip plus EFL updates from League One and League Two",
       "category": [
-        "Football"
+        "Premier League"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-man-utd-club-blog_7326703.jpg?20260820165515",
+      "club": "",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-wolves-raul-jimenez_7354131.jpg?20260916232331",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "url": "https://www.skysports.com/football/live-blog/11095/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two"
       },
       "confirmed_by": [],
-      "id": "man-utd-latest-martinez-releases-statement-a-day-after-outburst"
+      "id": "efl-latest-wolves-suffer-further-jimenez-injury-blow"
     },
     {
       "published_at": "2026-10-12T06:48:00+00:00",
@@ -1648,6 +1719,33 @@
     {
       "published_at": "2026-10-14T21:30:00+00:00",
       "updated_at": "2026-10-14T21:30:00+00:00",
+      "title": "QPR thump four past struggling Derby",
+      "summary": "QPR continued their impressive early-season form with a thumping 4-1 win at home to struggling Derby County",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/10/1600x900/skysports-harvey-vale-qpr-championship_7377183.jpg?20261014215348",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/queens-park-rangers-vs-derby-county/report/560617"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/queens-park-rangers-vs-derby-county/report/560617"
+      },
+      "confirmed_by": [],
+      "id": "qpr-thump-four-past-struggling-derby"
+    },
+    {
+      "published_at": "2026-10-14T21:30:00+00:00",
+      "updated_at": "2026-10-14T21:30:00+00:00",
       "title": "Portsmouth nick late win against 10-man Sheff Utd",
       "summary": "Ebou Adams scored an 89th-minute winner as Portsmouth recovered after giving away a 2-0 lead to beat 10-man Sheffield United 3-2 at Fratton Park",
       "category": [
@@ -1698,60 +1796,6 @@
       },
       "confirmed_by": [],
       "id": "southampton-edge-win-at-struggling-norwich"
-    },
-    {
-      "published_at": "2026-10-14T21:58:06+00:00",
-      "updated_at": "2026-10-14T21:58:06+00:00",
-      "title": "Martinez förklarar sig - efter sin attack: \"Måste kräva ännu mer\"",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "martinez-f-rklarar-sig-efter-sin-attack-m-ste-kr-va-nnu-mer"
-    },
-    {
-      "published_at": "2026-10-14T17:00:08+00:00",
-      "updated_at": "2026-10-14T17:00:08+00:00",
-      "title": "Manchester City staff invited on government trade trip to India",
-      "summary": "Exclusive: Greater Manchester mayor Bev Craig invited City representative on trade trip organised by business secretary A club representative from Manchester City was invited on a government-backed trade delegation to India this week, despite the club being found guilty of 114 breaches of Premier League rules. Andy Burnham’s successor as Manchester mayor Bev Craig took a representative from the club to Delhi and Mumbai on a trip organised by business secretary Jonathan Reynolds, where she and other northern mayors have been promoting British trade and tourism.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://i.guim.co.uk/img/media/0a074ac93b973a6a3f08c2e3c221f6f37c6f9e0a/1133_528_5970_4776/master/5970.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ca834a54c96af7ba8bbd9978855124ec",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/oct/14/bev-craig-manchester-city-trade-trip-india-to-promote-uk-tourism"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/oct/14/bev-craig-manchester-city-trade-trip-india-to-promote-uk-tourism"
-      },
-      "confirmed_by": [],
-      "id": "manchester-city-staff-invited-on-government-trade-trip-to-india"
     },
     {
       "published_at": "2026-10-14T14:54:13+00:00",
@@ -2051,6 +2095,33 @@
       "id": "football-italia-show-juventus-and-milan-are-the-man-utd-of-serie-a-no-doubts-about-malen-s"
     },
     {
+      "published_at": "2026-10-12T11:44:43+00:00",
+      "updated_at": "2026-10-12T11:44:43+00:00",
+      "title": "Dybala: ‘I hope my career has an Italian ending, Roma give even more at home’",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "dybala-i-hope-my-career-has-an-italian-ending-roma-give-even-more-at-home"
+    },
+    {
       "published_at": "2026-10-12T10:52:20+00:00",
       "updated_at": "2026-10-12T10:52:20+00:00",
       "title": "54 matches for the first 0-0 draw of the Serie A season, first time in 77 years",
@@ -2078,12 +2149,12 @@
       "id": "54-matches-for-the-first-0-0-draw-of-the-serie-a-season-first-time-in-77-years"
     },
     {
-      "published_at": "2026-10-12T09:18:52+00:00",
-      "updated_at": "2026-10-12T09:18:52+00:00",
-      "title": "Two statistics tell the story for Juventus after 1-1 Cagliari draw",
+      "published_at": "2026-10-11T18:35:58+00:00",
+      "updated_at": "2026-10-11T18:35:58+00:00",
+      "title": "Spalletti: ‘Kolo Muani needs to put his best skills into practice’",
       "summary": "Read the full report at Football Italia.",
       "category": [
-        "Serie A"
+        "Football"
       ],
       "status": "Reported",
       "entity": "",
@@ -2102,7 +2173,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "two-statistics-tell-the-story-for-juventus-after-1-1-cagliari-draw"
+      "id": "spalletti-kolo-muani-needs-to-put-his-best-skills-into-practice"
     },
     {
       "published_at": "2026-10-11T18:02:52+00:00",
@@ -2130,60 +2201,6 @@
       },
       "confirmed_by": [],
       "id": "serie-a-sassuolo-1-1-milan-not-enough-for-rabiot-to-celebrate"
-    },
-    {
-      "published_at": "2026-10-11T14:55:53+00:00",
-      "updated_at": "2026-10-11T14:55:53+00:00",
-      "title": "Serie A | Lazio 3-1 Monza: Special Nuno Tavares strike keeps Aquile on top",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "serie-a-lazio-3-1-monza-special-nuno-tavares-strike-keeps-aquile-on-top"
-    },
-    {
-      "published_at": "2026-10-11T10:19:26+00:00",
-      "updated_at": "2026-10-11T10:19:26+00:00",
-      "title": "D’Amico: ‘Como-Roma an advert for Italian football, faith in all players’",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "d-amico-como-roma-an-advert-for-italian-football-faith-in-all-players"
     }
   ]
 }
