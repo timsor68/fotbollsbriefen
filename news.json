@@ -1,6 +1,50 @@
 {
-  "updated_at": "2026-10-16T22:37:03.256491+00:00",
+  "updated_at": "2026-10-17T01:07:23.525068+00:00",
   "items": [
+    {
+      "published_at": "2026-10-16T12:48:27+00:00",
+      "updated_at": "2026-10-16T12:48:27+00:00",
+      "title": "Real Madrid fail in appeal against Vinicius Junior four-game ban",
+      "summary": "Read the full report at Reuters.",
+      "category": [
+        "La Liga"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "real-madrid",
+      "image": "",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "BBC Sport",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wZzctNDktLWZVNklzUHNMX1ZIVGItY01UeHJDTTZXRUNjbGVWN3FxSktXUFhTaHdKLV9IV3JkbUJma1VIREFpcFZWV1ktWHM2ejlfQmlRZFJRQ2hNQ19yc1dkWGQyZw?oc=5"
+        },
+        {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVDRaVG05Smg4MnlwelVpWUNOWDhnaklscERVLTdhQ09oZy1zWlVJSEFrSXNaUUtpOVNLdjFIYjRfem4yNl9kZjBjM3RTYVdPNktPeHZGQ2FVbS1LbFlqamQtbFNhcTZMWWp3OEVaTkRycTVqYXhFU1NFclI5NkZQV0szRlJ0bkFJUzlUOEl1Q3lsN2dsbnIzWmtXWkk?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Reuters",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "BBC Sport",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wZzctNDktLWZVNklzUHNMX1ZIVGItY01UeHJDTTZXRUNjbGVWN3FxSktXUFhTaHdKLV9IV3JkbUJma1VIREFpcFZWV1ktWHM2ejlfQmlRZFJRQ2hNQ19yc1dkWGQyZw?oc=5"
+        },
+        {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVDRaVG05Smg4MnlwelVpWUNOWDhnaklscERVLTdhQ09oZy1zWlVJSEFrSXNaUUtpOVNLdjFIYjRfem4yNl9kZjBjM3RTYVdPNktPeHZGQ2FVbS1LbFlqamQtbFNhcTZMWWp3OEVaTkRycTVqYXhFU1NFclI5NkZQV0szRlJ0bkFJUzlUOEl1Q3lsN2dsbnIzWmtXWkk?oc=5"
+        }
+      ],
+      "id": "real-madrid-fail-in-appeal-against-vinicius-junior-four-game-ban"
+    },
     {
       "published_at": "2026-10-16T15:43:32+00:00",
       "updated_at": "2026-10-16T15:43:32+00:00",
@@ -88,42 +132,6 @@
         }
       ],
       "id": "chelsea-s-james-out-for-three-months-after-knee-surgery"
-    },
-    {
-      "published_at": "2026-10-15T15:15:38+00:00",
-      "updated_at": "2026-10-15T15:15:38+00:00",
-      "title": "Vinicius Junior: From contract uncertainty to conspiracy theories and a four-match ban",
-      "summary": "Read the full report at BBC Sport.",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "The Athletic",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVDRaVG05Smg4MnlwelVpWUNOWDhnaklscERVLTdhQ09oZy1zWlVJSEFrSXNaUUtpOVNLdjFIYjRfem4yNl9kZjBjM3RTYVdPNktPeHZGQ2FVbS1LbFlqamQtbFNhcTZMWWp3OEVaTkRycTVqYXhFU1NFclI5NkZQV0szRlJ0bkFJUzlUOEl1Q3lsN2dsbnIzWmtXWkk?oc=5"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [
-        {
-          "name": "The Athletic",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVDRaVG05Smg4MnlwelVpWUNOWDhnaklscERVLTdhQ09oZy1zWlVJSEFrSXNaUUtpOVNLdjFIYjRfem4yNl9kZjBjM3RTYVdPNktPeHZGQ2FVbS1LbFlqamQtbFNhcTZMWWp3OEVaTkRycTVqYXhFU1NFclI5NkZQV0szRlJ0bkFJUzlUOEl1Q3lsN2dsbnIzWmtXWkk?oc=5"
-        }
-      ],
-      "id": "vinicius-junior-from-contract-uncertainty-to-conspiracy-theories-and-a-four-match-ban"
     },
     {
       "published_at": "2026-10-15T05:39:10+00:00",
@@ -242,50 +250,6 @@
       "id": "mikel-arteta-defends-job-cuts-at-arsenal-to-help-club-evolve-and-create-success"
     },
     {
-      "published_at": "2026-10-10T23:49:47+00:00",
-      "updated_at": "2026-10-10T23:49:47+00:00",
-      "title": "Real's Vinicius apologises after red card for hair pull against Villarreal",
-      "summary": "Read the full report at Reuters.",
-      "category": [
-        "La Liga"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "BBC Sport",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wZzctNDktLWZVNklzUHNMX1ZIVGItY01UeHJDTTZXRUNjbGVWN3FxSktXUFhTaHdKLV9IV3JkbUJma1VIREFpcFZWV1ktWHM2ejlfQmlRZFJRQ2hNQ19yc1dkWGQyZw?oc=5"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTS1DeFZVMGtNdTRZRWtZMlJ0Z3NkQkhReGk3TW1DMGtIZGpsYy1OY1c0UjIwY21WNElYMmdReklETWQ5U1g2UF9RN0V5Vnh5Q2pDSHZJNHlqQlJGWDR6d21BZk9EZm85ZUVCZ0lMaDlUYnk0UTRwSHh6b3BFX0lWUncxTWkwZ1BVbE14bzRnVWhJRUpoSWFVSGRLTnhmWFo4V2YtcEFNTGk2VFZnQXBpVUhBNzRKb3hrZzBDM3VteXJnMXJHX05ZamtB?oc=5"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Reuters",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [
-        {
-          "name": "BBC Sport",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wZzctNDktLWZVNklzUHNMX1ZIVGItY01UeHJDTTZXRUNjbGVWN3FxSktXUFhTaHdKLV9IV3JkbUJma1VIREFpcFZWV1ktWHM2ejlfQmlRZFJRQ2hNQ19yc1dkWGQyZw?oc=5"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTS1DeFZVMGtNdTRZRWtZMlJ0Z3NkQkhReGk3TW1DMGtIZGpsYy1OY1c0UjIwY21WNElYMmdReklETWQ5U1g2UF9RN0V5Vnh5Q2pDSHZJNHlqQlJGWDR6d21BZk9EZm85ZUVCZ0lMaDlUYnk0UTRwSHh6b3BFX0lWUncxTWkwZ1BVbE14bzRnVWhJRUpoSWFVSGRLTnhmWFo4V2YtcEFNTGk2VFZnQXBpVUhBNzRKb3hrZzBDM3VteXJnMXJHX05ZamtB?oc=5"
-        }
-      ],
-      "id": "real-s-vinicius-apologises-after-red-card-for-hair-pull-against-villarreal"
-    },
-    {
       "published_at": "2026-10-16T16:01:49+00:00",
       "updated_at": "2026-10-16T16:01:49+00:00",
       "title": "'Our roots are Man Utd' - but FC United ethos 'more important than ever'",
@@ -392,6 +356,33 @@
       },
       "confirmed_by": [],
       "id": "under-pressure-dionisi-addresses-sacking-fake-news"
+    },
+    {
+      "published_at": "2026-10-16T07:47:56+00:00",
+      "updated_at": "2026-10-16T07:47:56+00:00",
+      "title": "Getting to know Man Utd boss Olid",
+      "summary": "It has been a whirlwind 10 weeks for Eva Olid since she became manager of Manchester United",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/70ed/live/f2087120-c8a3-11f1-a64c-550be9e3c66b.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6qxneqry885o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6qxneqry885o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "getting-to-know-man-utd-boss-olid"
     },
     {
       "published_at": "2026-10-16T21:40:00+00:00",
@@ -573,6 +564,33 @@
       },
       "confirmed_by": [],
       "id": "rosengren-vet-inte-hur-m-nga-tr-nare-jag-haft-i-mff-bollklubben"
+    },
+    {
+      "published_at": "2026-10-12T13:06:00+00:00",
+      "updated_at": "2026-10-12T13:06:00+00:00",
+      "title": "Uppgifter: Courtois förlänger",
+      "summary": "Uppgifter: Courtois förlänger Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-courtois-f-rl-nger"
     },
     {
       "published_at": "2026-10-11T21:52:11+00:00",
@@ -983,6 +1001,33 @@
       "id": "djurg-rdens-derbyfirande-v-cker-starka-reaktioner"
     },
     {
+      "published_at": "2026-10-16T17:51:10+00:00",
+      "updated_at": "2026-10-16T17:51:10+00:00",
+      "title": "Serie A: Frosinone vs. Sassuolo – Confirmed line-ups and updates",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "serie-a-frosinone-vs-sassuolo-confirmed-line-ups-and-updates"
+    },
+    {
       "published_at": "2026-10-14T15:30:30+00:00",
       "updated_at": "2026-10-14T15:30:30+00:00",
       "title": "Tresoldi’s first coach reveals 12-year-old rejected by Milan, Juventus and more",
@@ -1011,37 +1056,10 @@
       "id": "tresoldi-s-first-coach-reveals-12-year-old-rejected-by-milan-juventus-and-more"
     },
     {
-      "published_at": "2026-10-11T17:35:30+00:00",
-      "updated_at": "2026-10-11T17:35:30+00:00",
-      "title": "Serie A: Cagliari vs. Juventus – Confirmed line-ups",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "serie-a-cagliari-vs-juventus-confirmed-line-ups"
-    },
-    {
       "published_at": "2026-10-16T21:55:00+00:00",
       "updated_at": "2026-10-16T21:55:00+00:00",
       "title": "Burnley’s winless run at home to pass one-year mark after Wolves fightback",
-      "summary": "The Wolves substitute Tawanda Chirewa struck within seconds of coming off the bench as César Peixoto’s side came from behind to extend Burnley’s home misery at Turf Moor to 21 games without a win. Chirewa had just replaced Sean Neave in the 72nd minute when Mateus Mané pounced on Igor Julio’s heavy touch and sent the 23-year-old Zimbabwe international through to strike an angled shot, which flew into the net despite Gregoire Coudert getting his hands to the effort.",
+      "summary": "The Wolves substitute Tawanda Chirewa struck within seconds of coming off the bench as César Peixoto’s side came from behind to extend Burnley’s home misery at Turf Moor to 21 games without a win. Chirewa had just replaced Sean Neave in the 72nd minute when Mateus Mané pounced on Igor Julio’s heavy touch and sent the 23-year-old Zimbabwe international through to strike an angled shot, which flew into the net despite Grégoire Coudert getting his hands to the effort.",
       "category": [
         "Premier League"
       ],
@@ -1635,8 +1653,8 @@
       "id": "pl-predictions-back-buzzing-brentford-to-sting-liverpool"
     },
     {
-      "published_at": "2026-10-16T21:39:00+00:00",
-      "updated_at": "2026-10-16T21:39:00+00:00",
+      "published_at": "2026-10-16T22:05:54+00:00",
+      "updated_at": "2026-10-16T22:05:54+00:00",
       "title": "Uppgifter: Juventus vill låna Bernardo Silva",
       "summary": "Uppgifter: Juventus vill låna Bernardo Silva Fotbollskanalen",
       "category": [
@@ -1690,10 +1708,10 @@
       "id": "karl-r-jer-klopps-mobilf-rbud-finns-flera-regler"
     },
     {
-      "published_at": "2026-10-16T14:57:00+00:00",
-      "updated_at": "2026-10-16T14:57:00+00:00",
-      "title": "Felix Eriksson tillbaka för Blåvitt",
-      "summary": "Felix Eriksson tillbaka för Blåvitt Fotbollskanalen",
+      "published_at": "2026-10-16T17:56:36+00:00",
+      "updated_at": "2026-10-16T17:56:36+00:00",
+      "title": "Officiellt: Oddevold värvar Timi Destiny",
+      "summary": "Officiellt: Oddevold värvar Timi Destiny Fotbollskanalen",
       "category": [
         "Sverige"
       ],
@@ -1714,34 +1732,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "felix-eriksson-tillbaka-f-r-bl-vitt"
-    },
-    {
-      "published_at": "2026-10-16T13:38:00+00:00",
-      "updated_at": "2026-10-16T13:38:00+00:00",
-      "title": "Kamanzi talar ut om frånvaron: \"Inte blivit som jag har velat\"",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "kamanzi-talar-ut-om-fr-nvaron-inte-blivit-som-jag-har-velat"
+      "id": "officiellt-oddevold-v-rvar-timi-destiny"
     },
     {
       "published_at": "2026-10-16T16:40:30+00:00",
