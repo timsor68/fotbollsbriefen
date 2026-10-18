@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T23:48:19.972714+00:00",
+  "updated_at": "2026-10-18T03:27:26.720857+00:00",
   "items": [
     {
       "published_at": "2026-10-17T17:00:00+00:00",
@@ -401,6 +401,42 @@
       },
       "confirmed_by": [],
       "id": "papers-gyokeres-keen-to-leave-arsenal"
+    },
+    {
+      "published_at": "2026-10-17T19:11:53+00:00",
+      "updated_at": "2026-10-17T19:11:53+00:00",
+      "title": "Barcelona keep perfect LaLiga record with five-goal romp at Betis",
+      "summary": "Read the full report at Reuters.",
+      "category": [
+        "La Liga"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "barcelona",
+      "image": "",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQekIyd0dRdV9abTA4NTlKVENOWHUxOHRsN1hNWlN6QnpUbXU1amprYTk1SE5MelJOam0zTEc1TzU0ZVFtQ1RLSmxxdGNZaUhsanlpMlJSUTdNTHl5Rl9JTzR0RS1FUkZfY19tb19HWWxOM294Zmt0SHE2UWcwM1V4U1poQmo3TlJMd3lrWWdUcUVsV01aY1J1d1gtb181QU9VTmc?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Reuters",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQekIyd0dRdV9abTA4NTlKVENOWHUxOHRsN1hNWlN6QnpUbXU1amprYTk1SE5MelJOam0zTEc1TzU0ZVFtQ1RLSmxxdGNZaUhsanlpMlJSUTdNTHl5Rl9JTzR0RS1FUkZfY19tb19HWWxOM294Zmt0SHE2UWcwM1V4U1poQmo3TlJMd3lrWWdUcUVsV01aY1J1d1gtb181QU9VTmc?oc=5"
+        }
+      ],
+      "id": "barcelona-keep-perfect-laliga-record-with-five-goal-romp-at-betis"
     },
     {
       "published_at": "2026-10-17T18:45:00+00:00",
@@ -1011,33 +1047,6 @@
       "id": "rangers-miss-chance-to-go-top-as-jones-earns-dundee-a-point"
     },
     {
-      "published_at": "2026-10-17T18:51:43+00:00",
-      "updated_at": "2026-10-17T18:51:43+00:00",
-      "title": "Barca keep perfect LaLiga record with five-goal romp at Betis",
-      "summary": "Read the full report at Reuters.",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Reuters",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "barca-keep-perfect-laliga-record-with-five-goal-romp-at-betis"
-    },
-    {
       "published_at": "2026-10-14T07:00:00+00:00",
       "updated_at": "2026-10-14T07:00:00+00:00",
       "title": "Smäll för Liverpool: Frimpong och Szoboszlai skadade",
@@ -1320,8 +1329,62 @@
       "id": "jose-mourinho-s-real-madrid-need-big-changes-does-he-have-the-power-to-make-them"
     },
     {
-      "published_at": "2026-10-13T21:25:48+00:00",
-      "updated_at": "2026-10-13T21:25:48+00:00",
+      "published_at": "2026-10-14T07:18:28+00:00",
+      "updated_at": "2026-10-14T07:18:28+00:00",
+      "title": "Roma fell head over heels for Mourinho, but they’re a genuine Serie A contender under Gasperini",
+      "summary": "Read the full report at The Athletic.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "roma-fell-head-over-heels-for-mourinho-but-they-re-a-genuine-serie-a-contender-under-gaspe"
+    },
+    {
+      "published_at": "2026-10-13T09:11:18+00:00",
+      "updated_at": "2026-10-13T09:11:18+00:00",
+      "title": "The Champions League is back. What might you have missed and what should you look out for?",
+      "summary": "Read the full report at The Athletic.",
+      "category": [
+        "Football"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "the-champions-league-is-back-what-might-you-have-missed-and-what-should-you-look-out-for"
+    },
+    {
+      "published_at": "2026-10-13T04:26:05+00:00",
+      "updated_at": "2026-10-13T04:26:05+00:00",
       "title": "Will this be Diego Simeone’s last season at Atletico Madrid?",
       "summary": "Read the full report at The Athletic.",
       "category": [
@@ -1456,8 +1519,8 @@
       "id": "uppgifter-juventus-vill-l-na-bernardo-silva"
     },
     {
-      "published_at": "2026-10-17T20:08:32+00:00",
-      "updated_at": "2026-10-17T20:08:32+00:00",
+      "published_at": "2026-10-17T19:34:23+00:00",
+      "updated_at": "2026-10-17T19:34:23+00:00",
       "title": "AIK och Blåvitt kryssade - Kouame sen poängräddare",
       "summary": "AIK och Blåvitt kryssade - Kouame sen poängräddare Fotbollskanalen",
       "category": [
