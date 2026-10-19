@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T00:53:11.873685+00:00",
+  "updated_at": "2026-10-19T05:48:45.980794+00:00",
   "items": [
     {
       "published_at": "2026-10-18T18:31:09+00:00",
@@ -110,10 +110,10 @@
       "id": "real-madrid-fail-in-appeal-against-vinicius-junior-four-game-ban"
     },
     {
-      "published_at": "2026-10-18T22:26:00+00:00",
-      "updated_at": "2026-10-18T22:26:00+00:00",
-      "title": "Football Daily",
-      "summary": "Paul Robinson joins to discuss Brighton and Lloyd making history, and Leeds v Man United",
+      "published_at": "2026-10-19T05:00:00+00:00",
+      "updated_at": "2026-10-19T05:00:00+00:00",
+      "title": "Euro Leagues",
+      "summary": "Mikey Moore is on loan at Cologne from Spurs - and loving life in the Bundesliga",
       "category": [
         "Football"
       ],
@@ -121,6 +121,33 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
+      "image": "https://ichef.bbci.co.uk/images/ic/1024x576/p0p4zrww.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sounds/play/p0ph7nfj?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sounds/play/p0ph7nfj?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "euro-leagues"
+    },
+    {
+      "published_at": "2026-10-18T22:26:00+00:00",
+      "updated_at": "2026-10-18T22:26:00+00:00",
+      "title": "Free-scoring Brighton & Man Utd settle for a point",
+      "summary": "Paul Robinson joins to discuss Brighton and Lloyd making history, and Leeds v Man United",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
       "image": "https://ichef.bbci.co.uk/images/ic/1024x576/p0pgvdbk.jpg",
       "sources": [
         {
@@ -134,7 +161,7 @@
         "url": "https://www.bbc.co.uk/sounds/play/p0phbswc?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "football-daily"
+      "id": "free-scoring-brighton-man-utd-settle-for-a-point"
     },
     {
       "published_at": "2026-10-18T20:50:09+00:00",
@@ -270,33 +297,6 @@
       },
       "confirmed_by": [],
       "id": "liverpool-players-in-delicate-situation-with-demanding-schedule-iraola"
-    },
-    {
-      "published_at": "2026-10-17T07:16:49+00:00",
-      "updated_at": "2026-10-17T07:16:49+00:00",
-      "title": "'I had so many medals under the bed' - Green on Chelsea success",
-      "summary": "When Paul Green left Chelsea after 13 years, he had achieved so much success that the majority of his medals were hidden away in a box under the bed",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "chelsea",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/45c0/live/d2f7da50-c93e-11f1-8c38-abe947e72d6d.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cj5ynpgzly7no?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cj5ynpgzly7no?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "i-had-so-many-medals-under-the-bed-green-on-chelsea-success"
     },
     {
       "published_at": "2026-10-18T09:00:45+00:00",
@@ -916,6 +916,42 @@
       "id": "serie-a-sides-endure-humbling-champions-league-match-day"
     },
     {
+      "published_at": "2026-10-16T05:46:00+00:00",
+      "updated_at": "2026-10-16T05:46:00+00:00",
+      "title": "Smällen: Martinez missar flera matcher",
+      "summary": "IK Sirius får fortsatt klara sig utan Jesper Uneken. Den nederländske anfallaren har påbörjat sin återgångsträning, men väntas inte vara tillbaka i spel förrän om två veckor",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/ik-sirius-far-klara-sig-utan-jesper-uneken-missar-flera-matcher-702031"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/ik-sirius-far-klara-sig-utan-jesper-uneken-missar-flera-matcher-702031"
+        }
+      ],
+      "id": "sm-llen-martinez-missar-flera-matcher"
+    },
+    {
       "published_at": "2026-10-14T17:15:00+00:00",
       "updated_at": "2026-10-14T17:15:00+00:00",
       "title": "IK Uppsalas besked i krisen - lägger ner klubben efter säsongen",
@@ -950,6 +986,60 @@
         }
       ],
       "id": "ik-uppsalas-besked-i-krisen-l-gger-ner-klubben-efter-s-songen"
+    },
+    {
+      "published_at": "2026-10-19T04:18:48+00:00",
+      "updated_at": "2026-10-19T04:18:48+00:00",
+      "title": "Uppgivet i Mjällby: ”Nu är allt bara mörkt”",
+      "summary": "Åtta raka utan seger i allsvenskan. Samtidigt spelar Mjällby i Europa – och nu väntar en tuff bortaresa. – Just nu är jag inte ”görsugen” på att åka till Georgien, konstaterar Tom Pettersson",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.77/0.2/6b68d19afdb7e62a10b0419f2c70aa1cf0ebb5769ccf6adc90f223c3a273373e",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/uppgivet-i-mjallby-nu-ar-allt-bara-morkt"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/uppgivet-i-mjallby-nu-ar-allt-bara-morkt"
+      },
+      "confirmed_by": [],
+      "id": "uppgivet-i-mj-llby-nu-r-allt-bara-m-rkt"
+    },
+    {
+      "published_at": "2026-10-19T03:30:00+00:00",
+      "updated_at": "2026-10-19T03:30:00+00:00",
+      "title": "Fotbollskvällar i Upplands Väsby en succé – kommunen bryter med arrangör",
+      "summary": "Med hjälp av fotboll, kroppsvisitationer och Tupacs bror har Upplands Väsby blivit lugnare, enligt kommunen. Men nu bryter man med organisationen bakom succén, Back on track, och framtiden för fotbollskvällarna är oviss",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/2859ee801e32fd98092f99b35b5aafca80de985f70aee9e2b132978a49250022",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/nyheter/lokalt/stockholm/fotbollskvallar-i-upplands-vasby-en-succe-kommunen-bryter-med-arrangor"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/nyheter/lokalt/stockholm/fotbollskvallar-i-upplands-vasby-en-succe-kommunen-bryter-med-arrangor"
+      },
+      "confirmed_by": [],
+      "id": "fotbollskv-llar-i-upplands-v-sby-en-succ-kommunen-bryter-med-arrang-r"
     },
     {
       "published_at": "2026-10-18T16:22:30+00:00",
@@ -1141,71 +1231,17 @@
       "id": "mj-llbys-kvittering-bortd-md-ttonde-segerl-sa-matchen"
     },
     {
-      "published_at": "2026-10-18T13:50:40+00:00",
-      "updated_at": "2026-10-18T13:50:40+00:00",
-      "title": "Joakim Persson med dubbla fullträffar när Sirius tappade poäng sent",
-      "summary": "Efter två mål på tre minuter från Joakim Persson såg Sirius ut att vara på väg mot tre tunga poäng i guldstriden. Men Elfsborgs stekhete anfallare Leo Östman kvitterade sent och ordnade en pinne till Boråslaget på Studenternas. – Två onödiga mål, just nu känns det som två förlorade poäng, säger Sirius Marcus Lindberg till SVT Sport",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.21/0.25/d1978d1586fcb575ceb24f39722f16d76ceeedf23266264f3e2b55253a782f13",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/joakim-persson-med-dubbla-fulltraffar-nar-sirius-tappade-poang-sent"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/joakim-persson-med-dubbla-fulltraffar-nar-sirius-tappade-poang-sent"
-      },
-      "confirmed_by": [],
-      "id": "joakim-persson-med-dubbla-fulltr-ffar-n-r-sirius-tappade-po-ng-sent"
-    },
-    {
-      "published_at": "2026-10-18T12:34:51+00:00",
-      "updated_at": "2026-10-18T12:34:51+00:00",
-      "title": "David Fällman om firandet efter FC Stockholms uppflyttning",
-      "summary": "FC Stockholm är för första gången i klubbens historia uppe i superettan. Avancemanget säkrades efter kryss mot Gefle i går. – Det blev mycket dryck och mycket skrik, säger veteranen David Fällman om firandet",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.22/0.44/7e045575e889985109af652c2eaf4622006e0bf4e003baf258084d7e2f9d5e63",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/david-fallman-om-firandet-efter-fc-stockholms-uppflyttning"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/david-fallman-om-firandet-efter-fc-stockholms-uppflyttning"
-      },
-      "confirmed_by": [],
-      "id": "david-f-llman-om-firandet-efter-fc-stockholms-uppflyttning"
-    },
-    {
-      "published_at": "2026-10-15T12:01:43+00:00",
-      "updated_at": "2026-10-15T12:01:43+00:00",
-      "title": "Jose Mourinho’s Real Madrid need big changes. Does he have the power to make them?",
+      "published_at": "2026-10-14T07:18:28+00:00",
+      "updated_at": "2026-10-14T07:18:28+00:00",
+      "title": "Roma fell head over heels for Mourinho, but they’re a genuine Serie A contender under Gasperini",
       "summary": "Read the full report at The Athletic.",
       "category": [
-        "La Liga"
+        "Serie A"
       ],
       "status": "Highly credible",
       "entity": "",
       "entity_type": "players",
-      "club": "real-madrid",
+      "club": "",
       "image": "",
       "sources": [
         {
@@ -1219,7 +1255,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "jose-mourinho-s-real-madrid-need-big-changes-does-he-have-the-power-to-make-them"
+      "id": "roma-fell-head-over-heels-for-mourinho-but-they-re-a-genuine-serie-a-contender-under-gaspe"
     },
     {
       "published_at": "2026-10-13T04:26:05+00:00",
@@ -1493,12 +1529,13 @@
       "id": "pl-predictions-spurs-to-bag-rare-home-win-on-mnf"
     },
     {
-      "published_at": "2026-10-18T21:12:00+00:00",
-      "updated_at": "2026-10-18T21:12:00+00:00",
-      "title": "Straff-fest i Paris FC-Rennes",
-      "summary": "Straff-fest i Paris FC-Rennes Fotbollskanalen",
+      "published_at": "2026-10-19T05:03:00+00:00",
+      "updated_at": "2026-10-19T05:03:00+00:00",
+      "title": "Uppgifter: Man United redo att förstärka i vinter",
+      "summary": "Uppgifter: Man United redo att förstärka i vinter Fotbollskanalen",
       "category": [
-        "Sverige"
+        "Sverige",
+        "Serie A"
       ],
       "status": "Reported",
       "entity": "",
@@ -1517,7 +1554,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "straff-fest-i-paris-fc-rennes"
+      "id": "uppgifter-man-united-redo-att-f-rst-rka-i-vinter"
     },
     {
       "published_at": "2026-10-18T20:38:00+00:00",
@@ -1546,33 +1583,6 @@
       },
       "confirmed_by": [],
       "id": "gattusos-fortsatta-succ-lazio-bortaslog-juventus"
-    },
-    {
-      "published_at": "2026-10-18T20:05:00+00:00",
-      "updated_at": "2026-10-18T20:05:00+00:00",
-      "title": "Gyökeres får bättre betyg än Havertz - efter inhoppet",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "gy-keres-f-r-b-ttre-betyg-n-havertz-efter-inhoppet"
     },
     {
       "published_at": "2026-10-18T22:29:00+00:00",
