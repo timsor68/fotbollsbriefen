@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-10-24T10:26:40.711219+00:00",
+  "updated_at": "2026-10-24T14:17:44.348766+00:00",
   "items": [
+    {
+      "published_at": "2026-10-24T10:03:59+00:00",
+      "updated_at": "2026-10-24T10:03:59+00:00",
+      "title": "Kompany recovery will take 'weeks' as tests continue",
+      "summary": "Vincent Kompany remains stable in hospital as doctors run tests following his collapse on Friday, says Bayern Munich director Max Eberl",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fb52/live/7a368340-cf8c-11f1-bef0-7f8eb636c50b.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm2l4vq9k84yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13602757/vincent-kompany-bayern-munich-boss-taken-to-hospital-after-collapsing-at-training-ground"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cm2l4vq9k84yo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13602757/vincent-kompany-bayern-munich-boss-taken-to-hospital-after-collapsing-at-training-ground"
+        }
+      ],
+      "id": "kompany-recovery-will-take-weeks-as-tests-continue"
+    },
     {
       "published_at": "2026-10-23T16:39:03+00:00",
       "updated_at": "2026-10-23T16:39:03+00:00",
@@ -149,10 +185,37 @@
       "id": "u-s-group-agrees-to-buy-42-per-cent-stake-in-valencia-valuing-spanish-club-at-1-25bn"
     },
     {
-      "published_at": "2026-10-24T10:03:59+00:00",
-      "updated_at": "2026-10-24T10:03:59+00:00",
-      "title": "Kompany recovery will take 'weeks' as tests continue",
-      "summary": "Vincent Kompany remains stable in hospital as doctors run tests following his collapse on Friday, says Bayern Munich director Max Eberl",
+      "published_at": "2026-10-21T11:21:45+00:00",
+      "updated_at": "2026-10-21T11:21:45+00:00",
+      "title": "Betis' Bernal handed four-game ban for sending off against Barcelona",
+      "summary": "Read the full report at Reuters.",
+      "category": [
+        "La Liga"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "barcelona",
+      "image": "",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Reuters",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "betis-bernal-handed-four-game-ban-for-sending-off-against-barcelona"
+    },
+    {
+      "published_at": "2026-10-24T11:14:04+00:00",
+      "updated_at": "2026-10-24T11:14:04+00:00",
+      "title": "Ferguson's first game as Glentoran boss postponed",
+      "summary": "Duncan Ferguson's first game as Glentoran manager against Ballymena United is off because of a waterlogged pitch",
       "category": [
         "Football"
       ],
@@ -160,20 +223,20 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fb52/live/7a368340-cf8c-11f1-bef0-7f8eb636c50b.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8f31/live/663e1af0-cf9c-11f1-99e0-bfcc419a6039.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm2l4vq9k84yo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/articles/cmy4x7zvv28ko?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm2l4vq9k84yo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/articles/cmy4x7zvv28ko?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [],
-      "id": "kompany-recovery-will-take-weeks-as-tests-continue"
+      "id": "ferguson-s-first-game-as-glentoran-boss-postponed"
     },
     {
       "published_at": "2026-10-23T22:21:51+00:00",
@@ -312,33 +375,6 @@
       "id": "jude-bellingham-real-madrid-midfielder-holds-positive-talks-over-contract-extension"
     },
     {
-      "published_at": "2026-10-23T12:15:53+00:00",
-      "updated_at": "2026-10-23T12:15:53+00:00",
-      "title": "Conte plays down 'unfounded' Man Utd speculation",
-      "summary": "Antonio Conte says he is not in advanced talks with any club, in response to speculation he has held talks with Manchester United",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6cfa/live/0badff10-cede-11f1-b90b-55df5472350e.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cmvg6j8jezn7o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cmvg6j8jezn7o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "conte-plays-down-unfounded-man-utd-speculation"
-    },
-    {
       "published_at": "2026-10-23T18:55:09+00:00",
       "updated_at": "2026-10-23T18:55:09+00:00",
       "title": "Här surnar Anders Christiansen – på Björn Hamberg",
@@ -364,33 +400,6 @@
       },
       "confirmed_by": [],
       "id": "h-r-surnar-anders-christiansen-p-bj-rn-hamberg"
-    },
-    {
-      "published_at": "2026-10-21T12:29:11+00:00",
-      "updated_at": "2026-10-21T12:29:11+00:00",
-      "title": "Cesc Fàbregas slår ner på frågan: ”Är respektlöst”",
-      "summary": "Cesc Fàbregas gör succé som tränare i Como och har ryktats till större klubbar. Inför kvällens Champions League-möte med Manchester United röt spanjoren ifrån mot en journalist. – Det där tycker jag inte är en trevlig fråga, säger Fàbregas",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.66/0.45/7f3c0e10c5e10379faf7ad43c7bc7ad5e7197226dd04521df58ad6fa1b79f9de",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/cesc-fabregas-slar-ner-pa-fragan-ar-respektlost"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/cesc-fabregas-slar-ner-pa-fragan-ar-respektlost"
-      },
-      "confirmed_by": [],
-      "id": "cesc-f-bregas-sl-r-ner-p-fr-gan-r-respektl-st"
     },
     {
       "published_at": "2026-10-23T21:33:21+00:00",
@@ -483,33 +492,6 @@
       "id": "papers-howe-is-wilcox-s-choice-if-united-replace-carrick"
     },
     {
-      "published_at": "2026-10-22T16:35:00+00:00",
-      "updated_at": "2026-10-22T16:35:00+00:00",
-      "title": "How Grant is using his experience in Charlton homecoming",
-      "summary": "\"It's nice to be home,\" is Karlan Grant's reply when asked how the last few months have been sign he re-joined Charlton in the summer",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/10/1600x900/skysports-efl-championship_7381476.jpg?20261020105052",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13601852/karlan-grant-charlton-forward-on-returning-to-the-club-and-facing-norwich-on-red-white-and-black-weekend"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13601852/karlan-grant-charlton-forward-on-returning-to-the-club-and-facing-norwich-on-red-white-and-black-weekend"
-      },
-      "confirmed_by": [],
-      "id": "how-grant-is-using-his-experience-in-charlton-homecoming"
-    },
-    {
       "published_at": "2026-10-22T09:51:00+00:00",
       "updated_at": "2026-10-22T09:51:00+00:00",
       "title": "How will Arsenal cope without Saka?",
@@ -537,8 +519,8 @@
       "id": "how-will-arsenal-cope-without-saka"
     },
     {
-      "published_at": "2026-10-24T09:06:19+00:00",
-      "updated_at": "2026-10-24T09:06:19+00:00",
+      "published_at": "2026-10-24T12:16:19+00:00",
+      "updated_at": "2026-10-24T12:16:19+00:00",
       "title": "Heier: \"Ska bli erbjuden ett tredje kontrakt\"",
       "summary": "Heier: \"Ska bli erbjuden ett tredje kontrakt\" Fotbollskanalen",
       "category": [
@@ -616,6 +598,34 @@
       },
       "confirmed_by": [],
       "id": "alaba-skadad-efter-62-minuter"
+    },
+    {
+      "published_at": "2026-10-19T07:28:00+00:00",
+      "updated_at": "2026-10-19T07:28:00+00:00",
+      "title": "Berahino lägger av - blir tränare i landslag",
+      "summary": "Berahino lägger av - blir tränare i landslag Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "Coach"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "berahino-l-gger-av-blir-tr-nare-i-landslag"
     },
     {
       "published_at": "2026-10-23T18:50:13+00:00",
@@ -961,6 +971,33 @@
       "id": "today-s-papers-juventus-injury-crisis-deepens-as-torino-fly"
     },
     {
+      "published_at": "2026-10-23T20:29:53+00:00",
+      "updated_at": "2026-10-23T20:29:53+00:00",
+      "title": "Kaio Jorge: ‘Without the injury I’d still be at Juventus, I’d do much better now’",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "kaio-jorge-without-the-injury-i-d-still-be-at-juventus-i-d-do-much-better-now"
+    },
+    {
       "published_at": "2026-10-23T11:59:42+00:00",
       "updated_at": "2026-10-23T11:59:42+00:00",
       "title": "Conte hits out after Manchester United links: ‘No negotiations at an advanced stage’",
@@ -988,36 +1025,9 @@
       "id": "conte-hits-out-after-manchester-united-links-no-negotiations-at-an-advanced-stage"
     },
     {
-      "published_at": "2026-10-18T12:17:32+00:00",
-      "updated_at": "2026-10-18T12:17:32+00:00",
-      "title": "Official: Spalletti confirms 23-man Juventus squad to take on Lazio",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "official-spalletti-confirms-23-man-juventus-squad-to-take-on-lazio"
-    },
-    {
-      "published_at": "2026-10-23T13:51:03+00:00",
-      "updated_at": "2026-10-23T13:51:03+00:00",
-      "title": "Mourinho seeks Real Madrid turning point in Clasico full of new faces",
+      "published_at": "2026-10-17T19:11:53+00:00",
+      "updated_at": "2026-10-17T19:11:53+00:00",
+      "title": "Barcelona keep perfect LaLiga record with five-goal romp at Betis",
       "summary": "Read the full report at Reuters.",
       "category": [
         "La Liga"
@@ -1025,7 +1035,7 @@
       "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
-      "club": "real-madrid",
+      "club": "barcelona",
       "image": "",
       "sources": [
         {
@@ -1039,7 +1049,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "mourinho-seeks-real-madrid-turning-point-in-clasico-full-of-new-faces"
+      "id": "barcelona-keep-perfect-laliga-record-with-five-goal-romp-at-betis"
     },
     {
       "published_at": "2026-10-22T13:31:00+00:00",
@@ -1076,6 +1086,70 @@
         }
       ],
       "id": "beskedet-yasin-borta-resten-av-s-songen"
+    },
+    {
+      "published_at": "2026-10-21T09:01:00+00:00",
+      "updated_at": "2026-10-21T09:01:00+00:00",
+      "title": "\"Trots tajt schema - Arsenal given spik i Premier League\"",
+      "summary": "⚽ Updates from Saturday’s action around the grounds ⚽ Ten things to look out for | Scores | Tables | Mail Billy Arsenal hit back! Alessia Russo picks out Georgia Stanway as she advances into the box and the ex-Bayern midfielder guides her shot on target. Lize Kop should probably do better in the Spurs goal – she palmed it into the top corner to make it look better than it was.",
+      "category": [
+        "Sverige",
+        "Premier League"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/oct/24/tottenham-arsenal-wsl-premier-league-efl-football-clockwatch-live"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/oct/24/tottenham-arsenal-wsl-premier-league-efl-football-clockwatch-live"
+        }
+      ],
+      "id": "trots-tajt-schema-arsenal-given-spik-i-premier-league"
+    },
+    {
+      "published_at": "2026-10-24T14:01:16+00:00",
+      "updated_at": "2026-10-24T14:01:16+00:00",
+      "title": "Alessia Russo hjälte i Londonderbyt",
+      "summary": "Från elva meter säkrade hon tre poäng för Arsenal. Vi är det bättre laget, säger Tottenhams Matilda Vinberg",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.65/0.25/81cf37b2681a2b445797f38ad1a94cf7a182dd5e792684460739d2ff78b92e10",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/alessia-russo-hjalte-i-londonderbyt"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/alessia-russo-hjalte-i-londonderbyt"
+      },
+      "confirmed_by": [],
+      "id": "alessia-russo-hj-lte-i-londonderbyt"
     },
     {
       "published_at": "2026-10-24T06:36:09+00:00",
@@ -1240,18 +1314,17 @@
       "id": "mj-llby-fick-medstuds-grejade-po-ng-i-89-e-minuten"
     },
     {
-      "published_at": "2026-10-20T07:00:00+00:00",
-      "updated_at": "2026-10-20T07:00:00+00:00",
-      "title": "Paris Saint-Germain are a much more rested football team than Arsenal – but does it matter?",
+      "published_at": "2026-10-22T10:00:31+00:00",
+      "updated_at": "2026-10-22T10:00:31+00:00",
+      "title": "Trent Alexander-Arnold’s Real Madrid adventure is not working out",
       "summary": "Read the full report at The Athletic.",
       "category": [
-        "Premier League",
-        "Ligue 1"
+        "La Liga"
       ],
       "status": "Highly credible",
       "entity": "",
       "entity_type": "players",
-      "club": "arsenal",
+      "club": "real-madrid",
       "image": "",
       "sources": [
         {
@@ -1265,7 +1338,171 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "paris-saint-germain-are-a-much-more-rested-football-team-than-arsenal-but-does-it-matter"
+      "id": "trent-alexander-arnold-s-real-madrid-adventure-is-not-working-out"
+    },
+    {
+      "published_at": "2026-10-21T21:05:51+00:00",
+      "updated_at": "2026-10-21T21:05:51+00:00",
+      "title": "Real Madrid 4 RB Leipzig 1: Diomande’s stunning volley and a comfortable night for Mourinho’s men",
+      "summary": "Read the full report at The Athletic.",
+      "category": [
+        "La Liga",
+        "Bundesliga"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "real-madrid",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "real-madrid-4-rb-leipzig-1-diomande-s-stunning-volley-and-a-comfortable-night-for-mourinho"
+    },
+    {
+      "published_at": "2026-10-21T20:09:01+00:00",
+      "updated_at": "2026-10-21T20:09:01+00:00",
+      "title": "Spain has dominated women’s football in recent years. Yet still the domestic league lags behind",
+      "summary": "Read the full report at The Athletic.",
+      "category": [
+        "Football"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "spain-has-dominated-women-s-football-in-recent-years-yet-still-the-domestic-league-lags-be"
+    },
+    {
+      "published_at": "2026-10-21T11:30:10+00:00",
+      "updated_at": "2026-10-21T11:30:10+00:00",
+      "title": "Barcelona can celebrate Xavi Espart and La Masia, despite Champions League defeat at PSG",
+      "summary": "Read the full report at The Athletic.",
+      "category": [
+        "La Liga",
+        "Ligue 1"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "barcelona",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "barcelona-can-celebrate-xavi-espart-and-la-masia-despite-champions-league-defeat-at-psg"
+    },
+    {
+      "published_at": "2026-10-20T07:00:00+00:00",
+      "updated_at": "2026-10-20T07:00:00+00:00",
+      "title": "Lamine Yamal adds to his collection of masterpieces with arguably his best goal yet",
+      "summary": "Read the full report at The Athletic.",
+      "category": [
+        "Football"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "lamine-yamal-adds-to-his-collection-of-masterpieces-with-arguably-his-best-goal-yet"
+    },
+    {
+      "published_at": "2026-10-19T15:37:09+00:00",
+      "updated_at": "2026-10-19T15:37:09+00:00",
+      "title": "Real Madrid and Javier Tebas’ ‘Nazi propaganda’ row raises tensions for El Clasico",
+      "summary": "Read the full report at The Athletic.",
+      "category": [
+        "La Liga"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "real-madrid",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "real-madrid-and-javier-tebas-nazi-propaganda-row-raises-tensions-for-el-clasico"
+    },
+    {
+      "published_at": "2026-10-19T11:30:41+00:00",
+      "updated_at": "2026-10-19T11:30:41+00:00",
+      "title": "Are Real Madrid better without Vinicius Junior?",
+      "summary": "Are Real Madrid better without Vinicius Junior? The New York Times",
+      "category": [
+        "La Liga"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "real-madrid",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "are-real-madrid-better-without-vinicius-junior"
     },
     {
       "published_at": "2026-10-22T17:00:00+00:00",
@@ -1484,9 +1721,36 @@
       "id": "defiant-carrick-denies-dressing-room-divide-and-backs-himself-to-turn-man-utd-around"
     },
     {
-      "published_at": "2026-10-24T09:07:04+00:00",
-      "updated_at": "2026-10-24T09:07:04+00:00",
-      "title": "Så mycket har MFF:s snittålder sänkts: \"Öppnat dörren\"",
+      "published_at": "2026-10-22T23:30:00+00:00",
+      "updated_at": "2026-10-22T23:30:00+00:00",
+      "title": "PL Predictions: Expect a feisty SNF affair at the Bridge",
+      "summary": "Our top tipster Lewis Jones, aka Jones Knows, provides his analysis and betting insight for a busy weekend of Premier League action",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/10/1600x900/skysports-premier-league-predictions_7385438.jpg?20261024123906",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13602410/premier-league-predictions-jones-knows-best-bets-tottenham-vs-chelsea-brighton-vs-liverpool-man-utd-vs-bournemouth-and-much-more"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13602410/premier-league-predictions-jones-knows-best-bets-tottenham-vs-chelsea-brighton-vs-liverpool-man-utd-vs-bournemouth-and-much-more"
+      },
+      "confirmed_by": [],
+      "id": "pl-predictions-expect-a-feisty-snf-affair-at-the-bridge"
+    },
+    {
+      "published_at": "2026-10-24T13:49:29+00:00",
+      "updated_at": "2026-10-24T13:49:29+00:00",
+      "title": "Unogård lämnar Växjö efter fem år: \"Vore jättekul att testa superettan\"",
       "summary": "Read the full report at Fotbollskanalen.",
       "category": [
         "Sverige"
@@ -1508,65 +1772,11 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "s-mycket-har-mff-s-snitt-lder-s-nkts-ppnat-d-rren"
+      "id": "unog-rd-l-mnar-v-xj-efter-fem-r-vore-j-ttekul-att-testa-superettan"
     },
     {
-      "published_at": "2026-10-24T08:26:15+00:00",
-      "updated_at": "2026-10-24T08:26:15+00:00",
-      "title": "\"AC\" bekräftar samtal om framtiden: \"En bra dialog\"",
-      "summary": "\"AC\" bekräftar samtal om framtiden: \"En bra dialog\" Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "ac-bekr-ftar-samtal-om-framtiden-en-bra-dialog"
-    },
-    {
-      "published_at": "2026-10-24T08:03:45+00:00",
-      "updated_at": "2026-10-24T08:03:45+00:00",
-      "title": "Tenho ser lång framtid i Dif: \"Varför inte?\"",
-      "summary": "Tenho ser lång framtid i Dif: \"Varför inte?\" Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "tenho-ser-l-ng-framtid-i-dif-varf-r-inte"
-    },
-    {
-      "published_at": "2026-10-24T07:00:00+00:00",
-      "updated_at": "2026-10-24T07:00:00+00:00",
+      "published_at": "2026-10-24T11:28:00+00:00",
+      "updated_at": "2026-10-24T11:28:00+00:00",
       "title": "Older, calmer, but still playing the hits: Mourinho and Madrid primed for clásico",
       "summary": "Read the full report at The Guardian.",
       "category": [
@@ -1619,34 +1829,6 @@
       "id": "cathinka-tandberg-spurs-fans-hate-arsenal-that-s-how-it-is"
     },
     {
-      "published_at": "2026-10-20T17:17:00+00:00",
-      "updated_at": "2026-10-20T17:17:00+00:00",
-      "title": "‘Leaving England is scary but I’m here to win’: Charlie Cresswell on Ligue 1 life and his international dream",
-      "summary": "Read the full report at The Guardian.",
-      "category": [
-        "Serie A",
-        "Ligue 1"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "leaving-england-is-scary-but-i-m-here-to-win-charlie-cresswell-on-ligue-1-life-and-his-int"
-    },
-    {
       "published_at": "2026-10-20T10:04:53+00:00",
       "updated_at": "2026-10-20T10:04:53+00:00",
       "title": "David Squires on … Manchester City sailing into unknown Premier League waters",
@@ -1672,6 +1854,168 @@
       },
       "confirmed_by": [],
       "id": "david-squires-on-manchester-city-sailing-into-unknown-premier-league-waters"
+    },
+    {
+      "published_at": "2026-10-19T17:29:00+00:00",
+      "updated_at": "2026-10-19T17:29:00+00:00",
+      "title": "Will that do? Lamine Yamal conjures another magical spell as Barça pass first test | Sid Lowe",
+      "summary": "Read the full report at The Guardian.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "will-that-do-lamine-yamal-conjures-another-magical-spell-as-bar-a-pass-first-test-sid-lowe"
+    },
+    {
+      "published_at": "2026-10-24T13:37:50+00:00",
+      "updated_at": "2026-10-24T13:37:50+00:00",
+      "title": "Bildextra från det mållösa mötet med Malmö FF",
+      "summary": "Det blev en händelsefattig tillställning på Borås Arena när IF Elfsborg och Malmö FF spelade 0–0. Här kommer Elfsborgsredaktionens Elis Johanssons bilder från matchen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/OxDPAuSbGqVoO3oaBcKSiFLsn5L99uRbH6YbqTaw.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/bildextra-fran-det-mallosa-motet-med-malmo-ff-702315"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/bildextra-fran-det-mallosa-motet-med-malmo-ff-702315"
+      },
+      "confirmed_by": [],
+      "id": "bildextra-fr-n-det-m-ll-sa-m-tet-med-malm-ff"
+    },
+    {
+      "published_at": "2026-10-24T13:13:22+00:00",
+      "updated_at": "2026-10-24T13:13:22+00:00",
+      "title": "Tankar inför stormvarning på Listerlandet",
+      "summary": "Det vilar något av en grå, blöt yllefilt över Hammarby för tillfället. Guldet är i det närmaste helt kört för damerna, HTFF är efter en rejäl dipp tredjeplatsförankrade i Ettan Norra och gällande herrarna… Ja, det är bara att konstatera att halmstrået till rejäl guldvittring i det närmaste försvann helt i samband derbytorsken mot Hyresgästerna. Vi har höga krav i Bajenland numera, med rätta.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/GasKdi2ShyzjHMX2RO92268u8X7Ykl3JvVL7z6Yf.png",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/tankar-infor-stormvarning-pa-listerlandet-702312"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/tankar-infor-stormvarning-pa-listerlandet-702312"
+      },
+      "confirmed_by": [],
+      "id": "tankar-inf-r-stormvarning-p-listerlandet"
+    },
+    {
+      "published_at": "2026-10-24T13:03:19+00:00",
+      "updated_at": "2026-10-24T13:03:19+00:00",
+      "title": "IF Elfsborg stormar mot Damallsvenskan - Stina Jensen tvåmålsskytt",
+      "summary": "IF Elfsborg fortsätter att imponera i jakten på en plats i Damallsvenskan. Under lördagen besegrades Örebro SK med 4–1 på bortaplan efter bland annat två mål av Stina Jensen. Nu känns en uppflyttning allt närmare",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/h7Xf9rDbTcVG3WC9HaAuVSFtMsFZoAKVln37v9mA.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/if-elfsborg-stormar-mot-damallsvenskan-stina-jensen-tvamalsskytt-702311"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/if-elfsborg-stormar-mot-damallsvenskan-stina-jensen-tvamalsskytt-702311"
+      },
+      "confirmed_by": [],
+      "id": "if-elfsborg-stormar-mot-damallsvenskan-stina-jensen-tv-m-lsskytt"
+    },
+    {
+      "published_at": "2026-10-24T12:22:59+00:00",
+      "updated_at": "2026-10-24T12:22:59+00:00",
+      "title": "Derbydags i Stockholm - här är startelvorna",
+      "summary": "GIF Sundsvall spelar för sin överlevnad i Superettan. Om laget förlorar kvällens möte med IK Oddevold står det klart att man åker ur den näst högsta serien. Nu har lagens startelvor presenterats",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/wezbjxtR6e9sPt5UXNU8Ibct3NA0eQoCeYYL5zJ4.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/derbydags-i-stockholm-har-ar-startelvorna-702310"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/derbydags-i-stockholm-har-ar-startelvorna-702310"
+      },
+      "confirmed_by": [],
+      "id": "derbydags-i-stockholm-h-r-r-startelvorna"
+    },
+    {
+      "published_at": "2026-10-24T11:39:52+00:00",
+      "updated_at": "2026-10-24T11:39:52+00:00",
+      "title": "Glädjebesked för GAIS - Gustav Lundgren tillbaka inför derbyt",
+      "summary": "Efter många månaders frånvaro är Gustav Lundgren äntligen tillbaka. Den 31-årige mittfältaren finns med i GAIS matchtrupp inför söndagens heta Göteborgsderby mot IFK Göteborg",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2095047.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/gladjebesked-for-gais-gustav-lundgren-tillbaka-infor-derbyt-702307"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/gladjebesked-for-gais-gustav-lundgren-tillbaka-infor-derbyt-702307"
+      },
+      "confirmed_by": [],
+      "id": "gl-djebesked-f-r-gais-gustav-lundgren-tillbaka-inf-r-derbyt"
     },
     {
       "published_at": "2026-10-24T09:20:00+00:00",
@@ -1728,144 +2072,9 @@
       "id": "moa-hman-inf-r-derbyt-bara-att-k-ra-p"
     },
     {
-      "published_at": "2026-10-23T19:30:00+00:00",
-      "updated_at": "2026-10-23T19:30:00+00:00",
-      "title": "Elfsborg - Malmö FF 0-0 - Inte jättekul",
-      "summary": "Malmö FF tog sig an formstarka Elfsborg och stod för en stark insats när matchen slutade 0-0",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2u1R2qYy9cXiMoE6Tvj9Qbvx2FXcYG3f581BNpsa.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/elfsborg-malmo-ff-702284"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/elfsborg-malmo-ff-702284"
-      },
-      "confirmed_by": [],
-      "id": "elfsborg-malm-ff-0-0-inte-j-ttekul"
-    },
-    {
-      "published_at": "2026-10-23T18:59:00+00:00",
-      "updated_at": "2026-10-23T18:59:00+00:00",
-      "title": "Dagens Allsvenskan: Sen vändning gav Halmstads BK tre poäng - mållöst i Borås",
-      "summary": "Kalmar FF fick en smakstart på bortamötet med Degerfors IF. Redan efter 17 minuter hade gästerna skaffat sig en tvåmålsledning. Hemmalaget reducerade, men Kalmar höll undan och vann med 2–1",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/1mc2GzrT8hfdBonp6w2OYqT1rLFKn25yiFYCr3t3.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/dagens-allsvenskan-sen-vandning-gav-halmstads-bk-tre-poang-mallost-i-boras-702287"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/dagens-allsvenskan-sen-vandning-gav-halmstads-bk-tre-poang-mallost-i-boras-702287"
-      },
-      "confirmed_by": [],
-      "id": "dagens-allsvenskan-sen-v-ndning-gav-halmstads-bk-tre-po-ng-m-ll-st-i-bor-s"
-    },
-    {
-      "published_at": "2026-10-23T18:56:00+00:00",
-      "updated_at": "2026-10-23T18:56:00+00:00",
-      "title": "IF Elfsborg fick nöja sig med en poäng mot Malmö FF",
-      "summary": "IF Elfsborg och Malmö FF delade på poängen under fredagskvällen. Det blev en chansfattig tillställning på Borås Arena där hemmalaget hade möjligheter att avgöra, men fick nöja sig med 0–0",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2u1R2qYy9cXiMoE6Tvj9Qbvx2FXcYG3f581BNpsa.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/if-elfsborg-fick-noja-sig-med-en-poang-mot-malmo-ff-702286"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/if-elfsborg-fick-noja-sig-med-en-poang-mot-malmo-ff-702286"
-      },
-      "confirmed_by": [],
-      "id": "if-elfsborg-fick-n-ja-sig-med-en-po-ng-mot-malm-ff"
-    },
-    {
-      "published_at": "2026-10-23T16:21:00+00:00",
-      "updated_at": "2026-10-23T16:21:00+00:00",
-      "title": "Ödesmatch för GIF Sundsvall - här är startelvorna",
-      "summary": "Söndagseftermiddagen bjuder på två intressanta möten i Allsvenskan. IK Sirius tar emot IF Elfsborg samtidigt som Västerås SK ställs mot Mjällby AIF. Nu har samtliga fyra lag presenterat sina startelvor inför matcherna som börjar klockan 14.00",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/4k9837AVBRRuq4iLqpURQztNHxswXrf6rWwkKvzO.png",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/odesmatch-for-gif-sundsvall-har-ar-startelvorna-702278"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/odesmatch-for-gif-sundsvall-har-ar-startelvorna-702278"
-      },
-      "confirmed_by": [],
-      "id": "desmatch-f-r-gif-sundsvall-h-r-r-startelvorna"
-    },
-    {
-      "published_at": "2026-10-23T16:10:54+00:00",
-      "updated_at": "2026-10-23T16:10:54+00:00",
-      "title": "Tre omgångar återstår - Värnamo lär förnya kontraktet utan kval",
-      "summary": "IFK Värnamo ser ut att säkra kontraktet i Superettan, men efter en säsong där laget aldrig på allvar utmanade i toppen finns det anledning att blicka framåt. Med Kim Bergstrand vid rodret kan 2027 bli året då Värnamo tar sikte på en allsvensk återkomst. Men vilka spelare bör klubben prioritera att behålla, och var behövs förstärkningar?",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/dBPkLg1Iusy44SOFZATx7asyr1RvoLwLJbgW0kkY.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/tre-omgangar-aterstar-varnamo-lar-fornya-kontraktet-utan-kval-702276"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/tre-omgangar-aterstar-varnamo-lar-fornya-kontraktet-utan-kval-702276"
-      },
-      "confirmed_by": [],
-      "id": "tre-omg-ngar-terst-r-v-rnamo-l-r-f-rnya-kontraktet-utan-kval"
-    },
-    {
-      "published_at": "2026-10-23T07:51:00+00:00",
-      "updated_at": "2026-10-23T07:51:00+00:00",
-      "title": "As Anthony Gordon prepares for El Clásico debut, how have other British stars fared?",
+      "published_at": "2026-10-24T13:32:21+00:00",
+      "updated_at": "2026-10-24T13:32:21+00:00",
+      "title": "Mainz vs. Bremen (24 Oct, 2026) Team Stats",
       "summary": "Read the full report at ESPN.",
       "category": [
         "Football"
@@ -1887,20 +2096,20 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "as-anthony-gordon-prepares-for-el-cl-sico-debut-how-have-other-british-stars-fared"
+      "id": "mainz-vs-bremen-24-oct-2026-team-stats"
     },
     {
-      "published_at": "2026-10-19T10:36:00+00:00",
-      "updated_at": "2026-10-19T10:36:00+00:00",
-      "title": "Barcelona's Joan Laporta slams Real Madrid for 'constantly attacking' LaLiga",
+      "published_at": "2026-10-20T16:14:00+00:00",
+      "updated_at": "2026-10-20T16:14:00+00:00",
+      "title": "Arsenal's David Raya: 'I would love to play' in LaLiga one day",
       "summary": "Read the full report at ESPN.",
       "category": [
-        "La Liga"
+        "Premier League"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "real-madrid",
+      "club": "arsenal",
       "image": "",
       "sources": [
         {
@@ -1914,196 +2123,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "barcelona-s-joan-laporta-slams-real-madrid-for-constantly-attacking-laliga"
-    },
-    {
-      "published_at": "2026-10-23T14:40:09+00:00",
-      "updated_at": "2026-10-23T14:40:09+00:00",
-      "title": "Kayode: Mancini ‘showed enormous trust’, I have no favourite Serie A club",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "kayode-mancini-showed-enormous-trust-i-have-no-favourite-serie-a-club"
-    },
-    {
-      "published_at": "2026-10-21T17:26:15+00:00",
-      "updated_at": "2026-10-21T17:26:15+00:00",
-      "title": "Football Italia Show: Italian TOTW – 3 potential new additions for Mancini",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "football-italia-show-italian-totw-3-potential-new-additions-for-mancini"
-    },
-    {
-      "published_at": "2026-10-20T15:00:04+00:00",
-      "updated_at": "2026-10-20T15:00:04+00:00",
-      "title": "Football Italia Show: Serie A’s three biggest disappointments of 2026-27",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "football-italia-show-serie-a-s-three-biggest-disappointments-of-2026-27"
-    },
-    {
-      "published_at": "2026-10-20T14:28:35+00:00",
-      "updated_at": "2026-10-20T14:28:35+00:00",
-      "title": "Top 10 highest rated Italy players in Serie A Week 7: Raimondo leads the way",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "top-10-highest-rated-italy-players-in-serie-a-week-7-raimondo-leads-the-way"
-    },
-    {
-      "published_at": "2026-10-19T15:20:00+00:00",
-      "updated_at": "2026-10-19T15:20:00+00:00",
-      "title": "Baldini: ‘The problem in Italian football isn’t the youth, it’s the directors’",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "baldini-the-problem-in-italian-football-isn-t-the-youth-it-s-the-directors"
-    },
-    {
-      "published_at": "2026-10-18T20:38:24+00:00",
-      "updated_at": "2026-10-18T20:38:24+00:00",
-      "title": "Serie A | Juventus 0-3 Lazio: Danish delight gives Old Lady tummy ache",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "serie-a-juventus-0-3-lazio-danish-delight-gives-old-lady-tummy-ache"
-    },
-    {
-      "published_at": "2026-10-18T18:53:15+00:00",
-      "updated_at": "2026-10-18T18:53:15+00:00",
-      "title": "Massara: Juventus must ‘invest differently’ as Italian football ‘has worsened’",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "massara-juventus-must-invest-differently-as-italian-football-has-worsened"
+      "id": "arsenal-s-david-raya-i-would-love-to-play-in-laliga-one-day"
     }
   ]
 }
