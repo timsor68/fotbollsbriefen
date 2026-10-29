@@ -1,83 +1,93 @@
 {
-  "updated_at": "2026-10-29T09:30:00.037831+00:00",
+  "updated_at": "2026-10-29T16:40:52.407589+00:00",
   "items": [
     {
-      "published_at": "2026-10-28T21:37:08+00:00",
-      "updated_at": "2026-10-28T21:37:08+00:00",
-      "title": "Kompany discharged from hospital following collapse",
-      "summary": "Bayern Munich head coach Vincent Kompany has ‌been discharged from hospital following his collapse in training last week ‌due to a meningeal irritation, board member for ​sports Max Eberl said on Wednesday",
+      "published_at": "2026-10-29T12:27:44+00:00",
+      "updated_at": "2026-10-29T12:27:44+00:00",
+      "title": "Dortmund's Karetsas could be fit to face Bayern says coach Kovac",
+      "summary": "Read the full report at Reuters.",
+      "category": [
+        "Bundesliga",
+        "Coach"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "bayern-munich",
+      "image": "",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Reuters",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "dortmund-s-karetsas-could-be-fit-to-face-bayern-says-coach-kovac"
+    },
+    {
+      "published_at": "2026-10-29T15:36:21+00:00",
+      "updated_at": "2026-10-29T15:36:21+00:00",
+      "title": "McInnes defends Fernandez before League Cup semi",
+      "summary": "Rangers manager Derek McInnes defends Emmanuel Fernandez, saying the centre-back \"has been a big part of our better performances this season\"",
       "category": [
         "Football"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/047b/live/8acbc4e0-d315-11f1-ba7d-b5eab6da6837.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5375/live/5d7f5e60-d3ac-11f1-a5cd-49637fcbd4e4.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c678prmye8xvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13605014/vincent-kompany-bayern-munich-head-coach-discharged-from-hospital-after-collapsing-at-training"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6e3x50p3v1eo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c678prmye8xvo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6e3x50p3v1eo?at_medium=RSS&at_campaign=rss"
       },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13605014/vincent-kompany-bayern-munich-head-coach-discharged-from-hospital-after-collapsing-at-training"
-        }
-      ],
-      "id": "kompany-discharged-from-hospital-following-collapse"
+      "confirmed_by": [],
+      "id": "mcinnes-defends-fernandez-before-league-cup-semi"
     },
     {
-      "published_at": "2026-10-28T19:57:04+00:00",
-      "updated_at": "2026-10-28T19:57:04+00:00",
-      "title": "Sesko ruled out until January with shin injury",
-      "summary": "Manchester United striker Benjamin Sesko is expected to be out until at least January with a shin injury",
+      "published_at": "2026-10-29T14:31:52+00:00",
+      "updated_at": "2026-10-29T14:31:52+00:00",
+      "title": "'Fully committed' Fernandes to remain Man Utd captain",
+      "summary": "Manchester United head coach Michael Carrick confirms Bruno Fernandes will remain captain, and addresses his own future before Saturday's trip to Chelsea",
       "category": [
         "Football"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a322/live/ef367710-d304-11f1-a9bf-3316693f55f0.jpg",
+      "club": "manchester-united",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4203/live/1524b320-d3a4-11f1-a5cd-49637fcbd4e4.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cq33xl50vyj2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cq33xl50vyj2o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o?at_medium=RSS&at_campaign=rss"
       },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "id": "sesko-ruled-out-until-january-with-shin-injury"
+      "confirmed_by": [],
+      "id": "fully-committed-fernandes-to-remain-man-utd-captain"
     },
     {
-      "published_at": "2026-10-27T12:32:38+00:00",
-      "updated_at": "2026-10-27T12:32:38+00:00",
-      "title": "Alexia Putellas a worthy Ballon d’Or winner but the limited shortlist illustrates flaws",
-      "summary": "Neglect of African football and a third win for the Spanish great does little to challenge narrative that the prize is reserved only for top nations’ players After a four-year wait, Alexia Putellas is the queen of women’s football once again. Receiving the Ballon d’Or for a record‑equalling third time to continue Spain’s domination of the award, the 32-year-old reinforces her status as one of the greatest players of all time. It was the sixth consecutive year in which the honour went to either Putellas or her international teammate Aitana Bonmatí, and it was symbolic of Putellas’s resurgence after her comeback from the anterior cruciate ligament injury she sustained in 2022, her refusal to surrender her career to that setback, and her majestic rise back to the top.",
+      "published_at": "2026-10-29T13:47:43+00:00",
+      "updated_at": "2026-10-29T13:47:43+00:00",
+      "title": "Toney nightclub assault trial set for June 2028",
+      "summary": "Striker’s trial due to begin on 12 June 2028 He has denied assaulting man at Soho nightclub Ivan Toney has in effect been ruled out of Euro 2028 after his trial for assault occasioning actual bodily harm was scheduled for 12 June 2028. Toney appeared at Southwark crown court and stood in the dock to confirm a not guilty plea. The striker is accused of head-butting and punching Saber Da Silva at a Soho nightclub on 6 December last year.",
       "category": [
         "Football"
       ],
@@ -85,37 +95,64 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.46/0.51/fe81676fd73b7a3dde97bdda87c55c013c52200d530c9c3b367f4809a04a5e98",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c935/live/d2a76ef0-d387-11f1-b5f4-fd541fd21001.jpg",
       "sources": [
         {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/alexia-putellas-vinner-ballon-dor-for-tredje-gangen"
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/news/articles/ck98zmrdz2g5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUUpkaXQ4QloxVmU4VDl4QXUtdTdiNE8zb0o2UUpIaVNtSWFrZnlYbGJIcEtNWm02aC1EU1hzbGVzeXR4OTlST0ZBZEM1a2thaEo5RFNkQmlqOGlxOGpkandNbzJINEx0MlBiRXgtWEliNHRMSkE5Z2trdGloLVp1R2tfUUR3UVY0ckxsRDhVYnlKV1k?oc=5"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13605220/ivan-toney-trial-for-england-striker-over-alleged-assault-is-set-for-june-2028"
         },
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/oct/27/alexia-putellas-ballon-dor-winner-awards-long-way-before-being-equal-moving-the-goalposts"
+          "url": "https://www.theguardian.com/football/2026/oct/29/ivan-toney-trial-during-euro-2028-denies-assault-charge"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/alexia-putellas-vinner-ballon-dor-for-tredje-gangen"
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/news/articles/ck98zmrdz2g5o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUUpkaXQ4QloxVmU4VDl4QXUtdTdiNE8zb0o2UUpIaVNtSWFrZnlYbGJIcEtNWm02aC1EU1hzbGVzeXR4OTlST0ZBZEM1a2thaEo5RFNkQmlqOGlxOGpkandNbzJINEx0MlBiRXgtWEliNHRMSkE5Z2trdGloLVp1R2tfUUR3UVY0ckxsRDhVYnlKV1k?oc=5"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13605220/ivan-toney-trial-for-england-striker-over-alleged-assault-is-set-for-june-2028"
         },
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/oct/27/alexia-putellas-ballon-dor-winner-awards-long-way-before-being-equal-moving-the-goalposts"
+          "url": "https://www.theguardian.com/football/2026/oct/29/ivan-toney-trial-during-euro-2028-denies-assault-charge"
         }
       ],
-      "id": "alexia-putellas-a-worthy-ballon-d-or-winner-but-the-limited-shortlist-illustrates-flaws"
+      "id": "toney-nightclub-assault-trial-set-for-june-2028"
+    },
+    {
+      "published_at": "2026-10-29T11:00:53+00:00",
+      "updated_at": "2026-10-29T11:00:53+00:00",
+      "title": "Sometimes managers need sacking for own good - Neville",
+      "summary": "Gary Neville says managers sometimes need to be sacked \"for their own good\" as Manchester United persist with under-pressure boss Michael Carrick",
+      "category": [
+        "Coach"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d11c/live/a995c900-d37b-11f1-bf63-739fb2907d03.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cjvgx0ek6rz2o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "sometimes-managers-need-sacking-for-own-good-neville"
     },
     {
       "published_at": "2026-10-28T23:10:06+00:00",
@@ -143,6 +180,60 @@
       },
       "confirmed_by": [],
       "id": "he-knows-his-role-man-city-penalty-hero-rulli-still-donnarumma-deputy"
+    },
+    {
+      "published_at": "2026-10-28T21:37:08+00:00",
+      "updated_at": "2026-10-28T21:37:08+00:00",
+      "title": "Kompany discharged from hospital following collapse",
+      "summary": "Bayern Munich head coach Vincent Kompany is discharged from hospital and \"doing well\" following his collapse at the club's training ground, according to a club board member",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/047b/live/8acbc4e0-d315-11f1-ba7d-b5eab6da6837.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c678prmye8xvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c678prmye8xvo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "kompany-discharged-from-hospital-following-collapse"
+    },
+    {
+      "published_at": "2026-10-28T19:57:04+00:00",
+      "updated_at": "2026-10-28T19:57:04+00:00",
+      "title": "Man Utd's Sesko ruled out until January with shin injury",
+      "summary": "Manchester United striker Benjamin Sesko is expected to be out until at least January with a shin injury",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a322/live/ef367710-d304-11f1-a9bf-3316693f55f0.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq33xl50vyj2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq33xl50vyj2o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "man-utd-s-sesko-ruled-out-until-january-with-shin-injury"
     },
     {
       "published_at": "2026-10-28T18:16:58+00:00",
@@ -199,61 +290,6 @@
       "id": "mcclean-leaves-derry-city-after-contract-dispute"
     },
     {
-      "published_at": "2026-10-28T11:48:28+00:00",
-      "updated_at": "2026-10-28T11:48:28+00:00",
-      "title": "Carrick and Fernandes hold clear-the-air talks",
-      "summary": "Manchester United head coach Michael Carrick and captain Bruno Fernandes hold clear-the-air talks at the club's training ground",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f4ff/live/98c57790-d2ce-11f1-b441-2b33b063138f.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "carrick-and-fernandes-hold-clear-the-air-talks"
-    },
-    {
-      "published_at": "2026-10-28T09:41:34+00:00",
-      "updated_at": "2026-10-28T09:41:34+00:00",
-      "title": "Kuyt named Fenerbahce interim boss before Liverpool tie",
-      "summary": "Former Netherlands forward Dirk Kuyt is appointed Fenerbahce’s interim coach a week before they face his former club Liverpool in the Champions League",
-      "category": [
-        "Premier League",
-        "Serie A"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ecf7/live/1059be70-d2b0-11f1-8cf0-c5d120932f9f.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c5398300x0nyo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c5398300x0nyo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "kuyt-named-fenerbahce-interim-boss-before-liverpool-tie"
-    },
-    {
       "published_at": "2026-10-28T07:28:41+00:00",
       "updated_at": "2026-10-28T07:28:41+00:00",
       "title": "Lawlor delighted after beating 'best team in the country'",
@@ -279,60 +315,6 @@
       },
       "confirmed_by": [],
       "id": "lawlor-delighted-after-beating-best-team-in-the-country"
-    },
-    {
-      "published_at": "2026-10-27T18:56:36+00:00",
-      "updated_at": "2026-10-27T18:56:36+00:00",
-      "title": "Man Utd stick with Carrick - inside a turbulent 48 hours at Old Trafford",
-      "summary": "BBC Sport looks at the 48 hours that led to Manchester United deciding to keep under-pressure Michael Carrick as their head coach for Saturday's trip to Chelsea",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0191/live/aa944b90-d22e-11f1-a701-fddedf244c16.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "man-utd-stick-with-carrick-inside-a-turbulent-48-hours-at-old-trafford"
-    },
-    {
-      "published_at": "2026-10-26T15:24:12+00:00",
-      "updated_at": "2026-10-26T15:24:12+00:00",
-      "title": "Why is Wilcox in line of fire from Man Utd fans?",
-      "summary": "With Michael Carrick's position as Man Utd boss under scrutiny, focus has also turned to director of football Jason Wilcox",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cedb/live/3c7b5a40-d14d-11f1-9eb5-811878e0f07d.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ck5yn5j37en0o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ck5yn5j37en0o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "why-is-wilcox-in-line-of-fire-from-man-utd-fans"
     },
     {
       "published_at": "2026-10-28T20:15:52+00:00",
@@ -389,6 +371,42 @@
       "id": "lens-ban-its-own-fans-from-lille-derby-game-after-dangerous-behaviour-crossed-red-line"
     },
     {
+      "published_at": "2026-10-29T14:50:16+00:00",
+      "updated_at": "2026-10-29T14:50:16+00:00",
+      "title": "Carrick keeps Fernandes as captain and says he needs no assurances on United future",
+      "summary": "Carrick says he is not surprised to still be head coach He describes Fernandes as ‘important’ for the squad Michael Carrick has said he will not strip Bruno Fernandes of the Manchester United captaincy after dropping him for the defeat by Bournemouth and that he is not surprised to have kept his job as the head coach. Carrick and Fernandes held talks this week after the Portuguese criticised the tactics in the loss to Como, resulting in the midfielder being an unused substitute on Sunday. Harry Maguire took the armband but will not retain it for Saturday’s game at Chelsea, with Carrick saying “there is no decision to be made” and praising Fernandes.",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-football-michael-carrick_7357590.jpg?20260921063832",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13605331/manchester-united-michael-carrick-ready-to-move-forward-with-bruno-fernandes-as-captain-and-doesnt-require-assurances-on-his-future"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/29/michael-carrick-keeps-bruno-fernandes-captain-assurances-future-manchester-united"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13605331/manchester-united-michael-carrick-ready-to-move-forward-with-bruno-fernandes-as-captain-and-doesnt-require-assurances-on-his-future"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/29/michael-carrick-keeps-bruno-fernandes-captain-assurances-future-manchester-united"
+        }
+      ],
+      "id": "carrick-keeps-fernandes-as-captain-and-says-he-needs-no-assurances-on-united-future"
+    },
+    {
       "published_at": "2026-10-28T23:25:10+00:00",
       "updated_at": "2026-10-28T23:25:10+00:00",
       "title": "Scottish Premiership: McInnes booed in Rangers draw at Hearts, Celtic held at home",
@@ -400,11 +418,11 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/10/1600x900/skysports-rangers-hearts-makhanya_7390392.jpg?20261028221354",
+      "image": "https://e0.365dm.com/26/10/1600x900/skysports-rangers-olwethu-makhanya_7390688.jpg?20261029095101",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/hearts-vs-rangers/report/558396"
+          "url": "https://www.skysports.com/football/news/11095/13605223/rangers-kris-boyd-questions-sides-scottish-premiership-title-credentials-after-hearts-draw"
         },
         {
           "name": "The Guardian",
@@ -414,7 +432,7 @@
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/hearts-vs-rangers/report/558396"
+        "url": "https://www.skysports.com/football/news/11095/13605223/rangers-kris-boyd-questions-sides-scottish-premiership-title-credentials-after-hearts-draw"
       },
       "confirmed_by": [
         {
@@ -425,40 +443,40 @@
       "id": "scottish-premiership-mcinnes-booed-in-rangers-draw-at-hearts-celtic-held-at-home"
     },
     {
-      "published_at": "2026-10-28T22:30:20+00:00",
-      "updated_at": "2026-10-28T22:30:20+00:00",
-      "title": "Liverpool beat Chelsea on penalties yet again to secure Carabao Cup progress",
-      "summary": "Chelsea must have been resigned to their fate as soon as the shootout arrived at Anfield. Four times they had faced Liverpool on penalties previously and four times they had lost. Number five was confirmed when Wesley Fofana’s wild effort sailed high into the Kop and sent Andoni Iraola’s side into a Carabao Cup quarter-final against his old club Bournemouth.",
+      "published_at": "2026-10-27T12:32:38+00:00",
+      "updated_at": "2026-10-27T12:32:38+00:00",
+      "title": "Alexia Putellas a worthy Ballon d’Or winner but the limited shortlist illustrates flaws",
+      "summary": "Neglect of African football and a third win for the Spanish great does little to challenge narrative that the prize is reserved only for top nations’ players After a four-year wait, Alexia Putellas is the queen of women’s football once again. Receiving the Ballon d’Or for a record‑equalling third time to continue Spain’s domination of the award, the 32-year-old reinforces her status as one of the greatest players of all time. It was the sixth consecutive year in which the honour went to either Putellas or her international teammate Aitana Bonmatí, and it was symbolic of Putellas’s resurgence after her comeback from the anterior cruciate ligament injury she sustained in 2022, her refusal to surrender her career to that setback, and her majestic rise back to the top.",
       "category": [
-        "Premier League"
+        "Football"
       ],
       "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://e0.365dm.com/26/10/1600x900/skysports-liverpool-chelsea_7390278.jpg?20261028205303",
+      "club": "",
+      "image": "",
       "sources": [
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/liverpool-vs-chelsea/report/578612"
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         },
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/oct/28/liverpool-chelsea-carabao-cup-fourth-round-match-report"
+          "url": "https://www.theguardian.com/football/2026/oct/27/alexia-putellas-ballon-dor-winner-awards-long-way-before-being-equal-moving-the-goalposts"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/liverpool-vs-chelsea/report/578612"
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/oct/28/liverpool-chelsea-carabao-cup-fourth-round-match-report"
+          "url": "https://www.theguardian.com/football/2026/oct/27/alexia-putellas-ballon-dor-winner-awards-long-way-before-being-equal-moving-the-goalposts"
         }
       ],
-      "id": "liverpool-beat-chelsea-on-penalties-yet-again-to-secure-carabao-cup-progress"
+      "id": "alexia-putellas-a-worthy-ballon-d-or-winner-but-the-limited-shortlist-illustrates-flaws"
     },
     {
       "published_at": "2026-10-28T23:20:00+00:00",
@@ -575,8 +593,36 @@
       "id": "jadon-sancho-offered-shock-deal-by-la-liga-side-getafe-riccardo-calafiori-adds-to-arsenal-"
     },
     {
-      "published_at": "2026-10-28T14:23:53+00:00",
-      "updated_at": "2026-10-28T14:23:53+00:00",
+      "published_at": "2026-10-29T06:14:14+00:00",
+      "updated_at": "2026-10-29T06:14:14+00:00",
+      "title": "Uppgifter: Lindelöf förlänger med Aston Villa",
+      "summary": "Uppgifter: Lindelöf förlänger med Aston Villa Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-lindel-f-f-rl-nger-med-aston-villa"
+    },
+    {
+      "published_at": "2026-10-29T05:54:08+00:00",
+      "updated_at": "2026-10-29T05:54:08+00:00",
       "title": "SvFF agerar: Skärper förbudet mot \"bulvan\"-tränare",
       "summary": "SvFF agerar: Skärper förbudet mot \"bulvan\"-tränare Fotbollskanalen",
       "category": [
@@ -601,33 +647,6 @@
       },
       "confirmed_by": [],
       "id": "svff-agerar-sk-rper-f-rbudet-mot-bulvan-tr-nare"
-    },
-    {
-      "published_at": "2026-10-28T09:18:12+00:00",
-      "updated_at": "2026-10-28T09:18:12+00:00",
-      "title": "Uppgifter: Christiansen detaljer från nytt kontrakt",
-      "summary": "Uppgifter: PSG erbjuder Doué nytt kontrakt Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-christiansen-detaljer-fr-n-nytt-kontrakt"
     },
     {
       "published_at": "2026-10-28T02:09:20+00:00",
@@ -711,6 +730,69 @@
       "id": "heier-ska-bli-erbjuden-ett-tredje-kontrakt"
     },
     {
+      "published_at": "2026-10-24T08:08:36+00:00",
+      "updated_at": "2026-10-24T08:08:36+00:00",
+      "title": "Uppgifter: Christiansen detaljer från nytt kontrakt",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-christiansen-detaljer-fr-n-nytt-kontrakt"
+    },
+    {
+      "published_at": "2026-10-29T14:02:19+00:00",
+      "updated_at": "2026-10-29T14:02:19+00:00",
+      "title": "Tidigare svensk landslagsspelare misstänkt för matchfixning",
+      "summary": "Flertalet AIK-spelare uppges ha velat förlorat en match 2023. Detta efter att det funnits sprickor i truppen och uppdelningar mellan olika spelarna i laget och dess agenturer. Nu utreds tre tidigare AIK-spelare för spelfuskbrott.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.62/0.36/cdf5410189734e4c75a21c927276b3ba8834a373b114e6b37788203f1486e81f",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/tidigare-svensk-landslagsspelare-misstankt-for-matchfixning"
+        },
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/tre-tidigare-aik-spelare-misstankta-for-brott-702542"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/tidigare-svensk-landslagsspelare-misstankt-for-matchfixning"
+      },
+      "confirmed_by": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/tre-tidigare-aik-spelare-misstankta-for-brott-702542"
+        }
+      ],
+      "id": "tidigare-svensk-landslagsspelare-misst-nkt-f-r-matchfixning"
+    },
+    {
       "published_at": "2026-10-29T05:22:55+00:00",
       "updated_at": "2026-10-29T05:22:55+00:00",
       "title": "Sirius passning inför seriefinalen: ”De har inte lyckats vinna”",
@@ -773,6 +855,33 @@
       },
       "confirmed_by": [],
       "id": "time-and-owners-not-on-moyes-side-as-he-tries-to-end-everton-trophy-drought"
+    },
+    {
+      "published_at": "2026-10-28T22:30:20+00:00",
+      "updated_at": "2026-10-28T22:30:20+00:00",
+      "title": "Liverpool beat Chelsea on penalties yet again to secure Carabao Cup progress",
+      "summary": "Chelsea must have been resigned to their fate as soon as the shootout arrived at Anfield. Four times they had faced Liverpool on penalties previously and four times they had lost. Number five was confirmed when Wesley Fofana’s wild effort sailed high into the Kop and sent Andoni Iraola’s side into a Carabao Cup quarter-final against his old club Bournemouth.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "https://i.guim.co.uk/img/media/99d0e44a15fabd2cbbb498c5603294d9c70c8afc/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d4d8efe24a2cfe774e4fcd7ac22e876b",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/28/liverpool-chelsea-carabao-cup-fourth-round-match-report"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/oct/28/liverpool-chelsea-carabao-cup-fourth-round-match-report"
+      },
+      "confirmed_by": [],
+      "id": "liverpool-beat-chelsea-on-penalties-yet-again-to-secure-carabao-cup-progress"
     },
     {
       "published_at": "2026-10-28T20:34:00+00:00",
@@ -910,33 +1019,6 @@
       "id": "which-footballers-have-scored-in-the-same-minute-as-their-surname-the-knowledge"
     },
     {
-      "published_at": "2026-10-27T20:02:34+00:00",
-      "updated_at": "2026-10-27T20:02:34+00:00",
-      "title": "An unmanageable club? Carrick the latest to suffer in Manchester United’s faded grandeur",
-      "summary": "Only Matt Busby and Alex Ferguson have truly succeeded in the Old Trafford hot seat with each casting uneasy shadows Should any football club fit the Great Man theory of history it is Manchester United. In the past 100 years, only Matt Busby and Alex Ferguson have knocked the club into shape. A pair of 20th-century Scotsmen, born 15 miles apart in Bellshill and Govan respectively, found the key.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://i.guim.co.uk/img/media/30252404116b7b2759c3cfc0a3f19ae6bacdf054/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=72a55fb92c3f38ab6acfc3bdead9ab2e",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/oct/27/manchester-united-michael-carrick-faded-grandeur"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/oct/27/manchester-united-michael-carrick-faded-grandeur"
-      },
-      "confirmed_by": [],
-      "id": "an-unmanageable-club-carrick-the-latest-to-suffer-in-manchester-united-s-faded-grandeur"
-    },
-    {
       "published_at": "2026-10-26T18:50:43+00:00",
       "updated_at": "2026-10-26T18:50:43+00:00",
       "title": "Damning data: stats that show Michael Carrick’s luck was bound to run out | Andrew Beasley",
@@ -962,33 +1044,6 @@
       },
       "confirmed_by": [],
       "id": "damning-data-stats-that-show-michael-carrick-s-luck-was-bound-to-run-out-andrew-beasley"
-    },
-    {
-      "published_at": "2026-10-26T18:08:00+00:00",
-      "updated_at": "2026-10-26T18:08:00+00:00",
-      "title": "McTominay stars in Napoli draw that leaves Allegri ‘not lucid enough’ to talk | Nicky Bandini",
-      "summary": "Gli Azzurri show positive signs of improvement in seesaw 3-3 draw against a Roma side inspired by Messi-like Matías Soulé Scott McTominay was leaving nothing to doubt. He appeared to have scored with a close-range header early in the second half of Napoli’s game at home to Roma, but Pierluigi Gollini clawed the ball out from inside the goal. McTominay got his noggin to the rebound, nudging it back across the line.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "mctominay-stars-in-napoli-draw-that-leaves-allegri-not-lucid-enough-to-talk-nicky-bandini"
     },
     {
       "published_at": "2026-10-26T11:59:27+00:00",
@@ -1018,9 +1073,36 @@
       "id": "wsl-talking-points-russo-to-arsenal-s-rescue-and-olid-makes-manchester-united-progress"
     },
     {
+      "published_at": "2026-10-26T11:21:26+00:00",
+      "updated_at": "2026-10-26T11:21:26+00:00",
+      "title": "McTominay stars in Napoli draw that leaves Allegri ‘not lucid enough’ to talk | Nicky Bandini",
+      "summary": "Gli Azzurri show positive signs of improvement in seesaw 3-3 draw against a Roma side inspired by Messi-like Matías Soulé Scott McTominay was leaving nothing to doubt. He appeared to have scored with a close-range header early in the second half of Napoli’s game at home to Roma, but Pierluigi Gollini clawed the ball out from inside the goal. McTominay got his noggin to the rebound, nudging it back across the line.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/ef4e1223a0fb1aebff9a577a57f2c2b4a723c926/909_391_4511_3609/master/4511.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f437b916a2f43fa1ddf240112839781",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/oct/26/scott-mctominay-napoli-roma-serie-a-massimiliano-allegri-not-lucid-enough"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/oct/26/scott-mctominay-napoli-roma-serie-a-massimiliano-allegri-not-lucid-enough"
+      },
+      "confirmed_by": [],
+      "id": "mctominay-stars-in-napoli-draw-that-leaves-allegri-not-lucid-enough-to-talk-nicky-bandini"
+    },
+    {
       "published_at": "2026-10-28T19:58:00+00:00",
       "updated_at": "2026-10-28T19:58:00+00:00",
-      "title": "VSK",
+      "title": "Förlust igen för DIF",
       "summary": "I startelvan som kom cirka en timme innan avspark fanns flera förändringar jämfört med senast. Samba in som vänsterback, Sebastian \"Hova\" Ohlsson på mittfältet och trion Barsoum, Boutera och Fritzson i de offensiva leden. Detta blev dock på planen en treback med Ohlsson, Faqa och Skuseth.",
       "category": [
         "Sverige"
@@ -1042,7 +1124,7 @@
         "url": "https://www.svenskafans.com/fotboll/vsk-702495"
       },
       "confirmed_by": [],
-      "id": "vsk"
+      "id": "f-rlust-igen-f-r-dif"
     },
     {
       "published_at": "2026-10-28T19:52:00+00:00",
@@ -1234,76 +1316,68 @@
       "id": "football-italia-show-no-serie-a-stop-hidden-traps-injury-problems"
     },
     {
-      "published_at": "2026-10-28T21:33:00+00:00",
-      "updated_at": "2026-10-28T21:33:00+00:00",
-      "title": "In-form Bournemouth beat Aston Villa to reach Carabao Cup quarters",
-      "summary": "Cherries win 3-0 to set up Anfield visit in last eight Wearsiders resist Brentford fightback in 3-2 success Bournemouth continued their impressive run of results by thumping Aston Villa 3-0 to reach the Carabao Cup quarter-finals for the first time in eight seasons, while Sunderland scored three times in 10 minutes at the Stadium of Light to leave Brentford too much to do as the home side won 3-2. The winger Amine Adli fired home in the seventh minute at the Vitality Stadium to set Marco Rose’s in-form side on course for a fifth consecutive win in all competitions. Lewis Cook, the Cherries captain, added a fortuitous second early in the second period before the striker Álvaro Rodríguez sealed another 3-0 success after similar wins against Milan and Manchester United.",
+      "published_at": "2026-10-26T09:37:24+00:00",
+      "updated_at": "2026-10-26T09:37:24+00:00",
+      "title": "Crystal Palace föll - Sage hänger löst",
+      "summary": "“Can we play you every week?” chanted the Crystal Palace fans as they celebrated a fifth victory over Fulham on their own patch in the space of 18 months. Eddie Nketiah’s first-half goal against the run of play eased some of the growing pressure on Pierre Sage as Palace booked a third consecutive appearance in the quarter-finals of this competition. The good news for Sage is that Arsenal – who beat them on both of those occasions – have already been eliminated .",
       "category": [
+        "Sverige",
         "Premier League"
       ],
       "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/10/1600x900/skysports-bournemouth-amine-adli_7390349.jpg?20261028215019",
+      "image": "",
       "sources": [
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/bournemouth-vs-aston-villa/report/578607"
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         },
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/oct/28/carabao-cup-fouth-round-bournemouth-aston-villa-sunderland-brentford"
+          "url": "https://www.theguardian.com/football/2026/oct/28/fulham-crystal-palace-carabao-cup-fourth-round-match-report"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/bournemouth-vs-aston-villa/report/578607"
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/oct/28/carabao-cup-fouth-round-bournemouth-aston-villa-sunderland-brentford"
+          "url": "https://www.theguardian.com/football/2026/oct/28/fulham-crystal-palace-carabao-cup-fourth-round-match-report"
         }
       ],
-      "id": "in-form-bournemouth-beat-aston-villa-to-reach-carabao-cup-quarters"
+      "id": "crystal-palace-f-ll-sage-h-nger-l-st"
     },
     {
-      "published_at": "2026-10-28T21:19:00+00:00",
-      "updated_at": "2026-10-28T21:19:00+00:00",
-      "title": "Nketiah steers Palace past Fulham to boost boss Sage",
-      "summary": "“Can we play you every week?” chanted the Crystal Palace fans as they celebrated a fifth victory over Fulham on their own patch in the space of 18 months. Eddie Nketiah’s first-half goal against the run of play eased some of the growing pressure on Pierre Sage as Palace booked a third consecutive appearance in the quarter-finals of this competition. The good news for Sage is that Arsenal – who beat them on both of those occasions – have already been eliminated .",
+      "published_at": "2026-10-29T10:18:53+00:00",
+      "updated_at": "2026-10-29T10:18:53+00:00",
+      "title": "Isak Bjerkebos oväntade svar om nya anfallstrion: ”Tror det blir svårt”",
+      "summary": "Sirius spelar med en ny anfallstrio. Isak Bjerkebo tror inte att de hinner hitta helt rätt den här säsongen. – Nej, jag tror det blir svårt faktiskt, säger han",
       "category": [
-        "Football"
+        "Sverige"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/10/1600x900/skysports-crystal-palace-eddie-nketiah_7390236.jpg?20261028203125",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.21/0.45/057aff714b3e4a24ab88bc44bb8e56894f6a606e99349154db8150fce0ff87b5",
       "sources": [
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/fulham-vs-crystal-palace/report/578611"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/oct/28/fulham-crystal-palace-carabao-cup-fourth-round-match-report"
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/isak-bjerkebos-ovantade-svar-om-nya-anfallstrion-tror-det-blir-svart"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/fulham-vs-crystal-palace/report/578611"
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/isak-bjerkebos-ovantade-svar-om-nya-anfallstrion-tror-det-blir-svart"
       },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/oct/28/fulham-crystal-palace-carabao-cup-fourth-round-match-report"
-        }
-      ],
-      "id": "nketiah-steers-palace-past-fulham-to-boost-boss-sage"
+      "confirmed_by": [],
+      "id": "isak-bjerkebos-ov-ntade-svar-om-nya-anfallstrion-tror-det-blir-sv-rt"
     },
     {
       "published_at": "2026-10-29T05:42:31+00:00",
@@ -1498,33 +1572,6 @@
       "id": "nino-zugelj-firade-mot-egna-klubben-j-ttem-rkligt-agerat"
     },
     {
-      "published_at": "2026-10-28T19:55:12+00:00",
-      "updated_at": "2026-10-28T19:55:12+00:00",
-      "title": "Västerås nollade krisande Degerfors",
-      "summary": "Västerås studsade tillbaka efter den snöpliga förlusten mot Halmstad i fredags. Laget tog en säker seger i Degerfors med 3–0",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.51/0.57/d7c907fa50432c55f2c1fdd30fb5618ef27b7a8cc7d89784afe7768aff2991dc",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/vasteras-nollade-degerfors"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/vasteras-nollade-degerfors"
-      },
-      "confirmed_by": [],
-      "id": "v-ster-s-nollade-krisande-degerfors"
-    },
-    {
       "published_at": "2026-10-28T05:10:14+00:00",
       "updated_at": "2026-10-28T05:10:14+00:00",
       "title": "Why Kylian Mbappe angered China – and the possible consequences for him, Madrid and La Liga",
@@ -1552,91 +1599,118 @@
       "id": "why-kylian-mbappe-angered-china-and-the-possible-consequences-for-him-madrid-and-la-liga"
     },
     {
-      "published_at": "2026-10-27T15:37:12+00:00",
-      "updated_at": "2026-10-27T15:37:12+00:00",
-      "title": "RB Leipzig fan section sealed shut with concrete in stunt before German Cup tie",
-      "summary": "Read the full report at The Athletic.",
+      "published_at": "2026-10-28T21:00:00+00:00",
+      "updated_at": "2026-10-28T21:00:00+00:00",
+      "title": "Chelsea latest: Martinez aiming for earlier return from injury",
+      "summary": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
-        "Bundesliga"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "rb-leipzig-fan-section-sealed-shut-with-concrete-in-stunt-before-german-cup-tie"
-    },
-    {
-      "published_at": "2026-10-29T09:15:00+00:00",
-      "updated_at": "2026-10-29T09:15:00+00:00",
-      "title": "Dev's Digest: Markanday '100 percent interested' in playing for India",
-      "summary": "Welcome to Dev's Digest, a regular Sky Sports column in which Dev Trehan delivers exclusive news and reflects on the major developments for British South Asians in football",
-      "category": [
-        "Serie A"
+        "Premier League"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/10/1600x900/skysports-dilan-markanday-chesterfield_7388634.jpg?20261027113859",
+      "club": "chelsea",
+      "image": "https://e0.365dm.com/26/10/1600x900/skysports-chelsea-transfer_7378358.jpg?20261016150829",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13602656/devs-digest-dilan-markanday-100-per-cent-interested-in-playing-for-india-hamza-choudhury-fa-cup-final-shirt-raises-7000-at-charity-auction"
+          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13602656/devs-digest-dilan-markanday-100-per-cent-interested-in-playing-for-india-hamza-choudhury-fa-cup-final-shirt-raises-7000-at-charity-auction"
+        "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "dev-s-digest-markanday-100-percent-interested-in-playing-for-india"
+      "id": "chelsea-latest-martinez-aiming-for-earlier-return-from-injury"
     },
     {
-      "published_at": "2026-10-28T21:35:00+00:00",
-      "updated_at": "2026-10-28T21:35:00+00:00",
-      "title": "Celtic miss chance to go six points clear at top in Dundee United draw",
-      "summary": "Celtic lost the opportunity to go six points clear at the top of the Scottish Premiership as they drew 2-2 with Dundee United",
+      "published_at": "2026-10-29T15:30:00+00:00",
+      "updated_at": "2026-10-29T15:30:00+00:00",
+      "title": "It's been 616 days: Can Spurs finally win three in a row?",
+      "summary": "By the time Saturday rolls around, it will have been 616 days since Tottenham last won three Premier League games on the bounce. Three different managers have come and gone since the feat was last achieved, none able to steer Spurs to a streak of more than two",
       "category": [
         "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/10/1600x900/skysports-celtic-dundee-united_7390350.jpg?20261028215105",
+      "club": "tottenham",
+      "image": "https://e0.365dm.com/26/10/1600x900/skysports-james-maddison-goal_7381102.jpg?20261020060641",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/celtic-vs-dundee-united/report/558394"
+          "url": "https://www.skysports.com/football/news/11095/13605317/tottenham-vs-crystal-palace-have-spurs-genuinely-turned-a-corner-in-the-premier-league-under-roberto-de-zerbi"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/celtic-vs-dundee-united/report/558394"
+        "url": "https://www.skysports.com/football/news/11095/13605317/tottenham-vs-crystal-palace-have-spurs-genuinely-turned-a-corner-in-the-premier-league-under-roberto-de-zerbi"
       },
       "confirmed_by": [],
-      "id": "celtic-miss-chance-to-go-six-points-clear-at-top-in-dundee-united-draw"
+      "id": "it-s-been-616-days-can-spurs-finally-win-three-in-a-row"
     },
     {
-      "published_at": "2026-10-29T09:03:27+00:00",
-      "updated_at": "2026-10-29T09:03:27+00:00",
-      "title": "Saarenpää: \"Väldigt öppen - lyssnar på allt\"",
-      "summary": "Saarenpää: \"Väldigt öppen - lyssnar på allt\" Fotbollskanalen",
+      "published_at": "2026-10-29T09:30:00+00:00",
+      "updated_at": "2026-10-29T09:30:00+00:00",
+      "title": "How Bayern Munich fell in love with Kane",
+      "summary": "It was approaching midnight when Harry Kane emerged to take the congratulations of the media patiently waiting for a word with Bayern Munich's new Ballon d'Or winner. He had not even played in their 6-1 cup win over Magdeburg but it still felt like his night",
+      "category": [
+        "Bundesliga"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "bayern-munich",
+      "image": "https://e0.365dm.com/26/10/1600x900/skysports-harry-kane-bayern-munich_7390631.jpg?20261029090352",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13605214/harry-kanes-ballon-dor-homecoming-with-bayern-munich-shows-why-germany-has-fallen-in-love-with-englands-captain"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13605214/harry-kanes-ballon-dor-homecoming-with-bayern-munich-shows-why-germany-has-fallen-in-love-with-englands-captain"
+      },
+      "confirmed_by": [],
+      "id": "how-bayern-munich-fell-in-love-with-kane"
+    },
+    {
+      "published_at": "2026-10-28T16:11:00+00:00",
+      "updated_at": "2026-10-28T16:11:00+00:00",
+      "title": "Liverpool draw Bournemouth in Carabao Cup quarters",
+      "summary": "Liverpool will play Bournemouth in the Carabao Cup quarter-finals while League One Bradford City will host Manchester City",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-carabao-cup-trophy_7311954.jpg?20260801184714",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13604920/carabao-cup-quarter-final-draw-liverpool-host-bournemouth-as-bradford-and-fleetwood-learn-premier-league-opposition"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13604920/carabao-cup-quarter-final-draw-liverpool-host-bournemouth-as-bradford-and-fleetwood-learn-premier-league-opposition"
+      },
+      "confirmed_by": [],
+      "id": "liverpool-draw-bournemouth-in-carabao-cup-quarters"
+    },
+    {
+      "published_at": "2026-10-29T15:42:00+00:00",
+      "updated_at": "2026-10-29T15:42:00+00:00",
+      "title": "Siltanen: \"Alla snackar om det\"",
+      "summary": "Siltanen: \"Alla snackar om det\" Fotbollskanalen",
       "category": [
         "Sverige"
       ],
@@ -1657,13 +1731,13 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "saarenp-v-ldigt-ppen-lyssnar-p-allt"
+      "id": "siltanen-alla-snackar-om-det"
     },
     {
-      "published_at": "2026-10-29T08:28:00+00:00",
-      "updated_at": "2026-10-29T08:28:00+00:00",
-      "title": "James McCleans avtal rivs efter konflikt",
-      "summary": "James McCleans avtal rivs efter konflikt Fotbollskanalen",
+      "published_at": "2026-10-29T14:47:00+00:00",
+      "updated_at": "2026-10-29T14:47:00+00:00",
+      "title": "AIK-spelare misstänkta för spelfuskbrott",
+      "summary": "AIK-spelare misstänkta för spelfuskbrott Fotbollskanalen",
       "category": [
         "Sverige"
       ],
@@ -1684,13 +1758,13 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "james-mccleans-avtal-rivs-efter-konflikt"
+      "id": "aik-spelare-misst-nkta-f-r-spelfuskbrott"
     },
     {
-      "published_at": "2026-10-29T08:12:42+00:00",
-      "updated_at": "2026-10-29T08:12:42+00:00",
-      "title": "Uppgifter: Sancho erbjuden till Championship",
-      "summary": "Uppgifter: Sancho erbjuden till Championship Fotbollskanalen",
+      "published_at": "2026-10-29T14:17:00+00:00",
+      "updated_at": "2026-10-29T14:17:00+00:00",
+      "title": "Skribenten om Trelleborgs återkomst: \"Ledarstaben och spelarna ska vara stolta\"",
+      "summary": "Trelleborg är tillbaka i Superettan. Efter klubbens 3–1 seger i den senaste matchen mot Åtvidaberg säkrade man förstaplatsen i Division 1 Södra och därmed spel i Superettan. Vi har frågat Daniel Andersson, Trelleborg-skribent på SvenskaFans, om hans tankar kring avancemanget och nästa säsong",
       "category": [
         "Sverige"
       ],
@@ -1698,26 +1772,26 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2092931.jpg",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/skribenten-om-trelleborgs-aterkomst-ledarstaben-och-spelarna-ska-vara-stolta-702541"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/skribenten-om-trelleborgs-aterkomst-ledarstaben-och-spelarna-ska-vara-stolta-702541"
       },
       "confirmed_by": [],
-      "id": "uppgifter-sancho-erbjuden-till-championship"
+      "id": "skribenten-om-trelleborgs-terkomst-ledarstaben-och-spelarna-ska-vara-stolta"
     },
     {
-      "published_at": "2026-10-29T08:06:00+00:00",
-      "updated_at": "2026-10-29T08:06:00+00:00",
-      "title": "Uppgifter: Spalletti riskerar sparken",
-      "summary": "Uppgifter: Spalletti riskerar sparken Fotbollskanalen",
+      "published_at": "2026-10-29T13:37:42+00:00",
+      "updated_at": "2026-10-29T13:37:42+00:00",
+      "title": "Allsvenskan: Inför GAIS hemma",
+      "summary": "Efter ett misslyckade mot BP kommer GAIS på besök. Och de ska få sota för förra matchen...eller?",
       "category": [
         "Sverige"
       ],
@@ -1725,26 +1799,26 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/147894.jpg",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/allsvenskan-infor-gais-hemma-702539"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/allsvenskan-infor-gais-hemma-702539"
       },
       "confirmed_by": [],
-      "id": "uppgifter-spalletti-riskerar-sparken"
+      "id": "allsvenskan-inf-r-gais-hemma"
     },
     {
-      "published_at": "2026-10-29T07:13:18+00:00",
-      "updated_at": "2026-10-29T07:13:18+00:00",
-      "title": "Uppgifter: Hampus Andersson slutkandidat som sportsligt ansvarig i IFK Göteborg",
-      "summary": "Read the full report at Fotbollskanalen.",
+      "published_at": "2026-10-29T10:00:00+00:00",
+      "updated_at": "2026-10-29T10:00:00+00:00",
+      "title": "Djurgårdsklackens protest-tifo: ”Max 30 mil till bortamatcher på vardagar”",
+      "summary": "Djurgårdens supportrar riktade kritik mot spelschemat inför onsdagens bortamöte med IFK Göteborg. På läktaren på Gamla Ullevi vecklades ett stort budskap ut med en tydlig önskan: kortare resor till bortamatcher på vardagar",
       "category": [
         "Sverige"
       ],
@@ -1752,20 +1826,47 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/Tw2VLSsFM25wBGxsRPXfeXftnREliiLevIpJ8iLs.jpg",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/djurgardsklackens-protest-tifo-max-30-mil-till-bortamatcher-pa-vardagar-702529"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/djurgardsklackens-protest-tifo-max-30-mil-till-bortamatcher-pa-vardagar-702529"
       },
       "confirmed_by": [],
-      "id": "uppgifter-hampus-andersson-slutkandidat-som-sportsligt-ansvarig-i-ifk-g-teborg"
+      "id": "djurg-rdsklackens-protest-tifo-max-30-mil-till-bortamatcher-p-vardagar"
+    },
+    {
+      "published_at": "2026-10-29T10:00:00+00:00",
+      "updated_at": "2026-10-29T10:00:00+00:00",
+      "title": "Tolv år sedan Klas Ingesson lämnade oss - en hjälte som aldrig glöms",
+      "summary": "Den 29 oktober 2014 förlorade svensk fotboll en av sina största kämpar. I dag har det gått tolv år sedan Klas Ingesson lämnade oss. Men hans styrka, värme och kärlek till fotbollen lever vidare, inte minst hos alla oss med hjärtat i IF Elfsborg",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/517798.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/tolv-ar-sedan-klas-ingesson-lamnade-oss-en-hjalte-som-aldrig-gloms-702527"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/tolv-ar-sedan-klas-ingesson-lamnade-oss-en-hjalte-som-aldrig-gloms-702527"
+      },
+      "confirmed_by": [],
+      "id": "tolv-r-sedan-klas-ingesson-l-mnade-oss-en-hj-lte-som-aldrig-gl-ms"
     },
     {
       "published_at": "2026-10-29T08:53:10+00:00",
@@ -1795,114 +1896,6 @@
       "id": "ludvig-richtn-r-terv-nder-till-if-elfsborg-efter-utl-ningen"
     },
     {
-      "published_at": "2026-10-29T06:30:00+00:00",
-      "updated_at": "2026-10-29T06:30:00+00:00",
-      "title": "Krönika IFK Göteborg - Djurgården",
-      "summary": "Efter ett riktigt tungt poängtapp på hemmaplan mot Örgryte är det med några dagars vila dags att ta sig an nästa Göteborgslag. Blåvitt väntar på bortaplan och för Djurgården gäller det att vinna för att fortsätta hänga på i toppen av Allsvenskan. Kan blåränderna studsa tillbaka och skapa nerv i omgång 26?",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/aAvMcuDTwIqjgD63mi4avIJ6X3BkaHcrpGavpvMS.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/kronika-ifk-goteborg-djurgarden-702520"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/kronika-ifk-goteborg-djurgarden-702520"
-      },
-      "confirmed_by": [],
-      "id": "kr-nika-ifk-g-teborg-djurg-rden"
-    },
-    {
-      "published_at": "2026-10-28T20:52:38+00:00",
-      "updated_at": "2026-10-28T20:52:38+00:00",
-      "title": "Matchrapport Halmstad BK - Malmö FF 0-3",
-      "summary": "För tillfället är det inte med den största entusiasmen man sätter sig vid tangentbordet och knåpar ihop en text om Malmö FF, säsongen har varit en av de längsta på senare år och det är en transportsträcka innan vi får ta den allsvenska säsongen i mål",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/jfQEDerM7ubMOB5R4KUIJhq7MEneuqnyFGU3WdXR.png",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/matchrapport-halmstad-bk-malmo-ff-0-3-702505"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/matchrapport-halmstad-bk-malmo-ff-0-3-702505"
-      },
-      "confirmed_by": [],
-      "id": "matchrapport-halmstad-bk-malm-ff-0-3"
-    },
-    {
-      "published_at": "2026-10-28T20:41:00+00:00",
-      "updated_at": "2026-10-28T20:41:00+00:00",
-      "title": "Värnamo-Sandviken: 0-1 (0-0)",
-      "summary": "IFK Värnamo går in i de två sista omgångarna med mycket kvar att spela om. Förlusten mot Sandviken innebär att laget inte längre har samma marginaler i kampen om att undvika kval och nedflyttning. Samtidigt finns utgångsläget fortfarande i egna händer, men matchen väcker frågor om lagets spelmässiga styrkor och svagheter inför slutspurten",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/6V8jxVbnEjksRxfiBiHzsAhX6GFPokXUbSYYoAjO.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/varnamo-sandviken-0-1-0-0-702503"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/varnamo-sandviken-0-1-0-0-702503"
-      },
-      "confirmed_by": [],
-      "id": "v-rnamo-sandviken-0-1-0-0"
-    },
-    {
-      "published_at": "2026-10-28T20:21:37+00:00",
-      "updated_at": "2026-10-28T20:21:37+00:00",
-      "title": "AIK-Elfsborg 2-2: Ännu en gång fälldes Gnaget av fasta situationer",
-      "summary": "AIK såg ut att gå mot tre poäng, men ännu en gång blev försvarsspelet lagets fall. Två insläppta mål på hörnor innebar att Elfsborg fick med sig en poäng från Strawberry Arena- och lämnade Gnaget med fler frågor än svar",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/WDjNJlTLfo1nqhv695PdbeDfJ14ZC2qaGZaWhzoD.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/aik-elfsborg-2-2-annu-en-gang-falldes-gnaget-av-fasta-situationer-702497"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/aik-elfsborg-2-2-annu-en-gang-falldes-gnaget-av-fasta-situationer-702497"
-      },
-      "confirmed_by": [],
-      "id": "aik-elfsborg-2-2-nnu-en-g-ng-f-lldes-gnaget-av-fasta-situationer"
-    },
-    {
       "published_at": "2026-10-27T15:16:00+00:00",
       "updated_at": "2026-10-27T15:16:00+00:00",
       "title": "Ligue 1 reschedules matches amid public protests in France",
@@ -1928,6 +1921,61 @@
       },
       "confirmed_by": [],
       "id": "ligue-1-reschedules-matches-amid-public-protests-in-france"
+    },
+    {
+      "published_at": "2026-10-24T13:00:00+00:00",
+      "updated_at": "2026-10-24T13:00:00+00:00",
+      "title": "Curtis Jones: Serie A too slow? Inter arrival explains Liverpool similarity",
+      "summary": "Read the full report at ESPN.",
+      "category": [
+        "Premier League",
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "ESPN",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "curtis-jones-serie-a-too-slow-inter-arrival-explains-liverpool-similarity"
+    },
+    {
+      "published_at": "2026-10-27T11:22:14+00:00",
+      "updated_at": "2026-10-27T11:22:14+00:00",
+      "title": "Newspaper reveals Serie A clubs’ stances on Galliani and Malagò as crucial meeting looms",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "newspaper-reveals-serie-a-clubs-stances-on-galliani-and-malag-as-crucial-meeting-looms"
     },
     {
       "published_at": "2026-10-26T18:41:55+00:00",
