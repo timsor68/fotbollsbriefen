@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T05:16:42.292334+00:00",
+  "updated_at": "2026-11-15T13:35:07.201168+00:00",
   "items": [
     {
       "published_at": "2026-11-14T20:43:57+00:00",
@@ -26,6 +26,10 @@
         {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/football/2026/nov/14/luis-de-la-fuente-spain-england-racism-thomas-tuchel-natiions-league"
+        },
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50481150/england-spain-de-la-fuente"
         }
       ],
       "language": "en",
@@ -41,6 +45,10 @@
         {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/football/2026/nov/14/luis-de-la-fuente-spain-england-racism-thomas-tuchel-natiions-league"
+        },
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50481150/england-spain-de-la-fuente"
         }
       ],
       "id": "no-racism-in-spain-de-la-fuente-message-for-tuchel"
@@ -64,10 +72,6 @@
           "url": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions"
-        },
-        {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/football/2026/nov/14/declan-rice-england-spain-nations-league-world-cup-thomas-tuchel"
         }
@@ -79,10 +83,6 @@
       },
       "confirmed_by": [
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions"
-        },
-        {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/football/2026/nov/14/declan-rice-england-spain-nations-league-world-cup-thomas-tuchel"
         }
@@ -93,7 +93,7 @@
       "published_at": "2026-11-14T07:22:00+00:00",
       "updated_at": "2026-11-14T07:22:00+00:00",
       "title": "Goalkeeper Owono given 12-match ban after De Miguel's death from collision",
-      "summary": "FC Andorra goalkeeper collided with De Miguel Owono: ‘I feel immense pain over the loss of Jesús’ The FC Andorra goalkeeper Jesús Owono was suspended for 12 matches by the Spanish football federation’s disciplinary committee on Friday after his challenge on Jesús de Miguel resulted in the death of the Tenerife striker last week. Owono, an Equatorial Guinea international, was sent off in the second division match on 2 November after racing into midfield and colliding with De Miguel while trying to clear an aerial ball. After the collision, De Miguel, 30, was placed in intensive care in hospital and the Spanish forward died on 3 November.",
+      "summary": "FC Andorra goalkeeper Jesus Owono has been suspended for 12 matches for his challenge of \"excessive force\" which resulted in the death of Tenerife forward Jesus de Miguel",
       "category": [
         "Football"
       ],
@@ -108,8 +108,8 @@
           "url": "https://www.skysports.com/football/news/11095/13612118/goalkeeper-jesus-owono-given-12-match-ban-after-tenerife-forward-jesus-de-miguels-death-following-collision"
         },
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/nov/13/jesus-owono-given-12-match-ban-for-tackle-that-resulted-in-jesus-de-miguels-death"
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50474551/andorra-goalkeeper-jesus-owono-tenerife-death-jesus-de-miguel"
         }
       ],
       "language": "en",
@@ -119,11 +119,38 @@
       },
       "confirmed_by": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/nov/13/jesus-owono-given-12-match-ban-for-tackle-that-resulted-in-jesus-de-miguels-death"
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50474551/andorra-goalkeeper-jesus-owono-tenerife-death-jesus-de-miguel"
         }
       ],
       "id": "goalkeeper-owono-given-12-match-ban-after-de-miguel-s-death-from-collision"
+    },
+    {
+      "published_at": "2026-11-15T13:15:15+00:00",
+      "updated_at": "2026-11-15T13:15:15+00:00",
+      "title": "Branthwaite, Garner and King omitted for Spain game",
+      "summary": "England manager Thomas Tuchel omits Josh King, James Garner and Jarrad Branthwaite from his squad to face Spain on Sunday night",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/77b7/live/b6cfa6a0-e0f4-11f1-93e1-3b657b665bcf.png",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq4gn7014x76o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cq4gn7014x76o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "branthwaite-garner-and-king-omitted-for-spain-game"
     },
     {
       "published_at": "2026-11-14T23:21:45+00:00",
@@ -288,94 +315,31 @@
       "id": "fitness-obsessed-control-freak-what-can-man-utd-expect-from-pochettino"
     },
     {
-      "published_at": "2026-11-13T12:09:48+00:00",
-      "updated_at": "2026-11-13T12:09:48+00:00",
-      "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
-      "summary": "With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't",
+      "published_at": "2026-11-13T08:13:19+00:00",
+      "updated_at": "2026-11-13T08:13:19+00:00",
+      "title": "From postcards to texts, the different ways a manager gets the sack - Pulis",
+      "summary": "BBC Sport columnist Tony Pulis explains some of the different ways a manager can leave a club, whether they have been sacked or resigned",
       "category": [
-        "Football"
+        "Coach"
       ],
       "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f043/live/468fa2e0-dddf-11f1-b465-b9821c2582d4.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "how-ferguson-inspired-pochettino-can-succeed-where-carrick-failed-at-man-utd"
-    },
-    {
-      "published_at": "2026-11-13T09:55:01+00:00",
-      "updated_at": "2026-11-13T09:55:01+00:00",
-      "title": "Fernandes rejects second Man Utd contract offer",
-      "summary": "Manchester United captain Bruno Fernandes rejects the club's second contract offer, with his current deal due to expire at the end of the season",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9f4c/live/65464ec0-df45-11f1-a48c-75dd2efdacb5.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "fernandes-rejects-second-man-utd-contract-offer"
-    },
-    {
-      "published_at": "2026-11-13T14:32:21+00:00",
-      "updated_at": "2026-11-13T14:32:21+00:00",
-      "title": "Officiellt: Öster skriver kontrakt med Lind",
-      "summary": "IF Elfsborg är på väg mot Damallsvenskan och fortsätter samtidigt att satsa på framtiden. Nu har klubben skrivit ett ungdomsavtal med den lovande yttern Hanna Hidirsah, född 2011. Talangen har redan debuterat i det svenska ungdomslandslaget och har nu kontrakt med Boråsklubben över säsongen 2028",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/officiellt-if-elfsborg-sakrar-jattetalangen-skriver-kontrakt-over-sasongen-2028-703122"
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cve8716dg46xo?at_medium=RSS&at_campaign=rss"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cve8716dg46xo?at_medium=RSS&at_campaign=rss"
       },
-      "confirmed_by": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/officiellt-if-elfsborg-sakrar-jattetalangen-skriver-kontrakt-over-sasongen-2028-703122"
-        }
-      ],
-      "id": "officiellt-ster-skriver-kontrakt-med-lind"
+      "confirmed_by": [],
+      "id": "from-postcards-to-texts-the-different-ways-a-manager-gets-the-sack-pulis"
     },
     {
       "published_at": "2026-11-12T22:26:00+00:00",
@@ -425,65 +389,29 @@
       "entity": "lionel-messi",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/11/1600x900/skysports-raphinha-brazil_7406385.jpg?20261114130232",
+      "image": "https://i.guim.co.uk/img/media/b5c5443a861f877f996d325d235fb3f5ee577cee/228_69_1398_1119/master/1398.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0288b16b7e3aa9e3e511e5e8e0953630",
       "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
-        },
         {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark"
+        },
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50479572/brazil-japan-carlo-ancelotti-red-card"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark"
       },
       "confirmed_by": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark"
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50479572/brazil-japan-carlo-ancelotti-red-card"
         }
       ],
       "id": "raphinha-sees-red-as-brazil-stunned-by-japan-while-argentina-s-post-messi-era-starts-with-"
-    },
-    {
-      "published_at": "2026-11-13T14:00:06+00:00",
-      "updated_at": "2026-11-13T14:00:06+00:00",
-      "title": "Uppgifter: FFF intresserat av ytterback",
-      "summary": "Falkenbergs FF har säkrat ett allsvenskt kontrakt och man går nu mot en intressant framtid. Under fredagen kommer uppgifter gällande att man nu har ögonen öppna och är intresserade av Olle Backlund",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/uppgifter-fff-intresserat-av-ytterback-703292"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/uppgifter-fff-intresserat-av-ytterback-703292"
-        }
-      ],
-      "id": "uppgifter-fff-intresserat-av-ytterback"
     },
     {
       "published_at": "2026-11-12T19:41:00+00:00",
@@ -522,6 +450,33 @@
       "id": "skadesm-ll-f-r-sverige-succ-spelaren-missar-nations-league"
     },
     {
+      "published_at": "2026-11-15T09:47:00+00:00",
+      "updated_at": "2026-11-15T09:47:00+00:00",
+      "title": "Papers: Fernandes wants to see if Poch is 'real deal' before signing new contract",
+      "summary": "Plus: Pochettino is set to crack the whip with his players to improve their much-criticised fitness; United have snapped up teenage striker Tyler Adjei from Reading; James Trafford has been told he will start for England against Spain",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13612415/x-paper-talk"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13612415/x-paper-talk"
+      },
+      "confirmed_by": [],
+      "id": "papers-fernandes-wants-to-see-if-poch-is-real-deal-before-signing-new-contract"
+    },
+    {
       "published_at": "2026-11-14T07:00:00+00:00",
       "updated_at": "2026-11-14T07:00:00+00:00",
       "title": "What does a Pochettino team look like?",
@@ -547,33 +502,6 @@
       },
       "confirmed_by": [],
       "id": "what-does-a-pochettino-team-look-like"
-    },
-    {
-      "published_at": "2026-11-13T15:00:00+00:00",
-      "updated_at": "2026-11-13T15:00:00+00:00",
-      "title": "Tearful Pochettino admits he 'couldn't say no to Man Utd'",
-      "summary": "An emotional Mauricio Pochettino said that leaving his role with the United States was the \"toughest decision of his career\" but admitted he couldn't turn down the chance to become head coach of Manchester United",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/26/11/1600x900/skysports-mauricio-pochettinp_7405898.jpg?20261113153009",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13611887/mauricio-pochettino-new-man-utd-head-coach-in-tears-as-he-labels-leaving-usmnt-toughest-decision-of-career"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13611887/mauricio-pochettino-new-man-utd-head-coach-in-tears-as-he-labels-leaving-usmnt-toughest-decision-of-career"
-      },
-      "confirmed_by": [],
-      "id": "tearful-pochettino-admits-he-couldn-t-say-no-to-man-utd"
     },
     {
       "published_at": "2026-11-12T08:00:00+00:00",
@@ -604,10 +532,10 @@
       "id": "pierre-sage-sacked-how-things-went-so-wrong-for-crystal-palace-and-last-season-s-french-ma"
     },
     {
-      "published_at": "2026-11-14T10:40:45+00:00",
-      "updated_at": "2026-11-14T10:40:45+00:00",
-      "title": "Officiellt: Tibbling klar för Afturelding",
-      "summary": "Officiellt: Tibbling klar för Afturelding Fotbollskanalen",
+      "published_at": "2026-11-15T08:54:31+00:00",
+      "updated_at": "2026-11-15T08:54:31+00:00",
+      "title": "Uppgifter: Fernandes avvaktar nytt kontrakt",
+      "summary": "Uppgifter: Fernandes avvaktar nytt kontrakt Fotbollskanalen",
       "category": [
         "Sverige"
       ],
@@ -628,7 +556,34 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "officiellt-tibbling-klar-f-r-afturelding"
+      "id": "uppgifter-fernandes-avvaktar-nytt-kontrakt"
+    },
+    {
+      "published_at": "2026-11-15T08:53:00+00:00",
+      "updated_at": "2026-11-15T08:53:00+00:00",
+      "title": "Beskedet: Bernado Silva skadad",
+      "summary": "Beskedet: Bernado Silva skadad Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "beskedet-bernado-silva-skadad"
     },
     {
       "published_at": "2026-11-14T10:33:00+00:00",
@@ -658,8 +613,92 @@
       "id": "dorgu-skadad-l-mnar-danmarks-samling"
     },
     {
-      "published_at": "2026-11-13T05:02:55+00:00",
-      "updated_at": "2026-11-13T05:02:55+00:00",
+      "published_at": "2026-11-13T18:28:56+00:00",
+      "updated_at": "2026-11-13T18:28:56+00:00",
+      "title": "\"Pochettino inte rätt tränare för Manchester United\"",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige",
+        "Premier League",
+        "Coach"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "pochettino-inte-r-tt-tr-nare-f-r-manchester-united"
+    },
+    {
+      "published_at": "2026-11-12T10:11:11+00:00",
+      "updated_at": "2026-11-12T10:11:11+00:00",
+      "title": "Officiellt: Lindelöf förlänger med Aston Villa",
+      "summary": "Officiellt: Lindelöf förlänger med Aston Villa Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "officiellt-lindel-f-f-rl-nger-med-aston-villa"
+    },
+    {
+      "published_at": "2026-11-12T08:00:00+00:00",
+      "updated_at": "2026-11-12T08:00:00+00:00",
+      "title": "Officiellt: Tibbling klar för Afturelding",
+      "summary": "Officiellt: Tibbling klar för Afturelding Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "officiellt-tibbling-klar-f-r-afturelding"
+    },
+    {
+      "published_at": "2026-11-11T05:03:02+00:00",
+      "updated_at": "2026-11-11T05:03:02+00:00",
       "title": "Damallsvenska tränare sparkas och flyr på löpande band",
       "summary": "Read the full report at Fotbollskanalen.",
       "category": [
@@ -684,34 +723,6 @@
       },
       "confirmed_by": [],
       "id": "damallsvenska-tr-nare-sparkas-och-flyr-p-l-pande-band"
-    },
-    {
-      "published_at": "2026-11-10T21:09:04+00:00",
-      "updated_at": "2026-11-10T21:09:04+00:00",
-      "title": "Kim Hellberg prisad som månadens tränare",
-      "summary": "Kim Hellberg prisad som månadens tränare Fotbollskanalen",
-      "category": [
-        "Sverige",
-        "Coach"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "kim-hellberg-prisad-som-m-nadens-tr-nare"
     },
     {
       "published_at": "2026-11-10T20:16:00+00:00",
@@ -741,31 +752,40 @@
       "id": "l-equipe-tchouameni-har-kt-p-skada-missar-landskamper"
     },
     {
-      "published_at": "2026-11-10T17:16:00+00:00",
-      "updated_at": "2026-11-10T17:16:00+00:00",
-      "title": "Klart: Gais förlänger med Holmén",
-      "summary": "Klart: Gais förlänger med Holmén Fotbollskanalen",
+      "published_at": "2026-11-14T22:50:31+00:00",
+      "updated_at": "2026-11-14T22:50:31+00:00",
+      "title": "Lista: Pekar ut Sveriges tre bästa spelare mot Bosnien",
+      "summary": "Det blev en 3–2-seger mot Bosnien-Hercegovina där Sverige hängde på repen mot slutet. SVT:s expert Magnus Eriksson tar ut de tre spelarna han tyckte var bäst i landskampen som säkrade gruppsegern i Nations League. – Han är ovärderlig för Sverige, säger han om sin etta",
       "category": [
         "Sverige"
       ],
-      "status": "Reported",
+      "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.75/0.27/71857f55fa013ea7346d1c3e2950d1530985fb69a5e6ae0a48fb19a11e9e134c?template=q1mcfv",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/lista-pekar-ut-sveriges-tre-basta-spelare-mot-bosnien"
+        },
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/tre-punkter-efter-sveriges-3-2-vinst-mot-bosnien-703353"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/lista-pekar-ut-sveriges-tre-basta-spelare-mot-bosnien"
       },
-      "confirmed_by": [],
-      "id": "klart-gais-f-rl-nger-med-holm-n"
+      "confirmed_by": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/tre-punkter-efter-sveriges-3-2-vinst-mot-bosnien-703353"
+        }
+      ],
+      "id": "lista-pekar-ut-sveriges-tre-b-sta-spelare-mot-bosnien"
     },
     {
       "published_at": "2026-11-14T21:39:41+00:00",
@@ -876,10 +896,37 @@
       "id": "elfsborg-och-ifk-g-teborg-klara-f-r-damallsvenskan-efter-rysare"
     },
     {
+      "published_at": "2026-11-15T12:00:16+00:00",
+      "updated_at": "2026-11-15T12:00:16+00:00",
+      "title": "Record-breaking Andy Robertson is Scotland’s finest captain",
+      "summary": "As he passes Kenny Dalglish’s appearance total, it is important to remember that it is the left-back’s journey that sets him apart Andy Robertson may not be Scotland’s greatest player, but he is indisputably their finest captain. It counts as sacrilege, even to generations who have watched Kenny Dalglish only on YouTube, to reputationally place Robertson above the Liverpool hero on the basis of a cap haul that will reach 103 in St Gallen on Monday. Dalglish’s international career ended at 102 and the curious events that meant he missed the 1986 World Cup.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/ad3e3535a615f52d6231a53a141a87495c61cbb0/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2550d71518fb73ba479fc1b61504acb1",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/15/record-breaking-andy-robertson-is-scotlands-finest-captain"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/nov/15/record-breaking-andy-robertson-is-scotlands-finest-captain"
+      },
+      "confirmed_by": [],
+      "id": "record-breaking-andy-robertson-is-scotland-s-finest-captain"
+    },
+    {
       "published_at": "2026-11-14T20:00:53+00:00",
       "updated_at": "2026-11-14T20:00:53+00:00",
       "title": "Here Manchester United go again, taking the Two Ronnies route to hiring a new boss | Jonathan Wilson",
-      "summary": "Mauricio Pochettino’s arrival feels like yet another appointment that would have been better made a few years ago Magnusson: And your time starts ... Magnusson: What’s the name of the directory that lists members of the peerage? Who are Len Murray and Sir Geoffrey Howe?",
+      "summary": "Mauricio Pochettino’s arrival feels like yet another appointment that would have been better made a few years ago Magnusson: And your time starts … now! Magnusson: What’s the name of the directory that lists members of the peerage? Who are Len Murray and Sir Geoffrey Howe?",
       "category": [
         "Premier League"
       ],
@@ -1092,31 +1139,31 @@
       "id": "complaint-filed-to-irs-in-relation-to-fifa-head-gianni-infantino-s-housekeeper"
     },
     {
-      "published_at": "2026-11-09T14:10:43+00:00",
-      "updated_at": "2026-11-09T14:10:43+00:00",
-      "title": "Felix Nmecha’s faith is forcing Borussia Dortmund into an uncomfortable debate",
-      "summary": "Midfielder’s spectacular strikes rescued a frustrating day, only for celebrations to reignite dialogue that has followed him through his career It was just what they needed at just the right time. For a tricky first half and beyond, Elversberg had been a stone in Borussia Dortmund’s shoe, the promoted side not just keeping the home team at bay but keeping them honest, nourishing ambitions of their own. “The fatigue was clearly visible,” the sporting director, Ole Book, said to Sky after a week which had contained Der Klassiker in Munich and a hard-fought Champions League victory against Betis.",
+      "published_at": "2026-11-13T14:00:06+00:00",
+      "updated_at": "2026-11-13T14:00:06+00:00",
+      "title": "Uppgifter: FFF intresserat av ytterback",
+      "summary": "Falkenbergs FF har säkrat ett allsvenskt kontrakt och man går nu mot en intressant framtid. Under fredagen kommer uppgifter gällande att man nu har ögonen öppna och är intresserade av Olle Backlund",
       "category": [
-        "Bundesliga"
+        "Sverige"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "borussia-dortmund",
-      "image": "https://i.guim.co.uk/img/media/3d59d7c25fe80f58c6c1abd29b6ffc95941e94f1/0_0_4253_3403/master/4253.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=679800df75968bf5c6425accb2c185e5",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/gV8JjdewGEvDHAI55hR6RLx9IjbpN9AUGOywyIHW.jpg",
       "sources": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/nov/09/felix-nmecha-faith-borussia-dortmund-debate-bundesliga"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/uppgifter-fff-intresserat-av-ytterback-703292"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/nov/09/felix-nmecha-faith-borussia-dortmund-debate-bundesliga"
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/uppgifter-fff-intresserat-av-ytterback-703292"
       },
       "confirmed_by": [],
-      "id": "felix-nmecha-s-faith-is-forcing-borussia-dortmund-into-an-uncomfortable-debate"
+      "id": "uppgifter-fff-intresserat-av-ytterback"
     },
     {
       "published_at": "2026-11-12T15:13:38+00:00",
@@ -1146,6 +1193,33 @@
       "id": "laci-kunde-skrivit-p-f-r-falkenbergs-ff-hade-bra-snack"
     },
     {
+      "published_at": "2026-11-09T15:58:00+00:00",
+      "updated_at": "2026-11-09T15:58:00+00:00",
+      "title": "Officiellt: IF Elfsborg säkrar jättetalangen - skriver kontrakt över säsongen 2028",
+      "summary": "IF Elfsborg är på väg mot Damallsvenskan och fortsätter samtidigt att satsa på framtiden. Nu har klubben skrivit ett ungdomsavtal med den lovande yttern Hanna Hidirsah, född 2011. Talangen har redan debuterat i det svenska ungdomslandslaget och har nu kontrakt med Boråsklubben över säsongen 2028",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/2072784.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/officiellt-if-elfsborg-sakrar-jattetalangen-skriver-kontrakt-over-sasongen-2028-703122"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/officiellt-if-elfsborg-sakrar-jattetalangen-skriver-kontrakt-over-sasongen-2028-703122"
+      },
+      "confirmed_by": [],
+      "id": "officiellt-if-elfsborg-s-krar-j-ttetalangen-skriver-kontrakt-ver-s-songen-2028"
+    },
+    {
       "published_at": "2026-11-08T17:40:45+00:00",
       "updated_at": "2026-11-08T17:40:45+00:00",
       "title": "IF Brommapojkarna – Mjällby AIF: Det är den här tiden på året",
@@ -1171,6 +1245,142 @@
       },
       "confirmed_by": [],
       "id": "if-brommapojkarna-mj-llby-aif-det-r-den-h-r-tiden-p-ret"
+    },
+    {
+      "published_at": "2026-11-15T13:05:39+00:00",
+      "updated_at": "2026-11-15T13:05:39+00:00",
+      "title": "Reaction as Brazil legend Ronaldinho comes out of retirement at Ravenna to chase 300th goal",
+      "summary": "Ronaldinho is coming out of retirement to play for Italian Serie C side Ravenna at age 46 in a bid to score his 300th career goal.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1112%2Fr1744719_1296x729_16%2D9.jpg",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50489043/ronaldinho-ravenna-brazil-barcelona-serie-c"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/50489043/ronaldinho-ravenna-brazil-barcelona-serie-c"
+      },
+      "confirmed_by": [],
+      "id": "reaction-as-brazil-legend-ronaldinho-comes-out-of-retirement-at-ravenna-to-chase-300th-goa"
+    },
+    {
+      "published_at": "2026-11-15T10:30:45+00:00",
+      "updated_at": "2026-11-15T10:30:45+00:00",
+      "title": "Transfer rumors, news: Arsenal eye former Tottenham striker Lankshear",
+      "summary": "Arsenal are the latest team to join a long list of admirers following Middlesbrough striker Will Lankshear.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "arsenal",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0815%2Fr1702141_1296x729_16%2D9.jpg",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50489327/transfer-rumors-news-gossip-arsenal-tottenham-lankshear"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/50489327/transfer-rumors-news-gossip-arsenal-tottenham-lankshear"
+      },
+      "confirmed_by": [],
+      "id": "transfer-rumors-news-arsenal-eye-former-tottenham-striker-lankshear"
+    },
+    {
+      "published_at": "2026-11-15T09:03:13+00:00",
+      "updated_at": "2026-11-15T09:03:13+00:00",
+      "title": "'Nonsense' and 'annoying': Zidane dismisses reports over Mbappé relationship",
+      "summary": "France coach Zinedine Zidane dismissed reports of a strained relationship with star forward Kylian Mbappé",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1115%2Fr1745944_1296x729_16%2D9.jpg",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50485397/zinedine-zidane-kylian-mbappe-france-uefa-nations-league"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/50485397/zinedine-zidane-kylian-mbappe-france-uefa-nations-league"
+      },
+      "confirmed_by": [],
+      "id": "nonsense-and-annoying-zidane-dismisses-reports-over-mbapp-relationship"
+    },
+    {
+      "published_at": "2026-11-15T08:50:47+00:00",
+      "updated_at": "2026-11-15T08:50:47+00:00",
+      "title": "In Pochettino, Man United finally have a proper manager",
+      "summary": "After years of near-misses, Man United have finally landed Mauricio Pochettino, a manager with the kind of pedigree, class and credibility the club have been looking for",
+      "category": [
+        "Coach"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1111%2Fr1744396_1296x729_16%2D9.jpg",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50452091/manchester-united-hire-mauricio-pochettino-reaction"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/50452091/manchester-united-hire-mauricio-pochettino-reaction"
+      },
+      "confirmed_by": [],
+      "id": "in-pochettino-man-united-finally-have-a-proper-manager"
+    },
+    {
+      "published_at": "2026-11-15T08:49:09+00:00",
+      "updated_at": "2026-11-15T08:49:09+00:00",
+      "title": "Where are they now? Every Man United player, manager, executive since Glazers' takeover in 2005",
+      "summary": "The Glazer family took over Manchester United in 2005, but what has happened to the players, managers and executive staff since?",
+      "category": [
+        "Coach"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1112%2Fr1744720_1296x729_16%2D9.jpg",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50432839/manchester-united-glazers-transfers-players-managers"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/50432839/manchester-united-glazers-transfers-players-managers"
+      },
+      "confirmed_by": [],
+      "id": "where-are-they-now-every-man-united-player-manager-executive-since-glazers-takeover-in-200"
     },
     {
       "published_at": "2026-11-14T09:17:16+00:00",
@@ -1201,6 +1411,61 @@
       "id": "cardinale-i-want-to-sign-the-best-players-in-the-world-i-ll-never-sell-milan"
     },
     {
+      "published_at": "2026-11-13T20:55:06+00:00",
+      "updated_at": "2026-11-13T20:55:06+00:00",
+      "title": "Official: Spezia majority ownership stake bought by US billionaire Repole",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Club management"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "official-spezia-majority-ownership-stake-bought-by-us-billionaire-repole"
+    },
+    {
+      "published_at": "2026-11-13T18:22:12+00:00",
+      "updated_at": "2026-11-13T18:22:12+00:00",
+      "title": "Tare: ‘Leao priority was not football, Liverpool had Gomez agreement’",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "liverpool",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "tare-leao-priority-was-not-football-liverpool-had-gomez-agreement"
+    },
+    {
       "published_at": "2026-11-12T16:16:47+00:00",
       "updated_at": "2026-11-12T16:16:47+00:00",
       "title": "Official: Calò wins Serie A Player of the Month after Italy snub",
@@ -1228,44 +1493,8 @@
       "id": "official-cal-wins-serie-a-player-of-the-month-after-italy-snub"
     },
     {
-      "published_at": "2026-11-13T21:35:00+00:00",
-      "updated_at": "2026-11-13T21:35:00+00:00",
-      "title": "McGinn double seals win for ragged Scotland",
-      "summary": "A special occasion for Andy Robertson saw Scotland flirt with embarrassment. Collection of his 102nd cap moves him level with Kenny Dalglish in the all-time Scottish list. Robertson will soon be a record holder.",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/11/1600x900/skysports-john-mcginn-scotland_7406088.jpg?20261113211951",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/scotland-vs-north-macedonia/report/554098"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/nov/13/scotland-north-macedonia-nations-league-match-report"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/scotland-vs-north-macedonia/report/554098"
-      },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/nov/13/scotland-north-macedonia-nations-league-match-report"
-        }
-      ],
-      "id": "mcginn-double-seals-win-for-ragged-scotland"
-    },
-    {
-      "published_at": "2026-11-14T20:22:00+00:00",
-      "updated_at": "2026-11-14T20:22:00+00:00",
+      "published_at": "2026-11-15T08:52:54+00:00",
+      "updated_at": "2026-11-15T08:52:54+00:00",
       "title": "Haaland bryter tystnaden om City-domen i märklig intervju",
       "summary": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
@@ -1301,10 +1530,10 @@
       "id": "haaland-bryter-tystnaden-om-city-domen-i-m-rklig-intervju"
     },
     {
-      "published_at": "2026-11-14T22:50:31+00:00",
-      "updated_at": "2026-11-14T22:50:31+00:00",
-      "title": "Lista: Pekar ut Sveriges tre bästa spelare mot Bosnien",
-      "summary": "Det blev en 3–2-seger mot Bosnien-Hercegovina där Sverige hängde på repen mot slutet. SVT:s expert Magnus Eriksson tar ut de tre spelarna han tyckte var bäst i landskampen som säkrade gruppsegern i Nations League. – Han är ovärderlig för Sverige, säger han om sin etta",
+      "published_at": "2026-11-15T11:31:05+00:00",
+      "updated_at": "2026-11-15T11:31:05+00:00",
+      "title": "Avtackningsfiasko till svenska landslagsprofilerna: ”Ovärdigt”",
+      "summary": "Flera blågula profiler tackades av efter segern mot Bosnien-Hercegovina. – Det är ovärdigt, säger Viaplays expert Erik Niva",
       "category": [
         "Sverige"
       ],
@@ -1312,20 +1541,128 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.75/0.27/71857f55fa013ea7346d1c3e2950d1530985fb69a5e6ae0a48fb19a11e9e134c?template=q1mcfv",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.2/0.37/3dce389e5e226d94be7b4a07b263449d9a3b704316f43378a71fced06ce2e98e",
       "sources": [
         {
           "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/lista-pekar-ut-sveriges-tre-basta-spelare-mot-bosnien"
+          "url": "https://www.svt.se/sport/fotboll/avtackningsfiasko-till-svenska-landslagsprofilerna-ovardigt"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/lista-pekar-ut-sveriges-tre-basta-spelare-mot-bosnien"
+        "url": "https://www.svt.se/sport/fotboll/avtackningsfiasko-till-svenska-landslagsprofilerna-ovardigt"
       },
       "confirmed_by": [],
-      "id": "lista-pekar-ut-sveriges-tre-b-sta-spelare-mot-bosnien"
+      "id": "avtackningsfiasko-till-svenska-landslagsprofilerna-ov-rdigt"
+    },
+    {
+      "published_at": "2026-11-15T08:21:46+00:00",
+      "updated_at": "2026-11-15T08:21:46+00:00",
+      "title": "En match kvar – sen finns inte klubben mer: ”Suddas ut”",
+      "summary": "Damallsvenska IK Uppsala har en match kvar. Sedan är klubbens tioåriga historia över. – En stor sorg, säger tränaren Hanna Spets till SVT Sport",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.73/0.35/acac5ef07be30fca5d2f26e272a1eb5c7893df953cdec8dd260dbdb951435cf1",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/en-match-kvar-sen-finns-inte-klubben-mer-suddas-ut"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/en-match-kvar-sen-finns-inte-klubben-mer-suddas-ut"
+      },
+      "confirmed_by": [],
+      "id": "en-match-kvar-sen-finns-inte-klubben-mer-suddas-ut"
+    },
+    {
+      "published_at": "2026-11-15T08:05:03+00:00",
+      "updated_at": "2026-11-15T08:05:03+00:00",
+      "title": "Haalands svar om bilderna på familjen: ”Mer nervös än mig”",
+      "summary": "Erling Haaland satte en kylig straff mot Wales. Efteråt fick han frågor om bilderna på sin familj på läktaren. – Det ser ut som de är mer nervösa än mig, säger Haaland till NRK",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.72/0.4/35f070cf5f90857433ed95ca9595c619be1d52860bdf70948013fe0aeff72fd9",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/haalands-svar-om-bilderna-pa-familjen-mer-nervos-an-mig"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/haalands-svar-om-bilderna-pa-familjen-mer-nervos-an-mig"
+      },
+      "confirmed_by": [],
+      "id": "haalands-svar-om-bilderna-p-familjen-mer-nerv-s-n-mig"
+    },
+    {
+      "published_at": "2026-11-15T07:05:55+00:00",
+      "updated_at": "2026-11-15T07:05:55+00:00",
+      "title": "Ronaldinhos nya trick viralt: ”Folk tror det är AI”",
+      "summary": "Fotbollslegendaren Ronaldinho gör en uppmärksammad comeback. Ett klipp från 46-åringens träning har fått stor spridning på sociala medier. ”Folk kommer tro att det är AI”, skriver brasilianaren om tricket",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.71/0.39/42009015723eae7e109129e9fe7854fd12fc677ceed68c8a292257a26c060e9b",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/ronaldinhos-nya-trick-viralt-folk-tror-det-ar-ai"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/ronaldinhos-nya-trick-viralt-folk-tror-det-ar-ai"
+      },
+      "confirmed_by": [],
+      "id": "ronaldinhos-nya-trick-viralt-folk-tror-det-r-ai"
+    },
+    {
+      "published_at": "2026-11-15T05:59:25+00:00",
+      "updated_at": "2026-11-15T05:59:25+00:00",
+      "title": "Se Daniel Svenssons perfekta nick: ”Jag blev lite chockad”",
+      "summary": "Daniel Svensson skarvade in sitt första landslagsmål efter ett inlägg från Anthony Elanga. – Vi har jobbat på det mönstret, säger Svensson till SVT Sport",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.33/0.43/f93fd3c41e8f76f96926bd8d7e40be5a9e1202538de187d218ed1f54dabae17c",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/se-daniel-svenssons-perfekta-nick-jag-blev-lite-chockad"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/se-daniel-svenssons-perfekta-nick-jag-blev-lite-chockad"
+      },
+      "confirmed_by": [],
+      "id": "se-daniel-svenssons-perfekta-nick-jag-blev-lite-chockad"
     },
     {
       "published_at": "2026-11-14T21:42:35+00:00",
@@ -1355,140 +1692,31 @@
       "id": "danmarks-j-ttekross-slog-portugal-p-bortaplan-med-4-1"
     },
     {
-      "published_at": "2026-11-14T21:26:01+00:00",
-      "updated_at": "2026-11-14T21:26:01+00:00",
-      "title": "Nytt publikrekord på nationalarenan",
-      "summary": "Publikrekord i Nations League-mötet mellan Sverige och Bosnien-Hercegovina.",
+      "published_at": "2026-11-15T10:28:00+00:00",
+      "updated_at": "2026-11-15T10:28:00+00:00",
+      "title": "England latest: King among trio left out of squad for Spain clash",
+      "summary": "Read the full report at Sky Sports.",
       "category": [
-        "Sverige"
+        "Football"
       ],
-      "status": "Confirmed",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.18/0.42/3d3acc17497cbbb5fc1972b134a03cbffae49f88261711d2bde34aacb23131fe",
+      "image": "https://e0.365dm.com/25/09/1600x900/skysports-england-tuchel-thomas_7014353.jpg?20250908122212",
       "sources": [
         {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/nytt-publikrekord-pa-nationalarenan"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/nytt-publikrekord-pa-nationalarenan"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions"
       },
       "confirmed_by": [],
-      "id": "nytt-publikrekord-p-nationalarenan"
-    },
-    {
-      "published_at": "2026-11-14T19:32:30+00:00",
-      "updated_at": "2026-11-14T19:32:30+00:00",
-      "title": "Beata Olsson och Cornelia Kapocs löste Liverpool-seger",
-      "summary": "Mot Brighton kom femte målet på tre senaste matcherna – även Cornelia Kapocs hamnade i målprotokollet",
-      "category": [
-        "Sverige",
-        "Premier League"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.22/0.32/1873d1435bd831ed1aa8abcb434c47efef19d4fbbad881e9c1a1d378be1a68bd",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/beata-olsson-och-cornelia-kapocs-loste-liverpool-seger"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/beata-olsson-och-cornelia-kapocs-loste-liverpool-seger"
-      },
-      "confirmed_by": [],
-      "id": "beata-olsson-och-cornelia-kapocs-l-ste-liverpool-seger"
-    },
-    {
-      "published_at": "2026-11-14T17:44:37+00:00",
-      "updated_at": "2026-11-14T17:44:37+00:00",
-      "title": "Uppsalas vilda glädje i stora krisen: ”Tragiskt”",
-      "summary": "Krisande Uppsala lägger ner helt som klubb den här veckan – och har förnedrats med stora förluster hela hösten. Men lagets 2-0-ledning mot AIK förra helgen lyfts som en stor ljusglimt i mörkret. – Det var rave på bänken, säger tränaren Hanna Spets",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.23/0.38/ef91a7faf35141b4e213e9aa2efd9b6d4cd88e48e96bac7a605da265cc97ac82",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/uppsalas-vilda-gladje-i-stora-krisen-tragiskt"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/uppsalas-vilda-gladje-i-stora-krisen-tragiskt"
-      },
-      "confirmed_by": [],
-      "id": "uppsalas-vilda-gl-dje-i-stora-krisen-tragiskt"
-    },
-    {
-      "published_at": "2026-11-14T16:02:21+00:00",
-      "updated_at": "2026-11-14T16:02:21+00:00",
-      "title": "Jonas Eriksson dömde Cristiano Ronaldos första match för Portugal",
-      "summary": "För första gången sedan 2003 får Portugal klara sig utan Cristiano Ronaldo. Efter en tumultartad höst har superstjärnan satt punkt på sin landslagskarriär. Domaren Jonas Eriksson minns tillbaka när han dömde stjärnans första landskamper.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.68/0.3/54697d20a9ef625f17ab3ec375477fde21ea877623f16c1e5bcc4bc89636195b",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/jonas-eriksson-domde-cristiano-ronaldos-forsta-match-for-portugal"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/jonas-eriksson-domde-cristiano-ronaldos-forsta-match-for-portugal"
-      },
-      "confirmed_by": [],
-      "id": "jonas-eriksson-d-mde-cristiano-ronaldos-f-rsta-match-f-r-portugal"
-    },
-    {
-      "published_at": "2026-11-14T14:11:46+00:00",
-      "updated_at": "2026-11-14T14:11:46+00:00",
-      "title": "Victor Nilsson Lindelöf njuter: ”Så mycket enklare”",
-      "summary": "Victor Nilsson Lindelöf förlängde nyligen kontraktet med Aston Villa. – Jag njuter av fotbollen, säger han",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.36/85c0e52a14f24befe066e3c57a9551c19964cc4e5fba7c45a9a4e16019ad3a31",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/victor-nilsson-lindelof-njuter-sa-mycket-enklare"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/victor-nilsson-lindelof-njuter-sa-mycket-enklare"
-      },
-      "confirmed_by": [],
-      "id": "victor-nilsson-lindel-f-njuter-s-mycket-enklare"
+      "id": "england-latest-king-among-trio-left-out-of-squad-for-spain-clash"
     },
     {
       "published_at": "2026-11-14T21:35:00+00:00",
@@ -1572,31 +1800,58 @@
       "id": "le-tissier-hits-stunner-to-mark-milestone-in-man-utd-win"
     },
     {
-      "published_at": "2026-11-14T20:33:50+00:00",
-      "updated_at": "2026-11-14T20:33:50+00:00",
-      "title": "Clara Luvanga strikes as Washington Spirit beat Utah to reach third straight NWSL final",
-      "summary": "Tanzanian scores second-half winner in 2-1 victory Spirit reach fifth NWSL final and third in succession Washington will chase second title at home ground Clara Luvanga scored her second goal of the postseason in the 57th minute, capitalizing on an errant pass as the Washington Spirit reached their fifth NWSL Championship and third straight with a 2-1 semi-final victory over the Utah Royals on Saturday. Luvanga raced on to Nuria Rábano’s ill-advised ball after it rolled past Utah center-back Tatumn Milazzo, then chipped it delicately over the advancing goalkeeper Mandy McGlynn for the winner.",
+      "published_at": "2026-11-15T13:07:55+00:00",
+      "updated_at": "2026-11-15T13:07:55+00:00",
+      "title": "Elanga, Gyökeres och Nilsson Lindelöf om gårdagens vinst",
+      "summary": "Efter gårdagens 3-2 vinst över Bosnien i Nations League, träffade svenskafans några av Sveriges främsta stjärnor, som gav sin syn på matchen",
       "category": [
-        "Football"
+        "Sverige"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://i.guim.co.uk/img/media/bee44b5317593adf17fedc49d44df9b08ca826c4/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=01d692a25d7d332866822b8f8243f6f9",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/ksdm6fRvufgEXA6As2KVZzM9ZrmeshEsZsbvCdG4.jpg",
       "sources": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/nov/14/washington-spirit-utah-royals-nwsl-semi-final-clara-luvanga"
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/elanga-gyokeres-och-nilsson-lindelof-om-gardagens-vinst-703356"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/nov/14/washington-spirit-utah-royals-nwsl-semi-final-clara-luvanga"
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/elanga-gyokeres-och-nilsson-lindelof-om-gardagens-vinst-703356"
       },
       "confirmed_by": [],
-      "id": "clara-luvanga-strikes-as-washington-spirit-beat-utah-to-reach-third-straight-nwsl-final"
+      "id": "elanga-gy-keres-och-nilsson-lindel-f-om-g-rdagens-vinst"
+    },
+    {
+      "published_at": "2026-11-15T09:00:00+00:00",
+      "updated_at": "2026-11-15T09:00:00+00:00",
+      "title": "Mat-Allsvenskan Elfsborg: ”Allsvenskans bästa burgare”",
+      "summary": "Det är dags för nästa del av rundresan. Den här gången har matinfluencern Christian Cicek rest till Borås Arena för att testa utbudet när Elfsborg möter Örgryte. En krönika om punkrock-stämning, biljettkaos och en smashad burgare som slår det mesta",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/qXnPlm4v9bxHk0Be9odYqms9iGVVkKkzLZPTqxdq.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/mat-allsvenskan-elfsborg-allsvenskans-basta-burgare-703298"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/mat-allsvenskan-elfsborg-allsvenskans-basta-burgare-703298"
+      },
+      "confirmed_by": [],
+      "id": "mat-allsvenskan-elfsborg-allsvenskans-b-sta-burgare"
     },
     {
       "published_at": "2026-11-14T19:00:00+00:00",
@@ -1707,118 +1962,10 @@
       "id": "bois-silly-2027-mittf-ltare-klar"
     },
     {
-      "published_at": "2026-11-13T20:00:00+00:00",
-      "updated_at": "2026-11-13T20:00:00+00:00",
-      "title": "Inför IF Elfsborg - Husqvarna FF: Den sista och avgörande matchen",
-      "summary": "IF Elfsborg är så otroligt nära att ta en direktplats upp till Damallsvenskan. Klubben ligger etta på 58 poäng framför IFK Göteborg på 57 poäng och KIF Örebro på 56 poäng. Gör Elfsborg bara det som förväntas mot Husqvarna FF av Boråslaget så kommer klubben ta steget upp till den högsta serien i Sverige",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/h7Xf9rDbTcVG3WC9HaAuVSFtMsFZoAKVln37v9mA.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/infor-if-elfsborg-husqvarna-ff-den-sista-och-avgorande-matchen-703309"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/infor-if-elfsborg-husqvarna-ff-den-sista-och-avgorande-matchen-703309"
-      },
-      "confirmed_by": [],
-      "id": "inf-r-if-elfsborg-husqvarna-ff-den-sista-och-avg-rande-matchen"
-    },
-    {
-      "published_at": "2026-11-13T19:49:39+00:00",
-      "updated_at": "2026-11-13T19:49:39+00:00",
-      "title": "Graham Potter ger glädjebesked inför Bosnien & Hercegovina - men mörkar målvaktsvalet",
-      "summary": "Sverige ställs mot Bosnien & Hercegovina i Nations League under lördagskvällen. Inför matchen kommer Graham Potter med positiva besked kring Viktor Gyökeres, Benjamin Nygren och Dejan Kulusevski. Däremot vill förbundskaptenen fortfarande inte avslöja vem som får vakta det svenska målet",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/vNBmYg8c1xn3knlA0TDU7VkS4a8dndeN5eK8U8JK.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/graham-potter-ger-gladjebesked-infor-bosnien-hercegovina-men-morkar-malvaktsvalet-703312"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/graham-potter-ger-gladjebesked-infor-bosnien-hercegovina-men-morkar-malvaktsvalet-703312"
-      },
-      "confirmed_by": [],
-      "id": "graham-potter-ger-gl-djebesked-inf-r-bosnien-hercegovina-men-m-rkar-m-lvaktsvalet"
-    },
-    {
-      "published_at": "2026-11-13T14:34:41+00:00",
-      "updated_at": "2026-11-13T14:34:41+00:00",
-      "title": "Gårdakvarnen uppger: Polisen genomförde husrannsakan i supporterföreningens lokal",
-      "summary": "Efter bortamatchen mot Degerfors ska polis ha genomfört en husrannsakan i Gårdakvarnens lokaler i centrala Göteborg. Enligt supporterföreningens styrelse uppträdde poliserna aggressivt och kunde inte redogöra för vilka brottsmisstankar som låg bakom insatsen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/OvsszSI14WC3lDvWwlturXtIrYOKFcKHV09GZUsB.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/gardakvarnen-uppger-polisen-genomforde-husrannsakan-i-supporterforeningens-lokal-703299"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/gardakvarnen-uppger-polisen-genomforde-husrannsakan-i-supporterforeningens-lokal-703299"
-      },
-      "confirmed_by": [],
-      "id": "g-rdakvarnen-uppger-polisen-genomf-rde-husrannsakan-i-supporterf-reningens-lokal"
-    },
-    {
-      "published_at": "2026-11-13T11:00:00+00:00",
-      "updated_at": "2026-11-13T11:00:00+00:00",
-      "title": "Friday I'm in Love: Det är aldrig för sent att be om hjälp",
-      "summary": "Att be om hjälp när man faktiskt behöver det - Finns det något svårare?",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/531688.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/friday-im-in-love-det-ar-aldrig-for-sent-att-be-om-hjalp-703227"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/friday-im-in-love-det-ar-aldrig-for-sent-att-be-om-hjalp-703227"
-      },
-      "confirmed_by": [],
-      "id": "friday-i-m-in-love-det-r-aldrig-f-r-sent-att-be-om-hj-lp"
-    },
-    {
-      "published_at": "2026-11-13T19:58:57+00:00",
-      "updated_at": "2026-11-13T19:58:57+00:00",
-      "title": "Courtois company offers to buy Serie C side Reggiana",
-      "summary": "Read the full report at Football Italia.",
+      "published_at": "2026-11-15T09:03:13+00:00",
+      "updated_at": "2026-11-15T09:03:13+00:00",
+      "title": "Departing Pochettino predicts 'amazing future' for USMNT after rout of Haiti",
+      "summary": "Mauricio Pochettino reset the culture within the USMNT. In Saturday's 6-0 win over Haiti, his players demonstrated that they intend to carry on his ideals",
       "category": [
         "Football"
       ],
@@ -1826,54 +1973,26 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1114%2Fr1745894_1296x729_16%2D9.jpg",
       "sources": [
         {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50484170/usa-haiti-christian-pulisic-goal-mauricio-pochettino"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/50484170/usa-haiti-christian-pulisic-goal-mauricio-pochettino"
       },
       "confirmed_by": [],
-      "id": "courtois-company-offers-to-buy-serie-c-side-reggiana"
+      "id": "departing-pochettino-predicts-amazing-future-for-usmnt-after-rout-of-haiti"
     },
     {
-      "published_at": "2026-11-13T17:43:51+00:00",
-      "updated_at": "2026-11-13T17:43:51+00:00",
-      "title": "Serie A CEO De Siervo elected new chair of the World Leagues Association",
-      "summary": "Read the full report at Football Italia.",
-      "category": [
-        "Serie A",
-        "Club management"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Football Italia",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Football Italia",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "serie-a-ceo-de-siervo-elected-new-chair-of-the-world-leagues-association"
-    },
-    {
-      "published_at": "2026-11-08T23:00:15+00:00",
-      "updated_at": "2026-11-08T23:00:15+00:00",
-      "title": "Rabiot fury at refereeing decision: ‘Lying won’t help, Italian football pays the consequences’",
-      "summary": "Read the full report at Football Italia.",
+      "published_at": "2026-11-15T09:03:13+00:00",
+      "updated_at": "2026-11-15T09:03:13+00:00",
+      "title": "Dual-national Julian Hall officially tied to USMNT with appearance vs. Haiti",
+      "summary": "Teenage forward Julian Hall is now cap-tied to the U.S. men's national team, after starting Saturday's Concacaf Nations League quarterfinal against Haiti",
       "category": [
         "Football"
       ],
@@ -1881,6 +2000,114 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1114%2Fr1745842_1296x729_16%2D9.jpg",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50482590/julian-hall-usa-poland-haiti-fifa-nations-league-concacaf"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/50482590/julian-hall-usa-poland-haiti-fifa-nations-league-concacaf"
+      },
+      "confirmed_by": [],
+      "id": "dual-national-julian-hall-officially-tied-to-usmnt-with-appearance-vs-haiti"
+    },
+    {
+      "published_at": "2026-11-15T09:03:13+00:00",
+      "updated_at": "2026-11-15T09:03:13+00:00",
+      "title": "Portugal's post-Ronaldo era begins with heaviest-ever competitive home loss",
+      "summary": "Portugal began life without Cristiano Ronaldo by suffering their heaviest-ever home loss in a competitive game",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1114%2Fr1745869_1296x729_16%2D9.jpg",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50483765/portugal-denmark-worst-home-loss-cristiano-ronaldo"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/50483765/portugal-denmark-worst-home-loss-cristiano-ronaldo"
+      },
+      "confirmed_by": [],
+      "id": "portugal-s-post-ronaldo-era-begins-with-heaviest-ever-competitive-home-loss"
+    },
+    {
+      "published_at": "2026-11-15T09:03:13+00:00",
+      "updated_at": "2026-11-15T09:03:13+00:00",
+      "title": "Japan exact revenge on Brazil with dramatic win",
+      "summary": "Japan have exacted revenge over Brazil for their World Cup elimination with a dramatic 3-2 win in Singapore on Saturday",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1114%2Fr1745640_1296x729_16%2D9.jpg",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50479233/japan-revenge-brazil-dramatic-late-win"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/50479233/japan-revenge-brazil-dramatic-late-win"
+      },
+      "confirmed_by": [],
+      "id": "japan-exact-revenge-on-brazil-with-dramatic-win"
+    },
+    {
+      "published_at": "2026-11-15T09:03:13+00:00",
+      "updated_at": "2026-11-15T09:03:13+00:00",
+      "title": "📈The top soccer players in the world right now, ranked again",
+      "summary": "Who is the best soccer player in the world at the November international break?",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1112%2Fr1744932_1296x729_16%2D9.jpg",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50454088/10-best-ranking-top-soccer-players-november"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/50454088/10-best-ranking-top-soccer-players-november"
+      },
+      "confirmed_by": [],
+      "id": "the-top-soccer-players-in-the-world-right-now-ranked-again"
+    },
+    {
+      "published_at": "2026-11-15T12:53:40+00:00",
+      "updated_at": "2026-11-15T12:53:40+00:00",
+      "title": "Warning Yildiz’s long-awaited Juventus return could be delayed until 2027",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
       "image": "",
       "sources": [
         {
@@ -1894,7 +2121,34 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "rabiot-fury-at-refereeing-decision-lying-won-t-help-italian-football-pays-the-consequences"
+      "id": "warning-yildiz-s-long-awaited-juventus-return-could-be-delayed-until-2027"
+    },
+    {
+      "published_at": "2026-11-14T18:14:45+00:00",
+      "updated_at": "2026-11-14T18:14:45+00:00",
+      "title": "Juventus forecast another operating loss as Champions League return becomes crucial",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "juventus-forecast-another-operating-loss-as-champions-league-return-becomes-crucial"
     }
   ]
 }
