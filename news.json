@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T00:39:38.619200+00:00",
+  "updated_at": "2026-11-18T08:16:10.974266+00:00",
   "items": [
     {
       "published_at": "2026-11-17T23:49:31+00:00",
@@ -36,78 +36,6 @@
         }
       ],
       "id": "belief-and-bench-steer-northern-ireland-into-nations-league-top-tier"
-    },
-    {
-      "published_at": "2026-11-17T10:40:41+00:00",
-      "updated_at": "2026-11-17T10:40:41+00:00",
-      "title": "Blackburn boss Mowbray steps back over health issues",
-      "summary": "Blackburn Rovers head coach Tony Mowbray steps back from his role with the Championship club due to health issues",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c590/live/c10bc840-e272-11f1-b19c-7b42f37bea48.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6dx190nkvl4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13613146/tony-mowbray-steps-down-as-blackburn-rovers-head-coach-due-to-health-issues"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6dx190nkvl4o?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13613146/tony-mowbray-steps-down-as-blackburn-rovers-head-coach-due-to-health-issues"
-        }
-      ],
-      "id": "blackburn-boss-mowbray-steps-back-over-health-issues"
-    },
-    {
-      "published_at": "2026-11-17T09:48:24+00:00",
-      "updated_at": "2026-11-17T09:48:24+00:00",
-      "title": "Pochettino says he would tell Guardiola to take USA job",
-      "summary": "As he prepares to depart for Manchester United, the outgoing US coach held court on a number of topics, including what he’d change about soccer in America Outgoing US head coach Mauricio Pochettino and former Manchester City head coach Pep Guardiola have a long, storied past. The two faced each other as players, when Guardiola was at Barcelona and Pochettino was making his name across town at Espanyol. They faced each other 22 times as managers in the Premier League and the two share a mutual respect – and intensity – when it comes to their approach to playing and coaching alike.",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "pep-guardiola",
-      "entity_type": "coaches",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cc69/live/2fe36070-e269-11f1-900c-895604014268.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/crgj36e6ee5yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/nov/16/mauricio-pochettino-pep-guardiola-usmnt-manchester-united"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/crgj36e6ee5yo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/nov/16/mauricio-pochettino-pep-guardiola-usmnt-manchester-united"
-        }
-      ],
-      "id": "pochettino-says-he-would-tell-guardiola-to-take-usa-job"
     },
     {
       "published_at": "2026-11-16T17:46:16+00:00",
@@ -321,6 +249,60 @@
       "id": "hincapie-in-advanced-talks-over-new-arsenal-deal"
     },
     {
+      "published_at": "2026-11-17T10:40:41+00:00",
+      "updated_at": "2026-11-17T10:40:41+00:00",
+      "title": "Blackburn boss Mowbray steps back over health issues",
+      "summary": "Blackburn Rovers head coach Tony Mowbray steps back from his role with the Championship club due to health issues",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c590/live/c10bc840-e272-11f1-b19c-7b42f37bea48.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6dx190nkvl4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6dx190nkvl4o?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "blackburn-boss-mowbray-steps-back-over-health-issues"
+    },
+    {
+      "published_at": "2026-11-17T09:48:24+00:00",
+      "updated_at": "2026-11-17T09:48:24+00:00",
+      "title": "Pochettino says he would tell Guardiola to take USA job",
+      "summary": "Mauricio Pochettino says he would tell Pep Guardiola to take the United States job if the former Manchester City manager was ever offered it",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "pep-guardiola",
+      "entity_type": "coaches",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cc69/live/2fe36070-e269-11f1-900c-895604014268.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/crgj36e6ee5yo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/crgj36e6ee5yo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "pochettino-says-he-would-tell-guardiola-to-take-usa-job"
+    },
+    {
       "published_at": "2026-11-17T08:28:10+00:00",
       "updated_at": "2026-11-17T08:28:10+00:00",
       "title": "Owono did not deserve 12-match ban - Pique",
@@ -375,42 +357,6 @@
       "id": "are-scotland-still-too-reliant-on-old-guard"
     },
     {
-      "published_at": "2026-11-12T22:26:00+00:00",
-      "updated_at": "2026-11-12T22:26:00+00:00",
-      "title": "Uppgifter: Andersson klar för IFK Göteborg",
-      "summary": "33-årige Hampus Andersson tar över som ny sportchef i IFK Göteborg – och tillträder redan den 1 december",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/hampus-andersson-blir-ny-sportchef-i-ifk-goteborg-703276"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/hampus-andersson-blir-ny-sportchef-i-ifk-goteborg-703276"
-        }
-      ],
-      "id": "uppgifter-andersson-klar-f-r-ifk-g-teborg"
-    },
-    {
       "published_at": "2026-11-16T04:30:06+00:00",
       "updated_at": "2026-11-16T04:30:06+00:00",
       "title": "Totalförlamad och fotbollstränare – Sigge, 17, leder Asmundtorps IF",
@@ -439,31 +385,40 @@
       "id": "totalf-rlamad-och-fotbollstr-nare-sigge-17-leder-asmundtorps-if"
     },
     {
-      "published_at": "2026-11-15T14:53:20+00:00",
-      "updated_at": "2026-11-15T14:53:20+00:00",
-      "title": "Rosengård tvingas till nedflyttningskval",
-      "summary": "FC Rosengårds damallsvenska kontrakt hänger på en skör tråd. Nu tvingas laget kvala för att hålla sig kvar i finrummet.",
+      "published_at": "2026-11-12T19:41:00+00:00",
+      "updated_at": "2026-11-12T19:41:00+00:00",
+      "title": "Skadesmäll för Sverige - succéspelaren missar Nations League",
+      "summary": "Sverige har redan säkrat gruppsegern i Nations League och avancemanget till A-divisionen. Under tisdagen väntar den avslutande matchen mot ett pressat Polen i Wrocław. För svensk del står framför allt äran på spel, medan polackerna riskerar nedflyttning.",
       "category": [
         "Sverige"
       ],
-      "status": "Confirmed",
+      "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.49/0.27/e92748d7dca3e2a34295fdd43bab7cc4d11b9b4f2fa7629f40539be2b57280ba",
+      "image": "",
       "sources": [
         {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/rosengard-tvingas-till-nedflyttningskval"
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/skadesmall-for-sverige-succespelaren-missar-nations-league-703257"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/rosengard-tvingas-till-nedflyttningskval"
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
-      "confirmed_by": [],
-      "id": "roseng-rd-tvingas-till-nedflyttningskval"
+      "confirmed_by": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/skadesmall-for-sverige-succespelaren-missar-nations-league-703257"
+        }
+      ],
+      "id": "skadesm-ll-f-r-sverige-succ-spelaren-missar-nations-league"
     },
     {
       "published_at": "2026-11-17T22:58:00+00:00",
@@ -549,60 +504,6 @@
       "id": "uppgifter-nanasi-f-r-ny-tr-nare"
     },
     {
-      "published_at": "2026-11-17T08:50:00+00:00",
-      "updated_at": "2026-11-17T08:50:00+00:00",
-      "title": "Uppgifter: Sirius förlänger med Sandberg",
-      "summary": "Uppgifter: Sirius överväger Mellberg Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-sirius-f-rl-nger-med-sandberg"
-    },
-    {
-      "published_at": "2026-11-16T14:38:27+00:00",
-      "updated_at": "2026-11-16T14:38:27+00:00",
-      "title": "Uppgifter: Obli Kouamé klar för Hammarby",
-      "summary": "Uppgifter: Obli Kouamé klar för Hammarby Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-obli-kouam-klar-f-r-hammarby"
-    },
-    {
       "published_at": "2026-11-13T15:40:44+00:00",
       "updated_at": "2026-11-13T15:40:44+00:00",
       "title": "Dorgu skadad - lämnar Danmarks samling",
@@ -630,10 +531,10 @@
       "id": "dorgu-skadad-l-mnar-danmarks-samling"
     },
     {
-      "published_at": "2026-11-13T05:02:55+00:00",
-      "updated_at": "2026-11-13T05:02:55+00:00",
-      "title": "Damallsvenska tränare sparkas och flyr på löpande band",
-      "summary": "Read the full report at Fotbollskanalen.",
+      "published_at": "2026-11-13T08:16:00+00:00",
+      "updated_at": "2026-11-13T08:16:00+00:00",
+      "title": "Kim Hellberg prisad som månadens tränare",
+      "summary": "Kim Hellberg prisad som månadens tränare Fotbollskanalen",
       "category": [
         "Sverige",
         "Coach"
@@ -655,7 +556,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "damallsvenska-tr-nare-sparkas-och-flyr-p-l-pande-band"
+      "id": "kim-hellberg-prisad-som-m-nadens-tr-nare"
     },
     {
       "published_at": "2026-11-11T17:55:00+00:00",
@@ -684,42 +585,6 @@
       },
       "confirmed_by": [],
       "id": "klart-aston-villa-f-rl-nger-med-maatsen"
-    },
-    {
-      "published_at": "2026-11-17T11:37:59+00:00",
-      "updated_at": "2026-11-17T11:37:59+00:00",
-      "title": "Fan given suspended 11-month sentence for racially abusing Kylian Mbappe",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "kylian-mbappe",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ3F4NUlzVDJURUx1cjQ4N1daU2gtT3dLMUNqT1V1ZzJjcGNmUl91ZkJadVNuUmNGQzZZVHVHNmluUHNVcXZNSG16VkU4Q3Q4V2ZCajNDak53ak16TUExa0k2R2lZaDNsOFl5Y2t0SFFvLVVodGJoYzd3TXI3WGl6cW1sMTBmREhkc1VXSFhJSnJEVXAxNDYzZEoweVlQSURlQWxV?oc=5"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [
-        {
-          "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ3F4NUlzVDJURUx1cjQ4N1daU2gtT3dLMUNqT1V1ZzJjcGNmUl91ZkJadVNuUmNGQzZZVHVHNmluUHNVcXZNSG16VkU4Q3Q4V2ZCajNDak53ak16TUExa0k2R2lZaDNsOFl5Y2t0SFFvLVVodGJoYzd3TXI3WGl6cW1sMTBmREhkc1VXSFhJSnJEVXAxNDYzZEoweVlQSURlQWxV?oc=5"
-        }
-      ],
-      "id": "fan-given-suspended-11-month-sentence-for-racially-abusing-kylian-mbappe"
     },
     {
       "published_at": "2026-11-17T06:27:46+00:00",
@@ -758,6 +623,60 @@
       "id": "efter-succ-n-schr-der-kan-bli-rets-nykomling"
     },
     {
+      "published_at": "2026-11-18T08:00:36+00:00",
+      "updated_at": "2026-11-18T08:00:36+00:00",
+      "title": "Jack Grealish recalls a golden age of mavericks – but football has moved on",
+      "summary": "Everton forward has magical talent and popularity to burn, but has come up against hard reality of the modern game Thomas Tuchel has never called up the player he once claimed to love “everything about”. The reason for Jack Grealish’s omission from Tuchel’s first England squad in March 2025 was given as “he simply has no rhythm”. Grealish was suspended by Everton for three matches following “a breach of club discipline”.",
+      "category": [
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/73d9305af779fc63136fc993b99ce375aa0403e3/117_73_2102_1681/master/2102.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6e44a72b498810b6ee54d787d7ceba65",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/18/jack-grealish-recalls-a-golden-age-of-mavericks-but-football-has-moved-on"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/nov/18/jack-grealish-recalls-a-golden-age-of-mavericks-but-football-has-moved-on"
+      },
+      "confirmed_by": [],
+      "id": "jack-grealish-recalls-a-golden-age-of-mavericks-but-football-has-moved-on"
+    },
+    {
+      "published_at": "2026-11-18T08:00:35+00:00",
+      "updated_at": "2026-11-18T08:00:35+00:00",
+      "title": "Overlap, underlap or sit back? How Premier League teams use their full-backs",
+      "summary": "The role of full-back has changed massively in recent years. We analyse how all 20 sides are approaching the position By Opta Analyst Overlapping. The role of full-back has evolved dramatically.",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/cddb452cd8ee7fd6ace9700d98796771abd3a4f0/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f33087670734eb7d3bfc7fe8b25b9eba",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/18/premier-league-teams-full-backs-opta-analyst"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/nov/18/premier-league-teams-full-backs-opta-analyst"
+      },
+      "confirmed_by": [],
+      "id": "overlap-underlap-or-sit-back-how-premier-league-teams-use-their-full-backs"
+    },
+    {
       "published_at": "2026-11-17T20:00:20+00:00",
       "updated_at": "2026-11-17T20:00:20+00:00",
       "title": "‘The game is in danger’: PFA head Maheta Molango on Fifa, Infantino and football’s future",
@@ -783,33 +702,6 @@
       },
       "confirmed_by": [],
       "id": "the-game-is-in-danger-pfa-head-maheta-molango-on-fifa-infantino-and-football-s-future"
-    },
-    {
-      "published_at": "2026-11-17T19:14:54+00:00",
-      "updated_at": "2026-11-17T19:14:54+00:00",
-      "title": "Sloppy Socceroos given a reality check as Jordan dominate in friendly win",
-      "summary": "Jordan 2-0 Australia (Al-Taamari 34, Ali Olwan 90+3) Socceroos had just one effort on target in defeat In their final game of 2026, the Socceroos were given a reminder that they remain a work in progress, beaten 2-0 by Jordan in an international friendly where the scoreline failed to reflect the first-half siege the victors laid on their opponent’s goal, nor the unforced errors and brain fades that helped doom the Australians’ hopes of firing a shot in response. Optimism was high for those in green and gold after their comfortable win against the reigning Asian champions Qatar on Friday but very quickly on Tuesday it was made apparent that the Jordanians were to provide far more spirited opposition. This time around it would be the Australians that were to be the subject of a first-half onslaught, as a Jordan team inspired by Musa al-Taam",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/f9fee3497223c3350a15d7dd09f85c688679b1aa/152_0_3176_2540/master/3176.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb43b8e0bbb00a1b047e4353b7aa2564",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/nov/17/australia-jordan-scocceroos-international-friendly"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/nov/17/australia-jordan-scocceroos-international-friendly"
-      },
-      "confirmed_by": [],
-      "id": "sloppy-socceroos-given-a-reality-check-as-jordan-dominate-in-friendly-win"
     },
     {
       "published_at": "2026-11-17T17:18:18+00:00",
@@ -920,33 +812,6 @@
       "id": "echoes-of-azteca-but-not-like-argentina-fearless-england-start-afresh-in-madrid"
     },
     {
-      "published_at": "2026-11-17T06:00:04+00:00",
-      "updated_at": "2026-11-17T06:00:04+00:00",
-      "title": "Fifa accused of climate ‘record of failure’ due to Aramco deal and tournament expansion",
-      "summary": "Groups question ‘sincerity’ to meet emissions pledges Oil giant is a major sponsor of football governing body The United Nations has been asked to review Fifa’s status as a signatory to a key environmental initiative, with complainants arguing football’s governing body has a “record of failure” on climate action. Fifa is a signatory to the UN’s Sports for Climate Action Framework, a coalition which seeks to persuade sporting organisations to “work together to achieve a climate-resilient future”. Under the framework, signatories agree to cut their greenhouse gas emissions by 50% by 2030 and to “partner with key stakeholders to deliver joint climate action”.",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/aab961afa1f531072e294a49e2dff052c54c14d2/791_45_2763_2211/master/2763.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9469b9067fbb3ea04ffec9669cacc6f4",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/nov/17/fifa-accused-climate-record-failure-aramco-deal-tournament-expansion"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/nov/17/fifa-accused-climate-record-failure-aramco-deal-tournament-expansion"
-      },
-      "confirmed_by": [],
-      "id": "fifa-accused-of-climate-record-of-failure-due-to-aramco-deal-and-tournament-expansion"
-    },
-    {
       "published_at": "2026-11-16T16:14:29+00:00",
       "updated_at": "2026-11-16T16:14:29+00:00",
       "title": "Do good club managers necessarily make good international managers? | Jonathan Wilson",
@@ -1002,10 +867,10 @@
       "id": "familiarity-of-doha-drives-home-just-how-far-socceroos-have-come-in-recent-years-joey-lync"
     },
     {
-      "published_at": "2026-11-15T23:50:31+00:00",
-      "updated_at": "2026-11-15T23:50:31+00:00",
-      "title": "Three Lions’ win over Spain comes in two acts: the first superb, the second heroic | Sid Lowe",
-      "summary": "Visitors take game to world champions and, though their hold on possession plummets, their rearguard is outstanding In the final, absurdly tense moments before England finally did it and Spain finally fell, when Dan Burn had been sent on to do Dan Burn things, when the board had gone up with a 4 on but the clock wasn’t moving fast enough and the men in red kept coming back, Harry Kane had come to the side of the pitch to stand beside Thomas Tuchel. Palms out, Kane signalled and directed and appealed with his teammates to hold on to what they had: s omehow, anyhow . What they had was special, but their grip on it was not as secure as it had seemed.",
+      "published_at": "2026-11-16T08:00:37+00:00",
+      "updated_at": "2026-11-16T08:00:37+00:00",
+      "title": "European football body’s plan to go global leaves Fifa on tenterhooks",
+      "summary": "Findings of ‘feasibility study’ into quest for world domination loom with Europe’s wealthiest certain to benefit whatever the outcome It will be one of the most eagerly devoured documents in football circles, assuming its contents are ever fully revealed. In September, the increasingly powerful European Football Clubs body announced a “feasibility study” into how it can become established on a more global scale, morphing into an organisation that represents clubs all over the world. The study’s findings could, some leading figures in the sport’s governance believe, define football’s long-term future.",
       "category": [
         "Football"
       ],
@@ -1013,20 +878,20 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://i.guim.co.uk/img/media/e4d45fcc95233e1a2e330b6b949e8831e02abd0f/159_0_1865_1492/master/1865.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=691039294afc1188f21c2200a7da2b86",
+      "image": "https://i.guim.co.uk/img/media/3bf524c959eebbfecebd9eaed94f20377a258d10/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5385b792c344133d051061dfa66fb28d",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/nov/15/england-superb-heroic-spain-nations-league"
+          "url": "https://www.theguardian.com/football/2026/nov/16/fifa-waits-european-football-clubs-plan-global"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/nov/15/england-superb-heroic-spain-nations-league"
+        "url": "https://www.theguardian.com/football/2026/nov/16/fifa-waits-european-football-clubs-plan-global"
       },
       "confirmed_by": [],
-      "id": "three-lions-win-over-spain-comes-in-two-acts-the-first-superb-the-second-heroic-sid-lowe"
+      "id": "european-football-body-s-plan-to-go-global-leaves-fifa-on-tenterhooks"
     },
     {
       "published_at": "2026-11-13T14:00:06+00:00",
@@ -1054,33 +919,6 @@
       },
       "confirmed_by": [],
       "id": "uppgifter-fff-intresserat-av-ytterback"
-    },
-    {
-      "published_at": "2026-11-12T19:41:00+00:00",
-      "updated_at": "2026-11-12T19:41:00+00:00",
-      "title": "Skadesmäll för Sverige - succéspelaren missar Nations League",
-      "summary": "Sverige har redan säkrat gruppsegern i Nations League och avancemanget till A-divisionen. Under tisdagen väntar den avslutande matchen mot ett pressat Polen i Wrocław. För svensk del står framför allt äran på spel, medan polackerna riskerar nedflyttning.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/uBvUdO0H1KtbdWhVivSpcvgRkO1H6hgA01yJRIW3.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/skadesmall-for-sverige-succespelaren-missar-nations-league-703257"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/skadesmall-for-sverige-succespelaren-missar-nations-league-703257"
-      },
-      "confirmed_by": [],
-      "id": "skadesm-ll-f-r-sverige-succ-spelaren-missar-nations-league"
     },
     {
       "published_at": "2026-11-12T15:13:38+00:00",
@@ -1138,12 +976,42 @@
       "id": "transfer-rumors-news-ac-milan-juventus-eye-usmnt-s-folarin-balogun"
     },
     {
-      "published_at": "2026-11-16T20:26:56+00:00",
-      "updated_at": "2026-11-16T20:26:56+00:00",
-      "title": "Galliani would ‘absolutely’ back Mancini as Italy coach if FIGC President",
+      "published_at": "2026-11-17T20:31:25+00:00",
+      "updated_at": "2026-11-17T20:31:25+00:00",
+      "title": "Openda doubt as Juventus ready to reconsider Lyon loan",
       "summary": "Read the full report at Football Italia.",
       "category": [
-        "Coach"
+        "Serie A",
+        "Ligue 1",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42MlF1NjBmTEMzWndUNVdjYTZjaXA4Y0ZTeEtRMVhXb1VlMTF4OUllRjBjblF4cnVqNGlEcWptU2Nwd0xxV1VWaUYyTVU5UTVtU0tDaS1tRnFuc2huemZHZktpWW9vbUtyR01oaDJTaU5PU2FlZDRpZWtpaW9jYWfSAYQBQVVfeXFMUGxtcmw4b0lyeXNVdlgteDRsUGRvazVySVQyaER5SFBVNWFibkxSSzRYZmRESFdDRklXOV9maUZvOFNRVmRxWDYxY0RsOGxvMVNNd2hWRGlhMUR2aEl2WEh3cGlSNDFvQ3dUZkpTMWRQZ2YtWDdIdVprQVVseTk2bG5xVURK?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42MlF1NjBmTEMzWndUNVdjYTZjaXA4Y0ZTeEtRMVhXb1VlMTF4OUllRjBjblF4cnVqNGlEcWptU2Nwd0xxV1VWaUYyTVU5UTVtU0tDaS1tRnFuc2huemZHZktpWW9vbUtyR01oaDJTaU5PU2FlZDRpZWtpaW9jYWfSAYQBQVVfeXFMUGxtcmw4b0lyeXNVdlgteDRsUGRvazVySVQyaER5SFBVNWFibkxSSzRYZmRESFdDRklXOV9maUZvOFNRVmRxWDYxY0RsOGxvMVNNd2hWRGlhMUR2aEl2WEh3cGlSNDFvQ3dUZkpTMWRQZ2YtWDdIdVprQVVseTk2bG5xVURK?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "openda-doubt-as-juventus-ready-to-reconsider-lyon-loan"
+    },
+    {
+      "published_at": "2026-11-17T17:54:44+00:00",
+      "updated_at": "2026-11-17T17:54:44+00:00",
+      "title": "Hutchinson: ‘My dream to get Milan contract’ and leave Nottingham Forest for good",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A",
+        "Transfer"
       ],
       "status": "Reported",
       "entity": "",
@@ -1162,7 +1030,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "galliani-would-absolutely-back-mancini-as-italy-coach-if-figc-president"
+      "id": "hutchinson-my-dream-to-get-milan-contract-and-leave-nottingham-forest-for-good"
     },
     {
       "published_at": "2026-11-16T18:18:55+00:00",
@@ -1192,13 +1060,12 @@
       "id": "ex-milan-director-on-cisse-pursuit-amorim-courage-and-20-year-old-talent"
     },
     {
-      "published_at": "2026-11-16T12:18:59+00:00",
-      "updated_at": "2026-11-16T12:18:59+00:00",
-      "title": "Official: Chivu wins Best Serie A Coach Award for 2025-26",
+      "published_at": "2026-11-16T13:13:59+00:00",
+      "updated_at": "2026-11-16T13:13:59+00:00",
+      "title": "Another injury concern for Juventus as Zhegrova withdraws from Kosovo squad",
       "summary": "Read the full report at Football Italia.",
       "category": [
-        "Serie A",
-        "Coach"
+        "Serie A"
       ],
       "status": "Reported",
       "entity": "",
@@ -1217,38 +1084,39 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "official-chivu-wins-best-serie-a-coach-award-for-2025-26"
+      "id": "another-injury-concern-for-juventus-as-zhegrova-withdraws-from-kosovo-squad"
     },
     {
-      "published_at": "2026-11-17T21:51:43+00:00",
-      "updated_at": "2026-11-17T21:51:43+00:00",
-      "title": "Atletico Madrid forward Lookman out with high-grade knee sprain",
-      "summary": "Read the full report at Reuters.",
+      "published_at": "2026-11-16T12:18:59+00:00",
+      "updated_at": "2026-11-16T12:18:59+00:00",
+      "title": "Official: Chivu wins Best Serie A Coach Award for 2025-26",
+      "summary": "Read the full report at Football Italia.",
       "category": [
-        "La Liga"
+        "Serie A",
+        "Coach"
       ],
-      "status": "Confirmed",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
       "image": "",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "name": "Football Italia",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mRmozV3BRVm40X2k2MFB6eUk1RFNia3psQmdDdmlyR2hOV0xIUWRfc1pjMVNJLTdFNWR1TVNiUXBlb1Y1RWFrVzJXb09RZVlYU1BuQ08zUjgtbWZaUUZBaGxuSWd1c2xKYjRCaXpwV0MxbHVjNVphWG1n0gF_QVVfeXFMT2VjeDJsWFdlbklxRk0xX3BlSGlWM0lFQlRnVkRoVGpBVmdQdll6enlFVTRWS0p1MmpMWG9LbkVLc0Q0UkRpSzFERXZkS1RlUkpOR0ZqQzFyU19ORklYWkdFeWhFdDN5b25keXhLQlNFa3gzOF9fVnQyRXdVTFZKUQ?oc=5"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Reuters",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "Football Italia",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mRmozV3BRVm40X2k2MFB6eUk1RFNia3psQmdDdmlyR2hOV0xIUWRfc1pjMVNJLTdFNWR1TVNiUXBlb1Y1RWFrVzJXb09RZVlYU1BuQ08zUjgtbWZaUUZBaGxuSWd1c2xKYjRCaXpwV0MxbHVjNVphWG1n0gF_QVVfeXFMT2VjeDJsWFdlbklxRk0xX3BlSGlWM0lFQlRnVkRoVGpBVmdQdll6enlFVTRWS0p1MmpMWG9LbkVLc0Q0UkRpSzFERXZkS1RlUkpOR0ZqQzFyU19ORklYWkdFeWhFdDN5b25keXhLQlNFa3gzOF9fVnQyRXdVTFZKUQ?oc=5"
       },
       "confirmed_by": [],
-      "id": "atletico-madrid-forward-lookman-out-with-high-grade-knee-sprain"
+      "id": "official-chivu-wins-best-serie-a-coach-award-for-2025-26"
     },
     {
-      "published_at": "2026-11-13T11:17:59+00:00",
-      "updated_at": "2026-11-13T11:17:59+00:00",
+      "published_at": "2026-11-11T11:18:09+00:00",
+      "updated_at": "2026-11-11T11:18:09+00:00",
       "title": "Hahn förklarar Honkavaara-beslutet: \"Saknade energi och glädje\"",
       "summary": "Med bara två omgångar kvar av Allsvenskan valde Djurgården att sparka Jani Honkavaara och hans tränarstab. Nu uttalar sig klubbens fotbollschef Maximilian Hahn om bristen på energi, hur finländaren tog beskedet och jakten på en ny permanent huvudtränare",
       "category": [
@@ -1262,7 +1130,7 @@
       "sources": [
         {
           "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdmNPeGt6M3FuZmcxdU01MkNHSVh1YjhOLWV4Y2JnTHZBRGlhLWRrREhLTFMxUVAwVXFwazFaY3Ezb0FtUkdqWnR1V0xRazBFXzJ2UnFrbFJ4MjkwTW91Tm1EWm5VRjMtdEFtNG9pdVJHczRiZEdHYzBPT1JuR1BHaHNiZ1JpTmVTQXVmZXhkV1ZVVDRuS3hSUF9CaXFSSFcyS0xzamhpcklvT2FQNTZKekNR?oc=5"
         },
         {
           "name": "SvenskaFans",
@@ -1272,7 +1140,7 @@
       "language": "en",
       "main_source": {
         "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdmNPeGt6M3FuZmcxdU01MkNHSVh1YjhOLWV4Y2JnTHZBRGlhLWRrREhLTFMxUVAwVXFwazFaY3Ezb0FtUkdqWnR1V0xRazBFXzJ2UnFrbFJ4MjkwTW91Tm1EWm5VRjMtdEFtNG9pdVJHczRiZEdHYzBPT1JuR1BHaHNiZ1JpTmVTQXVmZXhkV1ZVVDRuS3hSUF9CaXFSSFcyS0xzamhpcklvT2FQNTZKekNR?oc=5"
       },
       "confirmed_by": [
         {
@@ -1281,6 +1149,61 @@
         }
       ],
       "id": "hahn-f-rklarar-honkavaara-beslutet-saknade-energi-och-gl-dje"
+    },
+    {
+      "published_at": "2026-11-18T07:30:24+00:00",
+      "updated_at": "2026-11-18T07:30:24+00:00",
+      "title": "Antonio Rudiger interview: ‘Two years of not winning at Real Madrid. It’s horrible.’",
+      "summary": "Read the full report at The Athletic.",
+      "category": [
+        "La Liga",
+        "Serie A"
+      ],
+      "status": "Highly credible",
+      "entity": "",
+      "entity_type": "players",
+      "club": "real-madrid",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "antonio-rudiger-interview-two-years-of-not-winning-at-real-madrid-it-s-horrible"
+    },
+    {
+      "published_at": "2026-11-18T06:57:41+00:00",
+      "updated_at": "2026-11-18T06:57:41+00:00",
+      "title": "Kif Örebro begärs i konkurs",
+      "summary": "Kif Örebro slutade trea i elitettan och ska kvala upp till damallsvenskan. Men nu, dagen innan första kvalmatchen mot Rosengård, står det klart att klubben har begärts i konkurs. Det bekräftar klubbens ordförande till P4 Örebro.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.45/0.24/39949b35c8356217fb50e16690285756203b425d26a5e3d559f205a7aa24f50e",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/kif-orebro-begars-i-konkurs-dagen-innan-kvalet"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/kif-orebro-begars-i-konkurs-dagen-innan-kvalet"
+      },
+      "confirmed_by": [],
+      "id": "kif-rebro-beg-rs-i-konkurs"
     },
     {
       "published_at": "2026-11-17T22:58:53+00:00",
@@ -1499,58 +1422,31 @@
       "id": "football-is-becoming-wealthier-but-we-cannot-let-the-game-itself-become-poorer-wla-s-luigi"
     },
     {
-      "published_at": "2026-11-17T18:41:00+00:00",
-      "updated_at": "2026-11-17T18:41:00+00:00",
-      "title": "Man Utd latest: 'I begin my next chapter' - Gabriel's exit statement in full",
-      "summary": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "published_at": "2026-11-18T08:00:00+00:00",
+      "updated_at": "2026-11-18T08:00:00+00:00",
+      "title": "Wiegman lays down Lionesses gauntlet - but whose spot is under threat?",
+      "summary": "England haven't qualified for the World Cup yet but Sarina Wiegman has laid down the gauntlet to anyone that wants to make her squad",
       "category": [
         "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/26/11/1600x900/skysports-premier-league-manchester-united_7403807.jpg?20261111114625",
+      "club": "",
+      "image": "https://e0.365dm.com/26/06/1600x900/skysports-sarina-wiegman_7268264.jpg?20260608120928",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "url": "https://www.skysports.com/football/news/11095/13613373/sarina-wiegman-lays-down-gauntlet-to-england-players-looking-to-make-world-cup-squad-but-whose-spot-is-under-threat"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "url": "https://www.skysports.com/football/news/11095/13613373/sarina-wiegman-lays-down-gauntlet-to-england-players-looking-to-make-world-cup-squad-but-whose-spot-is-under-threat"
       },
       "confirmed_by": [],
-      "id": "man-utd-latest-i-begin-my-next-chapter-gabriel-s-exit-statement-in-full"
-    },
-    {
-      "published_at": "2026-11-12T18:58:00+00:00",
-      "updated_at": "2026-11-12T18:58:00+00:00",
-      "title": "Beskedet: Wålemark skadad",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "beskedet-w-lemark-skadad"
+      "id": "wiegman-lays-down-lionesses-gauntlet-but-whose-spot-is-under-threat"
     },
     {
       "published_at": "2026-11-17T21:40:00+00:00",
@@ -1662,65 +1558,62 @@
       "id": "toone-beever-jones-return-for-lionesses-ahead-of-wc-play-off"
     },
     {
-      "published_at": "2026-11-17T08:54:00+00:00",
-      "updated_at": "2026-11-17T08:54:00+00:00",
-      "title": "What is going wrong for Pocognoli and Scotland?",
-      "summary": "A year is a long time in football and that is certainly the case when it comes to Scotland's fortunes",
+      "published_at": "2026-11-18T07:30:00+00:00",
+      "updated_at": "2026-11-18T07:30:00+00:00",
+      "title": "Debutanterna hyllas av Blågult-stjärnor: \"Ära att få lära känna dem\"",
+      "summary": "Read the full report at Fotbollskanalen.",
       "category": [
-        "Football"
+        "Sverige"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://e0.365dm.com/26/11/1600x900/skysports-sebastien-pocognoli_7408472.jpg?20261117101348",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13613120/scotland-whats-going-wrong-for-head-coach-sebastien-pocognoli-and-can-he-turn-things-around"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13613120/scotland-whats-going-wrong-for-head-coach-sebastien-pocognoli-and-can-he-turn-things-around"
-      },
-      "confirmed_by": [],
-      "id": "what-is-going-wrong-for-pocognoli-and-scotland"
-    },
-    {
-      "published_at": "2026-11-16T18:57:14+00:00",
-      "updated_at": "2026-11-16T18:57:14+00:00",
-      "title": "European football news and transfers: Barcelona, Real Madrid, PSG, Bayern Munich latest and more",
-      "summary": "Read the full report at Sky Sports.",
-      "category": [
-        "La Liga",
-        "Bundesliga",
-        "Ligue 1",
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
       "image": "",
       "sources": [
         {
-          "name": "Sky Sports",
+          "name": "Fotbollskanalen",
           "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Sky Sports",
+        "name": "Fotbollskanalen",
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-mo"
+      "id": "debutanterna-hyllas-av-bl-gult-stj-rnor-ra-att-f-l-ra-k-nna-dem"
     },
     {
-      "published_at": "2026-11-17T23:13:35+00:00",
-      "updated_at": "2026-11-17T23:13:35+00:00",
+      "published_at": "2026-11-17T23:38:13+00:00",
+      "updated_at": "2026-11-17T23:38:13+00:00",
+      "title": "\"Jagar \"Pochettino-effekt\" på Anfield - så ska United vända mardrömsstarten\"",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "jagar-pochettino-effekt-p-anfield-s-ska-united-v-nda-mardr-msstarten"
+    },
+    {
+      "published_at": "2026-11-17T23:08:20+00:00",
+      "updated_at": "2026-11-17T23:08:20+00:00",
       "title": "Karlström: \"Vi förtjänar att vinna\"",
       "summary": "Karlström: \"Vi förtjänar att vinna\" Fotbollskanalen",
       "category": [
@@ -1744,6 +1637,60 @@
       },
       "confirmed_by": [],
       "id": "karlstr-m-vi-f-rtj-nar-att-vinna"
+    },
+    {
+      "published_at": "2026-11-17T22:04:00+00:00",
+      "updated_at": "2026-11-17T22:04:00+00:00",
+      "title": "Potter skyddar Kulusevski: \"Kritiken är orättvis\"",
+      "summary": "Potter skyddar Kulusevski: \"Kritiken är orättvis\" Fotbollskanalen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "potter-skyddar-kulusevski-kritiken-r-or-ttvis"
+    },
+    {
+      "published_at": "2026-11-18T04:00:00+00:00",
+      "updated_at": "2026-11-18T04:00:00+00:00",
+      "title": "Tre punkter efter Sveriges kryss mot Polen",
+      "summary": "Sverige avslutade Nations League med 1–1 borta mot Polen och gick därmed obesegrat genom gruppspelet. Gruppsegern och uppflyttningen till A-divisionen var redan säkrade inför mötet. Nedan följer tre punkter från matchen",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/1jnQqvTYlNqh5z0TJB9rWnjIrCvTdRcFuayYuOyy.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/tre-punkter-efter-sveriges-kryss-mot-polen-703443"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/tre-punkter-efter-sveriges-kryss-mot-polen-703443"
+      },
+      "confirmed_by": [],
+      "id": "tre-punkter-efter-sveriges-kryss-mot-polen"
     },
     {
       "published_at": "2026-11-17T21:40:13+00:00",
@@ -1935,6 +1882,60 @@
       "id": "l-t-kulusevski-styra-mittf-ltet"
     },
     {
+      "published_at": "2026-11-17T11:37:00+00:00",
+      "updated_at": "2026-11-17T11:37:00+00:00",
+      "title": "Oviedo fan handed suspended prison sentence for racist abuse toward Mbappé",
+      "summary": "Read the full report at ESPN.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcWMwY1UtUnJpOHptQlI4V05ORzFSUFZmVGhLTjZFeVJDblNpVks5bWtGc3BSM3BGTzd2NFVEYzVCWEVleHJTSUtXSWJFS1ZUR1U3LUxlb3p1OWluclI1aDRHQmktZ3dwa25OVXRrdW1nRDVXbVNXWGx1WDhrMFpsQm12WFYxbm92MVVyT2Jjd3h0TkUzT2o0Z0pUUHFsZw?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "ESPN",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcWMwY1UtUnJpOHptQlI4V05ORzFSUFZmVGhLTjZFeVJDblNpVks5bWtGc3BSM3BGTzd2NFVEYzVCWEVleHJTSUtXSWJFS1ZUR1U3LUxlb3p1OWluclI1aDRHQmktZ3dwa25OVXRrdW1nRDVXbVNXWGx1WDhrMFpsQm12WFYxbm92MVVyT2Jjd3h0TkUzT2o0Z0pUUHFsZw?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "oviedo-fan-handed-suspended-prison-sentence-for-racist-abuse-toward-mbapp"
+    },
+    {
+      "published_at": "2026-11-17T19:19:44+00:00",
+      "updated_at": "2026-11-17T19:19:44+00:00",
+      "title": "Report Estupinan offered to Fiorentina after Milan flop",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYjM1SVp5T2VMM3NZYVJuTUZTVDdRLV8tRkFVdTViX29CQ2g5aXAtaXRES0FNOG1NVUJUVmdtWHNOR3hnUVhvcGJEVERWd0RIVUZUWm0tbHY2UzlWN25nZUI2VUlJV3VNbGVxcVdnaFQ0T0l2ZjA4SVBLUEJhTmZ6eNIBhgFBVV95cUxNcVVwWnNxbDNXSXRMekg5MnRCMUg3Z0ZaTXNPSWZqT192Yy1ybWhtaWdDUTY4NEpWY3AxbjFrSlVwTU5ybXZ1ZnJILXhmYmdobE12UjdqV2VITnI4dUF5TTFiRzdUcFR2bE5GWFNOQnBtNVZISUp2Rm1oNWdYOElBZlJDZnQ2UQ?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYjM1SVp5T2VMM3NZYVJuTUZTVDdRLV8tRkFVdTViX29CQ2g5aXAtaXRES0FNOG1NVUJUVmdtWHNOR3hnUVhvcGJEVERWd0RIVUZUWm0tbHY2UzlWN25nZUI2VUlJV3VNbGVxcVdnaFQ0T0l2ZjA4SVBLUEJhTmZ6eNIBhgFBVV95cUxNcVVwWnNxbDNXSXRMekg5MnRCMUg3Z0ZaTXNPSWZqT192Yy1ybWhtaWdDUTY4NEpWY3AxbjFrSlVwTU5ybXZ1ZnJILXhmYmdobE12UjdqV2VITnI4dUF5TTFiRzdUcFR2bE5GWFNOQnBtNVZISUp2Rm1oNWdYOElBZlJDZnQ2UQ?oc=5"
+      },
+      "confirmed_by": [],
+      "id": "report-estupinan-offered-to-fiorentina-after-milan-flop"
+    },
+    {
       "published_at": "2026-11-16T21:04:11+00:00",
       "updated_at": "2026-11-16T21:04:11+00:00",
       "title": "Football Italia Show: I witnessed Ronaldinho’s return, here’s what happened",
@@ -2014,6 +2015,87 @@
       },
       "confirmed_by": [],
       "id": "chivu-embarrassed-to-be-compared-to-mourinho-he-s-a-legend-i-ve-only-just-begun"
+    },
+    {
+      "published_at": "2026-11-15T16:23:45+00:00",
+      "updated_at": "2026-11-15T16:23:45+00:00",
+      "title": "Dida: ‘Ronaldinho a showman and we are witnessing history here’",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "dida-ronaldinho-a-showman-and-we-are-witnessing-history-here"
+    },
+    {
+      "published_at": "2026-11-18T07:00:00+00:00",
+      "updated_at": "2026-11-18T07:00:00+00:00",
+      "title": "Man Utd latest: Pochettino set for first day in charge",
+      "summary": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/11/1600x900/skysports-premier-league-manchester-united_7403807.jpg?20261111114625",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "man-utd-latest-pochettino-set-for-first-day-in-charge"
+    },
+    {
+      "published_at": "2026-11-18T07:00:00+00:00",
+      "updated_at": "2026-11-18T07:00:00+00:00",
+      "title": "Chelsea latest: Martinez keeps clean sheet on return from broken jaw",
+      "summary": "Chelsea transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "chelsea",
+      "image": "https://e0.365dm.com/26/10/1600x900/skysports-chelsea-transfer_7378358.jpg?20261016150829",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      },
+      "confirmed_by": [],
+      "id": "chelsea-latest-martinez-keeps-clean-sheet-on-return-from-broken-jaw"
     }
   ]
 }
