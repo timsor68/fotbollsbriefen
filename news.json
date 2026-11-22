@@ -1,6 +1,86 @@
 {
-  "updated_at": "2026-11-22T16:01:22.450723+00:00",
+  "updated_at": "2026-11-22T22:19:07.159797+00:00",
   "items": [
+    {
+      "published_at": "2026-11-22T12:30:58+00:00",
+      "updated_at": "2026-11-22T12:30:58+00:00",
+      "title": "PSG's Doue to undergo surgery after serious knee injury",
+      "summary": "Read the full report at Reuters.",
+      "category": [
+        "Ligue 1"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "psg",
+      "image": "",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
+        },
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObW8yZzNaWXBPTmp0VUIyd0pTcVpaNnRycmtPMnFuT3QxXzNDb2hET1pPSFFmajBLV1UzcGdSTWNUTldnVFJuNXVUT29aMWIzSDRmVWMwbWF1SExTTmxYVnQxVjdwblVXcjJVY3pJUU9HamFrR1puY0xtQ1Iyb1RRWnNFVGFwU0E?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Reuters",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
+        },
+        {
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObW8yZzNaWXBPTmp0VUIyd0pTcVpaNnRycmtPMnFuT3QxXzNDb2hET1pPSFFmajBLV1UzcGdSTWNUTldnVFJuNXVUT29aMWIzSDRmVWMwbWF1SExTTmxYVnQxVjdwblVXcjJVY3pJUU9HamFrR1puY0xtQ1Iyb1RRWnNFVGFwU0E?oc=5"
+        }
+      ],
+      "id": "psg-s-doue-to-undergo-surgery-after-serious-knee-injury"
+    },
+    {
+      "published_at": "2026-11-22T19:03:24+00:00",
+      "updated_at": "2026-11-22T19:03:24+00:00",
+      "title": "Pochettino on 'painful' defeat in first game as Man Utd boss",
+      "summary": "Mauricio Pochettino's Manchester United reign got off to a miserable start as Liverpool punished Leny Yoro's red card with a pair of early goals on their way to a comprehensive 4-0 win against their relegation-threatened rivals",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7609/live/a91923c0-e6a7-11f1-a094-5fdc692f3e33.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c8p3vyyg4d6vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/report/_/gameId/401878755"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c8p3vyyg4d6vo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/report/_/gameId/401878755"
+        }
+      ],
+      "id": "pochettino-on-painful-defeat-in-first-game-as-man-utd-boss"
+    },
     {
       "published_at": "2026-11-21T19:04:09+00:00",
       "updated_at": "2026-11-21T19:04:09+00:00",
@@ -20,10 +100,6 @@
           "url": "https://www.bbc.co.uk/sport/football/articles/cwe8944d004yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13614992/chelsea-are-fragile-and-need-to-toughen-up-says-manager-xabi-alonso-after-humiliating-defeat-to-leeds-united"
-        },
-        {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/football/2026/nov/21/chelsea-leeds-premier-league-match-report"
         }
@@ -35,10 +111,6 @@
       },
       "confirmed_by": [
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13614992/chelsea-are-fragile-and-need-to-toughen-up-says-manager-xabi-alonso-after-humiliating-defeat-to-leeds-united"
-        },
-        {
           "name": "The Guardian",
           "url": "https://www.theguardian.com/football/2026/nov/21/chelsea-leeds-premier-league-match-report"
         }
@@ -46,46 +118,10 @@
       "id": "fragile-and-miles-off-it-alonso-s-chelsea-honeymoon-is-over"
     },
     {
-      "published_at": "2026-11-21T21:14:08+00:00",
-      "updated_at": "2026-11-21T21:14:08+00:00",
-      "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
-      "summary": "Arsenal goalkeeper David Raya is set to have a scan on his shoulder after going off injured during Saturday's 2-2 draw with Newcastle",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "arsenal",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b3a1/live/dec0b5d0-e5ec-11f1-99a1-253766e7ad8b.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "id": "raya-set-to-have-scan-on-injury-how-much-would-arsenal-miss-him"
-    },
-    {
-      "published_at": "2026-11-21T13:29:40+00:00",
-      "updated_at": "2026-11-21T13:29:40+00:00",
-      "title": "Bayern draw with Cologne as Kane picks up ankle injury",
-      "summary": "England forward injured in Friday’s 1-1 draw with Cologne Club statement confirms ‘tear of ligament in left ankle’ Bayern Munich have confirmed Harry Kane will be “out for the next few months” with ankle ligament damage sustained in their 1-1 draw with Cologne on Friday. Kane was substituted after 20 minutes of the Bundesliga game, having been left limping after a challenge from the Cologne defender Joël Schmied. The Ballon d’Or winner was substituted and the returning Bayern coach, Vincent Kompany, said that the injury would take “months” rather than weeks to heal.",
+      "published_at": "2026-11-21T17:43:44+00:00",
+      "updated_at": "2026-11-21T17:43:44+00:00",
+      "title": "Fifpro criticises Bayern Munich for Musiala comments",
+      "summary": "Football players' union Fifpro says it is concerned by German club Bayern Munich's comments about Jamal Musiala's contract",
       "category": [
         "Bundesliga"
       ],
@@ -93,71 +129,35 @@
       "entity": "",
       "entity_type": "players",
       "club": "bayern-munich",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9d89/live/9aee2530-e5ac-11f1-99a1-253766e7ad8b.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4348/live/f6872900-e5cf-11f1-a738-4787e1a18cce.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/ck7v2nz0lp32o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.co.uk/sport/football/articles/c9x2evr1rg85o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england"
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMm9McWFsWEh0bklLNXBxRXhNNUFHU0hXdklyNzk1aGNzRnVjWmFmTGp3YnpyWk91Nll2OWlmOTF6d3Vka1J5RXppdzBiN2ljTWZwUVFyb2hrRWtXMjBObl9pVFAwb3h6azZVdHI3bHMtUll4Um90aXA4NEJHcXRwSmdMX1lFUUZPRUNpTGpESVhpUUY5bnN0aUVxRHd4Zw?oc=5"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/videos/ck7v2nz0lp32o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/sport/football/articles/c9x2evr1rg85o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england"
+          "name": "ESPN",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMm9McWFsWEh0bklLNXBxRXhNNUFHU0hXdklyNzk1aGNzRnVjWmFmTGp3YnpyWk91Nll2OWlmOTF6d3Vka1J5RXppdzBiN2ljTWZwUVFyb2hrRWtXMjBObl9pVFAwb3h6azZVdHI3bHMtUll4Um90aXA4NEJHcXRwSmdMX1lFUUZPRUNpTGpESVhpUUY5bnN0aUVxRHd4Zw?oc=5"
         }
       ],
-      "id": "bayern-draw-with-cologne-as-kane-picks-up-ankle-injury"
-    },
-    {
-      "published_at": "2026-11-22T12:16:11+00:00",
-      "updated_at": "2026-11-22T12:16:11+00:00",
-      "title": "Paris Saint-Germain’s Desire Doue sustains ACL injury in right knee",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "Ligue 1"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "psg",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
-        }
-      ],
-      "id": "paris-saint-germain-s-desire-doue-sustains-acl-injury-in-right-knee"
+      "id": "fifpro-criticises-bayern-munich-for-musiala-comments"
     },
     {
       "published_at": "2026-11-22T14:15:00+00:00",
       "updated_at": "2026-11-22T14:15:00+00:00",
-      "title": "Burnley’s wait for a home win goes on as Blackburn twice hit back in derby",
-      "summary": "Todd Cantwell’s penalty earned Blackburn a 2-2 draw at Burnley in their first match since head coach Tony Mowbray stepped back because of health issues. In a gripping, physical East Lancashire derby, the home side led twice, through Largie Ramazani’s rising first-half drive and Jaydon Banel’s steered finish after the break. But Andri Gudjohnsen scored Blackburn’s first equaliser, then earned the penalty which Cantwell converted.",
+      "title": "Burnley's wait for a home win goes on as Blackburn twice hit back in derby",
+      "summary": "Todd Cantwell’s penalty earned Blackburn a 2-2 draw at Burnley in their first match since Tony Mowbray stepped back because of health issues. In a gripping, physical East Lancashire derby, the home side led twice, through Largie Ramazani’s rising first-half drive and Jaydon Banel’s steered finish after the break. But Andri Gudjohnsen scored Blackburn’s first equaliser, then earned the penalty which Cantwell converted.",
       "category": [
         "Football"
       ],
@@ -188,6 +188,131 @@
         }
       ],
       "id": "burnley-s-wait-for-a-home-win-goes-on-as-blackburn-twice-hit-back-in-derby"
+    },
+    {
+      "published_at": "2026-11-22T21:22:10+00:00",
+      "updated_at": "2026-11-22T21:22:10+00:00",
+      "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
+      "summary": "Mauricio Pochettino endured a horror start to his Manchester United tenure as his 10-man side were thrashed 4-0 by Liverpool at Anfield following Leny Yoro's early sending off",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/de6c/live/aa7667d0-e6bd-11f1-a094-5fdc692f3e33.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/liverpool-vs-manchester-united/report/559550"
+        },
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50563684/liverpool-ruin-pochettino-manchester-united-debut"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/liverpool-vs-manchester-united/report/559550"
+        },
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50563684/liverpool-ruin-pochettino-manchester-united-debut"
+        }
+      ],
+      "id": "chaotic-week-nightmare-start-and-huge-reality-check-for-pochettino"
+    },
+    {
+      "published_at": "2026-11-22T21:04:55+00:00",
+      "updated_at": "2026-11-22T21:04:55+00:00",
+      "title": "Pepe did not injure eyes staring at sun, say Villarreal",
+      "summary": "Villarreal say reports striker Nicolas Pepe needed eye surgery because he stared directly at the solar eclipse are \"completely false\"",
+      "category": [
+        "La Liga"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fac4/live/e82d54b0-e6b5-11f1-a367-d7fb45f4e865.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8zx9y6d29vyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c8zx9y6d29vyo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "pepe-did-not-injure-eyes-staring-at-sun-say-villarreal"
+    },
+    {
+      "published_at": "2026-11-22T19:25:21+00:00",
+      "updated_at": "2026-11-22T19:25:21+00:00",
+      "title": "Iraola 'enjoyed' big win over Man Utd",
+      "summary": "Liverpool head coach Andoni Iraola is pleased with his side's performance in their dominant win over Manchester United although he says that his side can still play better",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fe75/live/c00715a0-e6a8-11f1-99a1-253766e7ad8b.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c3y0x55ey81yo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/videos/c3y0x55ey81yo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "iraola-enjoyed-big-win-over-man-utd"
+    },
+    {
+      "published_at": "2026-11-22T17:18:07+00:00",
+      "updated_at": "2026-11-22T17:18:07+00:00",
+      "title": "Jakirovic full of praise for Tzolakis performance",
+      "summary": "Hull head coach Sergej Jakirovic is pleased with his side's \"precise\" counter-attacking to earn a victory over Brighton, and describes goalkeeper Konstantinos Tzolakis' performance as \"unbelievable.\"",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bb36/live/8e08d630-e697-11f1-a094-5fdc692f3e33.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cqz0k335d0njo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cqz0k335d0njo?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [],
+      "id": "jakirovic-full-of-praise-for-tzolakis-performance"
     },
     {
       "published_at": "2026-11-22T15:50:05+00:00",
@@ -271,220 +396,139 @@
       "id": "rochdale-sack-boss-watson-after-northampton-defeat"
     },
     {
-      "published_at": "2026-11-22T08:41:20+00:00",
-      "updated_at": "2026-11-22T08:41:20+00:00",
-      "title": "'Not the right time' - Fernandes pauses Man Utd contract talks",
-      "summary": "Manchester United captain Bruno Fernandes says he has been offered a new contract by the club but feels it \"is not the right time\" for discussions about his future",
+      "published_at": "2026-11-22T03:01:55+00:00",
+      "updated_at": "2026-11-22T03:01:55+00:00",
+      "title": "Lionel Messi at center of red-card controversy as Inter Miami face early MLS playoff exit",
+      "summary": "Messi booked for throwing ball into opponent’s face Columbus coach insists Argentine deserved red card Defending champions thrashed 3-0 in series opener Columbus Crew coach Laurent Courtois said Lionel Messi should have been sent off after throwing a ball into an opponent’s face as Inter Miami crashed to a 3-0 defeat in the MLS Cup playoffs on Saturday. Messi’s frustration boiled over on the stroke of half-time when he hurled a throw-in into the face of Columbus forward Gonzalo Tapia, with 10-man Miami trailing 1-0 at the time.",
       "category": [
-        "Transfer"
+        "Serie A"
       ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/104e/live/c689eea0-e64b-11f1-a563-e14cd8b02601.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6x2e8devk1po?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6x2e8devk1po?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "not-the-right-time-fernandes-pauses-man-utd-contract-talks"
-    },
-    {
-      "published_at": "2026-11-21T20:07:56+00:00",
-      "updated_at": "2026-11-21T20:07:56+00:00",
-      "title": "Nine wins in a row - Bournemouth & Evanilson continue to make history",
-      "summary": "With a ninth successive win, Bournemouth continue to make history under new manager Marco Rose",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
+      "status": "Confirmed by multiple sources",
+      "entity": "lionel-messi",
       "entity_type": "players",
       "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2ab8/live/8d13ad90-e5e3-11f1-99a1-253766e7ad8b.jpg",
+      "image": "https://i.guim.co.uk/img/media/c98d4d83cac99ccfd2d3edc8d0ba8faad0d7f091/272_0_2705_2165/master/2705.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8452fe4be704bd84287752a0cedeeec4",
       "sources": [
         {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c6p9d102k4mdo?at_medium=RSS&at_campaign=rss"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/21/lionel-messi-red-card-controversy-inter-miami-columbus-crew-mls-playoffs"
+        },
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50558763/lionel-messi-throw-red-card-inter-miami-columbus-crew"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6p9d102k4mdo?at_medium=RSS&at_campaign=rss"
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/nov/21/lionel-messi-red-card-controversy-inter-miami-columbus-crew-mls-playoffs"
       },
-      "confirmed_by": [],
-      "id": "nine-wins-in-a-row-bournemouth-evanilson-continue-to-make-history"
-    },
-    {
-      "published_at": "2026-11-21T18:32:27+00:00",
-      "updated_at": "2026-11-21T18:32:27+00:00",
-      "title": "Williams-Barnett's talent bigger than performance - De Zerbi",
-      "summary": "Tottenham Hotspur head coach Roberto De Zerbi is full of praise for teenager Luca Williams-Barnett who was at the heart of a 2-0 win over Ipswich Town",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/501c/live/0f0616f0-e5d8-11f1-a094-5fdc692f3e33.jpg",
-      "sources": [
+      "confirmed_by": [
         {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c6wy4gg24vlno?at_medium=RSS&at_campaign=rss"
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50558763/lionel-messi-throw-red-card-inter-miami-columbus-crew"
         }
       ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c6wy4gg24vlno?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "williams-barnett-s-talent-bigger-than-performance-de-zerbi"
+      "id": "lionel-messi-at-center-of-red-card-controversy-as-inter-miami-face-early-mls-playoff-exit"
     },
     {
-      "published_at": "2026-11-21T18:16:48+00:00",
-      "updated_at": "2026-11-21T18:16:48+00:00",
-      "title": "'It's a deserved defeat' - Glasner on Bournemouth loss",
-      "summary": "Nottingham Forest manager Oliver Glasner believes his side \"deserved\" to lose against Bournemouth as a 2-0 defeat leaves them above the drop zone on goal difference",
-      "category": [
-        "Football"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/13d5/live/c31d7b40-e5d5-11f1-a094-5fdc692f3e33.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/videos/c63dg88zdzxko?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/videos/c63dg88zdzxko?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "it-s-a-deserved-defeat-glasner-on-bournemouth-loss"
-    },
-    {
-      "published_at": "2026-11-20T17:55:18+00:00",
-      "updated_at": "2026-11-20T17:55:18+00:00",
-      "title": "José Mourinhos tvära svara om omstridda supertalangen",
-      "summary": "JJ Gabriel, 16, är enligt uppgifter klar för José Mourinhos Real Madrid. Men några större ord om supertalangen ville inte tränaren bjuda på. – Jag har ingen relation till spelare som inte arbetar med mig, säger Mourinho kort",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.83/0.34/da08ba34f5329b63a89ee6222998d9f24583d5cf445af181aa6506ddd55f4f3d",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/jose-mourinhos-tvara-svara-om-omstridda-supertalangen"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/jose-mourinhos-tvara-svara-om-omstridda-supertalangen"
-      },
-      "confirmed_by": [],
-      "id": "jos-mourinhos-tv-ra-svara-om-omstridda-supertalangen"
-    },
-    {
-      "published_at": "2026-11-22T07:00:00+00:00",
-      "updated_at": "2026-11-22T07:00:00+00:00",
-      "title": "Fernandes: Man Utd have offered new deal but now is not time for talks",
-      "summary": "Bruno Fernandes exclusively told Sky Sports that Manchester United have offered him a new contract but he has put discussions on hold as he insists the club's priority must be returning to winning ways",
-      "category": [
-        "Transfer"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/26/11/1600x900/skysports-bruno-fernandes-manchester-united_7412899.jpg?20261121194818",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13614990/bruno-fernandes-man-utd-captain-confirms-contract-offer-but-says-negotiations-are-on-hold"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13614990/bruno-fernandes-man-utd-captain-confirms-contract-offer-but-says-negotiations-are-on-hold"
-      },
-      "confirmed_by": [],
-      "id": "fernandes-man-utd-have-offered-new-deal-but-now-is-not-time-for-talks"
-    },
-    {
-      "published_at": "2026-11-19T13:00:00+00:00",
-      "updated_at": "2026-11-19T13:00:00+00:00",
-      "title": "Creating chaos, going direct & fixing defence: Assessing Iraola's Liverpool start",
-      "summary": "Liverpool head coach Andoni Iraola asked for judgements on his tenure to wait until after the November international break - we assess how the Basque is faring so far in his new role ahead of the visit of Manchester United in the Premier League on Super Sunday",
+      "published_at": "2026-11-22T18:40:11+00:00",
+      "updated_at": "2026-11-22T18:40:11+00:00",
+      "title": "Under pressure: Is time running out for Arsenal boss Renee Slegers?",
+      "summary": "After Arsenal again failed to win at home, pressure is building on manager Renee Slegers",
       "category": [
         "Premier League"
       ],
-      "status": "Reported",
+      "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://e0.365dm.com/26/11/1600x900/skysports-premier-league-liverpool_7410291.jpg?20261119104807",
+      "club": "arsenal",
+      "image": "https://e0.365dm.com/26/09/1600x900/skysports-renee-slegers_7365288.jpg?20260930211455",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13613875/andoni-iraolas-liverpool-start-assessed-creating-chaos-going-direct-and-fixing-leaky-defence"
+          "url": "https://www.skysports.com/football/live-blog/11095/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest"
+        },
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50563366/arsenal-renee-slegers-west-ham-women-super-league"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13613875/andoni-iraolas-liverpool-start-assessed-creating-chaos-going-direct-and-fixing-leaky-defence"
+        "url": "https://www.skysports.com/football/live-blog/11095/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest"
       },
-      "confirmed_by": [],
-      "id": "creating-chaos-going-direct-fixing-defence-assessing-iraola-s-liverpool-start"
+      "confirmed_by": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50563366/arsenal-renee-slegers-west-ham-women-super-league"
+        }
+      ],
+      "id": "under-pressure-is-time-running-out-for-arsenal-boss-renee-slegers"
     },
     {
-      "published_at": "2026-11-19T10:00:00+00:00",
-      "updated_at": "2026-11-19T10:00:00+00:00",
-      "title": "Seven years on from the sack at Spurs what sort of coach is Pochettino now?",
-      "summary": "What Mauricio Pochettino achieved with Tottenham Hotspur in the previous decade looks even more impressive now than it did at the time. Manchester United really should have turned to the popular Argentine coach years ago",
+      "published_at": "2026-11-22T20:25:00+00:00",
+      "updated_at": "2026-11-22T20:25:00+00:00",
+      "title": "Gary Neville on De Ligt selection and 'negligent' Man Utd",
+      "summary": "Gary Neville accused Manchester United's hierarchy of negligence for failing to strengthen their back line as their 4-0 loss to Liverpool left them with the worst defensive record in Europe",
       "category": [
-        "Coach"
+        "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "tottenham",
-      "image": "https://e0.365dm.com/26/11/1600x900/skysports-premier-league-manchester-united_7405659.jpg?20261113093243",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/11/1600x900/skysports-mauricio-pochettino_7413726.jpg?20261122171838",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13612583/mauricio-pochettino-at-man-utd-seven-years-on-from-the-sack-at-spurs-what-sort-of-coach-is-he-now-we-will-soon-find-out"
+          "url": "https://www.skysports.com/football/news/11095/13615413/liverpool-4-0-man-utd-gary-neville-on-matthijs-de-ligt-selection-and-negligent-red-devils"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13612583/mauricio-pochettino-at-man-utd-seven-years-on-from-the-sack-at-spurs-what-sort-of-coach-is-he-now-we-will-soon-find-out"
+        "url": "https://www.skysports.com/football/news/11095/13615413/liverpool-4-0-man-utd-gary-neville-on-matthijs-de-ligt-selection-and-negligent-red-devils"
       },
       "confirmed_by": [],
-      "id": "seven-years-on-from-the-sack-at-spurs-what-sort-of-coach-is-pochettino-now"
+      "id": "gary-neville-on-de-ligt-selection-and-negligent-man-utd"
+    },
+    {
+      "published_at": "2026-11-22T16:30:15+00:00",
+      "updated_at": "2026-11-22T16:30:15+00:00",
+      "title": "Barcelona retain advantage atop LaLiga after comeback win over Villarreal",
+      "summary": "Read the full report at Reuters.",
+      "category": [
+        "La Liga"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "barcelona",
+      "image": "",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXJnVHd2YTFGU3IxSWxRMzdjdjExVEdmN3lhT3BLNnluUUNIWjNMU1FJNzNPWFd6dnpHeUY5alVDejE4M2NlR0NSLURUT2JaQTBIamJ1TkI1cWFLbEpmdjBQUmZvMU4tZ1hoc1lNdGphTlJVMkRGRUtuYnBnc1dpTjFqekkwbnRaaFFGUzY0ei1FdU1r?oc=5"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Reuters",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Athletic",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXJnVHd2YTFGU3IxSWxRMzdjdjExVEdmN3lhT3BLNnluUUNIWjNMU1FJNzNPWFd6dnpHeUY5alVDejE4M2NlR0NSLURUT2JaQTBIamJ1TkI1cWFLbEpmdjBQUmZvMU4tZ1hoc1lNdGphTlJVMkRGRUtuYnBnc1dpTjFqekkwbnRaaFFGUzY0ei1FdU1r?oc=5"
+        }
+      ],
+      "id": "barcelona-retain-advantage-atop-laliga-after-comeback-win-over-villarreal"
     },
     {
       "published_at": "2026-11-22T09:18:00+00:00",
@@ -556,13 +600,13 @@
       "sources": [
         {
           "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeThZZ3FsSVNtZXJDUUd5dXhTT3IwRF9wcW5iT2JoS2hmMV9kdnQtVlc0bjFoOHZ0ZGFjb0tXNU5oM1MxOUVYbUtsN0hoaGhkWVJFSEo1eVQtVUwxNjVnYTVlcFpoSm03NVRzTEllN3I0YU1xajNCZl9VemJMNDJIRF9WV2V6NEotR1FtalJxOFE5dw?oc=5"
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Fotbollskanalen",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeThZZ3FsSVNtZXJDUUd5dXhTT3IwRF9wcW5iT2JoS2hmMV9kdnQtVlc0bjFoOHZ0ZGFjb0tXNU5oM1MxOUVYbUtsN0hoaGhkWVJFSEo1eVQtVUwxNjVnYTVlcFpoSm03NVRzTEllN3I0YU1xajNCZl9VemJMNDJIRF9WV2V6NEotR1FtalJxOFE5dw?oc=5"
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
       "id": "sm-ll-f-r-mj-llby-bergstr-m-skadad"
@@ -595,67 +639,88 @@
       "id": "klart-manglind-f-rl-nger-med-helsingborg"
     },
     {
-      "published_at": "2026-11-20T13:03:11+00:00",
-      "updated_at": "2026-11-20T13:03:11+00:00",
-      "title": "Supportrar i samtal med Djurgårdens spelare inför Sirius-matchen",
-      "summary": "Den svåra, näst sista matchen mot Sirius stundar på Studenternas när blåränderna från huvudstaden tar sig till Uppsala på söndagseftermiddagen. Matchen, som hade kunnat vara en kamp om guldet, är omtvistad i och med toppstriden i Allsvenskan. En ny tränarduo för Djurgården ger även en intressant krydda till matchen",
+      "published_at": "2026-11-20T16:48:51+00:00",
+      "updated_at": "2026-11-20T16:48:51+00:00",
+      "title": "Uppgifter: Real Madrid förlänger med Diaz och Valverde",
+      "summary": "Uppgifter: Alexander-Arnold missnöjd i Real Madrid Fotbollskanalen",
       "category": [
-        "Sverige"
+        "Sverige",
+        "La Liga"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.52/0.34/0545b76860ee477de498b367f37296edcac2546a0bb2ae466035f51bdde0b7c4",
+      "club": "real-madrid",
+      "image": "",
       "sources": [
         {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/supportrar-i-samtal-med-djurgardens-spelare-infor-sirius-matchen"
-        },
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/infor-ik-sirius-djurgardens-if-703582"
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/supportrar-i-samtal-med-djurgardens-spelare-infor-sirius-matchen"
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
-      "confirmed_by": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/infor-ik-sirius-djurgardens-if-703582"
-        }
-      ],
-      "id": "supportrar-i-samtal-med-djurg-rdens-spelare-inf-r-sirius-matchen"
+      "confirmed_by": [],
+      "id": "uppgifter-real-madrid-f-rl-nger-med-diaz-och-valverde"
     },
     {
-      "published_at": "2026-11-22T03:01:55+00:00",
-      "updated_at": "2026-11-22T03:01:55+00:00",
-      "title": "Lionel Messi at center of red-card controversy as Inter Miami face early MLS playoff exit",
-      "summary": "Messi booked for throwing ball into opponent’s face Columbus coach insists Argentine deserved red card Defending champions thrashed 3-0 in series opener Columbus Crew coach Laurent Courtois said Lionel Messi should have been sent off after throwing a ball into an opponent’s face as Inter Miami crashed to a 3-0 defeat in the MLS Cup playoffs on Saturday. Messi’s frustration boiled over on the stroke of half-time when he hurled a throw-in into the face of Columbus forward Gonzalo Tapia, with 10-man Miami trailing 1-0 at the time.",
+      "published_at": "2026-11-22T20:58:35+00:00",
+      "updated_at": "2026-11-22T20:58:35+00:00",
+      "title": "Pochettino’s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson",
+      "summary": "Decision to pick the Dutch defender over Harry Maguire backfired as Manchester United fell apart in the Anfield bearpit Chaotic, bewildering, and on this evidence in a relegation dogfight: welcome to the three‑ring circus that is Manchester United, Mauricio Pochettino. This ended as a 4-0 rout in favour of Liverpool, the new head coach overseeing the poorest opening result of the eight who have followed Sir Alex Ferguson since May 2013. Factor in this result coming against United’s fiercest rivals and Pochettino’s despair is complete.",
       "category": [
-        "Serie A"
+        "Transfer",
+        "Coach"
       ],
       "status": "Reported",
-      "entity": "lionel-messi",
+      "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://i.guim.co.uk/img/media/c98d4d83cac99ccfd2d3edc8d0ba8faad0d7f091/272_0_2705_2165/master/2705.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8452fe4be704bd84287752a0cedeeec4",
+      "image": "https://i.guim.co.uk/img/media/2e5a4478b3bf6d18edc1a5b8efc06cb3779d0585/119_0_3133_2506/master/3133.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=33178b6395e49db6595da0270b041df0",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/nov/21/lionel-messi-red-card-controversy-inter-miami-columbus-crew-mls-playoffs"
+          "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-matthijs-de-ligt-harry-maguire-manchester-united-liverpool-premier-league"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/nov/21/lionel-messi-red-card-controversy-inter-miami-columbus-crew-mls-playoffs"
+        "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-matthijs-de-ligt-harry-maguire-manchester-united-liverpool-premier-league"
       },
       "confirmed_by": [],
-      "id": "lionel-messi-at-center-of-red-card-controversy-as-inter-miami-face-early-mls-playoff-exit"
+      "id": "pochettino-s-new-manager-bounce-falls-flat-with-de-ligt-move-a-disastrous-step-jamie-jacks"
+    },
+    {
+      "published_at": "2026-11-22T11:33:54+00:00",
+      "updated_at": "2026-11-22T11:33:54+00:00",
+      "title": "Bruno Fernandes reveals talks over new Manchester United contract are on hold",
+      "summary": "Club captain confirms he has been offered a new deal ‘Not the right moment to be talking about negotiations’ Bruno Fernandes has revealed that Manchester United have offered him a new contract, but discussions have been ⁠put on hold as the club focus on turning around their terrible start to the season. Fernandes’s current deal expires at the end of this campaign, although United ⁠hold an ​option to extend their captain’s contract by a further year until June 2028, giving the club more time to reach ⁠an agreement on fresh terms.",
+      "category": [
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://i.guim.co.uk/img/media/375f706ba2be2bc2857790c27dd96da939d2dde9/320_0_4160_3328/master/4160.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=48f39f40a2f519c9a4cb49bfb17c22df",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/22/bruno-fernandes-reveals-talks-over-new-manchester-united-contract-are-on-hold"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/nov/22/bruno-fernandes-reveals-talks-over-new-manchester-united-contract-are-on-hold"
+      },
+      "confirmed_by": [],
+      "id": "bruno-fernandes-reveals-talks-over-new-manchester-united-contract-are-on-hold"
     },
     {
       "published_at": "2026-11-21T21:48:21+00:00",
@@ -793,31 +858,31 @@
       "id": "danny-kelly-loved-football-and-never-forgot-the-absurdity-of-earning-a-living-talking-abou"
     },
     {
-      "published_at": "2026-11-17T08:00:09+00:00",
-      "updated_at": "2026-11-17T08:00:09+00:00",
-      "title": "‘He wants to change lives’: the story behind Bukayo Saka’s Sócrates award",
-      "summary": "By supporting the non-profit BigShoe, the Arsenal forward has earned deserved plaudits for his social conscience Valerie Fiesser will never forget her surprise when Bukayo Saka contacted her out of the blue in 2022, asking whether he could help support a project in Nigeria. “I remember thinking: ‘Is this really Bukayo writing us an email?’” says the president of BigShoe, a non-profit organisation based in Frankfurt that has helped more than 10,000 children worldwide. He’s always asking what more we can do.” Four years on from that unexpected email, Fiesser was given the secret task of reaching out for a letter for Saka to read from the podium when he was presented with the Sócrates award at last month’s Ballon d’Or ceremony in London for his humanitarian work.",
+      "published_at": "2026-11-18T12:01:00+00:00",
+      "updated_at": "2026-11-18T12:01:00+00:00",
+      "title": "Netflix, Fox and the $2bn bid for the 2030 World Cup that could reshape live sports",
+      "summary": "The battle for the US TV rights to the tournament will pit the traditional broadcaster against the ‘whatever-it-takes’ streamer. It could be a tipping point in the industry The awarding of broadcast rights in the United States for this year’s World Cup was a cut-price deal to avoid legal action from the existing rights holders, Fox Sports. This week’s tender process for the 2030 tournament will be anything but.",
       "category": [
-        "Football"
+        "Transfer"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://i.guim.co.uk/img/media/d260578488a1117396b1fbbce4ccf0dce45018db/31_0_4684_3746/master/4684.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2b4dd04075e907b1a879a63f844b278c",
+      "image": "https://i.guim.co.uk/img/media/c9771ae3d7b134d4b98aa6c461e18d4c617b73ef/195_0_2610_2088/master/2610.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8aad75c1734993ce6c36f132f9727ebf",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/nov/17/he-wants-to-change-lives-the-story-behind-bukayo-sakas-socrates-award"
+          "url": "https://www.theguardian.com/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/nov/17/he-wants-to-change-lives-the-story-behind-bukayo-sakas-socrates-award"
+        "url": "https://www.theguardian.com/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights"
       },
       "confirmed_by": [],
-      "id": "he-wants-to-change-lives-the-story-behind-bukayo-saka-s-s-crates-award"
+      "id": "netflix-fox-and-the-2bn-bid-for-the-2030-world-cup-that-could-reshape-live-sports"
     },
     {
       "published_at": "2026-11-17T08:00:08+00:00",
@@ -845,61 +910,6 @@
       },
       "confirmed_by": [],
       "id": "echoes-of-azteca-but-not-like-argentina-fearless-england-start-afresh-in-madrid"
-    },
-    {
-      "published_at": "2026-11-16T16:14:29+00:00",
-      "updated_at": "2026-11-16T16:14:29+00:00",
-      "title": "Do good club managers necessarily make good international managers? | Jonathan Wilson",
-      "summary": "In a mailbag edition of our newsletter, we look at Mauricio Pochettino, Pep Guardiola’s international credentials and the lack of elite English managers Sign up for our free newsletter here Who should replace Mauricio Pochettino as the USMNT manager? – Tom S Although the salary I’m sure will be excellent, I think the US job is going to be a really difficult sell to a top-level coach. The 2030 World Cup is a long way away and I’m not sure the Concacaf Nations League, the Gold Cup or even the 2028 Copa América carry much appeal for a manager with European experience or aspirations.",
-      "category": [
-        "Serie A",
-        "Coach"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/a05aa098b3152673b6c66abe291ae14babf13bc6/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=71be131d5aba8cbb5698e21eaf7e67cf",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/global/2026/nov/16/mauricio-pochettino-usmnt-replacement-coach"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/global/2026/nov/16/mauricio-pochettino-usmnt-replacement-coach"
-      },
-      "confirmed_by": [],
-      "id": "do-good-club-managers-necessarily-make-good-international-managers-jonathan-wilson"
-    },
-    {
-      "published_at": "2026-11-16T14:00:19+00:00",
-      "updated_at": "2026-11-16T14:00:19+00:00",
-      "title": "Familiarity of Doha drives home just how far Socceroos have come in recent years | Joey Lynch",
-      "summary": "There is increasing evidence of an evolution not only in approach but also mentality, highlighted by a return to the scene of Asian Cup heartbreak Last week’s 3-0 dismissal of Qatar at the Abdullah bin Khalifa Stadium marked the first time the Socceroos had returned to the Gulf state since their heartbreaking elimination from the Asian Cup just under three years ago. Back then, coach Graham Arnold called Doha a “home away from home” after they relocated there during the Covid pandemic, and went so far as to suggest that they would have some form of advantage at the 2022 World Cup as a result. Wandering around the city in 2026, memories rush back of Socceroos fans becoming eager participants in the takeover of the city’s souks during the World Cup.",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/f04223d5c418984ad18dbca037d8df6116e2a793/373_0_6015_4813/master/6015.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7ea57ff5acf542a7c615e926a267cb1b",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/blog/2026/nov/16/doha-socceroos-return-stronger-after-asian-cup-heartbreak"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/blog/2026/nov/16/doha-socceroos-return-stronger-after-asian-cup-heartbreak"
-      },
-      "confirmed_by": [],
-      "id": "familiarity-of-doha-drives-home-just-how-far-socceroos-have-come-in-recent-years-joey-lync"
     },
     {
       "published_at": "2026-11-21T12:00:00+00:00",
@@ -956,401 +966,139 @@
       "id": "uppgifter-if-elfsborg-r-verens-med-tv-trotj-nare"
     },
     {
-      "published_at": "2026-11-21T21:40:00+00:00",
-      "updated_at": "2026-11-21T21:40:00+00:00",
-      "title": "PSG star Désiré Doué suffers 'serious' knee injury in win over Nice",
-      "summary": "Read the full report at ESPN.",
+      "published_at": "2026-11-22T22:04:42+00:00",
+      "updated_at": "2026-11-22T22:04:42+00:00",
+      "title": "Poch blames 'circumstances' in painful Man United loss to Liverpool",
+      "summary": "Mauricio Pochettino called for understanding of the \"circumstances\" that led to Manchester United suffering a 4-0 defeat Sunday against Liverpool in his first game as head coach",
       "category": [
-        "Ligue 1"
+        "Premier League"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "psg",
-      "image": "",
+      "club": "liverpool",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1122%2Fr1749718_1024x576_16%2D9.jpg",
       "sources": [
         {
           "name": "ESPN",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "url": "https://www.espn.com/soccer/story/_/id/50563730/pochettino-painful-man-united-loss-liverpool"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "ESPN",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "url": "https://www.espn.com/soccer/story/_/id/50563730/pochettino-painful-man-united-loss-liverpool"
       },
       "confirmed_by": [],
-      "id": "psg-star-d-sir-dou-suffers-serious-knee-injury-in-win-over-nice"
+      "id": "poch-blames-circumstances-in-painful-man-united-loss-to-liverpool"
     },
     {
-      "published_at": "2026-11-22T08:37:39+00:00",
-      "updated_at": "2026-11-22T08:37:39+00:00",
-      "title": "Today’s Papers – Fantastic Malen, Inter under pressure, Lazio have fun",
-      "summary": "La Gazzetta dello Sport McTominay relaunches Napoli and Allegri: Toro fight but crumble. Attack to Inter Noslin and Malen show: the defending champions are under pressure Unbeatable Lazio, they knock Lecce down. Roma sit second: four goals in Parma, with four goals from the top scorer.",
+      "published_at": "2026-11-22T22:04:41+00:00",
+      "updated_at": "2026-11-22T22:04:41+00:00",
+      "title": "Villarreal refute claims Pépé's eye surgery result of viewing solar eclipse",
+      "summary": "Villarreal have denied that Nicolas Pépé underwent eye surgery as a result of viewing the solar eclipse",
       "category": [
-        "Serie A"
+        "La Liga"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://icdn.football-italia.net/wp-content/uploads/2026/11/Screenshot-2026-11-22-093417.jpg",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1122%2Fr1749776_1296x729_16%2D9.jpg",
       "sources": [
         {
-          "name": "Football Italia",
-          "url": "https://football-italia.net/todays-papers-malen-lazio-inter-pressure/"
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50564664/nicolas-pepe-eclipse-villarreal"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Football Italia",
-        "url": "https://football-italia.net/todays-papers-malen-lazio-inter-pressure/"
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/50564664/nicolas-pepe-eclipse-villarreal"
       },
       "confirmed_by": [],
-      "id": "today-s-papers-fantastic-malen-inter-under-pressure-lazio-have-fun"
+      "id": "villarreal-refute-claims-p-p-s-eye-surgery-result-of-viewing-solar-eclipse"
     },
     {
-      "published_at": "2026-11-21T16:25:03+00:00",
-      "updated_at": "2026-11-21T16:25:03+00:00",
-      "title": "Höjdpunkter: Mjällby AIF - Malmö FF",
-      "summary": "Ännu ett landslagsuppehåll är avslutat och MFF ska resa upp till Blekinge för årets sista bortamatch",
+      "published_at": "2026-11-22T22:04:41+00:00",
+      "updated_at": "2026-11-22T22:04:41+00:00",
+      "title": "Flick: Barça comeback 'unbelievable,' not happy with ref",
+      "summary": "Barcelona coach Hansi Flick praised his side's \"unbelievable\" comeback from two goals down to beat Villarreal 3-2 in LaLiga on Sunday, but was left far from happy with referee Alejandro Hernández Hernández",
       "category": [
-        "Sverige"
+        "Football"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1122%2Fr1749666_1296x729_16%2D9.jpg",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        },
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/infor-mjallby-aif-malmo-ff-703434"
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50562953/barcelona-villarreal-la-liga-hansi-flick-refereeing"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/50562953/barcelona-villarreal-la-liga-hansi-flick-refereeing"
       },
-      "confirmed_by": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/infor-mjallby-aif-malmo-ff-703434"
-        }
-      ],
-      "id": "h-jdpunkter-mj-llby-aif-malm-ff"
+      "confirmed_by": [],
+      "id": "flick-bar-a-comeback-unbelievable-not-happy-with-ref"
     },
     {
-      "published_at": "2026-11-20T09:22:00+00:00",
-      "updated_at": "2026-11-20T09:22:00+00:00",
-      "title": "Beskedet: Stängt tak i Hammarby-IFK Göteborg",
-      "summary": "Hammarby IF har ett gyllene läge att vinna sitt andra SM-guld. På måndag spelar de sin sista hemmamatch för säsongen när de tar emot IFK Göteborg. Till tränaren Henrik Rydströms glädje har Hammarby nu gått ut med att taket på 3Arena kommer att vara stängt under måndagsmatchen",
+      "published_at": "2026-11-22T12:37:21+00:00",
+      "updated_at": "2026-11-22T12:37:21+00:00",
+      "title": "Transfer rumors, news: Antonee Robinson latest USMNT star linked with Man United",
+      "summary": "Antonee Robinson is reportedly attracting interest from Manchester United.",
       "category": [
-        "Sverige"
+        "Transfer"
       ],
-      "status": "Confirmed by multiple sources",
+      "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1122%2Fr1749524_1296x729_16%2D9.jpg",
       "sources": [
         {
-          "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOel9JMi14U1o3XzVDbmpZaWItbWM1bV83dDI0ajRLRThOb0NjZnh5Q3JFeDRvM05hTGtDeWVRU0xESDFuYlY3WkIyU3FteGdPRE5yMG9VM2FJQlBxZlhMUHRlU25iN3FjU3VYeHo3X2ljRWszZ1pMbENoSlJHVXpkVXJMbk9vR05PWU01NnM5SVQwVXFFZ3loZVMyMA?oc=5"
-        },
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/stangt-tak-infor-hammarby-goteborg-allt-som-gor-att-temperaturen-hojs-ar-jag-positiv-till-703519"
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50560783/transfer-rumors-news-antonee-robinson-usmnt-man-united"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOel9JMi14U1o3XzVDbmpZaWItbWM1bV83dDI0ajRLRThOb0NjZnh5Q3JFeDRvM05hTGtDeWVRU0xESDFuYlY3WkIyU3FteGdPRE5yMG9VM2FJQlBxZlhMUHRlU25iN3FjU3VYeHo3X2ljRWszZ1pMbENoSlJHVXpkVXJMbk9vR05PWU01NnM5SVQwVXFFZ3loZVMyMA?oc=5"
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/50560783/transfer-rumors-news-antonee-robinson-usmnt-man-united"
       },
-      "confirmed_by": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/stangt-tak-infor-hammarby-goteborg-allt-som-gor-att-temperaturen-hojs-ar-jag-positiv-till-703519"
-        }
-      ],
-      "id": "beskedet-st-ngt-tak-i-hammarby-ifk-g-teborg"
+      "confirmed_by": [],
+      "id": "transfer-rumors-news-antonee-robinson-latest-usmnt-star-linked-with-man-united"
     },
     {
-      "published_at": "2026-11-22T15:56:42+00:00",
-      "updated_at": "2026-11-22T15:56:42+00:00",
-      "title": "Rosengårds mardröm – åker ur damallsvenskan",
-      "summary": "Konkurshotade Kif Örebro vann kvalet och är – just nu – tillbaka i den högsta ligan",
+      "published_at": "2026-11-21T16:52:09+00:00",
+      "updated_at": "2026-11-21T16:52:09+00:00",
+      "title": "Dortmund down Gladbach to go top of Bundesliga",
+      "summary": "Read the full report at Reuters.",
       "category": [
-        "Sverige"
+        "Bundesliga"
       ],
       "status": "Confirmed",
       "entity": "",
       "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.58/0.5/c742ec4a84445d409adbf13fe2705af459ad04e9328699173f30745d06b5fb08",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/rosengards-mardrom-aker-ur-damallsvenskan"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/rosengards-mardrom-aker-ur-damallsvenskan"
-      },
-      "confirmed_by": [],
-      "id": "roseng-rds-mardr-m-ker-ur-damallsvenskan"
-    },
-    {
-      "published_at": "2026-11-22T15:09:16+00:00",
-      "updated_at": "2026-11-22T15:09:16+00:00",
-      "title": "Barcelona score three goals in 10 minutes to secure comeback win over Villarreal",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "La Liga"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "barcelona",
+      "club": "borussia-dortmund",
       "image": "",
       "sources": [
         {
-          "name": "The Athletic",
+          "name": "Reuters",
           "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "The Athletic",
+        "name": "Reuters",
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "barcelona-score-three-goals-in-10-minutes-to-secure-comeback-win-over-villarreal"
-    },
-    {
-      "published_at": "2026-11-22T14:52:24+00:00",
-      "updated_at": "2026-11-22T14:52:24+00:00",
-      "title": "Sirius leder allsvenskan igen efter seger mot Djurgården",
-      "summary": "Nu är pressen på Hammarby i den allsvenska toppstriden. – Väldigt skönt, säger Isak Bjerkebo till SVT Sport",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.49/0.32/6cf1f930972d802d116d0e0fc3953922d6efce1dab9f7f8958674583b7a34478",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/sirius-leder-allsvenskan-igen-efter-seger-mot-djurgarden"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/sirius-leder-allsvenskan-igen-efter-seger-mot-djurgarden"
-      },
-      "confirmed_by": [],
-      "id": "sirius-leder-allsvenskan-igen-efter-seger-mot-djurg-rden"
-    },
-    {
-      "published_at": "2026-11-22T14:27:29+00:00",
-      "updated_at": "2026-11-22T14:27:29+00:00",
-      "title": "Matilda Vinberg med läckert mål mot Manchester City",
-      "summary": "Matilda Vinberg visar fin form inför Sveriges avgörande VM-playoff. 23-åringen svarade för en assist och ett läckert mål när Tottenham besegrade ligatvåan Manchester City. – Här gör hon allting rätt, säger SVT Sports kommentator Linus Eklund",
-      "category": [
-        "Sverige",
-        "Premier League"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "manchester-city",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.75/0.37/7b22bb74cc62e9ae5396df50c9a2d06c26e8e7275ed67313874faf595039a8d1",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/matilda-vinberg-med-lackert-mal-mot-manchester-city"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/matilda-vinberg-med-lackert-mal-mot-manchester-city"
-      },
-      "confirmed_by": [],
-      "id": "matilda-vinberg-med-l-ckert-m-l-mot-manchester-city"
-    },
-    {
-      "published_at": "2026-11-22T13:22:18+00:00",
-      "updated_at": "2026-11-22T13:22:18+00:00",
-      "title": "Här jublar Djurgårdsklacken – när Kristian Lien missar straff",
-      "summary": "Ville Djurgården verkligen vinna mot Sirius? Kristian Liens straffmiss utlöste ett jubel i bortaklacken. – Det är en fruktansvärt dålig straff – det ser alla, säger Lien till SVT Sport",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.2/0.47/7db39ae9dc19c9b0b0576a9f766f0fd10de9f579395f4048a8d145294d984bb9",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/har-jublar-djurgardsklacken-nar-kristian-lien-missar-straff"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/har-jublar-djurgardsklacken-nar-kristian-lien-missar-straff"
-      },
-      "confirmed_by": [],
-      "id": "h-r-jublar-djurg-rdsklacken-n-r-kristian-lien-missar-straff"
-    },
-    {
-      "published_at": "2026-11-22T11:36:53+00:00",
-      "updated_at": "2026-11-22T11:36:53+00:00",
-      "title": "Uppgifter: Fran Alonso får sparken från FC Rosengård",
-      "summary": "Fran Alonsos sejour i FC Rosengård blev kort. Enligt uppgifter till SVT Sport har klubben sparkat tränaren – samtidigt som de kämpar för att behålla sin plats i damallsvenskan",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "xabi-alonso",
-      "entity_type": "coaches",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.27/0.37/5407031b607e14e836445a21b1830d36d0f86574adaca20e5fe6a6d835392639",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/uppgifter-fran-alonso-far-sparken-fran-fc-rosengard"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/uppgifter-fran-alonso-far-sparken-fran-fc-rosengard"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-fran-alonso-f-r-sparken-fr-n-fc-roseng-rd"
-    },
-    {
-      "published_at": "2026-11-22T11:08:57+00:00",
-      "updated_at": "2026-11-22T11:08:57+00:00",
-      "title": "Sirius-profilen Magnus: ”17 procents chans till guld”",
-      "summary": "Han har en bit av Studenternas gamla träläktare och ett 40-tal matchanvända Siriuströjor. Nu drömmer supportern Magnus Dahl om SM-guld. – Hösten 2016 bestämde jag mig för att gå på varje match, hemma som borta, och sedan dess har jag bara missat två",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.5/0.5/b5b7002e2533ed9f4c0e028dbc2967045e1136d81c856f55ff937471a298db6a",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/nyheter/lokalt/uppsala/sirius-profilen-magnus-17-procents-chans-till-guld"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/nyheter/lokalt/uppsala/sirius-profilen-magnus-17-procents-chans-till-guld"
-      },
-      "confirmed_by": [],
-      "id": "sirius-profilen-magnus-17-procents-chans-till-guld"
-    },
-    {
-      "published_at": "2026-11-22T09:58:41+00:00",
-      "updated_at": "2026-11-22T09:58:41+00:00",
-      "title": "Förändringen i Djurgården: ”Var tungt”",
-      "summary": "Jani Honkavaara fick sparken som huvudtränare för Djurgården. Agon Mehmeti och Abel Lorincz har tagit över på interimbasis. – Det var tungt i början, det är ändå kollegor som jag jobbat med ett tag, säger Mehmeti",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.8/0.51/38718d6b12ab43d5487f00fa399254822bf83f235d2efe70541d082ea388a722",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/forandringen-i-djurgarden-var-tungt"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/forandringen-i-djurgarden-var-tungt"
-      },
-      "confirmed_by": [],
-      "id": "f-r-ndringen-i-djurg-rden-var-tungt"
-    },
-    {
-      "published_at": "2026-11-22T09:16:47+00:00",
-      "updated_at": "2026-11-22T09:16:47+00:00",
-      "title": "Se målvaktens jätteblunder i nederländska derbyt",
-      "summary": "Lovro Stubljar, 22, vill nog snabbt glömma sin match mot Heerenveen. Groningens målvakt bjöd på ett misstag utöver det vanliga. – Det är en kolossal blunder, utbrister kommentatorn i ESPN:s sändning",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.73/0.45/16417e9b71be5476bd019aff02bfb8de40db171b79120e5ac05f146a2bf636f8",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/se-malvaktens-jatteblunder-i-nederlandska-derbyt"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/se-malvaktens-jatteblunder-i-nederlandska-derbyt"
-      },
-      "confirmed_by": [],
-      "id": "se-m-lvaktens-j-tteblunder-i-nederl-ndska-derbyt"
-    },
-    {
-      "published_at": "2026-11-22T05:20:09+00:00",
-      "updated_at": "2026-11-22T05:20:09+00:00",
-      "title": "Michel Owono interview: Racist threats and mistaken identity after Jesus de Miguel’s death",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "michel-owono-interview-racist-threats-and-mistaken-identity-after-jesus-de-miguel-s-death"
+      "id": "dortmund-down-gladbach-to-go-top-of-bundesliga"
     },
     {
       "published_at": "2026-11-22T12:00:00+00:00",
@@ -1380,31 +1128,112 @@
       "id": "watford-sack-head-coach-dionisi"
     },
     {
-      "published_at": "2026-11-19T14:00:00+00:00",
-      "updated_at": "2026-11-19T14:00:00+00:00",
-      "title": "PSG confirm Doue has ACL injury with surgery imminent",
-      "summary": "Read the full report at Sky Sports.",
+      "published_at": "2026-11-22T19:51:00+00:00",
+      "updated_at": "2026-11-22T19:51:00+00:00",
+      "title": "'Wake up, wake up!' - Gary Neville's plea to Man Utd's defenders",
+      "summary": "Gary Neville makes a passionate plea to Manchester United's defenders after their 4-0 defeat at Liverpool",
       "category": [
-        "Ligue 1"
+        "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "psg",
-      "image": "https://e0.365dm.com/26/11/1600x900/skysports-desire-doue-psg-ligue-1_7413511.jpg?20261122143256",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/11/1600x900/skysports-neville-man-utd_7413900.jpg?20261122200028",
       "sources": [
         {
           "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
+          "url": "https://www.skysports.com/watch/video/13615415/liverpool-4-0-man-utd-gary-nevilles-passionate-plea-to-man-utds-defending"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
+        "url": "https://www.skysports.com/watch/video/13615415/liverpool-4-0-man-utd-gary-nevilles-passionate-plea-to-man-utds-defending"
       },
       "confirmed_by": [],
-      "id": "psg-confirm-doue-has-acl-injury-with-surgery-imminent"
+      "id": "wake-up-wake-up-gary-neville-s-plea-to-man-utd-s-defenders"
+    },
+    {
+      "published_at": "2026-11-22T18:58:00+00:00",
+      "updated_at": "2026-11-22T18:58:00+00:00",
+      "title": "'No chance!' - Poch and Mainoo fume at 'unfair' Yoro red card",
+      "summary": "Mauricio Pochettino felt Manchester United were given an \"unfair\" red card in their 4-0 defeat at Liverpool - with Kobbie Mainoo replying \"no chance\" when asked whether Leny Yoro should have been sent off",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/11/1600x900/skysports-leny-yoro-alexander-isak_7413680.jpg?20261122164441",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13615402/leny-yoro-red-card-man-utd-boss-mauricio-pochettino-and-kobbie-mainoo-angry-at-sending-off-for-foul-on-liverpools-alexander-isak"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13615402/leny-yoro-red-card-man-utd-boss-mauricio-pochettino-and-kobbie-mainoo-angry-at-sending-off-for-foul-on-liverpools-alexander-isak"
+      },
+      "confirmed_by": [],
+      "id": "no-chance-poch-and-mainoo-fume-at-unfair-yoro-red-card"
+    },
+    {
+      "published_at": "2026-11-22T18:35:00+00:00",
+      "updated_at": "2026-11-22T18:35:00+00:00",
+      "title": "'I feel like swearing!' - Keane on Man Utd's heavy loss to Liverpool",
+      "summary": "Roy Keane shares his thoughts on Manchester United after their 4-0 loss to Liverpool and his disbelief at their 'lack of fight'",
+      "category": [
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/11/1600x900/skysports-keane-man-utd_7413826.jpg?20261122183718",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/watch/video/13615388/roy-keanes-post-match-takedown-of-man-utd-after-4-0-defeat-at-liverpool"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/watch/video/13615388/roy-keanes-post-match-takedown-of-man-utd-after-4-0-defeat-at-liverpool"
+      },
+      "confirmed_by": [],
+      "id": "i-feel-like-swearing-keane-on-man-utd-s-heavy-loss-to-liverpool"
+    },
+    {
+      "published_at": "2026-11-22T16:15:00+00:00",
+      "updated_at": "2026-11-22T16:15:00+00:00",
+      "title": "Punishing start for Pochettino as size of Man Utd mess made clear",
+      "summary": "They had to because there were only 10 of them for all but the first seven minutes. If running were the only problem then this mess might soon be solvable. But Manchester United's 4-0 defeat to Liverpool at Anfield highlighted more flaws than that",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://e0.365dm.com/26/11/1600x900/skysports-mauricio-pochettino_7413802.jpg?20261122181812",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13615315/mauricio-pochettino-made-mistakes-in-man-utds-4-0-defeat-to-liverpool-but-the-size-of-the-mess-he-has-inherited-is-clear"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/news/11095/13615315/mauricio-pochettino-made-mistakes-in-man-utds-4-0-defeat-to-liverpool-but-the-size-of-the-mess-he-has-inherited-is-clear"
+      },
+      "confirmed_by": [],
+      "id": "punishing-start-for-pochettino-as-size-of-man-utd-mess-made-clear"
     },
     {
       "published_at": "2026-11-22T14:15:00+00:00",
@@ -1434,37 +1263,38 @@
       "id": "man-city-lose-again-as-home-wsl-record-crumbles-with-spurs-defeat"
     },
     {
-      "published_at": "2026-11-21T20:21:00+00:00",
-      "updated_at": "2026-11-21T20:21:00+00:00",
-      "title": "How 'complacent' Arsenal unravelled at Newcastle - and their key lesson",
-      "summary": "From \"exceptional\" to \"complacent\" - Arsenal's drop-off in the second half at Newcastle was extraordinary",
+      "published_at": "2026-11-22T21:33:00+00:00",
+      "updated_at": "2026-11-22T21:33:00+00:00",
+      "title": "Uppgifter: Arsenal och Liverpool följer Musialas situation",
+      "summary": "Read the full report at Fotbollskanalen.",
       "category": [
+        "Sverige",
         "Premier League"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "arsenal",
-      "image": "https://e0.365dm.com/26/11/1600x900/skysports-bruno-guimaraes-sean-steur_7412718.jpg?20261121175724",
+      "image": "",
       "sources": [
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13615040/arsenal-escape-with-2-2-draw-at-newcastle-after-complacent-second-half-almost-proves-costly-for-defending-champions"
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13615040/arsenal-escape-with-2-2-draw-at-newcastle-after-complacent-second-half-almost-proves-costly-for-defending-champions"
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "how-complacent-arsenal-unravelled-at-newcastle-and-their-key-lesson"
+      "id": "uppgifter-arsenal-och-liverpool-f-ljer-musialas-situation"
     },
     {
-      "published_at": "2026-11-22T15:50:44+00:00",
-      "updated_at": "2026-11-22T15:50:44+00:00",
-      "title": "Höjdpunkter: IK Sirius - Djurgårdens IF",
-      "summary": "Höjdpunkter: AIK - Degerfors IF Fotbollskanalen",
+      "published_at": "2026-11-22T19:52:14+00:00",
+      "updated_at": "2026-11-22T19:52:14+00:00",
+      "title": "Isak röjer sina bästa vänner i \"Reds\": \"Vi är ett bra gäng\"",
+      "summary": "Read the full report at Fotbollskanalen.",
       "category": [
         "Sverige"
       ],
@@ -1485,13 +1315,13 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "h-jdpunkter-ik-sirius-djurg-rdens-if"
+      "id": "isak-r-jer-sina-b-sta-v-nner-i-reds-vi-r-ett-bra-g-ng"
     },
     {
-      "published_at": "2026-11-22T15:43:41+00:00",
-      "updated_at": "2026-11-22T15:43:41+00:00",
-      "title": "Bajen är fortsatt guldfavorit - Allsvenskan",
-      "summary": "Bajen är fortsatt guldfavorit - Allsvenskan Fotbollskanalen",
+      "published_at": "2026-11-22T19:31:59+00:00",
+      "updated_at": "2026-11-22T19:31:59+00:00",
+      "title": "Rygaard tackades av: \"Kommit nära mitt hjärta\"",
+      "summary": "Rygaard tackades av: \"Kommit nära mitt hjärta\" Fotbollskanalen",
       "category": [
         "Sverige"
       ],
@@ -1512,40 +1342,13 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "bajen-r-fortsatt-guldfavorit-allsvenskan"
+      "id": "rygaard-tackades-av-kommit-n-ra-mitt-hj-rta"
     },
     {
-      "published_at": "2026-11-22T15:18:00+00:00",
-      "updated_at": "2026-11-22T15:18:00+00:00",
-      "title": "JUST NU: Pochettinos första United-elva släppt",
-      "summary": "JUST NU: Pochettinos första United-elva släppt Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "just-nu-pochettinos-f-rsta-united-elva-sl-ppt"
-    },
-    {
-      "published_at": "2026-11-22T14:11:58+00:00",
-      "updated_at": "2026-11-22T14:11:58+00:00",
-      "title": "Höjdpunkter: Juventus - Venezia",
-      "summary": "Höjdpunkter: Juventus - Venezia Fotbollskanalen",
+      "published_at": "2026-11-22T19:08:49+00:00",
+      "updated_at": "2026-11-22T19:08:49+00:00",
+      "title": "Uppgifter: Juventus undersöker Woltemade-förlängning",
+      "summary": "Read the full report at Fotbollskanalen.",
       "category": [
         "Sverige",
         "Serie A"
@@ -1567,7 +1370,143 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "h-jdpunkter-juventus-venezia"
+      "id": "uppgifter-juventus-unders-ker-woltemade-f-rl-ngning"
+    },
+    {
+      "published_at": "2026-11-22T15:22:30+00:00",
+      "updated_at": "2026-11-22T15:22:30+00:00",
+      "title": "Liverpool körde över Manchester United",
+      "summary": "Liverpool körde över Manchester United Fotbollskanalen",
+      "category": [
+        "Sverige",
+        "Premier League"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "liverpool-k-rde-ver-manchester-united"
+    },
+    {
+      "published_at": "2026-11-22T22:00:00+00:00",
+      "updated_at": "2026-11-22T22:00:00+00:00",
+      "title": "Nytt skadeavbräck för Sverige inför VM-playoffet",
+      "summary": "Sverige har drabbats av ännu ett skadeavbräck inför de avgörande playoffmatcherna mot Skottland till VM 2027. Manchester Uniteds Monica Jusu Bah tvingas lämna återbud och ersätts av Rebecka Blomqvist från Eintracht Frankfurt. Sedan tidigare står det klart att även Stina Blackstenius missar matcherna",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/WmLcG6IQqCZCUPUHEsKK6UcWObVZi3im60pgzpL5.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/nytt-skadeavbrack-for-sverige-infor-vm-playoffet-703662"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/nytt-skadeavbrack-for-sverige-infor-vm-playoffet-703662"
+      },
+      "confirmed_by": [],
+      "id": "nytt-skadeavbr-ck-f-r-sverige-inf-r-vm-playoffet"
+    },
+    {
+      "published_at": "2026-11-22T20:56:13+00:00",
+      "updated_at": "2026-11-22T20:56:13+00:00",
+      "title": "Mardrömmen fullbordad - FC Rosengård åker ur Damallsvenskan efter jättedrama",
+      "summary": "FC Rosengård åker ur Damallsvenskan efter ett dramatiskt kvalmöte med KIF Örebro. Malmöklubben hämtade upp ett tvåmålsunderläge och kvitterade till 3–3 på straff i slutminuterna. KIF Örebro vann dubbelmötet med sammanlagt 5–4 och säkrade därmed det sportsliga kontraktet.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/16HqSWOK7HsyfRkOuPIHf15AwtyThKVtO6dy8lim.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/mardrommen-fullbordad-fc-rosengard-aker-ur-damallsvenskan-efter-jattedrama-703659"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/mardrommen-fullbordad-fc-rosengard-aker-ur-damallsvenskan-efter-jattedrama-703659"
+      },
+      "confirmed_by": [],
+      "id": "mardr-mmen-fullbordad-fc-roseng-rd-ker-ur-damallsvenskan-efter-j-ttedrama"
+    },
+    {
+      "published_at": "2026-11-22T20:48:19+00:00",
+      "updated_at": "2026-11-22T20:48:19+00:00",
+      "title": "Inför Örgryte IS - Kalmar FF",
+      "summary": "Halmstad har vaknat och det med råge. Under gårdagen besegrade man BP på bortaplan med hela 3-0. Ett resultat som har stor betydelse för matchen mellan ÖIS och Kalmar.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/Gwdc5CesWJKT6whNpDxZqY2MsVlF8ZYENCZQDEXf.png",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/infor-orgryte-is-kalmar-ff-703656"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/infor-orgryte-is-kalmar-ff-703656"
+      },
+      "confirmed_by": [],
+      "id": "inf-r-rgryte-is-kalmar-ff"
+    },
+    {
+      "published_at": "2026-11-22T19:52:00+00:00",
+      "updated_at": "2026-11-22T19:52:00+00:00",
+      "title": "0-0 på Strawberry- AIK utan svar",
+      "summary": "Det blev en eftermiddag med en mäktig hyllning till fotografen Jojje Lidén som nu lägger kameran på hyllan. En efterlängtad comeback i startelvan för Martin Ellingsen och ytterligare en besvikelse för AIK. Degerfors stod emot på Strawberry Arena och fick med sig en viktig poäng i bottenstriden.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/3mkDDTDH1kiLClxtEqtZkckE8D6mGvMcwjng4FzN.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/0-0-pa-strawberry-aik-utan-svar-703654"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/0-0-pa-strawberry-aik-utan-svar-703654"
+      },
+      "confirmed_by": [],
+      "id": "0-0-p-strawberry-aik-utan-svar"
     },
     {
       "published_at": "2026-11-22T15:56:42+00:00",
@@ -1654,7 +1593,7 @@
       "published_at": "2026-11-22T12:15:00+00:00",
       "updated_at": "2026-11-22T12:15:00+00:00",
       "title": "Liveblogg: Sirius - Djurgården",
-      "summary": "SvenskaFans Maximilian Damm liverapporterar från den 29:e omgången i Allsvenskan mellan Sirius och Djurgården",
+      "summary": "Den svåra, näst sista matchen mot Sirius stundar på Studenternas när blåränderna från huvudstaden tar sig till Uppsala på söndagseftermiddagen. Matchen, som hade kunnat vara en kamp om guldet, är omtvistad i och med toppstriden i Allsvenskan. En ny tränarduo för Djurgården ger även en intressant krydda till matchen",
       "category": [
         "Sverige"
       ],
@@ -1678,118 +1617,10 @@
       "id": "liveblogg-sirius-djurg-rden"
     },
     {
-      "published_at": "2026-11-22T11:00:00+00:00",
-      "updated_at": "2026-11-22T11:00:00+00:00",
-      "title": "Mehmeti om spelidén: Mer fart och färre avbrott",
-      "summary": "Anfallsinriktad fotboll med en bra defensiv. Djurgårdens interimtränare har tillsammans med den övriga ledningen lagt fokus på intensitet och fart på träningarna, något som spelarna märkt av",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/CFnAQjRO6cr76tZKPBuG0Pan1jH9zRDE6nbsV9vd.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/mehmeti-om-speliden-mer-fart-och-farre-avbrott-703548"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/mehmeti-om-speliden-mer-fart-och-farre-avbrott-703548"
-      },
-      "confirmed_by": [],
-      "id": "mehmeti-om-spelid-n-mer-fart-och-f-rre-avbrott"
-    },
-    {
-      "published_at": "2026-11-22T09:00:00+00:00",
-      "updated_at": "2026-11-22T09:00:00+00:00",
-      "title": "Mat-Allsvenskan Kalmar: ”Jag har fått uppleva hypen”",
-      "summary": "Nästa stopp på rundresan är i Stockholm. Den här gången har matinfluencern Christian Cicek besökt 3Arena för att testa maten när Hammarby spelar. En krönika om, effektivitet, jakten på den sista kebaben och att få sonen att heja på ett Stockholmslag",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/A3O0YDnzzCqbKHkdWXzWnLoYTo5PUXhOeCeEkkOC.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/mat-allsvenskan-kalmar-jag-har-fatt-uppleva-hypen-703536"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/mat-allsvenskan-kalmar-jag-har-fatt-uppleva-hypen-703536"
-      },
-      "confirmed_by": [],
-      "id": "mat-allsvenskan-kalmar-jag-har-f-tt-uppleva-hypen"
-    },
-    {
-      "published_at": "2026-11-22T08:00:00+00:00",
-      "updated_at": "2026-11-22T08:00:00+00:00",
-      "title": "DIF-skribenten inför Sirius – Djurgården: \"Att se antagonister vinna är det värsta som finns\"",
-      "summary": "Sirius jagar sitt första SM-guld och Djurgården jagar Europaspel till nästa säsong. Trots jakten på Europa har det snackats en del om att Djurgården bör förlora helgens match för att inte låta rivalen Hammarby vinna guld. Inför matchen har vi pratat med Djurgårds-skribenten Elias Mörk och tagit del av hans tankar inför matchen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/cRVqFHAuFqiu957WsEvhqOnLUpnZ9YjESxXoQH4g.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/djurgards-skribenten-infor-sirius-djurgarden-att-se-antagonister-vinna-titlar-ar-det-varsta-som-finns-703540"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/djurgards-skribenten-infor-sirius-djurgarden-att-se-antagonister-vinna-titlar-ar-det-varsta-som-finns-703540"
-      },
-      "confirmed_by": [],
-      "id": "dif-skribenten-inf-r-sirius-djurg-rden-att-se-antagonister-vinna-r-det-v-rsta-som-finns"
-    },
-    {
-      "published_at": "2026-11-21T18:28:30+00:00",
-      "updated_at": "2026-11-21T18:28:30+00:00",
-      "title": "Dagens Allsvenskan: Gustav GAIS vann efter Gustav Lundgrens dubbel - mållöst för AIK och kryss i Mjällby AIF",
-      "summary": "Det bjöds på både mål och dramatik i lördagens allsvenska matcher. GAIS besegrade Västerås SK med 3–1 efter två mål av Gustav Lundgren. Samtidigt spelade AIK mållöst mot Degerfors IF, medan Malmö FF räddade en poäng mot Mjällby AIF genom Mayckel Lahdo",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/0lUNC1AQqkZU2gdudhHOr4HnxDa4GVf6eDhv60BF.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/dagens-allsvenskan-gustav-gais-vann-efter-gustav-lundgrens-dubbel-mallost-for-aik-och-kryss-i-mjallby-aif-703612"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/dagens-allsvenskan-gustav-gais-vann-efter-gustav-lundgrens-dubbel-mallost-for-aik-och-kryss-i-mjallby-aif-703612"
-      },
-      "confirmed_by": [],
-      "id": "dagens-allsvenskan-gustav-gais-vann-efter-gustav-lundgrens-dubbel-m-ll-st-f-r-aik-och-krys"
-    },
-    {
-      "published_at": "2026-11-22T14:38:48+00:00",
-      "updated_at": "2026-11-22T14:38:48+00:00",
-      "title": "Sassuolo vs. Genoa (22 Nov, 2026) Team Stats",
-      "summary": "Read the full report at ESPN.",
+      "published_at": "2026-11-22T22:04:42+00:00",
+      "updated_at": "2026-11-22T22:04:42+00:00",
+      "title": "DiBernardo's Olimpico goal leads Kansas City to 1st NWSL Championship",
+      "summary": "The Kansas City Current won their first NWSL Championship, defeating the Washington Spirit 2-1 to hand the Spirit a third consecutive loss in the league final",
       "category": [
         "Football"
       ],
@@ -1797,28 +1628,109 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1122%2Fr1749459_1296x729_16%2D9.jpg",
       "sources": [
         {
           "name": "ESPN",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpSTNNeHR0X0hpWHEzbE5YMFNyYWFkQllOZ1RuNE5vQjc4WFBjbVprQ245ejNNQW9FOEJISTlkd0VzU1VpLWN6azNFRDM4SzYtb1VsbVFvcEF0N21CcW9BaEp1T0V0ZWlSZDU2RlFXeWpyUUJ0SERGc0xKMGMzNTA?oc=5"
+          "url": "https://www.espn.com/soccer/story/_/id/50557858/nwsl-championship-kansas-city-current-washington-spirit"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "ESPN",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpSTNNeHR0X0hpWHEzbE5YMFNyYWFkQllOZ1RuNE5vQjc4WFBjbVprQ245ejNNQW9FOEJISTlkd0VzU1VpLWN6azNFRDM4SzYtb1VsbVFvcEF0N21CcW9BaEp1T0V0ZWlSZDU2RlFXeWpyUUJ0SERGc0xKMGMzNTA?oc=5"
+        "url": "https://www.espn.com/soccer/story/_/id/50557858/nwsl-championship-kansas-city-current-washington-spirit"
       },
       "confirmed_by": [],
-      "id": "sassuolo-vs-genoa-22-nov-2026-team-stats"
+      "id": "dibernardo-s-olimpico-goal-leads-kansas-city-to-1st-nwsl-championship"
     },
     {
-      "published_at": "2026-11-21T12:56:00+00:00",
-      "updated_at": "2026-11-21T12:56:00+00:00",
-      "title": "Florentino Pérez: \"outrageous\" that LaLiga president Javier Tebas hasn't resigned",
+      "published_at": "2026-11-22T22:04:42+00:00",
+      "updated_at": "2026-11-22T22:04:42+00:00",
+      "title": "Rodman on 3rd straight NWSL Championship loss: 'This one hurts way worse'",
+      "summary": "Trinity Rodman said she was proud of the Washington Spirit's season after a third straight NWSL Championship loss but acknowledged that this one hurt the most",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1122%2Fr1749463_1296x729_16%2D9.jpg",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50559416/trinity-rodman-nwsl-championship-washington-spirit"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/50559416/trinity-rodman-nwsl-championship-washington-spirit"
+      },
+      "confirmed_by": [],
+      "id": "rodman-on-3rd-straight-nwsl-championship-loss-this-one-hurts-way-worse"
+    },
+    {
+      "published_at": "2026-11-22T22:04:41+00:00",
+      "updated_at": "2026-11-22T22:04:41+00:00",
+      "title": "Milan into top four as classy Pulisic solo goal caps Serie A rout",
+      "summary": "AC Milan racked up their biggest win of the season under Ruben Amorim as Frosinone were beaten 5-1 at San Siro on Sunday",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://s.secure.espncdn.com/stitcher/sports/soccer/ita.1/events/401874989.png?templateId=espn.com.share.1",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/report/_/gameId/401874989"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/report/_/gameId/401874989"
+      },
+      "confirmed_by": [],
+      "id": "milan-into-top-four-as-classy-pulisic-solo-goal-caps-serie-a-rout"
+    },
+    {
+      "published_at": "2026-11-22T22:04:41+00:00",
+      "updated_at": "2026-11-22T22:04:41+00:00",
+      "title": "⚽ Last time GTA was released: Peak Messi vs. Ronaldo, Moyes at Man Utd",
+      "summary": "As Grand Theft Auto VI is finally unleashed, here is what was happening in the world of soccer when the previous game was released 13 years ago",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "lionel-messi",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1119%2Fr1748037_2_1296x729_16%2D9.jpg",
+      "sources": [
+        {
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50530231/gta-vi-messi-ronaldo-manchester-united"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/50530231/gta-vi-messi-ronaldo-manchester-united"
+      },
+      "confirmed_by": [],
+      "id": "last-time-gta-was-released-peak-messi-vs-ronaldo-moyes-at-man-utd"
+    },
+    {
+      "published_at": "2026-11-22T17:07:42+00:00",
+      "updated_at": "2026-11-22T17:07:42+00:00",
+      "title": "Arezzo vs. Padova (22 Nov, 2026) Live Score",
       "summary": "Read the full report at ESPN.",
       "category": [
-        "Transfer"
+        "Football"
       ],
       "status": "Reported",
       "entity": "",
@@ -1837,39 +1749,39 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "florentino-p-rez-outrageous-that-laliga-president-javier-tebas-hasn-t-resigned"
+      "id": "arezzo-vs-padova-22-nov-2026-live-score"
     },
     {
-      "published_at": "2026-11-22T13:38:00+00:00",
-      "updated_at": "2026-11-22T13:38:00+00:00",
-      "title": "Man Utd latest: Poch appointment provides optimism, says Neville",
-      "summary": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "published_at": "2026-11-22T16:10:40+00:00",
+      "updated_at": "2026-11-22T16:10:40+00:00",
+      "title": "Boca Juniors win Copa Sudamericana, but can they keep budding stars?",
+      "summary": "Boca Juniors had gone almost 20 years without a continental trophy. That ended on Saturday with success in the Copa Sudamericana, but an exodus could follow",
       "category": [
         "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "manchester-united",
-      "image": "https://e0.365dm.com/26/11/1600x900/skysports-premier-league-manchester-united_7403807.jpg?20261111114625",
+      "club": "",
+      "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1122%2Fr1749628_1296x729_16%2D9.jpg",
       "sources": [
         {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+          "name": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/50562471/boca-juniors-copa-sudamericana-atletico-mineiro-jagger"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+        "name": "ESPN",
+        "url": "https://www.espn.com/soccer/story/_/id/50562471/boca-juniors-copa-sudamericana-atletico-mineiro-jagger"
       },
       "confirmed_by": [],
-      "id": "man-utd-latest-poch-appointment-provides-optimism-says-neville"
+      "id": "boca-juniors-win-copa-sudamericana-but-can-they-keep-budding-stars"
     },
     {
-      "published_at": "2026-11-22T13:34:00+00:00",
-      "updated_at": "2026-11-22T13:34:00+00:00",
-      "title": "Liverpool latest: Iraola explains Gakpo, Gravenberch absences",
+      "published_at": "2026-11-22T18:52:00+00:00",
+      "updated_at": "2026-11-22T18:52:00+00:00",
+      "title": "Liverpool latest: Carra praises 'outstanding' Wirtz in man-of-match display",
       "summary": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "category": [
         "Premier League"
@@ -1891,7 +1803,34 @@
         "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
       },
       "confirmed_by": [],
-      "id": "liverpool-latest-iraola-explains-gakpo-gravenberch-absences"
+      "id": "liverpool-latest-carra-praises-outstanding-wirtz-in-man-of-match-display"
+    },
+    {
+      "published_at": "2026-11-22T19:39:00+00:00",
+      "updated_at": "2026-11-22T19:39:00+00:00",
+      "title": "Serie A Liveblog: Juventus-Venezia, Milan-Frosinone, Atalanta-Inter and more",
+      "summary": "Join us for all the build-up and action as it happens from today’s five Serie A games, Juventus-Venezia, new coaches in Bologna-Udinese and Sassuolo-Genoa, then Milan-Frosinone and Atalanta-Inter",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://icdn.football-italia.net/wp-content/uploads/2025/08/Serie-A-Liveblog.jpg",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://football-italia.net/serie-a-live-juventus-ven-milan-fro-ata-inter/"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://football-italia.net/serie-a-live-juventus-ven-milan-fro-ata-inter/"
+      },
+      "confirmed_by": [],
+      "id": "serie-a-liveblog-juventus-venezia-milan-frosinone-atalanta-inter-and-more"
     }
   ]
 }
