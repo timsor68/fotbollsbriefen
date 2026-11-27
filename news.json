@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T21:21:35.745876+00:00",
+  "updated_at": "2026-11-27T03:57:35.508536+00:00",
   "items": [
     {
       "published_at": "2026-11-26T18:00:31+00:00",
@@ -25,7 +25,7 @@
         },
         {
           "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZXdLazQ2RjdCXzZ6Z1RlYmNibTctWjJoX19yZlhFY3VHNThpTWt0X1NpU1JrSk9qbGNsM1V3NHl5UXBlMGUyUW90WUJhVnZKRVhybFlTaWNuempMVkVEM0QzWV80N1I0X2c4S0x0OFVIMnZjWEFOcU1id0FBc3Y2Wmp6TjhxNExiVDJLTjdyVTBPRTV5dHhrd0lWYw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc2JFSXg5eFVGVGJiSFg3dk9kNUpaMzNuZjBOVGxFbHZwbm8xdkZKU3V0dWwwZWtyaWN1Zno4YVBTOWFXcllWNFpZLWdBb25NcTNSQTkzRUw4WmUyQUdDaUlhdkFPbFVWTUQ3NkV5c29faloyVjNPWEQxVDBwcTYxR1RfaXYtRnlabllDQUkxNGhTMWxWMmc?oc=5"
         }
       ],
       "language": "en",
@@ -40,10 +40,82 @@
         },
         {
           "name": "Fotbollskanalen",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZXdLazQ2RjdCXzZ6Z1RlYmNibTctWjJoX19yZlhFY3VHNThpTWt0X1NpU1JrSk9qbGNsM1V3NHl5UXBlMGUyUW90WUJhVnZKRVhybFlTaWNuempMVkVEM0QzWV80N1I0X2c4S0x0OFVIMnZjWEFOcU1id0FBc3Y2Wmp6TjhxNExiVDJLTjdyVTBPRTV5dHhrd0lWYw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc2JFSXg5eFVGVGJiSFg3dk9kNUpaMzNuZjBOVGxFbHZwbm8xdkZKU3V0dWwwZWtyaWN1Zno4YVBTOWFXcllWNFpZLWdBb25NcTNSQTkzRUw4WmUyQUdDaUlhdkFPbFVWTUQ3NkV5c29faloyVjNPWEQxVDBwcTYxR1RfaXYtRnlabllDQUkxNGhTMWxWMmc?oc=5"
         }
       ],
       "id": "calvert-lewin-signs-new-leeds-deal-until-2029"
+    },
+    {
+      "published_at": "2026-11-21T21:58:57+00:00",
+      "updated_at": "2026-11-21T21:58:57+00:00",
+      "title": "Paris St Germain win 3-2 at Nice, Doue suffers serious injury",
+      "summary": "Ffion Morgan looks set to miss the rest of the season for club and country following knee surgery",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c920xdl6d6kpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Reuters",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c920xdl6d6kpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "id": "paris-st-germain-win-3-2-at-nice-doue-suffers-serious-injury"
+    },
+    {
+      "published_at": "2026-11-26T23:59:43+00:00",
+      "updated_at": "2026-11-26T23:59:43+00:00",
+      "title": "Hearts' European hopes hang by a thread but Vrancken proud",
+      "summary": "Hearts head coach Wouter Vrancken expresses both pride and disappointment after his team came out on the wrong side of a five-goal thriller against Monaco",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f50e/live/fd3df170-e9df-11f1-9361-cd8ed0157587.jpg",
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqr7g49ej14ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/hearts-vs-monaco/report/577948"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cqr7g49ej14ko?at_medium=RSS&at_campaign=rss"
+      },
+      "confirmed_by": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/hearts-vs-monaco/report/577948"
+        }
+      ],
+      "id": "hearts-european-hopes-hang-by-a-thread-but-vrancken-proud"
     },
     {
       "published_at": "2026-11-26T16:47:47+00:00",
@@ -118,40 +190,84 @@
       "id": "glasner-criticises-forest-players-yet-to-learn-english"
     },
     {
-      "published_at": "2026-11-20T21:09:08+00:00",
-      "updated_at": "2026-11-20T21:09:08+00:00",
-      "title": "Bundesliga: Harry Kane substituted with injury for Bayern Munich",
-      "summary": "Read the full report at BBC Sport.",
+      "published_at": "2026-11-26T23:24:43+00:00",
+      "updated_at": "2026-11-26T23:24:43+00:00",
+      "title": "Europa League: Bournemouth make it a perfect 10 while Celtic leave it late",
+      "summary": "Marco Rose’s team close in on qualification Marseille v Levski Sofia marred by crowd trouble Bournemouth moved a step closer to automatic qualification for the Europa League last 16 after coming from behind with 10 men to win 2-1 at Celta Vigo . It was a remarkable 10th victory in succession in all competitions for Marco Rose’s side and it might have been the most satisfying of the lot for the manager, coming as it did after his team had found themselves a goal down and a man down at half-time.",
       "category": [
-        "Bundesliga"
+        "Football"
       ],
       "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
-      "club": "bayern-munich",
-      "image": "",
+      "club": "",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/278c/live/15481e30-e9e0-11f1-9361-cd8ed0157587.jpg",
       "sources": [
         {
           "name": "BBC Sport",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmq5v84vw818o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOLWRIb01iS0FxdnhkaF8wMlJLZU9oY1JFZkRPemt0cERsU3RCcVdoZk9yRkh3MHNRR2pvUUNLN2ZDaG9JaVM5OTk0SUoxN19zV1J0LTlFVlgxdGVwa2NXOXBvbHB2UTRZOGd0cE50amdzTUp3bjktZkh5M0puQU5iZmxCNmRGS1pjd1BMN3owU2NhZkpyNHdfbG40YzN5ZE9rNEUzOG1uS2RDQlBPMmQtc211YkV4RVB1dDNQc1NUYWtOblQzUnB4VjZNLVQ1WjEwdV9VOWxHR1A0blhSdmJFNHFYbmdsWFViZXlmcC1jSkk1cnhZ?oc=5"
+          "url": "https://www.skysports.com/football/torreense-vs-celtic/report/577828"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/26/europa-league-roundup-bournemouth-celta-vigo-celtic-milan-benfica"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "BBC Sport",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        "url": "https://www.bbc.co.uk/sport/football/articles/cmq5v84vw818o?at_medium=RSS&at_campaign=rss"
       },
       "confirmed_by": [
         {
           "name": "Sky Sports",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOLWRIb01iS0FxdnhkaF8wMlJLZU9oY1JFZkRPemt0cERsU3RCcVdoZk9yRkh3MHNRR2pvUUNLN2ZDaG9JaVM5OTk0SUoxN19zV1J0LTlFVlgxdGVwa2NXOXBvbHB2UTRZOGd0cE50amdzTUp3bjktZkh5M0puQU5iZmxCNmRGS1pjd1BMN3owU2NhZkpyNHdfbG40YzN5ZE9rNEUzOG1uS2RDQlBPMmQtc211YkV4RVB1dDNQc1NUYWtOblQzUnB4VjZNLVQ1WjEwdV9VOWxHR1A0blhSdmJFNHFYbmdsWFViZXlmcC1jSkk1cnhZ?oc=5"
+          "url": "https://www.skysports.com/football/torreense-vs-celtic/report/577828"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/26/europa-league-roundup-bournemouth-celta-vigo-celtic-milan-benfica"
         }
       ],
-      "id": "bundesliga-harry-kane-substituted-with-injury-for-bayern-munich"
+      "id": "europa-league-bournemouth-make-it-a-perfect-10-while-celtic-leave-it-late"
+    },
+    {
+      "published_at": "2026-11-26T22:00:00+00:00",
+      "updated_at": "2026-11-26T22:00:00+00:00",
+      "title": "Frank earns first Palace win with late comeback against Sociedad",
+      "summary": "Football seasons can pivot on certain moments and Thomas Frank will hope that Crystal Palace’s turning point came 17 minutes from full time here. Deservedly trailing to Mamadou Sarr’s goal having been second best throughout against Real Sociedad, this game – and perhaps the south London club’s entire trajectory – was turned on its head after Jon Martín was sent off for denying Jean-Philippe Mateta an equaliser. The France striker made no mistake with his penalty before Dwight McNeil – who made up for scoring an own goal in Saturday’s defeat by Coventry capped an extraordinary comeback in Frank’s first home match since succeeding Pierre Sage.",
+      "category": [
+        "Football"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://e0.365dm.com/26/11/1600x900/skysports-thomas-frank-crystal-palace_7417513.jpg?20261126223357&outputformat=webp",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/crystal-palace-vs-real-sociedad/report/577815"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/26/crystal-palace-real-sociedad-europa-league-match-report"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/crystal-palace-vs-real-sociedad/report/577815"
+      },
+      "confirmed_by": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/26/crystal-palace-real-sociedad-europa-league-match-report"
+        }
+      ],
+      "id": "frank-earns-first-palace-win-with-late-comeback-against-sociedad"
     },
     {
       "published_at": "2026-11-26T17:12:45+00:00",
@@ -290,33 +406,6 @@
       "id": "more-ref-frustration-as-pochettino-s-chaotic-start-at-man-utd-continues"
     },
     {
-      "published_at": "2026-11-25T10:38:44+00:00",
-      "updated_at": "2026-11-25T10:38:44+00:00",
-      "title": "Wales and West Ham's Morgan suffers serious injury",
-      "summary": "Ffion Morgan looks set to miss the rest of the season for club and country following knee surgery",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e1bf/live/a9284a50-e407-11f1-ab35-e1af93fa5cce.jpg",
-      "sources": [
-        {
-          "name": "BBC Sport",
-          "url": "https://www.bbc.co.uk/sport/football/articles/c920xdl6d6kpo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c920xdl6d6kpo?at_medium=RSS&at_campaign=rss"
-      },
-      "confirmed_by": [],
-      "id": "wales-and-west-ham-s-morgan-suffers-serious-injury"
-    },
-    {
       "published_at": "2026-11-26T10:01:29+00:00",
       "updated_at": "2026-11-26T10:01:29+00:00",
       "title": "Hammarbys oro: Paulos Abraham tränade vid sidan av",
@@ -370,6 +459,42 @@
       },
       "confirmed_by": [],
       "id": "amanda-nild-n-f-rl-ngde-med-tottenham-var-sj-lvklart"
+    },
+    {
+      "published_at": "2026-11-26T19:18:00+00:00",
+      "updated_at": "2026-11-26T19:18:00+00:00",
+      "title": "Officiellt: Momoh Kamara stannar i IF Elfsborg",
+      "summary": "IF Elfsborg har säkrat en viktig pusselbit inför framtiden. Under torsdagskvällen meddelade Boråsklubben att Momoh Kamara köps loss från Minnesota United FC. Den 21-årige mittfältaren har skrivit på ett kontrakt som sträcker sig över säsongen 2030.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        },
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/officiellt-momoh-kamara-stannar-i-if-elfsborg-703809"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/officiellt-momoh-kamara-stannar-i-if-elfsborg-703809"
+        }
+      ],
+      "id": "officiellt-momoh-kamara-stannar-i-if-elfsborg"
     },
     {
       "published_at": "2026-11-26T14:50:36+00:00",
@@ -490,6 +615,35 @@
       "id": "gustav-th-rn-f-rl-nger-med-sandviken"
     },
     {
+      "published_at": "2026-11-25T01:27:51+00:00",
+      "updated_at": "2026-11-25T01:27:51+00:00",
+      "title": "Uppgifter: Manchester United undersöker Toney-värvning",
+      "summary": "Read the full report at Fotbollskanalen.",
+      "category": [
+        "Sverige",
+        "Premier League",
+        "Transfer"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "manchester-united",
+      "image": "",
+      "sources": [
+        {
+          "name": "Fotbollskanalen",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Fotbollskanalen",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "uppgifter-manchester-united-unders-ker-toney-v-rvning"
+    },
+    {
       "published_at": "2026-11-24T16:30:00+00:00",
       "updated_at": "2026-11-24T16:30:00+00:00",
       "title": "Jansson om Djurgårdens nya tränare: \"Det är ju fusk\" - Bollklubben",
@@ -518,17 +672,18 @@
       "id": "jansson-om-djurg-rdens-nya-tr-nare-det-r-ju-fusk-bollklubben"
     },
     {
-      "published_at": "2026-11-24T16:11:00+00:00",
-      "updated_at": "2026-11-24T16:11:00+00:00",
-      "title": "Officiellt: Williams-Barnett förlänger med Spurs",
-      "summary": "Officiellt: Williams-Barnett förlänger med Spurs Fotbollskanalen",
+      "published_at": "2026-11-23T17:06:03+00:00",
+      "updated_at": "2026-11-23T17:06:03+00:00",
+      "title": "Al-Hakim om årets tränare och spelare enligt domarna",
+      "summary": "Read the full report at Fotbollskanalen.",
       "category": [
-        "Sverige"
+        "Sverige",
+        "Coach"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "tottenham",
+      "club": "",
       "image": "",
       "sources": [
         {
@@ -542,7 +697,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "officiellt-williams-barnett-f-rl-nger-med-spurs"
+      "id": "al-hakim-om-rets-tr-nare-och-spelare-enligt-domarna"
     },
     {
       "published_at": "2026-11-22T19:01:59+00:00",
@@ -599,61 +754,6 @@
       "id": "sm-ll-f-r-mj-llby-bergstr-m-skadad"
     },
     {
-      "published_at": "2026-11-21T11:05:00+00:00",
-      "updated_at": "2026-11-21T11:05:00+00:00",
-      "title": "Klart: Manglind förlänger med Helsingborg",
-      "summary": "Klart: Manglind förlänger med Helsingborg Fotbollskanalen",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "klart-manglind-f-rl-nger-med-helsingborg"
-    },
-    {
-      "published_at": "2026-11-20T16:38:00+00:00",
-      "updated_at": "2026-11-20T16:38:00+00:00",
-      "title": "Uppgifter: Real Madrid förlänger med Diaz och Valverde",
-      "summary": "Read the full report at Fotbollskanalen.",
-      "category": [
-        "Sverige",
-        "La Liga"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "",
-      "sources": [
-        {
-          "name": "Fotbollskanalen",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Fotbollskanalen",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "uppgifter-real-madrid-f-rl-nger-med-diaz-och-valverde"
-    },
-    {
       "published_at": "2026-11-20T13:20:00+00:00",
       "updated_at": "2026-11-20T13:20:00+00:00",
       "title": "Southampton förlänger med Eckert",
@@ -679,6 +779,42 @@
       },
       "confirmed_by": [],
       "id": "southampton-f-rl-nger-med-eckert"
+    },
+    {
+      "published_at": "2026-11-26T21:26:39+00:00",
+      "updated_at": "2026-11-26T21:26:39+00:00",
+      "title": "Klart: Rosengård blir kvar i damallsvenskan",
+      "summary": "FC Rosengård får spela i Damallsvenskan även nästa säsong. Trots att Malmöklubben förlorade kvalet mot KIF Örebro har Svenska Fotbollförbundet nu beslutat att tilldela Rosengård platsen efter Örebroklubbens konkurs. ”Vi ska lära av säsongen som gått”, säger vd:n Linga Magnertoft",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed by multiple sources",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.45/0.18/990f80052e4a9e8ebb3ed532426f8c7236cfd626b228c42c93dcc1d3973c2936",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/klart-rosengard-blir-kvar-i-damallsvenskan"
+        },
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/fc-rosengard-raddas-kvar-i-damallsvenskan-efter-kif-orebros-konkurs-703814"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/klart-rosengard-blir-kvar-i-damallsvenskan"
+      },
+      "confirmed_by": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/fc-rosengard-raddas-kvar-i-damallsvenskan-efter-kif-orebros-konkurs-703814"
+        }
+      ],
+      "id": "klart-roseng-rd-blir-kvar-i-damallsvenskan"
     },
     {
       "published_at": "2026-11-26T17:32:17+00:00",
@@ -717,31 +853,31 @@
       "id": "f-rsta-f-rlusten-f-r-mj-llby-i-europa-f-ll-mot-kairat-almaty"
     },
     {
-      "published_at": "2026-11-26T20:44:44+00:00",
-      "updated_at": "2026-11-26T20:44:44+00:00",
-      "title": "Europa League: Bournemouth make it 10 wins in a row despite early red for Diakité",
-      "summary": "Marco Rose’s team close in on qualification Milan mount comeback to defeat Olympiakos Bournemouth moved a step closer to automatic qualification for the Europa League last 16 after coming from behind with 10 men to win 2-1 at Celta Vigo . It was a remarkable 10th victory in a row in all competitions for Marco Rose’s side and it might have been the most satisfying of the lot for the manager, coming as it did after his team had found themselves a goal down and a man down at half-time.",
+      "published_at": "2026-11-26T21:11:24+00:00",
+      "updated_at": "2026-11-26T21:11:24+00:00",
+      "title": "Fifa staff asked to attend interviews as Infantino sell-off scheme investigated",
+      "summary": "Democrats to examine Fifa Forward Enterprise scandal Infantino could be subpoenaed to give evidence A number of past and present Fifa employees have received letters requesting they attend interviews for a congressional investigation into the global governing body sparked by the Fifa Forward Enterprise scandal. Letters were sent on Wednesday to a number of staff along with a handful of former employees who held senior positions. They have been asked by Democrats on the House judiciary committee to give evidence as efforts gather pace to examine Gianni Infantino’s failed FFE scheme along with links between Fifa and the Trump administration.",
       "category": [
-        "Football"
+        "Serie A"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://i.guim.co.uk/img/media/c098ddcf6dba3f60becaa97c8a881352d0e8ba3e/429_0_4299_3439/master/4299.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7707f6d90de9fa050d43ea5d7ea72715",
+      "image": "https://i.guim.co.uk/img/media/3af3fd325ff6a3254ced10a33a98b6b57f8cf62b/74_0_3353_2682/master/3353.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f56e92d748b3699d26596620a9746642",
       "sources": [
         {
           "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/nov/26/europa-league-roundup-bournemouth-celta-vigo-celtic-milan-benfica"
+          "url": "https://www.theguardian.com/football/2026/nov/26/fifa-gianni-infantino-sell-off-scheme-investigated"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/nov/26/europa-league-roundup-bournemouth-celta-vigo-celtic-milan-benfica"
+        "url": "https://www.theguardian.com/football/2026/nov/26/fifa-gianni-infantino-sell-off-scheme-investigated"
       },
       "confirmed_by": [],
-      "id": "europa-league-bournemouth-make-it-10-wins-in-a-row-despite-early-red-for-diakit"
+      "id": "fifa-staff-asked-to-attend-interviews-as-infantino-sell-off-scheme-investigated"
     },
     {
       "published_at": "2026-11-26T20:00:44+00:00",
@@ -769,33 +905,6 @@
       },
       "confirmed_by": [],
       "id": "ric-cantona-if-i-regret-something-about-the-kung-fu-kick-it-s-that-i-would-love-to-kick-hi"
-    },
-    {
-      "published_at": "2026-11-26T19:53:06+00:00",
-      "updated_at": "2026-11-26T19:53:06+00:00",
-      "title": "Fifa staff asked to attend interviews as Infantino sell-off scheme investigated",
-      "summary": "Democrats to examine Fifa Forward Enterprise scandal Infantino could be subpoenaed to give evidence A number of past and present Fifa employees have received letters requesting they attend interviews for a Congressional investigation into the global governing body sparked by the Fifa Forward Enterprise scandal. Letters were sent on Wednesday to a number of staff along with a handful of former employees who held senior positions. They have been asked by Democrats on the House judiciary committee to give evidence as efforts gather pace to examine Gianni Infantino’s failed FFE scheme along with links between Fifa and the Trump administration.",
-      "category": [
-        "Serie A"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://i.guim.co.uk/img/media/3af3fd325ff6a3254ced10a33a98b6b57f8cf62b/74_0_3353_2682/master/3353.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f56e92d748b3699d26596620a9746642",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/nov/26/fifa-gianni-infantino-sell-off-scheme-investigated"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/nov/26/fifa-gianni-infantino-sell-off-scheme-investigated"
-      },
-      "confirmed_by": [],
-      "id": "fifa-staff-asked-to-attend-interviews-as-infantino-sell-off-scheme-investigated"
     },
     {
       "published_at": "2026-11-26T09:00:56+00:00",
@@ -933,33 +1042,6 @@
       "id": "madness-erupts-as-sevilla-deny-betis-in-wild-end-to-spain-s-derby-of-derbies"
     },
     {
-      "published_at": "2026-11-23T12:08:28+00:00",
-      "updated_at": "2026-11-23T12:08:28+00:00",
-      "title": "Jamal Musiala controversy the nadir of Bayern Munich’s turbulent week",
-      "summary": "German giants’ treatment of midfielder has raised questions about how far the reputation of a family club still holds It was, on paper, a perfect Friday evening for Bayern to flex their muscles once again, in the chill of their intimidating Allianz Arena against struggling opponents who had won just twice all season in the league. In the end, though, the best news of the night was that Saïd El Mala, the star of the visitors, Köln, who had scored a jaw-dropping consolation goal at the same stadium in spring, fluffed a far easier chance in the closing stages that would have condemned the champions to defeat. The word crisis is rampantly overused in sport, but this was the weekend Bayern’s injury troubles reached critical mass.",
-      "category": [
-        "Bundesliga"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "bayern-munich",
-      "image": "https://i.guim.co.uk/img/media/9eace40516648a98a3c0ef73ac2c754f2e01f46a/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4f6c891cb056c30410a01011b7b038c6",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/nov/23/bayern-munich-jamal-musiala-controversy-bundesliga"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/nov/23/bayern-munich-jamal-musiala-controversy-bundesliga"
-      },
-      "confirmed_by": [],
-      "id": "jamal-musiala-controversy-the-nadir-of-bayern-munich-s-turbulent-week"
-    },
-    {
       "published_at": "2026-11-21T06:00:52+00:00",
       "updated_at": "2026-11-21T06:00:52+00:00",
       "title": "Brighton are rocking the Premier League elite. But can they mount a title tilt?",
@@ -985,33 +1067,6 @@
       },
       "confirmed_by": [],
       "id": "brighton-are-rocking-the-premier-league-elite-but-can-they-mount-a-title-tilt"
-    },
-    {
-      "published_at": "2026-11-26T19:18:00+00:00",
-      "updated_at": "2026-11-26T19:18:00+00:00",
-      "title": "Officiellt: Momoh Kamara stannar i IF Elfsborg",
-      "summary": "IF Elfsborg har säkrat en viktig pusselbit inför framtiden. Under torsdagskvällen meddelade Boråsklubben att Momoh Kamara köps loss från Minnesota United FC. Den 21-årige mittfältaren har skrivit på ett kontrakt som sträcker sig över säsongen 2030.",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/8zbs7qxZVIuG7KVYCQ7q8SgOu18P9k5AUmIgNf5R.jpg",
-      "sources": [
-        {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/officiellt-momoh-kamara-stannar-i-if-elfsborg-703809"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/officiellt-momoh-kamara-stannar-i-if-elfsborg-703809"
-      },
-      "confirmed_by": [],
-      "id": "officiellt-momoh-kamara-stannar-i-if-elfsborg"
     },
     {
       "published_at": "2026-11-25T23:30:00+00:00",
@@ -1068,6 +1123,33 @@
       "id": "rinne-och-une-om-framtiden-i-djurg-rden"
     },
     {
+      "published_at": "2026-11-23T19:03:33+00:00",
+      "updated_at": "2026-11-23T19:03:33+00:00",
+      "title": "Serie A: Monza vs. Fiorentina – Confirmed line-ups and updates",
+      "summary": "Read the full report at Football Italia.",
+      "category": [
+        "Serie A"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "",
+      "sources": [
+        {
+          "name": "Football Italia",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Football Italia",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "serie-a-monza-vs-fiorentina-confirmed-line-ups-and-updates"
+    },
+    {
       "published_at": "2026-11-26T11:22:36+00:00",
       "updated_at": "2026-11-26T11:22:36+00:00",
       "title": "Roman Revival: Lazio and Roma reignite Scudetto dreams after 25 years",
@@ -1122,9 +1204,9 @@
       "id": "atletico-boss-simeone-surpasses-aragones-with-record-345th-laliga-win"
     },
     {
-      "published_at": "2026-11-23T19:37:06+00:00",
-      "updated_at": "2026-11-23T19:37:06+00:00",
-      "title": "Mål: Örgryte IS - Kalmar FF 2-2",
+      "published_at": "2026-11-23T20:22:06+00:00",
+      "updated_at": "2026-11-23T20:22:06+00:00",
+      "title": "Höjdpunkter: Örgryte IS - Kalmar FF",
       "summary": "Halmstad har vaknat och det med råge. Under gårdagen besegrade man BP på bortaplan med hela 3-0. Ett resultat som har stor betydelse för matchen mellan ÖIS och Kalmar.",
       "category": [
         "Sverige"
@@ -1155,20 +1237,21 @@
           "url": "https://www.svenskafans.com/fotboll/infor-orgryte-is-kalmar-ff-703656"
         }
       ],
-      "id": "m-l-rgryte-is-kalmar-ff-2-2"
+      "id": "h-jdpunkter-rgryte-is-kalmar-ff"
     },
     {
-      "published_at": "2026-11-23T19:17:53+00:00",
-      "updated_at": "2026-11-23T19:17:53+00:00",
-      "title": "Mål: Hammarby IF - IFK Göteborg 2-0",
-      "summary": "Hammarby slog IFK Göteborg med 3–1 i en match som var betydligt jämnare än siffrorna antyder. Nu återstår Västerås, och för första gången på länge räcker det att hålla koll på en enda match",
+      "published_at": "2026-11-23T00:06:59+00:00",
+      "updated_at": "2026-11-23T00:06:59+00:00",
+      "title": "Liverpool körde över Manchester United",
+      "summary": "Rivals engage law firm Wiggin as they seek damages Claim could be worth hundreds of millions of pounds Manchester United, Liverpool and Tottenham are using the same law firm to prepare a legal claim against Manchester City for breaking the Premier League’s financial rules that could be worth hundreds of millions of pounds. The clubs have engaged the services of the London-based media, entertainment and technology specialists Wiggin. Arsenal are using their retained lawyers, HFS Kramer, to prepare their own claim.",
       "category": [
-        "Sverige"
+        "Sverige",
+        "Premier League"
       ],
       "status": "Confirmed by multiple sources",
       "entity": "",
       "entity_type": "players",
-      "club": "",
+      "club": "manchester-united",
       "image": "",
       "sources": [
         {
@@ -1176,8 +1259,8 @@
           "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         },
         {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/tre-snabba-efter-hammarby-ifk-goteborg-703697"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/26/manchester-united-liverpool-tottenham-arsenal-city-legal-claim-financial-breaches-damages"
         }
       ],
       "language": "en",
@@ -1187,11 +1270,38 @@
       },
       "confirmed_by": [
         {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/tre-snabba-efter-hammarby-ifk-goteborg-703697"
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/26/manchester-united-liverpool-tottenham-arsenal-city-legal-claim-financial-breaches-damages"
         }
       ],
-      "id": "m-l-hammarby-if-ifk-g-teborg-2-0"
+      "id": "liverpool-k-rde-ver-manchester-united"
+    },
+    {
+      "published_at": "2026-11-26T21:34:27+00:00",
+      "updated_at": "2026-11-26T21:34:27+00:00",
+      "title": "Total kalabalik i Europa League – skandalscener på läktaren",
+      "summary": "Besiktas-supportrar och polis rök ihop i ett jätteslagsmål under en Europa League-match i kväll. Matchen fick avbrytas tillfälligt under den första halvleken som följd av det stora bråket",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Confirmed",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.27/0.41/7ffa54a33e49e78bf347464ab860bf3383b086ecc616d8a2ea457541a699653f",
+      "sources": [
+        {
+          "name": "SVT Sport",
+          "url": "https://www.svt.se/sport/fotboll/total-kalabalik-i-europa-league-skandalscener-pa-laktaren"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SVT Sport",
+        "url": "https://www.svt.se/sport/fotboll/total-kalabalik-i-europa-league-skandalscener-pa-laktaren"
+      },
+      "confirmed_by": [],
+      "id": "total-kalabalik-i-europa-league-skandalscener-p-l-ktaren"
     },
     {
       "published_at": "2026-11-26T14:49:01+00:00",
@@ -1329,58 +1439,31 @@
       "id": "h-r-tar-experterna-ut-rets-lag-i-allsvenskan-2026-han-r-given"
     },
     {
-      "published_at": "2026-11-26T07:30:37+00:00",
-      "updated_at": "2026-11-26T07:30:37+00:00",
-      "title": "Tony Gustavsson röjer hemliga messet: ”Där stannar vi”",
-      "summary": "Tony Gustavsson mot sin tidigare assisterande Melissa Andreatta. – Det är bara att bring it on, säger han till SVT Sport",
+      "published_at": "2026-11-25T05:11:33+00:00",
+      "updated_at": "2026-11-25T05:11:33+00:00",
+      "title": "Liberated in Lille: How Ethan Mbappe has emerged from Kylian’s shadow",
+      "summary": "Read the full report at The Athletic.",
       "category": [
-        "Sverige"
+        "Football"
       ],
-      "status": "Confirmed",
-      "entity": "",
+      "status": "Highly credible",
+      "entity": "kylian-mbappe",
       "entity_type": "players",
       "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.74/0.36/f4f43c108d6e3033e9983b92359b489857cfbd6abd1510e4832e9a79e5c61a6a",
+      "image": "",
       "sources": [
         {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/tony-gustavsson-rojer-hemliga-messet-dar-stannar-vi"
+          "name": "The Athletic",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/tony-gustavsson-rojer-hemliga-messet-dar-stannar-vi"
+        "name": "The Athletic",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "tony-gustavsson-r-jer-hemliga-messet-d-r-stannar-vi"
-    },
-    {
-      "published_at": "2026-11-25T20:15:29+00:00",
-      "updated_at": "2026-11-25T20:15:29+00:00",
-      "title": "Alexander Isak tvåmålsskytt i Champions League",
-      "summary": "Anfallsstjärnan gjorde två mål i Liverpools seger borta mot Club Brügge i Champions League. – Det är ett underbart avslut från Isak, säger BBC-experten Chris Sutton om 3–0-målet",
-      "category": [
-        "Sverige"
-      ],
-      "status": "Confirmed",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://www.svtstatic.se/image-news/1200/1.91:1/0.39/0.37/2c4c20d793675c676aca130ab1187036e1fecdf5a4daaa410f64ef3c230fa59b",
-      "sources": [
-        {
-          "name": "SVT Sport",
-          "url": "https://www.svt.se/sport/fotboll/alexander-isak-slar-till-i-champions-league"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "SVT Sport",
-        "url": "https://www.svt.se/sport/fotboll/alexander-isak-slar-till-i-champions-league"
-      },
-      "confirmed_by": [],
-      "id": "alexander-isak-tv-m-lsskytt-i-champions-league"
+      "id": "liberated-in-lille-how-ethan-mbappe-has-emerged-from-kylian-s-shadow"
     },
     {
       "published_at": "2026-11-24T22:02:11+00:00",
@@ -1412,33 +1495,6 @@
       "id": "jj-gabriel-attends-real-madrid-vs-psv-ahead-of-expected-move-from-manchester-united"
     },
     {
-      "published_at": "2026-11-21T05:26:43+00:00",
-      "updated_at": "2026-11-21T05:26:43+00:00",
-      "title": "Real Madrid’s giant analysis screen and what it says about Jose Mourinho’s training",
-      "summary": "Read the full report at The Athletic.",
-      "category": [
-        "La Liga"
-      ],
-      "status": "Highly credible",
-      "entity": "",
-      "entity_type": "players",
-      "club": "real-madrid",
-      "image": "",
-      "sources": [
-        {
-          "name": "The Athletic",
-          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "The Athletic",
-        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
-      },
-      "confirmed_by": [],
-      "id": "real-madrid-s-giant-analysis-screen-and-what-it-says-about-jose-mourinho-s-training"
-    },
-    {
       "published_at": "2026-11-20T05:15:55+00:00",
       "updated_at": "2026-11-20T05:15:55+00:00",
       "title": "Serie A, the new home of goals and young stars",
@@ -1466,69 +1522,6 @@
       "id": "serie-a-the-new-home-of-goals-and-young-stars"
     },
     {
-      "published_at": "2026-11-26T21:07:55+00:00",
-      "updated_at": "2026-11-26T21:07:55+00:00",
-      "title": "Sunderland v Jagiellonia Bialystok, Crystal Palace v Real Sociedad, and more: Europa League – live",
-      "summary": "⚽️ Updates from Thursday’s 8pm GMT matches ⚽️ Live scoreboard | Read Football Daily | Email Will One man down? No problem as the Brazilian put the Cherries ahead. Sunderland: Roefs, Hume, Danso, Alderete, Mandava, Fofana, Sadiki, Rigg, Le Fee, Nilson Angulo, Tutierov.",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Confirmed by multiple sources",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/sunderland-vs-jagiellonia-bialystok/live/577827"
-        },
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/nov/26/sunderland-v-jagiellonia-bialystok-crystal-palace-v-real-sociedad-and-more-europa-league-live"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/sunderland-vs-jagiellonia-bialystok/live/577827"
-      },
-      "confirmed_by": [
-        {
-          "name": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/nov/26/sunderland-v-jagiellonia-bialystok-crystal-palace-v-real-sociedad-and-more-europa-league-live"
-        }
-      ],
-      "id": "sunderland-v-jagiellonia-bialystok-crystal-palace-v-real-sociedad-and-more-europa-league-l"
-    },
-    {
-      "published_at": "2026-11-25T22:59:00+00:00",
-      "updated_at": "2026-11-25T22:59:00+00:00",
-      "title": "Liverpool latest: Munoz adds to injury concern ahead of derby",
-      "summary": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "category": [
-        "Premier League"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "liverpool",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-liverpool-club-blog_7326701.jpg?20260820165421&outputformat=webp",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-      },
-      "confirmed_by": [],
-      "id": "liverpool-latest-munoz-adds-to-injury-concern-ahead-of-derby"
-    },
-    {
       "published_at": "2026-11-26T20:00:00+00:00",
       "updated_at": "2026-11-26T20:00:00+00:00",
       "title": "Bournemouth make European history after coming from behind to beat Celta Vigo",
@@ -1554,33 +1547,6 @@
       },
       "confirmed_by": [],
       "id": "bournemouth-make-european-history-after-coming-from-behind-to-beat-celta-vigo"
-    },
-    {
-      "published_at": "2026-11-26T19:00:00+00:00",
-      "updated_at": "2026-11-26T19:00:00+00:00",
-      "title": "Eckert: Time to 'close the chapter' on Spygate ahead of Boro reunion",
-      "summary": "\"I think we've experienced a little bit more in the last 12 months than normal.\"",
-      "category": [
-        "Football"
-      ],
-      "status": "Reported",
-      "entity": "",
-      "entity_type": "players",
-      "club": "",
-      "image": "https://e0.365dm.com/26/08/1600x900/skysports-tonda-eckert-southampton_7324138.jpg?20260817143551&outputformat=webp",
-      "sources": [
-        {
-          "name": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13616785/tonda-eckert-southampton-boss-wants-to-close-the-chapter-on-spygate-ahead-of-middlesbrough-reunion"
-        }
-      ],
-      "language": "en",
-      "main_source": {
-        "name": "Sky Sports",
-        "url": "https://www.skysports.com/football/news/11095/13616785/tonda-eckert-southampton-boss-wants-to-close-the-chapter-on-spygate-ahead-of-middlesbrough-reunion"
-      },
-      "confirmed_by": [],
-      "id": "eckert-time-to-close-the-chapter-on-spygate-ahead-of-boro-reunion"
     },
     {
       "published_at": "2026-11-26T16:00:00+00:00",
@@ -1692,31 +1658,112 @@
       "id": "yoro-red-card-written-reasons-for-overturned-decision-revealed"
     },
     {
-      "published_at": "2026-11-26T21:01:17+00:00",
-      "updated_at": "2026-11-26T21:01:17+00:00",
-      "title": "FC Rosengård räddas kvar i Damallsvenskan - efter KIF Örebros konkurs",
-      "summary": "FC Rosengård får spela i Damallsvenskan även nästa säsong. Trots att Malmöklubben förlorade kvalet mot KIF Örebro har Svenska Fotbollförbundet nu beslutat att tilldela Rosengård platsen efter Örebroklubbens konkurs. ”Vi ska lära av säsongen som gått”, säger vd:n Linga Magnertoft",
+      "published_at": "2026-11-26T10:30:00+00:00",
+      "updated_at": "2026-11-26T10:30:00+00:00",
+      "title": "Osman stars as Brighton bounce back with Conference League win",
+      "summary": "Ibrahim Osman scored his first Brighton goals as his side returned to winning ways by cruising to a 4-0 success over 10-man Universitatea Craiova in the Conference League",
       "category": [
-        "Sverige"
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "brighton",
+      "image": "https://e0.365dm.com/26/11/1600x900/skysports-brighton-ibrahim-osman_7417345.jpg?20261126183808&outputformat=webp",
+      "sources": [
+        {
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-cs-universitatea-craiova/report/577942"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/brighton-and-hove-albion-vs-cs-universitatea-craiova/report/577942"
+      },
+      "confirmed_by": [],
+      "id": "osman-stars-as-brighton-bounce-back-with-conference-league-win"
+    },
+    {
+      "published_at": "2026-11-26T09:48:00+00:00",
+      "updated_at": "2026-11-26T09:48:00+00:00",
+      "title": "Sunderland held by Jagiellonia as banned travelling fans ejected",
+      "summary": "Sunderland have expressed their disappointment after some Jagiellonia Bialystok fans were in attendance in home areas during their 1-1 Europa League draw at the Stadium of Light",
+      "category": [
+        "Football"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/KDuEqCtzpuHcpaVhMksIok6aUDwpVU77ztmmzDTy.jpg",
+      "image": "https://e0.365dm.com/26/11/1600x900/skysports-timur-tutierov-sunderland_7417480.jpg?20261126220852&outputformat=webp",
       "sources": [
         {
-          "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/fc-rosengard-raddas-kvar-i-damallsvenskan-efter-kif-orebros-konkurs-703814"
+          "name": "Sky Sports",
+          "url": "https://www.skysports.com/football/sunderland-vs-jagiellonia-bialystok/report/577827"
         }
       ],
       "language": "en",
       "main_source": {
-        "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/fc-rosengard-raddas-kvar-i-damallsvenskan-efter-kif-orebros-konkurs-703814"
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com/football/sunderland-vs-jagiellonia-bialystok/report/577827"
       },
       "confirmed_by": [],
-      "id": "fc-roseng-rd-r-ddas-kvar-i-damallsvenskan-efter-kif-rebros-konkurs"
+      "id": "sunderland-held-by-jagiellonia-as-banned-travelling-fans-ejected"
+    },
+    {
+      "published_at": "2026-11-26T16:39:00+00:00",
+      "updated_at": "2026-11-26T16:39:00+00:00",
+      "title": "‘Not Bayern-like’: Joshua Kimmich fumes at club’s treatment of Jamal Musiala",
+      "summary": "Read the full report at The Guardian.",
+      "category": [
+        "Bundesliga"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "bayern-munich",
+      "image": "",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
+      },
+      "confirmed_by": [],
+      "id": "not-bayern-like-joshua-kimmich-fumes-at-club-s-treatment-of-jamal-musiala"
+    },
+    {
+      "published_at": "2026-11-26T14:00:37+00:00",
+      "updated_at": "2026-11-26T14:00:37+00:00",
+      "title": "David Squires on … youth development and nightmare parents on the touchline",
+      "summary": "Our cartoonist on those parents who live vicariously through the successes of their children on the football pitch Continue reading",
+      "category": [
+        "Football"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://i.guim.co.uk/img/media/226857dec500c8ed3f20e08f1d2452ed8e4af411/113_1037_855_683/master/855.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=909dd44f62dbf2cf51b3ddb66828ea4f",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/sport/picture/2026/nov/27/david-squires-cartoon-youth-development-and-nightmare-football-parents"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/sport/picture/2026/nov/27/david-squires-cartoon-youth-development-and-nightmare-football-parents"
+      },
+      "confirmed_by": [],
+      "id": "david-squires-on-youth-development-and-nightmare-parents-on-the-touchline"
     },
     {
       "published_at": "2026-11-26T19:31:42+00:00",
@@ -1829,8 +1876,8 @@
     {
       "published_at": "2026-11-26T14:00:00+00:00",
       "updated_at": "2026-11-26T14:00:00+00:00",
-      "title": "Fullbokat på Uppsalas sportbarer inför avgörandet i Allsvenskan",
-      "summary": "På söndag avgörs Allsvenskan och i Uppsala förbereder sig sportbarerna för ett stort supportertryck. Både O'Learys i Gränbystaden och Interpool har fullbokade restauranger inför Sirius avgörande match mot IFK Göteborg",
+      "title": "Anna Anvegård saknas på landslagets träning",
+      "summary": "Anna Anvegård har missat två raka träningar med det svenska damlandslaget inför VM-playoffen mot Skottland. Men enligt landslagets pressansvariga Lisa Eskils finns det ingen anledning till oro. ”Det är enligt hennes återhämtningsplan.",
       "category": [
         "Sverige"
       ],
@@ -1838,20 +1885,20 @@
       "entity": "",
       "entity_type": "players",
       "club": "",
-      "image": "https://imgk.svenskafans.com/articlemedia/image-original/JN361bnA2MLtn200ym1MaMW8EwyTYdhbh1htf3C1.jpg",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/SHu9FbTCccKIG4toRw3aofZ0a6LTOhKETUlxiByy.jpg",
       "sources": [
         {
           "name": "SvenskaFans",
-          "url": "https://www.svenskafans.com/fotboll/fullbokat-pa-uppsalas-sportbarer-infor-avgorandet-i-allsvenskan-703781"
+          "url": "https://www.svenskafans.com/fotboll/anna-anvegard-saknas-pa-landslagets-traning-703795"
         }
       ],
       "language": "en",
       "main_source": {
         "name": "SvenskaFans",
-        "url": "https://www.svenskafans.com/fotboll/fullbokat-pa-uppsalas-sportbarer-infor-avgorandet-i-allsvenskan-703781"
+        "url": "https://www.svenskafans.com/fotboll/anna-anvegard-saknas-pa-landslagets-traning-703795"
       },
       "confirmed_by": [],
-      "id": "fullbokat-p-uppsalas-sportbarer-inf-r-avg-randet-i-allsvenskan"
+      "id": "anna-anveg-rd-saknas-p-landslagets-tr-ning"
     },
     {
       "published_at": "2026-11-26T14:00:00+00:00",
@@ -1881,6 +1928,60 @@
       "id": "fullbokat-p-s-dermalm-inf-r-hammarbys-guldjakt-k-pt-guldhattar-isfacklor-och-mycket-skumpa"
     },
     {
+      "published_at": "2026-11-26T14:00:00+00:00",
+      "updated_at": "2026-11-26T14:00:00+00:00",
+      "title": "Fullbokat på Uppsalas sportbarer inför avgörandet i Allsvenskan",
+      "summary": "På söndag avgörs Allsvenskan och i Uppsala förbereder sig sportbarerna för ett stort supportertryck. Både O'Learys i Gränbystaden och Interpool har fullbokade restauranger inför Sirius avgörande match mot IFK Göteborg",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/JN361bnA2MLtn200ym1MaMW8EwyTYdhbh1htf3C1.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/fullbokat-pa-uppsalas-sportbarer-infor-avgorandet-i-allsvenskan-703781"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/fullbokat-pa-uppsalas-sportbarer-infor-avgorandet-i-allsvenskan-703781"
+      },
+      "confirmed_by": [],
+      "id": "fullbokat-p-uppsalas-sportbarer-inf-r-avg-randet-i-allsvenskan"
+    },
+    {
+      "published_at": "2026-11-25T22:57:00+00:00",
+      "updated_at": "2026-11-25T22:57:00+00:00",
+      "title": "Luca Williams-Barnett – Från Lucas Moura till A-laget",
+      "summary": "Från att ha åkt bil med Lucas Moura till att själv göra mål i Premier League. Luca Williams-Barnett har äntligen fått chansen i Tottenhams A-lag efter flera år i akademin. Men jag tycker att han borde ha fått möjligheten betydligt tidigare.",
+      "category": [
+        "Sverige"
+      ],
+      "status": "Reported",
+      "entity": "",
+      "entity_type": "players",
+      "club": "",
+      "image": "https://imgk.svenskafans.com/articlemedia/image-original/3X9b7ck0FGPkHwH35wrznyXZwelByxmyL22Ij4HX.jpg",
+      "sources": [
+        {
+          "name": "SvenskaFans",
+          "url": "https://www.svenskafans.com/fotboll/luca-williams-barnett-fran-lucas-moura-till-a-laget-703784"
+        }
+      ],
+      "language": "en",
+      "main_source": {
+        "name": "SvenskaFans",
+        "url": "https://www.svenskafans.com/fotboll/luca-williams-barnett-fran-lucas-moura-till-a-laget-703784"
+      },
+      "confirmed_by": [],
+      "id": "luca-williams-barnett-fr-n-lucas-moura-till-a-laget"
+    },
+    {
       "published_at": "2026-11-26T20:17:11+00:00",
       "updated_at": "2026-11-26T20:17:11+00:00",
       "title": "Lyon vs. Lillestrom (26 Nov, 2026) Team Stats",
@@ -1908,17 +2009,17 @@
       "id": "lyon-vs-lillestrom-26-nov-2026-team-stats"
     },
     {
-      "published_at": "2026-11-24T10:00:00+00:00",
-      "updated_at": "2026-11-24T10:00:00+00:00",
-      "title": "PSG drop one of season's best kits in latest Jordan collab",
+      "published_at": "2026-11-24T09:00:00+00:00",
+      "updated_at": "2026-11-24T09:00:00+00:00",
+      "title": "Lazio are top of Serie A despite playing without their fans",
       "summary": "Read the full report at ESPN.",
       "category": [
-        "Ligue 1"
+        "Serie A"
       ],
       "status": "Reported",
       "entity": "",
       "entity_type": "players",
-      "club": "psg",
+      "club": "",
       "image": "",
       "sources": [
         {
@@ -1932,7 +2033,7 @@
         "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16"
       },
       "confirmed_by": [],
-      "id": "psg-drop-one-of-season-s-best-kits-in-latest-jordan-collab"
+      "id": "lazio-are-top-of-serie-a-despite-playing-without-their-fans"
     },
     {
       "published_at": "2026-11-26T19:52:47+00:00",
